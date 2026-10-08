@@ -398,7 +398,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "PIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")",
+        "peekOfCode": "PIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -407,7 +407,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "TELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")",
+        "peekOfCode": "TELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -416,7 +416,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "TELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")",
+        "peekOfCode": "TELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -425,7 +425,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "YT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----",
+        "peekOfCode": "YT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -434,7 +434,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "YT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")",
+        "peekOfCode": "YT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -443,7 +443,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "YT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")",
+        "peekOfCode": "YT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -452,7 +452,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "IG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.",
+        "peekOfCode": "IG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -461,7 +461,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "IG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.\nCOUNTRIES = [c.strip() for c in env(\"NEWS_COUNTRIES\", \"IN,SG,MY,PH,PK\").split(\",\") if c.strip()]",
+        "peekOfCode": "IG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.\nCOUNTRIES = [c.strip() for c in env(\"NEWS_COUNTRIES\", \"IN,SG,MY,PH,PK\").split(\",\") if c.strip()]",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -470,7 +470,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "GEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.\nCOUNTRIES = [c.strip() for c in env(\"NEWS_COUNTRIES\", \"IN,SG,MY,PH,PK\").split(\",\") if c.strip()]\nSEARCH_QUERIES = [q.strip() for q in env(\n    \"NEWS_QUERIES\",",
+        "peekOfCode": "GEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-3.8-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.\nCOUNTRIES = [c.strip() for c in env(\"NEWS_COUNTRIES\", \"IN,SG,MY,PH,PK\").split(\",\") if c.strip()]\nSEARCH_QUERIES = [q.strip() for q in env(\n    \"NEWS_QUERIES\",",
         "detail": "pipeline.config",
         "documentation": {}
     },
