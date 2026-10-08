@@ -1,0 +1,12 @@
+requests>=2.31
+feedparser>=6.0
+rapidfuzz>=3.6
+googlenewsdecoder>=0.1.7
+trafilatura>=1.12
+openai>=1.40
+pydantic>=2.6
+edge-tts>=6.1.12
+faster-whisper>=1.0.3
+playwright>=1.45
+google-api-python-client>=2.130
+google-auth>=2.29

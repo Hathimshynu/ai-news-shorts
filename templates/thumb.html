@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 100%; height: 100%; overflow: hidden; background: #0b0f1a; }
+  body { font-family: "Noto Sans", "DejaVu Sans", Arial, sans-serif; position: relative; }
+  .bg { position: absolute; inset: 0; background: url("{{BG}}") center/cover no-repeat; filter: saturate(1.2) brightness(.55); }
+  .shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(11,15,26,.1) 0%, rgba(11,15,26,.85) 75%); }
+  .wrap { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; padding: 6vmin; gap: 3vmin; }
+  .tag { align-self: flex-start; background: #ff3b30; color: #fff; font-weight: 800; letter-spacing: .08em;
+         font-size: 4vmin; padding: 1.2vmin 2.4vmin; border-radius: 1vmin; text-transform: uppercase; }
+  h1 { color: #fff; font-weight: 900; text-transform: uppercase; line-height: 1.02;
+       font-size: {{SIZE}}; text-shadow: 0 .6vmin 2vmin rgba(0,0,0,.6); }
+  h1 em { font-style: normal; color: #ffd60a; }
+  .brand { color: #cfd6e4; font-weight: 700; font-size: 3.4vmin; }
+</style>
+</head>
+<body>
+  <div class="bg"></div>
+  <div class="shade"></div>
+  <div class="wrap">
+    <div class="tag">Tech News</div>
+    <h1>{{TEXT}}</h1>
+    <div class="brand">{{BRAND}}</div>
+  </div>
+</body>
+</html>
