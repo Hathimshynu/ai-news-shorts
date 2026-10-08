@@ -1,0 +1,42 @@
+name: Publish approved short
+
+on:
+  schedule:
+    - cron: "30 13 * * *"  # 13:30 UTC = 7:00 PM IST
+  workflow_dispatch: {}
+
+permissions:
+  actions: read     # to download the artifact from the produce run
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python packages
+        run: pip install requests google-api-python-client google-auth
+
+      - name: Download today's video
+        run: |
+          RUN_ID=$(gh run list --workflow produce.yml --status success --limit 1 --json databaseId,createdAt \
+            --jq '.[0] | select((.createdAt | fromdateiso8601) > (now - 86400)) | .databaseId')
+          if [ -z "$RUN_ID" ]; then echo "No successful produce run in the last 24h"; exit 0; fi
+          gh run download "$RUN_ID" --name short --dir out
+
+      - name: Publish
+        run: python -m pipeline.publish
