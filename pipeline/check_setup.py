@@ -2,7 +2,7 @@
 python -m pipeline.check_setup"""
 import requests
 
-from . import config, telegram_bot
+from . import config, instagram, telegram_bot
 
 
 def check(name, fn):
@@ -32,7 +32,11 @@ def main():
         check("Telegram", lambda: telegram_bot.send_message("✅ AI News Shorts setup check: Telegram works.")["message_id"]),
         check("YouTube", lambda: f"channel = {__import__('pipeline.youtube', fromlist=['x']).channel_title()}"),
     ]
-    print(f"\n{sum(results)}/{len(results)} checks passed. At least one LLM must pass; all others are required.")
+    if instagram.enabled():
+        results.append(check("Instagram", lambda: f"account = @{instagram.username()}"))
+    else:
+        print("SKIP Instagram: IG_USER_ID / IG_ACCESS_TOKEN not set")
+    print(f"\n{sum(results)}/{len(results)} checks passed. At least one LLM must pass; all others are required (Instagram optional).")
 
 
 if __name__ == "__main__":

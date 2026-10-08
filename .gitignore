@@ -1,0 +1,7 @@
+out/
+renderer/node_modules/
+renderer/public/job/
+__pycache__/
+*.pyc
+.env
+client_secret*.json

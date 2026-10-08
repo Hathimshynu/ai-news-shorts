@@ -13,7 +13,8 @@ Runs entirely on GitHub Actions. No server, no card.
   -> Telegram: video + Approve / Reject buttons
 
 7:00 PM IST  publish.yml
-  reads your button press -> uploads to YouTube (private until API audit approved) -> sends you the link
+  reads your button press -> uploads to YouTube (private until API audit approved)
+  -> posts the Reel to Instagram (if IG secrets are set) -> sends you the links
 ```
 
 ## Setup (one time)
@@ -43,6 +44,21 @@ Runs entirely on GitHub Actions. No server, no card.
 
 4. **Settings -> Actions -> General -> Workflow permissions**: choose **Read and write permissions** (the produce run saves used topics).
 5. Optional: put 2-3 royalty-free `.mp3` tracks (YouTube Audio Library) in `renderer/public/music/`. One is picked at random at low volume.
+
+## Instagram setup (optional)
+
+Requirements: Instagram **Professional** account (Creator or Business), linked to a **Facebook Page** you manage.
+
+1. developers.facebook.com -> My Apps -> Create app -> use case **Other** -> type **Business**.
+2. In the app, add the **Instagram** product (API setup with **Facebook login**).
+3. Open **Tools -> Graph API Explorer**, pick your app, click **Generate Access Token**, and add the permissions:
+   `instagram_basic, instagram_content_publish, pages_show_list, pages_read_engagement, business_management`.
+   Tick your Page and your Instagram account when Facebook asks.
+4. Run `scripts/instagram_token.py` (paste it into a Colab code cell). Enter App ID, App Secret (App settings -> Basic) and the token.
+5. Add the two values it prints as secrets `IG_USER_ID` and `IG_ACCESS_TOKEN`.
+6. Run **Check setup**: the Instagram line should say `OK account = @yourname`.
+
+The app can stay in Development mode because it only posts to your own account. Instagram allows up to 50 API posts per day.
 
 ## Test
 

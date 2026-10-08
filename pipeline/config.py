@@ -27,6 +27,8 @@ TELEGRAM_CHAT_ID = env("TELEGRAM_CHAT_ID")
 YT_CLIENT_ID = env("YT_CLIENT_ID")
 YT_CLIENT_SECRET = env("YT_CLIENT_SECRET")
 YT_REFRESH_TOKEN = env("YT_REFRESH_TOKEN")
+IG_USER_ID = env("IG_USER_ID")            # optional: Instagram publishing
+IG_ACCESS_TOKEN = env("IG_ACCESS_TOKEN")
 
 # ---- Models (change here when a provider renames a model) ----
 GEMINI_MODEL = env("GEMINI_MODEL", "gemini-2.5-flash")

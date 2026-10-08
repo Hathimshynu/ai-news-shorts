@@ -42,6 +42,15 @@
         "documentation": {}
     },
     {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
         "label": "json",
         "kind": 6,
         "isExtraImport": true,
@@ -229,15 +238,6 @@
         "documentation": {}
     },
     {
-        "label": "time",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "time",
-        "description": "time",
-        "detail": "time",
-        "documentation": {}
-    },
-    {
         "label": "quote_plus",
         "importPath": "urllib.parse",
         "description": "urllib.parse",
@@ -371,7 +371,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "GEMINI_API_KEY = env(\"GEMINI_API_KEY\")\nGROQ_API_KEY = env(\"GROQ_API_KEY\")\nOPENROUTER_API_KEY = env(\"OPENROUTER_API_KEY\")\nPIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----",
+        "peekOfCode": "GEMINI_API_KEY = env(\"GEMINI_API_KEY\")\nGROQ_API_KEY = env(\"GROQ_API_KEY\")\nOPENROUTER_API_KEY = env(\"OPENROUTER_API_KEY\")\nPIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -380,7 +380,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "GROQ_API_KEY = env(\"GROQ_API_KEY\")\nOPENROUTER_API_KEY = env(\"OPENROUTER_API_KEY\")\nPIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")",
+        "peekOfCode": "GROQ_API_KEY = env(\"GROQ_API_KEY\")\nOPENROUTER_API_KEY = env(\"OPENROUTER_API_KEY\")\nPIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -389,7 +389,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "OPENROUTER_API_KEY = env(\"OPENROUTER_API_KEY\")\nPIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")",
+        "peekOfCode": "OPENROUTER_API_KEY = env(\"OPENROUTER_API_KEY\")\nPIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -398,7 +398,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "PIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")",
+        "peekOfCode": "PIXABAY_API_KEY = env(\"PIXABAY_API_KEY\")\nTELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -407,7 +407,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "TELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----",
+        "peekOfCode": "TELEGRAM_BOT_TOKEN = env(\"TELEGRAM_BOT_TOKEN\")\nTELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -416,7 +416,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "TELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")",
+        "peekOfCode": "TELEGRAM_CHAT_ID = env(\"TELEGRAM_CHAT_ID\")\nYT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -425,7 +425,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "YT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")",
+        "peekOfCode": "YT_CLIENT_ID = env(\"YT_CLIENT_ID\")\nYT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -434,7 +434,7 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "YT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.",
+        "peekOfCode": "YT_CLIENT_SECRET = env(\"YT_CLIENT_SECRET\")\nYT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -443,7 +443,25 @@
         "kind": 5,
         "importPath": "pipeline.config",
         "description": "pipeline.config",
-        "peekOfCode": "YT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.\nCOUNTRIES = [c.strip() for c in env(\"NEWS_COUNTRIES\", \"IN,SG,MY,PH,PK\").split(\",\") if c.strip()]",
+        "peekOfCode": "YT_REFRESH_TOKEN = env(\"YT_REFRESH_TOKEN\")\nIG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")",
+        "detail": "pipeline.config",
+        "documentation": {}
+    },
+    {
+        "label": "IG_USER_ID",
+        "kind": 5,
+        "importPath": "pipeline.config",
+        "description": "pipeline.config",
+        "peekOfCode": "IG_USER_ID = env(\"IG_USER_ID\")            # optional: Instagram publishing\nIG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.",
+        "detail": "pipeline.config",
+        "documentation": {}
+    },
+    {
+        "label": "IG_ACCESS_TOKEN",
+        "kind": 5,
+        "importPath": "pipeline.config",
+        "description": "pipeline.config",
+        "peekOfCode": "IG_ACCESS_TOKEN = env(\"IG_ACCESS_TOKEN\")\n# ---- Models (change here when a provider renames a model) ----\nGEMINI_MODEL = env(\"GEMINI_MODEL\", \"gemini-2.5-flash\")\nGROQ_MODEL = env(\"GROQ_MODEL\", \"llama-3.3-70b-versatile\")\nOPENROUTER_MODEL = env(\"OPENROUTER_MODEL\", \"meta-llama/llama-3.3-70b-instruct:free\")\n# ---- Content settings ----\nCHANNEL_NAME = env(\"CHANNEL_NAME\", \"AI News Shorts\")\nCHANNEL_HANDLE = env(\"CHANNEL_HANDLE\", \"@ainewsshorts\")\n# Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.\nCOUNTRIES = [c.strip() for c in env(\"NEWS_COUNTRIES\", \"IN,SG,MY,PH,PK\").split(\",\") if c.strip()]",
         "detail": "pipeline.config",
         "documentation": {}
     },
@@ -589,6 +607,51 @@
         "description": "pipeline.config",
         "peekOfCode": "AFFILIATE_FOOTER = env(\"AFFILIATE_FOOTER\", \"\")  # e.g. ebook / affiliate links appended to every description",
         "detail": "pipeline.config",
+        "documentation": {}
+    },
+    {
+        "label": "enabled",
+        "kind": 2,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "def enabled():\n    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN)\ndef _check(resp):\n    data = resp.json()\n    if resp.status_code >= 400 or \"error\" in data:\n        raise RuntimeError(f\"Instagram API error: {data.get('error', data)}\")\n    return data\ndef username():\n    r = requests.get(f\"{GRAPH}/{config.IG_USER_ID}\", params={\n        \"fields\": \"username\", \"access_token\": config.IG_ACCESS_TOKEN}, timeout=30)",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "username",
+        "kind": 2,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "def username():\n    r = requests.get(f\"{GRAPH}/{config.IG_USER_ID}\", params={\n        \"fields\": \"username\", \"access_token\": config.IG_ACCESS_TOKEN}, timeout=30)\n    return _check(r)[\"username\"]\ndef build_caption(meta):\n    \"\"\"Instagram captions: max 2,200 characters and 30 hashtags. Links aren't clickable, so keep it short.\"\"\"\n    hashtags = []\n    for h in meta.get(\"hashtags\", []) + [\"#technews\", \"#ainews\", \"#techindia\", \"#reels\"]:\n        h = h if h.startswith(\"#\") else f\"#{h}\"\n        if h.lower() != \"#shorts\" and h.lower() not in [x.lower() for x in hashtags]:",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "build_caption",
+        "kind": 2,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "def build_caption(meta):\n    \"\"\"Instagram captions: max 2,200 characters and 30 hashtags. Links aren't clickable, so keep it short.\"\"\"\n    hashtags = []\n    for h in meta.get(\"hashtags\", []) + [\"#technews\", \"#ainews\", \"#techindia\", \"#reels\"]:\n        h = h if h.startswith(\"#\") else f\"#{h}\"\n        if h.lower() != \"#shorts\" and h.lower() not in [x.lower() for x in hashtags]:\n            hashtags.append(h)\n    summary = meta[\"description\"].split(\"\\nSources:\")[0].split(\"\\n\\nThis video uses\")[0].strip()\n    from urllib.parse import urlparse\n    domains = []",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "publish_reel",
+        "kind": 2,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "def publish_reel(video_path, caption):\n    token = config.IG_ACCESS_TOKEN\n    headers = {\"Authorization\": f\"OAuth {token}\"}\n    # 1. Create a resumable Reel container\n    container = _check(requests.post(f\"{GRAPH}/{config.IG_USER_ID}/media\", data={\n        \"media_type\": \"REELS\", \"upload_type\": \"resumable\", \"caption\": caption,\n        \"share_to_feed\": \"true\", \"thumb_offset\": \"0\", \"access_token\": token,\n    }, timeout=60))\n    cid = container[\"id\"]\n    upload_uri = container.get(\"uri\") or f\"https://rupload.facebook.com/ig-api-upload/v21.0/{cid}\"",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "GRAPH",
+        "kind": 5,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "GRAPH = \"https://graph.facebook.com/v21.0\"\ndef enabled():\n    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN)\ndef _check(resp):\n    data = resp.json()\n    if resp.status_code >= 400 or \"error\" in data:\n        raise RuntimeError(f\"Instagram API error: {data.get('error', data)}\")\n    return data\ndef username():\n    r = requests.get(f\"{GRAPH}/{config.IG_USER_ID}\", params={",
+        "detail": "pipeline.instagram",
         "documentation": {}
     },
     {
@@ -931,6 +994,78 @@
         "description": "pipeline.youtube",
         "peekOfCode": "SCOPES = [\"https://www.googleapis.com/auth/youtube.upload\", \"https://www.googleapis.com/auth/youtube\"]\ndef client():\n    creds = Credentials(\n        token=None,\n        refresh_token=config.YT_REFRESH_TOKEN,\n        client_id=config.YT_CLIENT_ID,\n        client_secret=config.YT_CLIENT_SECRET,\n        token_uri=\"https://oauth2.googleapis.com/token\",\n        scopes=SCOPES,\n    )",
         "detail": "pipeline.youtube",
+        "documentation": {}
+    },
+    {
+        "label": "G",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "G = \"https://graph.facebook.com/v21.0\"\napp_id = input(\"App ID: \").strip()\napp_secret = input(\"App Secret: \").strip()\nshort_token = input(\"User token from Graph API Explorer: \").strip()\n# 1. Short-lived user token -> long-lived user token (60 days)\nr = requests.get(f\"{G}/oauth/access_token\", params={\n    \"grant_type\": \"fb_exchange_token\", \"client_id\": app_id,\n    \"client_secret\": app_secret, \"fb_exchange_token\": short_token}).json()\nif \"access_token\" not in r:\n    raise SystemExit(f\"Token exchange failed: {r}\")",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "app_id",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "app_id = input(\"App ID: \").strip()\napp_secret = input(\"App Secret: \").strip()\nshort_token = input(\"User token from Graph API Explorer: \").strip()\n# 1. Short-lived user token -> long-lived user token (60 days)\nr = requests.get(f\"{G}/oauth/access_token\", params={\n    \"grant_type\": \"fb_exchange_token\", \"client_id\": app_id,\n    \"client_secret\": app_secret, \"fb_exchange_token\": short_token}).json()\nif \"access_token\" not in r:\n    raise SystemExit(f\"Token exchange failed: {r}\")\nlong_user = r[\"access_token\"]",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "app_secret",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "app_secret = input(\"App Secret: \").strip()\nshort_token = input(\"User token from Graph API Explorer: \").strip()\n# 1. Short-lived user token -> long-lived user token (60 days)\nr = requests.get(f\"{G}/oauth/access_token\", params={\n    \"grant_type\": \"fb_exchange_token\", \"client_id\": app_id,\n    \"client_secret\": app_secret, \"fb_exchange_token\": short_token}).json()\nif \"access_token\" not in r:\n    raise SystemExit(f\"Token exchange failed: {r}\")\nlong_user = r[\"access_token\"]\n# 2. Pages you manage -> Page token (does not expire when made from a long-lived user token)",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "short_token",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "short_token = input(\"User token from Graph API Explorer: \").strip()\n# 1. Short-lived user token -> long-lived user token (60 days)\nr = requests.get(f\"{G}/oauth/access_token\", params={\n    \"grant_type\": \"fb_exchange_token\", \"client_id\": app_id,\n    \"client_secret\": app_secret, \"fb_exchange_token\": short_token}).json()\nif \"access_token\" not in r:\n    raise SystemExit(f\"Token exchange failed: {r}\")\nlong_user = r[\"access_token\"]\n# 2. Pages you manage -> Page token (does not expire when made from a long-lived user token)\npages = requests.get(f\"{G}/me/accounts\", params={",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "r",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "r = requests.get(f\"{G}/oauth/access_token\", params={\n    \"grant_type\": \"fb_exchange_token\", \"client_id\": app_id,\n    \"client_secret\": app_secret, \"fb_exchange_token\": short_token}).json()\nif \"access_token\" not in r:\n    raise SystemExit(f\"Token exchange failed: {r}\")\nlong_user = r[\"access_token\"]\n# 2. Pages you manage -> Page token (does not expire when made from a long-lived user token)\npages = requests.get(f\"{G}/me/accounts\", params={\n    \"access_token\": long_user, \"fields\": \"id,name,access_token,instagram_business_account{id,username}\"}).json()\nfound = False",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "long_user",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "long_user = r[\"access_token\"]\n# 2. Pages you manage -> Page token (does not expire when made from a long-lived user token)\npages = requests.get(f\"{G}/me/accounts\", params={\n    \"access_token\": long_user, \"fields\": \"id,name,access_token,instagram_business_account{id,username}\"}).json()\nfound = False\nfor p in pages.get(\"data\", []):\n    ig = p.get(\"instagram_business_account\")\n    print(f\"\\nPage: {p['name']} (id {p['id']})\")\n    if not ig:\n        print(\"  No Instagram professional account linked to this Page.\")",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "pages",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "pages = requests.get(f\"{G}/me/accounts\", params={\n    \"access_token\": long_user, \"fields\": \"id,name,access_token,instagram_business_account{id,username}\"}).json()\nfound = False\nfor p in pages.get(\"data\", []):\n    ig = p.get(\"instagram_business_account\")\n    print(f\"\\nPage: {p['name']} (id {p['id']})\")\n    if not ig:\n        print(\"  No Instagram professional account linked to this Page.\")\n        continue\n    found = True",
+        "detail": "scripts.instagram_token",
+        "documentation": {}
+    },
+    {
+        "label": "found",
+        "kind": 5,
+        "importPath": "scripts.instagram_token",
+        "description": "scripts.instagram_token",
+        "peekOfCode": "found = False\nfor p in pages.get(\"data\", []):\n    ig = p.get(\"instagram_business_account\")\n    print(f\"\\nPage: {p['name']} (id {p['id']})\")\n    if not ig:\n        print(\"  No Instagram professional account linked to this Page.\")\n        continue\n    found = True\n    print(f\"  Instagram: @{ig.get('username')}\")\n    print(\"\\n==== Add these as GitHub Secrets ====\")",
+        "detail": "scripts.instagram_token",
         "documentation": {}
     }
 ]

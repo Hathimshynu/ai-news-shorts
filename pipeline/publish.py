@@ -4,7 +4,7 @@ import json
 import sys
 import traceback
 
-from . import config, telegram_bot, youtube
+from . import config, instagram, telegram_bot, youtube
 
 
 def run():
@@ -21,17 +21,36 @@ def run():
         telegram_bot.notify(f"⏭ Skipped today's video ({reason}): {meta['title']}")
         return
 
+    results, errors = [], []
     thumb = config.OUT / "thumb_yt.jpg"
-    video_id = youtube.upload(
-        config.OUT / "final.mp4",
-        meta["title"],
-        meta["description"],
-        meta["tags"],
-        thumbnail_path=thumb if thumb.exists() else None,
-    )
-    note = "" if config.YT_PRIVACY == "public" else f"\n(Uploaded as {config.YT_PRIVACY} until the API audit is approved.)"
-    telegram_bot.notify(f"✅ Published: {meta['title']}\nhttps://youtube.com/shorts/{video_id}{note}")
+    try:
+        video_id = youtube.upload(
+            config.OUT / "final.mp4",
+            meta["title"],
+            meta["description"],
+            meta["tags"],
+            thumbnail_path=thumb if thumb.exists() else None,
+        )
+        note = "" if config.YT_PRIVACY == "public" else f" ({config.YT_PRIVACY} until the API audit is approved)"
+        results.append(f"▶️ YouTube{note}: https://youtube.com/shorts/{video_id}")
+    except Exception as e:  # noqa: BLE001 - one platform failing must not block the other
+        traceback.print_exc()
+        errors.append(f"YouTube: {type(e).__name__}: {e}")
 
+    if instagram.enabled():
+        try:
+            _, link = instagram.publish_reel(config.OUT / "final.mp4", instagram.build_caption(meta))
+            results.append(f"📸 Instagram: {link}")
+        except Exception as e:  # noqa: BLE001
+            traceback.print_exc()
+            errors.append(f"Instagram: {type(e).__name__}: {e}")
+
+    msg = f"✅ Published: {meta['title']}\n" + "\n".join(results)
+    if errors:
+        msg += "\n\n⚠️ Failed:\n" + "\n".join(errors)
+    telegram_bot.notify(msg[:3900])
+    if errors and not results:
+        raise RuntimeError("All platforms failed")
 
 if __name__ == "__main__":
     try:
