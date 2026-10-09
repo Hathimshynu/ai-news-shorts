@@ -30,6 +30,7 @@ DONE = ROOT / "data" / "published.json"
 TOKEN = (os.getenv("TELEGRAM_BOT_TOKEN") or "").strip()
 CHAT = (os.getenv("TELEGRAM_CHAT_ID") or "").strip()
 MODE = os.getenv("MODE", "check")
+AUTO = (os.getenv("AUTO_PUBLISH") or "").strip().lower() == "true"  # post QA-passed videos without Approve
 FINAL_STATES = ("published", "rejected", "expired", "failed")
 MAX_ATTEMPTS = 3
 
@@ -181,7 +182,12 @@ def decide():
             notify(f"⏭ Skipped (rejected): {meta['title']}")
     for job_id, folder, meta in open_vids:  # newest approved video first
         decision, msgs = decisions.get(job_id, (None, []))
-        if decision == "approve":
+        if get(job_id)["status"] in FINAL_STATES:
+            continue  # rejected just now
+        auto = AUTO and decision is None and (meta.get("qa") or {}).get("passed")
+        if decision == "approve" or auto:
+            if auto:
+                print(f"[gate] auto-publish (QA passed): {job_id}")
             print(f"[gate] approved: {job_id} {meta['title']!r}")
             lock_buttons(msgs, "✅ Approved · posting now")
             select(folder)

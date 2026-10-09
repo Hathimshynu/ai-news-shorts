@@ -7,6 +7,7 @@ platforms that are still missing. Failed platforms are retried at the next 15-mi
 (up to 3 attempts in total)."""
 import json
 import sys
+from datetime import datetime, timezone
 import traceback
 
 from . import config, facebook, gate, instagram, telegram_bot, youtube
@@ -15,17 +16,19 @@ from . import config, facebook, gate, instagram, telegram_bot, youtube
 def _youtube(meta):
     thumb = config.OUT / "thumb_yt.jpg"
     vid = youtube.upload(config.OUT / "final.mp4", meta["title"], meta["description"], meta["tags"],
-                         thumbnail_path=thumb if thumb.exists() else None)
-    return f"https://youtube.com/shorts/{vid}"
+                         thumbnail_path=thumb if thumb.exists() else None, srt_path=config.OUT / "captions.srt")
+    return f"https://youtube.com/shorts/{vid}", vid
 
 
 def _instagram(meta):
-    return instagram.publish_reel(config.OUT / "final.mp4", instagram.build_caption(meta))[1]
+    media_id, link = instagram.publish_reel(config.OUT / "final.mp4", instagram.build_caption(meta))
+    return link, media_id
 
 
 def _facebook(meta):
-    return facebook.publish_reel(config.OUT / "final.mp4", facebook.build_description(meta),
-                                 cover_path=config.OUT / "thumb_vertical.jpg")[1]
+    video_id, link = facebook.publish_reel(config.OUT / "final.mp4", facebook.build_description(meta),
+                                           cover_path=config.OUT / "thumb_vertical.jpg")
+    return link, video_id
 
 
 def run():
@@ -43,6 +46,9 @@ def run():
     rec["status"] = "posting"
     rec["attempts"] = rec.get("attempts", 0) + 1
     rec.setdefault("platforms", {})
+    rec.setdefault("ids", {})
+    rec["info"] = {k: meta.get(k) for k in ("title", "topic", "category", "hook", "seconds", "primary_keyword")}
+    rec["info"]["qa_passed"] = (meta.get("qa") or {}).get("passed")
     gate.put(job_id, rec)
 
     targets = [("YouTube", "youtube", _youtube)]
@@ -57,7 +63,9 @@ def run():
             print(f"[publish] {label} already posted: {rec['platforms'][key]}")
             continue
         try:
-            rec["platforms"][key] = fn(meta)
+            link, pid = fn(meta)
+            rec["platforms"][key], rec["ids"][key] = link, pid
+            rec["info"]["posted_at"] = datetime.now(timezone.utc).isoformat()
             gate.put(job_id, rec)  # save immediately so this platform is never posted twice
         except Exception as e:  # noqa: BLE001 - one platform failing must not block the others
             traceback.print_exc()
@@ -78,7 +86,8 @@ def run():
         head = f"⚠️ Partly published: {meta['title']}" if rec["platforms"] else f"❌ Publishing failed: {meta['title']}"
         telegram_bot.notify("\n".join([head, *lines, "", "Failed:", *errors, "", retry])[:3900])
     else:
-        telegram_bot.notify("\n".join([f"✅ Published: {meta['title']}", *lines])[:3900])
+        extra = f"\n\n📌 Pin this comment on YouTube: {meta['pinned_comment']}" if meta.get("pinned_comment") else ""
+        telegram_bot.notify(("\n".join([f"✅ Published: {meta['title']}", *lines]) + extra)[:3900])
 
 
 if __name__ == "__main__":

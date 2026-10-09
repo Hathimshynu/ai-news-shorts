@@ -1,0 +1,101 @@
+"""Tests for trend scoring, fact-check verification, captions, QA, captions text, analytics and auto mode."""
+import json
+import shutil
+import subprocess
+from datetime import datetime, timezone
+
+import pytest
+
+from pipeline import analytics, config, gate, instagram, media, qa, script_gen, trends
+
+
+def _it(title, kind, link="https://example.com/x", country="IN", engagement=0):
+    return trends._item(title, link, kind, kind, published=datetime.now(timezone.utc), country=country,
+                        engagement=engagement)
+
+
+def test_official_source_outscores_plain_news():
+    official = trends.cluster([_it("OpenAI launches GPT agent mode", "official", "https://openai.com/news/agent")])[0]
+    news = trends.cluster([_it("Some phone gets update", "news")])[0]
+    assert trends._score(official) > trends._score(news)
+    assert trends.is_primary("https://openai.com/news/agent") and not trends.is_primary("https://example.com")
+
+
+def test_duplicate_stories_merge_and_keep_most_credible_headline():
+    c = trends.cluster([_it("OpenAI launches new agent mode in ChatGPT", "news"),
+                        _it("OpenAI launches agent mode in ChatGPT for everyone", "official", "https://openai.com/a")])
+    assert len(c) == 1 and len(c[0]["items"]) == 2
+    assert c[0]["title"].endswith("for everyone")
+
+
+def test_fact_check_rejects_quotes_not_in_source(monkeypatch):
+    article = "Google said Gemini will be free for students in India until December 2026."
+    reply = {"claims": [
+        {"claim": "Gemini is free for Indian students", "verdict": "supported",
+         "evidence": "Gemini will be free for students in India until December 2026", "status": "available"},
+        {"claim": "Gemini is 50% faster", "verdict": "supported",
+         "evidence": "Gemini is fifty percent faster than before", "status": "available"}]}
+    monkeypatch.setattr(script_gen, "chat_json", lambda *a, **k: (reply, "test"))
+    pkg = type("P", (), {"script": "x"})()
+    rep = script_gen.fact_check(pkg, article)
+    assert [c["verified"] for c in rep["claims"]] == [True, False]
+    assert rep["passed"] is False and rep["unverified"] == ["Gemini is 50% faster"]
+
+
+def test_pronunciation_only_changes_voice_text():
+    pkg = script_gen.Package.model_validate({
+        "hook": "h", "script": " ".join(["Nvidia"] + ["word"] * 99), "description": "d", "tags": [], "hashtags": [],
+        "thumbnail_text": "t", "title_youtube": "t",
+        "scenes": [{"text_overlay": "a", "pixabay_keywords": "b"}] * 5,
+        "pronunciation": [{"term": "Nvidia", "say_as": "En-vidia"}], "category": "new ai model"})
+    assert script_gen.tts_text(pkg).startswith("En-vidia") and pkg.script.startswith("Nvidia")
+    assert pkg.category == "New AI Models"
+
+
+def test_captions_keep_script_spelling_and_report_sync():
+    heard = [{"word": w, "start": i * 0.4, "end": i * 0.4 + 0.3}
+             for i, w in enumerate("google just launched gem in eye for students".split())]
+    words, coverage = media.align_words("Google just launched Gemini for students.", heard)
+    assert [w["word"] for w in words] == ["Google", "just", "launched", "Gemini", "for", "students."]
+    assert 0.8 <= coverage < 1 and all(words[i]["start"] <= words[i + 1]["start"] for i in range(len(words) - 1))
+
+
+def test_instagram_caption_has_question_cta_source_and_no_shorts_tag(monkeypatch):
+    monkeypatch.setattr(config, "CHANNEL_HANDLE", "@tech_talk_hathim")
+    cap = instagram.build_caption({"title": "T #shorts", "description": "d", "summary": "What happened.",
+                                   "ig_opening": "Big news!", "ig_question": "Would you use it?",
+                                   "hashtags": ["#shorts", "#ai"], "sources": ["https://www.livemint.com/a"]})
+    assert cap.startswith("Big news!") and "Would you use it?" in cap and "@tech_talk_hathim" in cap
+    assert "livemint.com" in cap and "#shorts" not in cap and len(cap) <= 2200
+
+
+def test_engagement_rate():
+    assert analytics.engagement_rate({"views": 1000, "likes": 50, "comments": 10, "shares": 5, "saves": 5}) == 7.0
+    assert analytics.engagement_rate({"likes": 3}) is None
+
+
+def test_auto_publish_posts_only_qa_passed_videos(tmp_path, monkeypatch):
+    monkeypatch.setattr(gate, "CANDIDATES", tmp_path / "c"); monkeypatch.setattr(gate, "OUT", tmp_path / "out")
+    monkeypatch.setattr(gate, "DONE", tmp_path / "p.json"); monkeypatch.setattr(gate, "AUTO", True)
+    monkeypatch.setattr(gate, "MODE", "check")
+    monkeypatch.setattr(gate, "tg", lambda m, **k: {"ok": True, "result": []})
+    for rid, job, ok in (("1", "J-bad", False), ("2", "J-good", True)):
+        (tmp_path / "c" / rid).mkdir(parents=True)
+        (tmp_path / "c" / rid / "meta.json").write_text(json.dumps({"job_id": job, "title": job, "qa": {"passed": ok}}))
+    assert gate.decide() == "publish"
+    assert json.loads((tmp_path / "out" / "meta.json").read_text())["job_id"] == "J-good"
+    gate.mark_done("J-good", "published")
+    assert gate.decide() == "wait"     # QA-failed video is never auto-published
+
+
+@pytest.mark.skipif(not shutil.which("ffmpeg"), reason="needs ffmpeg")
+def test_qa_flags_black_cover_and_wrong_size(tmp_path, monkeypatch):
+    v = tmp_path / "v.mp4"
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", "color=black:s=720x1280:d=20",
+                    "-f", "lavfi", "-i", "sine=frequency=300:duration=20", "-shortest", "-c:v", "libx264",
+                    "-pix_fmt", "yuv420p", "-c:a", "aac", str(v)], check=True)
+    monkeypatch.setattr(trends, "load_used", lambda: [])
+    rep = qa.run_checks(v, {"title": "t", "topic": "t", "sources": ["https://a.com"], "hashtags": ["#a"] * 4},
+                        0.95, {"passed": True})
+    failed = {c["name"] for c in rep["checks"] if not c["ok"]}
+    assert not rep["passed"] and "Cover frame not dark" in failed and "Format 9:16 1080x1920" in failed

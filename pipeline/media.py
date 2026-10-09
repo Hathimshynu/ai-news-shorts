@@ -1,6 +1,8 @@
 """Stock clips (Pixabay), voiceover (edge-tts), captions (faster-whisper), helpers (ffmpeg)."""
 import asyncio
+import difflib
 import json
+import re
 import subprocess
 from pathlib import Path
 
@@ -96,3 +98,74 @@ def transcribe_words(audio: Path):
             if text:
                 words.append({"word": text, "start": round(w.start, 3), "end": round(w.end, 3)})
     return words
+
+
+# ---------- Audio levelling ----------
+def normalize_audio(src: Path, dst: Path, target_lufs=-14):
+    """EBU R128 loudness normalisation (-14 LUFS is what YouTube/Instagram aim for)."""
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src),
+                    "-af", f"loudnorm=I={target_lufs}:TP=-1.5:LRA=11", "-ar", "48000", str(dst)], check=True)
+    return probe_duration(dst)
+
+
+def loudness(path):
+    """Integrated loudness (LUFS) and true peak (dBTP) of a file's audio."""
+    r = subprocess.run(["ffmpeg", "-hide_banner", "-i", str(path), "-af", "loudnorm=print_format=json",
+                        "-f", "null", "-"], capture_output=True, text=True)
+    blob = r.stderr[r.stderr.rfind("{"): r.stderr.rfind("}") + 1]
+    data = json.loads(blob)
+    return float(data["input_i"]), float(data["input_tp"])
+
+
+# ---------- Caption alignment ----------
+def _tok(w):
+    return re.sub(r"[^\w₹%]", "", w.lower())
+
+
+def align_words(script, heard):
+    """Captions use the SCRIPT's spelling with the timings whisper heard.
+    Returns (words, coverage) where coverage = share of script words matched to speech (sync quality)."""
+    script_words = script.split()
+    if not heard:
+        return [], 0.0
+    a = [_tok(w) for w in script_words]
+    b = [_tok(w["word"]) for w in heard]
+    timing = [None] * len(script_words)
+    for blk in difflib.SequenceMatcher(None, a, b, autojunk=False).get_matching_blocks():
+        for k in range(blk.size):
+            h = heard[blk.b + k]
+            timing[blk.a + k] = (h["start"], h["end"])
+    matched = sum(t is not None for t in timing)
+    # fill gaps by spreading unmatched words evenly between known neighbours
+    end_all = heard[-1]["end"]
+    i = 0
+    while i < len(timing):
+        if timing[i] is not None:
+            i += 1
+            continue
+        j = i
+        while j < len(timing) and timing[j] is None:
+            j += 1
+        start = timing[i - 1][1] if i > 0 else heard[0]["start"]
+        stop = timing[j][0] if j < len(timing) else end_all
+        step = max(0.05, (stop - start) / (j - i))
+        for k in range(i, j):
+            s = start + (k - i) * step
+            timing[k] = (round(s, 3), round(s + step * 0.9, 3))
+        i = j
+    words = [{"word": w, "start": t[0], "end": t[1]} for w, t in zip(script_words, timing)]
+    return words, round(matched / len(script_words), 3)
+
+
+def write_srt(words, path, per_line=6):
+    def ts(t):
+        h, rem = divmod(int(t * 1000), 3600000)
+        m, rem = divmod(rem, 60000)
+        s, ms = divmod(rem, 1000)
+        return f"{h:02}:{m:02}:{s:02},{ms:03}"
+    lines = []
+    for n, i in enumerate(range(0, len(words), per_line), 1):
+        chunk = words[i:i + per_line]
+        lines += [str(n), f"{ts(chunk[0]['start'])} --> {ts(chunk[-1]['end'])}",
+                  " ".join(w["word"] for w in chunk), ""]
+    Path(path).write_text("\n".join(lines), encoding="utf-8")

@@ -116,14 +116,14 @@ def test_publish_each_platform_once_and_retry_only_failed(tmp_state, monkeypatch
     monkeypatch.setattr(publish.instagram, "enabled", lambda: True)
     monkeypatch.setattr(publish.facebook, "enabled", lambda: False)
     posted = []
-    monkeypatch.setattr(publish, "_youtube", lambda m: posted.append("yt") or "https://yt/1")
+    monkeypatch.setattr(publish, "_youtube", lambda m: posted.append("yt") or ("https://yt/1", "Y1"))
     state = {"ig_fail": True}
 
     def ig(meta):
         posted.append("ig")
         if state["ig_fail"]:
             raise RuntimeError("instagram down")
-        return "https://ig/1"
+        return "https://ig/1", "I1"
     monkeypatch.setattr(publish, "_instagram", ig)
 
     publish.run()                                     # YouTube ok, Instagram fails

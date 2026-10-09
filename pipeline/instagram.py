@@ -31,25 +31,28 @@ def username():
 
 
 def build_caption(meta):
-    """Instagram captions: max 2,200 characters and 30 hashtags. Links aren't clickable, so keep it short."""
+    """Instagram/Facebook caption: hook line, what you'll learn, a discussion question, one CTA,
+    source attribution, hashtags. Max 2,200 characters; links aren't clickable so we name the sources."""
+    from urllib.parse import urlparse
     hashtags = []
-    for h in meta.get("hashtags", []) + ["#technews", "#ainews", "#techindia", "#reels"]:
+    for h in meta.get("hashtags", []) + ["#technews", "#ainews", "#techindia"]:
         h = h if h.startswith("#") else f"#{h}"
         if h.lower() != "#shorts" and h.lower() not in [x.lower() for x in hashtags]:
             hashtags.append(h)
-    summary = meta["description"].split("\nSources:")[0].split("\n\nThis video uses")[0].strip()
-    from urllib.parse import urlparse
+    summary = meta.get("summary") or meta["description"].split("\nSources:")[0].split("\nRelated:")[0].strip()
     domains = []
     for u in meta.get("sources", []):
         d = urlparse(u).netloc.replace("www.", "")
         if d and d not in domains:
             domains.append(d)
-    sources = f"Source: {', '.join(domains[:3])}\n" if domains else ""
-    caption = (f"{meta['title'].replace('#shorts', '').strip()}\n\n{summary}\n\n"
-               f"💬 What do you think? Comment below.\n"
-               f"{sources}"
-               f"AI-generated narration and visuals.\n\n{' '.join(hashtags[:20])}")
-    return caption[:2150]
+    parts = [meta.get("ig_opening") or meta["title"].replace("#shorts", "").strip(), "", summary, ""]
+    parts.append(f"💬 {meta.get('ig_question') or 'What do you think? Tell me in the comments.'}")
+    if config.CHANNEL_HANDLE:
+        parts.append(f"Follow {config.CHANNEL_HANDLE} for daily AI updates.")
+    if domains:
+        parts.append(f"Source: {', '.join(domains[:3])}")
+    parts += ["AI-generated narration and visuals.", "", " ".join(hashtags[:12])]
+    return "\n".join(parts)[:2150]
 
 
 def publish_reel(video_path, caption):

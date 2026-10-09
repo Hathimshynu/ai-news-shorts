@@ -1,24 +1,48 @@
-"""Topic selection and the full video package (script, scenes, titles, tags...) via the LLM router."""
+"""Topic selection, the full video package, and the fact-check pass (all via the free LLM router)."""
 import json
-from typing import List
+import re
+from typing import List, Optional
 
 from pydantic import BaseModel, Field, ValidationError, field_validator
+from rapidfuzz import fuzz
 
 from . import config
 from .llm import chat_json
+
+CATEGORIES = [
+    "Breaking AI News", "New AI Models", "New AI Features", "AI Automation Tutorials",
+    "AI Tools You Should Know", "Trending Technology", "Build With AI", "AI Tips and Hidden Features",
+    "AI Experiments", "Future of Technology",
+]
 
 
 class Scene(BaseModel):
     text_overlay: str = Field(max_length=60)
     pixabay_keywords: str
+    visual_direction: str = ""
+
+
+class Pronunciation(BaseModel):
+    term: str
+    say_as: str
 
 
 class Package(BaseModel):
+    category: str = "Breaking AI News"
+    hooks: List[str] = []
     hook: str
     script: str
+    cta: str = ""
     scenes: List[Scene]
+    pronunciation: List[Pronunciation] = []
+    titles: List[str] = []
     title_youtube: str
+    primary_keyword: str = ""
+    related_keywords: List[str] = []
     description: str
+    pinned_comment: str = ""
+    ig_opening: str = ""
+    ig_question: str = ""
     tags: List[str]
     hashtags: List[str]
     thumbnail_text: str
@@ -35,65 +59,113 @@ class Package(BaseModel):
     def title_len(cls, v):
         return v[:95]
 
+    @field_validator("category")
+    @classmethod
+    def known_category(cls, v):
+        best = max(CATEGORIES, key=lambda c: fuzz.ratio(c.lower(), (v or "").lower()))
+        return best
+
     @field_validator("script")
     @classmethod
     def script_len(cls, v):
         words = len(v.split())
-        if not 90 <= words <= 175:
-            raise ValueError(f"script must be 110-150 words, got {words}")
+        if not 80 <= words <= 175:
+            raise ValueError(f"script must be 100-150 words, got {words}")
         return v
+
+    @property
+    def runtime_estimate(self):
+        """Seconds at a natural ~165 words per minute (before the speed-up)."""
+        return round(len(self.script.split()) / 165 * 60)
 
 
 PICK_SYSTEM = (
-    "You are the editor of a YouTube Shorts channel that explains tech and AI news in 60 seconds "
-    "for viewers in India and Asia. You pick stories with the highest chance of clicks and shares: "
-    "big brands, money, phones, AI tools people use, jobs, government tech policy, India impact. "
-    "Avoid politics, crime, deaths, and stories with no clear 'why it matters'. Respond with JSON only."
+    "You are the editor of 'Tech Talk Hathim', a short-video channel about AI and technology for viewers in "
+    "India and Asia. Pick stories that give viewers a reason to watch, learn, save, share or comment: big AI "
+    "releases, new models, useful features, tools people can use today, automation workflows, India impact. "
+    "Prefer stories with an official/primary source. Avoid politics, crime, deaths, rumours and stories with no "
+    "clear 'why it matters'. Do not pick a story only because it is trending. Respond with JSON only."
 )
 
 WRITE_SYSTEM = (
-    "You write viral 50-second YouTube Shorts scripts about tech news for an Indian and Asian audience. "
-    "Rules: use ONLY facts from the provided source text; never invent numbers, quotes, dates or prices. "
-    "If a fact is uncertain, leave it out. Simple Indian English, short punchy sentences, no emojis in the script. "
-    "Structure: hook (first sentence, under 8 words, creates curiosity) -> what happened -> why it matters "
-    "for people in India/Asia -> one-line opinion -> question to drive comments. Respond with JSON only."
+    "You write 45-55 second vertical videos for 'Tech Talk Hathim' (AI and tech, audience in India and Asia). "
+    "Hard rules: use ONLY facts from the provided source text; never invent features, numbers, prices, dates, "
+    "benchmarks or quotes. Say clearly if something is only announced, in beta or region-limited. If unsure, "
+    "leave it out. Natural, energetic, conversational Indian English; short sentences; no emojis in the script; "
+    "no generic intro like 'Hey guys'. Structure: 0-3s hook (surprising fact, relatable problem or question, "
+    "truthful, not clickbait) -> 3-8s why it matters / what viewers will learn -> main content (what happened, "
+    "how it works or how to use it, practical impact for India/Asia) -> one clear takeaway + ONE natural CTA. "
+    "Respond with JSON only."
 )
 
 WRITE_FORMAT = """Return JSON with exactly these keys:
 {
-  "hook": "under 8 words, shown on screen in the first 2 seconds",
-  "script": "110-150 words of voiceover, starting with the hook sentence",
-  "scenes": [{"text_overlay": "2-5 word on-screen label", "pixabay_keywords": "2-3 generic stock-video words, e.g. 'smartphone city night'"}],  // 6-8 scenes, in script order
-  "title_youtube": "under 60 characters, main keyword first, curiosity, no clickbait lies, may end with #shorts",
-  "description": "3-5 sentences summarising the story, then a line 'Sources:' (leave the URLs out, they are added later)",
-  "tags": ["10-15 search keywords people in India would type"],
-  "hashtags": ["#shorts", "3-5 more niche hashtags"],
+  "category": "one of: %s",
+  "hooks": ["3 different hook options, each under 10 words"],
+  "hook": "the best of the three (shown on screen in the first 2 seconds)",
+  "script": "100-140 words of voiceover, starting with the chosen hook and ending with the CTA",
+  "cta": "the single call to action used at the end, e.g. a question or 'Follow Tech Talk Hathim for daily AI updates'",
+  "scenes": [{"text_overlay": "2-5 word on-screen label", "pixabay_keywords": "2-3 generic stock-video words", "visual_direction": "what the viewer should see"}],
+  "pronunciation": [{"term": "hard technical name from the script", "say_as": "phonetic spelling for text-to-speech"}],
+  "titles": ["3 searchable YouTube title options under 60 characters, main keyword early"],
+  "title_youtube": "the best title, may end with #shorts",
+  "primary_keyword": "the main search phrase for this topic",
+  "related_keywords": ["3-5 related search phrases people would type"],
+  "description": "3-4 sentences: what happened and what the viewer will learn. No URLs.",
+  "pinned_comment": "one friendly question to pin as the first comment",
+  "ig_opening": "one punchy first line for the Instagram caption",
+  "ig_question": "one question that invites real discussion",
+  "tags": ["10-15 search tags"],
+  "hashtags": ["#shorts", "3-6 niche hashtags"],
   "thumbnail_text": "3-4 bold words"
 }
-Stock keywords must be generic (no brand names, no people names) so stock footage exists."""
+Use 6-8 scenes, in script order. Stock keywords must be generic (no brand or people names). Only include
+pronunciation entries for names text-to-speech may say wrongly (can be an empty list).""" % ", ".join(CATEGORIES)
+
+FACT_SYSTEM = (
+    "You are a strict fact-checker for short tech videos. Compare every factual claim in the script with the "
+    "source text. A claim is 'supported' only if the source text states it. Copy the exact supporting sentence "
+    "from the source as evidence. Respond with JSON only."
+)
 
 
-def pick_topic(clusters):
+# ---------------------------------------------------------------- topic selection
+def pick_topic(clusters, avoid_categories=()):
     listing = "\n".join(
-        f"{i}. {c['title']} (score {c['score']}, {len(c['items'])} articles, "
-        f"countries: {', '.join(sorted({x['country'] for x in c['items']}))})"
+        f"{i}. {c['title']} (score {c['score']}, sources: {', '.join(c.get('kinds', []))}, "
+        f"official source: {'yes' if c.get('primary') else 'no'}, {len(c['items'])} articles)"
         for i, c in enumerate(clusters)
     )
+    avoid = f"\nRecent videos were in these categories, prefer variety: {', '.join(avoid_categories)}" if avoid_categories else ""
     data, _ = chat_json(PICK_SYSTEM, (
-        f"Today's candidate stories:\n{listing}\n\n"
-        'Return {"ranking": [indexes best first, all of them], "reason": "one sentence on the top pick"}'
+        f"Candidate stories:\n{listing}{avoid}\n\nCategories: {', '.join(CATEGORIES)}\n\n"
+        'Return {"ranking": [indexes best first, all of them], "category": "category of the top pick", '
+        '"reason": "one sentence on why the top pick will interest viewers"}'
     ), temperature=0.3)
-    order = [int(i) for i in data.get("ranking", []) if str(i).isdigit() and int(i) < len(clusters)]
-    seen = set()
-    order = [i for i in order if not (i in seen or seen.add(i))]
+    order = []
+    for i in data.get("ranking", []):
+        try:
+            i = int(i)
+        except (TypeError, ValueError):
+            continue
+        if 0 <= i < len(clusters) and i not in order:
+            order.append(i)
     order += [i for i in range(len(clusters)) if i not in order]
     print(f"[script] pick reason: {data.get('reason')}")
-    return [clusters[i] for i in order]
+    ranked = [clusters[i] for i in order]
+    if ranked:
+        ranked[0]["reason"] = data.get("reason", "")
+        ranked[0]["category"] = data.get("category", "")
+    return ranked
 
 
-def write_package(title, article, shorter=False):
-    extra = "\nIMPORTANT: keep the script to 105-120 words." if shorter else ""
-    user = f"Story headline: {title}\n\nSource text:\n{article[:7000]}\n\n{WRITE_FORMAT}{extra}"
+# ---------------------------------------------------------------- writing
+def write_package(title, article, shorter=False, remove_claims=None):
+    extra = "\nIMPORTANT: keep the script to 95-115 words." if shorter else ""
+    if remove_claims:
+        extra += ("\nIMPORTANT: a fact-check found these claims NOT supported by the source. Do not include them:\n- "
+                  + "\n- ".join(remove_claims))
+    user = f"Story headline: {title}\n\nSource text:\n{article[:9000]}\n\n{WRITE_FORMAT}{extra}"
     last_err = None
     for _ in range(3):
         msg = user if not last_err else user + f"\n\nYour previous answer was invalid: {last_err}. Fix it."
@@ -103,6 +175,8 @@ def write_package(title, article, shorter=False):
             pkg.hashtags = [h if h.startswith("#") else f"#{h}" for h in pkg.hashtags]
             if "#shorts" not in [h.lower() for h in pkg.hashtags]:
                 pkg.hashtags.insert(0, "#shorts")
+            if pkg.hook not in pkg.hooks:
+                pkg.hooks = [pkg.hook] + pkg.hooks[:2]
             return pkg, provider
         except ValidationError as e:
             last_err = json.dumps(e.errors(include_url=False, include_context=False))[:800]
@@ -110,14 +184,54 @@ def write_package(title, article, shorter=False):
     raise RuntimeError(f"LLM could not produce a valid package: {last_err}")
 
 
+# ---------------------------------------------------------------- fact check
+def _norm(s):
+    return re.sub(r"\s+", " ", re.sub(r"[^\w%₹$.\s]", " ", s.lower())).strip()
+
+
+def evidence_in_source(evidence, article):
+    """The model must quote the source; we verify the quote really is there (no trusting the model)."""
+    ev = _norm(evidence)
+    return len(ev) >= 12 and fuzz.partial_ratio(ev, _norm(article)) >= 85
+
+
+def fact_check(pkg, article):
+    data, provider = chat_json(FACT_SYSTEM, (
+        f"Source text:\n{article[:9000]}\n\nScript:\n{pkg.script}\n\n"
+        'Return {"claims": [{"claim": "...", "verdict": "supported|unsupported|unclear", '
+        '"evidence": "exact sentence copied from the source, or empty", '
+        '"status": "available|beta|announced|n/a"}]}'
+    ), temperature=0)
+    claims = []
+    for c in data.get("claims", []):
+        verdict = str(c.get("verdict", "unclear")).lower()
+        evidence = str(c.get("evidence") or "")
+        verified = verdict == "supported" and evidence_in_source(evidence, article)
+        claims.append({"claim": c.get("claim", ""), "verdict": verdict, "evidence": evidence[:300],
+                       "status": c.get("status", "n/a"), "verified": verified})
+    bad = [c["claim"] for c in claims if not c["verified"]]
+    return {"claims": claims, "unverified": bad, "passed": bool(claims) and not bad, "checker": provider}
+
+
+# ---------------------------------------------------------------- metadata
 def build_description(pkg, source_urls):
     lines = [pkg.description.strip()]
+    if pkg.related_keywords:
+        lines.append("\nRelated: " + ", ".join(pkg.related_keywords[:5]))
     if source_urls:
-        if "Sources:" not in lines[0]:
-            lines.append("\nSources:")
+        lines.append("\nSources:")
         lines += [f"- {u}" for u in source_urls]
-    lines.append("\nThis video uses AI-generated narration and visuals. Facts are taken from the sources above.")
+    lines.append("\nNarration and visuals are AI-generated. Facts are taken from the sources above.")
     if config.AFFILIATE_FOOTER:
         lines.append("\n" + config.AFFILIATE_FOOTER)
     lines.append("\n" + " ".join(pkg.hashtags))
     return "\n".join(lines)[:4900]
+
+
+def tts_text(pkg):
+    """Script with pronunciation fixes applied (only for the voice; captions keep the real spelling)."""
+    text = pkg.script
+    for p in pkg.pronunciation:
+        if p.term and p.say_as:
+            text = re.sub(rf"\b{re.escape(p.term)}\b", p.say_as, text)
+    return text

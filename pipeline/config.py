@@ -63,4 +63,5 @@ WHISPER_MODEL = env("WHISPER_MODEL", "base")  # base = fast on CI; "small" = mor
 # ---- YouTube ----
 YT_PRIVACY = env("YT_PRIVACY", "private")  # switch to "public" after the API audit is approved
 YT_CATEGORY_ID = "28"  # Science & Technology
+AUTO_PUBLISH = env("AUTO_PUBLISH", "false").lower() == "true"  # post QA-passed videos without waiting for Approve
 AFFILIATE_FOOTER = env("AFFILIATE_FOOTER", "")  # e.g. ebook / affiliate links appended to every description

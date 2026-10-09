@@ -1,123 +1,108 @@
-# AI News Shorts
+# Tech Talk Hathim · AI News Shorts
 
-Free, daily, automated 1-minute tech/AI news Shorts for an India + Asia audience.
-Runs entirely on GitHub Actions. No server, no card.
+A free, automated daily content engine: it finds trending AI and tech stories, fact-checks them,
+makes a 30-55 second vertical video with voice and captions, runs quality checks, asks you for
+approval on Telegram, then posts to **YouTube Shorts, Instagram Reels and your Facebook Page**.
+It runs on GitHub Actions (no server, no card). Your phone only needs Telegram.
 
 ```
-6:00 AM + 3:00 PM IST  produce.yml (two videos a day)
-  Google News RSS (IN, SG, MY, PH, PK + India searches) -> cluster & score -> skip topics used in last 7 days
-  -> LLM picks the story (Gemini -> Groq -> OpenRouter fallback)
-  -> LLM writes script, scenes, title, description, tags (facts only from the article)
-  -> edge-tts voice (en-IN) -> faster-whisper word timings -> Pixabay clips
-  -> Remotion renders 1080x1920 video with animated captions -> Playwright thumbnail
-  -> Telegram: video + Approve / Reject buttons
+6:00 AM / 3:00 PM IST   produce.yml (one video each run)
+  Trend discovery  Google News (IN + Asia) · OpenAI/Google/DeepMind/Microsoft/NVIDIA/Hugging Face/GitHub blogs
+                   · Hacker News · Reddit · GitHub rising AI repos · Product Hunt · Google Trends India
+  -> merge duplicates, score (credibility, recency, India relevance, buzz), skip recent topics
+  -> AI editor picks the story + 1 of 10 categories (keeps variety)       [Gemini -> Groq -> OpenRouter]
+  -> script package: 3 hooks, script, CTA, scenes, pronunciation, 3 titles, keywords, captions text
+  -> fact-check every claim against the source text (quotes verified by code), auto-rewrite once
+  -> voice (edge-tts, en-IN) -> loudness -14 LUFS -> captions aligned to the script -> Pixabay clips
+  -> Remotion renders 1080x1920 -> thumbnails -> 13 automated quality checks
+  -> Telegram: video + Approve/Reject, script, hook options, fact-check, QA report, sources
 
-8:00-11:00 AM + 7:00-10:00 PM IST  publish.yml (checks every 15 min)
-  reads your button press -> uploads to YouTube (private until API audit approved)
-  -> posts the Reel to Instagram and your Facebook Page (if their secrets are set) -> sends you the links
+8-11 AM / 7-10 PM IST   publish.yml (checks every 15 min)
+  -> posts the video YOU approved to YouTube (+captions file), Instagram, Facebook (+cover)
+  -> each platform recorded the moment it succeeds: nothing is ever posted twice
+
+10:15 PM IST            report.yml
+  -> collects views/likes/comments -> Telegram daily report -> rebuilds the dashboard (GitHub Pages)
 ```
 
-## Setup (one time)
+## Setup
 
-1. Create a **private** GitHub repo and upload everything in this folder (keep the `.github` folder).
-2. **Settings -> Secrets and variables -> Actions -> Secrets**, add:
+### 1. Secrets (Settings → Secrets and variables → Actions → Secrets)
 
-   | Secret | Value |
-   |---|---|
-   | `GEMINI_API_KEY` | Google AI Studio key |
-   | `GROQ_API_KEY` | console.groq.com key (Groq, not Grok) |
-   | `OPENROUTER_API_KEY` | OpenRouter key |
-   | `PIXABAY_API_KEY` | Pixabay key |
-   | `TELEGRAM_BOT_TOKEN` | from BotFather |
-   | `TELEGRAM_CHAT_ID` | your chat id |
-   | `YT_CLIENT_ID` / `YT_CLIENT_SECRET` | from client_secret.json |
-   | `YT_REFRESH_TOKEN` | from the Colab script (starts with `1//`) |
+| Secret | Where to get it |
+|---|---|
+| `GEMINI_API_KEY` | aistudio.google.com → API keys |
+| `GROQ_API_KEY` | console.groq.com → API Keys (starts with `gsk_`) |
+| `OPENROUTER_API_KEY` | openrouter.ai → Keys |
+| `PIXABAY_API_KEY` | pixabay.com/api/docs (logged in) |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | @BotFather; chat id from `api.telegram.org/bot<TOKEN>/getUpdates` |
+| `YT_CLIENT_ID`, `YT_CLIENT_SECRET` | Google Cloud → OAuth client (Desktop app) JSON |
+| `YT_REFRESH_TOKEN` | run `scripts/youtube_token.py` in Google Colab |
+| `IG_USER_ID`, `IG_ACCESS_TOKEN`, `FB_PAGE_ID` | run `scripts/instagram_token.py` in Colab (see below) |
 
-3. Optional **Variables** tab:
+Only one of the three AI keys is required; more keys = more fallback when one is busy.
 
-   | Variable | Example | Purpose |
-   |---|---|---|
-   | `CHANNEL_HANDLE` | `@tech_talk_hathim` | brand text on video + thumbnail (`none` = no name) |
-   | `YT_PRIVACY` | `public` | set only after the YouTube API audit is approved |
-   | `AFFILIATE_FOOTER` | `My AI ebook: https://...` | added to every description |
-   | `TTS_VOICE` | `en-IN-NeerjaNeural` | female Indian English voice |
+### 2. Variables (same page → Variables tab), all optional
 
-4. **Settings -> Actions -> General -> Workflow permissions**: choose **Read and write permissions** (the produce run saves used topics).
-5. Optional: put 2-3 royalty-free `.mp3` tracks (YouTube Audio Library) in `renderer/public/music/`. One is picked at random at low volume.
+| Variable | Example | Effect |
+|---|---|---|
+| `CHANNEL_HANDLE` | `@tech_talk_hathim` | name on videos, thumbnails, captions (`none` hides it) |
+| `TTS_VOICE` | `en-IN-NeerjaNeural` | female Indian English voice (default male `en-IN-PrabhatNeural`) |
+| `TTS_RATE` | `+25%` | speaking speed (default `+18%`) |
+| `YT_PRIVACY` | `public` | set after the YouTube API audit is approved (until then uploads are private) |
+| `AUTO_PUBLISH` | `true` | post videos that pass all quality checks without pressing Approve (Reject still works) |
+| `AFFILIATE_FOOTER` | `My AI ebook: https://…` | added to every YouTube description |
 
-## Instagram setup (optional)
+### 3. Settings
+- **Settings → Actions → General → Workflow permissions → Read and write**.
+- **Make the repo public** (Settings → General): unlimited free Actions minutes and free GitHub Pages. Secrets stay hidden.
+- **Dashboard:** Settings → Pages → Source "Deploy from a branch" → `main` / `/docs`. Then it's at `https://<you>.github.io/<repo>/` (updated nightly; run **Daily report and dashboard** to build it now).
 
-Requirements: Instagram **Professional** account (Creator or Business), linked to a **Facebook Page** you manage.
+### 4. Instagram + Facebook (one Meta app, one token)
+1. Instagram must be a **Professional** account linked to your **Facebook Page**.
+2. developers.facebook.com → Create app → use cases **Manage messaging & content on Instagram** and **Manage everything on your Page**.
+3. Tools → Graph API Explorer → your app → User token with `instagram_basic, instagram_content_publish, pages_show_list, pages_read_engagement, pages_manage_posts, business_management` (optional for analytics: `instagram_manage_insights, read_insights`).
+4. Run `scripts/instagram_token.py` in Colab → add `IG_USER_ID`, `IG_ACCESS_TOKEN`, `FB_PAGE_ID`.
 
-1. developers.facebook.com -> My Apps -> Create app -> use case **Other** -> type **Business**.
-2. In the app, add the **Instagram** product (API setup with **Facebook login**).
-3. Open **Tools -> Graph API Explorer**, pick your app, click **Generate Access Token**, and add the permissions:
-   `instagram_basic, instagram_content_publish, pages_show_list, pages_read_engagement, business_management`.
-   Tick your Page and your Instagram account when Facebook asks.
-4. Run `scripts/instagram_token.py` (paste it into a Colab code cell). Enter App ID, App Secret (App settings -> Basic) and the token.
-5. Add the two values it prints as secrets `IG_USER_ID` and `IG_ACCESS_TOKEN`.
-6. Run **Check setup**: the Instagram line should say `OK account = @yourname`.
+### 5. Test
+1. **Actions → Check setup → Run workflow** → every line OK (at least one AI provider).
+2. **Actions → Produce daily short → Run workflow** (~15 min) → video in Telegram → **Approve**.
+3. **Actions → Publish approved short → Run workflow** → links in Telegram.
 
-The app can stay in Development mode because it only posts to your own account. Instagram allows up to 50 API posts per day.
+## Daily use (≈ 5 minutes)
+- Watch the video, read the fact-check and QA report Telegram sends with it.
+- **Approve** before 8 AM / 7 PM → posts then. Approve later → posts within ~15 min. Windows close 11 AM / 10 PM.
+- QA-failed videos are marked ⚠️; you can still approve them yourself, but auto-publish never posts them.
+- Pin the suggested comment on YouTube (Telegram sends it after posting).
 
-## Facebook Page setup (optional)
+## Quality checks (every video)
+Blocking: 1080x1920, 15-60 s, audio present, loudness -18…-11 LUFS, no clipping, cover frame not dark,
+captions ≥70% in sync with the voice, fact-check passed, ≥1 source link.
+Advisory: official/primary source, keyword in title, 3-8 hashtags, different from recent topics.
 
-Uses the same Meta app and token as Instagram.
-1. In the Meta app, the **Manage everything on your Page** use case must include `pages_manage_posts`.
-2. When generating the token in Graph API Explorer, also tick `pages_manage_posts`, then run `scripts/instagram_token.py` again.
-3. Add secret `FB_PAGE_ID` (printed by the script). Update `IG_ACCESS_TOKEN` with the new token it prints.
-4. Run **Check setup**: the Facebook line should show your Page name. Meta allows 30 API posts per Page per day.
-
-## Test
-
-1. **Actions -> Check setup -> Run workflow.** Every check should say OK (at least one LLM). You'll get a Telegram message.
-2. **Actions -> Produce daily short -> Run workflow.** Takes ~10-20 min. The video arrives in Telegram. Press **Approve**.
-3. **Actions -> Publish approved short -> Run workflow.** You get the YouTube link on Telegram.
-
-After that it runs by itself every day. Change times by editing the `cron` lines (UTC; IST = UTC + 5:30).
-
-## Daily routine (~5 minutes)
-
-- Watch the video in Telegram, read the script and sources it sends.
-- Approve before 8 AM / 7 PM -> posts exactly then. Approve later -> posts within ~15 minutes.
-- Windows close at 11 AM and 10 PM. No answer by then = skipped (nothing gets posted).
-- Already-posted videos are recorded in `data/published.json`, so nothing is ever posted twice.
-
-## Notes and limits
-
-- **Uploads are private** until YouTube approves your API audit. Then set the `YT_PRIVACY` variable to `public`.
-- **AI disclosure** is sent automatically (`containsSyntheticMedia`). If YouTube ignores it, tick "Altered or synthetic content" in Studio.
-- **Never set a webhook** on the Telegram bot; approval uses polling.
-- GitHub may start scheduled runs 5-30 minutes late. Free minutes for private repos: 2,000/month; this uses roughly 450-700.
-- Model names change. If an LLM fails in "Check setup", update `GEMINI_MODEL` / `GROQ_MODEL` / `OPENROUTER_MODEL` (Variables or `pipeline/config.py`).
-- Pixabay asks that you don't hotlink; clips are downloaded per run, and their pages are listed in `meta.json`.
+## What's free and what isn't
+Everything here runs on free tiers: GitHub Actions, Gemini/Groq/OpenRouter free models, edge-tts, Pixabay,
+Telegram, YouTube Data API (10,000 units/day ≈ 6 uploads), Instagram (50 API posts/day), Facebook (30/day).
+Free tiers change: if a provider removes its free model the router skips it automatically, but if all three
+stop offering free models you'd need a paid key. Not automated on purpose: logging into products to record
+real screen demos (against their terms). Videos use accurate stock footage + text instead.
 
 ## Customise
-
 | What | Where |
 |---|---|
-| Countries / search topics | `NEWS_COUNTRIES`, `NEWS_QUERIES` in `pipeline/config.py` |
-| Script style and rules | `WRITE_SYSTEM` in `pipeline/script_gen.py` |
-| Video look (fonts, colours, captions) | `renderer/src/NewsShort.tsx` (preview: `cd renderer && npm run studio`) |
-| Thumbnail design | `templates/thumb.html` |
+| News countries / searches | `NEWS_COUNTRIES`, `NEWS_QUERIES` in `pipeline/config.py` |
+| Official blog feeds, source weights | `OFFICIAL_FEEDS`, `KIND_WEIGHT` in `pipeline/trends.py` |
+| Script style, categories | `WRITE_SYSTEM`, `CATEGORIES` in `pipeline/script_gen.py` |
+| Quality thresholds | `pipeline/qa.py` |
+| Video look | `renderer/src/NewsShort.tsx` (preview: `cd renderer && npm run studio`) |
+| Thumbnail / dashboard design | `templates/thumb.html`, `templates/dashboard.html` |
+| Schedules | `cron` lines in `.github/workflows/*.yml` (UTC; IST = UTC + 5:30) |
 
-## Run locally (optional)
+More: [ARCHITECTURE.md](ARCHITECTURE.md) (design, data files, reliability) · [TROUBLESHOOTING.md](TROUBLESHOOTING.md).
 
+## Run locally / Docker / tests
 ```bash
-pip install -r requirements.txt && python -m playwright install --with-deps chromium
-cd renderer && npm install && cd ..
-export GEMINI_API_KEY=... PIXABAY_API_KEY=... TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=...
-python -m pipeline.produce
+cp .env.example .env            # fill in keys
+docker build -t shorts . && docker run --env-file .env -v "$PWD/out:/app/out" shorts   # one video, no GitHub needed
+pip install -r requirements.txt pytest && python -m pytest -q                               # tests
 ```
-
-## Troubleshooting
-
-| Telegram message | Cause | Fix |
-|---|---|---|
-| `groq: 401 Invalid API Key` | Wrong key (often an xAI **Grok** key, which starts with `xai-`) | Create a key at console.groq.com (starts with `gsk_`) and update secret `GROQ_API_KEY` |
-| `gemini: 404 model no longer available` / `openrouter: 404 unavailable for free` | Provider retired the model | Nothing to do: the router discovers current free models automatically. Optionally set `GEMINI_MODEL` / `OPENROUTER_MODEL` variables |
-| `503 high demand` / `429` | Provider busy | Automatic: tries the next model and provider, then retries twice (after 30s and 60s) |
-| "No Approve press found yet" | Approve not pressed on *this* video, or pressed more than 24h ago | Press ✅ Approve under the latest video, then run Publish again |
-| Approved but nothing posted | Outside a posting window (8-11 AM / 7-10 PM IST) | It posts at the next window start, or run **Publish approved short** manually to post now |
-
-Run tests locally: `pip install -r requirements.txt pytest && python -m pytest -q`

@@ -1,4 +1,6 @@
 """Upload a Short to YouTube with the Data API v3 using a stored OAuth refresh token."""
+from pathlib import Path
+
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -6,7 +8,8 @@ from googleapiclient.http import MediaFileUpload
 
 from . import config
 
-SCOPES = ["https://www.googleapis.com/auth/youtube.upload", "https://www.googleapis.com/auth/youtube"]
+SCOPES = ["https://www.googleapis.com/auth/youtube.upload", "https://www.googleapis.com/auth/youtube",
+          "https://www.googleapis.com/auth/youtube.force-ssl"]
 
 
 def client():
@@ -27,7 +30,7 @@ def channel_title(yt=None):
     return items[0]["snippet"]["title"] if items else None
 
 
-def upload(video_path, title, description, tags, thumbnail_path=None, privacy=None):
+def upload(video_path, title, description, tags, thumbnail_path=None, privacy=None, srt_path=None):
     yt = client()
     body = {
         "snippet": {
@@ -72,4 +75,26 @@ def upload(video_path, title, description, tags, thumbnail_path=None, privacy=No
             yt.thumbnails().set(videoId=video_id, media_body=MediaFileUpload(str(thumbnail_path))).execute()
         except HttpError as e:  # needs a phone-verified channel; not fatal
             print(f"[youtube] thumbnail not set: {e}")
+
+    if srt_path and Path(srt_path).exists():
+        try:  # needs the youtube.force-ssl scope (scripts/youtube_token.py); burned-in captions exist anyway
+            yt.captions().insert(part="snippet", body={"snippet": {
+                "videoId": video_id, "language": "en", "name": "English", "isDraft": False}},
+                media_body=MediaFileUpload(str(srt_path), mimetype="application/octet-stream")).execute()
+            print("[youtube] captions uploaded")
+        except HttpError as e:
+            print(f"[youtube] captions not uploaded (re-run scripts/youtube_token.py to allow it): {e}")
     return video_id
+
+
+def stats(video_ids):
+    """{video_id: {views, likes, comments}} for up to 50 videos (1 quota unit)."""
+    if not video_ids:
+        return {}
+    resp = client().videos().list(part="statistics", id=",".join(video_ids[:50])).execute()
+    out = {}
+    for it in resp.get("items", []):
+        s = it.get("statistics", {})
+        out[it["id"]] = {"views": int(s.get("viewCount", 0)), "likes": int(s.get("likeCount", 0)),
+                         "comments": int(s.get("commentCount", 0))}
+    return out
