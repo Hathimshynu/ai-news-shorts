@@ -2,6 +2,7 @@
 Run locally with:  python -m pipeline.produce"""
 import json
 import math
+import os
 import random
 import shutil
 import subprocess
@@ -57,19 +58,29 @@ def _shrink_for_telegram(path, limit_mb=48):
 def run():
     now = datetime.now(ZoneInfo("Asia/Kolkata"))
     slot = "morning" if now.hour < 12 else "evening"
-    publish_at, closes = ("8 AM", "11 AM") if slot == "morning" else ("7 PM", "10 PM")
+    if now.hour >= 22:
+        publish_at, closes = "8 AM tomorrow", "11 AM"
+    else:
+        publish_at, closes = ("8 AM", "11 AM") if slot == "morning" else ("7 PM", "10 PM")
     job_id = f"{now:%Y-%m-%d}-{slot}-{now:%H%M}"  # unique per video
     _reset_dirs()
 
-    # 1. Trend discovery across all sources, then the editor picks (with category variety)
-    clusters = trends.top_clusters(12)
-    if not clusters:
-        raise RuntimeError("No fresh stories found in any source")
-    ranked = script_gen.pick_topic(clusters, avoid_categories=trends.recent_categories())
+    # 1. Trend discovery across all sources, then the editor picks (with category variety).
+    #    TOPIC_JSON = a story you picked in Telegram after rejecting a video: use it directly.
+    picked = _picked_topic()
+    clusters = trends.top_clusters(12) if not picked else _safe_top_clusters()
+    if picked:
+        print(f"[produce] you picked: {picked['title']}")
+        clusters = [c for c in clusters if not trends.same_story(c["title"], picked["title"])]
+        ranked = [picked] + clusters
+    else:
+        if not clusters:
+            raise RuntimeError("No fresh stories found in any source")
+        ranked = script_gen.pick_topic(clusters, avoid_categories=trends.recent_categories())
 
     # 2. Script package + fact-check (one automatic rewrite without the unverified claims)
     pkg = provider = chosen = article = facts = None
-    for cluster in ranked[:3]:
+    for cluster in (ranked[:1] if picked else ranked[:3]):  # your pick is never swapped for another story
         try:
             article, urls, primary = trends.article_text(cluster)
             pkg, provider = script_gen.write_package(cluster["title"], article)
@@ -86,8 +97,11 @@ def run():
     if not pkg:
         raise RuntimeError("Could not write a script for any of the top 3 stories")
     print(f"[produce] topic: {chosen['title']} [{pkg.category}] (LLM: {provider}) facts ok: {facts['passed']}")
-    trends.save_backlog([c for c in ranked[1:8] if not trends.same_story(c["title"], chosen["title"])])
-    _save_trends_snapshot(job_id, ranked, chosen)
+    others = [c for c in ranked if not trends.same_story(c["title"], chosen["title"])]
+    if not picked:
+        trends.save_backlog(others[:7])
+        _save_trends_snapshot(job_id, ranked, chosen)
+    _save_topic_menu(others[:10])  # offered in Telegram if you reject this video
 
     # 3. Voiceover (pronunciation fixes, loudness-normalised); rewrite shorter if too long
     raw, voice = config.JOB / "voice_raw.mp3", config.JOB / "voice.mp3"
@@ -175,6 +189,7 @@ def run():
         when = (f"Tap Approve → the button changes within ~15 s to confirm. Posts at {publish_at} IST, "
                 f"or within a minute if you approve later (until {closes}).")
     flag = "" if report["passed"] else "⚠️ QA FAILED, see report below\n"
+    flag += "🎯 Your pick\n" if picked else ""
     caption = (f"{flag}🎬 {meta['title']}\n🏷 {pkg.category}\n📰 {meta['topic']}\n"
                f"⏱ {meta['seconds']}s · 🤖 {provider}\n\n{when}")
     telegram_bot.send_video_for_approval(tg_video, caption, job_id)
@@ -187,6 +202,37 @@ def run():
         + f"\n\n📌 Pinned comment idea: {pkg.pinned_comment}\n\n🔗 Sources:\n"
         + ("\n".join(meta["sources"]) or "(RSS snippets only, check facts carefully)"))
     print("[produce] done")
+
+
+def _picked_topic():
+    raw = (os.getenv("TOPIC_JSON") or "").strip()
+    if not raw:
+        return None
+    c = json.loads(raw)
+    c.setdefault("score", 0)
+    c.setdefault("kinds", sorted({i.get("kind", "news") for i in c["items"]}))
+    c.setdefault("primary", any(trends.is_primary(i["link"]) for i in c["items"]))
+    c["reason"] = "You picked this topic in Telegram"
+    for i in c["items"]:
+        for k, v in (("source", "news"), ("kind", "news"), ("summary", ""), ("country", "GLOBAL")):
+            i.setdefault(k, v)
+    return c
+
+
+def _safe_top_clusters():
+    try:
+        return trends.top_clusters(12)
+    except Exception as e:  # noqa: BLE001 - only needed for the next topic menu
+        print(f"[produce] trend refresh failed: {e}")
+        return []
+
+
+def _save_topic_menu(clusters):
+    """Top stories (minus this video's) with their links, so a rejected video can be replaced."""
+    menu = [{"title": c["title"], "score": c.get("score", 0), "kinds": c.get("kinds", []),
+             "items": [{k: i.get(k) for k in ("title", "link", "source", "kind")} | {"summary": (i.get("summary") or "")[:200]}
+                       for i in c["items"][:5]]} for c in clusters]
+    (config.OUT / "topics.json").write_text(json.dumps(menu, ensure_ascii=False))
 
 
 def _save_trends_snapshot(job_id, ranked, chosen):

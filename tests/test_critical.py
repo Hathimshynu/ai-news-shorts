@@ -225,3 +225,33 @@ def test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkey
                     "last_try": datetime.now(timezone.utc).isoformat()})
     monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42)], []))
     assert gate.decide() == "wait"
+
+
+# ---------------------------------------------------------------- reject -> pick a new topic
+def test_reject_offers_topics_and_tap_starts_one_video(tmp_state, monkeypatch):
+    (tmp_state / "topics.json").write_text(json.dumps(
+        [{"title": f"Story {i}", "items": [{"title": f"Story {i}", "link": f"https://a.com/{i}"}]} for i in range(12)]))
+    sent, started = [], []
+    taps = [("reject:J1", 42, 42)]
+
+    def tg(method, **k):
+        sent.append((method, k))
+        if method == "getUpdates":
+            return {"ok": True, "result": [{"update_id": n, "callback_query": {
+                "id": f"cb{n}", "data": d, "from": {"id": 42}, "message": {"message_id": 7 + n, "chat": {"id": 42}}}}
+                for n, d in enumerate(t[0] for t in taps)]}
+        return {"ok": True}
+    monkeypatch.setattr(gate, "tg", tg)
+    monkeypatch.setattr(gate, "start_video", lambda topic: started.append(topic["title"]))
+    assert gate.decide() == "done"
+    menu = [json.loads(k["reply_markup"]) for m, k in sent if m == "sendMessage" and "reply_markup" in k]
+    assert len(menu) == 1 and len(menu[0]["inline_keyboard"]) == 10      # top 10 offered once
+    assert menu[0]["inline_keyboard"][2][0]["callback_data"] == "topic:J1:2"
+
+    taps.append(("topic:J1:2", 42, 42))
+    gate.decide()
+    taps.append(("topic:J1:5", 42, 42))                                   # second tap: ignored
+    gate.decide()
+    assert started == ["Story 2"]
+    assert gate.get("J1")["replacement"]["title"] == "Story 2"
+    assert sum(1 for m, k in sent if m == "sendMessage" and "reply_markup" in k) == 1   # no duplicate menu

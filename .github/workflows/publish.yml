@@ -21,7 +21,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  actions: read     # download the videos made by the produce runs
+  actions: write    # download videos, and start a new video when you pick a topic
   contents: write   # remember which videos were posted (data/published.json)
 
 concurrency:

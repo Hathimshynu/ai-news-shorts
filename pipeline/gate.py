@@ -48,9 +48,10 @@ IST = timezone(timedelta(hours=5, minutes=30))
 WINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours
 POLL_SECONDS = 10
 WATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over
-REFRESH_SECONDS = 5 * 60           # look for newly made videos this often while watching
+REFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching
 _answered = set()                  # callback ids already answered in this run
 _labels = {}                       # (chat_id, message_id) -> label already shown
+TOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the "pick a topic" menu
 
 
 def tg(method, **params):
@@ -174,6 +175,7 @@ def presses():
         print(f"[gate] Telegram API error: {res}")
         return {}
     out = {}
+    TOPIC_TAPS.clear()
     for u in res.get("result", []):
         cq = u.get("callback_query") or {}
         action, _, jid = (cq.get("data") or "").partition(":")
@@ -182,6 +184,9 @@ def presses():
             print(f"[gate] tap update={u.get('update_id')} data={cq.get('data')!r} mine={mine}")
         if action == "noop" and cq.get("id"):
             answer(cq["id"], "Already decided 👍")
+        if mine and action == "topic":
+            TOPIC_TAPS.append((jid, cq))
+            continue
         if not mine or action not in ("approve", "reject"):
             continue
         _, msgs, ids = out.get(jid, (None, [], []))
@@ -221,10 +226,74 @@ def set_buttons(messages, label, job_id=None):
 lock_buttons = set_buttons  # backwards-compatible name
 
 
+# ---------- replace a rejected video with a topic you pick ----------
+def _menu(folder):
+    path = Path(folder) / "topics.json"
+    return json.loads(path.read_text()) if path.exists() else []
+
+
+def send_topic_menu(job_id, folder):
+    rec = get(job_id)
+    if rec.get("menu_sent"):
+        return
+    topics = _menu(folder)[:10]
+    if not topics:
+        notify("To make a new video now: Actions → Produce daily short → Run workflow.")
+        return
+    rows = [[{"text": f"{i + 1}. {t['title']}"[:60], "callback_data": f"topic:{job_id}:{i}"}]
+            for i, t in enumerate(topics)]
+    lines = [f"{i + 1}. {t['title']}" for i, t in enumerate(topics)]
+    res = tg("sendMessage", chat_id=CHAT, reply_markup=json.dumps({"inline_keyboard": rows}),
+             text=("🔥 Trending now. Tap one and I'll make a new video on it (~15 min):\n\n"
+                   + "\n".join(lines))[:4000])
+    rec["menu_sent"] = bool(res.get("ok"))
+    put(job_id, rec)
+
+
+def start_video(topic):
+    """Start the produce workflow for this topic. Returns an error text, or None if it started."""
+    if not os.getenv("GITHUB_ACTIONS"):
+        return "not running on GitHub"
+    payload = json.dumps(topic, ensure_ascii=False)
+    r = subprocess.run(["gh", "workflow", "run", "produce.yml", "-f", f"topic_json={payload}"],
+                       cwd=ROOT, capture_output=True, text=True)
+    return None if r.returncode == 0 else (r.stderr or r.stdout).strip()[:300]
+
+
+def handle_topic_taps(vids):
+    folders = {j: d for j, d, _ in vids}
+    for ref, cq in list(TOPIC_TAPS):
+        job_id, _, idx = ref.rpartition(":")
+        rec = get(job_id)
+        msg = cq.get("message") or {}
+        where = [(msg["chat"]["id"], msg["message_id"])] if msg.get("message_id") else []
+        if rec.get("replacement"):
+            answer(cq.get("id", ""), f"Already making: {rec['replacement']['title'][:120]}")
+            continue
+        topics = _menu(folders[job_id]) if job_id in folders else []
+        if not idx.isdigit() or int(idx) >= len(topics):
+            answer(cq.get("id", ""), "This menu has expired (older than 24 h). Run Produce from GitHub instead.")
+            continue
+        topic = topics[int(idx)]
+        err = start_video(topic)
+        if err:
+            answer(cq.get("id", ""), "Couldn't start the new video, see the message below.")
+            notify(f"⚠️ Couldn't start a video on \"{topic['title']}\": {err}\n"
+                   "Fix: in publish.yml permissions, set actions: write. Or run Produce daily short by hand.")
+            continue
+        rec["replacement"] = {"title": topic["title"], "requested_at": datetime.now(timezone.utc).isoformat()}
+        put(job_id, rec)
+        _sh("bash scripts/save_record.sh")  # remember now, so a restart can't start it twice
+        set_buttons(where, f"🎬 Making: {topic['title']}"[:60])
+        answer(cq.get("id", ""), "🎬 Making your video. It arrives here in about 15 minutes.")
+        notify(f"🎬 Making a new video on: {topic['title']}\nIt arrives here for approval in about 15 minutes.")
+
+
 # ---------- decision ----------
 def decide(now=None):
     vids = candidates()
     decisions = presses() if vids else {}
+    handle_topic_taps(vids)
     statuses = {j: get(j)["status"] for j, _, _ in vids}
     print(f"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}")
 
@@ -263,8 +332,9 @@ def decide(now=None):
         if decision == "reject":
             mark_done(job_id, "rejected")
             set_buttons(msgs, "❌ Rejected · won't be posted")
-            answer(ids, "❌ Rejected. This video won't be posted.")
+            answer(ids, "❌ Rejected. Pick a topic for a new video below.")
             notify(f"⏭ Skipped (rejected): {meta['title']}")
+            send_topic_menu(job_id, folder)
 
     # 3. Approvals (newest first) and auto-publish
     w = window(now)
