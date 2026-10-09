@@ -1,1 +1,28 @@
-{}
+{
+  "2026-10-09-evening-1938": {
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/yWoQJ6mIx8I",
+      "instagram": "https://www.instagram.com/reel/DeRutInmL6w/",
+      "facebook": "https://www.facebook.com/reel/1618323193352409"
+    },
+    "approved_at": "2026-10-09T14:31:28.755706+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-09T14:31:30.614746+00:00",
+    "ids": {
+      "youtube": "yWoQJ6mIx8I",
+      "instagram": "18137690122633014",
+      "facebook": "1618323193352409"
+    },
+    "info": {
+      "title": "Sophos Uses OpenAI to Cut Response Time to 89s #shorts",
+      "topic": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "category": "Trending Technology",
+      "hook": "Threat investigations dropped from thirty-eight minutes to eighty-nine seconds.",
+      "seconds": 48.2,
+      "primary_keyword": "OpenAI Daybreak Sophos",
+      "qa_passed": false,
+      "posted_at": "2026-10-09T14:33:03.267744+00:00"
+    }
+  }
+}
