@@ -33,7 +33,7 @@ FB_PAGE_ID = env("FB_PAGE_ID")              # optional: Facebook Page Reels
 FB_PAGE_TOKEN = env("FB_PAGE_TOKEN")        # optional; defaults to IG_ACCESS_TOKEN
 
 # ---- Models (change here when a provider renames a model) ----
-GEMINI_MODEL = env("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
 GROQ_MODEL = env("GROQ_MODEL", "llama-3.3-70b-versatile")
 OPENROUTER_MODEL = env("OPENROUTER_MODEL", "meta-llama/llama-3.3-70b-instruct:free")
 
