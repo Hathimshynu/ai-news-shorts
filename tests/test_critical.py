@@ -172,3 +172,56 @@ def test_webhook_blocking_updates_is_removed(tmp_state, monkeypatch):
         return {"ok": True}
     monkeypatch.setattr(gate, "tg", tg)
     assert gate.decide() == "publish" and "deleteWebhook" in sent
+
+
+# ---------------------------------------------------------------- live watcher behaviour
+def test_early_approval_is_confirmed_and_held_until_window(tmp_state, monkeypatch):
+    from datetime import datetime
+    monkeypatch.setattr(gate, "in_window", lambda now=None: False)
+    monkeypatch.setattr(gate, "MODE", "watch")
+    calls = []
+
+    def tg(method, **k):
+        calls.append((method, k))
+        if method == "getUpdates":
+            return {"ok": True, "result": [{"update_id": 1, "callback_query": {
+                "id": "cb1", "data": "approve:J1", "from": {"id": 42},
+                "message": {"message_id": 7, "chat": {"id": 42}}}}]}
+        return {"ok": True}
+    monkeypatch.setattr(gate, "tg", tg)
+    six_am = datetime(2026, 10, 9, 6, 30, tzinfo=gate.IST)
+    assert gate.decide(six_am) == "wait"
+    toast = [k["text"] for m, k in calls if m == "answerCallbackQuery"]
+    assert toast and "8:00 AM" in toast[0]                          # you see it registered
+    assert gate.get("J1")["status"] == "approved"                   # remembered even if Telegram forgets
+    labels = [json.loads(k["reply_markup"]) for m, k in calls if m == "editMessageReplyMarkup"]
+    assert "Cancel" in labels[0]["inline_keyboard"][1][0]["text"]  # can still change your mind
+
+    monkeypatch.setattr(gate, "in_window", lambda now=None: True)  # 8:00 AM
+    monkeypatch.setattr(gate, "tg", telegram([], []))               # tap no longer visible
+    assert gate.decide() == "publish"
+
+
+def test_cancel_after_approve(tmp_state, monkeypatch):
+    monkeypatch.setattr(gate, "in_window", lambda now=None: False)
+    monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42), ("reject:J1", 42, 42)], []))
+    assert gate.decide() == "done" and gate.get("J1")["status"] == "rejected"
+
+
+def test_skipped_video_posts_if_approved_later(tmp_state, monkeypatch):
+    monkeypatch.setattr(gate, "MODE", "final")
+    monkeypatch.setattr(gate, "tg", telegram([], []))
+    gate.decide()
+    assert gate.get("J1")["status"] == "expired"
+    monkeypatch.setattr(gate, "MODE", "watch")
+    monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42)], []))
+    assert gate.decide() == "publish"
+
+
+def test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkeypatch):
+    from datetime import datetime, timezone
+    monkeypatch.setattr(gate, "MODE", "watch")
+    gate.put("J1", {"status": "posting", "attempts": 1, "platforms": {"youtube": "x"},
+                    "last_try": datetime.now(timezone.utc).isoformat()})
+    monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42)], []))
+    assert gate.decide() == "wait"

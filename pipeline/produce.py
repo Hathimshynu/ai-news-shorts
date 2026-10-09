@@ -172,7 +172,8 @@ def run():
     if config.AUTO_PUBLISH and report["passed"]:
         when = f"🤖 Auto-publish ON: posts at {publish_at} IST unless you press Reject."
     else:
-        when = f"Approve → posts at {publish_at} IST. Approve later → posts within ~15 min (until {closes})."
+        when = (f"Tap Approve → the button changes within ~15 s to confirm. Posts at {publish_at} IST, "
+                f"or within a minute if you approve later (until {closes}).")
     flag = "" if report["passed"] else "⚠️ QA FAILED, see report below\n"
     caption = (f"{flag}🎬 {meta['title']}\n🏷 {pkg.category}\n📰 {meta['topic']}\n"
                f"⏱ {meta['seconds']}s · 🤖 {provider}\n\n{when}")

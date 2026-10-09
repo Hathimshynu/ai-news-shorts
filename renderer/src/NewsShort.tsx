@@ -46,8 +46,9 @@ const Background: React.FC<{scene: Scene; first?: boolean}> = ({scene, first}) =
       style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${scale})`}}
     />
   );
+  const lift = first ? interpolate(frame, [0, 90], [1.25, 1.05], {extrapolateRight: 'clamp'}) : 1.05;
   return (
-    <AbsoluteFill style={{opacity, backgroundColor: '#000'}}>
+    <AbsoluteFill style={{opacity, backgroundColor: '#000', filter: `brightness(${lift})`}}>
       {scene.clipFrames > 0 && scene.clipFrames < scene.durationInFrames ? (
         <Loop durationInFrames={scene.clipFrames}>{video}</Loop>
       ) : (
@@ -96,24 +97,28 @@ const SceneLabel: React.FC<{text: string}> = ({text}) => {
 };
 
 const Hook: React.FC<{text: string}> = ({text}) => {
+  // Frame 0 is the cover on Instagram/Facebook: a bright yellow card with bold black text,
+  // so the first frame is never dark and the hook reads instantly in the feed.
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const s = interpolate(spring({frame, fps, config: {damping: 12}}), [0, 1], [0.92, 1]); // never invisible: frame 0 is the cover
+  const s = interpolate(spring({frame, fps, config: {damping: 12}}), [0, 1], [0.94, 1]); // never invisible
   const out = interpolate(frame, [70, 80], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
   return (
-    <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', padding: 70, opacity: out}}>
+    <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', padding: 60, opacity: out}}>
       <div
         style={{
-          color: '#fff',
+          background: ACCENT,
+          color: '#0b0f1a',
           fontFamily: FONT,
           fontWeight: 900,
-          fontSize: 110,
-          lineHeight: 1.05,
+          fontSize: 96,
+          lineHeight: 1.08,
           textAlign: 'center',
           textTransform: 'uppercase',
-          transform: `scale(${s})`,
-          textShadow: '0 8px 30px rgba(0,0,0,.8)',
-          WebkitTextStroke: '3px #000',
+          padding: '56px 48px',
+          borderRadius: 36,
+          transform: `scale(${s}) rotate(-1.5deg)`,
+          boxShadow: '0 24px 60px rgba(0,0,0,.45)',
         }}
       >
         {text}

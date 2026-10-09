@@ -17,8 +17,10 @@ It runs on GitHub Actions (no server, no card). Your phone only needs Telegram.
   -> Remotion renders 1080x1920 -> thumbnails -> 13 automated quality checks
   -> Telegram: video + Approve/Reject, script, hook options, fact-check, QA report, sources
 
-8-11 AM / 7-10 PM IST   publish.yml (checks every 15 min)
-  -> posts the video YOU approved to YouTube (+captions file), Instagram, Facebook (+cover)
+right after each video  publish.yml starts and watches Telegram until 11 AM / 10 PM IST
+  -> every tap is confirmed within ~10 s (button changes + pop-up)
+  -> posts the video YOU approved to YouTube (+captions file), Instagram, Facebook (+cover):
+     at 8 AM / 7 PM if approved early, within a minute if approved during the window
   -> each platform recorded the moment it succeeds: nothing is ever posted twice
 
 10:15 PM IST            report.yml
@@ -71,7 +73,10 @@ Only one of the three AI keys is required; more keys = more fallback when one is
 
 ## Daily use (≈ 5 minutes)
 - Watch the video, read the fact-check and QA report Telegram sends with it.
-- **Approve** before 8 AM / 7 PM → posts then. Approve later → posts within ~15 min. Windows close 11 AM / 10 PM.
+- Tap **Approve**: within ~10 seconds the button changes to "✅ Approved · posts at 8:00 AM" (with a Cancel button) or "✅ Approved · posting now". If it doesn't change, the approval wasn't seen: see TROUBLESHOOTING.md.
+- Approve before 8 AM / 7 PM → posts then. Approve during the window → posts within a minute. Windows close 11 AM / 10 PM.
+- Missed the window? The video is marked skipped, but tapping Approve later still posts it in the next window (or run **Publish approved short** by hand to post immediately).
+- The repo must be **public** for the live watcher (free unlimited minutes). A private repo falls back to checks every 15 minutes.
 - QA-failed videos are marked ⚠️; you can still approve them yourself, but auto-publish never posts them.
 - Pin the suggested comment on YouTube (Telegram sends it after posting).
 

@@ -45,6 +45,7 @@ def run():
         return
     rec["status"] = "posting"
     rec["attempts"] = rec.get("attempts", 0) + 1
+    rec["last_try"] = datetime.now(timezone.utc).isoformat()
     rec.setdefault("platforms", {})
     rec.setdefault("ids", {})
     rec["info"] = {k: meta.get(k) for k in ("title", "topic", "category", "hook", "seconds", "primary_keyword")}
@@ -82,7 +83,7 @@ def run():
         gate.put(job_id, rec)
 
     if errors:
-        retry = "Giving up on these." if last_try else "Will retry the failed ones in ~15 minutes."
+        retry = "Giving up on these." if last_try else "Will retry the failed ones in ~10-15 minutes."
         head = f"⚠️ Partly published: {meta['title']}" if rec["platforms"] else f"❌ Publishing failed: {meta['title']}"
         telegram_bot.notify("\n".join([head, *lines, "", "Failed:", *errors, "", retry])[:3900])
     else:

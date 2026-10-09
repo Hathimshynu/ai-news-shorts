@@ -1,25 +1,35 @@
-"""Approval check that runs every 15 minutes during each posting window (and when run by hand).
-Standard library only, so it starts in seconds without installing anything.
+"""Approval gate: reads your Telegram Approve/Reject taps and decides what to post.
+Standard library only (starts in seconds).
 
 The workflow downloads every video made in the last 24 hours into candidates/<run_id>/.
-This script reads your Telegram button presses and picks the video YOU approved (not just the
-newest one), copies it into out/ and writes the action to $GITHUB_OUTPUT:
+This script finds the video YOU approved, copies it into out/ and says what to do:
   publish  - an approved (or half-posted) video is ready in out/
-  done     - nothing to post
-  wait     - no decision yet -> check again in 15 minutes
+  done     - nothing left to post
+  wait     - no decision yet, or approved but the posting window hasn't opened
 
-MODE: check (scheduled, silent while waiting) | final (last check of a window: unanswered
-videos are skipped) | manual (run by hand: posts immediately if approved, otherwise explains why not)
+MODE
+  watch  - (public repo) stays running through the posting window, checks Telegram every
+           10 seconds, confirms every tap immediately and posts within a minute
+  check  - one quick check (private repo / backup schedule)
+  final  - last check of a window: unanswered videos are marked skipped
+  manual - run by hand: posts an approved video right now, otherwise explains why not
 
-data/published.json keeps one record per video so nothing is ever posted twice:
-  {"2026-10-09-evening-1512": {"status": "posting", "platforms": {"youtube": "https://..."}, "attempts": 1}}
+Posting windows (IST): 8-11 AM and 7-10 PM. Approve before the window -> posts when it opens.
+Approve during the window -> posts within a minute. Approve a skipped video later -> posts in
+the next window (or immediately if you run Publish by hand).
+
+data/published.json keeps one record per video so nothing is ever posted twice.
 """
 import json
 import os
 import shutil
+import subprocess
+import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -33,6 +43,14 @@ MODE = os.getenv("MODE", "check")
 AUTO = (os.getenv("AUTO_PUBLISH") or "").strip().lower() == "true"  # post QA-passed videos without Approve
 FINAL_STATES = ("published", "rejected", "expired", "failed")
 MAX_ATTEMPTS = 3
+RETRY_AFTER = 10 * 60          # wait before retrying a platform that failed
+IST = timezone(timedelta(hours=5, minutes=30))
+WINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours
+POLL_SECONDS = 10
+WATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over
+REFRESH_SECONDS = 5 * 60           # look for newly made videos this often while watching
+_answered = set()                  # callback ids already answered in this run
+_labels = {}                       # (chat_id, message_id) -> label already shown
 
 
 def tg(method, **params):
@@ -45,6 +63,8 @@ def tg(method, **params):
             return json.loads(e.read() or b"{}")
         except ValueError:
             return {"ok": False, "description": str(e)}
+    except Exception as e:  # noqa: BLE001 - network hiccup: treat as "no answer", try again later
+        return {"ok": False, "description": str(e)}
 
 
 def notify(text):
@@ -52,6 +72,34 @@ def notify(text):
         tg("sendMessage", chat_id=CHAT, text=text[:4000])
     except Exception as e:  # noqa: BLE001
         print(f"[gate] notify failed: {e}")
+
+
+# ---------- time windows ----------
+def now_ist():
+    return datetime.now(IST)
+
+
+def window(now=None):
+    """(start, end) of the current or next posting window today, or None after the last one."""
+    now = now or now_ist()
+    for s, e in WINDOWS:
+        end = now.replace(hour=e, minute=0, second=0, microsecond=0)
+        if now < end:
+            return now.replace(hour=s, minute=0, second=0, microsecond=0), end
+    return None
+
+
+def in_window(now=None):
+    w = window(now)
+    return bool(w) and w[0] <= (now or now_ist()) < w[1]
+
+
+def fmt(dt):
+    return dt.strftime("%-I:%M %p")
+
+
+def can_post_now(now=None):
+    return MODE in ("manual", "final") or in_window(now)
 
 
 # ---------- published.json ----------
@@ -112,7 +160,8 @@ def _mine(cq):
 
 
 def presses():
-    """{job_id: (decision, [(chat_id, message_id)])} from button presses, without consuming them."""
+    """{job_id: (decision, [(chat_id, message_id)], [callback_ids])} from button taps.
+    Taps are read without being consumed, so every later check still sees them (Telegram keeps 24 h)."""
     res = tg("getUpdates", allowed_updates=json.dumps(["callback_query"]), limit=100)
     if not res.get("ok") and res.get("error_code") == 409:
         # A webhook is set on this bot, which blocks reading button presses. Remove it and retry.
@@ -129,32 +178,63 @@ def presses():
         cq = u.get("callback_query") or {}
         action, _, jid = (cq.get("data") or "").partition(":")
         mine = _mine(cq)
-        print(f"[gate] press update={u.get('update_id')} data={cq.get('data')!r} mine={mine}")
+        if cq.get("id") not in _answered:
+            print(f"[gate] tap update={u.get('update_id')} data={cq.get('data')!r} mine={mine}")
+        if action == "noop" and cq.get("id"):
+            answer(cq["id"], "Already decided 👍")
         if not mine or action not in ("approve", "reject"):
             continue
-        prev = out.get(jid, (None, []))
-        msgs = prev[1]
+        _, msgs, ids = out.get(jid, (None, [], []))
         msg = cq.get("message") or {}
         if msg.get("message_id"):
             msgs = msgs + [(msg["chat"]["id"], msg["message_id"])]
-        out[jid] = (action, msgs)  # latest press wins
+        if cq.get("id"):
+            ids = ids + [cq["id"]]
+        out[jid] = (action, msgs, ids)  # latest tap wins
     return out
 
 
-def lock_buttons(messages, label):
-    """Replace Approve/Reject with a status label so the video can't be approved twice."""
-    markup = json.dumps({"inline_keyboard": [[{"text": label, "callback_data": "noop"}]]})
+def answer(callback_ids, text):
+    """Show a small pop-up on your phone confirming the tap (only possible for recent taps)."""
+    for cid in [callback_ids] if isinstance(callback_ids, str) else callback_ids:
+        if cid in _answered:
+            continue
+        _answered.add(cid)
+        tg("answerCallbackQuery", callback_query_id=cid, text=text[:190])
+
+
+def set_buttons(messages, label, job_id=None):
+    """Replace Approve/Reject with a status label. With job_id, a Cancel button stays available."""
+    rows = [[{"text": label, "callback_data": "noop"}]]
+    if job_id:
+        rows.append([{"text": "❌ Cancel (don't post)", "callback_data": f"reject:{job_id}"}])
+    markup = json.dumps({"inline_keyboard": rows})
     for chat_id, message_id in set(messages):
+        if _labels.get((chat_id, message_id)) == (label, job_id):
+            continue
+        _labels[(chat_id, message_id)] = (label, job_id)
         res = tg("editMessageReplyMarkup", chat_id=chat_id, message_id=message_id, reply_markup=markup)
         if not res.get("ok") and "not modified" not in str(res.get("description", "")):
             print(f"[gate] could not update buttons: {res}")
 
 
+lock_buttons = set_buttons  # backwards-compatible name
+
+
 # ---------- decision ----------
-def decide():
+def decide(now=None):
     vids = candidates()
-    open_vids = [(j, d, m) for j, d, m in vids if get(j)["status"] not in FINAL_STATES]
-    print(f"[gate] videos: {[(j, get(j)['status']) for j, _, _ in vids]}")
+    decisions = presses() if vids else {}
+    statuses = {j: get(j)["status"] for j, _, _ in vids}
+    print(f"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}")
+
+    def approved(job_id):
+        return decisions.get(job_id, (None,))[0] == "approve" or statuses[job_id] == "approved"
+
+    # Open = not finished yet. A skipped (expired) video re-opens when you approve it later.
+    open_vids = [(j, d, m) for j, d, m in vids
+                 if statuses[j] not in FINAL_STATES or (statuses[j] == "expired" and approved(j)
+                                                        and decisions.get(j, (None,))[0] != "reject")]
     if not open_vids:
         if MODE == "manual":
             notify("ℹ️ Nothing to publish: no new video from the last 24 hours "
@@ -162,54 +242,124 @@ def decide():
         return "done"
 
     # 1. Finish a post that was interrupted or partly failed
+    retry_later = False
     for job_id, folder, meta in open_vids:
         rec = get(job_id)
         if rec["status"] == "posting":
             if rec.get("attempts", 0) >= MAX_ATTEMPTS:
                 mark_done(job_id, "published" if rec["platforms"] else "failed")
                 continue
+            last = rec.get("last_try")
+            if MODE == "watch" and last and (datetime.now(timezone.utc) - datetime.fromisoformat(last)).total_seconds() < RETRY_AFTER:
+                retry_later = True
+                continue
             print(f"[gate] finishing earlier post of {job_id}")
             select(folder)
             return "publish"
 
-    # 2. Your Approve / Reject presses
-    decisions = presses()
+    # 2. Rejects (also "Cancel" after approving)
     for job_id, folder, meta in open_vids:
-        decision, msgs = decisions.get(job_id, (None, []))
+        decision, msgs, ids = decisions.get(job_id, (None, [], []))
         if decision == "reject":
             mark_done(job_id, "rejected")
-            lock_buttons(msgs, "❌ Rejected")
+            set_buttons(msgs, "❌ Rejected · won't be posted")
+            answer(ids, "❌ Rejected. This video won't be posted.")
             notify(f"⏭ Skipped (rejected): {meta['title']}")
-    for job_id, folder, meta in open_vids:  # newest approved video first
-        decision, msgs = decisions.get(job_id, (None, []))
-        if get(job_id)["status"] in FINAL_STATES:
-            continue  # rejected just now
-        auto = AUTO and decision is None and (meta.get("qa") or {}).get("passed")
-        if decision == "approve" or auto:
-            if auto:
-                print(f"[gate] auto-publish (QA passed): {job_id}")
-            print(f"[gate] approved: {job_id} {meta['title']!r}")
-            lock_buttons(msgs, "✅ Approved · posting now")
+
+    # 3. Approvals (newest first) and auto-publish
+    w = window(now)
+    holding = retry_later
+    for job_id, folder, meta in open_vids:
+        if get(job_id)["status"] in ("rejected", "published", "failed", "posting"):
+            continue  # "posting" = waiting to retry a failed platform (handled in step 1)
+        decision, msgs, ids = decisions.get(job_id, (None, [], []))
+        auto = AUTO and decision is None and statuses[job_id] == "new" and (meta.get("qa") or {}).get("passed")
+        if not (approved(job_id) or auto):
+            continue
+        rec = get(job_id)
+        if rec["status"] in ("new", "expired"):
+            rec["status"] = "approved"
+            rec["approved_at"] = datetime.now(timezone.utc).isoformat()
+            put(job_id, rec)  # remembered even if Telegram forgets the tap
+        if can_post_now(now):
+            print(f"[gate] {'auto-publish (QA passed)' if auto else 'approved'}: {job_id} {meta['title']!r}")
+            set_buttons(msgs, "✅ Approved · posting now")
+            answer(ids, "✅ Approved! Posting now. Links arrive here in a few minutes.")
             select(folder)
             return "publish"
+        when = f"{fmt(w[0])} IST" if w else "8:00 AM IST tomorrow"
+        set_buttons(msgs, f"✅ Approved · posts at {when}", job_id)
+        answer(ids, f"✅ Approved! It will post at {when}.")
+        holding = True
 
-    waiting = [(j, m) for j, _, m in open_vids if get(j)["status"] not in FINAL_STATES]
+    waiting = [(j, m) for j, _, m in open_vids if get(j)["status"] in ("new",)]
     if MODE == "final":
         for job_id, meta in waiting:
             mark_done(job_id, "expired")
-            notify(f"⏭ Skipped (not approved before the window closed): {meta['title']}")
-        return "done"
+            notify(f"⏭ Skipped (not approved before the window closed): {meta['title']}\n"
+                   "Still want it? Tap ✅ Approve under the video: it posts in the next window "
+                   "(or run Publish by hand to post right away).")
+        return "wait" if holding else "done"
     if MODE == "manual" and waiting:
-        seen = ", ".join(f"{a}:{j}" for j, (a, _) in decisions.items()) or "none"
+        seen = ", ".join(f"{a}:{j}" for j, (a, _, _) in decisions.items()) or "none"
         lines = [f"• {m['title']}  (id {j})" for j, m in waiting]
-        notify("⏳ No Approve press found for these videos:\n" + "\n".join(lines)
-               + f"\n\nButton presses I can see (last 24h): {seen}"
-               + "\nPress ✅ Approve under the video in Telegram, then run Publish again.")
-    return "wait" if waiting else "done"
+        notify("⏳ No Approve tap found for these videos:\n" + "\n".join(lines)
+               + f"\n\nTaps I can see (last 24h): {seen}"
+               + "\nTap ✅ Approve under the video in Telegram, then run Publish again.")
+    return "wait" if (waiting or holding) else "done"
+
+
+# ---------- watch mode ----------
+def _sh(cmd):
+    print(f"[gate] $ {cmd}")
+    return subprocess.run(cmd, shell=True, cwd=ROOT).returncode
+
+
+def _set_mode(mode):
+    global MODE
+    MODE = mode
+
+
+def watch():
+    """Stay running through the posting window; react to taps within ~10 seconds."""
+    start = time.time()
+    w = window()
+    if not w:
+        print("[gate] after the last window today: one final check")
+        return decide()
+    print(f"[gate] watching until {fmt(w[1])} IST")
+    last_refresh = time.time()
+    while True:
+        try:
+            action = decide()
+        except Exception as e:  # noqa: BLE001 - keep watching; report once
+            print(f"[gate] check failed: {type(e).__name__}: {e}")
+            action = "wait"
+        if action == "publish":
+            if _sh(f"{sys.executable} -m pipeline.publish") != 0:
+                print("[gate] publish exited with an error (details were sent to Telegram)")
+            _sh("bash scripts/save_record.sh")
+            continue  # another approved video may be waiting
+        if MODE == "final":
+            _sh("bash scripts/save_record.sh")
+            print("[gate] window closed")
+            return "done"
+        if now_ist() >= w[1]:
+            _set_mode("final")  # one last pass: post anything approved, mark the rest skipped
+            continue
+        if time.time() - start > WATCH_LIMIT:
+            print("[gate] time limit reached; the next scheduled run continues")
+            return "done"
+        if time.time() - last_refresh > REFRESH_SECONDS and os.getenv("GITHUB_ACTIONS"):
+            _sh("bash scripts/fetch_videos.sh")  # pick up a video produced while watching
+            last_refresh = time.time()
+        time.sleep(POLL_SECONDS)
 
 
 if __name__ == "__main__":
-    action = decide()
+    action = watch() if MODE == "watch" else decide()
+    if MODE == "watch":
+        action = "done"  # watch mode already posted everything itself
     print(f"[gate] action = {action}")
     out = os.getenv("GITHUB_OUTPUT")
     if out:

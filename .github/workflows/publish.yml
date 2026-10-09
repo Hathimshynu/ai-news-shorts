@@ -1,33 +1,37 @@
 name: Publish approved short
 
-# Checks every 15 minutes during each posting window. Approve before the window
-# opens -> posts at the start (8 AM / 7 PM IST). Approve later -> posts at the next check.
+# Public repo (recommended): starts right after each video is made and keeps watching Telegram
+# until the window closes (11 AM / 10 PM IST). Every tap is confirmed within ~10 seconds and an
+# approved video posts within a minute once the window is open (8 AM / 7 PM IST).
+# Private repo: falls back to one quick check per schedule (saves Actions minutes).
 on:
+  workflow_run:
+    workflows: ["Produce daily short"]
+    types: [completed]
   schedule:
-    # Morning window 8:00-11:00 AM IST (02:30-05:30 UTC)
-    - cron: "30,45 2 * * *"
+    # Backups in case a watcher didn't start or hit GitHub's 6-hour job limit
+    - cron: "30,45 2 * * *"   # 8:00, 8:15 AM IST
     - cron: "*/15 3-4 * * *"
     - cron: "0,15 5 * * *"
-    - cron: "30 5 * * *"      # final morning check
-    # Evening window 7:00-10:00 PM IST (13:30-16:30 UTC)
-    - cron: "30,45 13 * * *"
+    - cron: "30 5 * * *"      # 11:00 AM IST final morning check
+    - cron: "30,45 13 * * *"  # 7:00, 7:15 PM IST
     - cron: "*/15 14-15 * * *"
     - cron: "0,15 16 * * *"
-    - cron: "30 16 * * *"     # final evening check
+    - cron: "30 16 * * *"     # 10:00 PM IST final evening check
   workflow_dispatch: {}
 
 permissions:
-  actions: read     # download the video from the produce run
+  actions: read     # download the videos made by the produce runs
   contents: write   # remember which videos were posted (data/published.json)
 
 concurrency:
   group: publish
-  cancel-in-progress: false
+  cancel-in-progress: false   # never interrupt a post; extra runs wait their turn
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -38,46 +42,37 @@ jobs:
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      CHANNEL_HANDLE: ${{ vars.CHANNEL_HANDLE }}
+      AFFILIATE_FOOTER: ${{ vars.AFFILIATE_FOOTER }}
       YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
       AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
       GH_TOKEN: ${{ github.token }}
-      MODE: ${{ github.event_name == 'workflow_dispatch' && 'manual' || ((github.event.schedule == '30 5 * * *' || github.event.schedule == '30 16 * * *') && 'final' || 'check') }}
+      MODE: >-
+        ${{ github.event_name == 'workflow_dispatch' && 'manual'
+        || ((github.event.schedule == '30 5 * * *' || github.event.schedule == '30 16 * * *') && 'final')
+        || (github.event.repository.private && 'check')
+        || 'watch' }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download videos from the last 24 hours
-        run: |
-          # Every "short" video, even if a later step of its run failed; gate.py picks the one you approved
-          mkdir -p candidates
-          gh api "repos/${{ github.repository }}/actions/artifacts?name=short&per_page=8" \
-            --jq '.artifacts[] | select(.expired == false) | select((.created_at | fromdateiso8601) > (now - 86400)) | .workflow_run.id' \
-          | sort -u | while read -r RID; do
-              gh run download "$RID" --name short --dir "candidates/$RID" || echo "could not download $RID"
-            done
-          ls candidates
-
-      - name: Check approval
-        id: gate
-        run: python3 -m pipeline.gate
-
       - uses: actions/setup-python@v5
-        if: steps.gate.outputs.action == 'publish'
         with:
           python-version: "3.11"
 
+      - name: Install
+        run: pip install -q requests google-api-python-client google-auth
+
+      - name: Download videos from the last 24 hours
+        run: bash scripts/fetch_videos.sh
+
+      - name: Check approvals (watch mode posts by itself)
+        id: gate
+        run: python -m pipeline.gate
+
       - name: Publish
         if: steps.gate.outputs.action == 'publish'
-        run: |
-          pip install requests google-api-python-client google-auth
-          python -m pipeline.publish
+        run: python -m pipeline.publish
 
       - name: Save posted/skipped record
         if: always()
-        run: |
-          git config user.name "ai-news-shorts-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/published.json
-          git diff --cached --quiet && exit 0
-          git commit -m "chore: update published record"
-          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
-          exit 1
+        run: bash scripts/save_record.sh

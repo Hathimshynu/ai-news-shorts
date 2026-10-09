@@ -16,3 +16,9 @@
 | Scheduled runs don't start | GitHub delays/skips crons on new or idle repos | Run manually; it settles after a few days. Public repos idle 60 days get crons paused |
 | Run fails at "Commit …" | Concurrent pushes | Retries automatically; never blocks a video |
 | Telegram says webhook removed | A webhook blocked button presses | Don't set a webhook on this bot elsewhere |
+
+## I tapped Approve but nothing happened
+- **The button didn't change within ~1 minute** → the watcher isn't running. Actions → "Publish approved short": is a run in progress? If not, run it by hand (posts right away). Check the repo is **public** (private repos only check every 15 min).
+- **The button says "posts at 7:00 PM"** → it's waiting for the window; nothing to do.
+- **The button says "posting now" but no links arrive** → open the latest Publish run → "Check approvals" step; the error is also sent to Telegram.
+- Several cancelled "Publish approved short" runs in the Actions list are normal: backup schedules that weren't needed because a watcher was already running.
