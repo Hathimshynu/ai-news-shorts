@@ -1,4 +1,12 @@
 {
+  "2026-10-08": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-evening": {
+    "status": "expired",
+    "platforms": {}
+  },
   "2026-10-09-evening-1503": {
     "status": "published",
     "platforms": {
@@ -16,5 +24,13 @@
       "facebook": "https://www.facebook.com/reel/3587976394709885"
     },
     "attempts": 1
+  },
+  "2026-10-09-evening-1624": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-morning": {
+    "status": "expired",
+    "platforms": {}
   }
 }
