@@ -81,9 +81,12 @@ jobs:
 
       - name: Commit used topics
         if: success()
+        continue-on-error: true   # never mark the run failed just because this small save failed
         run: |
           git config user.name "ai-news-shorts-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/used_topics.json
-          git diff --cached --quiet || git commit -m "chore: record today's topic"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: record today's topic"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1

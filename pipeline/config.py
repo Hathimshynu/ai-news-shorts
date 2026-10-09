@@ -11,7 +11,7 @@ TEMPLATES = ROOT / "templates"
 
 
 def env(name, default=None, required=False):
-    val = os.getenv(name) or default  # empty string (unset GitHub variable) falls back to default
+    val = (os.getenv(name) or "").strip() or default  # trims stray spaces/newlines from pasted secrets
     if required and not val:
         raise RuntimeError(f"Missing required environment variable: {name}")
     return val
@@ -33,9 +33,9 @@ FB_PAGE_ID = env("FB_PAGE_ID")              # optional: Facebook Page Reels
 FB_PAGE_TOKEN = env("FB_PAGE_TOKEN")        # optional; defaults to IG_ACCESS_TOKEN
 
 # ---- Models (change here when a provider renames a model) ----
-GEMINI_MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
-GROQ_MODEL = env("GROQ_MODEL", "llama-3.3-70b-versatile")
-OPENROUTER_MODEL = env("OPENROUTER_MODEL", "openrouter/free")
+GEMINI_MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")  # first choice; others are auto-discovered
+GROQ_MODEL = env("GROQ_MODEL", "llama-3.3-70b-versatile")  # first choice; others auto-discovered
+OPENROUTER_MODEL = env("OPENROUTER_MODEL", "openrouter/free")  # first choice; free models auto-discovered
 
 # ---- Content settings ----
 CHANNEL_NAME = env("CHANNEL_NAME", "AI News Shorts")

@@ -109,3 +109,15 @@ cd renderer && npm install && cd ..
 export GEMINI_API_KEY=... PIXABAY_API_KEY=... TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=...
 python -m pipeline.produce
 ```
+
+## Troubleshooting
+
+| Telegram message | Cause | Fix |
+|---|---|---|
+| `groq: 401 Invalid API Key` | Wrong key (often an xAI **Grok** key, which starts with `xai-`) | Create a key at console.groq.com (starts with `gsk_`) and update secret `GROQ_API_KEY` |
+| `gemini: 404 model no longer available` / `openrouter: 404 unavailable for free` | Provider retired the model | Nothing to do: the router discovers current free models automatically. Optionally set `GEMINI_MODEL` / `OPENROUTER_MODEL` variables |
+| `503 high demand` / `429` | Provider busy | Automatic: tries the next model and provider, then retries twice (after 30s and 60s) |
+| "No Approve press found yet" | Approve not pressed on *this* video, or pressed more than 24h ago | Press ✅ Approve under the latest video, then run Publish again |
+| Approved but nothing posted | Outside a posting window (8-11 AM / 7-10 PM IST) | It posts at the next window start, or run **Publish approved short** manually to post now |
+
+Run tests locally: `pip install -r requirements.txt pytest && python -m pytest -q`

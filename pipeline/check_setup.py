@@ -14,20 +14,17 @@ def check(name, fn):
         return False
 
 
-def _llm(base_url, key, model):
-    from openai import OpenAI
-    r = OpenAI(base_url=base_url, api_key=key, timeout=60).chat.completions.create(
-        model=model, messages=[{"role": "user", "content": "Reply with the word OK"}], max_tokens=5)
-    return f"{model} -> {r.choices[0].message.content.strip()}"
+def _llm(provider):
+    from .llm import chat_json
+    data, used = chat_json("Reply with JSON only.", 'Return {"ok": true}', temperature=0, only=provider, rounds=1)
+    return f"{used} -> {data}"
 
 
 def main():
     results = [
-        check("Gemini", lambda: _llm("https://generativelanguage.googleapis.com/v1beta/openai/",
-                                     config.GEMINI_API_KEY, config.GEMINI_MODEL)),
-        check("Groq", lambda: _llm("https://api.groq.com/openai/v1", config.GROQ_API_KEY, config.GROQ_MODEL)),
-        check("OpenRouter", lambda: _llm("https://openrouter.ai/api/v1", config.OPENROUTER_API_KEY,
-                                         config.OPENROUTER_MODEL)),
+        check("Gemini", lambda: _llm("gemini")),
+        check("Groq", lambda: _llm("groq")),
+        check("OpenRouter", lambda: _llm("openrouter")),
         check("Pixabay", lambda: f"{requests.get('https://pixabay.com/api/videos/', params={'key': config.PIXABAY_API_KEY, 'q': 'technology'}, timeout=30).json()['totalHits']} clips for 'technology'"),
         check("Telegram", lambda: telegram_bot.send_message("✅ AI News Shorts setup check: Telegram works.")["message_id"]),
         check("YouTube", lambda: f"channel = {__import__('pipeline.youtube', fromlist=['x']).channel_title()}"),
