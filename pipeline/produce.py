@@ -58,7 +58,7 @@ def run():
     now = datetime.now(ZoneInfo("Asia/Kolkata"))
     slot = "morning" if now.hour < 12 else "evening"
     publish_at, closes = ("8 AM", "11 AM") if slot == "morning" else ("7 PM", "10 PM")
-    job_id = f"{now:%Y-%m-%d}-{slot}"
+    job_id = f"{now:%Y-%m-%d}-{slot}-{now:%H%M}"  # unique per video
     _reset_dirs()
 
     # 1. Trends

@@ -44,14 +44,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download latest video (made in the last 8 hours)
+      - name: Download videos from the last 24 hours
         run: |
-          # Newest "short" artifact, even if a later step of its run failed
-          RUN_ID=$(gh api "repos/${{ github.repository }}/actions/artifacts?name=short&per_page=1" \
-            --jq '.artifacts[0] | select(.expired == false) | select((.created_at | fromdateiso8601) > (now - 28800)) | .workflow_run.id')
-          if [ -z "$RUN_ID" ]; then echo "No video made in the last 8h"; exit 0; fi
-          echo "Using video from produce run $RUN_ID"
-          gh run download "$RUN_ID" --name short --dir out
+          # Every "short" video, even if a later step of its run failed; gate.py picks the one you approved
+          mkdir -p candidates
+          gh api "repos/${{ github.repository }}/actions/artifacts?name=short&per_page=8" \
+            --jq '.artifacts[] | select(.expired == false) | select((.created_at | fromdateiso8601) > (now - 86400)) | .workflow_run.id' \
+          | sort -u | while read -r RID; do
+              gh run download "$RID" --name short --dir "candidates/$RID" || echo "could not download $RID"
+            done
+          ls candidates
 
       - name: Check approval
         id: gate

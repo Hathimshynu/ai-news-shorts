@@ -70,6 +70,8 @@ def test_everything_down_retries_rounds_then_explains(router, monkeypatch):
 @pytest.fixture
 def tmp_state(tmp_path, monkeypatch):
     monkeypatch.setattr(gate, "META", tmp_path / "meta.json")
+    monkeypatch.setattr(gate, "OUT", tmp_path)
+    monkeypatch.setattr(gate, "CANDIDATES", tmp_path / "no-candidates")
     monkeypatch.setattr(gate, "DONE", tmp_path / "published.json")
     monkeypatch.setattr(config, "OUT", tmp_path)
     (tmp_path / "meta.json").write_text(json.dumps({"job_id": "J1", "title": "T", "description": "d",
@@ -138,3 +140,35 @@ def test_publish_each_platform_once_and_retry_only_failed(tmp_state, monkeypatch
     assert gate.decide() == "done"                    # pressing Approve again changes nothing
     publish.run()
     assert posted == ["yt", "ig", "ig"]
+
+
+# ---------------------------------------------------------------- the bug you hit
+def test_approving_an_older_video_posts_that_video(tmp_path, monkeypatch):
+    """Two videos on the same topic; Approve pressed on the OLDER one -> that one is posted."""
+    out, cand = tmp_path / "out", tmp_path / "candidates"
+    monkeypatch.setattr(gate, "OUT", out); monkeypatch.setattr(gate, "META", out / "meta.json")
+    monkeypatch.setattr(gate, "CANDIDATES", cand); monkeypatch.setattr(gate, "DONE", tmp_path / "p.json")
+    monkeypatch.setattr(gate, "CHAT", "42"); monkeypatch.setattr(gate, "MODE", "manual")
+    for run_id, job in (("100", "2026-10-09-morning-1130"), ("200", "2026-10-09-evening-1310")):
+        (cand / run_id).mkdir(parents=True)
+        (cand / run_id / "meta.json").write_text(json.dumps({"job_id": job, "title": "UPI MDR " + job}))
+    monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-09-morning-1130", 42, 42)], []))
+    assert gate.decide() == "publish"
+    assert json.loads((out / "meta.json").read_text())["job_id"] == "2026-10-09-morning-1130"
+
+
+def test_webhook_blocking_updates_is_removed(tmp_state, monkeypatch):
+    sent, state = [], {"hook": True}
+
+    def tg(method, **k):
+        sent.append(method)
+        if method == "getUpdates" and state["hook"]:
+            return {"ok": False, "error_code": 409, "description": "Conflict: webhook is active"}
+        if method == "deleteWebhook":
+            state["hook"] = False
+        if method == "getUpdates":
+            return {"ok": True, "result": [{"update_id": 1, "callback_query": {
+                "data": "approve:J1", "from": {"id": 42}, "message": {"message_id": 7, "chat": {"id": 42}}}}]}
+        return {"ok": True}
+    monkeypatch.setattr(gate, "tg", tg)
+    assert gate.decide() == "publish" and "deleteWebhook" in sent
