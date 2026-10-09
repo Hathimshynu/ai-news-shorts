@@ -1,4 +1,3 @@
-```python
 """Minimal Telegram Bot API client.
 
 Uses polling (getUpdates), so no webhook or public URL is needed.
@@ -137,4 +136,3 @@ def get_decision(job_id):
                 )
 
     return decision
-```
