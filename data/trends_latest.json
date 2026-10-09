@@ -1,0 +1,162 @@
+{
+  "job_id": "2026-10-09-evening-1624",
+  "chosen": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "reason": "This practical enterprise story showcases how developers can use ChatGPT and Codex to automate workflows and compress days of coding work into mere minutes.",
+  "candidates": [
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "score": 20.59,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUN1NSM3FTc2tqZEdsWlpzRzYxaXFfdFZsLTZuY2JxSk5SVWtzTWVWcGZRRmRvcDROWjgyU3BfTjZmV0t4SnYw?oc=5",
+        "https://openai.com/index/oracle"
+      ]
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "score": 23.58,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ScVotSFNubUFsUXphSFVPNWQ0UFNoaUlKOFpwejZ2UVh5LWRiUDB3emFhaGZKT0pPSWF3ejMxdnQwZ1JTbFktcGoycTdUNXluZnlpUENvYndkcktiS2xWcFFUVzdNZ0FXQjJHSGRlTDRWbE80ZEY3dFNRdw?oc=5",
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "score": 24.42,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
+        "https://openai.com/index/sophos"
+      ]
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "score": 20.48,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
+        "https://openai.com/index/pollo-ai"
+      ]
+    },
+    {
+      "title": "Gemini Pro is now only for Google AI Pro and AI Ultra subscribers",
+      "score": 19.77,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmh3aXo4YW9MVzQ3ck52MWg5Q1M4WlBzY3lVM3JYbm1EbE1nSlRDaWt0RjNoSzF4WTFaaEhBQW5XMWF2WjMtSkZIWk5QVUQ3UDNWVU5URVBMNG4yQVVGd1hCZ2VEZ0k4NHZyR2VIdUxHZVp3bUVzQnZGWW0wUkEtNEFMVGJjNElqeDZ2X1ZDZWFVc0NkVl8yc3ZWVUx2Q3pZeHR3RTRTTXdGRjBWaUhWeldLM0gyWGphZTJ3U2trM3B6VGJ0ZE02NGZmMXM3eVhYZVVRUzBMbTk0azNKVjVVRjJ6MVd3RUxXdHVrRUVR?oc=5",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmh3aXo4YW9MVzQ3ck52MWg5Q1M4WlBzY3lVM3JYbm1EbE1nSlRDaWt0RjNoSzF4WTFaaEhBQW5XMWF2WjMtSkZIWk5QVUQ3UDNWVU5URVBMNG4yQVVGd1hCZ2VEZ0k4NHZyR2VIdUxHZVp3bUVzQnZGWW0wUkEtNEFMVGJjNElqeDZ2X1ZDZWFVc0NkVl8yc3ZWVUx2Q3pZeHR3RTRTTXdGRjBWaUhWeldLM0gyWGphZTJ3U2trM3B6VGJ0ZE02NGZmMXM3eVhYZVVRUzBMbTk0azNKVjVVRjJ6MVd3RUxXdHVrRUVR?oc=5",
+        "https://www.producthunt.com/products/google"
+      ]
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "score": 19.97,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5",
+        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      ]
+    },
+    {
+      "title": "iQOO 16 India Launch Confirmed at IMC 2026",
+      "score": 21.94,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemhMMWVVTlRlRDBhVDdCSVFIaGljeXBfUWhyTndKUk1jcVRwemRhcU1mTUlmYUJBODhVNExMYXFldnhXaTBRNHBzcmN5Y3AtbmFpUk5JV2I3Q1hablVnRHdVVWpJSi0xalpTdW83UVFhTGRTRkh0cjljdEdfTktIMTlCQzBObklxaThkS0ltMENrcXBRcDZyYVdNYmMwU0RZU1E2NFYyVDdGZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOWw4Nk5URXJxT3o3RFIyU0pBeng5aVlZYy1zYkRqZ0JZVWx1M3ptSzBld2J3ZGV6bXh0Q3pSdF93VGxVdFNoMER6ZFFJbENZbV9YVGxTaGN4STNvSUwxemNKOG1KNkJwcmo0Y3JpSjJBTFYtbXNTbFdQSUtadXpiUnFHRUxtdkNqWFU1YVZ3N1lLMHZaS25QV1B2bFNJTTFzUDVvMzJhUEJLaWZBaEFtenlnRUJvRUh3cXo5T0xTMEw1T0stTXE4X0EzVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejV1WDVfMS1OYXNlUjdWQWxPZkFKSGFuM2lGbkFnWmljT1BUZlE5V2p5OW9BSExicC1kU21mZnpoNmJoNWNIQVU1WDBfN19ORTFDN0lXTEd3RlJpTHpyUVBreUE2ZjYzc2ZJTEZFMVhVWFFlTGU4eEo5bUVtZnp4SmZDQ2VILURPRTF4VHlrQjVpbkstOGZNejQtY2xrcXk5ZTEtUWZZUm1sWDlYU0g0QkhxVVFCLWFIT2VtUHVJXzhaOFptN21qRU54SlJlOG4tTFhiY0RZWmcyYUc5c0HSAd4BQVVfeXFMT3o1dVg1XzEtTmFzZVI3VkFsT2ZBSkhhbjNpRm5BZ1ppY09QVGZROVdqeTlvQUhMYnAtZFNtZmZ6aDZiaDVjSEFVNVgwXzdfTkUxQzdJV0xHd0ZSaUx6clFQa3lBNmY2M3NmSUxGRTFYVVhRZUxlOHhKOW1FbWZ6eEpmQ0NlSC1ET0UxeFR5a0I1aW5LLThmTXo0LWNsa3F5OWUxLVFmWVJtbFg5WFNINEJIcVVRQi1hSE9lbVB1SV84WjhabTdtakVOeEpSZThuLUxYYmNEWVpnMmFHOXNB?oc=5"
+      ]
+    },
+    {
+      "title": "iQOO 16 India Launch Confirmed: Could Debut as First Snapdragon 8 Elite Extreme Gen 6 Smartphone in India",
+      "score": 19.13,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObHlQOGQ3MXlrT0VxbFFWU2FVMWdQeVVlMHBSaS16X291MERuNmpBeGMwbndpWXJuT3Z0aHRWN1ZrQi1hekVSc2g3MkVoMDVYZ1VrVkxDd09QakRyTktNWHNveUFBUnpFNXpwa1pJRlV6S2xET0t0NjdRZHBIZllUOEJHM1hIRTFoVzlhblcxb0NVN0d0cHpNSFN3VXg2Z0VuNzJMcGhRX0xWak02TjYwSGNkdmNPZzNGOHctLW1xZ0RScWxqZGd3RmxzdjVObVV2UHpDRzdnRHhydw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0F3VFpDWDdCTE54WFlNa25WZVRGMTRNdE1hX1k5VVNMY0hQSDNOS3hlVHhOYkxRaGtXbjFrNVExZjNKVFNYV2lFdldIOXZfbmJoMW5QQjFuR1Z3WVpjZHhnWVlRaHFRQk54TFJrdDFoblNBTTFZemQ1RUFtdTBoeUlVbjlOVGtXUGVyN180OG1TZjNodWfSAZYBQVVfeXFMTnNBd1RaQ1g3QkxOeFhZTWtuVmVURjE0TXRNYV9ZOVVTTGNIUEgzTkt4ZVR4TmJMUWhrV24xazVRMWYzSlRTWFdpRXZXSDl2X25iaDFuUEIxbkdWd1laY2R4Z1lZUWhxUUJOeExSa3QxaG5TQU0xWXpkNUVBbXUwaHlJVW45TlRrV1BlcjdfNDhtU2YzaHVn?oc=5"
+      ]
+    },
+    {
+      "title": "OPPO Find X10 Series Global Launch Set for October 21 in Spain: Find X10 Pro Max Confirmed",
+      "score": 20.44,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5lOVUwU1Zzbk14LTZybldUR2M0NTduXzZDODctR09peDVYVXFlbHp0RmlnVUdwQ2FXdVF3U1l1SjNsOHZRNUhCdVkyZDVvaDdpbDVVNzRZRjQ2QVNwSWlXa09MVVZuYTdMOVNsV2xuMVdtekdZSnpfdERYMERHaFdPY013aUc0UTRXWmpVdktZWDJuUzVQdkFtU1hRTHlBdXRhRURfQld3aXNyYnQxTF8xOWdyYXg3bGtlOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUVFHTEF2eTUzakFWa1VfT3dqdm5fVFdnclhuaHYtZkdFaDFaUFVXbDRycVhXUnN1RWJPUjhrd1QtMHQtaWVuUTVwQkc5bkoya2hIREdwa3UweGRtc3oya25oX0MyQkZHX1h3SGoyY2EwcExxWTR5ekRROGdySW1ycnhWWGJvVEdKdDh0OFhTQzB5QTRKMEtzSFF1YW5pNXlTUUlqQTdveHktdmRTOU1ydEhXYnlIZmF4QnFaMWk1c1RaWEFNMkdwV0FDQ0h2RmwtNjVueFl2M3FVWm1MRHBkRzlQZVpnSUhuY1RKVVJNTC1FUWZSZzlISkNqMW5wdENIVnBGTDNmTjZnMFk?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnRxaUxtQzA2WXQwYVF5eXBkQV9haWFTTWpuTlNoNWw2NFVwSldmQi1BOV9WZ3lsNDhKdlBoUVZuTS1wZnI2VVN3MnAyR0xpdDcxWUdDT3BhY2FhWGE3Q2J0Z3NVNzFrX3dyM3Z0MExhWldpRXlLMElfZkVFVEVfTTJiNC1yZlpzMnNB?oc=5"
+      ]
+    },
+    {
+      "title": "Motorola Signature 27 India Launch Confirmed With Global Debut: Snapdragon 8 Elite Extreme Gen 6, 200MP Camera",
+      "score": 19.89,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREowR3duUVEtTGZYOTk1X25Dckd3WnRzNWNORDlYTExXLTBhZUJyU00zTGY1LWNBakE0b1RXVWtQRURFYklFNXk2a2oyNXpybDJ0Q1B4WkViZVI1YWNTaUpsZTA4M3JoVUc2d2pTdVJlWHR3T0pDeGg2WkZmZDlmQWVKRWJWcDczQ1MxM0pkcVdOWl9pTTNMb0NnQzhYS0xfYXlOc3RmajVIajlaZnctblMwVC1QNW9qa256WmJnQ1BrenM1RFN1U3I4dnRHYXBjUnFQd0tn?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMy1vRjhTMWI4ZWVlTTRvaUZXNjZkUXBzVDZLR0xQSUpQM0FmZFNYUGFDdi16Yy1SQUFyT1gxOUpzbFBURG5YSUZUd1FybnBNMHloSG9hWDdEZXpNRTQxelRGOGJaMHlZMnBYTERLQVlWQk15Q05mdTdmc21zZWJwUdIBhgFBVV95cUxPR2R4S0JOR3Z2YUJjZldkWUlIV255ZDJsUUIzZ0lsMlFhS0NBeVllNlY0X2kzNm9USWpKSVQ2ODBqb3Bvd3pxckxsd29tZjJ2MnBLTzdaWWc3ekxmZjNZNl84YU5ia2JGVXZIMWZ1YlFaU1ZEakdEQUs0MlNXMm05RE5JV0hNUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro with dual screens officially confirmed to launch in India with Qualcomm Snapdragon 8 Elite Extreme Gen 6",
+      "score": 19.94,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTZIUjdFZkZlaWotUUdhNXNubk1xSUtDZzA1eWdFcWZoN0tyVmNvUGlsamZiSkJ2WXFfbXFUSTdJaEZTR1FucTM3eHFQM3lyaGVVYmJ3eXZMaTVRZm5WLXgtRzZTeUNGcElMb1hDOHBDM3ZZdG1sOVJXZldKNW0zbE1GUXl0M2IyaWxlbkZxVkRnRm5GMU4yS2ROMXd3ZWdzSnfSAdgBQVVfeXFMTndVQnhNSDBsVUJoZ0FoSDVVc1hwaDlfamc3MV8ySmxzZnBwRjU0X2tjUVM0T3RCMnJtU2hLaUlUcUtTdlo4NkVheDB0RTZZblVybmMtckl3WmdZOUMzaG5nbEtDX2VObi1kbmhNN0dfRjlyS25QTnN0UlRGWno2dzhDdWVsUGRYVWFqaG5SaGhzWkJCZE8xTDJXUmU4VTNkTzdEYURzMjNGcFpQbkw0NE9jNVdVdXl4TDJJN1dwXzdyaEtFTDQ4ajdYME9XamhrNEVUUy1XYkJD?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTcVdGQnFOMWFvQUd4el9hNDVib3BPNDNaNzJvWi1DU2V5WlBqdFNNZy03eXQwYUlPMzV0SmRsQ1VNUjJXdDFLa0tVNzhMV1pPcHV5NDhtT1ZiMGJ0c2ExTHptVU5SUdIBa0FVX3lxTE9uODBQb284WnVxYUtYRW55VnFCVmVEZjRHaFVXQzJZelNaX25NTjZjQjJMdWUtektPX3ktZWVnOXVKYk5iYmxrYVlLQjVZRnhjQVRVR0dJdGowYTlBQnFBU3VIWlZTc3ZuQ2Nj?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI says it has fired three researchers for violating sensitive information policy",
+      "score": 19.25,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFBBMnZteVNvWlNZQUVwR3gzcG9Na2EzczhqcjMzMm5mYmstNEFCQnZkYnBuaVNlT0R3NVdCWjQ4U2g4TnZDU3U5R3JMRF9Fc2Q3LTFLeXpOMENUeDZNajh4RHREZV9YTmZqcHFWS0FFTmR4LVRsOVJUMUdFM2k1MXhVejlxeGhlSEtoc2ZIS1Jpd2dqS1RHMHlpUXd0aXJfUFdBU1YxQnIyMlFrOW80MzU0WEdZemdJTmJqWmFqNmVnX2U0Snl5Sk1tcklNMEk1TlNFdUFJdHV5SFZleDFIUy130gHiAUFVX3lxTFAwUEEydm15U29aU1lBRXBHeDNwb01rYTNzOGpyMzMybmZiay00QUJCdmRicG5pU2VPRHc1V0JaNDhTaDhOdkNTdTlHckxEX0VzZDctMUt5ek4wQ1R4Nk1qOHhEdERlX1hOZmpwcVZLQUVOZHgtVGw5UlQxR0UzaTUxeFV6OXF4aGVIS2hzZkhLUml3Z2pLVEcweWlRd3Rpcl9QV0FTVjFCcjIyUWs5bzQzNTRYR1l6Z0lOYmpaYWo2ZWdfZTRKeXlKTW1ySU0wSTVOU0V1QUl0dXlIVmV4MUhTLXc?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQkowYkx4NnV5TWt5Y0FNSTdJSVJPWXVqeGRMWEhETUg1OHZUcDduNFY1MGlRZmRyWGhLVmZ2SU9SajY3aVN3NDlPSk9VaWFYaF9LT0Vzb1hENEZBcktmbWR1QS1qNHJhOVRlc19nV18tNUNTWHZIWmpuWExxN2FIYVhkUlBVYkh1M244d0NZNG51My01cnBxY1hzOWtwTV85NWJ5RVJoNEJSSS1VRnFSbHdUcF9pVjd4NHM1bFMteWZSM2p4Qk80RjdmOEZUdUpaNXVRbjluU095ZHFZdk5hRHl3LVhQbmvSAe4BQVVfeXFMTWwxV3FxSUxxRUF0bG8ta1VyYlM4OEZEOVQtTVlCLTVGU0l6T3IwNzFUQzIzTkFHZWt4U1RqdW1JZ2hmQ2h5UFZFYmhxSlFYbXhnbWJsWWV1MmlBUXAwYWZ2emZNeVVaOWZ2X2ctUUM1UXgtMEFfaWpNcThBOG1yNGhzYTFyLV9FNjcxai1YMEZHcHZvUDhIX3RZN2RvclFpbEJOZC03Q3NtM0FyQ2RTOWZQN3dtWFc2T0NVN3F0a3ktMjdpRVBaMXdPM28zWTFiRGxONTFqR3UxR2NPUTdMSmsyYmU4aTBIa1dMd21RQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZEd1dmdyQjR1MnMwdnNMS3JDVF9BSGpLQmd0RW5RNjRRSE5IYVNLYzZSaHFQcFEwdEdMQVlFbzRUWk1DNmU4R1pNSnhCQmFFb1dpcXNwTFBaM2VGekdxUDJCUU5QLUY2MFFMMXBScURGQXBIMGg5dkdQc3pseEdUMTFnYnJUamtPdVRWWHpzRGdqVkJfZVliVkcwRzJpVXZIaXZKZEZ4NEJabkpJS21fcnNZSFBaR1lFb2lkNnpMVEZqR181UGpsQWJjYjRaUkFOYzVGdFdHTmFVMnZseEdzdVJR0gHiAUFVX3lxTFBkR3V2Z3JCNHUyczB2c0xLckNUX0FIaktCZ3RFblE2NFFITkhhU0tjNlJocVBwUTB0R0xBWUVvNFRaTUM2ZThHWk1KeEJCYUVvV2lxc3BMUFozZUZ6R3FQMkJRTlAtRjYwUUwxcFJxREZBcEgwaDl2R1Bzemx4R1QxMWdiclRqa091VFZYenNEZ2pWQl9lWWJWRzBHMmlVdkhpdkpkRng0QlpuSklLbV9yc1lIUFpHWUVvaWQ2ekxURmpHXzVQamxBYmNiNFpSQU5jNUZ0V0dOYVUydmx4R3N1UlE?oc=5"
+      ]
+    }
+  ]
+}
