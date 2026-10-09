@@ -29,6 +29,7 @@ jobs:
       CHANNEL_HANDLE: ${{ vars.CHANNEL_HANDLE }}
       AFFILIATE_FOOTER: ${{ vars.AFFILIATE_FOOTER }}
       TTS_VOICE: ${{ vars.TTS_VOICE }}
+      TTS_RATE: ${{ vars.TTS_RATE }}
     steps:
       - uses: actions/checkout@v4
 

@@ -24,7 +24,8 @@ def _instagram(meta):
 
 
 def _facebook(meta):
-    return facebook.publish_reel(config.OUT / "final.mp4", facebook.build_description(meta))[1]
+    return facebook.publish_reel(config.OUT / "final.mp4", facebook.build_description(meta),
+                                 cover_path=config.OUT / "thumb_vertical.jpg")[1]
 
 
 def run():

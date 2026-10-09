@@ -59,7 +59,7 @@ def publish_reel(video_path, caption):
     # 1. Create a resumable Reel container
     container = _check(requests.post(f"{GRAPH}/{config.IG_USER_ID}/media", data={
         "media_type": "REELS", "upload_type": "resumable", "caption": caption,
-        "share_to_feed": "true", "thumb_offset": "0", "access_token": token,
+        "share_to_feed": "true", "thumb_offset": "500", "access_token": token,
     }, timeout=60))
     cid = container["id"]
     upload_uri = container.get("uri") or f"https://rupload.facebook.com/ig-api-upload/v21.0/{cid}"

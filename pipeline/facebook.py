@@ -6,6 +6,7 @@ Needs:  FB_PAGE_ID     - your Page id (printed by scripts/instagram_token.py)
 Meta limit: 30 API posts per Page per 24 hours.
 """
 import time
+from pathlib import Path
 
 import requests
 
@@ -40,7 +41,7 @@ def build_description(meta):
     return build_caption(meta)
 
 
-def publish_reel(video_path, description):
+def publish_reel(video_path, description, cover_path=None):
     token, page = _token(), config.FB_PAGE_ID
 
     # 1. Start an upload session
@@ -62,7 +63,17 @@ def publish_reel(video_path, description):
         "access_token": token, "video_id": video_id, "upload_phase": "finish",
         "video_state": "PUBLISHED", "description": description}, timeout=60))
 
-    # 4. Wait briefly for processing so we can report problems (publishing continues either way)
+    # 4. Custom cover image (best-effort; the Reel is already published if this fails)
+    if cover_path and Path(cover_path).exists():
+        try:
+            with open(cover_path, "rb") as img:
+                _check(requests.post(f"{GRAPH}/{video_id}/thumbnails", timeout=60,
+                                     data={"access_token": token, "is_preferred": "true"},
+                                     files={"source": ("cover.jpg", img, "image/jpeg")}))
+        except Exception as e:  # noqa: BLE001
+            print(f"[facebook] cover not set: {e}")
+
+    # 5. Wait briefly for processing so we can report problems (publishing continues either way)
     for _ in range(30):  # up to ~5 minutes
         st = _check(requests.get(f"{GRAPH}/{video_id}", params={"fields": "status", "access_token": token},
                                  timeout=30)).get("status", {})

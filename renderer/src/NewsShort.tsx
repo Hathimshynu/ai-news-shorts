@@ -35,10 +35,10 @@ export type NewsShortProps = {
 const FONT = '"Noto Sans", "DejaVu Sans", Arial, sans-serif';
 const ACCENT = '#ffd60a';
 
-const Background: React.FC<{scene: Scene}> = ({scene}) => {
+const Background: React.FC<{scene: Scene; first?: boolean}> = ({scene, first}) => {
   const frame = useCurrentFrame();
   const scale = interpolate(frame, [0, scene.durationInFrames], [1.08, 1.18]);
-  const opacity = interpolate(frame, [0, 6], [0, 1], {extrapolateRight: 'clamp'});
+  const opacity = first ? 1 : interpolate(frame, [0, 6], [0.5, 1], {extrapolateRight: 'clamp'});
   const video = (
     <OffthreadVideo
       src={staticFile(scene.file)}
@@ -98,7 +98,7 @@ const SceneLabel: React.FC<{text: string}> = ({text}) => {
 const Hook: React.FC<{text: string}> = ({text}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const s = spring({frame, fps, config: {damping: 12}});
+  const s = interpolate(spring({frame, fps, config: {damping: 12}}), [0, 1], [0.92, 1]); // never invisible: frame 0 is the cover
   const out = interpolate(frame, [70, 80], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
   return (
     <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', padding: 70, opacity: out}}>
@@ -202,7 +202,7 @@ export const NewsShort: React.FC<NewsShortProps> = ({durationInFrames, hook, bra
     <AbsoluteFill style={{backgroundColor: '#0b0f1a'}}>
       {scenes.map((s, i) => (
         <Sequence key={i} from={s.startFrame} durationInFrames={s.durationInFrames}>
-          <Background scene={s} />
+          <Background scene={s} first={i === 0} />
           {i > 0 ? <SceneLabel text={s.text} /> : null}
         </Sequence>
       ))}
