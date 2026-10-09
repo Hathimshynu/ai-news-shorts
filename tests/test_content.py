@@ -99,3 +99,22 @@ def test_qa_flags_black_cover_and_wrong_size(tmp_path, monkeypatch):
                         0.95, {"passed": True})
     failed = {c["name"] for c in rep["checks"] if not c["ok"]}
     assert not rep["passed"] and "Cover frame not dark" in failed and "Format 9:16 1080x1920" in failed
+
+
+def test_cta_and_opinion_lines_do_not_fail_fact_check(monkeypatch):
+    """The Sophos video: real facts verified, but the CTA and an opinion line made QA fail."""
+    article = "Average response time for agent-handled cases fell 96%, from 38 minutes to 89 seconds."
+    reply = {"claims": [
+        {"claim": "Response time fell ninety-six percent, from thirty-eight minutes to eighty-nine seconds.",
+         "type": "fact", "verdict": "supported",
+         "evidence": "Average response time for agent-handled cases fell 96%, from 38 minutes to 89 seconds."},
+        {"claim": "For businesses across Asia facing rising threats, automated defense is becoming essential.",
+         "type": "opinion", "verdict": "unclear", "evidence": ""},
+        {"claim": "Follow Tech Talk Hathim for daily AI updates.", "verdict": "unclear", "evidence": ""},
+        {"claim": "Sophos now resolves 90 percent of cases.", "type": "opinion", "verdict": "unsupported"}]}
+    monkeypatch.setattr(script_gen, "chat_json", lambda *a, **k: (reply, "test"))
+    rep = script_gen.fact_check(type("P", (), {"script": "x", "cta": "Follow Tech Talk Hathim"})(), article)
+    assert [c["type"] for c in rep["claims"]] == ["fact", "opinion", "cta", "fact"]
+    assert rep["unverified"] == ["Sophos now resolves 90 percent of cases."]   # numbers can't hide as opinion
+    reply["claims"].pop()
+    assert script_gen.fact_check(type("P", (), {"script": "x", "cta": ""})(), article)["passed"] is True

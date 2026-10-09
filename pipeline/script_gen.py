@@ -125,7 +125,10 @@ pronunciation entries for names text-to-speech may say wrongly (can be an empty 
 FACT_SYSTEM = (
     "You are a strict fact-checker for short tech videos. Compare every factual claim in the script with the "
     "source text. A claim is 'supported' only if the source text states it. Copy the exact supporting sentence "
-    "from the source as evidence. Respond with JSON only."
+    "from the source as evidence. Also list the other sentences but mark their type: 'cta' for calls to action "
+    "(follow, subscribe, comment) and 'opinion' for commentary that states no checkable fact (e.g. 'this is "
+    "becoming essential'). Any number, name, date, price, feature or 'X did Y' statement is type 'fact'. "
+    "Respond with JSON only."
 )
 
 
@@ -198,19 +201,36 @@ def evidence_in_source(evidence, article):
 def fact_check(pkg, article):
     data, provider = chat_json(FACT_SYSTEM, (
         f"Source text:\n{article[:9000]}\n\nScript:\n{pkg.script}\n\n"
-        'Return {"claims": [{"claim": "...", "verdict": "supported|unsupported|unclear", '
+        'Return {"claims": [{"claim": "...", "type": "fact|opinion|cta", "verdict": "supported|unsupported|unclear", '
         '"evidence": "exact sentence copied from the source, or empty", '
         '"status": "available|beta|announced|n/a"}]}'
     ), temperature=0)
     claims = []
     for c in data.get("claims", []):
+        text = str(c.get("claim", ""))
+        kind = _claim_type(text, c.get("type"), getattr(pkg, "cta", ""))
         verdict = str(c.get("verdict", "unclear")).lower()
         evidence = str(c.get("evidence") or "")
         verified = verdict == "supported" and evidence_in_source(evidence, article)
-        claims.append({"claim": c.get("claim", ""), "verdict": verdict, "evidence": evidence[:300],
+        claims.append({"claim": text, "type": kind, "verdict": verdict, "evidence": evidence[:300],
                        "status": c.get("status", "n/a"), "verified": verified})
-    bad = [c["claim"] for c in claims if not c["verified"]]
-    return {"claims": claims, "unverified": bad, "passed": bool(claims) and not bad, "checker": provider}
+    facts = [c for c in claims if c["type"] == "fact"]
+    bad = [c["claim"] for c in facts if not c["verified"]]
+    return {"claims": claims, "unverified": bad, "passed": bool(facts) and not bad, "checker": provider}
+
+
+_CTA_WORDS = re.compile(r"\b(follow|subscribe|like and share|comment below|let me know|tell me in the comments)\b", re.I)
+_NUMBERISH = re.compile(r"\d|percent|crore|lakh|million|billion|dollar|rupee|₹|\$")
+
+
+def _claim_type(text, said_type, cta=""):
+    """fact | opinion | cta. Calls to action are never fact-checked; anything with numbers always is."""
+    t = str(said_type or "fact").lower()
+    if _CTA_WORDS.search(text) or (cta and fuzz.partial_ratio(text.lower(), cta.lower()) >= 90):
+        return "cta"
+    if _NUMBERISH.search(text.lower()):
+        return "fact"  # never let a number slip through as "opinion"
+    return t if t in ("opinion", "cta") else "fact"
 
 
 # ---------------------------------------------------------------- metadata

@@ -178,7 +178,9 @@ def run():
     caption = (f"{flag}🎬 {meta['title']}\n🏷 {pkg.category}\n📰 {meta['topic']}\n"
                f"⏱ {meta['seconds']}s · 🤖 {provider}\n\n{when}")
     telegram_bot.send_video_for_approval(tg_video, caption, job_id)
-    claims = "\n".join(f"{'✅' if c['verified'] else '❓'} {c['claim']} ({c['status']})" for c in facts["claims"][:8])
+    claims = "\n".join(
+        f"💬 {c['claim']} ({c.get('type')}, not a fact)" if c.get("type") in ("opinion", "cta")
+        else f"{'✅' if c['verified'] else '❓'} {c['claim']} ({c['status']})" for c in facts["claims"][:10])
     telegram_bot.send_message(
         f"📝 Script:\n{pkg.script}\n\n🪝 Hook options:\n" + "\n".join(f"• {h}" for h in pkg.hooks)
         + f"\n\n🔎 Fact-check:\n{claims or 'no claims found'}\n\n{qa.summary(report)}"
