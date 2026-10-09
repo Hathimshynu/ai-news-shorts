@@ -1,24 +1,24 @@
 name: Publish approved short
 
-# Checks every 15 minutes during each posting window. Approve before the window
-# opens -> posts at the start (8 AM / 7 PM IST). Approve later -> posts at the next check.
 on:
   schedule:
-    # Morning window 8:00-11:00 AM IST (02:30-05:30 UTC)
+    # Morning window: 8:00–11:00 AM IST
     - cron: "30,45 2 * * *"
     - cron: "*/15 3-4 * * *"
     - cron: "0,15 5 * * *"
-    - cron: "30 5 * * *"      # final morning check
-    # Evening window 7:00-10:00 PM IST (13:30-16:30 UTC)
+    - cron: "30 5 * * *"
+
+    # Evening window: 7:00–10:00 PM IST
     - cron: "30,45 13 * * *"
     - cron: "*/15 14-15 * * *"
     - cron: "0,15 16 * * *"
-    - cron: "30 16 * * *"     # final evening check
-  workflow_dispatch: {}
+    - cron: "30 16 * * *"
+
+  workflow_dispatch:
 
 permissions:
-  actions: read     # download the video from the produce run
-  contents: write   # remember which videos were posted (data/published.json)
+  actions: read
+  contents: write
 
 concurrency:
   group: publish
@@ -28,50 +28,168 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+
       YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
+
       GH_TOKEN: ${{ github.token }}
+
       MODE: ${{ github.event_name == 'workflow_dispatch' && 'manual' || ((github.event.schedule == '30 5 * * *' || github.event.schedule == '30 16 * * *') && 'final' || 'check') }}
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Download latest video (made in the last 8 hours)
+      - name: Set up GitHub CLI
+        run: gh --version
+
+      - name: Find latest successful production run
+        id: production
+        shell: bash
         run: |
-          RUN_ID=$(gh run list --workflow produce.yml --status success --limit 1 --json databaseId,createdAt \
-            --jq '.[0] | select((.createdAt | fromdateiso8601) > (now - 28800)) | .databaseId')
-          if [ -z "$RUN_ID" ]; then echo "No successful produce run in the last 8h"; exit 0; fi
-          gh run download "$RUN_ID" --name short --dir out
+          set -euo pipefail
 
-      - name: Check approval
+          RUN_ID=$(gh run list \
+            --workflow produce.yml \
+            --status success \
+            --limit 10 \
+            --json databaseId,createdAt \
+            --jq '[.[] | select((.createdAt | fromdateiso8601) > (now - 28800))] | sort_by(.createdAt) | last | .databaseId // empty')
+
+          if [ -z "$RUN_ID" ]; then
+            echo "::error::No successful production run found in the last 8 hours."
+            exit 1
+          fi
+
+          echo "run_id=$RUN_ID" >> "$GITHUB_OUTPUT"
+          echo "Selected production run: $RUN_ID"
+
+      - name: Download video artifact
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p out
+
+          gh run download "${{ steps.production.outputs.run_id }}" \
+            --name short \
+            --dir out
+
+          if [ ! -f out/meta.json ]; then
+            echo "::error::The downloaded artifact is missing out/meta.json."
+            find out -maxdepth 3 -type f
+            exit 1
+          fi
+
+          echo "Downloaded metadata:"
+          cat out/meta.json
+
+      - name: Validate approval metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("out/meta.json")
+          meta = json.loads(path.read_text())
+
+          for key in ("job_id", "title"):
+              if not meta.get(key):
+                  raise SystemExit(f"Missing required metadata field: {key}")
+
+          print(f"Video job ID: {meta['job_id']}")
+          print(f"Video title: {meta['title']}")
+          PY
+
+      - name: Check Telegram approval
         id: gate
-        run: python3 -m pipeline.gate
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m pipeline.gate
 
-      - uses: actions/setup-python@v5
+          ACTION=$(sed -n 's/^action=//p' "$GITHUB_OUTPUT" | tail -n 1)
+
+          if [ -z "$ACTION" ]; then
+            echo "::error::Approval gate did not produce an action."
+            exit 1
+          fi
+
+          echo "Approval decision: $ACTION"
+
+      - name: Report approval decision
+        if: always()
+        env:
+          GATE_ACTION: ${{ steps.gate.outputs.action }}
+        run: |
+          echo "Gate action: ${GATE_ACTION:-not available}"
+
+      - name: Set up Python
         if: steps.gate.outputs.action == 'publish'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
 
-      - name: Publish
+      - name: Install publishing dependencies
         if: steps.gate.outputs.action == 'publish'
         run: |
+          python -m pip install --upgrade pip
           pip install requests google-api-python-client google-auth
-          python -m pipeline.publish
 
-      - name: Save posted/skipped record
-        if: always()
+      - name: Publish approved video
+        if: steps.gate.outputs.action == 'publish'
+        run: python -m pipeline.publish
+
+      - name: Explain why publishing did not run
+        if: steps.gate.outputs.action != 'publish'
+        env:
+          GATE_ACTION: ${{ steps.gate.outputs.action }}
         run: |
+          echo "Publishing was not started."
+          echo "Gate action: ${GATE_ACTION:-unknown}"
+          echo "Check the Telegram approval and gate logs above."
+
+      - name: Save posted or skipped record
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ ! -f data/published.json ]; then
+            echo "No published.json file exists; nothing to save."
+            exit 0
+          fi
+
           git config user.name "ai-news-shorts-bot"
           git config user.email "actions@users.noreply.github.com"
+
           git add data/published.json
-          git diff --cached --quiet && exit 0
+
+          if git diff --cached --quiet; then
+            echo "No publication-state changes to commit."
+            exit 0
+          fi
+
           git commit -m "chore: update published record"
-          git pull --rebase && git push
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

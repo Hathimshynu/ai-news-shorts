@@ -51,16 +51,37 @@ def mark_done(job_id, status):
 
 
 def decision_for(job_id):
-    """Look at button presses without consuming them. Latest press wins."""
-    res = tg("getUpdates", allowed_updates=json.dumps(["callback_query"]), limit=100)
+    """Find the latest approval decision without consuming updates."""
+    res = tg(
+        "getUpdates",
+        allowed_updates=json.dumps(["callback_query"]),
+        limit=100,
+    )
+
+    if not res.get("ok"):
+        print(f"[gate] Telegram API error: {res}")
+        return None
+
     decision = None
+
     for u in res.get("result", []):
         cq = u.get("callback_query") or {}
-        if str(cq.get("message", {}).get("chat", {}).get("id")) != CHAT:
+        message = cq.get("message") or {}
+        chat_id = str((message.get("chat") or {}).get("id"))
+        data = cq.get("data") or ""
+
+        print(
+            f"[gate] callback update={u.get('update_id')} "
+            f"chat_matches={chat_id == CHAT} data={data!r}"
+        )
+
+        if chat_id != CHAT:
             continue
-        action, _, jid = (cq.get("data") or "").partition(":")
+
+        action, _, jid = data.partition(":")
         if jid == job_id and action in ("approve", "reject"):
             decision = action
+
     return decision
 
 
