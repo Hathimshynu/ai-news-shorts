@@ -2,7 +2,7 @@
 python -m pipeline.check_setup"""
 import requests
 
-from . import config, instagram, telegram_bot
+from . import config, facebook, instagram, telegram_bot
 
 
 def check(name, fn):
@@ -36,7 +36,11 @@ def main():
         results.append(check("Instagram", lambda: f"account = @{instagram.username()}"))
     else:
         print("SKIP Instagram: IG_USER_ID / IG_ACCESS_TOKEN not set")
-    print(f"\n{sum(results)}/{len(results)} checks passed. At least one LLM must pass; all others are required (Instagram optional).")
+    if facebook.enabled():
+        results.append(check("Facebook", lambda: f"page = {facebook.page_name()}"))
+    else:
+        print("SKIP Facebook: FB_PAGE_ID not set")
+    print(f"\n{sum(results)}/{len(results)} checks passed. At least one LLM must pass; all others are required (Instagram/Facebook optional).")
 
 
 if __name__ == "__main__":

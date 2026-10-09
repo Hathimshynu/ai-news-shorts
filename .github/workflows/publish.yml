@@ -1,13 +1,28 @@
 name: Publish approved short
 
+# Checks every 15 minutes during each posting window. Approve before the window
+# opens -> posts at the start (8 AM / 7 PM IST). Approve later -> posts at the next check.
 on:
   schedule:
-    - cron: "30 13 * * *"  # 13:30 UTC = 7:00 PM IST
+    # Morning window 8:00-11:00 AM IST (02:30-05:30 UTC)
+    - cron: "30,45 2 * * *"
+    - cron: "*/15 3-4 * * *"
+    - cron: "0,15 5 * * *"
+    - cron: "30 5 * * *"      # final morning check
+    # Evening window 7:00-10:00 PM IST (13:30-16:30 UTC)
+    - cron: "30,45 13 * * *"
+    - cron: "*/15 14-15 * * *"
+    - cron: "0,15 16 * * *"
+    - cron: "30 16 * * *"     # final evening check
   workflow_dispatch: {}
 
 permissions:
-  actions: read     # to download the artifact from the produce run
-  contents: read
+  actions: read     # download the video from the produce run
+  contents: write   # remember which videos were posted (data/published.json)
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
 
 jobs:
   publish:
@@ -21,24 +36,42 @@ jobs:
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
       YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
       GH_TOKEN: ${{ github.token }}
+      MODE: ${{ github.event_name == 'workflow_dispatch' && 'manual' || ((github.event.schedule == '30 5 * * *' || github.event.schedule == '30 16 * * *') && 'final' || 'check') }}
     steps:
       - uses: actions/checkout@v4
 
+      - name: Download latest video (made in the last 8 hours)
+        run: |
+          RUN_ID=$(gh run list --workflow produce.yml --status success --limit 1 --json databaseId,createdAt \
+            --jq '.[0] | select((.createdAt | fromdateiso8601) > (now - 28800)) | .databaseId')
+          if [ -z "$RUN_ID" ]; then echo "No successful produce run in the last 8h"; exit 0; fi
+          gh run download "$RUN_ID" --name short --dir out
+
+      - name: Check approval
+        id: gate
+        run: python3 -m pipeline.gate
+
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.action == 'publish'
         with:
           python-version: "3.11"
 
-      - name: Install Python packages
-        run: pip install requests google-api-python-client google-auth
-
-      - name: Download today's video
-        run: |
-          RUN_ID=$(gh run list --workflow produce.yml --status success --limit 1 --json databaseId,createdAt \
-            --jq '.[0] | select((.createdAt | fromdateiso8601) > (now - 86400)) | .databaseId')
-          if [ -z "$RUN_ID" ]; then echo "No successful produce run in the last 24h"; exit 0; fi
-          gh run download "$RUN_ID" --name short --dir out
-
       - name: Publish
-        run: python -m pipeline.publish
+        if: steps.gate.outputs.action == 'publish'
+        run: |
+          pip install requests google-api-python-client google-auth
+          python -m pipeline.publish
+
+      - name: Save posted/skipped record
+        if: always()
+        run: |
+          git config user.name "ai-news-shorts-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/published.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update published record"
+          git pull --rebase && git push

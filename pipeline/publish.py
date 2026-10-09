@@ -1,10 +1,10 @@
-"""Workflow 2: read the Telegram decision for today's video and upload it to YouTube if approved.
-Expects the produce workflow's artifact downloaded into ./out"""
+"""Workflow 2: post an approved video to YouTube, Instagram and Facebook. The approval check happens first in
+pipeline/gate.py; this only runs when you pressed Approve. Expects the produce artifact in ./out"""
 import json
 import sys
 import traceback
 
-from . import config, instagram, telegram_bot, youtube
+from . import config, facebook, gate, instagram, telegram_bot, youtube
 
 
 def run():
@@ -13,13 +13,6 @@ def run():
         telegram_bot.notify("⚠️ AI News Shorts: no video found from today's produce run, nothing published.")
         return
     meta = json.loads(meta_path.read_text())
-    decision = telegram_bot.get_decision(meta["job_id"])
-    print(f"[publish] job {meta['job_id']} decision: {decision}")
-
-    if decision != "approve":
-        reason = "rejected" if decision == "reject" else "not approved in time"
-        telegram_bot.notify(f"⏭ Skipped today's video ({reason}): {meta['title']}")
-        return
 
     results, errors = [], []
     thumb = config.OUT / "thumb_yt.jpg"
@@ -45,6 +38,16 @@ def run():
             traceback.print_exc()
             errors.append(f"Instagram: {type(e).__name__}: {e}")
 
+    if facebook.enabled():
+        try:
+            _, link = facebook.publish_reel(config.OUT / "final.mp4", facebook.build_description(meta))
+            results.append(f"📘 Facebook: {link}")
+        except Exception as e:  # noqa: BLE001
+            traceback.print_exc()
+            errors.append(f"Facebook: {type(e).__name__}: {e}")
+
+    if results:  # record it so later checks never post it twice
+        gate.mark_done(meta["job_id"], "published")
     msg = f"✅ Published: {meta['title']}\n" + "\n".join(results)
     if errors:
         msg += "\n\n⚠️ Failed:\n" + "\n".join(errors)

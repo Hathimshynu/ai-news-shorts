@@ -176,7 +176,7 @@ const Chrome: React.FC<{brand: string; total: number}> = ({brand, total}) => {
   const frame = useCurrentFrame();
   return (
     <>
-      <div
+      {brand ? <div
         style={{
           position: 'absolute',
           top: 120,
@@ -191,7 +191,7 @@ const Chrome: React.FC<{brand: string; total: number}> = ({brand, total}) => {
         }}
       >
         {brand}
-      </div>
+      </div> : null}
       <div style={{position: 'absolute', bottom: 0, left: 0, height: 12, width: `${(frame / total) * 100}%`, background: ACCENT}} />
     </>
   );

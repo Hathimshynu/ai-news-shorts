@@ -55,7 +55,10 @@ def _shrink_for_telegram(path, limit_mb=48):
 
 
 def run():
-    job_id = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d")
+    now = datetime.now(ZoneInfo("Asia/Kolkata"))
+    slot = "morning" if now.hour < 12 else "evening"
+    publish_at, closes = ("8 AM", "11 AM") if slot == "morning" else ("7 PM", "10 PM")
+    job_id = f"{now:%Y-%m-%d}-{slot}"
     _reset_dirs()
 
     # 1. Trends
@@ -135,7 +138,7 @@ def run():
     # 9. Telegram approval request
     tg_video = _shrink_for_telegram(final)
     caption = (f"🎬 {meta['title']}\n\n📰 {meta['topic']}\n⏱ {meta['seconds']}s · 🤖 {provider}\n\n"
-               f"Approve to publish at 7 PM IST.")
+               f"Approve → posts at {publish_at} IST. Approve later → posts within ~15 min (until {closes}).")
     telegram_bot.send_video_for_approval(tg_video, caption, job_id)
     sources = "\n".join(meta["sources"]) or "(RSS snippets only, check facts carefully)"
     telegram_bot.send_message(f"📝 Script:\n{pkg.script}\n\n🔗 Sources:\n{sources}")

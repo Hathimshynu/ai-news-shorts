@@ -5,7 +5,7 @@ Run in Google Colab (paste into a Code cell) or locally:  python scripts/instagr
 You need: App ID and App Secret (developers.facebook.com > your app > App settings > Basic)
           and a User token from the Graph API Explorer with these permissions:
           instagram_basic, instagram_content_publish, pages_show_list,
-          pages_read_engagement, business_management
+          pages_read_engagement, pages_manage_posts, business_management
 """
 import requests
 
@@ -30,12 +30,13 @@ found = False
 for p in pages.get("data", []):
     ig = p.get("instagram_business_account")
     print(f"\nPage: {p['name']} (id {p['id']})")
+    print(f"FB_PAGE_ID      = {p['id']}")
     if not ig:
         print("  No Instagram professional account linked to this Page.")
         continue
     found = True
     print(f"  Instagram: @{ig.get('username')}")
-    print("\n==== Add these as GitHub Secrets ====")
+    print("\n==== Add these as GitHub Secrets (plus FB_PAGE_ID above) ====")
     print(f"IG_USER_ID      = {ig['id']}")
     print(f"IG_ACCESS_TOKEN = {p['access_token']}")
     info = requests.get(f"{G}/debug_token", params={

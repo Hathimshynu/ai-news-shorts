@@ -2,7 +2,9 @@ name: Produce daily short
 
 on:
   schedule:
-    - cron: "30 9 * * *"   # 09:30 UTC = 3:00 PM IST (GitHub may start it 5-30 min late)
+    - cron: "30 0 * * *"   # 00:30 UTC = 6:00 AM IST  (morning video)
+    - cron: "30 9 * * *"   # 09:30 UTC = 3:00 PM IST  (evening video)
+    # GitHub may start scheduled runs 5-30 min late
   workflow_dispatch: {}
 
 permissions:

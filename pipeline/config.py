@@ -29,15 +29,19 @@ YT_CLIENT_SECRET = env("YT_CLIENT_SECRET")
 YT_REFRESH_TOKEN = env("YT_REFRESH_TOKEN")
 IG_USER_ID = env("IG_USER_ID")            # optional: Instagram publishing
 IG_ACCESS_TOKEN = env("IG_ACCESS_TOKEN")
+FB_PAGE_ID = env("FB_PAGE_ID")              # optional: Facebook Page Reels
+FB_PAGE_TOKEN = env("FB_PAGE_TOKEN")        # optional; defaults to IG_ACCESS_TOKEN
 
 # ---- Models (change here when a provider renames a model) ----
-GEMINI_MODEL = env("GEMINI_MODEL", "gemini-3.8-flash")
+GEMINI_MODEL = env("GEMINI_MODEL", "gemini-2.5-flash")
 GROQ_MODEL = env("GROQ_MODEL", "llama-3.3-70b-versatile")
 OPENROUTER_MODEL = env("OPENROUTER_MODEL", "meta-llama/llama-3.3-70b-instruct:free")
 
 # ---- Content settings ----
 CHANNEL_NAME = env("CHANNEL_NAME", "AI News Shorts")
-CHANNEL_HANDLE = env("CHANNEL_HANDLE", "@ainewsshorts")
+CHANNEL_HANDLE = env("CHANNEL_HANDLE", "")
+if CHANNEL_HANDLE.strip().lower() in ("none", "-", "off"):
+    CHANNEL_HANDLE = ""  # no name on videos/thumbnails
 # Google News English editions for India + Asia. Format: country code used in hl/gl/ceid.
 COUNTRIES = [c.strip() for c in env("NEWS_COUNTRIES", "IN,SG,MY,PH,PK").split(",") if c.strip()]
 SEARCH_QUERIES = [q.strip() for q in env(
