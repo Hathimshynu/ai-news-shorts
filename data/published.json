@@ -101,17 +101,19 @@
     }
   },
   "2026-10-10-morning-1146": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/8rt7B6xHlk8",
-      "facebook": "https://www.facebook.com/reel/1651253336624546"
+      "facebook": "https://www.facebook.com/reel/1651253336624546",
+      "instagram": "https://www.instagram.com/reel/DeUN6MFiXa2/"
     },
     "approved_at": "2026-10-10T07:01:43.661833+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-10T13:32:48.267217+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-10T13:42:50.042113+00:00",
     "ids": {
       "youtube": "8rt7B6xHlk8",
-      "facebook": "1651253336624546"
+      "facebook": "1651253336624546",
+      "instagram": "18127629961841821"
     },
     "info": {
       "title": "Point AI Agents on macOS Screen #shorts",
@@ -121,7 +123,7 @@
       "seconds": 45.2,
       "primary_keyword": "bigarrow macOS AI tool",
       "qa_passed": true,
-      "posted_at": "2026-10-10T13:34:11.438413+00:00"
+      "posted_at": "2026-10-10T13:43:21.926280+00:00"
     }
   }
 }
