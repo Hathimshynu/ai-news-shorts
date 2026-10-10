@@ -20,13 +20,41 @@
     "platforms": {}
   },
   "2026-10-09-evening-2155": {
-    "status": "approved",
-    "platforms": {},
-    "approved_at": "2026-10-10T06:59:47.443319+00:00"
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/0Tx-6NZMP9Q",
+      "instagram": "https://www.instagram.com/reel/DeTuhp6CWUx/",
+      "facebook": "https://www.facebook.com/reel/962905569646021"
+    },
+    "approved_at": "2026-10-10T09:08:25.267852+00:00",
+    "late_offer": true,
+    "late": true,
+    "attempts": 1,
+    "last_try": "2026-10-10T09:08:27.032603+00:00",
+    "ids": {
+      "youtube": "0Tx-6NZMP9Q",
+      "instagram": "17950074993312947",
+      "facebook": "962905569646021"
+    },
+    "info": {
+      "title": "India AI Regulation Paper in 30 Days #shorts",
+      "topic": "India to release AI regulation consultation paper within 30 days, says Vaishnaw",
+      "category": "Breaking AI News",
+      "hook": "India's AI regulation paper arrives in 30 days.",
+      "seconds": 47.8,
+      "primary_keyword": "India AI regulation consultation paper",
+      "qa_passed": false,
+      "posted_at": "2026-10-10T09:09:49.155450+00:00"
+    }
   },
   "2026-10-09-morning": {
     "status": "expired",
     "platforms": {}
+  },
+  "2026-10-10-evening-1400": {
+    "status": "approved",
+    "platforms": {},
+    "approved_at": "2026-10-10T09:08:02.892512+00:00"
   },
   "2026-10-10-morning-1146": {
     "status": "approved",
