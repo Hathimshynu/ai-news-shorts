@@ -1,22 +1,11 @@
 {
-  "job_id": "2026-10-10-evening-1501",
-  "chosen": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-  "reason": "It offers an actionable, privacy-focused open-source finance tracker with a local AI advisor that viewers can immediately run on their own machines.",
+  "job_id": "2026-10-10-evening-1918",
+  "chosen": "GitHub Copilot weekly releases — October 5",
+  "reason": "GitHub Copilot's official updates deliver practical, actionable new coding features that developers and tech enthusiasts can immediately use to boost productivity.",
   "candidates": [
     {
-      "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/LosaLosSantos/aurelio-finance"
-      ]
-    },
-    {
       "title": "GitHub Copilot weekly releases — October 5",
-      "score": 20.35,
+      "score": 19.29,
       "kinds": [
         "backlog",
         "official"
@@ -28,115 +17,139 @@
       ]
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "score": 15.0,
+      "title": "India's AI talent demand outstrips supply by over 3.5 times: Report",
+      "score": 19.79,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQW8wT0pfZE1EUmpYR1FCNVdxRF9fRWpiOVFRRkRfUTY0NlZLUWtsN3JlMjYxeXFJVm5LMzRfbkU2alBiWjhPSUc1MlYzQ2ViYy1PX00zWnVZX0JtU1paVy1vZjcyVzI5ZmEtaC1rQjNoSFZ2ZkxSOEw2X04wcVM3MjFDVlFveEhPQlpNQ1hxeXE1eVUwRWZDaDV5ck1CcDVwR2RsSFR3WFpiQkhVQlQ3LVh3Zk1DNDllbzlzODh4S3R6Q1JaZ05ybmMyYVdud05BcWdwMkMtWVVYTUHSAdsBQVVfeXFMUEFvME9KX2RNRFJqWEdRQjVXcURfX0VqYjlRUUZEX1E2NDZWS1FrbDdyZTI2MXlxSVZuSzM0X25FNmpQYlo4T0lHNTJWM0NlYmMtT19NM1p1WV9CbVNaWlctb2Y3MlcyOWZhLWgta0IzaEhWdmZMUjhMNl9OMHFTNzIxQ1ZRb3hIT0JaTUNYcXlxNXlVMEVmQ2g1eXJNQnA1cEdkbEhUd1haYkJIVUJUNy1Yd2ZNQzQ5ZW85czg4eEt0ekNSWmdOcm5jMmFXbndOQXFncDJDLVlVWE1B?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDQwaUFRTEJKYi1ud3FKTEVwSlNtWkMtNUxlRk5KZVBNNzZjMjd2NjZUczhBR254SFVHNDlCNWtSWl9DbzVlQnJGbkFxTTBZVWc3X1c4VjZyVnhETUs4THNBNVNuZFhzaWR0a2VrMGpfV25lVUdUWmEydFp2TjhjUENfczRoTGxad0Y1NTRPbFVGU3RrbE1aLQ?oc=5"
       ]
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "score": 15.0,
+      "title": "Poor Data Quality Leaks 4-7% Of India’s Welfare Budget, Puts AI Push At Risk: TBI Report",
+      "score": 19.67,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVPTzAtZkFwS3dEZDE5Q0pkRDkzczRBVl9GRGpMUmRoTmNwcFRGNlBJaUMzbDF0TUNXakNYR2pxdS1NUV80dHNxWmI2NWlvcUU5dVdfUHpnNTlCaElwOUhwOWZ2aTZLUlJwcDZLenFld2djdk4wYUVLVzlGcTlRUUtwLUNySFFkd19qVlVJUy00RzZ0MFQ0NjVxZHUzZ2xxeUxvX2RGV0lhZjFJS0x2ZDdZeUJ2T1EtenlMWHln?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUpVdWllTVNDeE1jUVMxdFdBQ1BfQWlsanQ0N1h4QVRCZkFZQ0w4Um9kNXdUUUhna0RpMjMyQzFBVjJHTFhhSmNtN1I1cjczRGpHd2FVemNyUFlGWHFXZlotdEhlRGR3UVJMSXZrdzlxYldOUzcyajBpNW56WVM3YWJZNl9RYjAtejFNTGVUMnhaSk4tYXBDUUJZNUI4LW_SAZ8BQVVfeXFMTVVKVXVpZU1TQ3hNY1FTMXRXQUNQX0FpbGp0NDdYeEFUQmZBWUNMOFJvZDV3VFFIZ2tEaTIzMkMxQVYyR0xYYUpjbTdSNXI3M0RqR3dhVXpjclBZRlhxV2ZaLXRIZURkd1FSTEl2a3c5cWJXTlM3MmowaTVuellTN2FiWTZfUWIwLXoxTUxlVDJ4WkpOLWFwQ1FCWTVCOC1v?oc=5"
       ]
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "score": 15.0,
+      "title": "India Mobile Congress 2026 Begins With 6G, AI In Focus",
+      "score": 19.11,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/sophos"
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2UzNTRWcjQtS1BLUUlGRktMNUl4aHFqSkJGMWR2cFVudWI0bWN0YkN3cnBIeTNsSkp5anpFMXlLYkt6NEZ2d2F0YWVGai1RZU9WSmE1cVJiSVlJYUoxenI2d1VhMW5QT2hjaVM1QXRmUkRFZWoyRkwxQ3dLWEVSd3FkMXdESmZKdldhQTltdndaMXl2c1dKelZfd2FKdw?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE84YmI1Uk5xdTA0RU1nek1QdC1fV0VjejJjcU5lVGtCQkNYSHpzWkVxUDc3Wmp4dVhOVHBfSW0tdGRVSFBYNVptMUFGQm5TeUdSOGJxRVphOEx4d2FrRmdQODBMbXE2Mi1wbENCWDdjTlVkZEh1NHc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE84YmI1Uk5xdTA0RU1nek1QdC1fV0VjejJjcU5lVGtCQkNYSHpzWkVxUDc3Wmp4dVhOVHBfSW0tdGRVSFBYNVptMUFGQm5TeUdSOGJxRVphOEx4d2FrRmdQODBMbXE2Mi1wbENCWDdjTlVkZEh1NHc?oc=5"
       ]
     },
     {
-      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "score": 20.0,
+      "title": "India entering tech transformation era with AI advances: AEC chief",
+      "score": 19.47,
       "kinds": [
-        "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis"
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRrak4zVGZJQmQ1R1VZbGNQQ1hCSVJIUXVXdlppdnBjdW9QYWN6ZEF1bzNDMDJ3QTk4NzJvWGtnMWNRMVk3Vzd0Q2FkRFlraFZHTkZxNjNiR09Rd29uSHhPNnZhT1pHUTlfVHFZU0Q0d2pkLWRUX2E2WWRvQmxJX0JCUldzRHBMbnh3TEJiMWR3N3ZzODBVTklFM1FIQ2hOcFNpZFhfc0V0NmpLaEtRb0k3a25ON2R6R3ZLa09PNjlBVnZudl9oVzVPTFlYSmhJcFBJQVJPdVdQd3VLaUZ0NzRLQ0RjcDBCZ1HSAe8BQVVfeXFMUFN5a05KU3hMNWFROXpFWHJnSTc5MmtSakZ3UUoxd0hsRVpnR2dMRDJlWXNBb3BFT0R6eDdyUGg1aFpmQUZZUTdndmFEaWNMR09DR2lVQnc5Qy1UN1Y5cHNDM3BrZWNWZlVJV2NBOUFzNm4wR1dBb2tPVWJzbUZmWFU3eXNlZmRCU1pEejFDS0Z0anJFeWFGRWVxMDNydkdFbkx3c2I4SEZwbEFvcF84WlEtVDg3X2l1TGFZVW9UbkUzWFMtZWFDVWRNWnIyMnN2UlBwNzlVWmJxVTJieE16dzlMN3B2aFBWMnp6TDB0TXc?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0NnLWhHNUJLRHVHR1hUS1pXOGh4T3RQSEFHTTdDX3dONlBPNVpnMEhZMHByQnF5TEh2dFhDekp6ODRCLUVIM2lqdHlsTVA5T0p5YktuVW5fU0hIUXE2NmIyX2NVLXJhUFpKVV9feno5X2lIUmVWM3RrZ2dvUXAzbzd6V0JVSEJiTS13MF9ueENPa2VFMU9sa1RQYmgxU0Vqei1MVW56RFN0QVpqQzZ1NDN5WDBqSnVCbUNXRW1RcUs0QWhkemwyRXFDU2h0RFg2NGRr0gHTAUFVX3lxTE9PQ2ctaEc1QktEdUdHWFRLWlc4aHhPdFBIQUdNN0Nfd042UE81WmcwSFkwcHJCcXlMSHZ0WEN6Sno4NEItRUgzaWp0eWxNUDlPSnliS25Vbl9TSEhRcTY2YjJfY1UtcmFQWkpVX196ejlfaUhSZVYzdGtnZ29RcDNvN3pXQlVIQmJNLXcwX254Q09rZUUxT2xrVFBiaDFTRWp6LUxVbnpEU3RBWmpDNnU0M3lYMGpKdUJtQ1dFbVFxSzRBaGR6bDJFcUNTaHREWDY0ZGs?oc=5"
       ]
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "score": 15.0,
+      "title": "Oppo ColorOS 17 with Oppo Find X10 India Launch Confirmed",
+      "score": 19.04,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/oracle"
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXk2dE9LcGlkMzByczZsdTZYWmNRaTV6T3hVYk9tQUp3RUdkc25IUFBDbnVrQUY3OFI2WmlEa0xzelJZd0hRaTBCVFBqeV9Uem9IMTBkM0ZqcTdvYm5JMFB3cGlhUmhPMEptYjlUSzVXUHpZZDJacDk0SEZPaE1XNVFfUmM5VTIydVdaX0d0RUs?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5"
       ]
     },
     {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "score": 15.0,
+      "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on - GSMArena.com news",
+      "score": 19.68,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/legalon-halves-codex-costs"
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfV9IBrAFBVV95cUxQYkRkdnA3cWxqUHhrbVdvdERXWDVVUXU0SEUxTURzWWRuRlJRQTRSV3hIaXFtdFlJeUhsZmlrOUdzRkdjVlNLaWw2LTlmdGp4WGhrTFlXLTRaQlNaSTFoSjQxMDExNm1yanFXTDd0OWx4UGxpTDJaLVI3SGxxb1NTVUlucjA2dXZCQks0OWNBdEVNM2xKZDJqZUszTHpZV1dpOUo0eXVDZmM3bU9J?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfV9IBrAFBVV95cUxQYkRkdnA3cWxqUHhrbVdvdERXWDVVUXU0SEUxTURzWWRuRlJRQTRSV3hIaXFtdFlJeUhsZmlrOUdzRkdjVlNLaWw2LTlmdGp4WGhrTFlXLTRaQlNaSTFoSjQxMDExNm1yanFXTDd0OWx4UGxpTDJaLVI3SGxxb1NTVUlucjA2dXZCQks0OWNBdEVNM2xKZDJqZUszTHpZV1dpOUo0eXVDZmM3bU9J?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfV9IBrAFBVV95cUxQYkRkdnA3cWxqUHhrbVdvdERXWDVVUXU0SEUxTURzWWRuRlJRQTRSV3hIaXFtdFlJeUhsZmlrOUdzRkdjVlNLaWw2LTlmdGp4WGhrTFlXLTRaQlNaSTFoSjQxMDExNm1yanFXTDd0OWx4UGxpTDJaLVI3SGxxb1NTVUlucjA2dXZCQks0OWNBdEVNM2xKZDJqZUszTHpZV1dpOUo0eXVDZmM3bU9J?oc=5"
       ]
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "score": 15.0,
+      "title": "iQOO 16 India Launch Confirmed at IMC 2026: What to Expect",
+      "score": 21.79,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/pollo-ai"
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19CWjBWckZHNm1NVTFvNmZoaVRoWEM4VUlNbnNMM2VSTUF5Q19CSFduUEZRblp5dFBxRkRfbDVsU1ZkX0pqTndxcGJIRDUtVG9jcUF5SmVrZU95akVLaWNJbU5uRS1zVzRQUVUtWUNrOTNCZGdEdFFSZkRGWlpPYS1HcktHZEdYRnUxdmk0cUoydw?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWdVLXNOcjJuV1M4eS0zNTVQTG4tWi0wVExsQnFLR2V1MzBGLTBCdGRFSG5MLVBQYk9RNmk2cnVwZGhMS2poWUFKbFdqVl9tUUlFdjZTYng2Q1dsZ2VUZTBqNEd2YnoxSm1IbHJvQTlsbUtjZDJTS2g3dFEtOEtZb1NWb9IBiAFBVV95cUxPMGFGdHpJRGVYcEJKdHQ1TU9Xc3d3amZEWXJrNHlmdkVzMjBhU0oyZjZTVmNDZkMyb0lxUFVGc3RPT3lkMy1VSGg2aTBoZkh1R0h2c3VRdEx5TE44ZWoyLXZMSmJ0N3lMM3puYmNsTlBZTGpUeFVmUWNHY0p0Q0V4ZC1rOWJMbFhi?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEVuVkhnZTBfVnVXSVExZ2x5RFlrUjFSQzB0S3Izbk90VlFhdnRMcmVhNWdET0NRVnVXYThsb3VpRmpZZkhSejNHcUpBX3MzZk9sZjhaMkZGTFRQSEFfVEtOQ0YxLUFoUDZWY1F1ZVh6U0d2dWppd3ZGSWdWT29aYm01YlR1bHVNYVNtTzl3cmJSRzF1MmpDdTB0Zm5KZzhTQkVUNnBnSVIxdko5N3BkY1haZ053RlVNZmIxSEsydGzSAcYBQVVfeXFMTmFwXzk0RTYwak5taldrbUMySzBoYWpnMnQ3Z256T2RySS05aVJzTTNrREt5M1MydTVKV0w4TFk1R1ZYSVpVRWVObjZFYkJmZVQ5TkhwbjhkYXM4YnhUWmpyQk1KQWZfVUZVMko1MlRUdDBPS0FKVkM1dmNadDNTTlFyQzZIVEhyUEJzS2M0RW5Ea2c1M3dhbHhRcnRMMkpIZGMxVHR6eGJDLWtWOHJWUFdrSGFra0NRTzF5MDJna1FYT2d0U3BB?oc=5"
       ]
     },
     {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "score": 15.0,
+      "title": "Infinix GT 50 Pro India launch date revealed; gaming smartphone to be available on Flipkart",
+      "score": 21.63,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/teens-learn-and-plan"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzRxRmEwRUxaVUpHMDlQZi1tOUhuN2lvTG1UUHRFY214czhCdWRFU1pTYlVZWGdWVEpCUUI3UFZ6UTdCZ2lPZEJFNGdqX2lIZkZ3Uk1OSlBoaDFQUmNNUEw2UERkOGJjQmhieFAxUHZfTUE1d19haXZ4N0RZaVZkZ1hIZWdVak45RmVWV9IBkgFBVV95cUxNUS03aU5kTnhtSlpfYjk1blZkOTNFTy1rOWxqNDV0cmNqZzF5WGk2bEI1bGRyZkgzTUNLek1lXzRiMFhMczYxOVVpVkJNVkRCUWZZZkpMTFc2SjRzNkZMVC1lUVhRTXlYblNBcVRWazQxcGwzT3ZpRjRoVjJFaVRhdEZoYUhwNlN6UDFUMFJGTXRYdw?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdLMmtjRWJSbzN1LTZxX1ZTTjRBS2IzQ2g5VFV6dW11LUZRZldHaXQ1TXhLUnRHeG03NUhpcV9hM3ZWREZMbHg0SUxLMHZPTHZwSnRILThpUExkYXJBNGVTRGs4QzBPRTR3VnREVnpmUFVuLS1ua0VpUDVrOC1aM3diUUg?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemZuN1dINWdvNnZxdjJSOHVIOWJfcWktRmJrdVdfcnJENUVnMGFFeTA2cFdMdVIzWlpxZVMxWjVPaEhwdTU1OTdFa1l0dDZDRWg0a1ZhcjJjVzdIS25HU1V3WjlFLWp4UW1aX1NQRmlnOVZqUHZrZTBQUGQ5TzNEYVJybF9wdG1aZHZQMVpSYkE5YkJZYTFoenRpemNtamRocERzdkRLZTFTWWNDVkNMUXFiNmg5QU9SV3JXQlhWaTdPNi1pekhNWdIByAFBVV95cUxOemZuN1dINWdvNnZxdjJSOHVIOWJfcWktRmJrdVdfcnJENUVnMGFFeTA2cFdMdVIzWlpxZVMxWjVPaEhwdTU1OTdFa1l0dDZDRWg0a1ZhcjJjVzdIS25HU1V3WjlFLWp4UW1aX1NQRmlnOVZqUHZrZTBQUGQ5TzNEYVJybF9wdG1aZHZQMVpSYkE5YkJZYTFoenRpemNtamRocERzdkRLZTFTWWNDVkNMUXFiNmg5QU9SV3JXQlhWaTdPNi1pekhNWQ?oc=5"
       ]
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "score": 15.0,
+      "title": "iQOO 16, Motorola Signature 27 Flagship Phones Teased Ahead Of India Launch - Check Key Features",
+      "score": 19.22,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMW81eU9MSk12WHhMNG5XcVMySmxodnZLOUxsclhzTE1saDFHajNfN3pqLVZFSjBxSGpyaDkxT053MmlwYUV4UUNiUUdXbl9DUUJyTWFDaC16bjNuRFUzTFFQODVTd29DdnBwODNDbF9uZ3o0R0J4YUp2WTBMRXFmMXl4OFIwVHhNeVpxTk82M0dGMnFoV0ZQN291eC04N2VqUFBad2hmc3N3aDBmT1RNa1N6aUtzaU1xNG1UQjNYb3YxRVRiZVZ1N1YtMldjcjZ0STQ1UW9xUdIB3wFBVV95cUxPVHR1YUhud2prdEg5WmozMFdFTGtIbFpleDVFVkl2X3JieEwtMjhHWnhGRWxTRFJ5MjRlV296XzFkUmJIdE45M2J4X1c4UlJRZGVPN3Y1S2lXTUkzanhES1RyVlBEVDdoWkE3WExETFBVaGptR2ZSMXpTQ2Q2TFBlUGxyNG5lMjZ5Q1l6c0lCLUtwUWNRSEs1NklKZmw2VVNFX3hLajVublB5cF81aWJaTUFjc1VtVktfNGEybU92Ull5M3ZBdmJNVmFBdWprYzh6VHAxckJ4RjFRaGc3VHVz?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczNvazFRaG1paFZwR2tUN1Ruelo5UGNZd205bl94ZnFneC1XRUdOVmFmSTRqTE9EblJNZWFLWUo4aEh0eUFPMjdBSlplWEU4UEotRVdRd2xYZmJXbGdibEdRYXlMeFh1ZkttcjB0R3AyY0ozMkljbDBoQVVnYkVhN0Etak81Q0ZNX0pwME9odEJVWkJfcWV6bkpmbU83aWVtNWZmS3N3N0lycFZWTHpmR0pvVUtSeU4zb1VndnkyVDRmN0RGV0d6ZzNkMWhEcFZI0gHWAUFVX3lxTE55WVdFajlJZDUtU3ZWLUtVWmRYR2FlLUdwZkQ5eHpBdWVXMmJJVlRUYUlNNV85ZW9WMXVWalFNUTNPaG1lVGt0NU5uMTBGZ3BOa05VdTBWS3lyZFhZLUVpY2VESEtJVnlaZVRvQ2FKY19Bd2U0MWtLdFYtYjZDZzA5LWs5dU0xeXp1VWdDVEpGNlVabTc0N3hqczNkUlRkUGRGTFNRMTl6YXlMVTZUZVBHZ1RWS2QtUTBGdWE0eTczVFNwdkpUdGg4QmVxZ1pyWFg1M2E2U1E?oc=5"
       ]
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
-      "score": 16.45,
+      "title": "Infinix SMART 20 HD arrives in PH",
+      "score": 20.09,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://huggingface.co/blog/allenai/impactful-scheduling"
+        "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JX3c0NjhzZVFpU0RHOURKcTV4ZmdXVlJ2T3l3bThwTWxOc2cxdjFXSE9DMWZxQzFhbnZ5TG0tR1p1WlV0aWMyTDhn?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUxkNkJ4eXRxeDVrZE9nMjRkdFJyTGxhTk9iNnNkSHdkQTZxcXN0R1I2Z0xLcmpCdWZ1RVQ1ZVZfek0wNGtYSWNNdl8xamdIdk1rdy1uTkVTMmhzZDNybXBBWWg0OFN0QlpWWnAxb0RIcmkxQnlqb3NxVXI2LUFLeDhQZGc4ZWJHMEVhU0tiOVotRlFZNkx5c3hYa1gxMnYtbzBlbNIBpAFBVV95cUxPaUxkNkJ4eXRxeDVrZE9nMjRkdFJyTGxhTk9iNnNkSHdkQTZxcXN0R1I2Z0xLcmpCdWZ1RVQ1ZVZfek0wNGtYSWNNdl8xamdIdk1rdy1uTkVTMmhzZDNybXBBWWg0OFN0QlpWWnAxb0RIcmkxQnlqb3NxVXI2LUFLeDhQZGc4ZWJHMEVhU0tiOVotRlFZNkx5c3hYa1gxMnYtbzBlbA?oc=5"
+      ]
+    },
+    {
+      "title": "AI Express, Air India extend cancellation of Riyadh flights",
+      "score": 19.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1VITEtROE9mcjU0U2JnZkFkZG5Gb2NPX1l4aS11VG1BZmg2LTNoTEx2VzczaHY0cEF3RzdMakh0dWcxa2tjSUhVbmFEc2txTW5ZcGlYYWZXb3NYa0xlOVpoMnpJTVhuSFFTdk1HOVFlNTdVOUVDT1JLTU5JeFFqRVhqaGtsaUw5WHVMRTR4VEt2Z2dWV28zMGtPSUUzMnNHNWJROWdlaW1Gbmk5OC1jSHZuenpyWi1CYVBVZlVxYUlOV1JRQW5OUVY0ZFowUdIB1AFBVV95cUxNZWRsOXdSVVVqaHJWSXMzUnlJelp1QWthbFVqTGEtbzAydWUzZTdvU0F4SXVnZ2ZFdlpCQ3ZoYzR0LVlaeWt0TDJ6Sy1wZ3BRRzY5ZnBnN19qU3VydkU4UnQ3aEdldDZtM25UR1dpcHgwd2NWN0pQUVlsdS1ua3NpZDE0cUFRMF9RZmVYRDdRODBVZWFOelRSUi0xMUVnRl9Vd0lUQnhMYnlZU1dhaXhwbl8tTzZraWVKTGpMVUNMTVpIVFRHR2FMQ3k2YlpjVEtQVnp0bw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHp5R3ZlTU9HZERZd3FXZS1Gd19RYkwtdWxzUGtoZUY0R0ZjbGpDM0JVX3BjaTliTERvelIwcHJKNUd2amdXZTVNQmd5QzFZWE1EX09lcDZCeDl4NWVTaE9adXpQd2t6dl9kNzhGaXNFOGpLYktwMXBnYTBxMjNQNVNfRV9ad1FfbGJ0bkFCNElQU05kSElyYjBiRDJKQm4zdzBRcEJzbHhmcWRzS3duTVJfV1lnVXRVSU9yVDBKNVQyUk1VVU9kbkJ6RS1kUHdPQkV3YmJXcWZxdw?oc=5"
       ]
     }
   ]
