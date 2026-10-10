@@ -1106,7 +1106,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def notify(text):\n    try:\n        tg(\"sendMessage\", chat_id=CHAT, text=text[:4000])\n    except Exception as e:  # noqa: BLE001\n        print(f\"[gate] notify failed: {e}\")\n# ---------- time windows ----------\ndef now_ist():\n    return datetime.now(IST)\ndef window(now=None):\n    \"\"\"(start, end) of the current or next posting window today, or None after the last one.\"\"\"",
+        "peekOfCode": "def notify(text):\n    try:\n        tg(\"sendMessage\", chat_id=CHAT, text=text[:4000])\n    except Exception as e:  # noqa: BLE001\n        print(f\"[gate] notify failed: {e}\")\n# ---------- time windows ----------\ndef now_ist():\n    return datetime.now(IST)\nPOST_TIMES = [(20, 0), (21, 0)]  # IST: the day's first video posts at 8 PM, the second at 9 PM\nDAY_START, DAY_END = 6, 23        # the watcher works 6 AM - 11 PM; unposted videos are skipped at 11 PM",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1115,25 +1115,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def now_ist():\n    return datetime.now(IST)\ndef window(now=None):\n    \"\"\"(start, end) of the current or next posting window today, or None after the last one.\"\"\"\n    now = now or now_ist()\n    for s, e in WINDOWS:\n        end = now.replace(hour=e, minute=0, second=0, microsecond=0)\n        if now < end:\n            return now.replace(hour=s, minute=0, second=0, microsecond=0), end\n    return None",
-        "detail": "pipeline.gate",
-        "documentation": {}
-    },
-    {
-        "label": "window",
-        "kind": 2,
-        "importPath": "pipeline.gate",
-        "description": "pipeline.gate",
-        "peekOfCode": "def window(now=None):\n    \"\"\"(start, end) of the current or next posting window today, or None after the last one.\"\"\"\n    now = now or now_ist()\n    for s, e in WINDOWS:\n        end = now.replace(hour=e, minute=0, second=0, microsecond=0)\n        if now < end:\n            return now.replace(hour=s, minute=0, second=0, microsecond=0), end\n    return None\ndef in_window(now=None):\n    w = window(now)",
-        "detail": "pipeline.gate",
-        "documentation": {}
-    },
-    {
-        "label": "in_window",
-        "kind": 2,
-        "importPath": "pipeline.gate",
-        "description": "pipeline.gate",
-        "peekOfCode": "def in_window(now=None):\n    w = window(now)\n    return bool(w) and w[0] <= (now or now_ist()) < w[1]\ndef fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\ndef video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"",
+        "peekOfCode": "def now_ist():\n    return datetime.now(IST)\nPOST_TIMES = [(20, 0), (21, 0)]  # IST: the day's first video posts at 8 PM, the second at 9 PM\nDAY_START, DAY_END = 6, 23        # the watcher works 6 AM - 11 PM; unposted videos are skipped at 11 PM\ndef fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef video_made(job_id):\n    \"\"\"job_id looks like 2026-10-10-morning-0615 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1142,16 +1124,25 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\ndef video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)",
+        "peekOfCode": "def fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef video_made(job_id):\n    \"\"\"job_id looks like 2026-10-10-morning-0615 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):\n        return None\n    hhmm = parts[4] if len(parts) > 4 and parts[4].isdigit() else (\"0600\" if parts[3] == \"morning\" else \"1500\")",
         "detail": "pipeline.gate",
         "documentation": {}
     },
     {
-        "label": "can_post_now",
+        "label": "video_made",
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\ndef video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):\n        return None",
+        "peekOfCode": "def video_made(job_id):\n    \"\"\"job_id looks like 2026-10-10-morning-0615 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):\n        return None\n    hhmm = parts[4] if len(parts) > 4 and parts[4].isdigit() else (\"0600\" if parts[3] == \"morning\" else \"1500\")\n    return day.replace(hour=int(hhmm[:2]), minute=int(hhmm[2:]))\ndef video_post_at(job_id):",
+        "detail": "pipeline.gate",
+        "documentation": {}
+    },
+    {
+        "label": "video_post_at",
+        "kind": 2,
+        "importPath": "pipeline.gate",
+        "description": "pipeline.gate",
+        "peekOfCode": "def video_post_at(job_id):\n    \"\"\"Made before noon -> 8 PM. Made in the afternoon/evening -> 9 PM. Made after 10 PM -> 8 PM next day.\"\"\"\n    made = video_made(job_id)\n    if not made:\n        return None\n    (h1, m1), (h2, m2) = POST_TIMES\n    if made.hour < 12:\n        return made.replace(hour=h1, minute=m1)\n    if made.hour < 22:\n        return made.replace(hour=h2, minute=m2)",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1160,7 +1151,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):\n        return None\n    hhmm = parts[4] if len(parts) > 4 and parts[4].isdigit() else (\"0600\" if parts[3] == \"morning\" else \"1500\")\n    made = day.replace(hour=int(hhmm[:2]), minute=int(hhmm[2:]))",
+        "peekOfCode": "def video_window_end(job_id):\n    at = video_post_at(job_id)\n    return at.replace(hour=DAY_END, minute=0) if at else None\ndef window_over(job_id, now=None):\n    end = video_window_end(job_id)\n    return bool(end) and (now or now_ist()) >= end\ndef due(job_id, now=None):\n    \"\"\"Is it time to post this approved video? (Run by hand = always.)\"\"\"\n    if MODE == \"manual\":\n        return True",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1169,7 +1160,16 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def window_over(job_id, now=None):\n    end = video_window_end(job_id)\n    return bool(end) and (now or now_ist()) >= end\n# ---------- published.json ----------\ndef load_all():\n    return json.loads(DONE.read_text()) if DONE.exists() else {}\ndef get(job_id):\n    rec = load_all().get(job_id)\n    if isinstance(rec, str):  # old format: plain status string\n        rec = {\"status\": rec, \"platforms\": {}}",
+        "peekOfCode": "def window_over(job_id, now=None):\n    end = video_window_end(job_id)\n    return bool(end) and (now or now_ist()) >= end\ndef due(job_id, now=None):\n    \"\"\"Is it time to post this approved video? (Run by hand = always.)\"\"\"\n    if MODE == \"manual\":\n        return True\n    at = video_post_at(job_id)\n    return at is None or (now or now_ist()) >= at\n# ---------- published.json ----------",
+        "detail": "pipeline.gate",
+        "documentation": {}
+    },
+    {
+        "label": "due",
+        "kind": 2,
+        "importPath": "pipeline.gate",
+        "description": "pipeline.gate",
+        "peekOfCode": "def due(job_id, now=None):\n    \"\"\"Is it time to post this approved video? (Run by hand = always.)\"\"\"\n    if MODE == \"manual\":\n        return True\n    at = video_post_at(job_id)\n    return at is None or (now or now_ist()) >= at\n# ---------- published.json ----------\ndef load_all():\n    return json.loads(DONE.read_text()) if DONE.exists() else {}\ndef get(job_id):",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1241,7 +1241,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def answer(callback_ids, text):\n    \"\"\"Show a small pop-up on your phone confirming the tap (only possible for recent taps).\"\"\"\n    for cid in [callback_ids] if isinstance(callback_ids, str) else callback_ids:\n        if cid in _answered:\n            continue\n        _answered.add(cid)\n        tg(\"answerCallbackQuery\", callback_query_id=cid, text=text[:190])\ndef set_buttons(messages, label, job_id=None):\n    \"\"\"Replace Approve/Reject with a status label. With job_id, a Cancel button stays available.\"\"\"\n    rows = [[{\"text\": label, \"callback_data\": \"noop\"}]]",
+        "peekOfCode": "def answer(callback_ids, text):\n    \"\"\"Show a small pop-up on your phone confirming the tap (only possible for recent taps).\"\"\"\n    for cid in [callback_ids] if isinstance(callback_ids, str) else callback_ids:\n        if cid in _answered:\n            continue\n        _answered.add(cid)\n        tg(\"answerCallbackQuery\", callback_query_id=cid, text=text[:190])\ndef set_buttons(messages, label, job_id=None):\n    \"\"\"Replace the buttons with a status label. With job_id (approved, waiting for its time),\n    '⚡ Post now' and 'Cancel' stay available.\"\"\"",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1250,7 +1250,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def set_buttons(messages, label, job_id=None):\n    \"\"\"Replace Approve/Reject with a status label. With job_id, a Cancel button stays available.\"\"\"\n    rows = [[{\"text\": label, \"callback_data\": \"noop\"}]]\n    if job_id:\n        rows.append([{\"text\": \"❌ Cancel (don't post)\", \"callback_data\": f\"reject:{job_id}\"}])\n    markup = json.dumps({\"inline_keyboard\": rows})\n    for chat_id, message_id in set(messages):\n        if _labels.get((chat_id, message_id)) == (label, job_id):\n            continue\n        _labels[(chat_id, message_id)] = (label, job_id)",
+        "peekOfCode": "def set_buttons(messages, label, job_id=None):\n    \"\"\"Replace the buttons with a status label. With job_id (approved, waiting for its time),\n    '⚡ Post now' and 'Cancel' stay available.\"\"\"\n    rows = [[{\"text\": label, \"callback_data\": \"noop\"}]]\n    if job_id:\n        rows.append([{\"text\": \"⚡ Post now instead\", \"callback_data\": f\"now:{job_id}\"},\n                     {\"text\": \"❌ Cancel\", \"callback_data\": f\"reject:{job_id}\"}])\n    markup = json.dumps({\"inline_keyboard\": rows})\n    for chat_id, message_id in set(messages):\n        if _labels.get((chat_id, message_id)) == (label, job_id):",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1286,7 +1286,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def offer_late(job_id, meta, was_approved=False):\n    \"\"\"Window closed: mark skipped and offer a one-tap 'Post now' (a fresh button, so an old\n    Approve tap can never re-post something by accident).\"\"\"\n    rec = get(job_id)\n    if rec.get(\"late_offer\"):\n        return\n    why = (\"You approved it, but no check ran in time, so it wasn't posted.\"\n           if was_approved else \"It wasn't approved before the window closed.\")\n    markup = {\"inline_keyboard\": [[{\"text\": \"▶️ Post now\", \"callback_data\": f\"late:{job_id}\"}]]}\n    res = tg(\"sendMessage\", chat_id=CHAT, reply_markup=json.dumps(markup),",
+        "peekOfCode": "def offer_late(job_id, meta, was_approved=False):\n    \"\"\"Window closed: mark skipped and offer a one-tap 'Post now' (a fresh button, so an old\n    Approve tap can never re-post something by accident).\"\"\"\n    rec = get(job_id)\n    if rec.get(\"late_offer\"):\n        return\n    why = (\"You approved it, but no check ran in time, so it wasn't posted.\"\n           if was_approved else \"It wasn't approved by 11 PM.\")\n    markup = {\"inline_keyboard\": [[{\"text\": \"▶️ Post now\", \"callback_data\": f\"late:{job_id}\"}]]}\n    res = tg(\"sendMessage\", chat_id=CHAT, reply_markup=json.dumps(markup),",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1295,7 +1295,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def decide(now=None):\n    vids = candidates()\n    decisions = presses() if vids else {}\n    handle_topic_taps(vids)\n    statuses = {j: get(j)[\"status\"] for j, _, _ in vids}\n    print(f\"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}\")\n    # \"▶️ Post now\" on a skipped video -> approved, posts immediately (whatever the time)\n    for job_id, folder, meta in vids:\n        decision, msgs, ids = decisions.get(job_id, (None, [], []))\n        if decision == \"late\" and statuses[job_id] == \"expired\":",
+        "peekOfCode": "def decide(now=None):\n    vids = candidates()\n    decisions = presses() if vids else {}\n    handle_topic_taps(vids)\n    statuses = {j: get(j)[\"status\"] for j, _, _ in vids}\n    print(f\"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}\")\n    # \"⚡ Post now\" (or \"▶️ Post now\" on a skipped video) -> posts immediately, whatever the time\n    for job_id, folder, meta in vids:\n        decision, msgs, ids = decisions.get(job_id, (None, [], []))\n        if (decision == \"late\" and statuses[job_id] == \"expired\") or \\",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1304,7 +1304,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def watch():\n    \"\"\"Stay running through the posting window; react to taps within ~10 seconds.\"\"\"\n    start = time.time()\n    w = window()\n    if not w or now_ist() < w[0] - timedelta(hours=6):\n        print(\"[gate] no posting window in the next 6 hours: one check, then stop\")\n        return decide()\n    print(f\"[gate] watching until {fmt(w[1])} IST\")\n    last_refresh = time.time()\n    while True:",
+        "peekOfCode": "def watch():\n    \"\"\"Run from when a video is made until it's posted or decided (latest 11 PM); taps answered in ~10 s.\"\"\"\n    start = time.time()\n    now = now_ist()\n    if not (DAY_START <= now.hour < DAY_END):\n        print(\"[gate] night time: one check, then stop\")\n        return decide()\n    day_end = now.replace(hour=DAY_END, minute=0, second=0, microsecond=0)\n    print(f\"[gate] watching until everything is posted or decided (latest {fmt(day_end)} IST)\")\n    last_refresh = time.time()",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1349,7 +1349,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "DONE = ROOT / \"data\" / \"published.json\"\nTOKEN = (os.getenv(\"TELEGRAM_BOT_TOKEN\") or \"\").strip()\nCHAT = (os.getenv(\"TELEGRAM_CHAT_ID\") or \"\").strip()\nMODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours",
+        "peekOfCode": "DONE = ROOT / \"data\" / \"published.json\"\nTOKEN = (os.getenv(\"TELEGRAM_BOT_TOKEN\") or \"\").strip()\nCHAT = (os.getenv(\"TELEGRAM_CHAT_ID\") or \"\").strip()\nMODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1358,7 +1358,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "TOKEN = (os.getenv(\"TELEGRAM_BOT_TOKEN\") or \"\").strip()\nCHAT = (os.getenv(\"TELEGRAM_CHAT_ID\") or \"\").strip()\nMODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10",
+        "peekOfCode": "TOKEN = (os.getenv(\"TELEGRAM_BOT_TOKEN\") or \"\").strip()\nCHAT = (os.getenv(\"TELEGRAM_CHAT_ID\") or \"\").strip()\nMODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1367,7 +1367,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "CHAT = (os.getenv(\"TELEGRAM_CHAT_ID\") or \"\").strip()\nMODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over",
+        "peekOfCode": "CHAT = (os.getenv(\"TELEGRAM_CHAT_ID\") or \"\").strip()\nMODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1376,7 +1376,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "MODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching",
+        "peekOfCode": "MODE = os.getenv(\"MODE\", \"check\")\nAUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1385,7 +1385,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "AUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run",
+        "peekOfCode": "AUTO = (os.getenv(\"AUTO_PUBLISH\") or \"\").strip().lower() == \"true\"  # post QA-passed videos without Approve\nFINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1394,7 +1394,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "FINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown",
+        "peekOfCode": "FINAL_STATES = (\"published\", \"rejected\", \"expired\", \"failed\")\nMAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1403,7 +1403,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "MAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu",
+        "peekOfCode": "MAX_ATTEMPTS = 3\nRETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1412,7 +1412,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "RETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):",
+        "peekOfCode": "RETRY_AFTER = 10 * 60          # wait before retrying a platform that failed\nIST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):\n    data = urllib.parse.urlencode(params).encode()",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1421,16 +1421,7 @@
         "kind": 5,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "IST = timezone(timedelta(hours=5, minutes=30))\nWINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):\n    data = urllib.parse.urlencode(params).encode()",
-        "detail": "pipeline.gate",
-        "documentation": {}
-    },
-    {
-        "label": "WINDOWS",
-        "kind": 5,
-        "importPath": "pipeline.gate",
-        "description": "pipeline.gate",
-        "peekOfCode": "WINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):\n    data = urllib.parse.urlencode(params).encode()\n    try:",
+        "peekOfCode": "IST = timezone(timedelta(hours=5, minutes=30))\nPOLL_SECONDS = 10\nWATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over\nREFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching\n_answered = set()                  # callback ids already answered in this run\n_labels = {}                       # (chat_id, message_id) -> label already shown\nTOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):\n    data = urllib.parse.urlencode(params).encode()\n    try:",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1485,6 +1476,15 @@
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
         "peekOfCode": "TOPIC_TAPS = []                    # [(job_id:index, callback_query)] from the \"pick a topic\" menu\ndef tg(method, **params):\n    data = urllib.parse.urlencode(params).encode()\n    try:\n        with urllib.request.urlopen(f\"https://api.telegram.org/bot{TOKEN}/{method}\", data, timeout=30) as r:\n            return json.loads(r.read())\n    except urllib.error.HTTPError as e:\n        try:\n            return json.loads(e.read() or b\"{}\")\n        except ValueError:",
+        "detail": "pipeline.gate",
+        "documentation": {}
+    },
+    {
+        "label": "POST_TIMES",
+        "kind": 5,
+        "importPath": "pipeline.gate",
+        "description": "pipeline.gate",
+        "peekOfCode": "POST_TIMES = [(20, 0), (21, 0)]  # IST: the day's first video posts at 8 PM, the second at 9 PM\nDAY_START, DAY_END = 6, 23        # the watcher works 6 AM - 11 PM; unposted videos are skipped at 11 PM\ndef fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef video_made(job_id):\n    \"\"\"job_id looks like 2026-10-10-morning-0615 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1745,7 +1745,7 @@
         "kind": 2,
         "importPath": "pipeline.produce",
         "description": "pipeline.produce",
-        "peekOfCode": "def run():\n    now = datetime.now(ZoneInfo(\"Asia/Kolkata\"))\n    slot = \"morning\" if now.hour < 12 else \"evening\"\n    if now.hour >= 21:            # less than an hour of the evening window left\n        publish_at, closes = \"8 AM tomorrow\", \"11 AM tomorrow\"\n    elif now.hour >= 10:          # morning window (nearly) over -> evening window\n        publish_at, closes = \"7 PM\", \"10 PM\"\n    else:\n        publish_at, closes = \"8 AM\", \"11 AM\"\n    job_id = f\"{now:%Y-%m-%d}-{slot}-{now:%H%M}\"  # unique per video",
+        "peekOfCode": "def run():\n    now = datetime.now(ZoneInfo(\"Asia/Kolkata\"))\n    slot = \"morning\" if now.hour < 12 else \"evening\"\n    job_id = f\"{now:%Y-%m-%d}-{slot}-{now:%H%M}\"  # unique per video\n    post_at = gate.video_post_at(job_id)\n    publish_at = gate.fmt(post_at) + (\"\" if post_at.date() == now.date() else \" tomorrow\")\n    _reset_dirs()\n    # 1. Trend discovery across all sources, then the editor picks (with category variety).\n    #    TOPIC_JSON = a story you picked in Telegram after rejecting a video: use it directly.\n    picked = _picked_topic()",
         "detail": "pipeline.produce",
         "documentation": {}
     },
@@ -1853,7 +1853,25 @@
         "kind": 2,
         "importPath": "pipeline.script_gen",
         "description": "pipeline.script_gen",
-        "peekOfCode": "def write_package(title, article, shorter=False, remove_claims=None):\n    extra = \"\\nIMPORTANT: keep the script to 95-115 words.\" if shorter else \"\"\n    if remove_claims:\n        extra += (\"\\nIMPORTANT: a fact-check found these claims NOT supported by the source. Do not include them:\\n- \"\n                  + \"\\n- \".join(remove_claims))\n    user = f\"Story headline: {title}\\n\\nSource text:\\n{article[:9000]}\\n\\n{WRITE_FORMAT}{extra}\"\n    last_err = None\n    for _ in range(3):\n        msg = user if not last_err else user + f\"\\n\\nYour previous answer was invalid: {last_err}. Fix it.\"\n        data, provider = chat_json(WRITE_SYSTEM, msg)",
+        "peekOfCode": "def write_package(title, article, shorter=False, remove_claims=None):\n    extra = \"\\nIMPORTANT: keep the script to 95-115 words.\" if shorter else \"\"\n    if remove_claims:\n        extra += (\"\\nIMPORTANT: a fact-check found these claims NOT supported by the source. Do not include them:\\n- \"\n                  + \"\\n- \".join(remove_claims))\n    user = f\"Story headline: {title}\\n\\nSource text:\\n{article[:9000]}\\n\\n{WRITE_FORMAT}{extra}\"\n    last_err = None\n    for attempt in range(3):\n        msg = user if not last_err else user + f\"\\n\\nYour previous answer was invalid: {last_err}. Fix it.\"\n        data, provider = chat_json(WRITE_SYSTEM, msg)",
+        "detail": "pipeline.script_gen",
+        "documentation": {}
+    },
+    {
+        "label": "seo_issues",
+        "kind": 2,
+        "importPath": "pipeline.script_gen",
+        "description": "pipeline.script_gen",
+        "peekOfCode": "def seo_issues(pkg):\n    \"\"\"Rules that make a Short findable on YouTube and Google search.\"\"\"\n    issues, kw = [], pkg.primary_keyword.strip()\n    title = _clean_title(pkg.title_youtube)\n    if not kw:\n        return [\"primary_keyword is empty\"]\n    if not 30 <= len(title) <= 65:\n        issues.append(f\"title must be 30-65 characters (it is {len(title)})\")\n    if not _has_keyword(title[:50], kw):\n        issues.append(f\"title must contain the primary keyword '{kw}' in its first 50 characters\")",
+        "detail": "pipeline.script_gen",
+        "documentation": {}
+    },
+    {
+        "label": "fix_seo",
+        "kind": 2,
+        "importPath": "pipeline.script_gen",
+        "description": "pipeline.script_gen",
+        "peekOfCode": "def fix_seo(pkg):\n    \"\"\"Last-resort fixes in code so every upload follows the rules, even if the model didn't.\"\"\"\n    kw = pkg.primary_keyword.strip()\n    title = _clean_title(pkg.title_youtube)\n    if kw and not _has_keyword(title[:50], kw):\n        title = f\"{kw.title()}: {title}\"\n    if len(title) > 65:\n        title = title[:65].rsplit(\" \", 1)[0].rstrip(\" -|:,\")\n    pkg.title_youtube = f\"{title} #Shorts\"\n    if kw and not _has_keyword(pkg.description[:160], kw):",
         "detail": "pipeline.script_gen",
         "documentation": {}
     },
@@ -1880,7 +1898,7 @@
         "kind": 2,
         "importPath": "pipeline.script_gen",
         "description": "pipeline.script_gen",
-        "peekOfCode": "def build_description(pkg, source_urls):\n    lines = [pkg.description.strip()]\n    if pkg.related_keywords:\n        lines.append(\"\\nRelated: \" + \", \".join(pkg.related_keywords[:5]))\n    if source_urls:\n        lines.append(\"\\nSources:\")\n        lines += [f\"- {u}\" for u in source_urls]\n    lines.append(\"\\nNarration and visuals are AI-generated. Facts are taken from the sources above.\")\n    if config.AFFILIATE_FOOTER:\n        lines.append(\"\\n\" + config.AFFILIATE_FOOTER)",
+        "peekOfCode": "def build_description(pkg, source_urls):\n    lines = [pkg.description.strip()]\n    if pkg.related_keywords:\n        lines.append(\"\\n🔎 Related: \" + \" | \".join(pkg.related_keywords[:6]))\n    if source_urls:\n        lines.append(\"\\nSources:\")\n        lines += [f\"- {u}\" for u in source_urls]\n    lines.append(\"\\nNarration and visuals are AI-generated. Facts are taken from the sources above.\")\n    if config.AFFILIATE_FOOTER:\n        lines.append(\"\\n\" + config.AFFILIATE_FOOTER)",
         "detail": "pipeline.script_gen",
         "documentation": {}
     },
@@ -1925,7 +1943,7 @@
         "kind": 5,
         "importPath": "pipeline.script_gen",
         "description": "pipeline.script_gen",
-        "peekOfCode": "WRITE_FORMAT = \"\"\"Return JSON with exactly these keys:\n{\n  \"category\": \"one of: %s\",\n  \"hooks\": [\"3 different hook options, each under 10 words\"],\n  \"hook\": \"the best of the three (shown on screen in the first 2 seconds)\",\n  \"script\": \"100-140 words of voiceover, starting with the chosen hook and ending with the CTA\",\n  \"cta\": \"the single call to action used at the end, e.g. a question or 'Follow Tech Talk Hathim for daily AI updates'\",\n  \"scenes\": [{\"text_overlay\": \"2-5 word on-screen label\", \"pixabay_keywords\": \"2-3 generic stock-video words\", \"visual_direction\": \"what the viewer should see\"}],\n  \"pronunciation\": [{\"term\": \"hard technical name from the script\", \"say_as\": \"phonetic spelling for text-to-speech\"}],\n  \"titles\": [\"3 searchable YouTube title options under 60 characters, main keyword early\"],",
+        "peekOfCode": "WRITE_FORMAT = \"\"\"Return JSON with exactly these keys:\n{\n  \"category\": \"one of: %s\",\n  \"hooks\": [\"3 different hook options, each under 10 words\"],\n  \"hook\": \"the best of the three (shown on screen in the first 2 seconds)\",\n  \"script\": \"100-140 words of voiceover, starting with the chosen hook and ending with the CTA\",\n  \"cta\": \"the single call to action used at the end, e.g. a question or 'Follow Tech Talk Hathim for daily AI updates'\",\n  \"scenes\": [{\"text_overlay\": \"2-5 word on-screen label\", \"pixabay_keywords\": \"2-3 generic stock-video words\", \"visual_direction\": \"what the viewer should see\"}],\n  \"pronunciation\": [{\"term\": \"hard technical name from the script\", \"say_as\": \"phonetic spelling for text-to-speech\"}],\n  \"primary_keyword\": \"2-4 word phrase people actually type into Google/YouTube for this story, e.g. 'gemini free for students' or 'chatgpt agent mode'. Use the real product/company name.\",",
         "detail": "pipeline.script_gen",
         "documentation": {}
     },
@@ -1970,7 +1988,7 @@
         "kind": 2,
         "importPath": "pipeline.telegram_bot",
         "description": "pipeline.telegram_bot",
-        "peekOfCode": "def notify(text):\n    \"\"\"Best-effort notification that never raises.\"\"\"\n    try:\n        send_message(text)\n    except Exception as e:  # noqa: BLE001\n        print(f\"[telegram] notify failed: {e}\")\ndef send_video_for_approval(video_path, caption, job_id):\n    keyboard = {\"inline_keyboard\": [[\n        {\"text\": \"✅ Approve\", \"callback_data\": f\"approve:{job_id}\"},\n        {\"text\": \"❌ Reject\", \"callback_data\": f\"reject:{job_id}\"},",
+        "peekOfCode": "def notify(text):\n    \"\"\"Best-effort notification that never raises.\"\"\"\n    try:\n        send_message(text)\n    except Exception as e:  # noqa: BLE001\n        print(f\"[telegram] notify failed: {e}\")\ndef send_video_for_approval(video_path, caption, job_id, post_label=None):\n    approve = f\"✅ Approve · posts {post_label}\" if post_label else \"✅ Approve\"\n    keyboard = {\"inline_keyboard\": [\n        [{\"text\": approve, \"callback_data\": f\"approve:{job_id}\"}],",
         "detail": "pipeline.telegram_bot",
         "documentation": {}
     },
@@ -1979,7 +1997,7 @@
         "kind": 2,
         "importPath": "pipeline.telegram_bot",
         "description": "pipeline.telegram_bot",
-        "peekOfCode": "def send_video_for_approval(video_path, caption, job_id):\n    keyboard = {\"inline_keyboard\": [[\n        {\"text\": \"✅ Approve\", \"callback_data\": f\"approve:{job_id}\"},\n        {\"text\": \"❌ Reject\", \"callback_data\": f\"reject:{job_id}\"},\n    ]]}\n    with open(video_path, \"rb\") as video:\n        return _call(\n            \"sendVideo\",\n            files={\"video\": (\"short.mp4\", video, \"video/mp4\")},\n            timeout=600,",
+        "peekOfCode": "def send_video_for_approval(video_path, caption, job_id, post_label=None):\n    approve = f\"✅ Approve · posts {post_label}\" if post_label else \"✅ Approve\"\n    keyboard = {\"inline_keyboard\": [\n        [{\"text\": approve, \"callback_data\": f\"approve:{job_id}\"}],\n        [{\"text\": \"⚡ Post now\", \"callback_data\": f\"now:{job_id}\"},\n         {\"text\": \"❌ Reject\", \"callback_data\": f\"reject:{job_id}\"}],\n    ]}\n    with open(video_path, \"rb\") as video:\n        return _call(\n            \"sendVideo\",",
         "detail": "pipeline.telegram_bot",
         "documentation": {}
     },
@@ -1993,11 +2011,20 @@
         "documentation": {}
     },
     {
+        "label": "highlight_index",
+        "kind": 2,
+        "importPath": "pipeline.thumbnail",
+        "description": "pipeline.thumbnail",
+        "peekOfCode": "def highlight_index(words):\n    \"\"\"The word to highlight: a number/percentage if there is one, otherwise the first word (usually the name).\"\"\"\n    for i, w in enumerate(words):\n        if re.search(r\"\\d\", w):\n            return i\n    return 0\ndef _headline(text):\n    words = html.escape(text.strip().upper()).split()\n    if len(words) >= 2:\n        i = highlight_index(words)",
+        "detail": "pipeline.thumbnail",
+        "documentation": {}
+    },
+    {
         "label": "render",
         "kind": 2,
         "importPath": "pipeline.thumbnail",
         "description": "pipeline.thumbnail",
-        "peekOfCode": "def render(text, background_jpg: Path, out_dir: Path):\n    from playwright.sync_api import sync_playwright\n    bg = \"data:image/jpeg;base64,\" + base64.b64encode(background_jpg.read_bytes()).decode()\n    template = (config.TEMPLATES / \"thumb.html\").read_text()\n    outputs = []\n    with sync_playwright() as p:\n        browser = p.chromium.launch()\n        for name, (w, h) in SIZES.items():\n            size = \"13vmin\" if w > h else \"11vmin\"\n            page_html = (template.replace(\"{{BG}}\", bg).replace(\"{{TEXT}}\", _headline(text))",
+        "peekOfCode": "def render(text, background_jpg: Path, out_dir: Path, badge=\"NEW\"):\n    from playwright.sync_api import sync_playwright\n    bg = \"data:image/jpeg;base64,\" + base64.b64encode(background_jpg.read_bytes()).decode()\n    template = (config.TEMPLATES / \"thumb.html\").read_text()\n    outputs = []\n    with sync_playwright() as p:\n        browser = p.chromium.launch()\n        for name, (w, h) in SIZES.items():\n            wide = w > h\n            layout = {\"{{SIZE}}\": \"15vmin\" if wide else \"13.5vmin\",",
         "detail": "pipeline.thumbnail",
         "documentation": {}
     },
@@ -2006,7 +2033,7 @@
         "kind": 5,
         "importPath": "pipeline.thumbnail",
         "description": "pipeline.thumbnail",
-        "peekOfCode": "SIZES = {\"thumb_yt.jpg\": (1280, 720), \"thumb_vertical.jpg\": (1080, 1920)}\ndef _headline(text):\n    words = html.escape(text.strip()).split()\n    if len(words) >= 2:  # highlight the last word in yellow\n        words[-1] = f\"<em>{words[-1]}</em>\"\n    return \" \".join(words)\ndef render(text, background_jpg: Path, out_dir: Path):\n    from playwright.sync_api import sync_playwright\n    bg = \"data:image/jpeg;base64,\" + base64.b64encode(background_jpg.read_bytes()).decode()\n    template = (config.TEMPLATES / \"thumb.html\").read_text()",
+        "peekOfCode": "SIZES = {\"thumb_yt.jpg\": (1280, 720), \"thumb_vertical.jpg\": (1080, 1920)}\ndef highlight_index(words):\n    \"\"\"The word to highlight: a number/percentage if there is one, otherwise the first word (usually the name).\"\"\"\n    for i, w in enumerate(words):\n        if re.search(r\"\\d\", w):\n            return i\n    return 0\ndef _headline(text):\n    words = html.escape(text.strip().upper()).split()\n    if len(words) >= 2:",
         "detail": "pipeline.thumbnail",
         "documentation": {}
     },
@@ -2479,6 +2506,42 @@
         "documentation": {}
     },
     {
+        "label": "test_seo_rules_catch_the_real_sophos_title",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_seo_rules_catch_the_real_sophos_title():\n    issues = script_gen.seo_issues(_pkg())\n    assert any(\"primary keyword\" in i and \"title\" in i for i in issues)        # keyword missing from title\n    assert any(\"description\" in i for i in issues)\ndef test_seo_fix_makes_every_upload_searchable():\n    p = script_gen.fix_seo(_pkg())\n    title = p.title_youtube\n    assert title.endswith(\"#Shorts\") and title.lower().count(\"#shorts\") == 1\n    assert \"openai daybreak sophos\" in title.lower()[:50] and len(title.replace(\" #Shorts\", \"\")) <= 65\n    assert p.description.lower().startswith(\"openai daybreak sophos\")",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
+        "label": "test_seo_fix_makes_every_upload_searchable",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_seo_fix_makes_every_upload_searchable():\n    p = script_gen.fix_seo(_pkg())\n    title = p.title_youtube\n    assert title.endswith(\"#Shorts\") and title.lower().count(\"#shorts\") == 1\n    assert \"openai daybreak sophos\" in title.lower()[:50] and len(title.replace(\" #Shorts\", \"\")) <= 65\n    assert p.description.lower().startswith(\"openai daybreak sophos\")\n    assert p.tags[0] == \"openai daybreak sophos\" and \"sophos mdr\" in p.tags     # keyword + related first\n    assert p.hashtags[-1] == \"#Shorts\" and len(p.hashtags) <= 6\n    assert len(p.thumbnail_text.split()) <= 4 and p.thumbnail_badge == \"AI SECURITY NEWS\"\ndef test_good_package_passes_seo():",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
+        "label": "test_good_package_passes_seo",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_good_package_passes_seo():\n    p = _pkg(title_youtube=\"OpenAI Daybreak: Sophos Cuts Threat Response 96%\",\n             description=\"OpenAI Daybreak helped Sophos cut threat investigations from 38 minutes to 89 seconds.\",\n             thumbnail_text=\"Sophos 96% Faster\")\n    assert script_gen.seo_issues(p) == []\ndef test_cover_highlights_the_number():\n    from pipeline import thumbnail\n    assert thumbnail.highlight_index(\"SOPHOS 96% FASTER\".split()) == 1\n    assert thumbnail.highlight_index(\"GEMINI NOW FREE\".split()) == 0",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
+        "label": "test_cover_highlights_the_number",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_cover_highlights_the_number():\n    from pipeline import thumbnail\n    assert thumbnail.highlight_index(\"SOPHOS 96% FASTER\".split()) == 1\n    assert thumbnail.highlight_index(\"GEMINI NOW FREE\".split()) == 0",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
         "label": "FakeErr",
         "kind": 6,
         "importPath": "tests.test_critical",
@@ -2605,11 +2668,20 @@
         "documentation": {}
     },
     {
-        "label": "test_early_approval_is_confirmed_and_held_until_window",
+        "label": "test_early_approval_is_confirmed_and_held_until_post_time",
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_early_approval_is_confirmed_and_held_until_window(tmp_state, monkeypatch):\n    from datetime import datetime\n    monkeypatch.setattr(gate, \"in_window\", lambda now=None: False)\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    calls = []\n    def tg(method, **k):\n        calls.append((method, k))\n        if method == \"getUpdates\":\n            return {\"ok\": True, \"result\": [{\"update_id\": 1, \"callback_query\": {\n                \"id\": \"cb1\", \"data\": \"approve:J1\", \"from\": {\"id\": 42},",
+        "peekOfCode": "def test_early_approval_is_confirmed_and_held_until_post_time(tmp_path, monkeypatch):\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-10-morning-0615\"])\n    monkeypatch.setattr(gate, \"due\", lambda job_id, now=None: False)\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    calls = []\n    def tg(method, **k):\n        calls.append((method, k))\n        if method == \"getUpdates\":\n            return {\"ok\": True, \"result\": [{\"update_id\": 1, \"callback_query\": {\n                \"id\": \"cb1\", \"data\": \"approve:2026-10-10-morning-0615\", \"from\": {\"id\": 42},",
+        "detail": "tests.test_critical",
+        "documentation": {}
+    },
+    {
+        "label": "test_post_now_button_posts_immediately",
+        "kind": 2,
+        "importPath": "tests.test_critical",
+        "description": "tests.test_critical",
+        "peekOfCode": "def test_post_now_button_posts_immediately(tmp_path, monkeypatch):\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-10-morning-0615\"])\n    monkeypatch.setattr(gate, \"due\", lambda job_id, now=None: False)   # 8 PM not reached\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"now:2026-10-10-morning-0615\", 42, 42)], []))\n    assert gate.decide() == \"publish\"\ndef test_cancel_after_approve(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"due\", lambda job_id, now=None: False)\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:J1\", 42, 42), (\"reject:J1\", 42, 42)], []))\n    assert gate.decide() == \"done\" and gate.get(\"J1\")[\"status\"] == \"rejected\"",
         "detail": "tests.test_critical",
         "documentation": {}
     },
@@ -2618,16 +2690,25 @@
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_cancel_after_approve(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"in_window\", lambda now=None: False)\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:J1\", 42, 42), (\"reject:J1\", 42, 42)], []))\n    assert gate.decide() == \"done\" and gate.get(\"J1\")[\"status\"] == \"rejected\"\ndef _two_videos(tmp_path, monkeypatch, jobs):\n    cand = tmp_path / \"candidates\"\n    monkeypatch.setattr(gate, \"CANDIDATES\", cand); monkeypatch.setattr(gate, \"OUT\", tmp_path / \"out\")\n    monkeypatch.setattr(gate, \"DONE\", tmp_path / \"p.json\"); monkeypatch.setattr(gate, \"CHAT\", \"42\")\n    for n, job in enumerate(jobs):\n        (cand / str(n + 1)).mkdir(parents=True)",
+        "peekOfCode": "def test_cancel_after_approve(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"due\", lambda job_id, now=None: False)\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:J1\", 42, 42), (\"reject:J1\", 42, 42)], []))\n    assert gate.decide() == \"done\" and gate.get(\"J1\")[\"status\"] == \"rejected\"\ndef test_posting_times_8pm_and_9pm():\n    ist = gate.IST\n    assert gate.video_post_at(\"2026-10-10-morning-0615\") == datetime(2026, 10, 10, 20, tzinfo=ist)\n    assert gate.video_post_at(\"2026-10-10-morning-1146\") == datetime(2026, 10, 10, 20, tzinfo=ist)\n    assert gate.video_post_at(\"2026-10-10-evening-1515\") == datetime(2026, 10, 10, 21, tzinfo=ist)\n    assert gate.video_post_at(\"2026-10-10-evening-2230\") == datetime(2026, 10, 11, 20, tzinfo=ist)  # made late",
         "detail": "tests.test_critical",
         "documentation": {}
     },
     {
-        "label": "test_window_end_follows_when_the_video_was_made",
+        "label": "test_posting_times_8pm_and_9pm",
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_window_end_follows_when_the_video_was_made():\n    ist = gate.IST\n    assert gate.video_window_end(\"2026-10-10-morning-0615\") == datetime(2026, 10, 10, 11, tzinfo=ist)\n    assert gate.video_window_end(\"2026-10-10-morning-1146\") == datetime(2026, 10, 10, 22, tzinfo=ist)  # GitHub ran it late\n    assert gate.video_window_end(\"2026-10-09-evening-2155\") == datetime(2026, 10, 10, 11, tzinfo=ist)  # made after 10 PM\n    assert gate.video_window_end(\"2026-10-09-evening\") == datetime(2026, 10, 9, 22, tzinfo=ist)\ndef test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):\n    \"\"\"A delayed run at 6:20 AM must only skip YESTERDAY's video, not this morning's.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1530\", \"2026-10-10-morning-0615\"])\n    sent = []",
+        "peekOfCode": "def test_posting_times_8pm_and_9pm():\n    ist = gate.IST\n    assert gate.video_post_at(\"2026-10-10-morning-0615\") == datetime(2026, 10, 10, 20, tzinfo=ist)\n    assert gate.video_post_at(\"2026-10-10-morning-1146\") == datetime(2026, 10, 10, 20, tzinfo=ist)\n    assert gate.video_post_at(\"2026-10-10-evening-1515\") == datetime(2026, 10, 10, 21, tzinfo=ist)\n    assert gate.video_post_at(\"2026-10-10-evening-2230\") == datetime(2026, 10, 11, 20, tzinfo=ist)  # made late\n    assert gate.video_window_end(\"2026-10-10-evening-1515\") == datetime(2026, 10, 10, 23, tzinfo=ist)\ndef test_due_uses_the_real_clock_rule(monkeypatch):\n    monkeypatch.undo()                                     # use the real due()\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")",
+        "detail": "tests.test_critical",
+        "documentation": {}
+    },
+    {
+        "label": "test_due_uses_the_real_clock_rule",
+        "kind": 2,
+        "importPath": "tests.test_critical",
+        "description": "tests.test_critical",
+        "peekOfCode": "def test_due_uses_the_real_clock_rule(monkeypatch):\n    monkeypatch.undo()                                     # use the real due()\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    j = \"2026-10-10-morning-0615\"\n    assert not gate.due(j, datetime(2026, 10, 10, 19, 59, tzinfo=gate.IST))\n    assert gate.due(j, datetime(2026, 10, 10, 20, 0, tzinfo=gate.IST))\n    assert gate.due(j, datetime(2026, 10, 10, 22, 30, tzinfo=gate.IST))     # approved late -> immediately\ndef test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):\n    \"\"\"A run at 6:20 AM must only skip YESTERDAY's video, not this morning's.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1530\", \"2026-10-10-morning-0615\"])",
         "detail": "tests.test_critical",
         "documentation": {}
     },
@@ -2636,7 +2717,7 @@
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):\n    \"\"\"A delayed run at 6:20 AM must only skip YESTERDAY's video, not this morning's.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1530\", \"2026-10-10-morning-0615\"])\n    sent = []\n    monkeypatch.setattr(gate, \"tg\", telegram([], sent)); monkeypatch.setattr(gate, \"MODE\", \"check\")\n    gate.decide(datetime(2026, 10, 10, 6, 20, tzinfo=gate.IST))\n    assert gate.get(\"2026-10-09-evening-1530\")[\"status\"] == \"expired\"\n    assert gate.get(\"2026-10-10-morning-0615\")[\"status\"] == \"new\"\ndef test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does(tmp_path, monkeypatch):\n    \"\"\"Records were lost after a video was posted; its old Approve tap must not post it again.\"\"\"",
+        "peekOfCode": "def test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):\n    \"\"\"A run at 6:20 AM must only skip YESTERDAY's video, not this morning's.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1530\", \"2026-10-10-morning-0615\"])\n    sent = []\n    monkeypatch.setattr(gate, \"tg\", telegram([], sent)); monkeypatch.setattr(gate, \"MODE\", \"check\")\n    gate.decide(datetime(2026, 10, 10, 6, 20, tzinfo=gate.IST))\n    assert gate.get(\"2026-10-09-evening-1530\")[\"status\"] == \"expired\"\n    assert gate.get(\"2026-10-10-morning-0615\")[\"status\"] == \"new\"\ndef test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does(tmp_path, monkeypatch):\n    \"\"\"Records were lost after a video was posted; its old Approve tap must not post it again.\"\"\"",
         "detail": "tests.test_critical",
         "documentation": {}
     },
@@ -2654,7 +2735,7 @@
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_approved_but_window_passed_is_offered_not_lost(tmp_path, monkeypatch):\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-2155\"])\n    sent = []\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:2026-10-09-evening-2155\", 42, 42)], sent))\n    gate.decide(datetime(2026, 10, 10, 12, 0, tzinfo=gate.IST))\n    assert gate.get(\"2026-10-09-evening-2155\")[\"status\"] == \"expired\" and \"sendMessage\" in sent\ndef test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkeypatch):\n    from datetime import datetime, timezone\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")",
+        "peekOfCode": "def test_approved_but_window_passed_is_offered_not_lost(tmp_path, monkeypatch):\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-2155\"])\n    sent = []\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:2026-10-09-evening-2155\", 42, 42)], sent))\n    gate.decide(datetime(2026, 10, 10, 23, 5, tzinfo=gate.IST))    # 2155 -> 8 PM next day; day ends 11 PM\n    assert gate.get(\"2026-10-09-evening-2155\")[\"status\"] == \"expired\" and \"sendMessage\" in sent\ndef test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkeypatch):\n    from datetime import datetime, timezone\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")",
         "detail": "tests.test_critical",
         "documentation": {}
     },

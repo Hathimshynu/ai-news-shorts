@@ -1,8 +1,8 @@
 name: Publish approved short
 
 # Public repo (recommended): starts right after each video is made and keeps watching Telegram
-# until the window closes (11 AM / 10 PM IST). Every tap is confirmed within ~10 seconds and an
-# approved video posts within a minute once the window is open (8 AM / 7 PM IST).
+# until the video is posted or decided (latest 11 PM IST). Every tap is confirmed within ~10 s.
+# Approved videos post at 8 PM (first video) / 9 PM (second); "Post now" posts immediately.
 # Private repo: falls back to one quick check per schedule (saves Actions minutes).
 on:
   workflow_run:
@@ -10,10 +10,9 @@ on:
     types: [completed]
   schedule:
     # Backups only (GitHub often runs schedules hours late, so they are not relied on)
-    - cron: "30 2 * * *"      # 8:00 AM IST
-    - cron: "30 4 * * *"      # 10:00 AM IST
-    - cron: "30 13 * * *"     # 7:00 PM IST
+    - cron: "30 14 * * *"     # 8:00 PM IST
     - cron: "30 15 * * *"     # 9:00 PM IST
+    - cron: "30 16 * * *"     # 10:00 PM IST
   workflow_dispatch:
     inputs:
       mode:

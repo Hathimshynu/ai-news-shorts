@@ -40,11 +40,13 @@ def notify(text):
         print(f"[telegram] notify failed: {e}")
 
 
-def send_video_for_approval(video_path, caption, job_id):
-    keyboard = {"inline_keyboard": [[
-        {"text": "✅ Approve", "callback_data": f"approve:{job_id}"},
-        {"text": "❌ Reject", "callback_data": f"reject:{job_id}"},
-    ]]}
+def send_video_for_approval(video_path, caption, job_id, post_label=None):
+    approve = f"✅ Approve · posts {post_label}" if post_label else "✅ Approve"
+    keyboard = {"inline_keyboard": [
+        [{"text": approve, "callback_data": f"approve:{job_id}"}],
+        [{"text": "⚡ Post now", "callback_data": f"now:{job_id}"},
+         {"text": "❌ Reject", "callback_data": f"reject:{job_id}"}],
+    ]}
     with open(video_path, "rb") as video:
         return _call(
             "sendVideo",

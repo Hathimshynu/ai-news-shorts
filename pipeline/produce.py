@@ -11,7 +11,7 @@ import traceback
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from . import config, media, qa, script_gen, telegram_bot, thumbnail, trends
+from . import config, gate, media, qa, script_gen, telegram_bot, thumbnail, trends
 
 FPS = 30
 TAIL_FRAMES = 20  # short pause after the voice ends
@@ -58,13 +58,9 @@ def _shrink_for_telegram(path, limit_mb=48):
 def run():
     now = datetime.now(ZoneInfo("Asia/Kolkata"))
     slot = "morning" if now.hour < 12 else "evening"
-    if now.hour >= 21:            # less than an hour of the evening window left
-        publish_at, closes = "8 AM tomorrow", "11 AM tomorrow"
-    elif now.hour >= 10:          # morning window (nearly) over -> evening window
-        publish_at, closes = "7 PM", "10 PM"
-    else:
-        publish_at, closes = "8 AM", "11 AM"
     job_id = f"{now:%Y-%m-%d}-{slot}-{now:%H%M}"  # unique per video
+    post_at = gate.video_post_at(job_id)
+    publish_at = gate.fmt(post_at) + ("" if post_at.date() == now.date() else " tomorrow")
     _reset_dirs()
 
     # 1. Trend discovery across all sources, then the editor picks (with category variety).
@@ -127,6 +123,8 @@ def run():
     props = {
         "durationInFrames": total_frames,
         "hook": pkg.hook,
+        "cover": {"text": pkg.thumbnail_text, "badge": pkg.thumbnail_badge,
+                  "highlight": thumbnail.highlight_index(pkg.thumbnail_text.upper().split())},
         "brand": config.CHANNEL_HANDLE,
         "voice": "job/voice.mp3",
         "music": _pick_music(),
@@ -141,7 +139,7 @@ def run():
     # 6. Thumbnail from a frame of the first clip
     frame = config.OUT / "frame.jpg"
     media.extract_frame(config.JOB / "clips" / "clip0.mp4", frame)
-    thumbnail.render(pkg.thumbnail_text, frame, config.OUT)
+    thumbnail.render(pkg.thumbnail_text, frame, config.OUT, badge=pkg.thumbnail_badge)
 
     # 7. Metadata for the publish workflow
     meta = {
@@ -188,13 +186,13 @@ def run():
     if config.AUTO_PUBLISH and report["passed"]:
         when = f"🤖 Auto-publish ON: posts at {publish_at} IST unless you press Reject."
     else:
-        when = (f"Tap Approve → the button changes within ~15 s to confirm. Posts at {publish_at} IST, "
-                f"or within a minute if you approve later (until {closes}).")
+        when = (f"✅ Approve → posts at {publish_at} IST\n⚡ Post now → posts immediately\n"
+                "❌ Reject → pick another trending topic")
     flag = "" if report["passed"] else "⚠️ QA FAILED, see report below\n"
     flag += "🎯 Your pick\n" if picked else ""
     caption = (f"{flag}🎬 {meta['title']}\n🏷 {pkg.category}\n📰 {meta['topic']}\n"
                f"⏱ {meta['seconds']}s · 🤖 {provider}\n\n{when}")
-    telegram_bot.send_video_for_approval(tg_video, caption, job_id)
+    telegram_bot.send_video_for_approval(tg_video, caption, job_id, post_label=publish_at)
     claims = "\n".join(
         f"💬 {c['claim']} ({c.get('type')}, not a fact)" if c.get("type") in ("opinion", "cta")
         else f"{'✅' if c['verified'] else '❓'} {c['claim']} ({c['status']})" for c in facts["claims"][:10])

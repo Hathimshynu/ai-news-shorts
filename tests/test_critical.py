@@ -176,39 +176,6 @@ def test_webhook_blocking_updates_is_removed(tmp_state, monkeypatch):
 
 
 # ---------------------------------------------------------------- live watcher behaviour
-def test_early_approval_is_confirmed_and_held_until_window(tmp_state, monkeypatch):
-    from datetime import datetime
-    monkeypatch.setattr(gate, "in_window", lambda now=None: False)
-    monkeypatch.setattr(gate, "MODE", "watch")
-    calls = []
-
-    def tg(method, **k):
-        calls.append((method, k))
-        if method == "getUpdates":
-            return {"ok": True, "result": [{"update_id": 1, "callback_query": {
-                "id": "cb1", "data": "approve:J1", "from": {"id": 42},
-                "message": {"message_id": 7, "chat": {"id": 42}}}}]}
-        return {"ok": True}
-    monkeypatch.setattr(gate, "tg", tg)
-    six_am = datetime(2026, 10, 9, 6, 30, tzinfo=gate.IST)
-    assert gate.decide(six_am) == "wait"
-    toast = [k["text"] for m, k in calls if m == "answerCallbackQuery"]
-    assert toast and "8:00 AM" in toast[0]                          # you see it registered
-    assert gate.get("J1")["status"] == "approved"                   # remembered even if Telegram forgets
-    labels = [json.loads(k["reply_markup"]) for m, k in calls if m == "editMessageReplyMarkup"]
-    assert "Cancel" in labels[0]["inline_keyboard"][1][0]["text"]  # can still change your mind
-
-    monkeypatch.setattr(gate, "in_window", lambda now=None: True)  # 8:00 AM
-    monkeypatch.setattr(gate, "tg", telegram([], []))               # tap no longer visible
-    assert gate.decide() == "publish"
-
-
-def test_cancel_after_approve(tmp_state, monkeypatch):
-    monkeypatch.setattr(gate, "in_window", lambda now=None: False)
-    monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42), ("reject:J1", 42, 42)], []))
-    assert gate.decide() == "done" and gate.get("J1")["status"] == "rejected"
-
-
 def _two_videos(tmp_path, monkeypatch, jobs):
     cand = tmp_path / "candidates"
     monkeypatch.setattr(gate, "CANDIDATES", cand); monkeypatch.setattr(gate, "OUT", tmp_path / "out")
@@ -218,16 +185,66 @@ def _two_videos(tmp_path, monkeypatch, jobs):
         (cand / str(n + 1) / "meta.json").write_text(json.dumps({"job_id": job, "title": "T " + job}))
 
 
-def test_window_end_follows_when_the_video_was_made():
+def test_early_approval_is_confirmed_and_held_until_post_time(tmp_path, monkeypatch):
+    _two_videos(tmp_path, monkeypatch, ["2026-10-10-morning-0615"])
+    monkeypatch.setattr(gate, "due", lambda job_id, now=None: False)
+    monkeypatch.setattr(gate, "MODE", "watch")
+    calls = []
+
+    def tg(method, **k):
+        calls.append((method, k))
+        if method == "getUpdates":
+            return {"ok": True, "result": [{"update_id": 1, "callback_query": {
+                "id": "cb1", "data": "approve:2026-10-10-morning-0615", "from": {"id": 42},
+                "message": {"message_id": 7, "chat": {"id": 42}}}}]}
+        return {"ok": True}
+    monkeypatch.setattr(gate, "tg", tg)
+    assert gate.decide(datetime(2026, 10, 10, 6, 30, tzinfo=gate.IST)) == "wait"
+    toast = [k["text"] for m, k in calls if m == "answerCallbackQuery"]
+    assert toast and "8:00 PM" in toast[0]                          # you see it registered
+    assert gate.get("2026-10-10-morning-0615")["status"] == "approved"
+    labels = [json.loads(k["reply_markup"]) for m, k in calls if m == "editMessageReplyMarkup"]
+    assert [b["text"] for b in labels[0]["inline_keyboard"][1]] == ["⚡ Post now instead", "❌ Cancel"]
+
+    monkeypatch.setattr(gate, "due", lambda job_id, now=None: True)  # 8 PM
+    monkeypatch.setattr(gate, "tg", telegram([], []))               # tap no longer visible
+    assert gate.decide() == "publish"
+
+
+def test_post_now_button_posts_immediately(tmp_path, monkeypatch):
+    _two_videos(tmp_path, monkeypatch, ["2026-10-10-morning-0615"])
+    monkeypatch.setattr(gate, "due", lambda job_id, now=None: False)   # 8 PM not reached
+    monkeypatch.setattr(gate, "MODE", "watch")
+    monkeypatch.setattr(gate, "tg", telegram([("now:2026-10-10-morning-0615", 42, 42)], []))
+    assert gate.decide() == "publish"
+
+
+def test_cancel_after_approve(tmp_state, monkeypatch):
+    monkeypatch.setattr(gate, "due", lambda job_id, now=None: False)
+    monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42), ("reject:J1", 42, 42)], []))
+    assert gate.decide() == "done" and gate.get("J1")["status"] == "rejected"
+
+
+def test_posting_times_8pm_and_9pm():
     ist = gate.IST
-    assert gate.video_window_end("2026-10-10-morning-0615") == datetime(2026, 10, 10, 11, tzinfo=ist)
-    assert gate.video_window_end("2026-10-10-morning-1146") == datetime(2026, 10, 10, 22, tzinfo=ist)  # GitHub ran it late
-    assert gate.video_window_end("2026-10-09-evening-2155") == datetime(2026, 10, 10, 11, tzinfo=ist)  # made after 10 PM
-    assert gate.video_window_end("2026-10-09-evening") == datetime(2026, 10, 9, 22, tzinfo=ist)
+    assert gate.video_post_at("2026-10-10-morning-0615") == datetime(2026, 10, 10, 20, tzinfo=ist)
+    assert gate.video_post_at("2026-10-10-morning-1146") == datetime(2026, 10, 10, 20, tzinfo=ist)
+    assert gate.video_post_at("2026-10-10-evening-1515") == datetime(2026, 10, 10, 21, tzinfo=ist)
+    assert gate.video_post_at("2026-10-10-evening-2230") == datetime(2026, 10, 11, 20, tzinfo=ist)  # made late
+    assert gate.video_window_end("2026-10-10-evening-1515") == datetime(2026, 10, 10, 23, tzinfo=ist)
+
+
+def test_due_uses_the_real_clock_rule(monkeypatch):
+    monkeypatch.undo()                                     # use the real due()
+    monkeypatch.setattr(gate, "MODE", "watch")
+    j = "2026-10-10-morning-0615"
+    assert not gate.due(j, datetime(2026, 10, 10, 19, 59, tzinfo=gate.IST))
+    assert gate.due(j, datetime(2026, 10, 10, 20, 0, tzinfo=gate.IST))
+    assert gate.due(j, datetime(2026, 10, 10, 22, 30, tzinfo=gate.IST))     # approved late -> immediately
 
 
 def test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):
-    """A delayed run at 6:20 AM must only skip YESTERDAY's video, not this morning's."""
+    """A run at 6:20 AM must only skip YESTERDAY's video, not this morning's."""
     _two_videos(tmp_path, monkeypatch, ["2026-10-09-evening-1530", "2026-10-10-morning-0615"])
     sent = []
     monkeypatch.setattr(gate, "tg", telegram([], sent)); monkeypatch.setattr(gate, "MODE", "check")
@@ -248,7 +265,7 @@ def test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does(tmp_pa
     assert gate.decide() == "done" and sent.count("sendMessage") == 1   # offered once
     monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-09-evening-1938", 42, 42),
                                               ("late:2026-10-09-evening-1938", 42, 42)], []))
-    monkeypatch.setattr(gate, "in_window", lambda now=None: False)
+    monkeypatch.setattr(gate, "due", lambda job_id, now=None: False)
     assert gate.decide() == "publish"                         # Post now = right away, even outside a window
 
 
@@ -257,7 +274,7 @@ def test_approved_but_window_passed_is_offered_not_lost(tmp_path, monkeypatch):
     sent = []
     monkeypatch.setattr(gate, "MODE", "watch")
     monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-09-evening-2155", 42, 42)], sent))
-    gate.decide(datetime(2026, 10, 10, 12, 0, tzinfo=gate.IST))
+    gate.decide(datetime(2026, 10, 10, 23, 5, tzinfo=gate.IST))    # 2155 -> 8 PM next day; day ends 11 PM
     assert gate.get("2026-10-09-evening-2155")["status"] == "expired" and "sendMessage" in sent
 
 

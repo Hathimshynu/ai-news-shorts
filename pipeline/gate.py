@@ -5,18 +5,19 @@ The workflow downloads every video made in the last 24 hours into candidates/<ru
 This script finds the video YOU approved, copies it into out/ and says what to do:
   publish  - an approved (or half-posted) video is ready in out/
   done     - nothing left to post
-  wait     - no decision yet, or approved but the posting window hasn't opened
+  wait     - no decision yet, or approved but its posting time hasn't come
 
 MODE
-  watch  - (public repo) stays running through the posting window, checks Telegram every
-           10 seconds, confirms every tap immediately and posts within a minute
+  watch  - (public repo) runs from when a video is made until it's posted or decided (latest 11 PM),
+           checks Telegram every 10 seconds and confirms every tap immediately
   check  - one quick check (private repo / backup schedule)
-  final  - same as check (kept for old schedules)
   manual - run by hand: posts an approved video right now, otherwise explains why not
 
-Posting windows (IST): 8-11 AM and 7-10 PM. Approve before the window -> posts when it opens.
-Approve during the window -> posts within a minute. A video whose window closed without being
-posted is marked skipped and you get a "▶️ Post now" button: tap it and it posts right away.
+Posting times (IST): the day's first video (made before noon) posts at 8 PM, the second at 9 PM.
+  ✅ Approve      -> posts at its time (immediately if that time has passed)
+  ⚡ Post now     -> posts immediately
+  ❌ Reject       -> not posted; you get 10 trending topics to make a replacement
+Not decided by 11 PM -> skipped, with a "▶️ Post now" button if you still want it.
 
 data/published.json keeps one record per video so nothing is ever posted twice.
 """
@@ -45,7 +46,6 @@ FINAL_STATES = ("published", "rejected", "expired", "failed")
 MAX_ATTEMPTS = 3
 RETRY_AFTER = 10 * 60          # wait before retrying a platform that failed
 IST = timezone(timedelta(hours=5, minutes=30))
-WINDOWS = [(8, 11), (19, 22)]  # posting windows, IST hours
 POLL_SECONDS = 10
 WATCH_LIMIT = 5 * 3600 + 40 * 60   # GitHub jobs stop at 6 h; the next scheduled run takes over
 REFRESH_SECONDS = 3 * 60           # look for newly made videos this often while watching
@@ -80,49 +80,54 @@ def now_ist():
     return datetime.now(IST)
 
 
-def window(now=None):
-    """(start, end) of the current or next posting window today, or None after the last one."""
-    now = now or now_ist()
-    for s, e in WINDOWS:
-        end = now.replace(hour=e, minute=0, second=0, microsecond=0)
-        if now < end:
-            return now.replace(hour=s, minute=0, second=0, microsecond=0), end
-    return None
-
-
-def in_window(now=None):
-    w = window(now)
-    return bool(w) and w[0] <= (now or now_ist()) < w[1]
+POST_TIMES = [(20, 0), (21, 0)]  # IST: the day's first video posts at 8 PM, the second at 9 PM
+DAY_START, DAY_END = 6, 23        # the watcher works 6 AM - 11 PM; unposted videos are skipped at 11 PM
 
 
 def fmt(dt):
     return dt.strftime("%-I:%M %p")
 
 
-def can_post_now(now=None):
-    return MODE in ("manual", "final") or in_window(now)
-
-
-def video_window_end(job_id):
-    """When this video's posting window closes: the first window end after it was made.
-    job_id looks like 2026-10-09-evening-1938 (older ids have no time)."""
+def video_made(job_id):
+    """job_id looks like 2026-10-10-morning-0615 (older ids have no time)."""
     parts = job_id.split("-")
     try:
         day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)
     except (ValueError, IndexError):
         return None
     hhmm = parts[4] if len(parts) > 4 and parts[4].isdigit() else ("0600" if parts[3] == "morning" else "1500")
-    made = day.replace(hour=int(hhmm[:2]), minute=int(hhmm[2:]))
-    for s, e in WINDOWS:
-        end = day.replace(hour=e)
-        if made <= end - timedelta(hours=1):  # less than an hour left -> the next window
-            return end
-    return (day + timedelta(days=1)).replace(hour=WINDOWS[0][1])
+    return day.replace(hour=int(hhmm[:2]), minute=int(hhmm[2:]))
+
+
+def video_post_at(job_id):
+    """Made before noon -> 8 PM. Made in the afternoon/evening -> 9 PM. Made after 10 PM -> 8 PM next day."""
+    made = video_made(job_id)
+    if not made:
+        return None
+    (h1, m1), (h2, m2) = POST_TIMES
+    if made.hour < 12:
+        return made.replace(hour=h1, minute=m1)
+    if made.hour < 22:
+        return made.replace(hour=h2, minute=m2)
+    return (made + timedelta(days=1)).replace(hour=h1, minute=m1)
+
+
+def video_window_end(job_id):
+    at = video_post_at(job_id)
+    return at.replace(hour=DAY_END, minute=0) if at else None
 
 
 def window_over(job_id, now=None):
     end = video_window_end(job_id)
     return bool(end) and (now or now_ist()) >= end
+
+
+def due(job_id, now=None):
+    """Is it time to post this approved video? (Run by hand = always.)"""
+    if MODE == "manual":
+        return True
+    at = video_post_at(job_id)
+    return at is None or (now or now_ist()) >= at
 
 
 # ---------- published.json ----------
@@ -209,7 +214,7 @@ def presses():
         if mine and action == "topic":
             TOPIC_TAPS.append((jid, cq))
             continue
-        if not mine or action not in ("approve", "reject", "late"):
+        if not mine or action not in ("approve", "reject", "late", "now"):
             continue
         _, msgs, ids = out.get(jid, (None, [], []))
         msg = cq.get("message") or {}
@@ -231,10 +236,12 @@ def answer(callback_ids, text):
 
 
 def set_buttons(messages, label, job_id=None):
-    """Replace Approve/Reject with a status label. With job_id, a Cancel button stays available."""
+    """Replace the buttons with a status label. With job_id (approved, waiting for its time),
+    '⚡ Post now' and 'Cancel' stay available."""
     rows = [[{"text": label, "callback_data": "noop"}]]
     if job_id:
-        rows.append([{"text": "❌ Cancel (don't post)", "callback_data": f"reject:{job_id}"}])
+        rows.append([{"text": "⚡ Post now instead", "callback_data": f"now:{job_id}"},
+                     {"text": "❌ Cancel", "callback_data": f"reject:{job_id}"}])
     markup = json.dumps({"inline_keyboard": rows})
     for chat_id, message_id in set(messages):
         if _labels.get((chat_id, message_id)) == (label, job_id):
@@ -319,7 +326,7 @@ def offer_late(job_id, meta, was_approved=False):
     if rec.get("late_offer"):
         return
     why = ("You approved it, but no check ran in time, so it wasn't posted."
-           if was_approved else "It wasn't approved before the window closed.")
+           if was_approved else "It wasn't approved by 11 PM.")
     markup = {"inline_keyboard": [[{"text": "▶️ Post now", "callback_data": f"late:{job_id}"}]]}
     res = tg("sendMessage", chat_id=CHAT, reply_markup=json.dumps(markup),
              text=f"⏭ Skipped: {meta['title']}\n{why}\nTap ▶️ Post now to post it right away "
@@ -337,10 +344,11 @@ def decide(now=None):
     statuses = {j: get(j)["status"] for j, _, _ in vids}
     print(f"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}")
 
-    # "▶️ Post now" on a skipped video -> approved, posts immediately (whatever the time)
+    # "⚡ Post now" (or "▶️ Post now" on a skipped video) -> posts immediately, whatever the time
     for job_id, folder, meta in vids:
         decision, msgs, ids = decisions.get(job_id, (None, [], []))
-        if decision == "late" and statuses[job_id] == "expired":
+        if (decision == "late" and statuses[job_id] == "expired") or \
+                (decision == "now" and statuses[job_id] in ("new", "approved", "expired")):
             rec = get(job_id)
             rec.update(status="approved", late=True, approved_at=datetime.now(timezone.utc).isoformat())
             put(job_id, rec)
@@ -396,7 +404,6 @@ def decide(now=None):
             send_topic_menu(job_id, folder)
 
     # 3. Approvals (newest first) and auto-publish
-    w = window(now)
     holding = retry_later
     for job_id, folder, meta in open_vids:
         if get(job_id)["status"] in ("rejected", "published", "failed", "posting"):
@@ -410,15 +417,16 @@ def decide(now=None):
             rec["status"] = "approved"
             rec["approved_at"] = datetime.now(timezone.utc).isoformat()
             put(job_id, rec)  # remembered even if Telegram forgets the tap
-        if can_post_now(now) or rec.get("late"):
+        if due(job_id, now) or rec.get("late"):
             print(f"[gate] {'auto-publish (QA passed)' if auto else 'approved'}: {job_id} {meta['title']!r}")
-            set_buttons(msgs, "✅ Approved · posting now")
-            answer(ids, "✅ Approved! Posting now. Links arrive here in a few minutes.")
+            set_buttons(msgs, "✅ Posting now")
+            answer(ids, "✅ Posting now. Links arrive here in a few minutes.")
             select(folder)
             return "publish"
-        when = f"{fmt(w[0])} IST" if w else "8:00 AM IST tomorrow"
+        at = video_post_at(job_id)
+        when = f"{fmt(at)}" + ("" if at.date() == (now or now_ist()).date() else " tomorrow")
         set_buttons(msgs, f"✅ Approved · posts at {when}", job_id)
-        answer(ids, f"✅ Approved! It will post at {when}.")
+        answer(ids, f"✅ Approved! It will post at {when}. Tap ⚡ Post now to post immediately.")
         holding = True
 
     waiting = [(j, m) for j, _, m in open_vids if get(j)["status"] in ("new",)]
@@ -442,30 +450,45 @@ def _set_mode(mode):
     MODE = mode
 
 
+def _replacement_coming():
+    """A topic was picked after a Reject less than 45 min ago: keep watching for that video."""
+    cutoff = datetime.now(timezone.utc) - timedelta(minutes=45)
+    for rec in load_all().values():
+        rep = rec.get("replacement") if isinstance(rec, dict) else None
+        if rep and datetime.fromisoformat(rep["requested_at"]) > cutoff:
+            return True
+    return False
+
+
 def watch():
-    """Stay running through the posting window; react to taps within ~10 seconds."""
+    """Run from when a video is made until it's posted or decided (latest 11 PM); taps answered in ~10 s."""
     start = time.time()
-    w = window()
-    if not w or now_ist() < w[0] - timedelta(hours=6):
-        print("[gate] no posting window in the next 6 hours: one check, then stop")
+    now = now_ist()
+    if not (DAY_START <= now.hour < DAY_END):
+        print("[gate] night time: one check, then stop")
         return decide()
-    print(f"[gate] watching until {fmt(w[1])} IST")
+    day_end = now.replace(hour=DAY_END, minute=0, second=0, microsecond=0)
+    print(f"[gate] watching until everything is posted or decided (latest {fmt(day_end)} IST)")
     last_refresh = time.time()
     while True:
         try:
             action = decide()
-        except Exception as e:  # noqa: BLE001 - keep watching; report once
+        except Exception as e:  # noqa: BLE001 - keep watching
             print(f"[gate] check failed: {type(e).__name__}: {e}")
             action = "wait"
         if action == "publish":
             if _sh(f"{sys.executable} -m pipeline.publish") != 0:
                 print("[gate] publish exited with an error (details were sent to Telegram)")
             _sh("bash scripts/save_record.sh")
-            continue  # another approved video may be waiting
-        if now_ist() >= w[1]:
-            decide()  # marks this window's unposted videos as skipped (with a Post now button)
+            continue  # another video may be due
+        if now_ist() >= day_end:
             _sh("bash scripts/save_record.sh")
-            print("[gate] window closed")
+            print("[gate] 11 PM: stopping (unposted videos were offered with a Post now button)")
+            return "done"
+        open_count = sum(1 for j, _, _ in candidates() if get(j)["status"] not in FINAL_STATES)
+        if open_count == 0 and not _replacement_coming():
+            _sh("bash scripts/save_record.sh")
+            print("[gate] nothing waiting: stopping (the next video starts a new watcher)")
             return "done"
         if time.time() - start > WATCH_LIMIT:
             print("[gate] GitHub's 6-hour limit is near: starting a fresh watcher to continue")

@@ -118,3 +118,43 @@ def test_cta_and_opinion_lines_do_not_fail_fact_check(monkeypatch):
     assert rep["unverified"] == ["Sophos now resolves 90 percent of cases."]   # numbers can't hide as opinion
     reply["claims"].pop()
     assert script_gen.fact_check(type("P", (), {"script": "x", "cta": ""})(), article)["passed"] is True
+
+
+def _pkg(**over):
+    base = {"hook": "h", "script": " ".join(["word"] * 100), "scenes": [{"text_overlay": "a", "pixabay_keywords": "b"}] * 5,
+            "title_youtube": "Sophos Uses OpenAI to Cut Response Time to 89s", "primary_keyword": "openai daybreak sophos",
+            "related_keywords": ["ai cybersecurity india", "sophos mdr"], "description": "Sophos cut investigation time.",
+            "tags": ["ai", "security"], "hashtags": ["#shorts", "#AI", "#Sophos"],
+            "thumbnail_text": "sophos 96% faster threat response", "thumbnail_badge": "ai security news today"}
+    base.update(over)
+    return script_gen.Package.model_validate(base)
+
+
+def test_seo_rules_catch_the_real_sophos_title():
+    issues = script_gen.seo_issues(_pkg())
+    assert any("primary keyword" in i and "title" in i for i in issues)        # keyword missing from title
+    assert any("description" in i for i in issues)
+
+
+def test_seo_fix_makes_every_upload_searchable():
+    p = script_gen.fix_seo(_pkg())
+    title = p.title_youtube
+    assert title.endswith("#Shorts") and title.lower().count("#shorts") == 1
+    assert "openai daybreak sophos" in title.lower()[:50] and len(title.replace(" #Shorts", "")) <= 65
+    assert p.description.lower().startswith("openai daybreak sophos")
+    assert p.tags[0] == "openai daybreak sophos" and "sophos mdr" in p.tags     # keyword + related first
+    assert p.hashtags[-1] == "#Shorts" and len(p.hashtags) <= 6
+    assert len(p.thumbnail_text.split()) <= 4 and p.thumbnail_badge == "AI SECURITY NEWS"
+
+
+def test_good_package_passes_seo():
+    p = _pkg(title_youtube="OpenAI Daybreak: Sophos Cuts Threat Response 96%",
+             description="OpenAI Daybreak helped Sophos cut threat investigations from 38 minutes to 89 seconds.",
+             thumbnail_text="Sophos 96% Faster")
+    assert script_gen.seo_issues(p) == []
+
+
+def test_cover_highlights_the_number():
+    from pipeline import thumbnail
+    assert thumbnail.highlight_index("SOPHOS 96% FASTER".split()) == 1
+    assert thumbnail.highlight_index("GEMINI NOW FREE".split()) == 0

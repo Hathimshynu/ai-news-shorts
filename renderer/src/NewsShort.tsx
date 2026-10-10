@@ -25,6 +25,7 @@ export type Word = {word: string; start: number; end: number};
 export type NewsShortProps = {
   durationInFrames: number;
   hook: string;
+  cover?: {text: string; badge: string; highlight: number};
   brand: string;
   voice: string;
   music: string | null;
@@ -96,32 +97,39 @@ const SceneLabel: React.FC<{text: string}> = ({text}) => {
   );
 };
 
-const Hook: React.FC<{text: string}> = ({text}) => {
-  // Frame 0 is the cover on Instagram/Facebook: a bright yellow card with bold black text,
-  // so the first frame is never dark and the hook reads instantly in the feed.
+const Hook: React.FC<{text: string; badge: string; highlight: number}> = ({text, badge, highlight}) => {
+  // Frame 0 is the cover in the Instagram / YouTube Shorts feed: 2-4 huge words on a bright yellow card,
+  // one word in red, plus a badge. Bright + few words = more people stop scrolling and tap.
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const s = interpolate(spring({frame, fps, config: {damping: 12}}), [0, 1], [0.94, 1]); // never invisible
+  const s = interpolate(spring({frame, fps, config: {damping: 12}}), [0, 1], [0.95, 1]); // never invisible
   const out = interpolate(frame, [70, 80], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
+  const words = text.toUpperCase().split(/\s+/).filter(Boolean);
+  const size = words.join(' ').length > 16 ? 118 : 140;
   return (
-    <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', padding: 60, opacity: out}}>
+    <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', padding: 56, opacity: out, gap: 36}}>
+      {badge ? (
+        <div
+          style={{
+            background: '#ff2d2d', color: '#fff', fontFamily: FONT, fontWeight: 900, fontSize: 64,
+            padding: '12px 36px', borderRadius: 18, border: '6px solid #fff', textTransform: 'uppercase',
+            transform: `scale(${s}) rotate(-3deg)`, boxShadow: '0 16px 40px rgba(0,0,0,.45)', letterSpacing: 2,
+          }}
+        >
+          {badge}
+        </div>
+      ) : null}
       <div
         style={{
-          background: ACCENT,
-          color: '#0b0f1a',
-          fontFamily: FONT,
-          fontWeight: 900,
-          fontSize: 96,
-          lineHeight: 1.08,
-          textAlign: 'center',
-          textTransform: 'uppercase',
-          padding: '56px 48px',
-          borderRadius: 36,
-          transform: `scale(${s}) rotate(-1.5deg)`,
-          boxShadow: '0 24px 60px rgba(0,0,0,.45)',
+          background: ACCENT, color: '#0b0f1a', fontFamily: FONT, fontWeight: 900, fontSize: size,
+          lineHeight: 1.02, textAlign: 'center', padding: '56px 52px', borderRadius: 40,
+          transform: `scale(${s}) rotate(-1.5deg)`, boxShadow: '0 28px 70px rgba(0,0,0,.5)', maxWidth: 980,
+          display: 'flex', flexWrap: 'wrap', justifyContent: 'center', columnGap: 30,
         }}
       >
-        {text}
+        {words.map((w, i) => (
+          <span key={i} style={{color: i === highlight && words.length > 1 ? '#e3141b' : '#0b0f1a'}}>{w}</span>
+        ))}
       </div>
     </AbsoluteFill>
   );
@@ -202,7 +210,7 @@ const Chrome: React.FC<{brand: string; total: number}> = ({brand, total}) => {
   );
 };
 
-export const NewsShort: React.FC<NewsShortProps> = ({durationInFrames, hook, brand, voice, music, scenes, words}) => {
+export const NewsShort: React.FC<NewsShortProps> = ({durationInFrames, hook, cover, brand, voice, music, scenes, words}) => {
   return (
     <AbsoluteFill style={{backgroundColor: '#0b0f1a'}}>
       {scenes.map((s, i) => (
@@ -212,7 +220,7 @@ export const NewsShort: React.FC<NewsShortProps> = ({durationInFrames, hook, bra
         </Sequence>
       ))}
       <Sequence durationInFrames={80}>
-        <Hook text={hook} />
+        <Hook text={cover?.text || hook} badge={cover?.badge || ''} highlight={cover?.highlight ?? 0} />
       </Sequence>
       <Captions words={words} hideBefore={75} />
       <Chrome brand={brand} total={durationInFrames} />

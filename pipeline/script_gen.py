@@ -46,6 +46,7 @@ class Package(BaseModel):
     tags: List[str]
     hashtags: List[str]
     thumbnail_text: str
+    thumbnail_badge: str = "NEW"
 
     @field_validator("scenes")
     @classmethod
@@ -58,6 +59,16 @@ class Package(BaseModel):
     @classmethod
     def title_len(cls, v):
         return v[:95]
+
+    @field_validator("thumbnail_text")
+    @classmethod
+    def cover_words(cls, v):
+        return " ".join(v.replace("#", "").split()[:5])
+
+    @field_validator("thumbnail_badge")
+    @classmethod
+    def badge_words(cls, v):
+        return " ".join((v or "NEW").split()[:3]).upper()[:18] or "NEW"
 
     @field_validator("category")
     @classmethod
@@ -107,17 +118,18 @@ WRITE_FORMAT = """Return JSON with exactly these keys:
   "cta": "the single call to action used at the end, e.g. a question or 'Follow Tech Talk Hathim for daily AI updates'",
   "scenes": [{"text_overlay": "2-5 word on-screen label", "pixabay_keywords": "2-3 generic stock-video words", "visual_direction": "what the viewer should see"}],
   "pronunciation": [{"term": "hard technical name from the script", "say_as": "phonetic spelling for text-to-speech"}],
-  "titles": ["3 searchable YouTube title options under 60 characters, main keyword early"],
-  "title_youtube": "the best title, may end with #shorts",
-  "primary_keyword": "the main search phrase for this topic",
-  "related_keywords": ["3-5 related search phrases people would type"],
-  "description": "3-4 sentences: what happened and what the viewer will learn. No URLs.",
+  "primary_keyword": "2-4 word phrase people actually type into Google/YouTube for this story, e.g. 'gemini free for students' or 'chatgpt agent mode'. Use the real product/company name.",
+  "related_keywords": ["4-6 related search phrases people would type (include an India angle if relevant)"],
+  "titles": ["3 title options, 40-60 characters, primary keyword in the first 40 characters, Title Case, specific (name + number/benefit), honest (no 'shocking', no ALL CAPS)"],
+  "title_youtube": "the best of the three titles (no hashtags; #Shorts is added automatically)",
+  "description": "First sentence (max 150 characters) contains the primary keyword and says what happened. Then 2-3 sentences: what it means for viewers in India/Asia and what they will learn. Use 2 of the related keywords naturally. No URLs, no hashtags.",
   "pinned_comment": "one friendly question to pin as the first comment",
-  "ig_opening": "one punchy first line for the Instagram caption",
+  "ig_opening": "one punchy first line for the Instagram caption that includes the primary keyword",
   "ig_question": "one question that invites real discussion",
-  "tags": ["10-15 search tags"],
-  "hashtags": ["#shorts", "3-6 niche hashtags"],
-  "thumbnail_text": "3-4 bold words"
+  "tags": ["10-15 search tags: the primary keyword first, then related keywords, product and company names"],
+  "hashtags": ["3-5 specific hashtags, most relevant first (e.g. #ChatGPT #OpenAI #AINews); #Shorts is added automatically"],
+  "thumbnail_text": "2-4 huge cover words that make people stop scrolling: the product/company name or the key number + the outcome, e.g. 'GEMINI NOW FREE', '96%% FASTER', 'CHATGPT AGENTS'. Never a full sentence. Must be true.",
+  "thumbnail_badge": "1-3 word label for the cover badge, e.g. 'NEW', 'FREE', 'INDIA', 'JUST LAUNCHED', 'BETA'"
 }
 Use 6-8 scenes, in script order. Stock keywords must be generic (no brand or people names). Only include
 pronunciation entries for names text-to-speech may say wrongly (can be an empty list).""" % ", ".join(CATEGORIES)
@@ -170,21 +182,76 @@ def write_package(title, article, shorter=False, remove_claims=None):
                   + "\n- ".join(remove_claims))
     user = f"Story headline: {title}\n\nSource text:\n{article[:9000]}\n\n{WRITE_FORMAT}{extra}"
     last_err = None
-    for _ in range(3):
+    for attempt in range(3):
         msg = user if not last_err else user + f"\n\nYour previous answer was invalid: {last_err}. Fix it."
         data, provider = chat_json(WRITE_SYSTEM, msg)
         try:
             pkg = Package.model_validate(data)
             pkg.hashtags = [h if h.startswith("#") else f"#{h}" for h in pkg.hashtags]
-            if "#shorts" not in [h.lower() for h in pkg.hashtags]:
-                pkg.hashtags.insert(0, "#shorts")
             if pkg.hook not in pkg.hooks:
                 pkg.hooks = [pkg.hook] + pkg.hooks[:2]
-            return pkg, provider
+            issues = seo_issues(pkg)
+            if issues and attempt < 2:
+                last_err = "SEO rules not met: " + "; ".join(issues)
+                print(f"[script] {last_err}")
+                continue
+            return fix_seo(pkg), provider
         except ValidationError as e:
             last_err = json.dumps(e.errors(include_url=False, include_context=False))[:800]
             print(f"[script] validation failed: {last_err}")
     raise RuntimeError(f"LLM could not produce a valid package: {last_err}")
+
+
+# ---------------------------------------------------------------- SEO
+def _clean_title(t):
+    return re.sub(r"\s*#shorts\b", "", t, flags=re.I).strip(" -|:")
+
+
+def _has_keyword(text, kw):
+    """All meaningful words of the keyword appear in the text (any order), or a close fuzzy match."""
+    words = [w for w in re.findall(r"[\w.]+", kw.lower()) if len(w) > 2 or w.isdigit()]
+    low = text.lower()
+    return bool(words) and (all(w in low for w in words) or fuzz.partial_ratio(kw.lower(), low) >= 90)
+
+
+def seo_issues(pkg):
+    """Rules that make a Short findable on YouTube and Google search."""
+    issues, kw = [], pkg.primary_keyword.strip()
+    title = _clean_title(pkg.title_youtube)
+    if not kw:
+        return ["primary_keyword is empty"]
+    if not 30 <= len(title) <= 65:
+        issues.append(f"title must be 30-65 characters (it is {len(title)})")
+    if not _has_keyword(title[:50], kw):
+        issues.append(f"title must contain the primary keyword '{kw}' in its first 50 characters")
+    if not _has_keyword(pkg.description[:160], kw):
+        issues.append(f"the description's first sentence must contain the primary keyword '{kw}'")
+    if len(pkg.thumbnail_text.split()) > 4:
+        issues.append("thumbnail_text must be 2-4 words")
+    return issues
+
+
+def fix_seo(pkg):
+    """Last-resort fixes in code so every upload follows the rules, even if the model didn't."""
+    kw = pkg.primary_keyword.strip()
+    title = _clean_title(pkg.title_youtube)
+    if kw and not _has_keyword(title[:50], kw):
+        title = f"{kw.title()}: {title}"
+    if len(title) > 65:
+        title = title[:65].rsplit(" ", 1)[0].rstrip(" -|:,")
+    pkg.title_youtube = f"{title} #Shorts"
+    if kw and not _has_keyword(pkg.description[:160], kw):
+        pkg.description = f"{kw[0].upper() + kw[1:]}: {pkg.description}"
+    tags, seen = [], set()
+    for t in [kw, *pkg.related_keywords, *pkg.tags]:
+        t = t.strip().lstrip("#")
+        if t and t.lower() not in seen and sum(len(x) + 2 for x in tags) + len(t) < 450:
+            tags.append(t); seen.add(t.lower())
+    pkg.tags = tags
+    tags_h = [h if h.startswith("#") else f"#{h}" for h in pkg.hashtags if h.lower() != "#shorts"]
+    pkg.hashtags = tags_h[:5] + ["#Shorts"]
+    pkg.thumbnail_text = " ".join(pkg.thumbnail_text.split()[:4])
+    return pkg
 
 
 # ---------------------------------------------------------------- fact check
@@ -237,7 +304,7 @@ def _claim_type(text, said_type, cta=""):
 def build_description(pkg, source_urls):
     lines = [pkg.description.strip()]
     if pkg.related_keywords:
-        lines.append("\nRelated: " + ", ".join(pkg.related_keywords[:5]))
+        lines.append("\n🔎 Related: " + " | ".join(pkg.related_keywords[:6]))
     if source_urls:
         lines.append("\nSources:")
         lines += [f"- {u}" for u in source_urls]

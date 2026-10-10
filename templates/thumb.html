@@ -3,27 +3,40 @@
 <head>
 <meta charset="utf-8">
 <style>
+  /* Cover design rules: 2-4 huge words readable at phone-thumbnail size, one word highlighted,
+     bright image (dark covers get fewer clicks), one badge, high contrast, nothing small that matters. */
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html, body { width: 100%; height: 100%; overflow: hidden; background: #0b0f1a; }
   body { font-family: "Noto Sans", "DejaVu Sans", Arial, sans-serif; position: relative; }
-  .bg { position: absolute; inset: 0; background: url("{{BG}}") center/cover no-repeat; filter: saturate(1.2) brightness(.55); }
-  .shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(11,15,26,.1) 0%, rgba(11,15,26,.85) 75%); }
-  .wrap { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; padding: 6vmin; gap: 3vmin; }
-  .tag { align-self: flex-start; background: #ff3b30; color: #fff; font-weight: 800; letter-spacing: .08em;
-         font-size: 4vmin; padding: 1.2vmin 2.4vmin; border-radius: 1vmin; text-transform: uppercase; }
-  h1 { color: #fff; font-weight: 900; text-transform: uppercase; line-height: 1.02;
-       font-size: {{SIZE}}; text-shadow: 0 .6vmin 2vmin rgba(0,0,0,.6); }
-  h1 em { font-style: normal; color: #ffd60a; }
-  .brand { color: #cfd6e4; font-weight: 700; font-size: 3.4vmin; }
+  .bg { position: absolute; inset: -2%; background: url("{{BG}}") center/cover no-repeat;
+        filter: saturate(1.35) brightness(.9) contrast(1.05); }
+  .shade { position: absolute; inset: 0;
+           background: linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,.55) 100%); }
+  .wrap { position: absolute; inset: 0; display: flex; flex-direction: column; padding: 5.5vmin; gap: 3.2vmin;
+          justify-content: {{ALIGN}}; align-items: {{ITEMS}}; text-align: {{TEXTALIGN}}; }
+  .badge { background: #ff2d2d; color: #fff; font-weight: 900; letter-spacing: .06em; text-transform: uppercase;
+           font-size: 5.2vmin; padding: 1.2vmin 3vmin; border-radius: 1.4vmin; transform: rotate(-3deg);
+           box-shadow: 0 1vmin 3vmin rgba(0,0,0,.45); border: .5vmin solid #fff; }
+  h1 { color: #fff; font-weight: 900; text-transform: uppercase; line-height: 1.0; font-size: {{SIZE}};
+       -webkit-text-stroke: 1.1vmin #000; paint-order: stroke fill; letter-spacing: -.01em;
+       text-shadow: 0 1.2vmin 3vmin rgba(0,0,0,.55); max-width: 96%; }
+  h1 em { font-style: normal; color: #111; background: #ffd60a; -webkit-text-stroke: 0;
+          padding: 0 1.6vmin; border-radius: 1.4vmin; box-decoration-break: clone; -webkit-box-decoration-break: clone;
+          text-shadow: none; display: inline-block; transform: rotate(-1.5deg); margin: .6vmin 0; }
+  .bar { position: absolute; left: 0; right: 0; bottom: 0; height: 1.6vmin; background: #ffd60a; }
+  .brand { position: absolute; right: 4vmin; top: 4vmin; color: #fff; font-weight: 800; font-size: 3.2vmin;
+           background: rgba(0,0,0,.45); padding: .8vmin 2vmin; border-radius: 4vmin; }
+  .brand:empty { display: none; }
 </style>
 </head>
 <body>
   <div class="bg"></div>
   <div class="shade"></div>
   <div class="wrap">
-    <div class="tag">Tech News</div>
+    <div class="badge">{{BADGE}}</div>
     <h1>{{TEXT}}</h1>
-    <div class="brand">{{BRAND}}</div>
   </div>
+  <div class="brand">{{BRAND}}</div>
+  <div class="bar"></div>
 </body>
 </html>
