@@ -1,26 +1,22 @@
 {
-  "job_id": "2026-10-10-evening-1400",
-  "chosen": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-  "reason": "Asana's official demonstration of cutting AI model costs by 76x offers valuable, actionable efficiency insights for tech teams and developers building with AI.",
+  "job_id": "2026-10-10-evening-1501",
+  "chosen": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+  "reason": "It offers an actionable, privacy-focused open-source finance tracker with a local AI advisor that viewers can immediately run on their own machines.",
   "candidates": [
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "score": 23.35,
+      "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "score": 18.0,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "github"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
-        "https://openai.com/index/asana-browser-agent",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5"
+        "https://github.com/LosaLosSantos/aurelio-finance"
       ]
     },
     {
       "title": "GitHub Copilot weekly releases — October 5",
-      "score": 20.62,
+      "score": 20.35,
       "kinds": [
         "backlog",
         "official"
@@ -32,132 +28,115 @@
       ]
     },
     {
-      "title": "India Joins ITU AI for Good Lab as Pilot Country",
-      "score": 20.83,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUktfanY0N0ItTVNpS1JTcUFRQlU3REQ2Q0NRREE3ZGJ4eUxYUzFnMjFJSVc4YlNDTnZYcTBGbHB0X0ZKb0VMZUVNTnFVWU56aF9LcS16WFBEa2ppd3U2RXlRRDB5VkdOdUc0NUFpM1BBSVNYRm55ek5sLTlQRVktdXF2ZjRMZXNtd0o5dzREODJsZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5"
-      ]
-    },
-    {
-      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "score": 18.26,
+      "title": "Introducing Playground: Create and play custom games",
+      "score": 15.0,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
+        "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      ]
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "score": 15.0,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "score": 15.0,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/sophos"
+      ]
+    },
+    {
+      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "score": 20.0,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis"
       ]
     },
     {
-      "title": "iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip",
-      "score": 27.5,
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "score": 15.0,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkddIB-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkdQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19CWjBWckZHNm1NVTFvNmZoaVRoWEM4VUlNbnNMM2VSTUF5Q19CSFduUEZRblp5dFBxRkRfbDVsU1ZkX0pqTndxcGJIRDUtVG9jcUF5SmVrZU95akVLaWNJbU5uRS1zVzRQUVUtWUNrOTNCZGdEdFFSZkRGWlpPYS1HcktHZEdYRnUxdmk0cUoydw?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3cyNHRncHU4Y01CSVEwMU11TjJpQXNETmJzc2JfOVdlbDhoOTRHeUFoQ1ZEMjBzWmdrblJGMlA3VlpfUkRPbHViS29fejZIVzV0QjRJbF91MjhvMTdRVFJ4RnFoNTQ5c2c1RWtyRV9RQ3RFWTlnU1VueG9DUkpNMWJia2V6UU42NE5EQ01GVVpoaXlFaDJKeXBwV01FVkRuN2tJbnZ5VnZzak9MTUtWaXZn?oc=5"
+        "https://openai.com/index/oracle"
       ]
     },
     {
-      "title": "iQOO 16 India launch soon, announced at IMC 2026",
-      "score": 23.12,
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWdVLXNOcjJuV1M4eS0zNTVQTG4tWi0wVExsQnFLR2V1MzBGLTBCdGRFSG5MLVBQYk9RNmk2cnVwZGhMS2poWUFKbFdqVl9tUUlFdjZTYng2Q1dsZ2VUZTBqNEd2YnoxSm1IbHJvQTlsbUtjZDJTS2g3dFEtOEtZb1NWb9IBiAFBVV95cUxPMGFGdHpJRGVYcEJKdHQ1TU9Xc3d3amZEWXJrNHlmdkVzMjBhU0oyZjZTVmNDZkMyb0lxUFVGc3RPT3lkMy1VSGg2aTBoZkh1R0h2c3VRdEx5TE44ZWoyLXZMSmJ0N3lMM3puYmNsTlBZTGpUeFVmUWNHY0p0Q0V4ZC1rOWJMbFhi?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemhMMWVVTlRlRDBhVDdCSVFIaGljeXBfUWhyTndKUk1jcVRwemRhcU1mTUlmYUJBODhVNExMYXFldnhXaTBRNHBzcmN5Y3AtbmFpUk5JV2I3Q1hablVnRHdVVWpJSi0xalpTdW83UVFhTGRTRkh0cjljdEdfTktIMTlCQzBObklxaThkS0ltMENrcXBRcDZyYVdNYmMwU0RZU1E2NFYyVDdGZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEVuVkhnZTBfVnVXSVExZ2x5RFlrUjFSQzB0S3Izbk90VlFhdnRMcmVhNWdET0NRVnVXYThsb3VpRmpZZkhSejNHcUpBX3MzZk9sZjhaMkZGTFRQSEFfVEtOQ0YxLUFoUDZWY1F1ZVh6U0d2dWppd3ZGSWdWT29aYm01YlR1bHVNYVNtTzl3cmJSRzF1MmpDdTB0Zm5KZzhTQkVUNnBnSVIxdko5N3BkY1haZ053RlVNZmIxSEsydGzSAcYBQVVfeXFMTmFwXzk0RTYwak5taldrbUMySzBoYWpnMnQ3Z256T2RySS05aVJzTTNrREt5M1MydTVKV0w4TFk1R1ZYSVpVRWVObjZFYkJmZVQ5TkhwbjhkYXM4YnhUWmpyQk1KQWZfVUZVMko1MlRUdDBPS0FKVkM1dmNadDNTTlFyQzZIVEhyUEJzS2M0RW5Ea2c1M3dhbHhRcnRMMkpIZGMxVHR6eGJDLWtWOHJWUFdrSGFra0NRTzF5MDJna1FYT2d0U3BB?oc=5"
+        "https://openai.com/index/legalon-halves-codex-costs"
       ]
     },
     {
-      "title": "OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected",
-      "score": 22.19,
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "score": 15.0,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0dQaWxCcTUwNWJNM2U3bm0yRXc4T0NMZWxndmZSeng4ZkZzTXUwSm0wV3IwaUd1YnZteE0xekxKMWFvbkFBa3dCTHQwS1BsamVGTy1YSXVHUE53cFdsckMxUm5Fd0ZSNVBsRDZWUlgyRm95OEpXclZXMDNNYms2Y3pvMGl4Rng4SDZIY0xNbnhWQ0FtYlZqNi1BNEU3TFMyVVJRcWdmMnpBS3pGQ2tsY9IBvgFBVV95cUxQdVBEbkFPZHlvM3pKV3FJTDZfMFJiNlQ1OGxCYkFZQUtjQk0xNjFvbk9CQkprNEVYNmhKZ3pqVkpfaDd0eDBkODEtUm9sSC1EbnBHQ3dGQjNaUFA0TzV6Ni1GU3V3eVdQZVVETDI2akVudkhyRU5qTXRGRDJzaXUzbjQ0RGdQMmNsQ3hwM1B4Uzd6QzhvY2VGVXlXc3NCekU5NkFuY2c1OXl5RFhsemJ6c1N5YVA0dlJnS18ybTlR?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHRmRE82MkRRYW9HMjdpUW9rU1FYamxLZTRoZVNVMnNnOFp4VWdXS1YxMHhiVWUyYWpnWTVBeDZaU0hLOGthTE1iVWVSb3dQdmxydzF1a3BiVHFOMGhhaDF6czU3RW1sTnRqWWFFdUt2T3hwcXBoazN3OGhvT2JLTlRhb1plemFpUExyakxlMVR1b0RwMWdZUjRpcm0zVXNGVlV0OUNB?oc=5"
+        "https://openai.com/index/pollo-ai"
       ]
     },
     {
-      "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on",
-      "score": 21.0,
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfVw?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfVw?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfVw?oc=5"
+        "https://openai.com/index/teens-learn-and-plan"
       ]
     },
     {
-      "title": "OnePlus plans India launch for two flagships, tipster says",
-      "score": 19.42,
+      "title": "Disrupting AI-enabled “false front” operations",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVU1Ja1NaYVVVbUpTbGFCdkJzQjBhUGNtOHMtOXN6bU10Y2llYXpKRGhzUmNtcnVnUFNZeVVWSzhlLUdOV2NtbzY2UkxQVnNyYmhoSHRMaTB1RUM1QmZmQWl5a1VEYXpDN0lURWVxXzlvdHRWM1o2OHBkcFdWOTgxNkxxSzZ5OV8wVFE3b1o0QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNSjU2Z2k5b2xrVW4xSl9TV1lpSm5sWmo4b3RRdTBOOU9tV2hGUUFEN1VzNlFnSC01VGltcGVKMVJzLUlyYXJ6NHBJcG5fa1p6YXNLRWM5T0I3TGpUQVF6R1dDUVRNTmVsM2NFZ2pUUDhmS0ZEcHkxQ2tvdEJJbTlrU0xXTkFWT1Z2el9LdXVnWjRwemlCYWZGNy1rRk9hZw?oc=5"
+        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
       ]
     },
     {
-      "title": "Infinix GT 50 Pro Launch Date in India Confirmed: Check Expected Price Range and Specifications",
-      "score": 19.25,
+      "title": "Impactful scheduling for GPU clusters",
+      "score": 16.45,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjRuUkF3NG1jQ3RNVmJfNUF4c0JLWkhGb3ltaWV4SnNIQU5iOU5PZXR2bHlBRWlkMHgxYjZScV9pY1NXMngyQnJrcnVtUXdlOUttcE5HUEtTd184RllNVDNPY3BJQWthU1Y3MmtlWG9HOVNnVGZEQWdqT0czMWtTclFVNzJKVlU3ekF4NjBpbUc1cXV2eElpVjhtckZpc0ZqUFJJRDdyUVB6OHpDbjd5eEFhSkVCQUNmSmJwUU1qOUNyQWFEWEln?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFM1bkpsemRDRHVZX1hxR3EtX3JNeERsdm9CaU1LandLbTNES2t0OFVBbHRWRzU3T2NKOE42UHlYOEJfdkI4UFBIT19vd21OcDgyVHAwRnd0WmNuVDlkeG9naW5zZEJ1R0ZOc01BSzNrekJQWGZ4RWI0YVp4ell5dFBiMk5JN0tMNHNjbC1odkR4NkdjYTVRVWRPNGw4RVhVYmpMR0ZQRFEzM0lPTGNKX2lZM25rLWFrLXJBaVRCakZUYjl2TXExS2dNNNIBywFBVV95cUxNZFM1bkpsemRDRHVZX1hxR3EtX3JNeERsdm9CaU1LandLbTNES2t0OFVBbHRWRzU3T2NKOE42UHlYOEJfdkI4UFBIT19vd21OcDgyVHAwRnd0WmNuVDlkeG9naW5zZEJ1R0ZOc01BSzNrekJQWGZ4RWI0YVp4ell5dFBiMk5JN0tMNHNjbC1odkR4NkdjYTVRVWRPNGw4RVhVYmpMR0ZQRFEzM0lPTGNKX2lZM25rLWFrLXJBaVRCakZUYjl2TXExS2dNNA?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI Denies Firing Researchers Over AI Safety Warnings",
-      "score": 19.24,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBsenVKZV9rWXUtU2tteTdLWkNjYUo1ZU1yVmlBR2dIeG52TS1Cc3dFODBsYmhuS1c5djU0eFpfU29JX1NlMHR0TGRoclBuTlNUU2pGa3I1REhqNC1ON1lTaVBTR2NuNjNRSmZublBJalN0TVJTR1FRTlZ3U3pESVlseFZiS1lZbDJrUzZacDI1b254dk5oN2N5WHBpQdIBpgFBVV95cUxPWEZROElpd0NleEFCQnpNZGdteUJwVzNvRjVUQklTa21vdFltYmJvbDB3Z0R6eUxXY1VISFpweWVUTDRwQi1SN182ejNUUUtScFpkN2swTzgyRnRTQjZpM3YwNTVzNWRFZlRDMmVrRHRFMjRhbUppRVZfV1I2NXVSdXJBa1F1YW93NWFiVGIwRDNMNGtnbmRTRF94X3NLU0QyV3dIS1ZB?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbE5CaVMxV2RycUpTRnNGcU9fY2lWNmd4eXN0Q25ZUWxEQzZ3Vkd0d05GTTh2OExSbjdtdXRFckxLdUduNTIxMmRZNU9tMjlFV3NaUGk1aU82RjZuZFJsTUF4TV9VUk84LVM3X0hSN3RpWkQyRzk1TWdDd2dGaE55THlDY24wdVhESkVXaEluNGMzTExaWWZSOFBZUkdPekJRLWgyalROb2ZQV2xnWnZwaVVJOHBiQnc0aEhYNm5SaUhGNEtabk0zMGh1LTZEMTZRclE2dTdOVUljRFFJR2FKTtIB4AFBVV95cUxNbE5CaVMxV2RycUpTRnNGcU9fY2lWNmd4eXN0Q25ZUWxEQzZ3Vkd0d05GTTh2OExSbjdtdXRFckxLdUduNTIxMmRZNU9tMjlFV3NaUGk1aU82RjZuZFJsTUF4TV9VUk84LVM3X0hSN3RpWkQyRzk1TWdDd2dGaE55THlDY24wdVhESkVXaEluNGMzTExaWWZSOFBZUkdPekJRLWgyalROb2ZQV2xnWnZwaVVJOHBiQnc0aEhYNm5SaUhGNEtabk0zMGh1LTZEMTZRclE2dTdOVUljRFFJR2FKTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmhjVkJuMW5sZUNxY2NCWW9RWUJ1ZllRRTV4aXgwUWZ0VVhSeVVRUXhDdENCUzNOaUlIckU0b2IwdUFxVmVnazMydEM1Rl9mMkZXOGx6OVRSODYtRzd4MXRXclFrbmg3QjhWVWlpSEN0RUpfOG1zVGUtamVORzh1bGQ4dURaNFI4a2RPeUdicWx6N0lCV1FGc2hnRGl1blllakhQOXF0ZGpfNTEwaHE1QS1DSGlPejJCdnB3U2pwLXM5cG1ZbmtNa09vRTRmc0p6WnV3c3dVOVl5TGMtcHBUWEd30gHbAUFVX3lxTE9JX1JaSGdlQWFkQThpenU1X2RnSC1MWDAtVjFVV1ZIMHExMUN5X0pjOEdXWG1kWi1BNFVLT0ZDNmNnSnVUTnJ4Nnd4NlpIRnM1WmZnbXdIeFFTdzR5MDRuekFveU1qR1JVdGVXb3NYTGNpbFFyd0IyRVA0bWt2UGR5bTZLRG1LMmRWb2MyeE13Y0U2WHFlNjBIenp4QVpyLW9heF9qWS1wX3pJVXQtZFVpYWFkN2V0a243NWRHdWFraUpLcEQ4N1E3WU1acnY5ckRHV2ZOVW1XX1FBVQ?oc=5"
-      ]
-    },
-    {
-      "title": "Today’s NYT Strands Hints, Spangram and Answers for Friday, Oct. 9, #950",
-      "score": 21.24,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzBZT0pvVGJXYmZYcWlmYThtX01wemNLREZ5X2QzWVplY2hTSGdBQjNsTlZEdFF3R0tjRlVLWFVjWTFkNEo0TUwySjlSeFZtc3JPbkFYWjBSS3doR2VyWjMxUnBjX0Z4OXBpOEFHa3Q0TGZJZGtWTkpWMFlHcXhxbWI5c2RYT3A1eWdDODZobnBVRi03RjVKMVM4YzlST3ZES3J1VA?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HZFFfR0J0dUcycnZnZmxYRHF5YzVJSF9SeFMwR2ZkU05Iei1sTzJRVmtpaEFXcGFGOUZ0N3RyMXRkUzdFNW1CazZIOE4yMFU4TlNpeDZsVWZZWDNzUEE1QjdoT3dGakVxVmhsQWJaa2FtTzBf?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzBZT0pvVGJXYmZYcWlmYThtX01wemNLREZ5X2QzWVplY2hTSGdBQjNsTlZEdFF3R0tjRlVLWFVjWTFkNEo0TUwySjlSeFZtc3JPbkFYWjBSS3doR2VyWjMxUnBjX0Z4OXBpOEFHa3Q0TGZJZGtWTkpWMFlHcXhxbWI5c2RYT3A1eWdDODZobnBVRi03RjVKMVM4YzlST3ZES3J1VA?oc=5"
+        "https://huggingface.co/blog/allenai/impactful-scheduling"
       ]
     }
   ]

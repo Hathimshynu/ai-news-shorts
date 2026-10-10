@@ -8,18 +8,40 @@
     "country": "GLOBAL",
     "published": "2026-10-09T22:58:23+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "India Joins ITU AI for Good Lab as Pilot Country",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUktfanY0N0ItTVNpS1JTcUFRQlU3REQ2Q0NRREE3ZGJ4eUxYUzFnMjFJSVc4YlNDTnZYcTBGbHB0X0ZKb0VMZUVNTnFVWU56aF9LcS16WFBEa2ppd3U2RXlRRDB5VkdOdUc0NUFpM1BBSVNYRm55ek5sLTlQRVktdXF2ZjRMZXNtd0o5dzREODJsZw?oc=5",
-    "source": "StratNews Global",
-    "kind": "news",
-    "summary": " India Joins ITU AI for Good Lab as Pilot Country &nbsp;&nbsp; StratNews Global ",
-    "country": "IN",
-    "published": "2026-10-10T03:49:30+00:00",
+    "title": "Introducing Playground: Create and play custom games",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "Google AI",
+    "kind": "official",
+    "summary": "Overview of Playground",
+    "country": "GLOBAL",
+    "published": "2026-10-07T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
+  },
+  {
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-10-08T21:06:35+00:00",
+    "engagement": 0,
+    "saved": "2026-10-10T09:36:43.777160+00:00"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "country": "GLOBAL",
+    "published": "2026-10-09T07:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
     "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
@@ -30,50 +52,28 @@
     "country": "GLOBAL",
     "published": "2026-10-09T21:32:54+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkddIB-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkdQ?oc=5",
-    "source": "India Today",
-    "kind": "news",
-    "summary": " iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip &nbsp;&nbsp; India Today ",
-    "country": "IN",
-    "published": "2026-10-09T13:28:06+00:00",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "country": "GLOBAL",
+    "published": "2026-10-08T16:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "iQOO 16 India launch soon, announced at IMC 2026",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWdVLXNOcjJuV1M4eS0zNTVQTG4tWi0wVExsQnFLR2V1MzBGLTBCdGRFSG5MLVBQYk9RNmk2cnVwZGhMS2poWUFKbFdqVl9tUUlFdjZTYng2Q1dsZ2VUZTBqNEd2YnoxSm1IbHJvQTlsbUtjZDJTS2g3dFEtOEtZb1NWb9IBiAFBVV95cUxPMGFGdHpJRGVYcEJKdHQ1TU9Xc3d3amZEWXJrNHlmdkVzMjBhU0oyZjZTVmNDZkMyb0lxUFVGc3RPT3lkMy1VSGg2aTBoZkh1R0h2c3VRdEx5TE44ZWoyLXZMSmJ0N3lMM3puYmNsTlBZTGpUeFVmUWNHY0p0Q0V4ZC1rOWJMbFhi?oc=5",
-    "source": "Gadget Bridge",
-    "kind": "news",
-    "summary": " iQOO 16 India launch soon, announced at IMC 2026 &nbsp;&nbsp; Gadget Bridge ",
-    "country": "IN",
-    "published": "2026-10-09T14:06:33+00:00",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "country": "GLOBAL",
+    "published": "2026-10-08T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
-  },
-  {
-    "title": "OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
-    "source": "Moneycontrol.com",
-    "kind": "news",
-    "summary": " OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected &nbsp;&nbsp; Moneycontrol.com ",
-    "country": "IN",
-    "published": "2026-10-09T17:16:34+00:00",
-    "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
-  },
-  {
-    "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfVw?oc=5",
-    "source": "GSMArena.com",
-    "kind": "news",
-    "summary": "   Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on &nbsp;&nbsp; GSMArena.com    OPPO Find X10 Series to Launch Globally on October 21 with Next-Generation True-to-Life Imaging &nbsp;&nbsp; OPPO    ColorOS 17 to debut with OPPO Find X10 series in India; Open Beta programme goes live for OnePlus 13, 15 series &nbsp;&nbsp; 91Mobiles    Oppo ColorOS 17 India Launch Set for October 13; Enco X4 Earbuds, Pad Mini Teased &nbsp;&nbsp; Gadgets 360    Oppo Find X10 global launch date set – series to fill OnePlus-shaped hole &nbsp;&nbsp; Tech Advisor   ",
-    "country": "IN",
-    "published": "2026-10-10T04:31:01+00:00",
-    "engagement": 0,
-    "saved": "2026-10-10T08:35:06.446111+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   }
 ]
