@@ -103,6 +103,32 @@
       "posted_at": "2026-10-10T13:40:46.294040+00:00"
     }
   },
+  "2026-10-10-evening-1918": {
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/RHgUS9P2M9s",
+      "instagram": "https://www.instagram.com/reel/DeURDuMCXhj/",
+      "facebook": "https://www.facebook.com/reel/1465263602134100"
+    },
+    "approved_at": "2026-10-10T14:10:13.379974+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-10T14:10:15.155165+00:00",
+    "ids": {
+      "youtube": "RHgUS9P2M9s",
+      "instagram": "18118138228953417",
+      "facebook": "1465263602134100"
+    },
+    "info": {
+      "title": "GitHub Copilot October Update: Claude Haiku 5.5 & Sandbox #Shorts",
+      "topic": "GitHub Copilot weekly releases — October 5",
+      "category": "New AI Features",
+      "hook": "GitHub Copilot just got safer",
+      "seconds": 51.4,
+      "primary_keyword": "GitHub Copilot October update",
+      "qa_passed": true,
+      "posted_at": "2026-10-10T14:11:48.246341+00:00"
+    }
+  },
   "2026-10-10-morning-1146": {
     "status": "published",
     "platforms": {
