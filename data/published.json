@@ -157,18 +157,20 @@
     }
   },
   "2026-10-10-evening-2102": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/4XEiUmB9Yto",
-      "facebook": "https://www.facebook.com/reel/1732721361554667"
+      "facebook": "https://www.facebook.com/reel/1732721361554667",
+      "instagram": "https://www.instagram.com/reel/DeUnhGEEizV/"
     },
     "late": true,
     "approved_at": "2026-10-10T17:16:23.815413+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-10T17:16:25.812720+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-10T17:26:35.730776+00:00",
     "ids": {
       "youtube": "4XEiUmB9Yto",
-      "facebook": "1732721361554667"
+      "facebook": "1732721361554667",
+      "instagram": "17879654391546240"
     },
     "info": {
       "title": "India Mobile Congress 2026: 10th Edition Focus #Shorts",
@@ -178,7 +180,7 @@
       "seconds": 50.1,
       "primary_keyword": "India Mobile Congress 2026",
       "qa_passed": false,
-      "posted_at": "2026-10-10T17:17:47.420187+00:00"
+      "posted_at": "2026-10-10T17:27:13.216709+00:00"
     }
   },
   "2026-10-10-morning-1146": {
