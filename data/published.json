@@ -52,9 +52,28 @@
     "platforms": {}
   },
   "2026-10-10-evening-1400": {
-    "status": "approved",
-    "platforms": {},
-    "approved_at": "2026-10-10T09:08:02.892512+00:00"
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/FH4jseVnwBw",
+      "facebook": "https://www.facebook.com/reel/1594832905301859"
+    },
+    "approved_at": "2026-10-10T09:08:02.892512+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-10T13:31:33.151076+00:00",
+    "ids": {
+      "youtube": "FH4jseVnwBw",
+      "facebook": "1594832905301859"
+    },
+    "info": {
+      "title": "GPT-6.1 Sol Cuts Browser Agent Cost 76x #shorts",
+      "topic": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "category": "AI Experiments",
+      "hook": "Running browser AI agents got 76x cheaper.",
+      "seconds": 48.0,
+      "primary_keyword": "GPT-6.1 Sol browser agent",
+      "qa_passed": true,
+      "posted_at": "2026-10-10T13:32:45.374684+00:00"
+    }
   },
   "2026-10-10-evening-1501": {
     "status": "posting",
