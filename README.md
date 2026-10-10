@@ -66,7 +66,27 @@ Only one of the three AI keys is required; more keys = more fallback when one is
 3. Tools → Graph API Explorer → your app → User token with `instagram_basic, instagram_content_publish, pages_show_list, pages_read_engagement, pages_manage_posts, business_management` (optional for analytics: `instagram_manage_insights, read_insights`).
 4. Run `scripts/instagram_token.py` in Colab → add `IG_USER_ID`, `IG_ACCESS_TOKEN`, `FB_PAGE_ID`.
 
-### 5. Test
+### 5. Exact start times (important, free, 5 minutes)
+GitHub's own schedule is unreliable: it has started our 6 AM run at 11:45 AM and the 3 PM run at
+9:53 PM, and skipped others. So the two daily videos are started by **cron-job.org** (free, no card),
+and GitHub's schedule stays as a backup (it skips itself if the video was already made).
+
+1. **GitHub token:** github.com/settings/personal-access-tokens/new → name `cron` → Expiration: 1 year →
+   Repository access: **Only select repositories** → `ai-news-shorts` → Permissions → Repository →
+   **Actions: Read and write** → Generate → copy the token (starts with `github_pat_`).
+2. **cron-job.org** → sign up → **Create cronjob**:
+   - Title `Morning video`, URL
+     `https://api.github.com/repos/<your-github-name>/ai-news-shorts/actions/workflows/produce.yml/dispatches`
+   - Schedule: every day at **06:00**, time zone **Asia/Kolkata**
+   - **Advanced** tab: Request method **POST**; Headers: `Authorization` = `Bearer <your token>`,
+     `Accept` = `application/vnd.github+json`; Request body: `{"ref":"main"}`
+   - Save. Then **Copy** the job → title `Evening video`, time **15:00** → Save.
+3. Test: on the job click **Test run** → GitHub Actions shows a new "Produce daily short" run (response 204 = OK).
+
+Nothing else needs a timer: when a video finishes, the publish watcher starts by itself and keeps
+watching Telegram until the window closes (it restarts itself before GitHub's 6-hour limit).
+
+### 6. Test
 1. **Actions → Check setup → Run workflow** → every line OK (at least one AI provider).
 2. **Actions → Produce daily short → Run workflow** (~15 min) → video in Telegram → **Approve**.
 3. **Actions → Publish approved short → Run workflow** → links in Telegram.
@@ -76,7 +96,7 @@ Only one of the three AI keys is required; more keys = more fallback when one is
 - Tap **Approve**: within ~10 seconds the button changes to "✅ Approved · posts at 8:00 AM" (with a Cancel button) or "✅ Approved · posting now". If it doesn't change, the approval wasn't seen: see TROUBLESHOOTING.md.
 - Approve before 8 AM / 7 PM → posts then. Approve during the window → posts within a minute. Windows close 11 AM / 10 PM.
 - Tap **Reject** → Telegram sends the top 10 trending topics as buttons. Tap one and a new video on that topic arrives for approval in ~15 min (marked 🎯 Your pick). One replacement per rejected video.
-- Missed the window? The video is marked skipped, but tapping Approve later still posts it in the next window (or run **Publish approved short** by hand to post immediately).
+- Missed the window? The video is marked skipped and Telegram sends a **▶️ Post now** button. Tap it and it posts right away, whatever the time.
 - The repo must be **public** for the live watcher (free unlimited minutes). A private repo falls back to checks every 15 minutes.
 - QA-failed videos are marked ⚠️; you can still approve them yourself, but auto-publish never posts them.
 - Pin the suggested comment on YouTube (Telegram sends it after posting).

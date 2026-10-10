@@ -1,6 +1,7 @@
 """Tests for the critical workflows: LLM fallback, approval detection, no double posting.
 Run:  pip install pytest && python -m pytest -q"""
 import json
+from datetime import datetime
 from types import SimpleNamespace as NS
 
 import pytest
@@ -208,14 +209,56 @@ def test_cancel_after_approve(tmp_state, monkeypatch):
     assert gate.decide() == "done" and gate.get("J1")["status"] == "rejected"
 
 
-def test_skipped_video_posts_if_approved_later(tmp_state, monkeypatch):
-    monkeypatch.setattr(gate, "MODE", "final")
-    monkeypatch.setattr(gate, "tg", telegram([], []))
-    gate.decide()
-    assert gate.get("J1")["status"] == "expired"
+def _two_videos(tmp_path, monkeypatch, jobs):
+    cand = tmp_path / "candidates"
+    monkeypatch.setattr(gate, "CANDIDATES", cand); monkeypatch.setattr(gate, "OUT", tmp_path / "out")
+    monkeypatch.setattr(gate, "DONE", tmp_path / "p.json"); monkeypatch.setattr(gate, "CHAT", "42")
+    for n, job in enumerate(jobs):
+        (cand / str(n + 1)).mkdir(parents=True)
+        (cand / str(n + 1) / "meta.json").write_text(json.dumps({"job_id": job, "title": "T " + job}))
+
+
+def test_window_end_follows_when_the_video_was_made():
+    ist = gate.IST
+    assert gate.video_window_end("2026-10-10-morning-0615") == datetime(2026, 10, 10, 11, tzinfo=ist)
+    assert gate.video_window_end("2026-10-10-morning-1146") == datetime(2026, 10, 10, 22, tzinfo=ist)  # GitHub ran it late
+    assert gate.video_window_end("2026-10-09-evening-2155") == datetime(2026, 10, 10, 11, tzinfo=ist)  # made after 10 PM
+    assert gate.video_window_end("2026-10-09-evening") == datetime(2026, 10, 9, 22, tzinfo=ist)
+
+
+def test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):
+    """A delayed run at 6:20 AM must only skip YESTERDAY's video, not this morning's."""
+    _two_videos(tmp_path, monkeypatch, ["2026-10-09-evening-1530", "2026-10-10-morning-0615"])
+    sent = []
+    monkeypatch.setattr(gate, "tg", telegram([], sent)); monkeypatch.setattr(gate, "MODE", "check")
+    gate.decide(datetime(2026, 10, 10, 6, 20, tzinfo=gate.IST))
+    assert gate.get("2026-10-09-evening-1530")["status"] == "expired"
+    assert gate.get("2026-10-10-morning-0615")["status"] == "new"
+
+
+def test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does(tmp_path, monkeypatch):
+    """Records were lost after a video was posted; its old Approve tap must not post it again."""
+    _two_videos(tmp_path, monkeypatch, ["2026-10-09-evening-1938"])
+    gate.put("2026-10-09-evening-1938", {"status": "expired", "platforms": {}})
+    sent = []
     monkeypatch.setattr(gate, "MODE", "watch")
-    monkeypatch.setattr(gate, "tg", telegram([("approve:J1", 42, 42)], []))
-    assert gate.decide() == "publish"
+    monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-09-evening-1938", 42, 42)], sent))
+    assert gate.decide() == "done"
+    assert sent.count("sendMessage") == 1                      # one "Post now" offer, not a post
+    assert gate.decide() == "done" and sent.count("sendMessage") == 1   # offered once
+    monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-09-evening-1938", 42, 42),
+                                              ("late:2026-10-09-evening-1938", 42, 42)], []))
+    monkeypatch.setattr(gate, "in_window", lambda now=None: False)
+    assert gate.decide() == "publish"                         # Post now = right away, even outside a window
+
+
+def test_approved_but_window_passed_is_offered_not_lost(tmp_path, monkeypatch):
+    _two_videos(tmp_path, monkeypatch, ["2026-10-09-evening-2155"])
+    sent = []
+    monkeypatch.setattr(gate, "MODE", "watch")
+    monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-09-evening-2155", 42, 42)], sent))
+    gate.decide(datetime(2026, 10, 10, 12, 0, tzinfo=gate.IST))
+    assert gate.get("2026-10-09-evening-2155")["status"] == "expired" and "sendMessage" in sent
 
 
 def test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkeypatch):

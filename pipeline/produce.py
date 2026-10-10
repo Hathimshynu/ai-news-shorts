@@ -58,10 +58,12 @@ def _shrink_for_telegram(path, limit_mb=48):
 def run():
     now = datetime.now(ZoneInfo("Asia/Kolkata"))
     slot = "morning" if now.hour < 12 else "evening"
-    if now.hour >= 22:
-        publish_at, closes = "8 AM tomorrow", "11 AM"
+    if now.hour >= 21:            # less than an hour of the evening window left
+        publish_at, closes = "8 AM tomorrow", "11 AM tomorrow"
+    elif now.hour >= 10:          # morning window (nearly) over -> evening window
+        publish_at, closes = "7 PM", "10 PM"
     else:
-        publish_at, closes = ("8 AM", "11 AM") if slot == "morning" else ("7 PM", "10 PM")
+        publish_at, closes = "8 AM", "11 AM"
     job_id = f"{now:%Y-%m-%d}-{slot}-{now:%H%M}"  # unique per video
     _reset_dirs()
 

@@ -22,3 +22,11 @@
 - **The button says "posts at 7:00 PM"** → it's waiting for the window; nothing to do.
 - **The button says "posting now" but no links arrive** → open the latest Publish run → "Check approvals" step; the error is also sent to Telegram.
 - Several cancelled "Publish approved short" runs in the Actions list are normal: backup schedules that weren't needed because a watcher was already running.
+
+## Videos arrive hours late / at strange times
+GitHub's schedule (cron) can start runs hours late or skip them. Set up the two cron-job.org triggers
+(README step 5); GitHub's schedule then only acts as a backup.
+
+## "could not save published.json" / "You are not currently on a branch"
+Fixed in this version (runs started by another workflow are now checked out on the main branch).
+If you still see it, re-upload `scripts/save_record.sh` and `.github/workflows/publish.yml`.

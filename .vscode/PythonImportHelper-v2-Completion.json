@@ -145,6 +145,14 @@
         "documentation": {}
     },
     {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "requests",
         "kind": 6,
         "isExtraImport": true,
@@ -1125,7 +1133,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def in_window(now=None):\n    w = window(now)\n    return bool(w) and w[0] <= (now or now_ist()) < w[1]\ndef fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\n# ---------- published.json ----------\ndef load_all():\n    return json.loads(DONE.read_text()) if DONE.exists() else {}",
+        "peekOfCode": "def in_window(now=None):\n    w = window(now)\n    return bool(w) and w[0] <= (now or now_ist()) < w[1]\ndef fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\ndef video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1134,7 +1142,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\n# ---------- published.json ----------\ndef load_all():\n    return json.loads(DONE.read_text()) if DONE.exists() else {}\ndef get(job_id):\n    rec = load_all().get(job_id)\n    if isinstance(rec, str):  # old format: plain status string",
+        "peekOfCode": "def fmt(dt):\n    return dt.strftime(\"%-I:%M %p\")\ndef can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\ndef video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1143,7 +1151,25 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\n# ---------- published.json ----------\ndef load_all():\n    return json.loads(DONE.read_text()) if DONE.exists() else {}\ndef get(job_id):\n    rec = load_all().get(job_id)\n    if isinstance(rec, str):  # old format: plain status string\n        rec = {\"status\": rec, \"platforms\": {}}\n    return rec or {\"status\": \"new\", \"platforms\": {}}",
+        "peekOfCode": "def can_post_now(now=None):\n    return MODE in (\"manual\", \"final\") or in_window(now)\ndef video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):\n        return None",
+        "detail": "pipeline.gate",
+        "documentation": {}
+    },
+    {
+        "label": "video_window_end",
+        "kind": 2,
+        "importPath": "pipeline.gate",
+        "description": "pipeline.gate",
+        "peekOfCode": "def video_window_end(job_id):\n    \"\"\"When this video's posting window closes: the first window end after it was made.\n    job_id looks like 2026-10-09-evening-1938 (older ids have no time).\"\"\"\n    parts = job_id.split(\"-\")\n    try:\n        day = datetime(int(parts[0]), int(parts[1]), int(parts[2]), tzinfo=IST)\n    except (ValueError, IndexError):\n        return None\n    hhmm = parts[4] if len(parts) > 4 and parts[4].isdigit() else (\"0600\" if parts[3] == \"morning\" else \"1500\")\n    made = day.replace(hour=int(hhmm[:2]), minute=int(hhmm[2:]))",
+        "detail": "pipeline.gate",
+        "documentation": {}
+    },
+    {
+        "label": "window_over",
+        "kind": 2,
+        "importPath": "pipeline.gate",
+        "description": "pipeline.gate",
+        "peekOfCode": "def window_over(job_id, now=None):\n    end = video_window_end(job_id)\n    return bool(end) and (now or now_ist()) >= end\n# ---------- published.json ----------\ndef load_all():\n    return json.loads(DONE.read_text()) if DONE.exists() else {}\ndef get(job_id):\n    rec = load_all().get(job_id)\n    if isinstance(rec, str):  # old format: plain status string\n        rec = {\"status\": rec, \"platforms\": {}}",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1256,11 +1282,20 @@
         "documentation": {}
     },
     {
+        "label": "offer_late",
+        "kind": 2,
+        "importPath": "pipeline.gate",
+        "description": "pipeline.gate",
+        "peekOfCode": "def offer_late(job_id, meta, was_approved=False):\n    \"\"\"Window closed: mark skipped and offer a one-tap 'Post now' (a fresh button, so an old\n    Approve tap can never re-post something by accident).\"\"\"\n    rec = get(job_id)\n    if rec.get(\"late_offer\"):\n        return\n    why = (\"You approved it, but no check ran in time, so it wasn't posted.\"\n           if was_approved else \"It wasn't approved before the window closed.\")\n    markup = {\"inline_keyboard\": [[{\"text\": \"▶️ Post now\", \"callback_data\": f\"late:{job_id}\"}]]}\n    res = tg(\"sendMessage\", chat_id=CHAT, reply_markup=json.dumps(markup),",
+        "detail": "pipeline.gate",
+        "documentation": {}
+    },
+    {
         "label": "decide",
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def decide(now=None):\n    vids = candidates()\n    decisions = presses() if vids else {}\n    handle_topic_taps(vids)\n    statuses = {j: get(j)[\"status\"] for j, _, _ in vids}\n    print(f\"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}\")\n    def approved(job_id):\n        return decisions.get(job_id, (None,))[0] == \"approve\" or statuses[job_id] == \"approved\"\n    # Open = not finished yet. A skipped (expired) video re-opens when you approve it later.\n    open_vids = [(j, d, m) for j, d, m in vids",
+        "peekOfCode": "def decide(now=None):\n    vids = candidates()\n    decisions = presses() if vids else {}\n    handle_topic_taps(vids)\n    statuses = {j: get(j)[\"status\"] for j, _, _ in vids}\n    print(f\"[gate] {now or now_ist():%H:%M} IST mode={MODE} videos: {statuses}\")\n    # \"▶️ Post now\" on a skipped video -> approved, posts immediately (whatever the time)\n    for job_id, folder, meta in vids:\n        decision, msgs, ids = decisions.get(job_id, (None, [], []))\n        if decision == \"late\" and statuses[job_id] == \"expired\":",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1269,7 +1304,7 @@
         "kind": 2,
         "importPath": "pipeline.gate",
         "description": "pipeline.gate",
-        "peekOfCode": "def watch():\n    \"\"\"Stay running through the posting window; react to taps within ~10 seconds.\"\"\"\n    start = time.time()\n    w = window()\n    if not w:\n        print(\"[gate] after the last window today: one final check\")\n        return decide()\n    print(f\"[gate] watching until {fmt(w[1])} IST\")\n    last_refresh = time.time()\n    while True:",
+        "peekOfCode": "def watch():\n    \"\"\"Stay running through the posting window; react to taps within ~10 seconds.\"\"\"\n    start = time.time()\n    w = window()\n    if not w or now_ist() < w[0] - timedelta(hours=6):\n        print(\"[gate] no posting window in the next 6 hours: one check, then stop\")\n        return decide()\n    print(f\"[gate] watching until {fmt(w[1])} IST\")\n    last_refresh = time.time()\n    while True:",
         "detail": "pipeline.gate",
         "documentation": {}
     },
@@ -1710,7 +1745,7 @@
         "kind": 2,
         "importPath": "pipeline.produce",
         "description": "pipeline.produce",
-        "peekOfCode": "def run():\n    now = datetime.now(ZoneInfo(\"Asia/Kolkata\"))\n    slot = \"morning\" if now.hour < 12 else \"evening\"\n    if now.hour >= 22:\n        publish_at, closes = \"8 AM tomorrow\", \"11 AM\"\n    else:\n        publish_at, closes = (\"8 AM\", \"11 AM\") if slot == \"morning\" else (\"7 PM\", \"10 PM\")\n    job_id = f\"{now:%Y-%m-%d}-{slot}-{now:%H%M}\"  # unique per video\n    _reset_dirs()\n    # 1. Trend discovery across all sources, then the editor picks (with category variety).",
+        "peekOfCode": "def run():\n    now = datetime.now(ZoneInfo(\"Asia/Kolkata\"))\n    slot = \"morning\" if now.hour < 12 else \"evening\"\n    if now.hour >= 21:            # less than an hour of the evening window left\n        publish_at, closes = \"8 AM tomorrow\", \"11 AM tomorrow\"\n    elif now.hour >= 10:          # morning window (nearly) over -> evening window\n        publish_at, closes = \"7 PM\", \"10 PM\"\n    else:\n        publish_at, closes = \"8 AM\", \"11 AM\"\n    job_id = f\"{now:%Y-%m-%d}-{slot}-{now:%H%M}\"  # unique per video",
         "detail": "pipeline.produce",
         "documentation": {}
     },
@@ -2583,16 +2618,43 @@
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_cancel_after_approve(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"in_window\", lambda now=None: False)\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:J1\", 42, 42), (\"reject:J1\", 42, 42)], []))\n    assert gate.decide() == \"done\" and gate.get(\"J1\")[\"status\"] == \"rejected\"\ndef test_skipped_video_posts_if_approved_later(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"MODE\", \"final\")\n    monkeypatch.setattr(gate, \"tg\", telegram([], []))\n    gate.decide()\n    assert gate.get(\"J1\")[\"status\"] == \"expired\"\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")",
+        "peekOfCode": "def test_cancel_after_approve(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"in_window\", lambda now=None: False)\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:J1\", 42, 42), (\"reject:J1\", 42, 42)], []))\n    assert gate.decide() == \"done\" and gate.get(\"J1\")[\"status\"] == \"rejected\"\ndef _two_videos(tmp_path, monkeypatch, jobs):\n    cand = tmp_path / \"candidates\"\n    monkeypatch.setattr(gate, \"CANDIDATES\", cand); monkeypatch.setattr(gate, \"OUT\", tmp_path / \"out\")\n    monkeypatch.setattr(gate, \"DONE\", tmp_path / \"p.json\"); monkeypatch.setattr(gate, \"CHAT\", \"42\")\n    for n, job in enumerate(jobs):\n        (cand / str(n + 1)).mkdir(parents=True)",
         "detail": "tests.test_critical",
         "documentation": {}
     },
     {
-        "label": "test_skipped_video_posts_if_approved_later",
+        "label": "test_window_end_follows_when_the_video_was_made",
         "kind": 2,
         "importPath": "tests.test_critical",
         "description": "tests.test_critical",
-        "peekOfCode": "def test_skipped_video_posts_if_approved_later(tmp_state, monkeypatch):\n    monkeypatch.setattr(gate, \"MODE\", \"final\")\n    monkeypatch.setattr(gate, \"tg\", telegram([], []))\n    gate.decide()\n    assert gate.get(\"J1\")[\"status\"] == \"expired\"\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:J1\", 42, 42)], []))\n    assert gate.decide() == \"publish\"\ndef test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkeypatch):\n    from datetime import datetime, timezone",
+        "peekOfCode": "def test_window_end_follows_when_the_video_was_made():\n    ist = gate.IST\n    assert gate.video_window_end(\"2026-10-10-morning-0615\") == datetime(2026, 10, 10, 11, tzinfo=ist)\n    assert gate.video_window_end(\"2026-10-10-morning-1146\") == datetime(2026, 10, 10, 22, tzinfo=ist)  # GitHub ran it late\n    assert gate.video_window_end(\"2026-10-09-evening-2155\") == datetime(2026, 10, 10, 11, tzinfo=ist)  # made after 10 PM\n    assert gate.video_window_end(\"2026-10-09-evening\") == datetime(2026, 10, 9, 22, tzinfo=ist)\ndef test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):\n    \"\"\"A delayed run at 6:20 AM must only skip YESTERDAY's video, not this morning's.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1530\", \"2026-10-10-morning-0615\"])\n    sent = []",
+        "detail": "tests.test_critical",
+        "documentation": {}
+    },
+    {
+        "label": "test_late_check_never_skips_a_fresh_video",
+        "kind": 2,
+        "importPath": "tests.test_critical",
+        "description": "tests.test_critical",
+        "peekOfCode": "def test_late_check_never_skips_a_fresh_video(tmp_path, monkeypatch):\n    \"\"\"A delayed run at 6:20 AM must only skip YESTERDAY's video, not this morning's.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1530\", \"2026-10-10-morning-0615\"])\n    sent = []\n    monkeypatch.setattr(gate, \"tg\", telegram([], sent)); monkeypatch.setattr(gate, \"MODE\", \"check\")\n    gate.decide(datetime(2026, 10, 10, 6, 20, tzinfo=gate.IST))\n    assert gate.get(\"2026-10-09-evening-1530\")[\"status\"] == \"expired\"\n    assert gate.get(\"2026-10-10-morning-0615\")[\"status\"] == \"new\"\ndef test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does(tmp_path, monkeypatch):\n    \"\"\"Records were lost after a video was posted; its old Approve tap must not post it again.\"\"\"",
+        "detail": "tests.test_critical",
+        "documentation": {}
+    },
+    {
+        "label": "test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does",
+        "kind": 2,
+        "importPath": "tests.test_critical",
+        "description": "tests.test_critical",
+        "peekOfCode": "def test_old_approve_tap_on_skipped_video_never_reposts_but_post_now_does(tmp_path, monkeypatch):\n    \"\"\"Records were lost after a video was posted; its old Approve tap must not post it again.\"\"\"\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-1938\"])\n    gate.put(\"2026-10-09-evening-1938\", {\"status\": \"expired\", \"platforms\": {}})\n    sent = []\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:2026-10-09-evening-1938\", 42, 42)], sent))\n    assert gate.decide() == \"done\"\n    assert sent.count(\"sendMessage\") == 1                      # one \"Post now\" offer, not a post\n    assert gate.decide() == \"done\" and sent.count(\"sendMessage\") == 1   # offered once",
+        "detail": "tests.test_critical",
+        "documentation": {}
+    },
+    {
+        "label": "test_approved_but_window_passed_is_offered_not_lost",
+        "kind": 2,
+        "importPath": "tests.test_critical",
+        "description": "tests.test_critical",
+        "peekOfCode": "def test_approved_but_window_passed_is_offered_not_lost(tmp_path, monkeypatch):\n    _two_videos(tmp_path, monkeypatch, [\"2026-10-09-evening-2155\"])\n    sent = []\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")\n    monkeypatch.setattr(gate, \"tg\", telegram([(\"approve:2026-10-09-evening-2155\", 42, 42)], sent))\n    gate.decide(datetime(2026, 10, 10, 12, 0, tzinfo=gate.IST))\n    assert gate.get(\"2026-10-09-evening-2155\")[\"status\"] == \"expired\" and \"sendMessage\" in sent\ndef test_failed_platform_not_retried_immediately_in_watch_mode(tmp_state, monkeypatch):\n    from datetime import datetime, timezone\n    monkeypatch.setattr(gate, \"MODE\", \"watch\")",
         "detail": "tests.test_critical",
         "documentation": {}
     },

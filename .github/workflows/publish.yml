@@ -9,16 +9,19 @@ on:
     workflows: ["Produce daily short"]
     types: [completed]
   schedule:
-    # Backups in case a watcher didn't start or hit GitHub's 6-hour job limit
-    - cron: "30,45 2 * * *"   # 8:00, 8:15 AM IST
-    - cron: "*/15 3-4 * * *"
-    - cron: "0,15 5 * * *"
-    - cron: "30 5 * * *"      # 11:00 AM IST final morning check
-    - cron: "30,45 13 * * *"  # 7:00, 7:15 PM IST
-    - cron: "*/15 14-15 * * *"
-    - cron: "0,15 16 * * *"
-    - cron: "30 16 * * *"     # 10:00 PM IST final evening check
-  workflow_dispatch: {}
+    # Backups only (GitHub often runs schedules hours late, so they are not relied on)
+    - cron: "30 2 * * *"      # 8:00 AM IST
+    - cron: "30 4 * * *"      # 10:00 AM IST
+    - cron: "30 13 * * *"     # 7:00 PM IST
+    - cron: "30 15 * * *"     # 9:00 PM IST
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "manual = post an approved video now. watch = keep watching Telegram."
+        required: false
+        default: manual
+        type: choice
+        options: [manual, watch]
 
 permissions:
   actions: write    # download videos, and start a new video when you pick a topic
@@ -47,13 +50,15 @@ jobs:
       YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
       AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
       GH_TOKEN: ${{ github.token }}
+      DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
       MODE: >-
-        ${{ github.event_name == 'workflow_dispatch' && 'manual'
-        || ((github.event.schedule == '30 5 * * *' || github.event.schedule == '30 16 * * *') && 'final')
+        ${{ github.event_name == 'workflow_dispatch' && (inputs.mode || 'manual')
         || (github.event.repository.private && 'check')
         || 'watch' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}   # latest records, on a real branch
 
       - uses: actions/setup-python@v5
         with:
