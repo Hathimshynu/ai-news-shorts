@@ -130,10 +130,31 @@
     }
   },
   "2026-10-10-evening-2001": {
-    "status": "approved",
-    "platforms": {},
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/lxZaBCzE_Os",
+      "instagram": "https://www.instagram.com/reel/DeUmiACkh2h/",
+      "facebook": "https://www.facebook.com/reel/1644527427325822"
+    },
     "late": true,
-    "approved_at": "2026-10-10T17:16:23.816120+00:00"
+    "approved_at": "2026-10-10T17:17:50.309008+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-10T17:17:51.784476+00:00",
+    "ids": {
+      "youtube": "lxZaBCzE_Os",
+      "instagram": "18096739208548118",
+      "facebook": "1644527427325822"
+    },
+    "info": {
+      "title": "India AI Talent Demand Beats Supply by Over 3.5X #Shorts",
+      "topic": "India's AI talent demand outstrips supply by over 3.5 times: Report",
+      "category": "Trending Technology",
+      "hook": "India faces a 3.5X AI talent gap.",
+      "seconds": 46.9,
+      "primary_keyword": "india ai talent demand",
+      "qa_passed": false,
+      "posted_at": "2026-10-10T17:19:22.563741+00:00"
+    }
   },
   "2026-10-10-evening-2102": {
     "status": "posting",
