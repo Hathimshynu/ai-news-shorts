@@ -1,47 +1,36 @@
 [
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Asana cuts model costs 76x in browser tests with GPT-6.1 Sol &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-09T17:53:14+00:00",
+    "title": "GitHub Copilot weekly releases — October 5",
+    "link": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " This week&#8217;s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku&#8230; \n The post  GitHub Copilot weekly releases — October 5  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-09T22:58:23+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "India partners as pilot country with ITU to bridge AI gap for Global South",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5",
-    "source": "DD India",
-    "kind": "news",
-    "summary": " India partners as pilot country with ITU to bridge AI gap for Global South &nbsp;&nbsp; DD India ",
-    "country": "IN",
-    "published": "2026-10-09T16:47:00+00:00",
+    "title": "Introducing Playground: Create and play custom games",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "Google AI",
+    "kind": "official",
+    "summary": "Overview of Playground",
+    "country": "GLOBAL",
+    "published": "2026-10-07T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkddIB-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkdQ?oc=5",
-    "source": "India Today",
-    "kind": "news",
-    "summary": " iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip &nbsp;&nbsp; India Today ",
-    "country": "IN",
-    "published": "2026-10-09T13:28:06+00:00",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-10-08T21:06:35+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
-  },
-  {
-    "title": "Google Tests Carbon, an Internal Gemini 4 Model for Coding",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTg0RHhUcnZPY0UyTTdta0dZSmd3MXV6VjBOaFI3UjJYMTBtbHFvVUUyM0lRaHljNXpRNEpMaHZ1cnkzNzMzU2MzUEJ1UzFSTHFhTjduM2JyQVctQjE2Q250cUxJTUROTlFPTFNCdXRxNlJQR0dkZUZ3SnlLM01SN3kzQmNnNkN3UVc4X09JSE9XakdSLTNpVllzWll4NnZUYzRwVVdobEcxYkpwOGN4Uk04Zjh5aGdfdjh4UFpSSEJWcXo4Z1d4MWd2bkfSAcwBQVVfeXFMUEk4NER4VHJ2T2NFMk03bWtHWUpndzF1elYwTmhSN1IyWDEwbWxxb1VFMjNJUWh5YzV6UTRKTGh2dXJ5MzczM1NjM1BCdVMxUkxxYU43bjNickFXLUIxNkNudHFMSU1ETk5RT0xTQnV0cTZSUEdHZGVGd0p5SzNNUjd5M0JjZzZDd1FXOF9PSUhPV2pHUi0zaVZZc1pZeDZ2VGM0cFVXaGxHMWJKcDhjeFJNOGY4eWhnX3Y4eFBaUkhCVnF6OGdXeDFndm5H?oc=5",
-    "source": "StoryBoard 18",
-    "kind": "news",
-    "summary": " Google Tests Carbon, an Internal Gemini 4 Model for Coding &nbsp;&nbsp; StoryBoard 18 ",
-    "country": "IN",
-    "published": "2026-10-10T05:11:02+00:00",
-    "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -52,28 +41,39 @@
     "country": "GLOBAL",
     "published": "2026-10-09T07:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "GitHub Copilot weekly releases — October 5",
-    "link": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+    "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+    "link": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
     "source": "GitHub Changelog",
     "kind": "official",
-    "summary": " This week&#8217;s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku&#8230; \n The post  GitHub Copilot weekly releases — October 5  appeared first on  The GitHub Blog . ",
+    "summary": " CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find&#8230; \n The post  CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis  appeared first on  The GitHub Blog . ",
     "country": "GLOBAL",
-    "published": "2026-10-09T22:58:23+00:00",
+    "published": "2026-10-09T21:32:54+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   },
   {
-    "title": "OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
-    "source": "Moneycontrol.com",
-    "kind": "news",
-    "summary": "   OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected &nbsp;&nbsp; Moneycontrol.com    OPPO Find X10 Series to Launch Globally on October 21 with Next-Generation True-to-Life Imaging &nbsp;&nbsp; OPPO    Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on &nbsp;&nbsp; GSMArena.com    ColorOS 17 to debut with OPPO Find X10 series in India; Open Beta programme goes live for OnePlus 13, 15 series &nbsp;&nbsp; 91Mobiles    Oppo Find X10 series with ColorOS 17 to make global debut next week &nbsp;&nbsp; Deccan Herald   ",
-    "country": "IN",
-    "published": "2026-10-09T17:16:34+00:00",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "country": "GLOBAL",
+    "published": "2026-10-08T16:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-10T06:17:59.373386+00:00"
+    "saved": "2026-10-10T09:36:43.777160+00:00"
+  },
+  {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "country": "GLOBAL",
+    "published": "2026-10-08T12:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-10T09:36:43.777160+00:00"
   }
 ]

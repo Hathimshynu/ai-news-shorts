@@ -1,163 +1,142 @@
 {
-  "job_id": "2026-10-10-morning-1146",
-  "chosen": "franzenzenhofer/big-arrow-on-the-screen: Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-  "reason": "It offers an engaging, visual open-source skill that allows AI coding agents like Claude Code to draw arrows and guidance directly on your screen, making it immediately practical and fun to try.",
+  "job_id": "2026-10-10-evening-1501",
+  "chosen": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+  "reason": "It offers an actionable, privacy-focused open-source finance tracker with a local AI advisor that viewers can immediately run on their own machines.",
   "candidates": [
     {
-      "title": "franzenzenhofer/big-arrow-on-the-screen: Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "score": 20.55,
+      "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "score": 18.0,
       "kinds": [
-        "backlog",
         "github"
       ],
       "primary": true,
       "links": [
-        "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
-      ]
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "score": 21.9,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
-        "https://openai.com/index/asana-browser-agent"
-      ]
-    },
-    {
-      "title": "India partners as pilot country with ITU to bridge AI gap for Global South",
-      "score": 19.38,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUktfanY0N0ItTVNpS1JTcUFRQlU3REQ2Q0NRREE3ZGJ4eUxYUzFnMjFJSVc4YlNDTnZYcTBGbHB0X0ZKb0VMZUVNTnFVWU56aF9LcS16WFBEa2ppd3U2RXlRRDB5VkdOdUc0NUFpM1BBSVNYRm55ek5sLTlQRVktdXF2ZjRMZXNtd0o5dzREODJsZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5"
-      ]
-    },
-    {
-      "title": "iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip",
-      "score": 24.25,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkddIB-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkdQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19CWjBWckZHNm1NVTFvNmZoaVRoWEM4VUlNbnNMM2VSTUF5Q19CSFduUEZRblp5dFBxRkRfbDVsU1ZkX0pqTndxcGJIRDUtVG9jcUF5SmVrZU95akVLaWNJbU5uRS1zVzRQUVUtWUNrOTNCZGdEdFFSZkRGWlpPYS1HcktHZEdYRnUxdmk0cUoydw?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTZIUjdFZkZlaWotUUdhNXNubk1xSUtDZzA1eWdFcWZoN0tyVmNvUGlsamZiSkJ2WXFfbXFUSTdJaEZTR1FucTM3eHFQM3lyaGVVYmJ3eXZMaTVRZm5WLXgtRzZTeUNGcElMb1hDOHBDM3ZZdG1sOVJXZldKNW0zbE1GUXl0M2IyaWxlbkZxVkRnRm5GMU4yS2ROMXd3ZWdzSnfSAacBQVVfeXFMTmdTdVgzaERGdUFndEhSWU9rXzVDcWxWSG1QUmFoQlhxZlE5WWVrdndTNW5wMFkzVE5zdktGdnc1bE9zbkQ1RC1CU2Y3N1UwMGY3X0g2N0ZiMVg1ajhvNHMxUk84VnVwUnRETkdUb1I1YTlLaUNjcVFnNndpVmxqdDR3bEFId25wd1dyYkF0aHpiZ0ZKWlVBWFcxRjBiR1ltNXhlTFE0XzA?oc=5"
-      ]
-    },
-    {
-      "title": "Google Tests Carbon, an Internal Gemini 4 Model for Coding",
-      "score": 19.72,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTg0RHhUcnZPY0UyTTdta0dZSmd3MXV6VjBOaFI3UjJYMTBtbHFvVUUyM0lRaHljNXpRNEpMaHZ1cnkzNzMzU2MzUEJ1UzFSTHFhTjduM2JyQVctQjE2Q250cUxJTUROTlFPTFNCdXRxNlJQR0dkZUZ3SnlLM01SN3kzQmNnNkN3UVc4X09JSE9XakdSLTNpVllzWll4NnZUYzRwVVdobEcxYkpwOGN4Uk04Zjh5aGdfdjh4UFpSSEJWcXo4Z1d4MWd2bkfSAcwBQVVfeXFMUEk4NER4VHJ2T2NFMk03bWtHWUpndzF1elYwTmhSN1IyWDEwbWxxb1VFMjNJUWh5YzV6UTRKTGh2dXJ5MzczM1NjM1BCdVMxUkxxYU43bjNickFXLUIxNkNudHFMSU1ETk5RT0xTQnV0cTZSUEdHZGVGd0p5SzNNUjd5M0JjZzZDd1FXOF9PSUhPV2pHUi0zaVZZc1pZeDZ2VGM0cFVXaGxHMWJKcDhjeFJNOGY4eWhnX3Y4eFBaUkhCVnF6OGdXeDFndm5H?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTg0RHhUcnZPY0UyTTdta0dZSmd3MXV6VjBOaFI3UjJYMTBtbHFvVUUyM0lRaHljNXpRNEpMaHZ1cnkzNzMzU2MzUEJ1UzFSTHFhTjduM2JyQVctQjE2Q250cUxJTUROTlFPTFNCdXRxNlJQR0dkZUZ3SnlLM01SN3kzQmNnNkN3UVc4X09JSE9XakdSLTNpVllzWll4NnZUYzRwVVdobEcxYkpwOGN4Uk04Zjh5aGdfdjh4UFpSSEJWcXo4Z1d4MWd2bkfSAcwBQVVfeXFMUEk4NER4VHJ2T2NFMk03bWtHWUpndzF1elYwTmhSN1IyWDEwbWxxb1VFMjNJUWh5YzV6UTRKTGh2dXJ5MzczM1NjM1BCdVMxUkxxYU43bjNickFXLUIxNkNudHFMSU1ETk5RT0xTQnV0cTZSUEdHZGVGd0p5SzNNUjd5M0JjZzZDd1FXOF9PSUhPV2pHUi0zaVZZc1pZeDZ2VGM0cFVXaGxHMWJKcDhjeFJNOGY4eWhnX3Y4eFBaUkhCVnF6OGdXeDFndm5H?oc=5",
-        "https://www.producthunt.com/products/google"
-      ]
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "score": 19.58,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/sophos",
-        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5"
+        "https://github.com/LosaLosSantos/aurelio-finance"
       ]
     },
     {
       "title": "GitHub Copilot weekly releases — October 5",
-      "score": 19.17,
+      "score": 20.35,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"
+      ]
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "score": 15.0,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"
+        "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
       ]
     },
     {
-      "title": "OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected",
-      "score": 20.75,
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0dQaWxCcTUwNWJNM2U3bm0yRXc4T0NMZWxndmZSeng4ZkZzTXUwSm0wV3IwaUd1YnZteE0xekxKMWFvbkFBa3dCTHQwS1BsamVGTy1YSXVHUE53cFdsckMxUm5Fd0ZSNVBsRDZWUlgyRm95OEpXclZXMDNNYms2Y3pvMGl4Rng4SDZIY0xNbnhWQ0FtYlZqNi1BNEU3TFMyVVJRcWdmMnpBS3pGQ2tsY9IBvgFBVV95cUxQdVBEbkFPZHlvM3pKV3FJTDZfMFJiNlQ1OGxCYkFZQUtjQk0xNjFvbk9CQkprNEVYNmhKZ3pqVkpfaDd0eDBkODEtUm9sSC1EbnBHQ3dGQjNaUFA0TzV6Ni1GU3V3eVdQZVVETDI2akVudkhyRU5qTXRGRDJzaXUzbjQ0RGdQMmNsQ3hwM1B4Uzd6QzhvY2VGVXlXc3NCekU5NkFuY2c1OXl5RFhsemJ6c1N5YVA0dlJnS18ybTlR?oc=5"
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
       ]
     },
     {
-      "title": "Infinix GT 50 Pro Launch Date in India Confirmed: Check Expected Price Range and Specifications",
-      "score": 21.8,
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjRuUkF3NG1jQ3RNVmJfNUF4c0JLWkhGb3ltaWV4SnNIQU5iOU5PZXR2bHlBRWlkMHgxYjZScV9pY1NXMngyQnJrcnVtUXdlOUttcE5HUEtTd184RllNVDNPY3BJQWthU1Y3MmtlWG9HOVNnVGZEQWdqT0czMWtTclFVNzJKVlU3ekF4NjBpbUc1cXV2eElpVjhtckZpc0ZqUFJJRDdyUVB6OHpDbjd5eEFhSkVCQUNmSmJwUU1qOUNyQWFEWEln?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFM1bkpsemRDRHVZX1hxR3EtX3JNeERsdm9CaU1LandLbTNES2t0OFVBbHRWRzU3T2NKOE42UHlYOEJfdkI4UFBIT19vd21OcDgyVHAwRnd0WmNuVDlkeG9naW5zZEJ1R0ZOc01BSzNrekJQWGZ4RWI0YVp4ell5dFBiMk5JN0tMNHNjbC1odkR4NkdjYTVRVWRPNGw4RVhVYmpMR0ZQRFEzM0lPTGNKX2lZM25rLWFrLXJBaVRCakZUYjl2TXExS2dNNNIBywFBVV95cUxNZFM1bkpsemRDRHVZX1hxR3EtX3JNeERsdm9CaU1LandLbTNES2t0OFVBbHRWRzU3T2NKOE42UHlYOEJfdkI4UFBIT19vd21OcDgyVHAwRnd0WmNuVDlkeG9naW5zZEJ1R0ZOc01BSzNrekJQWGZ4RWI0YVp4ell5dFBiMk5JN0tMNHNjbC1odkR4NkdjYTVRVWRPNGw4RVhVYmpMR0ZQRFEzM0lPTGNKX2lZM25rLWFrLXJBaVRCakZUYjl2TXExS2dNNA?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejV1WDVfMS1OYXNlUjdWQWxPZkFKSGFuM2lGbkFnWmljT1BUZlE5V2p5OW9BSExicC1kU21mZnpoNmJoNWNIQVU1WDBfN19ORTFDN0lXTEd3RlJpTHpyUVBreUE2ZjYzc2ZJTEZFMVhVWFFlTGU4eEo5bUVtZnp4SmZDQ2VILURPRTF4VHlrQjVpbkstOGZNejQtY2xrcXk5ZTEtUWZZUm1sWDlYU0g0QkhxVVFCLWFIT2VtUHVJXzhaOFptN21qRU54SlJlOG4tTFhiY0RZWmcyYUc5c0HSAd4BQVVfeXFMT3o1dVg1XzEtTmFzZVI3VkFsT2ZBSkhhbjNpRm5BZ1ppY09QVGZROVdqeTlvQUhMYnAtZFNtZmZ6aDZiaDVjSEFVNVgwXzdfTkUxQzdJV0xHd0ZSaUx6clFQa3lBNmY2M3NmSUxGRTFYVVhRZUxlOHhKOW1FbWZ6eEpmQ0NlSC1ET0UxeFR5a0I1aW5LLThmTXo0LWNsa3F5OWUxLVFmWVJtbFg5WFNINEJIcVVRQi1hSE9lbVB1SV84WjhabTdtakVOeEpSZThuLUxYYmNEWVpnMmFHOXNB?oc=5"
+        "https://openai.com/index/sophos"
       ]
     },
     {
-      "title": "iQOO 16 India launch soon, announced at IMC 2026",
-      "score": 21.67,
+      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "score": 20.0,
       "kinds": [
-        "news"
+        "backlog",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWdVLXNOcjJuV1M4eS0zNTVQTG4tWi0wVExsQnFLR2V1MzBGLTBCdGRFSG5MLVBQYk9RNmk2cnVwZGhMS2poWUFKbFdqVl9tUUlFdjZTYng2Q1dsZ2VUZTBqNEd2YnoxSm1IbHJvQTlsbUtjZDJTS2g3dFEtOEtZb1NWb9IBiAFBVV95cUxPMGFGdHpJRGVYcEJKdHQ1TU9Xc3d3amZEWXJrNHlmdkVzMjBhU0oyZjZTVmNDZkMyb0lxUFVGc3RPT3lkMy1VSGg2aTBoZkh1R0h2c3VRdEx5TE44ZWoyLXZMSmJ0N3lMM3puYmNsTlBZTGpUeFVmUWNHY0p0Q0V4ZC1rOWJMbFhi?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemhMMWVVTlRlRDBhVDdCSVFIaGljeXBfUWhyTndKUk1jcVRwemRhcU1mTUlmYUJBODhVNExMYXFldnhXaTBRNHBzcmN5Y3AtbmFpUk5JV2I3Q1hablVnRHdVVWpJSi0xalpTdW83UVFhTGRTRkh0cjljdEdfTktIMTlCQzBObklxaThkS0ltMENrcXBRcDZyYVdNYmMwU0RZU1E2NFYyVDdGZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2ZicE01VmlxZjV1RzNqY0M0TUNZMnVvZ2JWaWZaUW5yd1BYdFQ5ejV3NGpUSGpTbk1pVHd1d0UyNGxfMnVjYksxS2tmdVJ6c3FsWmw5TkZNZGNLVGRuTjhvUDNQc3hTNkRKYTRvbmprLVlBMTVOLURzajdHV0cwQVYyUWlON0dUa1NYMG1DNTZoU1NKU0ozWG9vMENYUkNiV2RuWjRISllMRUNvZDkxYzBGNjBLWmNEbVJRMjFmNmxHNTdSelNXLVM1eEJyaWFsYkpZ?oc=5"
+        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis"
       ]
     },
     {
-      "title": "Amazon shuffles Alexa leadership following high-end tablet release",
-      "score": 21.84,
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "score": 15.0,
       "kinds": [
-        "launch",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5"
+        "https://openai.com/index/oracle"
       ]
     },
     {
-      "title": "Margaret Hamilton, whose software sent humans to the moon, dies at 90",
-      "score": 19.72,
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa20weXhUZXh1aUNtcjg3RE9sQ2trZUtIQVhFVWRLVVFHSHpnN2NNd0dQNVY3SWhYcjdWcmNpVEF0VFZtc2FNQUxZMXpkdDYteXlpSEItOVU3eDNzMmEwQlhRb3NiSWY5Q3I3Y1dKUE5xVm8yYmE2ZVVaZ3NORkZ3a1B2V3JoejMydDlnZFdTSml5TlNJbG91R2EwQkdOT3dZR3c?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2lLT2lvRGhxYWpEOEZlRVVINDR4bGk3UEQtM1U5TDVVWXhrbTZhSTBSTFd4Z3hTLVp1elRDaThTVlRnTmR4YXNfalMxb0FHZUNFTnVrck1MdDdSelJkLXJDN2gwVC1RQm9mMjhPWjA3dFV6NHNabEV2WWdUTmN1ZjBMWmFySFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa20weXhUZXh1aUNtcjg3RE9sQ2trZUtIQVhFVWRLVVFHSHpnN2NNd0dQNVY3SWhYcjdWcmNpVEF0VFZtc2FNQUxZMXpkdDYteXlpSEItOVU3eDNzMmEwQlhRb3NiSWY5Q3I3Y1dKUE5xVm8yYmE2ZVVaZ3NORkZ3a1B2V3JoejMydDlnZFdTSml5TlNJbG91R2EwQkdOT3dZR3c?oc=5"
+        "https://openai.com/index/legalon-halves-codex-costs"
+      ]
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "score": 15.0,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/pollo-ai"
+      ]
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "score": 15.0,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/teens-learn-and-plan"
+      ]
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "score": 15.0,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      ]
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "score": 16.45,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/allenai/impactful-scheduling"
       ]
     }
   ]
