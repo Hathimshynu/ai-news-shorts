@@ -1,1 +1,30 @@
-{}
+{
+  "2026-10-09-evening": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-evening-1503": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-evening-1532": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-evening-1624": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-evening-1938": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-evening-2155": {
+    "status": "expired",
+    "platforms": {}
+  },
+  "2026-10-09-morning": {
+    "status": "expired",
+    "platforms": {}
+  }
+}

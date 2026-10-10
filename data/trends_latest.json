@@ -1,95 +1,50 @@
 {
-  "job_id": "2026-10-09-evening-1938",
-  "chosen": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-  "reason": "This real-world enterprise case study demonstrates a massive 96% boost in productivity using OpenAI tools, offering tech professionals actionable insights into practical AI automation.",
+  "job_id": "2026-10-10-morning-1146",
+  "chosen": "franzenzenhofer/big-arrow-on-the-screen: Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+  "reason": "It offers an engaging, visual open-source skill that allows AI coding agents like Claude Code to draw arrows and guidance directly on your screen, making it immediately practical and fun to try.",
   "candidates": [
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "score": 25.62,
+      "title": "franzenzenhofer/big-arrow-on-the-screen: Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "score": 20.55,
       "kinds": [
         "backlog",
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+      ]
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "score": 21.9,
+      "kinds": [
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
-        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
-        "https://openai.com/index/sophos"
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+        "https://openai.com/index/asana-browser-agent"
       ]
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "score": 19.78,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUN1NSM3FTc2tqZEdsWlpzRzYxaXFfdFZsLTZuY2JxSk5SVWtzTWVWcGZRRmRvcDROWjgyU3BfTjZmV0t4SnYw?oc=5",
-        "https://openai.com/index/oracle"
-      ]
-    },
-    {
-      "title": "Microsoft previews next era of trustworthy AI agents and Surface Laptop Ultra",
-      "score": 23.32,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTlRN3ZXRmx1dG1MNXhyVFRVeU1td1BXRHhvU3BZSjZOaEZSYTJGU3JWamN4dmxiUkh3NUJaUGE5ZVdOS05LQjhBcjBrVUlnamRCekptaGJwZm85TEdWV1BmWmxhWGpZYUtGWjFkOU1ybzJzbUN1V3g5aEMxQ09IODR0Vl9xMFA5?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTlRN3ZXRmx1dG1MNXhyVFRVeU1td1BXRHhvU3BZSjZOaEZSYTJGU3JWamN4dmxiUkh3NUJaUGE5ZVdOS05LQjhBcjBrVUlnamRCekptaGJwZm85TEdWV1BmWmxhWGpZYUtGWjFkOU1ybzJzbUN1V3g5aEMxQ09IODR0Vl9xMFA5?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTlRN3ZXRmx1dG1MNXhyVFRVeU1td1BXRHhvU3BZSjZOaEZSYTJGU3JWamN4dmxiUkh3NUJaUGE5ZVdOS05LQjhBcjBrVUlnamRCekptaGJwZm85TEdWV1BmWmxhWGpZYUtGWjFkOU1ybzJzbUN1V3g5aEMxQ09IODR0Vl9xMFA5?oc=5"
-      ]
-    },
-    {
-      "title": "CNBC-TV18 #AIPulse | OpenAI Revenue Concerns, Google’s Gemini Agent & SpaceX’s Spectrum Deal * OpenAI tells investors annualised revenue approaching $50 bn vs earlier reports of $70 bn * Google Cloud launches Gemini Agent for tasks, content and",
-      "score": 21.43,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk4tbHZlT2Zjbjd4Y2o0WTM0UWJIZVhBRFBwY2NlNmZEWU5HUVBDeVd5d1p1OFRQY1lpdlBCM19jU2tHalZqZDZYTzNDeEExLUlwalFyVmhBa0NfcTl6ejd3WjVVTVFJZmlBaWpNS1VXSnM1MFE5M21UaHUwVXRNLUhDbi0tYkFjMl9MaGNVblJZa0dpMDhuaDk0RkR5QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk4tbHZlT2Zjbjd4Y2o0WTM0UWJIZVhBRFBwY2NlNmZEWU5HUVBDeVd5d1p1OFRQY1lpdlBCM19jU2tHalZqZDZYTzNDeEExLUlwalFyVmhBa0NfcTl6ejd3WjVVTVFJZmlBaWpNS1VXSnM1MFE5M21UaHUwVXRNLUhDbi0tYkFjMl9MaGNVblJZa0dpMDhuaDk0RkR5QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQajE4YVM3TlQ3dDBkbHBXU2NTQlJGZFY2elJWWkR3dHZsUUZVY3F5bExlRUZ2YjM2MllFazM5eGdHVUhpZzF0X09LczhjUV9hUkk3b1JySUFkNnZQMFpDYVZxSXpsRzZPNGFfbWV5c1JnVkEyN09ITGZCVjhKVDFRTm9sNkZQUFhKeWpVZG9hazFveUJsRTRfRjg4Szd2Z9IBowFBVV95cUxNcy0wdW1EejFmY0ZvN1htTzJIU0NSVjlQczctQllWaGNSdWtSN3MwUTFFbGphUnp6T3FSTGlzd1RKUUlucFNqYWRDMk5FUDlodXk5OTBmQTVmcDRUMl9UVjV3SExKXzQzYUJkTEY4Y3Boa3VlbDBFY2l2cjRUN1RFTG5tR1pnVkthUHV4MlVjZjZjdnY0Z3VwdEhId05ZVmRndVg4?oc=5"
-      ]
-    },
-    {
-      "title": "India to release AI regulation consultation paper within 30 days, says Vaishnaw",
-      "score": 21.79,
+      "title": "India partners as pilot country with ITU to bridge AI gap for Global South",
+      "score": 19.38,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6d9IB2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6dw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6d9IB2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6dw?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdy1zSGQxeFNyRENmbTVUZWZJM3ZJWTF2VW56NkJxcGpiVkZwUGd0M2Y1WkZlQVBzVEVqYzNEVjZ6MjQxRnZrcWdjLTFIMmQxQ05xaHdhX0J3TVlJb0dPUF9PaEQ4dURFb09WVE1fWWFxQUEwcTNCQmNxbnAzVGtfdGtBWW1SZHNHY3NVSg?oc=5"
-      ]
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "score": 21.16,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5",
-        "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUktfanY0N0ItTVNpS1JTcUFRQlU3REQ2Q0NRREE3ZGJ4eUxYUzFnMjFJSVc4YlNDTnZYcTBGbHB0X0ZKb0VMZUVNTnFVWU56aF9LcS16WFBEa2ppd3U2RXlRRDB5VkdOdUc0NUFpM1BBSVNYRm55ek5sLTlQRVktdXF2ZjRMZXNtd0o5dzREODJsZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVJLTZyRUc5YXVQTVQxclo3VF8wbWt5clctVDVEbS1WTkRYTUlLZGJKNy1iaUQ3T2ZvcUpGeF9iV0F3Zk5pWUpNVTZUYjJ3QW9IYkhEdXJHSndLbEFMcjQ0WEo0YVVnbUxyU2w5V0RsdWtkLWdjaGdCSzNTN0liWTNJU0d0ZDZTUGtGS1lVOHdDOGV3VnZ4UndIUEdrRVFUa2QzWklSM0E?oc=5"
       ]
     },
     {
       "title": "iQOO 16 confirmed to launch in India with the super-fast Snapdragon 8 Elite Extreme Gen 6 chip",
-      "score": 33.83,
+      "score": 24.25,
       "kinds": [
         "backlog",
         "news"
@@ -97,72 +52,112 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkddIB-AFBVV95cUxOdFJUWVFoTFplcU9lWlNaajVDdDBsUE5kS2c5TW1OeUIxWk1SVHJQQlBUX3NndmZqUXdVbzdXa3FucDZMZUpLcC12UnZYM1NKUzh0dF9rOXgwWHNabTYxV3hPdVNORk01Tmp6LVpEbVZNVU44MzR5UXlQQjJYX3o4RWFLdHQwOVNzdGEzYlUzNHBuYjRFLVVuTXhFbUhvRE16NHNRQjhMSTJXNDV2dWQ4U05MVHNCRXdfLTNOcVBIWlBpN1dmdnlYeTc5UW1xbWZ6eU9lbXFJQXdfU2pkX2wyeHRUaU15cExCSDl3dVJtWEV5UWpuZkxkdQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMy1vRjhTMWI4ZWVlTTRvaUZXNjZkUXBzVDZLR0xQSUpQM0FmZFNYUGFDdi16Yy1SQUFyT1gxOUpzbFBURG5YSUZUd1FybnBNMHloSG9hWDdEZXpNRTQxelRGOGJaMHlZMnBYTERLQVlWQk15Q05mdTdmc21zZWJwUdIBhgFBVV95cUxPR2R4S0JOR3Z2YUJjZldkWUlIV255ZDJsUUIzZ0lsMlFhS0NBeVllNlY0X2kzNm9USWpKSVQ2ODBqb3Bvd3pxckxsd29tZjJ2MnBLTzdaWWc3ekxmZjNZNl84YU5ia2JGVXZIMWZ1YlFaU1ZEakdEQUs0MlNXMm05RE5JV0hNUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3cyNHRncHU4Y01CSVEwMU11TjJpQXNETmJzc2JfOVdlbDhoOTRHeUFoQ1ZEMjBzWmdrblJGMlA3VlpfUkRPbHViS29fejZIVzV0QjRJbF91MjhvMTdRVFJ4RnFoNTQ5c2c1RWtyRV9RQ3RFWTlnU1VueG9DUkpNMWJia2V6UU42NE5EQ01GVVpoaXlFaDJKeXBwV01FVkRuN2tJbnZ5VnZzak9MTUtWaXZn?oc=5"
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19CWjBWckZHNm1NVTFvNmZoaVRoWEM4VUlNbnNMM2VSTUF5Q19CSFduUEZRblp5dFBxRkRfbDVsU1ZkX0pqTndxcGJIRDUtVG9jcUF5SmVrZU95akVLaWNJbU5uRS1zVzRQUVUtWUNrOTNCZGdEdFFSZkRGWlpPYS1HcktHZEdYRnUxdmk0cUoydw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTZIUjdFZkZlaWotUUdhNXNubk1xSUtDZzA1eWdFcWZoN0tyVmNvUGlsamZiSkJ2WXFfbXFUSTdJaEZTR1FucTM3eHFQM3lyaGVVYmJ3eXZMaTVRZm5WLXgtRzZTeUNGcElMb1hDOHBDM3ZZdG1sOVJXZldKNW0zbE1GUXl0M2IyaWxlbkZxVkRnRm5GMU4yS2ROMXd3ZWdzSnfSAacBQVVfeXFMTmdTdVgzaERGdUFndEhSWU9rXzVDcWxWSG1QUmFoQlhxZlE5WWVrdndTNW5wMFkzVE5zdktGdnc1bE9zbkQ1RC1CU2Y3N1UwMGY3X0g2N0ZiMVg1ajhvNHMxUk84VnVwUnRETkdUb1I1YTlLaUNjcVFnNndpVmxqdDR3bEFId25wd1dyYkF0aHpiZ0ZKWlVBWFcxRjBiR1ltNXhlTFE0XzA?oc=5"
       ]
     },
     {
-      "title": "iQOO 16 Confirmed for India at India Mobile Congress 2026: Specs, Expected Price and Launch Timeline",
-      "score": 21.13,
+      "title": "Google Tests Carbon, an Internal Gemini 4 Model for Coding",
+      "score": 19.72,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTg0RHhUcnZPY0UyTTdta0dZSmd3MXV6VjBOaFI3UjJYMTBtbHFvVUUyM0lRaHljNXpRNEpMaHZ1cnkzNzMzU2MzUEJ1UzFSTHFhTjduM2JyQVctQjE2Q250cUxJTUROTlFPTFNCdXRxNlJQR0dkZUZ3SnlLM01SN3kzQmNnNkN3UVc4X09JSE9XakdSLTNpVllzWll4NnZUYzRwVVdobEcxYkpwOGN4Uk04Zjh5aGdfdjh4UFpSSEJWcXo4Z1d4MWd2bkfSAcwBQVVfeXFMUEk4NER4VHJ2T2NFMk03bWtHWUpndzF1elYwTmhSN1IyWDEwbWxxb1VFMjNJUWh5YzV6UTRKTGh2dXJ5MzczM1NjM1BCdVMxUkxxYU43bjNickFXLUIxNkNudHFMSU1ETk5RT0xTQnV0cTZSUEdHZGVGd0p5SzNNUjd5M0JjZzZDd1FXOF9PSUhPV2pHUi0zaVZZc1pZeDZ2VGM0cFVXaGxHMWJKcDhjeFJNOGY4eWhnX3Y4eFBaUkhCVnF6OGdXeDFndm5H?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTg0RHhUcnZPY0UyTTdta0dZSmd3MXV6VjBOaFI3UjJYMTBtbHFvVUUyM0lRaHljNXpRNEpMaHZ1cnkzNzMzU2MzUEJ1UzFSTHFhTjduM2JyQVctQjE2Q250cUxJTUROTlFPTFNCdXRxNlJQR0dkZUZ3SnlLM01SN3kzQmNnNkN3UVc4X09JSE9XakdSLTNpVllzWll4NnZUYzRwVVdobEcxYkpwOGN4Uk04Zjh5aGdfdjh4UFpSSEJWcXo4Z1d4MWd2bkfSAcwBQVVfeXFMUEk4NER4VHJ2T2NFMk03bWtHWUpndzF1elYwTmhSN1IyWDEwbWxxb1VFMjNJUWh5YzV6UTRKTGh2dXJ5MzczM1NjM1BCdVMxUkxxYU43bjNickFXLUIxNkNudHFMSU1ETk5RT0xTQnV0cTZSUEdHZGVGd0p5SzNNUjd5M0JjZzZDd1FXOF9PSUhPV2pHUi0zaVZZc1pZeDZ2VGM0cFVXaGxHMWJKcDhjeFJNOGY4eWhnX3Y4eFBaUkhCVnF6OGdXeDFndm5H?oc=5",
+        "https://www.producthunt.com/products/google"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "score": 19.58,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/sophos",
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5"
+      ]
+    },
+    {
+      "title": "GitHub Copilot weekly releases — October 5",
+      "score": 19.17,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"
+      ]
+    },
+    {
+      "title": "OPPO Find X10 series to launch in India with ColorOS 17; October 22 debut expected",
+      "score": 20.75,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOWw4Nk5URXJxT3o3RFIyU0pBeng5aVlZYy1zYkRqZ0JZVWx1M3ptSzBld2J3ZGV6bXh0Q3pSdF93VGxVdFNoMER6ZFFJbENZbV9YVGxTaGN4STNvSUwxemNKOG1KNkJwcmo0Y3JpSjJBTFYtbXNTbFdQSUtadXpiUnFHRUxtdkNqWFU1YVZ3N1lLMHZaS25QV1B2bFNJTTFzUDVvMzJhUEJLaWZBaEFtenlnRUJvRUh3cXo5T0xTMEw1T0stTXE4X0EzVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejV1WDVfMS1OYXNlUjdWQWxPZkFKSGFuM2lGbkFnWmljT1BUZlE5V2p5OW9BSExicC1kU21mZnpoNmJoNWNIQVU1WDBfN19ORTFDN0lXTEd3RlJpTHpyUVBreUE2ZjYzc2ZJTEZFMVhVWFFlTGU4eEo5bUVtZnp4SmZDQ2VILURPRTF4VHlrQjVpbkstOGZNejQtY2xrcXk5ZTEtUWZZUm1sWDlYU0g0QkhxVVFCLWFIT2VtUHVJXzhaOFptN21qRU54SlJlOG4tTFhiY0RZWmcyYUc5c0HSAd4BQVVfeXFMT3o1dVg1XzEtTmFzZVI3VkFsT2ZBSkhhbjNpRm5BZ1ppY09QVGZROVdqeTlvQUhMYnAtZFNtZmZ6aDZiaDVjSEFVNVgwXzdfTkUxQzdJV0xHd0ZSaUx6clFQa3lBNmY2M3NmSUxGRTFYVVhRZUxlOHhKOW1FbWZ6eEpmQ0NlSC1ET0UxeFR5a0I1aW5LLThmTXo0LWNsa3F5OWUxLVFmWVJtbFg5WFNINEJIcVVRQi1hSE9lbVB1SV84WjhabTdtakVOeEpSZThuLUxYYmNEWVpnMmFHOXNB?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdk5KMFl0WXdYMjZwNVotN3o2d19HVlpmdXliUXk3Zm5fTGJwQW45eEl6eklfTUs1XzlxNndYZ2hGMW8yZ1pMQVFUQ3JDLTNkeFFtN3BSRnJZcG5jVkZOTlhtdS1XS0dZNDA1ODF3NWxVQzFaOEhCWkZyenZWWUxmZUNR?oc=5"
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0dQaWxCcTUwNWJNM2U3bm0yRXc4T0NMZWxndmZSeng4ZkZzTXUwSm0wV3IwaUd1YnZteE0xekxKMWFvbkFBa3dCTHQwS1BsamVGTy1YSXVHUE53cFdsckMxUm5Fd0ZSNVBsRDZWUlgyRm95OEpXclZXMDNNYms2Y3pvMGl4Rng4SDZIY0xNbnhWQ0FtYlZqNi1BNEU3TFMyVVJRcWdmMnpBS3pGQ2tsY9IBvgFBVV95cUxQdVBEbkFPZHlvM3pKV3FJTDZfMFJiNlQ1OGxCYkFZQUtjQk0xNjFvbk9CQkprNEVYNmhKZ3pqVkpfaDd0eDBkODEtUm9sSC1EbnBHQ3dGQjNaUFA0TzV6Ni1GU3V3eVdQZVVETDI2akVudkhyRU5qTXRGRDJzaXUzbjQ0RGdQMmNsQ3hwM1B4Uzd6QzhvY2VGVXlXc3NCekU5NkFuY2c1OXl5RFhsemJ6c1N5YVA0dlJnS18ybTlR?oc=5"
       ]
     },
     {
-      "title": "OPPO to Introduce ColorOS 17 in India with the Launch of Find X10 Series",
-      "score": 23.88,
+      "title": "Infinix GT 50 Pro Launch Date in India Confirmed: Check Expected Price Range and Specifications",
+      "score": 21.8,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0dQaWxCcTUwNWJNM2U3bm0yRXc4T0NMZWxndmZSeng4ZkZzTXUwSm0wV3IwaUd1YnZteE0xekxKMWFvbkFBa3dCTHQwS1BsamVGTy1YSXVHUE53cFdsckMxUm5Fd0ZSNVBsRDZWUlgyRm95OEpXclZXMDNNYms2Y3pvMGl4Rng4SDZIY0xNbnhWQ0FtYlZqNi1BNEU3TFMyVVJRcWdmMnpBS3pGQ2tsY9IBvgFBVV95cUxQdVBEbkFPZHlvM3pKV3FJTDZfMFJiNlQ1OGxCYkFZQUtjQk0xNjFvbk9CQkprNEVYNmhKZ3pqVkpfaDd0eDBkODEtUm9sSC1EbnBHQ3dGQjNaUFA0TzV6Ni1GU3V3eVdQZVVETDI2akVudkhyRU5qTXRGRDJzaXUzbjQ0RGdQMmNsQ3hwM1B4Uzd6QzhvY2VGVXlXc3NCekU5NkFuY2c1OXl5RFhsemJ6c1N5YVA0dlJnS18ybTlR?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ042b0pSY0xkZ0hKanBzTzVPOUppQmVDeEJOZWxWZGRubVRoaEVvRk5NYWtUbl9aZXBsTEVJM3AyZ2Y3clpmZUZvbkNjSzVYS1hUdlNiWEFraWtXaXNnTE9VLUtUZlF1TW5JeFc4NWUwbkc0LVFab3YxU1AwSzgyc0VtdDVBbmN0OUxkRzRXZV8wTmsyemQxdlhITFRDcVlWT1dnYVBCbFpDNFhOVDZVZ3lDWXdiQdIBtgFBVV95cUxNZ042b0pSY0xkZ0hKanBzTzVPOUppQmVDeEJOZWxWZGRubVRoaEVvRk5NYWtUbl9aZXBsTEVJM3AyZ2Y3clpmZUZvbkNjSzVYS1hUdlNiWEFraWtXaXNnTE9VLUtUZlF1TW5JeFc4NWUwbkc0LVFab3YxU1AwSzgyc0VtdDVBbmN0OUxkRzRXZV8wTmsyemQxdlhITFRDcVlWT1dnYVBCbFpDNFhOVDZVZ3lDWXdiQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHRmRE82MkRRYW9HMjdpUW9rU1FYamxLZTRoZVNVMnNnOFp4VWdXS1YxMHhiVWUyYWpnWTVBeDZaU0hLOGthTE1iVWVSb3dQdmxydzF1a3BiVHFOMGhhaDF6czU3RW1sTnRqWWFFdUt2T3hwcXBoazN3OGhvT2JLTlRhb1plemFpUExyakxlMVR1b0RwMWdZUjRpcm0zVXNGVlV0OUNB?oc=5"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjRuUkF3NG1jQ3RNVmJfNUF4c0JLWkhGb3ltaWV4SnNIQU5iOU5PZXR2bHlBRWlkMHgxYjZScV9pY1NXMngyQnJrcnVtUXdlOUttcE5HUEtTd184RllNVDNPY3BJQWthU1Y3MmtlWG9HOVNnVGZEQWdqT0czMWtTclFVNzJKVlU3ekF4NjBpbUc1cXV2eElpVjhtckZpc0ZqUFJJRDdyUVB6OHpDbjd5eEFhSkVCQUNmSmJwUU1qOUNyQWFEWEln?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFM1bkpsemRDRHVZX1hxR3EtX3JNeERsdm9CaU1LandLbTNES2t0OFVBbHRWRzU3T2NKOE42UHlYOEJfdkI4UFBIT19vd21OcDgyVHAwRnd0WmNuVDlkeG9naW5zZEJ1R0ZOc01BSzNrekJQWGZ4RWI0YVp4ell5dFBiMk5JN0tMNHNjbC1odkR4NkdjYTVRVWRPNGw4RVhVYmpMR0ZQRFEzM0lPTGNKX2lZM25rLWFrLXJBaVRCakZUYjl2TXExS2dNNNIBywFBVV95cUxNZFM1bkpsemRDRHVZX1hxR3EtX3JNeERsdm9CaU1LandLbTNES2t0OFVBbHRWRzU3T2NKOE42UHlYOEJfdkI4UFBIT19vd21OcDgyVHAwRnd0WmNuVDlkeG9naW5zZEJ1R0ZOc01BSzNrekJQWGZ4RWI0YVp4ell5dFBiMk5JN0tMNHNjbC1odkR4NkdjYTVRVWRPNGw4RVhVYmpMR0ZQRFEzM0lPTGNKX2lZM25rLWFrLXJBaVRCakZUYjl2TXExS2dNNA?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPejV1WDVfMS1OYXNlUjdWQWxPZkFKSGFuM2lGbkFnWmljT1BUZlE5V2p5OW9BSExicC1kU21mZnpoNmJoNWNIQVU1WDBfN19ORTFDN0lXTEd3RlJpTHpyUVBreUE2ZjYzc2ZJTEZFMVhVWFFlTGU4eEo5bUVtZnp4SmZDQ2VILURPRTF4VHlrQjVpbkstOGZNejQtY2xrcXk5ZTEtUWZZUm1sWDlYU0g0QkhxVVFCLWFIT2VtUHVJXzhaOFptN21qRU54SlJlOG4tTFhiY0RZWmcyYUc5c0HSAd4BQVVfeXFMT3o1dVg1XzEtTmFzZVI3VkFsT2ZBSkhhbjNpRm5BZ1ppY09QVGZROVdqeTlvQUhMYnAtZFNtZmZ6aDZiaDVjSEFVNVgwXzdfTkUxQzdJV0xHd0ZSaUx6clFQa3lBNmY2M3NmSUxGRTFYVVhRZUxlOHhKOW1FbWZ6eEpmQ0NlSC1ET0UxeFR5a0I1aW5LLThmTXo0LWNsa3F5OWUxLVFmWVJtbFg5WFNINEJIcVVRQi1hSE9lbVB1SV84WjhabTdtakVOeEpSZThuLUxYYmNEWVpnMmFHOXNB?oc=5"
       ]
     },
     {
-      "title": "Google, AI Slop, and the Future of Bug Bounty Security Programs",
-      "score": 19.46,
+      "title": "iQOO 16 India launch soon, announced at IMC 2026",
+      "score": 21.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHRGRVl2TGtYRWwxeWFfNVZLRld3VU81aWtGZXBhY3ZwWll5bVpMNFRhbE5ka3FYU1ZhZ1RpMU5MWTA0eHhZUFFDaHcxbXRFMjdaM0lHVmRETzFlQUpGaDZFblNCdC16cjNnMko5bWdZdVRfRWlVd2o3X1BOb2ZEUDVYT2xibmx2QkZzNC0ydjJqcjYxSG9ia011Yk51eHo5cXhrSEFXLV8?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHRGRVl2TGtYRWwxeWFfNVZLRld3VU81aWtGZXBhY3ZwWll5bVpMNFRhbE5ka3FYU1ZhZ1RpMU5MWTA0eHhZUFFDaHcxbXRFMjdaM0lHVmRETzFlQUpGaDZFblNCdC16cjNnMko5bWdZdVRfRWlVd2o3X1BOb2ZEUDVYT2xibmx2QkZzNC0ydjJqcjYxSG9ia011Yk51eHo5cXhrSEFXLV8?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHRGRVl2TGtYRWwxeWFfNVZLRld3VU81aWtGZXBhY3ZwWll5bVpMNFRhbE5ka3FYU1ZhZ1RpMU5MWTA0eHhZUFFDaHcxbXRFMjdaM0lHVmRETzFlQUpGaDZFblNCdC16cjNnMko5bWdZdVRfRWlVd2o3X1BOb2ZEUDVYT2xibmx2QkZzNC0ydjJqcjYxSG9ia011Yk51eHo5cXhrSEFXLV8?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWdVLXNOcjJuV1M4eS0zNTVQTG4tWi0wVExsQnFLR2V1MzBGLTBCdGRFSG5MLVBQYk9RNmk2cnVwZGhMS2poWUFKbFdqVl9tUUlFdjZTYng2Q1dsZ2VUZTBqNEd2YnoxSm1IbHJvQTlsbUtjZDJTS2g3dFEtOEtZb1NWb9IBiAFBVV95cUxPMGFGdHpJRGVYcEJKdHQ1TU9Xc3d3amZEWXJrNHlmdkVzMjBhU0oyZjZTVmNDZkMyb0lxUFVGc3RPT3lkMy1VSGg2aTBoZkh1R0h2c3VRdEx5TE44ZWoyLXZMSmJ0N3lMM3puYmNsTlBZTGpUeFVmUWNHY0p0Q0V4ZC1rOWJMbFhi?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemhMMWVVTlRlRDBhVDdCSVFIaGljeXBfUWhyTndKUk1jcVRwemRhcU1mTUlmYUJBODhVNExMYXFldnhXaTBRNHBzcmN5Y3AtbmFpUk5JV2I3Q1hablVnRHdVVWpJSi0xalpTdW83UVFhTGRTRkh0cjljdEdfTktIMTlCQzBObklxaThkS0ltMENrcXBRcDZyYVdNYmMwU0RZU1E2NFYyVDdGZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2ZicE01VmlxZjV1RzNqY0M0TUNZMnVvZ2JWaWZaUW5yd1BYdFQ5ejV3NGpUSGpTbk1pVHd1d0UyNGxfMnVjYksxS2tmdVJ6c3FsWmw5TkZNZGNLVGRuTjhvUDNQc3hTNkRKYTRvbmprLVlBMTVOLURzajdHV0cwQVYyUWlON0dUa1NYMG1DNTZoU1NKU0ozWG9vMENYUkNiV2RuWjRISllMRUNvZDkxYzBGNjBLWmNEbVJRMjFmNmxHNTdSelNXLVM1eEJyaWFsYkpZ?oc=5"
       ]
     },
     {
-      "title": "UPI MDR Charges From October 15? Rollout of Fees on Transactions Above Rs 2,000 May Be Delayed Until January",
-      "score": 19.37,
+      "title": "Amazon shuffles Alexa leadership following high-end tablet release",
+      "score": 21.84,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnZqam92b2tEcU5LcTM5WG5mYWFuUDgzdm1aY0R6azEtNlhWM0dGVkFIcGt4aWdiMmxBREhHdzRkT2JRN0E4X0QzeUF5NmxLSDlBXzJlMEdvWDBkWWZHYmRrVjdvdlkyYnM3MWV6dXdHTEJvalNpYVkyOFl6UG40Q09Oc1RRLW9PSjVkZTllcUtCbVlVZHAxS3dIQTd5XzRxZXhBbFh1bldrYXlKZFo3UklraUd4WWx1NWNMaHhuNUd3a2c?oc=5"
+      ]
+    },
+    {
+      "title": "Margaret Hamilton, whose software sent humans to the moon, dies at 90",
+      "score": 19.72,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZEdvM0FWdjRxOTItREFoakNVMWhLMEZEM0JWR0xBV0dkWnFwdmdlRml6M2tWTk9oZU9vNS1wUndNQmRTR0tvUDRkSWR1d0F5V0dPeExJNGxoM2NqZ19xMjBCV1VLVF8tYUJxUnB1eEVOUkE0U0ZpUDRMbm1md1Y5UllDX0phWE9EMFNpdmdZbGNOZEFLcWx1UzMydXRJZENnVFdZU1VvX2pMUGIyMDZBR3hlMHRpOV9GWHVkZEt5bnZrMG9RZHZlTGNsR1JrMDZjcVVYbW8yN1dQd1E?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0RnOGQ5Um5mdUEtY3lCX2w5TXp2VGhjenJsM2UtYzdFWjU0bU9WaEJac0pVbllLeml4dXJhcGFpSXZha3cwM284a19zMjhPZm51bU5vYXFOU2xkSExSSEQ2bjF4dFF1Z2pXdExYckdGM0c2S2VZVmNIa05ZdWY0WEZ6bUtCbWd6UmhWQWMzVUpCQVF5ZFV1el9sNUxEQUlxanhZcXlR0gGmAUFVX3lxTE5TRGc4ZDlSbmZ1QS1jeUJfbDlNenZUaGN6cmwzZS1jN0VaNTRtT1ZoQlpzSlVuWUt6aXh1cmFwYWlJdmFrdzAzbzhrX3MyOE9mbnVtTm9hcU5TbGRITFJIRDZuMXh0UXVnald0TFhyR0YzRzZLZVlWY0hrTll1ZjRYRnptS0JtZ3pSaFZBYzNVSkJBUXlkVXV6X2w1TERBSXFqeFlxeVE?oc=5"
-      ]
-    },
-    {
-      "title": "Introducing: Baltic Takes its Hermétique to Iceland with The Rift",
-      "score": 19.46,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTZvdEZUZW9uWGU0dHdWZ2pvOWIzVFFGclNZMmNrTVJHQTFDUzNSaGRMT2Rrd3pMbVRSR29zWll4S1lXcTVuR3l2aWpUNE92NnFSMFljelozME9JN0Z2SkFaa1J0RGxZSjFRRmhwNlZOUFlVUGxjZldHSW03RFg4NmRmc0F0aXhwNU0zaEZQUG03R1RDd0dDSC1tNkJDSWdZd0ZnbWliTzBzZU1h?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTZvdEZUZW9uWGU0dHdWZ2pvOWIzVFFGclNZMmNrTVJHQTFDUzNSaGRMT2Rrd3pMbVRSR29zWll4S1lXcTVuR3l2aWpUNE92NnFSMFljelozME9JN0Z2SkFaa1J0RGxZSjFRRmhwNlZOUFlVUGxjZldHSW03RFg4NmRmc0F0aXhwNU0zaEZQUG03R1RDd0dDSC1tNkJDSWdZd0ZnbWliTzBzZU1h?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTZvdEZUZW9uWGU0dHdWZ2pvOWIzVFFGclNZMmNrTVJHQTFDUzNSaGRMT2Rrd3pMbVRSR29zWll4S1lXcTVuR3l2aWpUNE92NnFSMFljelozME9JN0Z2SkFaa1J0RGxZSjFRRmhwNlZOUFlVUGxjZldHSW03RFg4NmRmc0F0aXhwNU0zaEZQUG03R1RDd0dDSC1tNkJDSWdZd0ZnbWliTzBzZU1h?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa20weXhUZXh1aUNtcjg3RE9sQ2trZUtIQVhFVWRLVVFHSHpnN2NNd0dQNVY3SWhYcjdWcmNpVEF0VFZtc2FNQUxZMXpkdDYteXlpSEItOVU3eDNzMmEwQlhRb3NiSWY5Q3I3Y1dKUE5xVm8yYmE2ZVVaZ3NORkZ3a1B2V3JoejMydDlnZFdTSml5TlNJbG91R2EwQkdOT3dZR3c?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2lLT2lvRGhxYWpEOEZlRVVINDR4bGk3UEQtM1U5TDVVWXhrbTZhSTBSTFd4Z3hTLVp1elRDaThTVlRnTmR4YXNfalMxb0FHZUNFTnVrck1MdDdSelJkLXJDN2gwVC1RQm9mMjhPWjA3dFV6NHNabEV2WWdUTmN1ZjBMWmFySFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa20weXhUZXh1aUNtcjg3RE9sQ2trZUtIQVhFVWRLVVFHSHpnN2NNd0dQNVY3SWhYcjdWcmNpVEF0VFZtc2FNQUxZMXpkdDYteXlpSEItOVU3eDNzMmEwQlhRb3NiSWY5Q3I3Y1dKUE5xVm8yYmE2ZVVaZ3NORkZ3a1B2V3JoejMydDlnZFdTSml5TlNJbG91R2EwQkdOT3dZR3c?oc=5"
       ]
     }
   ]
