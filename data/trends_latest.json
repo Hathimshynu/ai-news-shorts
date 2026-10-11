@@ -1,164 +1,152 @@
 {
-  "job_id": "2026-10-10-evening-2102",
-  "chosen": "India Mobile Congress 2026 Concludes 10th Edition with Focus on AI, Robotics and Digital Inclusion",
-  "reason": "India Mobile Congress 2026 highlights the country's major leap into AI, robotics, and next-gen tech integration directly relevant to tech enthusiasts in the region.",
+  "job_id": "2026-10-11-morning-1146",
+  "chosen": "New controls and chat improvements in Copilot for JetBrains",
+  "reason": "GitHub Copilot's latest update brings practical workflow controls and better in-IDE chat directly to JetBrains users, giving developers immediate tools they can use today.",
   "candidates": [
     {
-      "title": "India Mobile Congress 2026 Concludes 10th Edition with Focus on AI, Robotics and Digital Inclusion",
-      "score": 23.88,
+      "title": "New controls and chat improvements in Copilot for JetBrains",
+      "score": 18.15,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3RlNUdqUXhrbjl2aExWOTV4d19QRm1jZ3FUSmxERVdlZVU1U00xTkFVaGpDY1NWQWl1UFUyLWsybXlKak93U3YzUlBWU09JYzhsRUFuTjJGRWdMc1RReU1qc3AwcTFscm5sM2h2UVFKYUlkZUZ3NU5ld1dfSi10aHdVU0FuN05IaXAwZ3JWMk1HTWFvMV9ITU5hNHJZMG14NHFxRkdEeklyY1JsN2FfZHVEMTlUYWFNYnMyQlprQTcwYURnMFgtaVByRzhNQdIB2wFBVV95cUxNc1pDZUhzZGg4NFc4ZE9yYzhqUEd0dTFpczVFUzdMLVNySWxiUWFCYlNuMEh3UVVRYnlTcGZjXzM4bUxmR1g3YU5LOGlCVnNtdjA0Zk5uMHNwWkJEdFZIczItNURNMlhFLXFndlhqc0dzaGVONVVpaFpheWdfRDJxeWtUU0dLYktHanBKbXRqaWo4WGtoekZKS2diNktBclVIQVFmaTRscWpDNjVZUzdHY3hPUDZ0UFZnNHNiWGxLb1FIQVRybElqcFNuY1ZfWU90OHYzN1pzT2gwaTg?oc=5",
-        "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVWxha3lCekRDSVdyWVhFSk4zcE5fLTVhMGwwUV82TlZYWk1EWFJ1U0VxbmNkZEVRa0JPRS1wUTVpUk84cnVPX2dYMFNfcjFNalg1M3N2cmhQbDhrazgwOE1pYUFwbjJET1laZGRVeEV4ekFwM21zUGZ1M2wzSmdTYl9tUjZJdGdhamlCbVhFcVY3X3JwWEVkMVhtZEpNREpSM3ZyelRQZDRHUDFyeDVNVVJNVzQtMHc3aUc5bUVTSG1sX1FiZHFBT2NDdkl2SG9CamtIb2pQaEpRMWF5ZzF3S1NCempSQzBMamtyU2VON0p2MVpDbTFzbFBlMDdMTE9aN1RLY2pNczhNdGZQVmNWUDBtc2VTU1hsd0HSAZ8CQVVfeXFMTXdqWlhDMXdBUm0xRzlQeWQzQzZVT0ZYNFVFLUhUdlZxaGkwUmhxOE1mRWFwaEtId3lScGJlS3RfbmRrYjI0QXVySXp5SFlZQ2ZUZGNmMEhhSlQ1aFJPOWp6RktKcU5UT1ZlLWFOOHlaUDQ3akFvR2QtWEd2Zy1fZHFYcVhTMlhlLVBJRlIxS3FBenNGOHlGdlNuck5MZDFJZFo0NWNVVjZZdi1lNWVDb2puUkVkQk9rbHoxSlh6eUpBT2NKVHRoRmN2clRtS1YzR0FHU3pGOWs4cmlmU3hHWlJDQ3VGbmpSdlVkXzMtajFCLTdMcXNNRDQyeWdkQmdLdlZzYU5LeGFyajFJeF92RHNRNlhVTThqTUtCMWxXWmM?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2UzNTRWcjQtS1BLUUlGRktMNUl4aHFqSkJGMWR2cFVudWI0bWN0YkN3cnBIeTNsSkp5anpFMXlLYkt6NEZ2d2F0YWVGai1RZU9WSmE1cVJiSVlJYUoxenI2d1VhMW5QT2hjaVM1QXRmUkRFZWoyRkwxQ3dLWEVSd3FkMXdESmZKdldhQTltdndaMXl2c1dKelZfd2FKdw?oc=5"
+        "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains"
       ]
     },
     {
-      "title": "Poor Data Quality Leaks 4-7% Of India’s Welfare Budget, Puts AI Push At Risk: TBI Report",
-      "score": 19.24,
+      "title": "Nvidia in talks to deepen investment in or acquire AI startup Reflection",
+      "score": 36.28,
       "kinds": [
-        "backlog",
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVPTzAtZkFwS3dEZDE5Q0pkRDkzczRBVl9GRGpMUmRoTmNwcFRGNlBJaUMzbDF0TUNXakNYR2pxdS1NUV80dHNxWmI2NWlvcUU5dVdfUHpnNTlCaElwOUhwOWZ2aTZLUlJwcDZLenFld2djdk4wYUVLVzlGcTlRUUtwLUNySFFkd19qVlVJUy00RzZ0MFQ0NjVxZHUzZ2xxeUxvX2RGV0lhZjFJS0x2ZDdZeUJ2T1EtenlMWHln?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTVPTzAtZkFwS3dEZDE5Q0pkRDkzczRBVl9GRGpMUmRoTmNwcFRGNlBJaUMzbDF0TUNXakNYR2pxdS1NUV80dHNxWmI2NWlvcUU5dVdfUHpnNTlCaElwOUhwOWZ2aTZLUlJwcDZLenFld2djdk4wYUVLVzlGcTlRUUtwLUNySFFkd19qVlVJUy00RzZ0MFQ0NjVxZHUzZ2xxeUxvX2RGV0lhZjFJS0x2ZDdZeUJ2T1EtenlMWHln?oc=5"
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlNOSmJKTWItVjRwa0FESWlkVVJiRHdWdVEyYjJTd3lrODJTamJzRFducFVhcC15TG11d1h3RVprcTZLT0N4MS1UMnRGWGdWSFN3TzZkYzRkcDVkZ1ZfWDNWSmZwR2pTNU5mYzNZdllKM0Q4Vzhqa1k5bFdveDVKaFVnQXJSTVlTaFdLLXNROWNqclVlSXZRaVhKZ3lfQ2pVOVR4azNqTlpVRjhIdC0ycXJGdkxsUW9BWlA3WVdNRDdyb0EwbkhRVlc5dmdTV3czM1Jr0gHYAUFVX3lxTE1XYmxKbmJ2STQ1Y3pKdFIzVWZrQTYxOWFGSS05czE4S2c3dTZYZ3NGNmpVTnRGek5FTFdiT1NmMkxNY3lucnZ6UmdMbGhaSnJNektzOFNKZ0JpZGNfdU5kNjROR2l0UkdRdFRNTXQtMmR5VFAyaTNzcC1KZWlDSTFtT19jTE1IdzEyN19ldTU0ZXNERHZVQk9JMlFmSjA3d3l2dmFlVmV0UnRkU2ZjNERYMWFRX0tubTIyYlNRSURyRGcxblNoc3JUWXR6dWRqS3BOY0JEZE1FSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnA2ZEJ4Z3ItVTVqOWJtNXRGby1tUVBBNzByOVFXUzRYWEFLMkdlQW1ZcDhfenhxSG5sTkNDZVRDRVBIc0lxNE15NFhQYkt5aTllNFJ6Vkhjb2ZwM3p1OFJrdHhrVnBENVJWWVMtTU1tdV9GVHd2YmZJX3BLZFZySDNCS2lITWpaQUQ3VVZnczVYTWQwOEc3eE5EbFBWdUZqMVdKbHh5SFZkbVU4elFRNWttMFBsMmFLa3JHZU9MQkRHMHZzUXg1a2NaNGxjUjZYeU42eUNDSjZfQ1QxczU40gHfAUFVX3lxTE42cDZkQnhnci1VNWo5Ym01dEZvLW1RUEE3MHI5UVdTNFhYQUsyR2VBbVlwOF96eHFIbmxOQ0NlVENFUEhzSXE0TXk0WFBiS3lpOWU0UnpWSGNvZnAzenU4Umt0eGtWcEQ1UlZZUy1NTW11X0ZUd3ZiZklfcEtkVnJIM0JLaUhNalpBRDdVVmdzNVhNZDA4Rzd4TkRsUFZ1RmoxV0pseHlIVmRtVTh6UVE1a20wUGwyYUtrckdlT0xCREcwdnNReDVrY1o0bGNSNlh5TjZ5Q0NKNl9DVDFzNTg?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5"
       ]
     },
     {
-      "title": "India entering tech transformation era with AI advances: AEC chief",
-      "score": 19.04,
+      "title": "India’s $200 billion chip ambition: Can it become a tech powerhouse?",
+      "score": 17.69,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRrak4zVGZJQmQ1R1VZbGNQQ1hCSVJIUXVXdlppdnBjdW9QYWN6ZEF1bzNDMDJ3QTk4NzJvWGtnMWNRMVk3Vzd0Q2FkRFlraFZHTkZxNjNiR09Rd29uSHhPNnZhT1pHUTlfVHFZU0Q0d2pkLWRUX2E2WWRvQmxJX0JCUldzRHBMbnh3TEJiMWR3N3ZzODBVTklFM1FIQ2hOcFNpZFhfc0V0NmpLaEtRb0k3a25ON2R6R3ZLa09PNjlBVnZudl9oVzVPTFlYSmhJcFBJQVJPdVdQd3VLaUZ0NzRLQ0RjcDBCZ1HSAe8BQVVfeXFMUFN5a05KU3hMNWFROXpFWHJnSTc5MmtSakZ3UUoxd0hsRVpnR2dMRDJlWXNBb3BFT0R6eDdyUGg1aFpmQUZZUTdndmFEaWNMR09DR2lVQnc5Qy1UN1Y5cHNDM3BrZWNWZlVJV2NBOUFzNm4wR1dBb2tPVWJzbUZmWFU3eXNlZmRCU1pEejFDS0Z0anJFeWFGRWVxMDNydkdFbkx3c2I4SEZwbEFvcF84WlEtVDg3X2l1TGFZVW9UbkUzWFMtZWFDVWRNWnIyMnN2UlBwNzlVWmJxVTJieE16dzlMN3B2aFBWMnp6TDB0TXc?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0NnLWhHNUJLRHVHR1hUS1pXOGh4T3RQSEFHTTdDX3dONlBPNVpnMEhZMHByQnF5TEh2dFhDekp6ODRCLUVIM2lqdHlsTVA5T0p5YktuVW5fU0hIUXE2NmIyX2NVLXJhUFpKVV9feno5X2lIUmVWM3RrZ2dvUXAzbzd6V0JVSEJiTS13MF9ueENPa2VFMU9sa1RQYmgxU0Vqei1MVW56RFN0QVpqQzZ1NDN5WDBqSnVCbUNXRW1RcUs0QWhkemwyRXFDU2h0RFg2NGRr0gHTAUFVX3lxTE9PQ2ctaEc1QktEdUdHWFRLWlc4aHhPdFBIQUdNN0Nfd042UE81WmcwSFkwcHJCcXlMSHZ0WEN6Sno4NEItRUgzaWp0eWxNUDlPSnliS25Vbl9TSEhRcTY2YjJfY1UtcmFQWkpVX196ejlfaUhSZVYzdGtnZ29RcDNvN3pXQlVIQmJNLXcwX254Q09rZUUxT2xrVFBiaDFTRWp6LUxVbnpEU3RBWmpDNnU0M3lYMGpKdUJtQ1dFbVFxSzRBaGR6bDJFcUNTaHREWDY0ZGs?oc=5"
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRG1ZcDBQZVFNelpSQWZpV01vaGJNYUF1bVBqVHJpamlNN3BFOFBTbUF0Wk9jRzZkZGxlSkQ3b3RoajM1V2hiNUxNOTNUSUJfMUxKSkFzNEdXcEtwX2J3V2ZzdWptVmFXS1NZV0UzY1lhZlZxazdmcTd1Rzh5dnJzWDdESkJhejRNZ2NqQkxjQ1B3ekpZbmhKWW1QeVNERXVJUVFDNDhzYTlVT01rekRqWE51c2_SAcoBQVVfeXFMTXZEUVdkMXMxcFd1SVZSOFVNc0lyNE0yam9xRFR0S1NnTW1GdjRicVRnX2NBVDdlQ2lzRlBBMlFaLWp6dnZyeGdSamszNkY3d0NNendOYWN1ZEt2dnRSQzdWYXIzN0thUkV5Z1Atd2ZYMHdRYjVMRUtrdzJ6a1NRTHBLazUzbFlFbERiSWNBRmtsT1JLZWtRYW4xU3FnS3cyTmR5SkIwUjFOcVFWOXBxN0FyNlpjcjB0ajVITTRGWUlvVEtSX3cxM0tLUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Google’s $15 billion AI data centre in India faces local resistance",
+      "score": 19.59,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzc3WEtKbXZjZnNzX0RMaUh1SkVYRGNWV0c3ZjJrVFZwaWlxQUt4ckNfUU1wU3JtcEg2c0pRVUw1c21VWFNKQmNhY2gwY1lDWVVueW9CMXhyaC0tenlVS1gxZlJvaW1kZDdqZms1SzkwM0R2VHdWcDVOQ29SeGJHQlNpUm10QlN4TnE3amJSd3R0YTJ2S29jMW8xY2NBbGNRNWwtU3lLLTJHUmRpbF9iVXlIUWp0QdIBywFBVV95cUxPdWx1ZTVET3F0RDM5NjZUQ3d2bXk0YVpJRnNhanpvdExMTVBoQlFQd2NaSmhZM0I2dlFjaEhUWWxCU3hKSUs2amxWX2x2M29CWlZrV0pvdkdJX3JuQkp4S1VsQ2lkQkdZUnppdHlyMlVpSVZqRllzVThtTVE0dGVENE9zUHdkRjFGV1hvbGZiem1pdjV4MURqTDdfMTlrSjZobGM2SE95MDRLR2swekdjWlYxaDhBdjg1aGQ3ZmZXaFlfZWdicHhPc3BqMA?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzc3WEtKbXZjZnNzX0RMaUh1SkVYRGNWV0c3ZjJrVFZwaWlxQUt4ckNfUU1wU3JtcEg2c0pRVUw1c21VWFNKQmNhY2gwY1lDWVVueW9CMXhyaC0tenlVS1gxZlJvaW1kZDdqZms1SzkwM0R2VHdWcDVOQ29SeGJHQlNpUm10QlN4TnE3amJSd3R0YTJ2S29jMW8xY2NBbGNRNWwtU3lLLTJHUmRpbF9iVXlIUWp0QdIBywFBVV95cUxPdWx1ZTVET3F0RDM5NjZUQ3d2bXk0YVpJRnNhanpvdExMTVBoQlFQd2NaSmhZM0I2dlFjaEhUWWxCU3hKSUs2amxWX2x2M29CWlZrV0pvdkdJX3JuQkp4S1VsQ2lkQkdZUnppdHlyMlVpSVZqRllzVThtTVE0dGVENE9zUHdkRjFGV1hvbGZiem1pdjV4MURqTDdfMTlrSjZobGM2SE95MDRLR2swekdjWlYxaDhBdjg1aGQ3ZmZXaFlfZWdicHhPc3BqMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wdVFucGtwdEFwb2tpS2I4U1p2a3dLM2VmSVlBNGY3M2xUeHBmaG92a0xoS3BySi0wOW1DUkFJTTFTS3JqTHhOaDcxdU1idDl1a1ptVlJRX0JMdw?oc=5"
       ]
     },
     {
       "title": "iQOO 16 confirmed for India, to feature Snapdragon 8 Elite Extreme Gen 6 chip",
-      "score": 20.99,
+      "score": 19.31,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEw1cE0wZ1dtM01EWnJOekc5WWZOV3FEWktkdU9HVC14LXVPUUpHMnd3UkpCdEl3cV9Nd2g3djZCRVJvQlNVRWV2NDRQUGRZNW1UX0ozWnllSkt3X2ZubFhYc2NwRFBadGFfSWpFOFpvbm05SzlLbm1TX1lyd0tSOWU5eVlJVllLVUdlMUdpOUdPWnBicDdmQXJjWUhaeWxyVVBSUmYyZEI4UjZ3RHlTemwyVi1HZTcwSE9CbEpuZHRHck3SAcgBQVVfeXFMUFlRYnhaNnY4SWFEVi1CSTQza1V3U3FiZG45dWwtRlB3T2YxMWNPbFVKMlN0QjkxQ1h4LWg1SWs4ZHRpRDFldHFobkV0dTF0Tm5rZDJoLXFlYzg1dHpXODFDdXcwc1BWcmhzM2k2X21LZjNWS2VLemo5dDNpQUVOME14RkFXbmpWNUVOYXBVRUphaEZDUnkyUS1OczhZYlV4dkNqdVVtbUJ6aERVNDh4VXpCWDA1U29qV2piQjFXQTZGWGVWWFR6eGY?oc=5",
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWVFieFo2djhJYURWLUJJNDNrVXdTcWJkbjl1bC1GUHdPZjExY09sVUoyU3RCOTFDWHgtaDVJazhkdGlEMWV0cWhuRXR1MXRObmtkMmgtcWVjODV0elc4MUN1dzBzUFZyaHMzaTZfbUtmM1ZLZUt6ajl0M2lBRU4wTXhGQVdualY1RU5hcFVFSmFoRkNSeTJRLU5zOFliVXh2Q2p1VW1tQnpoRFU0OHhVekJYMDVTb2pXamJCMVdBNkZYZVZYVHp4ZtIByAFBVV95cUxQWVFieFo2djhJYURWLUJJNDNrVXdTcWJkbjl1bC1GUHdPZjExY09sVUoyU3RCOTFDWHgtaDVJazhkdGlEMWV0cWhuRXR1MXRObmtkMmgtcWVjODV0elc4MUN1dzBzUFZyaHMzaTZfbUtmM1ZLZUt6ajl0M2lBRU4wTXhGQVdualY1RU5hcFVFSmFoRkNSeTJRLU5zOFliVXh2Q2p1VW1tQnpoRFU0OHhVekJYMDVTb2pXamJCMVdBNkZYZVZYVHp4Zg?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE9tNGZIUVVVS0NfeFcxMmZKRDdfdkNpdDZUYzctM3d2dGVNTFBWZi1wRDdpNHdPOEM4cWo3aEFfV1J1SGE4OVd1TTRScVVITTlBWjc3c1NoUm1mdjU5S3NnMngweUtJT1FxZU5HOW92UGl3QU5NSFVXSzB6b29CUFR3dXZrNkxaN3RkV2RPeFNrTnN3OTNxMDhWMEJqUDZvNmhUcERfTQ?oc=5",
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkxsbWtSQURHM2xHUC0zLVJ2OG1kOE10UVRsaDV4TDZzQmo3YmQ0ekoyU2J1YUhUNjZsckhYVTQybHRDeTBDdzJXbm5WSHFuV2p1cldnV2J6RjdCS3RLMElBR3dxYUZfVGVoQTVzX2NodG5oNjVkd3J3ZnV6ZzlWVWdhODhEWndjalRNYTc1S0RQcW15Mk5yb0lMTDNSQVd2Nm1RRkFzeTRGTjRfWUZmYUtSY1hCSERDZDVXbDNHVQ?oc=5"
       ]
     },
     {
-      "title": "Xiaomi 18 Pro India Launch Confirmed: Dual Displays, Snapdragon 8 Elite Extreme Gen 6",
-      "score": 19.0,
+      "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+      "score": 17.93,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHVFcmt6MlctcEEwUlI0dGc4amJYaWJRVzVnM2xPQ1d6d0pGdXpPYnlpUlNHaGFmU1RsOEpWUmRDc1F4RWU5eTd1UmNfNUF0dWF3blpJbk1qZ0drbnd3YllqUERaS3VWZVcwMV9uVnNkWWtVOTJjaEpQTHduX29hTWxvaF9PWmV3NXJCZml3ZWVpaENxdllYMjlnTzY4ZTk1dm1OYjhkbkszenRsb0ZGTkVyZ1U1S25tYV9kV3dLTU4zSGNORXlMX2M4UlJnTjl2bHfSAdIBQVVfeXFMTzR1RXJrejJXLXBBMFJSNHRnOGpiWGliUVc1ZzNsT0NXendKRnV6T2J5aVJTR2hhZlNUbDhKVlJkQ3NReEVlOXk3dVJjXzVBdHVhd25aSW5NamdHa253d2JZalBEWkt1VmVXMDFfblZzZFlrVTkyY2hKUEx3bl9vYU1sb2hfT1pldzVyQmZpd2VlaWhDcXZZWDI5Z082OGU5NXZtTmI4ZG5LM3p0bG9GRk5FcmdVNUtubWFfZFd3S01OM0hjTkV5TF9jOFJSZ045dmx3?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHZNZFR2Zzg4Z1Q1dFVQNXJmVjF0bHRROFlSLXd6SDBOYnp1Mjc4UHRzelRCNmtvN2hCZndSQ2t6YXc3SlNGSzd4T01Ebm1EQ1c1elVtQ0ZQWmhSZXhvdUk0ZnI1YlJKT2FucERNZktVeG9haTJUYzhCNTkzOEZ5YjZDSF9HQjBl?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXBKUFdHQWFxY0lRWGhkSENFQ09VMHVJYV80TE03amdCY0pEZ1NzZ3lpdG82NklLT0haeWVPZlFfenhGalplazZ4bjcwUXM3dVFYemtVTXVUVUFsR0tkeUVBbTZpQ0NKQmprNG0yWmdTUWZHYi1aX19uWGRkUllpZVVXWEVNOW9xTnF4bWxoREI5RE9ESDQtSXZiYV9TYU95a1Q4Xzl2b2ZsTzM3?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXBKUFdHQWFxY0lRWGhkSENFQ09VMHVJYV80TE03amdCY0pEZ1NzZ3lpdG82NklLT0haeWVPZlFfenhGalplazZ4bjcwUXM3dVFYemtVTXVUVUFsR0tkeUVBbTZpQ0NKQmprNG0yWmdTUWZHYi1aX19uWGRkUllpZVVXWEVNOW9xTnF4bWxoREI5RE9ESDQtSXZiYV9TYU95a1Q4Xzl2b2ZsTzM3?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXBKUFdHQWFxY0lRWGhkSENFQ09VMHVJYV80TE03amdCY0pEZ1NzZ3lpdG82NklLT0haeWVPZlFfenhGalplazZ4bjcwUXM3dVFYemtVTXVUVUFsR0tkeUVBbTZpQ0NKQmprNG0yWmdTUWZHYi1aX19uWGRkUllpZVVXWEVNOW9xTnF4bWxoREI5RE9ESDQtSXZiYV9TYU95a1Q4Xzl2b2ZsTzM3?oc=5"
       ]
     },
     {
-      "title": "Oppo ColorOS 17 with Oppo Find X10 India Launch Confirmed",
-      "score": 20.6,
+      "title": "Vivo Y600S Pro 5G With Dimensity 7300e: India Launch Soon?",
+      "score": 17.73,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXk2dE9LcGlkMzByczZsdTZYWmNRaTV6T3hVYk9tQUp3RUdkc25IUFBDbnVrQUY3OFI2WmlEa0xzelJZd0hRaTBCVFBqeV9Uem9IMTBkM0ZqcTdvYm5JMFB3cGlhUmhPMEptYjlUSzVXUHpZZDJacDk0SEZPaE1XNVFfUmM5VTIydVdaX0d0RUs?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2JuTmN1VThiT3d6a3ZhOG1MX2VKWmk4RTRHTmx3T2d5VHdHQVdHX0N0b2FzNGhfbWVWQjd0a3RIMTJCaXFYemFad2NXbnZ5TnJHRWF5UDcxVWpWS0ZkM2dsUWw3OHRtMThxWUVSdk84N0U1T2hWeEFRTmdSdnlDUG1zUHhIYzV0Z1ZTbTVzQWgzcVJ0N1lTYWNjRGNYdFlBSWxvaVV4ODdwZzNadjR2TjFITFBWSE1QTzNULUpJNmZTb25YZkpyZTY0R3ZxbUNCNDA3YXAtNUk2M1XSAeABQVVfeXFMUEp6TkRmMWN3VDBCTWx1cEpDaEkyM2Znb0tZRE1UR1VNRnF4OWVrMnU0ZEp0MWdFYi04NzduWnBHdmhINXFyYjRFem45U1YzSENpVVJZaG91SVBJbWplV1oxaldzZGxKT1c2ZzQ5RkxXN0VCVmpHeFNhQ2VBN2lFSEcwRWZabGczaWljUy1HVzUyNlhxaGpXdWlxWEp6M1hyMWF6b2FCaDJ3cm43bzRGakFyZnZCdC04WS02Zk5XdmxSNGxKbkNpTmJRWjZtXzFDQjJMQWpCMFdaTnRlVzNoS1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXk2dE9LcGlkMzByczZsdTZYWmNRaTV6T3hVYk9tQUp3RUdkc25IUFBDbnVrQUY3OFI2WmlEa0xzelJZd0hRaTBCVFBqeV9Uem9IMTBkM0ZqcTdvYm5JMFB3cGlhUmhPMEptYjlUSzVXUHpZZDJacDk0SEZPaE1XNVFfUmM5VTIydVdaX0d0RUs?oc=5"
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZzNGbU9vMHYzZk44QUtVb0tMWW9LbTVzYk9LX21nZ2dqLTZFcXpkQlc1Z203Y0NSclUzcmV4SEtnWlBEZS0tTnZIUEwwQ25zRXd2NlRlWjVkMGNqeFJHZEZHeVE4a25mYnphOF9MczktdlVtczBGTUJMNkhDaGd3ZkZFeWFra1pkcUhLQWxFUQ?oc=5"
       ]
     },
     {
-      "title": "iQOO 16 India Launch Confirmed, Motorola Signature 27 Showcased at IMC 2026",
-      "score": 19.36,
+      "title": "Nanotechnology expert Antonio Facchetti joins HKUST from Georgia Tech",
+      "score": 19.43,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEVuVkhnZTBfVnVXSVExZ2x5RFlrUjFSQzB0S3Izbk90VlFhdnRMcmVhNWdET0NRVnVXYThsb3VpRmpZZkhSejNHcUpBX3MzZk9sZjhaMkZGTFRQSEFfVEtOQ0YxLUFoUDZWY1F1ZVh6U0d2dWppd3ZGSWdWT29aYm01YlR1bHVNYVNtTzl3cmJSRzF1MmpDdTB0Zm5KZzhTQkVUNnBnSVIxdko5N3BkY1haZ053RlVNZmIxSEsydGzSAcYBQVVfeXFMTmFwXzk0RTYwak5taldrbUMySzBoYWpnMnQ3Z256T2RySS05aVJzTTNrREt5M1MydTVKV0w4TFk1R1ZYSVpVRWVObjZFYkJmZVQ5TkhwbjhkYXM4YnhUWmpyQk1KQWZfVUZVMko1MlRUdDBPS0FKVkM1dmNadDNTTlFyQzZIVEhyUEJzS2M0RW5Ea2c1M3dhbHhRcnRMMkpIZGMxVHR6eGJDLWtWOHJWUFdrSGFra0NRTzF5MDJna1FYT2d0U3BB?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2ZicE01VmlxZjV1RzNqY0M0TUNZMnVvZ2JWaWZaUW5yd1BYdFQ5ejV3NGpUSGpTbk1pVHd1d0UyNGxfMnVjYksxS2tmdVJ6c3FsWmw5TkZNZGNLVGRuTjhvUDNQc3hTNkRKYTRvbmprLVlBMTVOLURzajdHV0cwQVYyUWlON0dUa1NYMG1DNTZoU1NKU0ozWG9vMENYUkNiV2RuWjRISllMRUNvZDkxYzBGNjBLWmNEbVJRMjFmNmxHNTdSelNXLVM1eEJyaWFsYkpZ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEVuVkhnZTBfVnVXSVExZ2x5RFlrUjFSQzB0S3Izbk90VlFhdnRMcmVhNWdET0NRVnVXYThsb3VpRmpZZkhSejNHcUpBX3MzZk9sZjhaMkZGTFRQSEFfVEtOQ0YxLUFoUDZWY1F1ZVh6U0d2dWppd3ZGSWdWT29aYm01YlR1bHVNYVNtTzl3cmJSRzF1MmpDdTB0Zm5KZzhTQkVUNnBnSVIxdko5N3BkY1haZ053RlVNZmIxSEsydGzSAcYBQVVfeXFMTmFwXzk0RTYwak5taldrbUMySzBoYWpnMnQ3Z256T2RySS05aVJzTTNrREt5M1MydTVKV0w4TFk1R1ZYSVpVRWVObjZFYkJmZVQ5TkhwbjhkYXM4YnhUWmpyQk1KQWZfVUZVMko1MlRUdDBPS0FKVkM1dmNadDNTTlFyQzZIVEhyUEJzS2M0RW5Ea2c1M3dhbHhRcnRMMkpIZGMxVHR6eGJDLWtWOHJWUFdrSGFra0NRTzF5MDJna1FYT2d0U3BB?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSUW9yZktxWWN6dGlGUkZ3aHVTQ1hSbzFvUjIxZnkwc3lwc3VtbzFUS2J1OEtzQ04xR2xRQTJ1SEJINFJVYWJCYmJFX19EZHNGbEZBQzJPaFhleU5IWGdNNTFZSHRncDNnSEtCc2tGYjh3ZnYyeXk4aFc3emxaVFpObXZqdzNmc3VNWEdoNlM3SUMyVFVkN1lJV0dJWVE1dVQ2NkJONURpNHZ5TTVTS2I2V2NfWWpEbXgyejdURzfSAcABQVVfeXFMT0U4YmR2cHhXTXE3ajl1ODNHMF9pWVRnd192MFhhLU1TMTZGUGVvYTB0STNfU1RDVDB6M25ydzlIN01iRUtJdHZGZjFsd3YzUVp0SVdvSGZiSWlsdU9ZYjR2RU40a1l5MzlpV1JiaGZSVEttandfN1ljbFlZLVRZTUpQdWFudTh1YkxiR3pFSFQ3RGxUblZkLTNBREZJY0wtZmo0YVprQzloNTRrVEVZamhOdkhYejhBSlpTdkFkT3lW?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSUW9yZktxWWN6dGlGUkZ3aHVTQ1hSbzFvUjIxZnkwc3lwc3VtbzFUS2J1OEtzQ04xR2xRQTJ1SEJINFJVYWJCYmJFX19EZHNGbEZBQzJPaFhleU5IWGdNNTFZSHRncDNnSEtCc2tGYjh3ZnYyeXk4aFc3emxaVFpObXZqdzNmc3VNWEdoNlM3SUMyVFVkN1lJV0dJWVE1dVQ2NkJONURpNHZ5TTVTS2I2V2NfWWpEbXgyejdURzfSAcABQVVfeXFMT0U4YmR2cHhXTXE3ajl1ODNHMF9pWVRnd192MFhhLU1TMTZGUGVvYTB0STNfU1RDVDB6M25ydzlIN01iRUtJdHZGZjFsd3YzUVp0SVdvSGZiSWlsdU9ZYjR2RU40a1l5MzlpV1JiaGZSVEttandfN1ljbFlZLVRZTUpQdWFudTh1YkxiR3pFSFQ3RGxUblZkLTNBREZJY0wtZmo0YVprQzloNTRrVEVZamhOdkhYejhBSlpTdkFkT3lW?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSUW9yZktxWWN6dGlGUkZ3aHVTQ1hSbzFvUjIxZnkwc3lwc3VtbzFUS2J1OEtzQ04xR2xRQTJ1SEJINFJVYWJCYmJFX19EZHNGbEZBQzJPaFhleU5IWGdNNTFZSHRncDNnSEtCc2tGYjh3ZnYyeXk4aFc3emxaVFpObXZqdzNmc3VNWEdoNlM3SUMyVFVkN1lJV0dJWVE1dVQ2NkJONURpNHZ5TTVTS2I2V2NfWWpEbXgyejdURzfSAcABQVVfeXFMT0U4YmR2cHhXTXE3ajl1ODNHMF9pWVRnd192MFhhLU1TMTZGUGVvYTB0STNfU1RDVDB6M25ydzlIN01iRUtJdHZGZjFsd3YzUVp0SVdvSGZiSWlsdU9ZYjR2RU40a1l5MzlpV1JiaGZSVEttandfN1ljbFlZLVRZTUpQdWFudTh1YkxiR3pFSFQ3RGxUblZkLTNBREZJY0wtZmo0YVprQzloNTRrVEVZamhOdkhYejhBSlpTdkFkT3lW?oc=5"
       ]
     },
     {
-      "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on - GSMArena.com news",
-      "score": 21.24,
+      "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 11 th October",
+      "score": 17.49,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfV9IBrAFBVV95cUxQYkRkdnA3cWxqUHhrbVdvdERXWDVVUXU0SEUxTURzWWRuRlJRQTRSV3hIaXFtdFlJeUhsZmlrOUdzRkdjVlNLaWw2LTlmdGp4WGhrTFlXLTRaQlNaSTFoSjQxMDExNm1yanFXTDd0OWx4UGxpTDJaLVI3SGxxb1NTVUlucjA2dXZCQks0OWNBdEVNM2xKZDJqZUszTHpZV1dpOUo0eXVDZmM3bU9J?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfV9IBrAFBVV95cUxQYkRkdnA3cWxqUHhrbVdvdERXWDVVUXU0SEUxTURzWWRuRlJRQTRSV3hIaXFtdFlJeUhsZmlrOUdzRkdjVlNLaWw2LTlmdGp4WGhrTFlXLTRaQlNaSTFoSjQxMDExNm1yanFXTDd0OWx4UGxpTDJaLVI3SGxxb1NTVUlucjA2dXZCQks0OWNBdEVNM2xKZDJqZUszTHpZV1dpOUo0eXVDZmM3bU9J?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc29aTmswYm0ybFBXZC0yRkZNU1loT3BmZmFGUDBDUjJ6STd5T1Zlb3JlN1l3NmgtWVZZRm5JZEd3VnQyWHRxcjhvRnJWWGxUb1RPZ2lCNkdnOTg2OTB3UEZmVWtqNWxGdFFsUTVWRElMeVNBdnlLWU5Yb0tEb3JfV0dsejVIYTV0TUJLQzRRNmVMWUEwa2prNzBqRGtKZGNyci1DanJReGlvU3dDRmdfV9IBrAFBVV95cUxQYkRkdnA3cWxqUHhrbVdvdERXWDVVUXU0SEUxTURzWWRuRlJRQTRSV3hIaXFtdFlJeUhsZmlrOUdzRkdjVlNLaWw2LTlmdGp4WGhrTFlXLTRaQlNaSTFoSjQxMDExNm1yanFXTDd0OWx4UGxpTDJaLVI3SGxxb1NTVUlucjA2dXZCQks0OWNBdEVNM2xKZDJqZUszTHpZV1dpOUo0eXVDZmM3bU9J?oc=5"
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3lhTndKYjRoS3lzcGpxVlR0eXdqZkZfQkVFdC12T3dSZUdGR3F0cndLcGRIeVpYQlRGUTZFdnI4WE9KS1NIVXJlWl9WOXBZZHhSbW9lX3BLNFpVdGRLTkkyeXFfSTdzUmtMYk55XzJuOWRtTGJMczQxNnM5NmhnYlV3?oc=5"
       ]
     },
     {
-      "title": "Infinix GT 50 Pro India launch date revealed; gaming smartphone to be available on Flipkart",
-      "score": 19.2,
+      "title": "Invesco India Nifty Chemical Index Fund - Direct Plan Fund info",
+      "score": 17.61,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzRxRmEwRUxaVUpHMDlQZi1tOUhuN2lvTG1UUHRFY214czhCdWRFU1pTYlVZWGdWVEpCUUI3UFZ6UTdCZ2lPZEJFNGdqX2lIZkZ3Uk1OSlBoaDFQUmNNUEw2UERkOGJjQmhieFAxUHZfTUE1d19haXZ4N0RZaVZkZ1hIZWdVak45RmVWV9IBkgFBVV95cUxNUS03aU5kTnhtSlpfYjk1blZkOTNFTy1rOWxqNDV0cmNqZzF5WGk2bEI1bGRyZkgzTUNLek1lXzRiMFhMczYxOVVpVkJNVkRCUWZZZkpMTFc2SjRzNkZMVC1lUVhRTXlYblNBcVRWazQxcGwzT3ZpRjRoVjJFaVRhdEZoYUhwNlN6UDFUMFJGTXRYdw?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGdLMmtjRWJSbzN1LTZxX1ZTTjRBS2IzQ2g5VFV6dW11LUZRZldHaXQ1TXhLUnRHeG03NUhpcV9hM3ZWREZMbHg0SUxLMHZPTHZwSnRILThpUExkYXJBNGVTRGs4QzBPRTR3VnREVnpmUFVuLS1ua0VpUDVrOC1aM3diUUg?oc=5"
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUpGTTNZZHpFdHE2Q09IaW5fbzdwakZFYUN0WTUyaTJIY2lyMzNiZVQ3bnlZQzZZV1FRYWM1SUVuUERzR3JBajVPT3gtWmNVMjVqLTU0MjV0Y2JITWZKY05SbDh0UUtudjdpSFMyVkZtR3JxcWE3VVJSbE5XemVhQnp3S0xWR1JkUWhTM3kzSlVmOC1WbEMxMURRdHFpOWc4X051eU9QR1A3VENNSVJoY1hvMlZsQQ?oc=5"
       ]
     },
     {
-      "title": "NVIDIA Reportedly Ending the RTX 5090, Reserves GB202 Silicon for Workstation GPUs",
-      "score": 21.02,
+      "title": "CJP's Abhijeet Dipke, 2 others detained on Air India plane: What we know of aviation and security rules | HT Explainers",
+      "score": 17.47,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFFOWUwxeWx5d0oxZnVjVEJhSy0wZ0JkWnN1SldpdlNPYUpBNHhFOU5OOFFockJNZU1fb0xMNVNOV2tuX3g1NzktTHhZakxYa3c0WG54Z3Z0cFkxVnVtS1pDdGNpWXBiU0RfaDRTVmNSOS0yOU5KQms2NldHLTJoOTh2X0VtbmtqbjhoMXg1YW5PeG04ejNLU0d6Zmt6ODRUZTMzeUM3blBFZ1Qzd0prRWxVclF1bWvSAbwBQVVfeXFMT3hDcjVITzBRUFhGalJncURuSWY1ckh2QWZodHhycE83cTVtT0RoMW1mdzBiSmRfT001bjRteHFxUWlCSFNJbWJUNGZJbTM4TTN5eFFOd1E3X2NMT3ZrRzNBSTVvR1lOQUd2clF0M0FNZWtEM3puQUlIbEhXTnJHREMwX3BOdWo5eVhFaGloYUNzZkZGUzVuYXRsMmpyT1NkQW01cVZwR0otVHViYkJuUkZxWDExX053OGNRVDA?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFFOWUwxeWx5d0oxZnVjVEJhSy0wZ0JkWnN1SldpdlNPYUpBNHhFOU5OOFFockJNZU1fb0xMNVNOV2tuX3g1NzktTHhZakxYa3c0WG54Z3Z0cFkxVnVtS1pDdGNpWXBiU0RfaDRTVmNSOS0yOU5KQms2NldHLTJoOTh2X0VtbmtqbjhoMXg1YW5PeG04ejNLU0d6Zmt6ODRUZTMzeUM3blBFZ1Qzd0prRWxVclF1bWvSAbwBQVVfeXFMT3hDcjVITzBRUFhGalJncURuSWY1ckh2QWZodHhycE83cTVtT0RoMW1mdzBiSmRfT001bjRteHFxUWlCSFNJbWJUNGZJbTM4TTN5eFFOd1E3X2NMT3ZrRzNBSTVvR1lOQUd2clF0M0FNZWtEM3puQUlIbEhXTnJHREMwX3BOdWo5eVhFaGloYUNzZkZGUzVuYXRsMmpyT1NkQW01cVZwR0otVHViYkJuUkZxWDExX053OGNRVDA?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcExaZXhVWXRWdVdGWDB6M1d2S3B1LWxmZUktVG5FbUxCd2pSWEJ2dVNaWWFRaE52ekdYOU0xMl9lMThxWDRQYnA2dmZ2cUpwZnh3Y2p2RnhsdVNDdjJGdXFKNUFxa2JDbDFqTHBvcUpZV1g5aWs4dW1IUmVGbzk0U2l5dnlkV3BoSGJBVlpQaXZpYjFZdGlGNUhicXhIOGxVQkdXcWQxX25SMFVJRTNyR2Nndw?oc=5"
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ0Z6ekJ0TUNCczdBZUpIN3ZuRnI2Z2RJR1RULS1JTlBGQy1SWEk2NV9mVVdiWFdlOGxyTFNZTXU1VEdoenFHZkpraGx2dzkzdXZfQWNGcktNYy1MTnhkQ3AtU2FReDhXRmtGeVdjWGlwTWpWMHVLQ1FkeW40SnFZV3h0S3NfaVJHa0FDOWt4VUxUQkloUF8xd01XZ0p3NmhiVlF2VzVibXZ1blNTeC1rZGNUNFRUdXg1SDJGTlAwM1JRejc1ZHUtLXdmTGhwbmJmdFhKTmU0RXFuNmdoQmdtUThFVExoVkpQcnR6bHY4SFp1VllT0gH6AUFVX3lxTE5uQTFjdWYyc1ZYeVBoVGh5ZkFFWGRCNlozZzRieDlDZUNGM2FnSlBqLUdXVUVlQmpPbmFsSjN5dWdqWjV1bGgxZHR4dUVMYmdVTUhUMTl3M25ZRnA2UHlqUEg3eXpuMm9PUjFJMktzVEpyRER6RnV6Q2ZqZ09KMm9BN25xQXAyUVJIOWRLc0JFdXljZFA2UXBteTkxX2JtOE1jTVBOQlJYcXl5Rld0TkNPRHkzVHRvN1BZRFBzclRVVFBsX0lRYnp0aTNHRGt0bW1oWkItVjNHdENmOEk5ZllRTUdiZkc3eHUtYThUT2ZNNnlWZ1JJSnAxRnc?oc=5"
       ]
     },
     {
-      "title": "Artificial Intelligence - ABC News",
-      "score": 25.68,
+      "title": "Today’s NYT Strands Hints, Spangram and Answers for Sunday, Oct. 11, #952",
+      "score": 17.43,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR3E3X0VVbWxySnNMTnd1dXhzeW92dnF1eEN6a1BGNDFfX1RQUnM0UXNTeVNzOENhZ243RGZhck9xZ1JCTzdQdGpQZDJkM1hqNHJydG5yMjBXbF9zbDR0eWhSTVltb2JyaHRtUWNNbE5GSXphTGFBVHUyQVNHTjRuZEJtMElJN0FTSW5WTWwtNU1tV3FJVGxieHFrc2sxOEp1TXdXLS1CZFd6Mi02NGVHamtjeEFsRlpGUXlGV0UxYlkzaUJGWWtBX0JDSkZzQ2RQcEpSMHhCWDd4MzA4Z1FHTFBHek01V3ppUWQxRVpBZTJ5cDg?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9qQmJ4MEpOWUQ5eVVvdklNR2V0d20zWE85a2IydWkxT1ZyelZnamhZaHRrWXV3NVhucVF5Y1RjM3hpbThUNl9KMmd3MHVFS0xQXzMtYldqMXNFWkZYLU9lMzQxMG5XQlVVQUlHXzJiUzlnT1NKdmdld0VENWQ3VDFYd2Raa3hCcHVTcldLcVMtMjRqdTBpM1B5Zw?oc=5"
-      ]
-    },
-    {
-      "title": "AI Express, Air India extend cancellation of Riyadh flights",
-      "score": 23.48,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1VITEtROE9mcjU0U2JnZkFkZG5Gb2NPX1l4aS11VG1BZmg2LTNoTEx2VzczaHY0cEF3RzdMakh0dWcxa2tjSUhVbmFEc2txTW5ZcGlYYWZXb3NYa0xlOVpoMnpJTVhuSFFTdk1HOVFlNTdVOUVDT1JLTU5JeFFqRVhqaGtsaUw5WHVMRTR4VEt2Z2dWV28zMGtPSUUzMnNHNWJROWdlaW1Gbmk5OC1jSHZuenpyWi1CYVBVZlVxYUlOV1JRQW5OUVY0ZFowUdIB1AFBVV95cUxNZWRsOXdSVVVqaHJWSXMzUnlJelp1QWthbFVqTGEtbzAydWUzZTdvU0F4SXVnZ2ZFdlpCQ3ZoYzR0LVlaeWt0TDJ6Sy1wZ3BRRzY5ZnBnN19qU3VydkU4UnQ3aEdldDZtM25UR1dpcHgwd2NWN0pQUVlsdS1ua3NpZDE0cUFRMF9RZmVYRDdRODBVZWFOelRSUi0xMUVnRl9Vd0lUQnhMYnlZU1dhaXhwbl8tTzZraWVKTGpMVUNMTVpIVFRHR2FMQ3k2YlpjVEtQVnp0bw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHp5R3ZlTU9HZERZd3FXZS1Gd19RYkwtdWxzUGtoZUY0R0ZjbGpDM0JVX3BjaTliTERvelIwcHJKNUd2amdXZTVNQmd5QzFZWE1EX09lcDZCeDl4NWVTaE9adXpQd2t6dl9kNzhGaXNFOGpLYktwMXBnYTBxMjNQNVNfRV9ad1FfbGJ0bkFCNElQU05kSElyYjBiRDJKQm4zdzBRcEJzbHhmcWRzS3duTVJfV1lnVXRVSU9yVDBKNVQyUk1VVU9kbkJ6RS1kUHdPQkV3YmJXcWZxdw?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGNZTlNkc1ZvdDhGdFNrV1QyN29zN3hONi1Sajl2VGtjQld3eEFzMnkyLThrRzJPbnI2VXpzb0hWXy11MHZTTXZ2RWN6WWZkTG1xU0Z1ZkZHZXlMV1RFLWFSVFNFR2lsQnNlVFM1M3Q0dzFjNEVJbGl3b3cxUGwyZDl1ZlhhRWU2TnVVN1hGejJPdF9DYVllZHNnOXBIRDhvSzlXT0pldENNNTFwODF6etIBsAFBVV95cUxOOGNZTlNkc1ZvdDhGdFNrV1QyN29zN3hONi1Sajl2VGtjQld3eEFzMnkyLThrRzJPbnI2VXpzb0hWXy11MHZTTXZ2RWN6WWZkTG1xU0Z1ZkZHZXlMV1RFLWFSVFNFR2lsQnNlVFM1M3Q0dzFjNEVJbGl3b3cxUGwyZDl1ZlhhRWU2TnVVN1hGejJPdF9DYVllZHNnOXBIRDhvSzlXT0pldENNNTFwODF6eg?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDdYNjhqMExhbUZFTXlzN3doLWVoWEJNdjhnRGhydlF1aG1zalZlUGI4NVBRcEk4VEkxMkJFWVNnMl9pNU44dlo2UkJfc2dER0JPb2hDYWVSVG1NYTBVVmxrOXFiWlJYVjBzTjBrWUlrd0M5SnJwdFVLc3FGZXB4LWVBT296NXE5VlB6Q094bk91eW9KU0RmRFl4RWg3ZXV1bzg0?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDdYNjhqMExhbUZFTXlzN3doLWVoWEJNdjhnRGhydlF1aG1zalZlUGI4NVBRcEk4VEkxMkJFWVNnMl9pNU44dlo2UkJfc2dER0JPb2hDYWVSVG1NYTBVVmxrOXFiWlJYVjBzTjBrWUlrd0M5SnJwdFVLc3FGZXB4LWVBT296NXE5VlB6Q094bk91eW9KU0RmRFl4RWg3ZXV1bzg0?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDdYNjhqMExhbUZFTXlzN3doLWVoWEJNdjhnRGhydlF1aG1zalZlUGI4NVBRcEk4VEkxMkJFWVNnMl9pNU44dlo2UkJfc2dER0JPb2hDYWVSVG1NYTBVVmxrOXFiWlJYVjBzTjBrWUlrd0M5SnJwdFVLc3FGZXB4LWVBT296NXE5VlB6Q094bk91eW9KU0RmRFl4RWg3ZXV1bzg0?oc=5"
       ]
     }
   ]
