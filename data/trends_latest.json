@@ -1,142 +1,160 @@
 {
-  "job_id": "2026-10-10-evening-1501",
-  "chosen": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-  "reason": "It offers an actionable, privacy-focused open-source finance tracker with a local AI advisor that viewers can immediately run on their own machines.",
+  "job_id": "2026-10-11-evening-2101",
+  "chosen": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+  "reason": "Elon Musk promising affordable Starlink satellite broadband in India creates massive curiosity and discussion about how satellite internet will challenge Jio and transform connectivity.",
   "candidates": [
     {
-      "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/LosaLosSantos/aurelio-finance"
-      ]
-    },
-    {
-      "title": "GitHub Copilot weekly releases — October 5",
-      "score": 20.35,
+      "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+      "score": 21.58,
       "kinds": [
         "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-        "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWkzSVo4bFM5X2IycGlUQWxvUDFpSFNwTHBqa2h0VFFJTG1JSThTU3pZSlNnTmNEWEpsY0Rad1NuOW1tY0VBR1dFM2ZvOWozMEdkNjNjRUNGXzNzWXdTaTJ2RUJidFdvOGNBUW1iYzQ5UnJ4Y1B4U2IyWVpqa1gtNnlfY2szQmdrVTdaTGg5RmQxYTQ4S1FrVm5hbE1aamtEOXU4ODFjOUZnWjNBbU9XY25XNXl6SEJhMmpfYk5GejZTZG1QdzN4dWRqNGJ5MDR6YWJxOXZEMU1UUdIB3wFBVV95cUxPc3UzWGJxWDZ5STUyRm5VNTVDSkdhMWd4c19Ld2ZndzlYdHM0QmJTV3dFWGRhSlFycjRweC02UDJBTVRIMk1fNGJ3aU9RWnpvM2tPMU5jdk9seG04cVlFeUxPTGppOHgxamE3aDI2MEtMZlRIeGY0VWtGdF81Sl85SjFBNlEtRm01QjdXSXdSMkt4cVFiYmh3ZjBkWEVtVEEyYWdlUkFmQjNfVGhVaThZZFh2aHZDQmZLRmNLcE5JT1dycEkwLTkybWVXWm5nc3BTZGxlUTItbVIwY3U3c2NZ?oc=5"
       ]
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "score": 15.0,
+      "title": "Quarter of India’s labour force highly exposed to AI, says report",
+      "score": 17.9,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjVncjJLdjJtdW5iMDlsZVR2RjFLempvWWgyVE0yUmc0OVhNM3VqS3EycjJkSTVxTzJYM3pIbFVQNXZUYjJiOTU3MkloLS1ZcU9LLThDUXl2a3lRbDlKSER4c000eF9pT3p2VFhZUm42V0RNcGxOWDNOMFM3eWxjaGMyd1FLU0ZuU1FoUThsNHAyamF0Q3F6UFdOX1ZQT2N1eGtFZGdQVzdqNnNYRi00RHpRLWxUQXNlTk5lajZhSURibHd3WWxF0gHOAUFVX3lxTFBIMVlZVWFHN0RQZGl3R3dlZmNwcWJhU2tkdGRMY1RUZTN5MG0zTkl5MGhOajJxY28zM0JKeUo0bmNIbjRYMTA5ZmxfY0JaR1RLVWhjYWxncW1vMk4xUjk0bl9ycTNDRGhxX1NRTUEzaUtVNnlIY2tYemtaMTBCcXNsSlhPTUJPNXY1RnpnQ0JUVGJ6Q2U1SWtQRWZubEh5TllnMHNiWGJTMjZZdjdDZTRiSU9JOHdUdkp6N1BJZWQ5S0Z0empabVpaSmhVVWJ3?oc=5"
       ]
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "score": 15.0,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
-      ]
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "score": 15.0,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/sophos"
-      ]
-    },
-    {
-      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "score": 20.0,
+      "title": "SBI warns of UPI fraud: How the ‘jumped deposit scam’ can drain your bank account",
+      "score": 21.35,
       "kinds": [
         "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-        "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSk1xQVpsLWVCTUNVek5Hb1RaRVFCa3QzMFpKTTMtNEVLak0yZ0lvVHJlbzFMTjhsZW5GQnQtWjByU25vMjZQZWM3ZENKaFFhdzg2RklET1B5andKeXlnMUFNamc4NmlwdGxyQmNvd0dMVzB2SXpEbURQY09XR21TQnhVd1kzT05HZkZqSnZ6MVJkTFF2dHNwS0VJUW5sQzRfT2dsRzBoZEhCSmdXZjFaT3FEbWF2V3RqNERTVkktdk9yMTktTS1qSWtZZHB2YWw4SThna1VoNlg0VVdZRHUw0gHkAUFVX3lxTE82TjdvV210ODZpOE10QVZlc3RxMVlCRmxuQ2ZrY0s3SHVMeFNCVy1KMTYtRGVXc0VWRGJrWjU1RGZXX0pTb1JMMnBqT05fZHAwYzBIVkxjaXYtZWN4ZjJhTmloOTkwM3k2VHVLbFY5amtDaEZUSTlMREROekFLNkk4c3lpV1hCdGlXUkhIWjRaYmlnTmhUVk8zQVNJbzYwbWlGQUI0SjljTlg1dnBjY3ZlUkhIMGd0RkFqQlVvQ3UtWkFibVcyM0Vsa29jdVp4Y3NSUF8xcEE1WGZjVFdDcUF0eVVRMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejU0MkhDdDBiakRVNVo3OGFYLTVOdWdGQWpfX1h3QmRzQ2Q2QTd6aW56SmhqTm01aURTQl9WdVh5VkZVemlrRTFlckpFNFZ0TGw0aXUxWjZ0YnN3Rm1kWW9pOHY0TUxOaVBqWFdhZHM1VDhFSjdSTzFvT1Y3UzZuaTdUa1l3R0Ytb3VaQ1IxVS1xWGJLOHRyLVJvcU84UUtmSGJKOWlkSDE?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSk1xQVpsLWVCTUNVek5Hb1RaRVFCa3QzMFpKTTMtNEVLak0yZ0lvVHJlbzFMTjhsZW5GQnQtWjByU25vMjZQZWM3ZENKaFFhdzg2RklET1B5andKeXlnMUFNamc4NmlwdGxyQmNvd0dMVzB2SXpEbURQY09XR21TQnhVd1kzT05HZkZqSnZ6MVJkTFF2dHNwS0VJUW5sQzRfT2dsRzBoZEhCSmdXZjFaT3FEbWF2V3RqNERTVkktdk9yMTktTS1qSWtZZHB2YWw4SThna1VoNlg0VVdZRHUw0gHkAUFVX3lxTE82TjdvV210ODZpOE10QVZlc3RxMVlCRmxuQ2ZrY0s3SHVMeFNCVy1KMTYtRGVXc0VWRGJrWjU1RGZXX0pTb1JMMnBqT05fZHAwYzBIVkxjaXYtZWN4ZjJhTmloOTkwM3k2VHVLbFY5amtDaEZUSTlMREROekFLNkk4c3lpV1hCdGlXUkhIWjRaYmlnTmhUVk8zQVNJbzYwbWlGQUI0SjljTlg1dnBjY3ZlUkhIMGd0RkFqQlVvQ3UtWkFibVcyM0Vsa29jdVp4Y3NSUF8xcEE1WGZjVFdDcUF0eVVRMA?oc=5"
       ]
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "score": 15.0,
+      "title": "Zimbabwe may use India's UPI stack to change African payment system: Report",
+      "score": 18.4,
       "kinds": [
-        "official"
+        "backlog",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/oracle"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWFOS05VWWVjZEt0REU2QmE5YWIwb214ZnozSklZXy1Ecy15QW5MZkFWTmtURHNZbWFic2FZTlhGVGJtU1luSjgyRl9uUHUwc1JiQnhLU3JJRWwwYlNia0dfN3IzNktfcExQaGw2aE9GWXB4SmIyQ3ZhaHJ3WkI5ODJsVm1XU1llaVlYUVQ4bmRRWG1ub1RONXRiVng5VGlGVTY1VDFrcmxOQmJkb1F4ckhYcExkRWc?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWFOS05VWWVjZEt0REU2QmE5YWIwb214ZnozSklZXy1Ecy15QW5MZkFWTmtURHNZbWFic2FZTlhGVGJtU1luSjgyRl9uUHUwc1JiQnhLU3JJRWwwYlNia0dfN3IzNktfcExQaGw2aE9GWXB4SmIyQ3ZhaHJ3WkI5ODJsVm1XU1llaVlYUVQ4bmRRWG1ub1RONXRiVng5VGlGVTY1VDFrcmxOQmJkb1F4ckhYcExkRWc?oc=5"
       ]
     },
     {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "score": 15.0,
+      "title": "Nvidia in talks to acquire Reflection AI or deepen its investment: Report",
+      "score": 29.72,
       "kinds": [
-        "official"
+        "backlog",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/legalon-halves-codex-costs"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFVLZ2NNNHZ2MjN0dWVJam1STE5Mc01fTmd0UU5Sckd2cWs0X2ZrYlg0eVNjVDVVd2lPSGIzeUxBd1drQW5ZV08xXzREdE9QZXpwaFhCanNaRkhWWExIaXFEWlhFZm5JdVZFS29xSkkwbjJOTXZ3WTlnSnRib2F3REdleEF0WElWWVBOMzZZR2UtR2g3clFyU2lTeGQzMUVNcjNpMzdMTGlkRGtJOEhpQ2N1MTFaSW5JNEd6WDk3SnQyQjZLelo2c9IByAFBVV95cUxNMFVLZ2NNNHZ2MjN0dWVJam1STE5Mc01fTmd0UU5Sckd2cWs0X2ZrYlg0eVNjVDVVd2lPSGIzeUxBd1drQW5ZV08xXzREdE9QZXpwaFhCanNaRkhWWExIaXFEWlhFZm5JdVZFS29xSkkwbjJOTXZ3WTlnSnRib2F3REdleEF0WElWWVBOMzZZR2UtR2g3clFyU2lTeGQzMUVNcjNpMzdMTGlkRGtJOEhpQ2N1MTFaSW5JNEd6WDk3SnQyQjZLelo2cw?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnA2ZEJ4Z3ItVTVqOWJtNXRGby1tUVBBNzByOVFXUzRYWEFLMkdlQW1ZcDhfenhxSG5sTkNDZVRDRVBIc0lxNE15NFhQYkt5aTllNFJ6Vkhjb2ZwM3p1OFJrdHhrVnBENVJWWVMtTU1tdV9GVHd2YmZJX3BLZFZySDNCS2lITWpaQUQ3VVZnczVYTWQwOEc3eE5EbFBWdUZqMVdKbHh5SFZkbVU4elFRNWttMFBsMmFLa3JHZU9MQkRHMHZzUXg1a2NaNGxjUjZYeU42eUNDSjZfQ1QxczU40gHfAUFVX3lxTE42cDZkQnhnci1VNWo5Ym01dEZvLW1RUEE3MHI5UVdTNFhYQUsyR2VBbVlwOF96eHFIbmxOQ0NlVENFUEhzSXE0TXk0WFBiS3lpOWU0UnpWSGNvZnAzenU4Umt0eGtWcEQ1UlZZUy1NTW11X0ZUd3ZiZklfcEtkVnJIM0JLaUhNalpBRDdVVmdzNVhNZDA4Rzd4TkRsUFZ1RmoxV0pseHlIVmRtVTh6UVE1a20wUGwyYUtrckdlT0xCREcwdnNReDVrY1o0bGNSNlh5TjZ5Q0NKNl9DVDFzNTg?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcllxdnNEU2Q1ajZGTHdjZUVXZzJJMWtUa0pOX0RLbEQzcU8tSnVUcHA0czJsMUthRWFSYno1X2pYUGVIMGtGZkpDMDhyWmFnSHBRNVllVVhqMjJuMUlfQ1VkeFR2cHVNYm91LUNkN3hMTS1NZ1ZrbW95ODNaUWZUNmdQY21qQVUyajBqbkI4OVpxVU5oOVhvdW1ET3FyaXp1OUNnZHg3akhZRWU1TW9vLWZqOTBJREh2NWdKX01OZVNvNE51REx4TF9UcFNERGpO0gHQAUFVX3lxTE9yWXF2c0RTZDVqNkZMd2NlRVdnMkkxa1RrSk5fREtsRDNxTy1KdVRwcDRzMmwxS2FFYVJiejVfalhQZUgwa0ZmSkMwOHJaYWdIcFE1WWVVWGoyMm4xSV9DVWR4VHZwdU1ib3UtQ2Q3eExNLU1nVmttb3k4M1pRZlQ2Z1BjbWpBVTJqMGpuQjg5WnFVTmg5WG91bURPcXJpenU5Q2dkeDdqSFlFZTVNb28tZmo5MElESHY1Z0pfTU5lU280TnVETHhMX1RwU0REak4?oc=5"
       ]
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "score": 15.0,
+      "title": "Bets are on for India's semiconductor space amid growing M&As, investments",
+      "score": 17.97,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/pollo-ai"
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTGlrWHZXeWdIOGZzeUhtOElxU3c4dldiY0tqem83S2kzMklCbldJMk1pODcyOHBRMUtMU3JtOWsxdVo4U2I0aktpZTFycUUxMmNCclN3eU1adF9GZThfa21YNGlfTHlBdi03ckZDQ1BVdTVVd3l0NVRYbHJFZUZoQXlJTnlYa0E3d0ZKbzk4N0hOYTlPazFDUlA4RmZ1bEs0TGxEWlkyS2VnWGRpSjAwSFlJYndtM0dSOTBua0F1NXhlY21DeHdfVDJYRE1VTjJTRFZ4dTV4bU40NkhVMmZwME9R0gHnAUFVX3lxTE1CX29YdjF2MTg0dDkzM01UcFl4Nk1WRlRON3lveTVvWEJUbmdmLUVFVGc1WmRsR2p0WVNPLTM2Wkx2bWVHSU9qNGZZV0paTDJwWU44eVpvVWdfWURXYldhOG1NQkZFSWZ3eEtObWZSak5pNFlvSExvc1FaZXpoVmplR3dIbXhIbGFkUHI5X1hjTm5TdFM4ZWxveXVkUnYzTExOalZQSzFONjFHc0J2a3FkWkcwRDRTYjlESVlDUW00b3VzZEZ2aFEteWg4LVRKR2VXbHotTGtINjlUcVJCZUloZkE1N3I2dw?oc=5"
       ]
     },
     {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "score": 15.0,
+      "title": "The vivo X Fold6 powers advanced productivity features with India's biggest battery in a foldable - GSMArena.com news",
+      "score": 21.49,
       "kinds": [
-        "official"
+        "backlog",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/teens-learn-and-plan"
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEl0bXBuOWhJV080ZUlmWHVMOXk5d0oxYTBwelpOM0JMdzdsMDFpWjVCMTZNZ2pMOGpSXzZoczNKRG5fMFpNQ3pqdmg2dnE3bHZwVVBzZVA1UlhwQUJ4dXBpTDNnWjREM2U2dEQwWXpueks3REk0M003eW1sOFBIMkxTbmhMYWM0dFBQN2M2RmJVSU9iaWFobXdILXQyVE5yaXVBRTlEbGxFSEVWaFdUeWdWbWhmYjhkbC1OWWpzZTdKUHdYbFJ0YkU5cmh6M1RtNkHSAc4BQVVfeXFMUGRYdDVrakw3Vmpvc3h0ekJpQ1NNZkVqSnd3ci13OVZxUVhfUnU0NzREUnVqUGJQTlFacm1tVnNQc1NXaVVZUUlWZlNDWWk4ajZ5STdNMmlHUEpjV0xwcWRQdXpMdG1EMzZFMjB5Z1JiNGVZdnJSUmk2TkJfUXpWcDVPTWpCeUNHbG42ZjMyYWxuVkZqUExLSkk3ckxvQXFwWnA2Z01Ib1d1Q3Fjc0h3X3hiTGtUR0hUZWMtY3A3Tk0wU09ZYkFTRmFzZWN6RHc?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEl0bXBuOWhJV080ZUlmWHVMOXk5d0oxYTBwelpOM0JMdzdsMDFpWjVCMTZNZ2pMOGpSXzZoczNKRG5fMFpNQ3pqdmg2dnE3bHZwVVBzZVA1UlhwQUJ4dXBpTDNnWjREM2U2dEQwWXpueks3REk0M003eW1sOFBIMkxTbmhMYWM0dFBQN2M2RmJVSU9iaWFobXdILXQyVE5yaXVBRTlEbGxFSEVWaFdUeWdWbWhmYjhkbC1OWWpzZTdKUHdYbFJ0YkU5cmh6M1RtNkHSAc4BQVVfeXFMUGRYdDVrakw3Vmpvc3h0ekJpQ1NNZkVqSnd3ci13OVZxUVhfUnU0NzREUnVqUGJQTlFacm1tVnNQc1NXaVVZUUlWZlNDWWk4ajZ5STdNMmlHUEpjV0xwcWRQdXpMdG1EMzZFMjB5Z1JiNGVZdnJSUmk2TkJfUXpWcDVPTWpCeUNHbG42ZjMyYWxuVkZqUExLSkk3ckxvQXFwWnA2Z01Ib1d1Q3Fjc0h3X3hiTGtUR0hUZWMtY3A3Tk0wU09ZYkFTRmFzZWN6RHc?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEl0bXBuOWhJV080ZUlmWHVMOXk5d0oxYTBwelpOM0JMdzdsMDFpWjVCMTZNZ2pMOGpSXzZoczNKRG5fMFpNQ3pqdmg2dnE3bHZwVVBzZVA1UlhwQUJ4dXBpTDNnWjREM2U2dEQwWXpueks3REk0M003eW1sOFBIMkxTbmhMYWM0dFBQN2M2RmJVSU9iaWFobXdILXQyVE5yaXVBRTlEbGxFSEVWaFdUeWdWbWhmYjhkbC1OWWpzZTdKUHdYbFJ0YkU5cmh6M1RtNkHSAc4BQVVfeXFMUGRYdDVrakw3Vmpvc3h0ekJpQ1NNZkVqSnd3ci13OVZxUVhfUnU0NzREUnVqUGJQTlFacm1tVnNQc1NXaVVZUUlWZlNDWWk4ajZ5STdNMmlHUEpjV0xwcWRQdXpMdG1EMzZFMjB5Z1JiNGVZdnJSUmk2TkJfUXpWcDVPTWpCeUNHbG42ZjMyYWxuVkZqUExLSkk3ckxvQXFwWnA2Z01Ib1d1Q3Fjc0h3X3hiTGtUR0hUZWMtY3A3Tk0wU09ZYkFTRmFzZWN6RHc?oc=5"
       ]
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "score": 15.0,
+      "title": "Infinix GT 50 Pro with visible liquid cooling is launching on October 27 in India",
+      "score": 19.72,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uaDc5enU5UTlVem5ubXZaZVp3amF0TnpIVW1ocmw1QlRGcWRqcDZVZzRSSURodkU0VVJkYXZkckdZOUpXc0hrM0hBemExSWg4NUVNNzNSVkFlUXp2UzlvQ1RNbzJPSzdFN0c3QkF0UWFmNFJrMmI5ekY2am5XSlk?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamZkN3N1LXY2TUU3dE9aZDdpOVZyRVplbGFIZFJjb1ppWXRpRUpFNDJKd1N1cTZ0djgyejYzeUdJalpOUHN1Rmt0N0pMQW9raE5mR2hXS3JGYkdXT2tzYWpxdG5TNTlaaDc1bm1DeHFMUUxDakI4Z09sYmpjcldNUlkwUExRTENCVEVwNTV3d05ySGo4VlRneVJaQjZCRzZEN2dVa1c5cHl5NDhiVXJTajdTYklyTmxfTUE?oc=5"
       ]
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
-      "score": 16.45,
+      "title": "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
+      "score": 23.38,
       "kinds": [
-        "official"
+        "backlog",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://huggingface.co/blog/allenai/impactful-scheduling"
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNU5tZkVBQ2dkanQ0ZXN4ZVI5LXU4ZnFfcTBMTnlxTVlOYVdfZWtnQkxWanowb1pQWFgtUi0teEhBckdfZ3NDNUFYelh1ZlA5ODZJOEFiWXBPdXRkbWNKMEk4YXQ5NkF2b3JCYnN4cW5rS1Q3V1VCOGpITmNpaWREdlVINnVrMG5VRmZHd3BTRXBaSnBnUjBFc2t6emVwM2I4MWJnd0RyV0tNNDJ1REpwWldRa3BhaDFvXzB2NDNmLUZveVF5WkRaVjhCZDEwdmY4emV4MHFwUTlWejlWcmY1VzlRNmFaME5ZOUp6bklrWTVxM0lWTlHSAfYBQVVfeXFMTTVObWZFQUNnZGp0NGVzeGVSOS11OGZxX3EwTE55cU1ZTmFXX2VrZ0JMVmp6MG9aUFhYLVItLXhIQXJHX2dzQzVBWHpYdWZQOTg2SThBYllwT3V0ZG1jSjBJOGF0OTZBdm9yQmJzeHFua0tUN1dVQjhqSE5jaWlkRHZVSDZ1azBuVUZmR3dwU0VwWkpwZ1IwRXNrenplcDNiODFiZ3dEcldLTTQydURKcFpXUWtwYWgxb18wdjQzZi1Gb3lReVpEWlY4QmQxMHZmOHpleDBxcFE5Vno5VnJmNVc5UTZhWjBOWTlKem5Ja1k1cTNJVk5R?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFUzZE0wTXZaWlpRVGo3MHgzNkFkVFIwZTJ1Rk1HTnpMT2NtT2QwaEJhS2FKZTZzZzlyU21KQnpUcHA2WF82ek1tRHNpbG9hVElvUkZ3YzNaS2xHQUNkNlBDUm1sSDcwa3hnUFhKRWhXLUtpU3NRTmxMWmFJQ0RSbUFaaXNCUFlobnJoNEwwaGtOMjdDSHlDVk9EZmkxa3FhcFBtNmRXQXdpRWl4Q0NXOU50ZGpUX0lzc2VQVVZZTnRYeUZPNERwRFlONW1oQXo5Y0M4RkdYUkp5d9IB3wFBVV95cUxPV2NEUWdDbWM4Wmx4ZENTckVrU3NYTGg1R291czVOZ2lXT2tHQUw1RVY2VUVqajg2dC1XR090dy10cWJRbUZGdXVPSnM4a0lBcl9feEhKM2FVNG0xblBsa3RIbjZVSU5aMm1fNmFkSl9SdmR5RmVwVVc0dXpUVlR1SEdkUzRFSFIyQUJnLWFUWUx6ODhKZ3dEX0g2SDNaWUNfanNERTNBVDA5NE5wXzN5d1hEQ1JpeTB5Wjk1czlwaUJCMnhmbmFUSExoNXZub2pHZmxEZkJrZ19EVFZfUHM4?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWN4RlZZZ1M3MGhYRlg5b2dQal9QZDFNUU5reDB6OUU5Z0Q4aFFzZUlfVHJ1X2xqY1MwQm5FVnVLSVBOSW54WjVhY0FMaFgybUxOSUFianJuT2FBcnlXbnBUelFYcE9HWmYwRk0zMFVKTkdxSUVUYkVQWTA1MEVYT21YQk5Wbm1pWDVuOGNaeFV6Vlp0bG9teDllaUJEOF9Pc21ueUVJczh5U2NpOGxIVUMyVEtUOEdf0gG7AUFVX3lxTE9JcFBtSjliMTlTSkFKbG1kdllqZFZBd1FTTkJVdXVzT284QjVITFR4aU9EdEc0aDVLM0IxSnhSWmhZSklGd0dFN1ZyWWowUlRiSE5VakNXRHhWejVtNDJJUS1VTUlTd0poZHJwTlFGQnJBc3JrU01PMnhSbTR2Wmg3VXhKVG0xSE5WcGRWNTFTQlo3OEdJS250OE1GbDRjUExyODkzaWhYajVZQXhYRHZyMDJUT20yVlNjNG8?oc=5"
+      ]
+    },
+    {
+      "title": "India has been overlooked in the AI Rush: Vincent Mortier",
+      "score": 17.92,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2xlZU8xZlA5Y0VXS002dkhuUXVaXzdGV1Y5eFZ5TVY0QUQ0R1ZpSy00UHdDVE1ZRFNlbHlyUlZHQjI4bWY5enB1cWNsZ1NyeTBPM2E5bnhmMkZLd1ZsbGlYd0NzNEJxcE5fcDBSVkEtQmpaWjV2cHhJa0RQeTUwVE4yMF9GdUFqU1VkeWFFVU9vS3RhQkpNbXhuS0NYR3NDWTF2RHh1VWJTejZpZERwX1h1QlJoZXVPWWpaVGVR0gHEAUFVX3lxTFB3dlEyVENwOWJ1aTE3VzhlTC1vZVJMZVlSRDhzREp4eThwWnpaT2gzZUktdjVadDVreHVDZUlNWVZEQnp2QjdueEIzbVl4OHR3Rm5CY0RQSG4yV3lwaTVLeVdKY3REbzBIN25MNkFheW45ODF5bmFNTmVWVmFOTnY4cEp3NmEzZ3FMOXZGNk5TT3JndEhoM2dMSnUxUUR0SFg4SVJRWE14MF9UVk9lMzNpclIyN3VmdWkxdVBoVUV2N0xWcDM?oc=5"
+      ]
+    },
+    {
+      "title": "AI Mode in Google Search Tackles Everyday Questions in Campaign via McCann India",
+      "score": 19.72,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5"
+      ]
+    },
+    {
+      "title": "UPI MDR framework needs rationalisation to protect public trust: Report",
+      "score": 19.4,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUGE3MF9wcml3NDlDbGpZeDdxT3hBbXZ3VzZZM054a2kta0hzZ3JiMnRZbVljR1VtRFN5TXNRT0c4bGlhWkk4ckc1aXBmSnB6S3RSa0Y5VGd5SnNWREdjbmZrckNKdXBIZDRoZVRxQjFzYnRZV1NkSGRmS1J0Rm80WGFrV0tGNWV0TFZkaFhPSHJleGxjdERXb1ZHWE1QbDBVeGhOdlhnQWxIYW9xSTZkcEx0ajhRZ3p4azdZZ3hwdEZnSzN5RVotdjkyREtpbVBHUjB2dWxwcjhKT1g30gHcAUFVX3lxTE5QYTcwX3ByaXc0OUNsall4N3FPeEFtdndXNlkzTnhraS1rSHNncmIydFltWWNHVW1EU3lNc1FPRzhsaWFaSThyRzVpcGZKcHpLdFJrRjlUZ3lKc1ZER2NuZmtyQ0p1cEhkNGhlVHFCMXNidFlXU2RIZGZLUnRGbzRYYWtXS0Y1ZXRMVmRoWE9IcmV4bGN0RFdvVkdYTVBsMFV4aE52WGdBbEhhb3FJNmRwTHRqOFFnenhrN1lneHB0RmdLM3lFWi12OTJES2ltUEdSMHZ1bHByOEpPWDc?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVFUVFljcEJRTDRLM21hNWVrVVZzLUM0MWstSmltTUdMR1VscUJJbWc4SmR5WGMxV2xJN2JXX2xUTGtEdlBJbFBFdHlzY2plT2d6bGtfVEFkUUkxanNwQV91TXA0eEozZXRZYVVZaFFjMWNzQXY0N19KZGFkV0FGMXppc3Jfd2QwRkhVSmw3ZWR0MTRrN3VHVHlkcTBFcV9fd2dveDRNaFFJcjUwQ1g2aS1WNGpGcW1abExLQ3M4TThCbHZxaXowMlc1UG8zc1ZZVnRDVkhDLVo5ak8tSnFnMUhVUVlsa3F2RF9hbXNYemtMd9IB9wFBVV95cUxOYWZqbm1lb0RRMFBYNmVfcE40cTcwM1ZpTTBDdENRUW1pb0I1TjBiWVdScUFIc2xOaUNuV3dWbjRMbWtyMzU3bFFJSE5RbkhHM19CRW04YTY5cHBzY3VrbU5VVHJseWY2d210NGdmb2U2aWlTQmtDQmJLUDJQRC1QU2NOWHhDLVc4UHY5QTRqNmNMN05mdGdzU3pOcFJlMWJKeF9xMHE0dGtVU1l2YmxORnY0NkMzWHVoVnpPN2R1SVRmZ2N3TG5vaXlFWUtpSzJXdTI1cW4zTTN1OGJiMF9VSENKb1hqamFCWTlsOGQ2S19sejhCRl9N?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVl9iWnVaSDVORGRpZkdGNHRIZEdRbVg3NEtvSmNSSE5kT19jNnh0R3lnY0Q2SmZBMDdTZ24taEhIc29yRXFiQVJTQ3BmVnhHUG1fSzBLVy1CR3FkQk9YTUpORUVOVzdGSzVvdzI3VE9ZS3lZd1RiZkVYUzI2ODZkdUc2WDFXS1pOSTNvZ1BDZVZtV3daV1pzdHZEZWJrYjRNME1KOF9Cc3F0b1ZkRUk4ajI5Vmxld9IBvgFBVV95cUxOT01jY0RWYUR1OVpBaTBhM29JcklqMmdNc1BMSXNkUkRBUnREQTNlSnNKdWlhSVA4WUxXblZhOWUwMXBLZ3AxV21rM1hTODFPWm44RnBPYXN5ZkJYV2w5elROUk9vOFo4T1ZMbEwxWnRScFFqYWJ1M1ZyNUZTOFNQWE12aXlCWnV1elJjcWY1YTRwU0JhU0l6dC1UU09SYm04eTNaN1dOWTl3a0J4US1ERnh1WkdRejljdVA0SFRB?oc=5"
       ]
     }
   ]
