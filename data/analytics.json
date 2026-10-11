@@ -4,6 +4,10 @@
       {
         "date": "2026-10-10",
         "views": 0
+      },
+      {
+        "date": "2026-10-11",
+        "views": 0
       }
     ],
     "info": {
@@ -41,13 +45,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   },
   "2026-10-10-evening-1400": {
     "history": [
       {
         "date": "2026-10-10",
         "views": 0
+      },
+      {
+        "date": "2026-10-11",
+        "views": 1
       }
     ],
     "info": {
@@ -67,10 +75,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 0,
@@ -85,12 +93,16 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   },
   "2026-10-10-evening-1501": {
     "history": [
       {
         "date": "2026-10-10",
+        "views": 0
+      },
+      {
+        "date": "2026-10-11",
         "views": 0
       }
     ],
@@ -129,12 +141,16 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   },
   "2026-10-10-evening-1918": {
     "history": [
       {
         "date": "2026-10-10",
+        "views": 0
+      },
+      {
+        "date": "2026-10-11",
         "views": 0
       }
     ],
@@ -173,12 +189,16 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   },
   "2026-10-10-evening-2001": {
     "history": [
       {
         "date": "2026-10-10",
+        "views": 0
+      },
+      {
+        "date": "2026-10-11",
         "views": 0
       }
     ],
@@ -211,19 +231,23 @@
         "engagement_rate": null
       },
       "facebook": {
-        "likes": 0,
+        "likes": 1,
         "comments": 0,
         "note": "insights unavailable: (#100) The value must be a valid insights metric",
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   },
   "2026-10-10-evening-2102": {
     "history": [
       {
         "date": "2026-10-10",
         "views": 0
+      },
+      {
+        "date": "2026-10-11",
+        "views": 119
       }
     ],
     "info": {
@@ -243,10 +267,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 119,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 1,
@@ -261,13 +285,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   },
   "2026-10-10-morning-1146": {
     "history": [
       {
         "date": "2026-10-10",
         "views": 0
+      },
+      {
+        "date": "2026-10-11",
+        "views": 55
       }
     ],
     "info": {
@@ -287,10 +315,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 55,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 0,
@@ -305,6 +333,122 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-10T20:19:26.882719+00:00"
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
+  },
+  "2026-10-11-evening-2002": {
+    "history": [
+      {
+        "date": "2026-10-11",
+        "views": 0
+      }
+    ],
+    "info": {
+      "title": "Google AI Playground Lets You Make Games #Shorts",
+      "topic": "I Made Terrible Games With Google’s AI Playground",
+      "category": "New AI Features",
+      "hook": "Can AI actually build fun video games?",
+      "seconds": 47.9,
+      "primary_keyword": "Google AI Playground",
+      "qa_passed": false
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/lTrZaB72_Zo",
+      "facebook": "https://www.facebook.com/reel/1577192646957571"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
+  },
+  "2026-10-11-evening-2101": {
+    "history": [
+      {
+        "date": "2026-10-11",
+        "views": 0
+      }
+    ],
+    "info": {
+      "title": "Starlink India Pricing: Musk Vows Affordable Rates #Shorts",
+      "topic": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+      "category": "Trending Technology",
+      "hook": "Musk vows affordable Starlink in India.",
+      "seconds": 42.2,
+      "primary_keyword": "Starlink India pricing",
+      "qa_passed": false
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/JOl1Nbwiy4o",
+      "facebook": "https://www.facebook.com/reel/2213957019161486"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
+  },
+  "2026-10-11-morning-1146": {
+    "history": [
+      {
+        "date": "2026-10-11",
+        "views": 0
+      }
+    ],
+    "info": {
+      "title": "Copilot for JetBrains Gets Major Chat and MCP Controls #Shorts",
+      "topic": "New controls and chat improvements in Copilot for JetBrains",
+      "category": "New AI Features",
+      "hook": "Copilot for JetBrains just got much better controls.",
+      "seconds": 48.5,
+      "primary_keyword": "Copilot for JetBrains",
+      "qa_passed": true,
+      "posted_at": "2026-10-11T14:31:26.791603+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/v6J7UyGYV9c",
+      "instagram": "https://www.instagram.com/reel/DeW4H7pEt_6/",
+      "facebook": "https://www.facebook.com/reel/2693556397745641"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": null
+      },
+      "instagram": {
+        "likes": 1,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 1,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-11T20:34:55.146386+00:00"
   }
 }
