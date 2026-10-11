@@ -209,6 +209,30 @@
       "posted_at": "2026-10-10T13:43:21.926280+00:00"
     }
   },
+  "2026-10-11-evening-2002": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/lTrZaB72_Zo",
+      "facebook": "https://www.facebook.com/reel/1577192646957571"
+    },
+    "approved_at": "2026-10-11T14:48:16.584098+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-11T15:30:05.582018+00:00",
+    "ids": {
+      "youtube": "lTrZaB72_Zo",
+      "facebook": "1577192646957571"
+    },
+    "info": {
+      "title": "Google AI Playground Lets You Make Games #Shorts",
+      "topic": "I Made Terrible Games With Google’s AI Playground",
+      "category": "New AI Features",
+      "hook": "Can AI actually build fun video games?",
+      "seconds": 47.9,
+      "primary_keyword": "Google AI Playground",
+      "qa_passed": false,
+      "posted_at": "2026-10-11T15:31:30.957665+00:00"
+    }
+  },
   "2026-10-11-morning-1146": {
     "status": "published",
     "platforms": {
