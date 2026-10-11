@@ -210,8 +210,29 @@
     }
   },
   "2026-10-11-morning-1146": {
-    "status": "approved",
-    "platforms": {},
-    "approved_at": "2026-10-11T06:40:22.086094+00:00"
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/v6J7UyGYV9c",
+      "instagram": "https://www.instagram.com/reel/DeW4H7pEt_6/",
+      "facebook": "https://www.facebook.com/reel/2693556397745641"
+    },
+    "approved_at": "2026-10-11T06:40:22.086094+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-11T14:30:02.319722+00:00",
+    "ids": {
+      "youtube": "v6J7UyGYV9c",
+      "instagram": "18109063034224023",
+      "facebook": "2693556397745641"
+    },
+    "info": {
+      "title": "Copilot for JetBrains Gets Major Chat and MCP Controls #Shorts",
+      "topic": "New controls and chat improvements in Copilot for JetBrains",
+      "category": "New AI Features",
+      "hook": "Copilot for JetBrains just got much better controls.",
+      "seconds": 48.5,
+      "primary_keyword": "Copilot for JetBrains",
+      "qa_passed": true,
+      "posted_at": "2026-10-11T14:31:26.791603+00:00"
+    }
   }
 }
