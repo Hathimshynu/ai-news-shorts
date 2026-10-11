@@ -158,3 +158,59 @@ def test_cover_highlights_the_number():
     from pipeline import thumbnail
     assert thumbnail.highlight_index("SOPHOS 96% FASTER".split()) == 1
     assert thumbnail.highlight_index("GEMINI NOW FREE".split()) == 0
+
+
+class _R:
+    def __init__(self, data, code=200):
+        self._d, self.status_code, self.text = data, code, json.dumps(data)
+
+    def json(self):
+        return self._d
+
+
+def _ig_fake(monkeypatch, tmp_path, publish_errors, processing=("FINISHED",)):
+    calls = {"publish": 0, "upload": 0}
+    states = list(processing)
+
+    def post(url, data=None, **k):
+        if url.endswith("/media"):
+            return _R({"id": "C1", "uri": "https://rupload/x"})
+        if "rupload" in url:
+            calls["upload"] += 1
+            return _R({"success": True})
+        if url.endswith("/media_publish"):
+            calls["publish"] += 1
+            if publish_errors:
+                return _R({"error": {"code": publish_errors.pop(0), "message": "Media ID is not available"}}, 400)
+            return _R({"id": "M1"})
+        raise AssertionError(url)
+
+    def get(url, params=None, **k):
+        if url.endswith("content_publishing_limit"):
+            return _R({"data": [{"config": {"quota_total": 100}, "quota_usage": 3}]})
+        if url.endswith("/C1"):
+            return _R({"status_code": states.pop(0) if len(states) > 1 else states[0], "status": "x"})
+        return _R({"permalink": "https://instagram.com/reel/abc"})
+    monkeypatch.setattr(instagram.requests, "post", post)
+    monkeypatch.setattr(instagram.requests, "get", get)
+    monkeypatch.setattr(instagram.time, "sleep", lambda s: None)
+    v = tmp_path / "v.mp4"; v.write_bytes(b"x")
+    return v, calls
+
+
+def test_instagram_retries_media_not_ready(monkeypatch, tmp_path):
+    v, calls = _ig_fake(monkeypatch, tmp_path, publish_errors=[9007, 9007])
+    assert instagram.publish_reel(v, "cap") == ("M1", "https://instagram.com/reel/abc")
+    assert calls["publish"] == 3 and calls["upload"] == 1
+
+
+def test_instagram_reuploads_once_if_processing_fails(monkeypatch, tmp_path):
+    v, calls = _ig_fake(monkeypatch, tmp_path, publish_errors=[], processing=("ERROR", "FINISHED"))
+    assert instagram.publish_reel(v, "cap")[0] == "M1" and calls["upload"] == 2
+
+
+def test_instagram_real_errors_are_reported_with_code(monkeypatch, tmp_path):
+    v, _ = _ig_fake(monkeypatch, tmp_path, publish_errors=[190])
+    with pytest.raises(instagram.IGError) as e:
+        instagram.publish_reel(v, "cap")
+    assert "190" in str(e.value)

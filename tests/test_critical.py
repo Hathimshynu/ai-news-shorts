@@ -208,7 +208,7 @@ def test_early_approval_is_confirmed_and_held_until_post_time(tmp_path, monkeypa
 
     monkeypatch.setattr(gate, "due", lambda job_id, now=None: True)  # 8 PM
     monkeypatch.setattr(gate, "tg", telegram([], []))               # tap no longer visible
-    assert gate.decide() == "publish"
+    assert gate.decide(datetime(2026, 10, 10, 20, 0, tzinfo=gate.IST)) == "publish"
 
 
 def test_post_now_button_posts_immediately(tmp_path, monkeypatch):

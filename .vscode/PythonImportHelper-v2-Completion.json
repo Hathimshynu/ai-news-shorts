@@ -1498,11 +1498,29 @@
         "documentation": {}
     },
     {
+        "label": "IGError",
+        "kind": 6,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "class IGError(RuntimeError):\n    def __init__(self, err):\n        self.code = err.get(\"code\") if isinstance(err, dict) else None\n        self.subcode = err.get(\"error_subcode\") if isinstance(err, dict) else None\n        msg = err.get(\"error_user_msg\") or err.get(\"message\") if isinstance(err, dict) else str(err)\n        super().__init__(f\"Instagram API error {self.code}/{self.subcode}: {msg}\")\nHINTS = {\n    190: \"Instagram token expired or was revoked: run scripts/instagram_token.py again and update IG_ACCESS_TOKEN.\",\n    10: \"Missing permission: the token needs instagram_content_publish (re-create it in Graph API Explorer).\",\n    200: \"Missing permission: the token needs instagram_content_publish (re-create it in Graph API Explorer).\",",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
         "label": "enabled",
         "kind": 2,
         "importPath": "pipeline.instagram",
         "description": "pipeline.instagram",
-        "peekOfCode": "def enabled():\n    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN)\ndef _check(resp):\n    data = resp.json()\n    if resp.status_code >= 400 or \"error\" in data:\n        raise RuntimeError(f\"Instagram API error: {data.get('error', data)}\")\n    return data\ndef username():\n    r = requests.get(f\"{GRAPH}/{config.IG_USER_ID}\", params={\n        \"fields\": \"username\", \"access_token\": config.IG_ACCESS_TOKEN}, timeout=30)",
+        "peekOfCode": "def enabled():\n    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN)\nclass IGError(RuntimeError):\n    def __init__(self, err):\n        self.code = err.get(\"code\") if isinstance(err, dict) else None\n        self.subcode = err.get(\"error_subcode\") if isinstance(err, dict) else None\n        msg = err.get(\"error_user_msg\") or err.get(\"message\") if isinstance(err, dict) else str(err)\n        super().__init__(f\"Instagram API error {self.code}/{self.subcode}: {msg}\")\nHINTS = {\n    190: \"Instagram token expired or was revoked: run scripts/instagram_token.py again and update IG_ACCESS_TOKEN.\",",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "hint",
+        "kind": 2,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "def hint(err):\n    \"\"\"Plain-English next step for an Instagram error (shown in Telegram).\"\"\"\n    return HINTS.get(getattr(err, \"code\", None)) or HINTS.get(getattr(err, \"subcode\", None)) or \"\"\n# Temporary problems worth waiting for: \"media not ready yet\", rate limits, Meta server errors\nRETRYABLE = {9007, 2207027, 2207001, 2207003, 2207008, 2207020, 4, 17, 32, 613, 1, 2, -1}\ndef _check(resp):\n    try:\n        data = resp.json()\n    except ValueError:\n        raise IGError({\"code\": resp.status_code, \"message\": resp.text[:300]})",
         "detail": "pipeline.instagram",
         "documentation": {}
     },
@@ -1529,7 +1547,7 @@
         "kind": 2,
         "importPath": "pipeline.instagram",
         "description": "pipeline.instagram",
-        "peekOfCode": "def publish_reel(video_path, caption):\n    token = config.IG_ACCESS_TOKEN\n    headers = {\"Authorization\": f\"OAuth {token}\"}\n    # 1. Create a resumable Reel container\n    container = _check(requests.post(f\"{GRAPH}/{config.IG_USER_ID}/media\", data={\n        \"media_type\": \"REELS\", \"upload_type\": \"resumable\", \"caption\": caption,\n        \"share_to_feed\": \"true\", \"thumb_offset\": \"500\", \"access_token\": token,\n    }, timeout=60))\n    cid = container[\"id\"]\n    upload_uri = container.get(\"uri\") or f\"https://rupload.facebook.com/ig-api-upload/v21.0/{cid}\"",
+        "peekOfCode": "def publish_reel(video_path, caption):\n    \"\"\"Upload, wait for processing, publish. Retries temporary Instagram problems; one fresh\n    re-upload if Instagram's processing fails. Raises IGError with Meta's error code otherwise.\"\"\"\n    token = config.IG_ACCESS_TOKEN\n    headers = {\"Authorization\": f\"OAuth {token}\"}\n    left = _limit_left()\n    if left is not None:\n        print(f\"[instagram] API posts left in the last 24 h: {left}\")\n        if left <= 0:\n            raise IGError({\"code\": \"LIMIT\", \"message\": \"Instagram's 24-hour API posting limit is used up; \"",
         "detail": "pipeline.instagram",
         "documentation": {}
     },
@@ -1538,7 +1556,25 @@
         "kind": 5,
         "importPath": "pipeline.instagram",
         "description": "pipeline.instagram",
-        "peekOfCode": "GRAPH = \"https://graph.facebook.com/v21.0\"\ndef enabled():\n    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN)\ndef _check(resp):\n    data = resp.json()\n    if resp.status_code >= 400 or \"error\" in data:\n        raise RuntimeError(f\"Instagram API error: {data.get('error', data)}\")\n    return data\ndef username():\n    r = requests.get(f\"{GRAPH}/{config.IG_USER_ID}\", params={",
+        "peekOfCode": "GRAPH = \"https://graph.facebook.com/v21.0\"\ndef enabled():\n    return bool(config.IG_USER_ID and config.IG_ACCESS_TOKEN)\nclass IGError(RuntimeError):\n    def __init__(self, err):\n        self.code = err.get(\"code\") if isinstance(err, dict) else None\n        self.subcode = err.get(\"error_subcode\") if isinstance(err, dict) else None\n        msg = err.get(\"error_user_msg\") or err.get(\"message\") if isinstance(err, dict) else str(err)\n        super().__init__(f\"Instagram API error {self.code}/{self.subcode}: {msg}\")\nHINTS = {",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "HINTS",
+        "kind": 5,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "HINTS = {\n    190: \"Instagram token expired or was revoked: run scripts/instagram_token.py again and update IG_ACCESS_TOKEN.\",\n    10: \"Missing permission: the token needs instagram_content_publish (re-create it in Graph API Explorer).\",\n    200: \"Missing permission: the token needs instagram_content_publish (re-create it in Graph API Explorer).\",\n    4: \"Instagram rate limit: it retries automatically later.\", 17: \"Instagram rate limit: retries later.\",\n    32: \"Instagram rate limit: retries later.\", 613: \"Instagram rate limit: retries later.\",\n    \"LIMIT\": \"Instagram's 24-hour posting limit is used up: it works again within 24 hours.\",\n    2207026: \"Instagram rejected the video format.\", \"PROCESSING_ERROR\": \"Instagram couldn't process the video file.\",\n    \"TIMEOUT\": \"Instagram was very slow to process the video: it retries later.\",\n}",
+        "detail": "pipeline.instagram",
+        "documentation": {}
+    },
+    {
+        "label": "RETRYABLE",
+        "kind": 5,
+        "importPath": "pipeline.instagram",
+        "description": "pipeline.instagram",
+        "peekOfCode": "RETRYABLE = {9007, 2207027, 2207001, 2207003, 2207008, 2207020, 4, 17, 32, 613, 1, 2, -1}\ndef _check(resp):\n    try:\n        data = resp.json()\n    except ValueError:\n        raise IGError({\"code\": resp.status_code, \"message\": resp.text[:300]})\n    if resp.status_code >= 400 or \"error\" in data:\n        raise IGError(data.get(\"error\", data))\n    return data\ndef username():",
         "detail": "pipeline.instagram",
         "documentation": {}
     },
@@ -2416,6 +2452,15 @@
         "documentation": {}
     },
     {
+        "label": "_R",
+        "kind": 6,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "class _R:\n    def __init__(self, data, code=200):\n        self._d, self.status_code, self.text = data, code, json.dumps(data)\n    def json(self):\n        return self._d\ndef _ig_fake(monkeypatch, tmp_path, publish_errors, processing=(\"FINISHED\",)):\n    calls = {\"publish\": 0, \"upload\": 0}\n    states = list(processing)\n    def post(url, data=None, **k):\n        if url.endswith(\"/media\"):",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
         "label": "test_official_source_outscores_plain_news",
         "kind": 2,
         "importPath": "tests.test_content",
@@ -2528,7 +2573,7 @@
         "kind": 2,
         "importPath": "tests.test_content",
         "description": "tests.test_content",
-        "peekOfCode": "def test_good_package_passes_seo():\n    p = _pkg(title_youtube=\"OpenAI Daybreak: Sophos Cuts Threat Response 96%\",\n             description=\"OpenAI Daybreak helped Sophos cut threat investigations from 38 minutes to 89 seconds.\",\n             thumbnail_text=\"Sophos 96% Faster\")\n    assert script_gen.seo_issues(p) == []\ndef test_cover_highlights_the_number():\n    from pipeline import thumbnail\n    assert thumbnail.highlight_index(\"SOPHOS 96% FASTER\".split()) == 1\n    assert thumbnail.highlight_index(\"GEMINI NOW FREE\".split()) == 0",
+        "peekOfCode": "def test_good_package_passes_seo():\n    p = _pkg(title_youtube=\"OpenAI Daybreak: Sophos Cuts Threat Response 96%\",\n             description=\"OpenAI Daybreak helped Sophos cut threat investigations from 38 minutes to 89 seconds.\",\n             thumbnail_text=\"Sophos 96% Faster\")\n    assert script_gen.seo_issues(p) == []\ndef test_cover_highlights_the_number():\n    from pipeline import thumbnail\n    assert thumbnail.highlight_index(\"SOPHOS 96% FASTER\".split()) == 1\n    assert thumbnail.highlight_index(\"GEMINI NOW FREE\".split()) == 0\nclass _R:",
         "detail": "tests.test_content",
         "documentation": {}
     },
@@ -2537,7 +2582,34 @@
         "kind": 2,
         "importPath": "tests.test_content",
         "description": "tests.test_content",
-        "peekOfCode": "def test_cover_highlights_the_number():\n    from pipeline import thumbnail\n    assert thumbnail.highlight_index(\"SOPHOS 96% FASTER\".split()) == 1\n    assert thumbnail.highlight_index(\"GEMINI NOW FREE\".split()) == 0",
+        "peekOfCode": "def test_cover_highlights_the_number():\n    from pipeline import thumbnail\n    assert thumbnail.highlight_index(\"SOPHOS 96% FASTER\".split()) == 1\n    assert thumbnail.highlight_index(\"GEMINI NOW FREE\".split()) == 0\nclass _R:\n    def __init__(self, data, code=200):\n        self._d, self.status_code, self.text = data, code, json.dumps(data)\n    def json(self):\n        return self._d\ndef _ig_fake(monkeypatch, tmp_path, publish_errors, processing=(\"FINISHED\",)):",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
+        "label": "test_instagram_retries_media_not_ready",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_instagram_retries_media_not_ready(monkeypatch, tmp_path):\n    v, calls = _ig_fake(monkeypatch, tmp_path, publish_errors=[9007, 9007])\n    assert instagram.publish_reel(v, \"cap\") == (\"M1\", \"https://instagram.com/reel/abc\")\n    assert calls[\"publish\"] == 3 and calls[\"upload\"] == 1\ndef test_instagram_reuploads_once_if_processing_fails(monkeypatch, tmp_path):\n    v, calls = _ig_fake(monkeypatch, tmp_path, publish_errors=[], processing=(\"ERROR\", \"FINISHED\"))\n    assert instagram.publish_reel(v, \"cap\")[0] == \"M1\" and calls[\"upload\"] == 2\ndef test_instagram_real_errors_are_reported_with_code(monkeypatch, tmp_path):\n    v, _ = _ig_fake(monkeypatch, tmp_path, publish_errors=[190])\n    with pytest.raises(instagram.IGError) as e:",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
+        "label": "test_instagram_reuploads_once_if_processing_fails",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_instagram_reuploads_once_if_processing_fails(monkeypatch, tmp_path):\n    v, calls = _ig_fake(monkeypatch, tmp_path, publish_errors=[], processing=(\"ERROR\", \"FINISHED\"))\n    assert instagram.publish_reel(v, \"cap\")[0] == \"M1\" and calls[\"upload\"] == 2\ndef test_instagram_real_errors_are_reported_with_code(monkeypatch, tmp_path):\n    v, _ = _ig_fake(monkeypatch, tmp_path, publish_errors=[190])\n    with pytest.raises(instagram.IGError) as e:\n        instagram.publish_reel(v, \"cap\")\n    assert \"190\" in str(e.value)",
+        "detail": "tests.test_content",
+        "documentation": {}
+    },
+    {
+        "label": "test_instagram_real_errors_are_reported_with_code",
+        "kind": 2,
+        "importPath": "tests.test_content",
+        "description": "tests.test_content",
+        "peekOfCode": "def test_instagram_real_errors_are_reported_with_code(monkeypatch, tmp_path):\n    v, _ = _ig_fake(monkeypatch, tmp_path, publish_errors=[190])\n    with pytest.raises(instagram.IGError) as e:\n        instagram.publish_reel(v, \"cap\")\n    assert \"190\" in str(e.value)",
         "detail": "tests.test_content",
         "documentation": {}
     },

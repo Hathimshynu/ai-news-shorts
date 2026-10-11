@@ -70,7 +70,8 @@ def run():
             gate.put(job_id, rec)  # save immediately so this platform is never posted twice
         except Exception as e:  # noqa: BLE001 - one platform failing must not block the others
             traceback.print_exc()
-            errors.append(f"{label}: {type(e).__name__}: {str(e)[:300]}")
+            tip = instagram.hint(e) if key == "instagram" else ""
+            errors.append(f"{label}: {str(e)[:300]}" + (f"\n   → {tip}" if tip else ""))
 
     icons = {"youtube": "▶️ YouTube", "instagram": "📸 Instagram", "facebook": "📘 Facebook"}
     lines = [f"{icons[k]}: {v}" for k, v in rec["platforms"].items()]
