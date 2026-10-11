@@ -1,24 +1,62 @@
 {
-  "job_id": "2026-10-11-evening-2002",
-  "chosen": "I Made Terrible Games With Google’s AI Playground",
-  "reason": "It offers an engaging, hands-on demonstration of using Google's generative AI tools to build interactive games, giving viewers a practical and creative experiment they can try themselves.",
+  "job_id": "2026-10-11-evening-2101",
+  "chosen": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+  "reason": "Elon Musk promising affordable Starlink satellite broadband in India creates massive curiosity and discussion about how satellite internet will challenge Jio and transform connectivity.",
   "candidates": [
     {
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "score": 19.24,
+      "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+      "score": 21.58,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWkzSVo4bFM5X2IycGlUQWxvUDFpSFNwTHBqa2h0VFFJTG1JSThTU3pZSlNnTmNEWEpsY0Rad1NuOW1tY0VBR1dFM2ZvOWozMEdkNjNjRUNGXzNzWXdTaTJ2RUJidFdvOGNBUW1iYzQ5UnJ4Y1B4U2IyWVpqa1gtNnlfY2szQmdrVTdaTGg5RmQxYTQ4S1FrVm5hbE1aamtEOXU4ODFjOUZnWjNBbU9XY25XNXl6SEJhMmpfYk5GejZTZG1QdzN4dWRqNGJ5MDR6YWJxOXZEMU1UUdIB3wFBVV95cUxPc3UzWGJxWDZ5STUyRm5VNTVDSkdhMWd4c19Ld2ZndzlYdHM0QmJTV3dFWGRhSlFycjRweC02UDJBTVRIMk1fNGJ3aU9RWnpvM2tPMU5jdk9seG04cVlFeUxPTGppOHgxamE3aDI2MEtMZlRIeGY0VWtGdF81Sl85SjFBNlEtRm01QjdXSXdSMkt4cVFiYmh3ZjBkWEVtVEEyYWdlUkFmQjNfVGhVaThZZFh2aHZDQmZLRmNLcE5JT1dycEkwLTkybWVXWm5nc3BTZGxlUTItbVIwY3U3c2NZ?oc=5"
+      ]
+    },
+    {
+      "title": "Quarter of India’s labour force highly exposed to AI, says report",
+      "score": 17.9,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxONndJdkFrWTdpbnc5VjRDbmFKZXNEamVqc3hEQVZ3d2hNVmJ4aFRoYmtDd3RpX1VfOGtzNkVHdTU4X3RqM204S2twMHJhU1hWaFJ3TFd5WHUweDg0TkRlS3o4aXRPd2FQbW9taERjbTRQUXJPaTd0U1N3b3diUldBWTlPWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxONndJdkFrWTdpbnc5VjRDbmFKZXNEamVqc3hEQVZ3d2hNVmJ4aFRoYmtDd3RpX1VfOGtzNkVHdTU4X3RqM204S2twMHJhU1hWaFJ3TFd5WHUweDg0TkRlS3o4aXRPd2FQbW9taERjbTRQUXJPaTd0U1N3b3diUldBWTlPWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxONndJdkFrWTdpbnc5VjRDbmFKZXNEamVqc3hEQVZ3d2hNVmJ4aFRoYmtDd3RpX1VfOGtzNkVHdTU4X3RqM204S2twMHJhU1hWaFJ3TFd5WHUweDg0TkRlS3o4aXRPd2FQbW9taERjbTRQUXJPaTd0U1N3b3diUldBWTlPWQ?oc=5"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjVncjJLdjJtdW5iMDlsZVR2RjFLempvWWgyVE0yUmc0OVhNM3VqS3EycjJkSTVxTzJYM3pIbFVQNXZUYjJiOTU3MkloLS1ZcU9LLThDUXl2a3lRbDlKSER4c000eF9pT3p2VFhZUm42V0RNcGxOWDNOMFM3eWxjaGMyd1FLU0ZuU1FoUThsNHAyamF0Q3F6UFdOX1ZQT2N1eGtFZGdQVzdqNnNYRi00RHpRLWxUQXNlTk5lajZhSURibHd3WWxF0gHOAUFVX3lxTFBIMVlZVWFHN0RQZGl3R3dlZmNwcWJhU2tkdGRMY1RUZTN5MG0zTkl5MGhOajJxY28zM0JKeUo0bmNIbjRYMTA5ZmxfY0JaR1RLVWhjYWxncW1vMk4xUjk0bl9ycTNDRGhxX1NRTUEzaUtVNnlIY2tYemtaMTBCcXNsSlhPTUJPNXY1RnpnQ0JUVGJ6Q2U1SWtQRWZubEh5TllnMHNiWGJTMjZZdjdDZTRiSU9JOHdUdkp6N1BJZWQ5S0Z0empabVpaSmhVVWJ3?oc=5"
+      ]
+    },
+    {
+      "title": "SBI warns of UPI fraud: How the ‘jumped deposit scam’ can drain your bank account",
+      "score": 21.35,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSk1xQVpsLWVCTUNVek5Hb1RaRVFCa3QzMFpKTTMtNEVLak0yZ0lvVHJlbzFMTjhsZW5GQnQtWjByU25vMjZQZWM3ZENKaFFhdzg2RklET1B5andKeXlnMUFNamc4NmlwdGxyQmNvd0dMVzB2SXpEbURQY09XR21TQnhVd1kzT05HZkZqSnZ6MVJkTFF2dHNwS0VJUW5sQzRfT2dsRzBoZEhCSmdXZjFaT3FEbWF2V3RqNERTVkktdk9yMTktTS1qSWtZZHB2YWw4SThna1VoNlg0VVdZRHUw0gHkAUFVX3lxTE82TjdvV210ODZpOE10QVZlc3RxMVlCRmxuQ2ZrY0s3SHVMeFNCVy1KMTYtRGVXc0VWRGJrWjU1RGZXX0pTb1JMMnBqT05fZHAwYzBIVkxjaXYtZWN4ZjJhTmloOTkwM3k2VHVLbFY5amtDaEZUSTlMREROekFLNkk4c3lpV1hCdGlXUkhIWjRaYmlnTmhUVk8zQVNJbzYwbWlGQUI0SjljTlg1dnBjY3ZlUkhIMGd0RkFqQlVvQ3UtWkFibVcyM0Vsa29jdVp4Y3NSUF8xcEE1WGZjVFdDcUF0eVVRMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejU0MkhDdDBiakRVNVo3OGFYLTVOdWdGQWpfX1h3QmRzQ2Q2QTd6aW56SmhqTm01aURTQl9WdVh5VkZVemlrRTFlckpFNFZ0TGw0aXUxWjZ0YnN3Rm1kWW9pOHY0TUxOaVBqWFdhZHM1VDhFSjdSTzFvT1Y3UzZuaTdUa1l3R0Ytb3VaQ1IxVS1xWGJLOHRyLVJvcU84UUtmSGJKOWlkSDE?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSk1xQVpsLWVCTUNVek5Hb1RaRVFCa3QzMFpKTTMtNEVLak0yZ0lvVHJlbzFMTjhsZW5GQnQtWjByU25vMjZQZWM3ZENKaFFhdzg2RklET1B5andKeXlnMUFNamc4NmlwdGxyQmNvd0dMVzB2SXpEbURQY09XR21TQnhVd1kzT05HZkZqSnZ6MVJkTFF2dHNwS0VJUW5sQzRfT2dsRzBoZEhCSmdXZjFaT3FEbWF2V3RqNERTVkktdk9yMTktTS1qSWtZZHB2YWw4SThna1VoNlg0VVdZRHUw0gHkAUFVX3lxTE82TjdvV210ODZpOE10QVZlc3RxMVlCRmxuQ2ZrY0s3SHVMeFNCVy1KMTYtRGVXc0VWRGJrWjU1RGZXX0pTb1JMMnBqT05fZHAwYzBIVkxjaXYtZWN4ZjJhTmloOTkwM3k2VHVLbFY5amtDaEZUSTlMREROekFLNkk4c3lpV1hCdGlXUkhIWjRaYmlnTmhUVk8zQVNJbzYwbWlGQUI0SjljTlg1dnBjY3ZlUkhIMGd0RkFqQlVvQ3UtWkFibVcyM0Vsa29jdVp4Y3NSUF8xcEE1WGZjVFdDcUF0eVVRMA?oc=5"
+      ]
+    },
+    {
+      "title": "Zimbabwe may use India's UPI stack to change African payment system: Report",
+      "score": 18.4,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWFOS05VWWVjZEt0REU2QmE5YWIwb214ZnozSklZXy1Ecy15QW5MZkFWTmtURHNZbWFic2FZTlhGVGJtU1luSjgyRl9uUHUwc1JiQnhLU3JJRWwwYlNia0dfN3IzNktfcExQaGw2aE9GWXB4SmIyQ3ZhaHJ3WkI5ODJsVm1XU1llaVlYUVQ4bmRRWG1ub1RONXRiVng5VGlGVTY1VDFrcmxOQmJkb1F4ckhYcExkRWc?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWFOS05VWWVjZEt0REU2QmE5YWIwb214ZnozSklZXy1Ecy15QW5MZkFWTmtURHNZbWFic2FZTlhGVGJtU1luSjgyRl9uUHUwc1JiQnhLU3JJRWwwYlNia0dfN3IzNktfcExQaGw2aE9GWXB4SmIyQ3ZhaHJ3WkI5ODJsVm1XU1llaVlYUVQ4bmRRWG1ub1RONXRiVng5VGlGVTY1VDFrcmxOQmJkb1F4ckhYcExkRWc?oc=5"
       ]
     },
     {
       "title": "Nvidia in talks to acquire Reflection AI or deepen its investment: Report",
-      "score": 29.97,
+      "score": 29.72,
       "kinds": [
         "backlog",
         "news"
@@ -31,33 +69,21 @@
       ]
     },
     {
-      "title": "Starlink pricing must be affordable in India, says Musk amid Jio row",
-      "score": 19.83,
+      "title": "Bets are on for India's semiconductor space amid growing M&As, investments",
+      "score": 17.97,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWkzSVo4bFM5X2IycGlUQWxvUDFpSFNwTHBqa2h0VFFJTG1JSThTU3pZSlNnTmNEWEpsY0Rad1NuOW1tY0VBR1dFM2ZvOWozMEdkNjNjRUNGXzNzWXdTaTJ2RUJidFdvOGNBUW1iYzQ5UnJ4Y1B4U2IyWVpqa1gtNnlfY2szQmdrVTdaTGg5RmQxYTQ4S1FrVm5hbE1aamtEOXU4ODFjOUZnWjNBbU9XY25XNXl6SEJhMmpfYk5GejZTZG1QdzN4dWRqNGJ5MDR6YWJxOXZEMU1UUdIB3wFBVV95cUxPc3UzWGJxWDZ5STUyRm5VNTVDSkdhMWd4c19Ld2ZndzlYdHM0QmJTV3dFWGRhSlFycjRweC02UDJBTVRIMk1fNGJ3aU9RWnpvM2tPMU5jdk9seG04cVlFeUxPTGppOHgxamE3aDI2MEtMZlRIeGY0VWtGdF81Sl85SjFBNlEtRm01QjdXSXdSMkt4cVFiYmh3ZjBkWEVtVEEyYWdlUkFmQjNfVGhVaThZZFh2aHZDQmZLRmNLcE5JT1dycEkwLTkybWVXWm5nc3BTZGxlUTItbVIwY3U3c2NZ?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5"
-      ]
-    },
-    {
-      "title": "Zimbabwe may use India's UPI stack to change African payment system: Report",
-      "score": 18.65,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWFOS05VWWVjZEt0REU2QmE5YWIwb214ZnozSklZXy1Ecy15QW5MZkFWTmtURHNZbWFic2FZTlhGVGJtU1luSjgyRl9uUHUwc1JiQnhLU3JJRWwwYlNia0dfN3IzNktfcExQaGw2aE9GWXB4SmIyQ3ZhaHJ3WkI5ODJsVm1XU1llaVlYUVQ4bmRRWG1ub1RONXRiVng5VGlGVTY1VDFrcmxOQmJkb1F4ckhYcExkRWc?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkFDRWF1MGZaOEVQZjB5ZEI2U2IxSmJGZloyTXdWOXZrY1R6N21ma295QlNrYzFoX0pCS0lnbk1VVV95MTUwdG15SzVpOEJiODJ5MlF6TWdhdGZVSGlISkFkcnV1dm1XcnpUQzB3SW45d21jZVk1enRWbkNDSWhCMUpDUHdUR1FleGkwWFpUaTdZVUszWV9hRnd3d04tVnFDZUdzR1NlS2ZDTktCbVdLcG5ZX2ZfQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTGlrWHZXeWdIOGZzeUhtOElxU3c4dldiY0tqem83S2kzMklCbldJMk1pODcyOHBRMUtMU3JtOWsxdVo4U2I0aktpZTFycUUxMmNCclN3eU1adF9GZThfa21YNGlfTHlBdi03ckZDQ1BVdTVVd3l0NVRYbHJFZUZoQXlJTnlYa0E3d0ZKbzk4N0hOYTlPazFDUlA4RmZ1bEs0TGxEWlkyS2VnWGRpSjAwSFlJYndtM0dSOTBua0F1NXhlY21DeHdfVDJYRE1VTjJTRFZ4dTV4bU40NkhVMmZwME9R0gHnAUFVX3lxTE1CX29YdjF2MTg0dDkzM01UcFl4Nk1WRlRON3lveTVvWEJUbmdmLUVFVGc1WmRsR2p0WVNPLTM2Wkx2bWVHSU9qNGZZV0paTDJwWU44eVpvVWdfWURXYldhOG1NQkZFSWZ3eEtObWZSak5pNFlvSExvc1FaZXpoVmplR3dIbXhIbGFkUHI5X1hjTm5TdFM4ZWxveXVkUnYzTExOalZQSzFONjFHc0J2a3FkWkcwRDRTYjlESVlDUW00b3VzZEZ2aFEteWg4LVRKR2VXbHotTGtINjlUcVJCZUloZkE1N3I2dw?oc=5"
       ]
     },
     {
       "title": "The vivo X Fold6 powers advanced productivity features with India's biggest battery in a foldable - GSMArena.com news",
-      "score": 19.74,
+      "score": 21.49,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -68,58 +94,59 @@
       ]
     },
     {
-      "title": "SBI warns of UPI fraud: How the ‘jumped deposit scam’ can drain your bank account",
-      "score": 18.61,
+      "title": "Infinix GT 50 Pro with visible liquid cooling is launching on October 27 in India",
+      "score": 19.72,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSk1xQVpsLWVCTUNVek5Hb1RaRVFCa3QzMFpKTTMtNEVLak0yZ0lvVHJlbzFMTjhsZW5GQnQtWjByU25vMjZQZWM3ZENKaFFhdzg2RklET1B5andKeXlnMUFNamc4NmlwdGxyQmNvd0dMVzB2SXpEbURQY09XR21TQnhVd1kzT05HZkZqSnZ6MVJkTFF2dHNwS0VJUW5sQzRfT2dsRzBoZEhCSmdXZjFaT3FEbWF2V3RqNERTVkktdk9yMTktTS1qSWtZZHB2YWw4SThna1VoNlg0VVdZRHUw0gHkAUFVX3lxTE82TjdvV210ODZpOE10QVZlc3RxMVlCRmxuQ2ZrY0s3SHVMeFNCVy1KMTYtRGVXc0VWRGJrWjU1RGZXX0pTb1JMMnBqT05fZHAwYzBIVkxjaXYtZWN4ZjJhTmloOTkwM3k2VHVLbFY5amtDaEZUSTlMREROekFLNkk4c3lpV1hCdGlXUkhIWjRaYmlnTmhUVk8zQVNJbzYwbWlGQUI0SjljTlg1dnBjY3ZlUkhIMGd0RkFqQlVvQ3UtWkFibVcyM0Vsa29jdVp4Y3NSUF8xcEE1WGZjVFdDcUF0eVVRMA?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1UyclNZYnVBY3RaSFhaa1N1VnYzOUU0dmZKQ2xOQjdaNW9CSlhjcUo2XzNPR0JkOFRIVDZzNTNaYkRLbm0xMFBSMzNoQzludUZGdFZlRmg4ZmZWZ2RwUGJBVnZwcTJUT3NBUXZ2LVAyNzFFUmxfTldzc091Q015S0ZDRm1odXdtSzZYNG5JQWNKeU5TN25OY2ZjVkdENG9hVEdOYVJqY1p1QUw2OFdocXA4MDQyd0hhRVo2NTcxdU9NcnIy0gHKAUFVX3lxTE4tbVBNSUhTVXluWVFQTTBSN0oteFE4Q3pibnpxS3lBMWNwUzdJTHU4VmlKY25NRm9Fa3BxVDA2dXpMakNKRGRSMDFYOUZUdWkyMmRUWGFvNGxtbmR1VGdxaUl0b3hfWDVRT3pSSnQzVUJrUGlIMi1KR3V1LVdCT0NkRHk3XzR3WDBjTHh0WDFJSmtSYW5fMVpGQ09rUTBfVVBYMWM2Ql9mYWFCaVNaa1lldnJCRTNJeksxSm5mckN0WUtOT1dGdTQ2d1E?oc=5"
-      ]
-    },
-    {
-      "title": "AI Mode in Google Search Tackles Everyday Questions in Campaign via McCann India",
-      "score": 17.97,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uaDc5enU5UTlVem5ubXZaZVp3amF0TnpIVW1ocmw1QlRGcWRqcDZVZzRSSURodkU0VVJkYXZkckdZOUpXc0hrM0hBemExSWg4NUVNNzNSVkFlUXp2UzlvQ1RNbzJPSzdFN0c3QkF0UWFmNFJrMmI5ekY2am5XSlk?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamZkN3N1LXY2TUU3dE9aZDdpOVZyRVplbGFIZFJjb1ppWXRpRUpFNDJKd1N1cTZ0djgyejYzeUdJalpOUHN1Rmt0N0pMQW9raE5mR2hXS3JGYkdXT2tzYWpxdG5TNTlaaDc1bm1DeHFMUUxDakI4Z09sYmpjcldNUlkwUExRTENCVEVwNTV3d05ySGo4VlRneVJaQjZCRzZEN2dVa1c5cHl5NDhiVXJTajdTYklyTmxfTUE?oc=5"
       ]
     },
     {
       "title": "Airtel Business CEO backs AI regulation, says guardrails can unlock productivity gains",
-      "score": 21.63,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2J5aWF3NGEwS3hfNlNhMS1xZFBxTFl3Ri01RkhPYjRZZTB4bS01WmptMTE1aGhBbmZ6MGlLRFUwV0FULXJHdEZzc29raXEzT1ZJVkpiYlFHblo1YUpHNXFCU3ZQa3dlc0VsUl9kVFZYWkthcTFoRHFsRjZBX1J2Z3RLRlZIek5mVmxoanBKWE00U0RoWWV5cEk4d19mZE01VVNaNXprU0xtaUh4Vk5kWl9nY0E2RzcwYXBmaTRSX09uVVBOMk1vSlBqWUhJbW1yaUV2M0V5SXQ4WGtaMWRsTUZLX1FaWjQ0SHRCeGhhaF_SAfYBQVVfeXFMTTVObWZFQUNnZGp0NGVzeGVSOS11OGZxX3EwTE55cU1ZTmFXX2VrZ0JMVmp6MG9aUFhYLVItLXhIQXJHX2dzQzVBWHpYdWZQOTg2SThBYllwT3V0ZG1jSjBJOGF0OTZBdm9yQmJzeHFua0tUN1dVQjhqSE5jaWlkRHZVSDZ1azBuVUZmR3dwU0VwWkpwZ1IwRXNrenplcDNiODFiZ3dEcldLTTQydURKcFpXUWtwYWgxb18wdjQzZi1Gb3lReVpEWlY4QmQxMHZmOHpleDBxcFE5Vno5VnJmNVc5UTZhWjBOWTlKem5Ja1k1cTNJVk5R?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFUzZE0wTXZaWlpRVGo3MHgzNkFkVFIwZTJ1Rk1HTnpMT2NtT2QwaEJhS2FKZTZzZzlyU21KQnpUcHA2WF82ek1tRHNpbG9hVElvUkZ3YzNaS2xHQUNkNlBDUm1sSDcwa3hnUFhKRWhXLUtpU3NRTmxMWmFJQ0RSbUFaaXNCUFlobnJoNEwwaGtOMjdDSHlDVk9EZmkxa3FhcFBtNmRXQXdpRWl4Q0NXOU50ZGpUX0lzc2VQVVZZTnRYeUZPNERwRFlONW1oQXo5Y0M4RkdYUkp5d9IB3wFBVV95cUxPV2NEUWdDbWM4Wmx4ZENTckVrU3NYTGg1R291czVOZ2lXT2tHQUw1RVY2VUVqajg2dC1XR090dy10cWJRbUZGdXVPSnM4a0lBcl9feEhKM2FVNG0xblBsa3RIbjZVSU5aMm1fNmFkSl9SdmR5RmVwVVc0dXpUVlR1SEdkUzRFSFIyQUJnLWFUWUx6ODhKZ3dEX0g2SDNaWUNfanNERTNBVDA5NE5wXzN5d1hEQ1JpeTB5Wjk1czlwaUJCMnhmbmFUSExoNXZub2pHZmxEZkJrZ19EVFZfUHM4?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWN4RlZZZ1M3MGhYRlg5b2dQal9QZDFNUU5reDB6OUU5Z0Q4aFFzZUlfVHJ1X2xqY1MwQm5FVnVLSVBOSW54WjVhY0FMaFgybUxOSUFianJuT2FBcnlXbnBUelFYcE9HWmYwRk0zMFVKTkdxSUVUYkVQWTA1MEVYT21YQk5Wbm1pWDVuOGNaeFV6Vlp0bG9teDllaUJEOF9Pc21ueUVJczh5U2NpOGxIVUMyVEtUOEdf0gG7AUFVX3lxTE9JcFBtSjliMTlTSkFKbG1kdllqZFZBd1FTTkJVdXVzT284QjVITFR4aU9EdEc0aDVLM0IxSnhSWmhZSklGd0dFN1ZyWWowUlRiSE5VakNXRHhWejVtNDJJUS1VTUlTd0poZHJwTlFGQnJBc3JrU01PMnhSbTR2Wmg3VXhKVG0xSE5WcGRWNTFTQlo3OEdJS250OE1GbDRjUExyODkzaWhYajVZQXhYRHZyMDJUT20yVlNjNG8?oc=5"
-      ]
-    },
-    {
-      "title": "iQOO 16 India launch confirmed with Snapdragon chip",
-      "score": 20.19,
+      "score": 23.38,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOC1kX1ZTb0NBTURDVVBJclB5LXBhODRmbktBd19CM2REU2l6dVlLTUN6UjRGenhGRm84ZGRBMll5YmdzMkM3anpCVnhaUE5wQktEaS00dHJPRUprTU0yc1pDalcxSG9qT3Back1JMDlldUF4b1hUVDR1b1RKTlJkNTlCbzFGdm1JU1NuU1dnTG5odndUbzVyWXJUWG5VcVU?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEw1cE0wZ1dtM01EWnJOekc5WWZOV3FEWktkdU9HVC14LXVPUUpHMnd3UkpCdEl3cV9Nd2g3djZCRVJvQlNVRWV2NDRQUGRZNW1UX0ozWnllSkt3X2ZubFhYc2NwRFBadGFfSWpFOFpvbm05SzlLbm1TX1lyd0tSOWU5eVlJVllLVUdlMUdpOUdPWnBicDdmQXJjWUhaeWxyVVBSUmYyZEI4UjZ3RHlTemwyVi1HZTcwSE9CbEpuZHRHck3SAcgBQVVfeXFMUFlRYnhaNnY4SWFEVi1CSTQza1V3U3FiZG45dWwtRlB3T2YxMWNPbFVKMlN0QjkxQ1h4LWg1SWs4ZHRpRDFldHFobkV0dTF0Tm5rZDJoLXFlYzg1dHpXODFDdXcwc1BWcmhzM2k2X21LZjNWS2VLemo5dDNpQUVOME14RkFXbmpWNUVOYXBVRUphaEZDUnkyUS1OczhZYlV4dkNqdVVtbUJ6aERVNDh4VXpCWDA1U29qV2piQjFXQTZGWGVWWFR6eGY?oc=5"
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNU5tZkVBQ2dkanQ0ZXN4ZVI5LXU4ZnFfcTBMTnlxTVlOYVdfZWtnQkxWanowb1pQWFgtUi0teEhBckdfZ3NDNUFYelh1ZlA5ODZJOEFiWXBPdXRkbWNKMEk4YXQ5NkF2b3JCYnN4cW5rS1Q3V1VCOGpITmNpaWREdlVINnVrMG5VRmZHd3BTRXBaSnBnUjBFc2t6emVwM2I4MWJnd0RyV0tNNDJ1REpwWldRa3BhaDFvXzB2NDNmLUZveVF5WkRaVjhCZDEwdmY4emV4MHFwUTlWejlWcmY1VzlRNmFaME5ZOUp6bklrWTVxM0lWTlHSAfYBQVVfeXFMTTVObWZFQUNnZGp0NGVzeGVSOS11OGZxX3EwTE55cU1ZTmFXX2VrZ0JMVmp6MG9aUFhYLVItLXhIQXJHX2dzQzVBWHpYdWZQOTg2SThBYllwT3V0ZG1jSjBJOGF0OTZBdm9yQmJzeHFua0tUN1dVQjhqSE5jaWlkRHZVSDZ1azBuVUZmR3dwU0VwWkpwZ1IwRXNrenplcDNiODFiZ3dEcldLTTQydURKcFpXUWtwYWgxb18wdjQzZi1Gb3lReVpEWlY4QmQxMHZmOHpleDBxcFE5Vno5VnJmNVc5UTZhWjBOWTlKem5Ja1k1cTNJVk5R?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFUzZE0wTXZaWlpRVGo3MHgzNkFkVFIwZTJ1Rk1HTnpMT2NtT2QwaEJhS2FKZTZzZzlyU21KQnpUcHA2WF82ek1tRHNpbG9hVElvUkZ3YzNaS2xHQUNkNlBDUm1sSDcwa3hnUFhKRWhXLUtpU3NRTmxMWmFJQ0RSbUFaaXNCUFlobnJoNEwwaGtOMjdDSHlDVk9EZmkxa3FhcFBtNmRXQXdpRWl4Q0NXOU50ZGpUX0lzc2VQVVZZTnRYeUZPNERwRFlONW1oQXo5Y0M4RkdYUkp5d9IB3wFBVV95cUxPV2NEUWdDbWM4Wmx4ZENTckVrU3NYTGg1R291czVOZ2lXT2tHQUw1RVY2VUVqajg2dC1XR090dy10cWJRbUZGdXVPSnM4a0lBcl9feEhKM2FVNG0xblBsa3RIbjZVSU5aMm1fNmFkSl9SdmR5RmVwVVc0dXpUVlR1SEdkUzRFSFIyQUJnLWFUWUx6ODhKZ3dEX0g2SDNaWUNfanNERTNBVDA5NE5wXzN5d1hEQ1JpeTB5Wjk1czlwaUJCMnhmbmFUSExoNXZub2pHZmxEZkJrZ19EVFZfUHM4?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWN4RlZZZ1M3MGhYRlg5b2dQal9QZDFNUU5reDB6OUU5Z0Q4aFFzZUlfVHJ1X2xqY1MwQm5FVnVLSVBOSW54WjVhY0FMaFgybUxOSUFianJuT2FBcnlXbnBUelFYcE9HWmYwRk0zMFVKTkdxSUVUYkVQWTA1MEVYT21YQk5Wbm1pWDVuOGNaeFV6Vlp0bG9teDllaUJEOF9Pc21ueUVJczh5U2NpOGxIVUMyVEtUOEdf0gG7AUFVX3lxTE9JcFBtSjliMTlTSkFKbG1kdllqZFZBd1FTTkJVdXVzT284QjVITFR4aU9EdEc0aDVLM0IxSnhSWmhZSklGd0dFN1ZyWWowUlRiSE5VakNXRHhWejVtNDJJUS1VTUlTd0poZHJwTlFGQnJBc3JrU01PMnhSbTR2Wmg3VXhKVG0xSE5WcGRWNTFTQlo3OEdJS250OE1GbDRjUExyODkzaWhYajVZQXhYRHZyMDJUT20yVlNjNG8?oc=5"
+      ]
+    },
+    {
+      "title": "India has been overlooked in the AI Rush: Vincent Mortier",
+      "score": 17.92,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2xlZU8xZlA5Y0VXS002dkhuUXVaXzdGV1Y5eFZ5TVY0QUQ0R1ZpSy00UHdDVE1ZRFNlbHlyUlZHQjI4bWY5enB1cWNsZ1NyeTBPM2E5bnhmMkZLd1ZsbGlYd0NzNEJxcE5fcDBSVkEtQmpaWjV2cHhJa0RQeTUwVE4yMF9GdUFqU1VkeWFFVU9vS3RhQkpNbXhuS0NYR3NDWTF2RHh1VWJTejZpZERwX1h1QlJoZXVPWWpaVGVR0gHEAUFVX3lxTFB3dlEyVENwOWJ1aTE3VzhlTC1vZVJMZVlSRDhzREp4eThwWnpaT2gzZUktdjVadDVreHVDZUlNWVZEQnp2QjdueEIzbVl4OHR3Rm5CY0RQSG4yV3lwaTVLeVdKY3REbzBIN25MNkFheW45ODF5bmFNTmVWVmFOTnY4cEp3NmEzZ3FMOXZGNk5TT3JndEhoM2dMSnUxUUR0SFg4SVJRWE14MF9UVk9lMzNpclIyN3VmdWkxdVBoVUV2N0xWcDM?oc=5"
+      ]
+    },
+    {
+      "title": "AI Mode in Google Search Tackles Everyday Questions in Campaign via McCann India",
+      "score": 19.72,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lIQk1zejNMWEcxcFRieFFHZUlLRm12dE5RZnUyakNOYzJqLXFpaThZWWNkWWtMSlAzVEpPMlg2MlFlb3hkWFFqVDBRcFRfODRVZDFienZBcnhNVG5ZUTV5c1A2S2FZblI1QU9GYnBXT0wyN1dzQkRONzlLVnNKQ1JZZUlnaDBNOWswMml4cEliWUtmRkVGOWJMdGRhM1gzcDhCSlV3ZU9RMjVUZHdFQkRB?oc=5"
       ]
     },
     {
       "title": "UPI MDR framework needs rationalisation to protect public trust: Report",
-      "score": 19.65,
+      "score": 19.4,
       "kinds": [
         "news"
       ],
@@ -128,30 +155,6 @@
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUGE3MF9wcml3NDlDbGpZeDdxT3hBbXZ3VzZZM054a2kta0hzZ3JiMnRZbVljR1VtRFN5TXNRT0c4bGlhWkk4ckc1aXBmSnB6S3RSa0Y5VGd5SnNWREdjbmZrckNKdXBIZDRoZVRxQjFzYnRZV1NkSGRmS1J0Rm80WGFrV0tGNWV0TFZkaFhPSHJleGxjdERXb1ZHWE1QbDBVeGhOdlhnQWxIYW9xSTZkcEx0ajhRZ3p4azdZZ3hwdEZnSzN5RVotdjkyREtpbVBHUjB2dWxwcjhKT1g30gHcAUFVX3lxTE5QYTcwX3ByaXc0OUNsall4N3FPeEFtdndXNlkzTnhraS1rSHNncmIydFltWWNHVW1EU3lNc1FPRzhsaWFaSThyRzVpcGZKcHpLdFJrRjlUZ3lKc1ZER2NuZmtyQ0p1cEhkNGhlVHFCMXNidFlXU2RIZGZLUnRGbzRYYWtXS0Y1ZXRMVmRoWE9IcmV4bGN0RFdvVkdYTVBsMFV4aE52WGdBbEhhb3FJNmRwTHRqOFFnenhrN1lneHB0RmdLM3lFWi12OTJES2ltUEdSMHZ1bHByOEpPWDc?oc=5",
         "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVFUVFljcEJRTDRLM21hNWVrVVZzLUM0MWstSmltTUdMR1VscUJJbWc4SmR5WGMxV2xJN2JXX2xUTGtEdlBJbFBFdHlzY2plT2d6bGtfVEFkUUkxanNwQV91TXA0eEozZXRZYVVZaFFjMWNzQXY0N19KZGFkV0FGMXppc3Jfd2QwRkhVSmw3ZWR0MTRrN3VHVHlkcTBFcV9fd2dveDRNaFFJcjUwQ1g2aS1WNGpGcW1abExLQ3M4TThCbHZxaXowMlc1UG8zc1ZZVnRDVkhDLVo5ak8tSnFnMUhVUVlsa3F2RF9hbXNYemtMd9IB9wFBVV95cUxOYWZqbm1lb0RRMFBYNmVfcE40cTcwM1ZpTTBDdENRUW1pb0I1TjBiWVdScUFIc2xOaUNuV3dWbjRMbWtyMzU3bFFJSE5RbkhHM19CRW04YTY5cHBzY3VrbU5VVHJseWY2d210NGdmb2U2aWlTQmtDQmJLUDJQRC1QU2NOWHhDLVc4UHY5QTRqNmNMN05mdGdzU3pOcFJlMWJKeF9xMHE0dGtVU1l2YmxORnY0NkMzWHVoVnpPN2R1SVRmZ2N3TG5vaXlFWUtpSzJXdTI1cW4zTTN1OGJiMF9VSENKb1hqamFCWTlsOGQ2S19sejhCRl9N?oc=5",
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVl9iWnVaSDVORGRpZkdGNHRIZEdRbVg3NEtvSmNSSE5kT19jNnh0R3lnY0Q2SmZBMDdTZ24taEhIc29yRXFiQVJTQ3BmVnhHUG1fSzBLVy1CR3FkQk9YTUpORUVOVzdGSzVvdzI3VE9ZS3lZd1RiZkVYUzI2ODZkdUc2WDFXS1pOSTNvZ1BDZVZtV3daV1pzdHZEZWJrYjRNME1KOF9Cc3F0b1ZkRUk4ajI5Vmxld9IBvgFBVV95cUxOT01jY0RWYUR1OVpBaTBhM29JcklqMmdNc1BMSXNkUkRBUnREQTNlSnNKdWlhSVA4WUxXblZhOWUwMXBLZ3AxV21rM1hTODFPWm44RnBPYXN5ZkJYV2w5elROUk9vOFo4T1ZMbEwxWnRScFFqYWJ1M1ZyNUZTOFNQWE12aXlCWnV1elJjcWY1YTRwU0JhU0l6dC1UU09SYm04eTNaN1dOWTl3a0J4US1ERnh1WkdRejljdVA0SFRB?oc=5"
-      ]
-    },
-    {
-      "title": "Google’s $15B India Data Center Sparks Backlash [2026]",
-      "score": 17.86,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE04bXBYYnNSdmdyaW9PSmdUSDBpbkZoWV84MW5pWHdSQnA2WG5MSU1PWmJvYzQtSi11am9va1BuR1g5U1Rzd1RVSDJaYTB4ekptaVhlZGI3bFh6dTZrTG45cmk2RXpaMVV6eTY1bG1Td0E1Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE04bXBYYnNSdmdyaW9PSmdUSDBpbkZoWV84MW5pWHdSQnA2WG5MSU1PWmJvYzQtSi11am9va1BuR1g5U1Rzd1RVSDJaYTB4ekptaVhlZGI3bFh6dTZrTG45cmk2RXpaMVV6eTY1bG1Td0E1Zw?oc=5"
-      ]
-    },
-    {
-      "title": "IndiGo flight’s emergency landing in Hyderabad after power bank catches fire mid-air",
-      "score": 19.38,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnNyZE1PczUtR3AxOVNodnA0SGtMZEVfREljZnVXRTd4TnoxREprR09wSTM0d1A4S0NVTm5LdXRCYk9rUVVrRGhGUHhXMHJEeGtlNWtvRTBGZFl3Ql94ME1sVnYxbnh0TkdiQ2FCTUNlcTNILWRtSlZKZEN1eEF2TlU1cnJQRlI4T1MtbGp3ZzNUUzlwTWRZaFNwb3RmZ3FFMnZKT0stUlpUZHhfMF9zeVRpcGgxemREYWsxVzNFUEl4YkJGbVRKcW9lWdIB0gFBVV95cUxPai1FLVVhcmwwNUJXdjBUR3Z4WGFPQ0ZITTNrOWV6TjZTZzlOM0xBSUt2TWc0dUNoY0tfNS11VVFnWFFVOURKTHdYSHY5ZGNjSGdXY0gxS1ZLME10bER2TjBOWDVVM3YzZ1FyUXFYQTFfSERkMmxWX05NZjk3QlhiNTIyY2xlWEV3djg4a1ZtTmVLU05OLTdLeVBvblFUSkM0SHFWTTZrY1lvekd5eFlraWpBcFF3emw5ZVhUT2xKZm5hbDRxN3lEbEhjLUY3REhadWc?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWGk5S1haSzhuMlJoWVNHVnNMSFVRa1pueUVGYTVHSUptaVJmNUR0RldDQUwzenlVeUFpbEF0V2U0b0FIZWV6My1pX2N3WWI4cThKazg2S0RmQ2kzT2RPeV9HdXFxRlJ2OG50djhucG8zcElMZDdSWGswejRjOFdxTkc1NUdqcGI3S3F5TDhTT25kbW4wUDBmd00ycXRSQlQxa2I3bTlhT1VNSldacUtXdWNyWm96SjdLRnNFampQa000U28zVWRiMHhNb0x5UTNmeUY2Snd6eHc2S0dDMTZBdEtuOFZ5aEdfRG02YWtjckbSAfYBQVVfeXFMTXZURW9ZOXhlcW5MSXJGN3ZVV2h4d0hDX3BYZDdHUDlmYUNMNThQZ1FvQlhjYVRMczY5Zmw5RzZUZHlXaTlUWTlHUDRJLXJGeWtpNk1qX25WR1cyZUdDeGhPYVBPS2FERk51bzVTeS00Y2lRLUVHOUttQ2pHWU1aRGhmSWI4em5vczVzY25RYUNEc0dka0R6ald5VDdYd29wTXZIWEhYSGNiU0FsUVA3LWNFN2FTb3pqSERwcnhpZE9CZ2xfWG9oUTJPNi1Dem9tem16Z0EtY0tITXNZXzlteDZDVUo3cDg4WEItN1dMaG94bG5vMmZ3?oc=5"
       ]
     }
   ]
