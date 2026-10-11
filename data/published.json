@@ -240,8 +240,8 @@
     },
     "late": true,
     "approved_at": "2026-10-11T15:42:07.919837+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-11T15:42:09.078580+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-11T15:52:16.913531+00:00",
     "ids": {
       "youtube": "JOl1Nbwiy4o",
       "facebook": "2213957019161486"
@@ -253,8 +253,7 @@
       "hook": "Musk vows affordable Starlink in India.",
       "seconds": 42.2,
       "primary_keyword": "Starlink India pricing",
-      "qa_passed": false,
-      "posted_at": "2026-10-11T15:43:23.721035+00:00"
+      "qa_passed": false
     }
   },
   "2026-10-11-morning-1146": {
