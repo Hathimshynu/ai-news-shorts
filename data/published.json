@@ -281,5 +281,32 @@
       "qa_passed": true,
       "posted_at": "2026-10-11T14:31:26.791603+00:00"
     }
+  },
+  "2026-10-12-evening-1333": {
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/XRLT88vDKv4",
+      "instagram": "https://www.instagram.com/reel/DeYxbaFDo2y/",
+      "facebook": "https://www.facebook.com/reel/1126748830031924"
+    },
+    "late": true,
+    "approved_at": "2026-10-12T08:10:02.219778+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-12T08:10:03.547192+00:00",
+    "ids": {
+      "youtube": "XRLT88vDKv4",
+      "instagram": "18112835303172079",
+      "facebook": "1126748830031924"
+    },
+    "info": {
+      "title": "India Semiconductor Investment Surges for AI #Shorts",
+      "topic": "India's semiconductor sector sees M&A, investment surge for AI data centers",
+      "category": "Trending Technology",
+      "hook": "India's semiconductor space is seeing major investments.",
+      "seconds": 42.6,
+      "primary_keyword": "India semiconductor investment",
+      "qa_passed": false,
+      "posted_at": "2026-10-12T08:11:21.515708+00:00"
+    }
   }
 }
