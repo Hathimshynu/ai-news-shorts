@@ -75,14 +75,90 @@ def download_clips(scenes, dest: Path):
 
 
 # ---------- Voiceover ----------
-def tts(text, out_mp3: Path):
+def _edge_tts(text, out_mp3: Path):
     import edge_tts
 
     async def run():
         await edge_tts.Communicate(text, config.TTS_VOICE, rate=config.TTS_RATE).save(str(out_mp3))
 
     asyncio.run(run())
-    return probe_duration(out_mp3)
+
+
+def _rate_factor():
+    """'+18%' -> 1.18 (used to speed up the backup voices the same way)."""
+    try:
+        return max(0.5, min(2.0, 1 + int(config.TTS_RATE.strip().rstrip("%")) / 100))
+    except ValueError:
+        return 1.0
+
+
+def _speed_up(src: Path, dst: Path, factor):
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-filter:a", f"atempo={factor:.3f}",
+                    "-ar", "48000", str(dst)], check=True)
+
+
+def _gtts(text, out_mp3: Path):
+    """Backup 1: Google Translate voice, Indian English accent (free, no key)."""
+    from gtts import gTTS
+
+    raw = out_mp3.with_name("gtts_raw.mp3")
+    gTTS(text, lang="en", tld="co.in").save(str(raw))
+    _speed_up(raw, out_mp3, _rate_factor() * 1.08)  # gTTS speaks slowly; match the usual pace
+
+
+def _piper(text, out_mp3: Path):
+    """Backup 2: Piper, an offline voice that runs on the GitHub runner itself (female, British English)."""
+    import urllib.request
+    import wave
+
+    from piper import PiperVoice
+
+    base = "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB/alba/medium/"
+    cache = Path.home() / ".cache" / "piper"
+    cache.mkdir(parents=True, exist_ok=True)
+    for f in ("en_GB-alba-medium.onnx", "en_GB-alba-medium.onnx.json"):
+        if not (cache / f).exists():
+            urllib.request.urlretrieve(base + f, cache / f)
+    voice = PiperVoice.load(str(cache / "en_GB-alba-medium.onnx"))
+    wav = out_mp3.with_name("piper.wav")
+    with wave.open(str(wav), "wb") as w:
+        if hasattr(voice, "synthesize_wav"):   # piper-tts 1.3+
+            voice.synthesize_wav(text, w)
+        else:                                  # older piper-tts
+            voice.synthesize(text, w)
+    _speed_up(wav, out_mp3, _rate_factor())
+
+
+VOICE_USED = {"name": ""}  # shown in the Telegram message
+
+
+def tts(text, out_mp3: Path):
+    """Voiceover with automatic fallback: Microsoft Edge voice (3 tries) -> Google voice -> offline Piper.
+    Microsoft sometimes blocks the free voice for hours (HTTP 403); the video is still made."""
+    import time
+
+    errors = []
+    for attempt in range(3):
+        try:
+            _edge_tts(text, out_mp3)
+            if out_mp3.exists() and out_mp3.stat().st_size > 1000:
+                VOICE_USED["name"] = config.TTS_VOICE
+                return probe_duration(out_mp3)
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"edge-tts: {type(e).__name__}: {str(e)[:120]}")
+            print(f"[tts] Microsoft voice failed (try {attempt + 1}/3): {errors[-1]}")
+            time.sleep(10 * (attempt + 1))
+    for name, fn in (("Google voice (backup)", _gtts), ("Piper offline voice (backup)", _piper)):
+        try:
+            fn(text, out_mp3)
+            if out_mp3.exists() and out_mp3.stat().st_size > 1000:
+                VOICE_USED["name"] = name
+                print(f"[tts] used {name}")
+                return probe_duration(out_mp3)
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"{name}: {type(e).__name__}: {str(e)[:120]}")
+            print(f"[tts] {errors[-1]}")
+    raise RuntimeError("All voices failed: " + " | ".join(errors))
 
 
 # ---------- Captions ----------

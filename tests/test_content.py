@@ -214,3 +214,38 @@ def test_instagram_real_errors_are_reported_with_code(monkeypatch, tmp_path):
     with pytest.raises(instagram.IGError) as e:
         instagram.publish_reel(v, "cap")
     assert "190" in str(e.value)
+
+
+def test_voice_falls_back_when_microsoft_blocks(monkeypatch, tmp_path):
+    """Microsoft edge-tts returned 403 on 12 Oct: the video must still be made with a backup voice."""
+    tried = []
+
+    def edge(text, out):
+        tried.append("edge")
+        raise RuntimeError("WSServerHandshakeError: 403, message='Invalid response status'")
+
+    def google(text, out):
+        tried.append("google")
+        out.write_bytes(b"x" * 5000)
+    monkeypatch.setattr(media, "_edge_tts", edge)
+    monkeypatch.setattr(media, "_gtts", google)
+    monkeypatch.setattr(media, "probe_duration", lambda p: 42.0)
+    monkeypatch.setattr("time.sleep", lambda s: None)
+    assert media.tts("hello", tmp_path / "v.mp3") == 42.0
+    assert tried == ["edge", "edge", "edge", "google"] and "backup" in media.VOICE_USED["name"]
+
+
+def test_voice_reports_every_failure(monkeypatch, tmp_path):
+    def bad(text, out):
+        raise RuntimeError("down")
+    for f in ("_edge_tts", "_gtts", "_piper"):
+        monkeypatch.setattr(media, f, bad)
+    monkeypatch.setattr("time.sleep", lambda s: None)
+    with pytest.raises(RuntimeError) as e:
+        media.tts("hello", tmp_path / "v.mp3")
+    assert "edge-tts" in str(e.value) and "Google" in str(e.value) and "Piper" in str(e.value)
+
+
+def test_backup_voice_speed_matches_setting(monkeypatch):
+    monkeypatch.setattr(config, "TTS_RATE", "+18%")
+    assert media._rate_factor() == 1.18

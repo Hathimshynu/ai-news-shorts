@@ -75,7 +75,7 @@ jobs:
 
       - name: Install Python packages
         run: |
-          pip install -r requirements.txt
+          pip install -U -r requirements.txt   # -U: always the newest edge-tts (Microsoft changes its rules)
           python -m playwright install --with-deps chromium
 
       - name: Cache whisper model

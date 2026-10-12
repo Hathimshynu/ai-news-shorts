@@ -191,7 +191,9 @@ def run():
     flag = "" if report["passed"] else "⚠️ QA FAILED, see report below\n"
     flag += "🎯 Your pick\n" if picked else ""
     caption = (f"{flag}🎬 {meta['title']}\n🏷 {pkg.category}\n📰 {meta['topic']}\n"
-               f"⏱ {meta['seconds']}s · 🤖 {provider}\n\n{when}")
+               f"⏱ {meta['seconds']}s · 🤖 {provider}"
+               + (f"\n🎙 {media.VOICE_USED['name']} (Microsoft voice was unavailable)"
+                  if "backup" in media.VOICE_USED["name"] else "") + f"\n\n{when}")
     telegram_bot.send_video_for_approval(tg_video, caption, job_id, post_label=publish_at)
     claims = "\n".join(
         f"💬 {c['claim']} ({c.get('type')}, not a fact)" if c.get("type") in ("opinion", "cta")
