@@ -56,7 +56,8 @@ REPEAT_WINDOW_DAYS = int(env("REPEAT_WINDOW_DAYS", "7"))
 
 # ---- Voice / captions ----
 TTS_VOICE = env("TTS_VOICE", "en-IN-PrabhatNeural")  # or en-IN-NeerjaNeural
-TTS_RATE = env("TTS_RATE", "+18%")  # speaking speed; set GitHub variable TTS_RATE e.g. +25% for faster
+TTS_RATE = env("TTS_RATE", "+5%")   # speaking speed: +0% = normal, +5% = lively but clear, +15% = fast
+TTS_PITCH = env("TTS_PITCH", "+2Hz")  # slightly brighter, friendlier tone
 MAX_AUDIO_SECONDS = float(env("MAX_AUDIO_SECONDS", "57"))
 WHISPER_MODEL = env("WHISPER_MODEL", "base")  # base = fast on CI; "small" = more accurate
 

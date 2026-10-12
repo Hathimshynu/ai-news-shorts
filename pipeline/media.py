@@ -79,7 +79,7 @@ def _edge_tts(text, out_mp3: Path):
     import edge_tts
 
     async def run():
-        await edge_tts.Communicate(text, config.TTS_VOICE, rate=config.TTS_RATE).save(str(out_mp3))
+        await edge_tts.Communicate(text, config.TTS_VOICE, rate=config.TTS_RATE, pitch=config.TTS_PITCH).save(str(out_mp3))
 
     asyncio.run(run())
 
@@ -103,7 +103,7 @@ def _gtts(text, out_mp3: Path):
 
     raw = out_mp3.with_name("gtts_raw.mp3")
     gTTS(text, lang="en", tld="co.in").save(str(raw))
-    _speed_up(raw, out_mp3, _rate_factor() * 1.08)  # gTTS speaks slowly; match the usual pace
+    _speed_up(raw, out_mp3, _rate_factor() * 1.12)  # gTTS speaks slowly; match the usual pace
 
 
 def _piper(text, out_mp3: Path):

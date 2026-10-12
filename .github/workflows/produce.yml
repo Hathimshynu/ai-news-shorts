@@ -55,6 +55,7 @@ jobs:
       AFFILIATE_FOOTER: ${{ vars.AFFILIATE_FOOTER }}
       TTS_VOICE: ${{ vars.TTS_VOICE }}
       TTS_RATE: ${{ vars.TTS_RATE }}
+      TTS_PITCH: ${{ vars.TTS_PITCH }}
       AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
       GH_TOKEN: ${{ github.token }}   # higher GitHub API limit for trend discovery
       TOPIC_JSON: ${{ inputs.topic_json }}

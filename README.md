@@ -50,7 +50,8 @@ Only one of the three AI keys is required; more keys = more fallback when one is
 |---|---|---|
 | `CHANNEL_HANDLE` | `@tech_talk_hathim` | name on videos, thumbnails, captions (`none` hides it) |
 | `TTS_VOICE` | `en-IN-NeerjaNeural` | female Indian English voice (default male `en-IN-PrabhatNeural`) |
-| `TTS_RATE` | `+25%` | speaking speed (default `+18%`) |
+| `TTS_RATE` | `+5%` | speaking speed (default `+5%`: lively but clear; `+0%` normal, `+15%` fast) |
+| `TTS_PITCH` | `+2Hz` | voice tone (default `+2Hz`, slightly brighter) |
 | `YT_PRIVACY` | `public` | set after the YouTube API audit is approved (until then uploads are private) |
 | `AUTO_PUBLISH` | `true` | post videos that pass all quality checks without pressing Approve (Reject still works) |
 | `AFFILIATE_FOOTER` | `My AI ebook: https://…` | added to every YouTube description |

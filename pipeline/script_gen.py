@@ -106,6 +106,12 @@ WRITE_SYSTEM = (
     "no generic intro like 'Hey guys'. Structure: 0-3s hook (surprising fact, relatable problem or question, "
     "truthful, not clickbait) -> 3-8s why it matters / what viewers will learn -> main content (what happened, "
     "how it works or how to use it, practical impact for India/Asia) -> one clear takeaway + ONE natural CTA. "
+    "WRITE FOR THE EAR, NOT FOR READING: it is spoken by a voice, so it must sound like a friend telling you "
+    "exciting news, not a newsreader. Use 'you' and 'your', contractions (it's, you'll, here's), short punchy "
+    "sentences of 5-12 words mixed with an occasional longer one, a question or two ('So what does this mean "
+    "for you?'), and natural transitions ('Here's the thing.', 'But wait.', 'And the best part?'). Use commas, "
+    "question marks and full stops to create natural pauses; never write lists, brackets, slashes or "
+    "abbreviations a voice would stumble on. Write numbers the way you say them ('ninety-six percent'). "
     "Respond with JSON only."
 )
 
@@ -114,7 +120,7 @@ WRITE_FORMAT = """Return JSON with exactly these keys:
   "category": "one of: %s",
   "hooks": ["3 different hook options, each under 10 words"],
   "hook": "the best of the three (shown on screen in the first 2 seconds)",
-  "script": "100-140 words of voiceover, starting with the chosen hook and ending with the CTA",
+  "script": "95-120 words of spoken, conversational voiceover (about 45-50 seconds at a natural pace), starting with the chosen hook and ending with the CTA",
   "cta": "the single call to action used at the end, e.g. a question or 'Follow Tech Talk Hathim for daily AI updates'",
   "scenes": [{"text_overlay": "2-5 word on-screen label", "pixabay_keywords": "2-3 generic stock-video words", "visual_direction": "what the viewer should see"}],
   "pronunciation": [{"term": "hard technical name from the script", "say_as": "phonetic spelling for text-to-speech"}],
@@ -176,7 +182,7 @@ def pick_topic(clusters, avoid_categories=()):
 
 # ---------------------------------------------------------------- writing
 def write_package(title, article, shorter=False, remove_claims=None):
-    extra = "\nIMPORTANT: keep the script to 95-115 words." if shorter else ""
+    extra = "\nIMPORTANT: keep the script to 85-100 words." if shorter else ""
     if remove_claims:
         extra += ("\nIMPORTANT: a fact-check found these claims NOT supported by the source. Do not include them:\n- "
                   + "\n- ".join(remove_claims))
