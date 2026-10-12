@@ -308,5 +308,29 @@
       "qa_passed": false,
       "posted_at": "2026-10-12T08:11:21.515708+00:00"
     }
+  },
+  "2026-10-12-evening-2001": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/necNWbZZnGE",
+      "facebook": "https://www.facebook.com/reel/2686519558450951"
+    },
+    "approved_at": "2026-10-12T14:39:02.114686+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-12T15:30:03.874675+00:00",
+    "ids": {
+      "youtube": "necNWbZZnGE",
+      "facebook": "2686519558450951"
+    },
+    "info": {
+      "title": "Microsoft Maia 300 AI Chip Aims for Independence #Shorts",
+      "topic": "Microsoft reveals Maia 300 AI chip as it works to reduce dependence on Nvidia, AMD",
+      "category": "Breaking AI News",
+      "hook": "Microsoft just unveiled its own AI chip",
+      "seconds": 44.4,
+      "primary_keyword": "Microsoft Maia 300 AI chip",
+      "qa_passed": false,
+      "posted_at": "2026-10-12T15:31:24.946293+00:00"
+    }
   }
 }
