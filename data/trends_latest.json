@@ -1,119 +1,126 @@
 {
-  "job_id": "2026-10-13-evening-2001",
-  "chosen": "Meta launches new AI models to compete with OpenAI and Anthropic",
-  "reason": "Meta's launch of new competitive AI models provides tech-savvy viewers and creators immediate insights into powerful new open tools that rival ChatGPT and Claude.",
+  "job_id": "2026-10-13-evening-2101",
+  "chosen": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+  "reason": "Apple's HomeView hub brings Siri's latest AI capabilities into Indian homes, showing how everyday devices are getting smarter.",
   "candidates": [
     {
-      "title": "Meta launches new AI models to compete with OpenAI and Anthropic",
-      "score": 25.61,
+      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "score": 28.3,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jSmJ6Q0FXZkNWQWUtZi0zOWVVNkVvWW5TeFNiX255bTdUNHRhbzV3aGdpTFhCci1LM203TWRCcTk3SmthT1VuUmJKemVXNGZnTzlRY1Y5VmlYQVpnbjRETTFzT1NPWGkzNlhKamFDa3VYX19GLUdWeXZn0gF_QVVfeXFMT08wdkg5bzg1V0FBc18ybEVtVlBVVlVRR01oWG5FVlBjTllGalFldkhENjdxbUIwUTdjZnZud1otYnRFYXdvTG5XY2lhM0g3WjltRWNLNHlZaHo4VXhuSUxMWV9CREdpZzIwR2VHR0x0eXNXU0tTc20zVXNqMGlFNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jSmJ6Q0FXZkNWQWUtZi0zOWVVNkVvWW5TeFNiX255bTdUNHRhbzV3aGdpTFhCci1LM203TWRCcTk3SmthT1VuUmJKemVXNGZnTzlRY1Y5VmlYQVpnbjRETTFzT1NPWGkzNlhKamFDa3VYX19GLUdWeXZn0gF_QVVfeXFMT08wdkg5bzg1V0FBc18ybEVtVlBVVlVRR01oWG5FVlBjTllGalFldkhENjdxbUIwUTdjZnZud1otYnRFYXdvTG5XY2lhM0g3WjltRWNLNHlZaHo4VXhuSUxMWV9CREdpZzIwR2VHR0x0eXNXU0tTc20zVXNqMGlFNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jSmJ6Q0FXZkNWQWUtZi0zOWVVNkVvWW5TeFNiX255bTdUNHRhbzV3aGdpTFhCci1LM203TWRCcTk3SmthT1VuUmJKemVXNGZnTzlRY1Y5VmlYQVpnbjRETTFzT1NPWGkzNlhKamFDa3VYX19GLUdWeXZn0gF_QVVfeXFMT08wdkg5bzg1V0FBc18ybEVtVlBVVlVRR01oWG5FVlBjTllGalFldkhENjdxbUIwUTdjZnZud1otYnRFYXdvTG5XY2lhM0g3WjltRWNLNHlZaHo4VXhuSUxMWV9CREdpZzIwR2VHR0x0eXNXU0tTc20zVXNqMGlFNA?oc=5"
+      ]
+    },
+    {
+      "title": "Apple to unveil new smart home products, showcasing updated Siri AI By Reuters",
+      "score": 27.21,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnJWVm5meGc0MFdpOW5NSFdQeEpLUy1jUjdzbnQxVEVKdnAtbnlxeDVZTTM1MUMwX2M4cEJWb0JMcjBnNC02VXFBVmVDbU5HNWxPeXJLeWFDdk5FMHgzR19WQURnWXFxOTZhQWxXU2Y2YnludGFfanRHRFVld01SUHFlZXhmVWVIRzBYbmQwM1VWczY3NDViYXA4R1NkbkFDVVRWTWpXNFcwamhNeUxCTk94SlpGVk1PRE9NczBobG0?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFV3YzdSYm1wR1hKUVJSQ28tX01Tc0NWbEJTcWZoR3JpdGFJSnRDRDlnbXVRZ0QwZncwTlVBbW5nZVY5dHpieE5rRG1vTzlGdUJHUmxxcG8xWEg0OE9pVmRzR0hET1NkMENuYlJ3X2xQbGxKemN0b1pRUlpwWTlIUEFMbk55b3JWRUtvcG5nUVI3TkxyT3NxU1hSRlFybnNjZU1UTzhhSWxMUnppS0NGYTh2RQ?oc=5",
+        "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/"
+      ]
+    },
+    {
+      "title": "Code scanning AI Scan metrics in security overview",
+      "score": 20.13,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
+      ]
+    },
+    {
+      "title": "Improved detection for withdrawn Dependabot alerts",
+      "score": 20.63,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts"
+      ]
+    },
+    {
+      "title": "Search and filter for budgets now available",
+      "score": 20.14,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available"
+      ]
+    },
+    {
+      "title": "Super Intelligence",
+      "score": 37.87,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSS1BcWlIbDFFVXhJb05zU2ZCeEdSTHkyenhwUWc5aTJkNWxJdFZIbmFDM2pQb2dlRGFhOE9ZTFJoNVlyUUJ3VmpSM3dKQnoxU2J0cTYzUGI1RjRFRm93b0xjZE96bDJHZm10YkRjaEQ4TjlubmJFT1JLellSRi1WX0Mta0xtbFRhSzhHNDlKSTNUazFZVFFEaA?oc=5"
+      ]
+    },
+    {
+      "title": "NuSynth Raises Rs 36.5 Crore in Seed Funding Led by Avaana Capital",
+      "score": 19.91,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX29ua2N5bHdBX2ZQRHpvd3dNd2FJb09rNG9qWDBub0lUbEdRbDMyb0hKY3Z6NmQtZ0JnRW4tVWloTVVCREY0MGViREFnOEF6STNTeHI1a1diakJveC1RUzNNbUVLWGpJVlc0NHRSTUhfVHMzVTVVazJzZ1RzQXVqcEwxb09kR21kYm0tM3BxTjNYV2pOOHFudVlKNVA5MWdScXJYdkhR?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWHNmcDVWb0ZjOS1NSlREQUdFZEV5TTJrUkc2T3dkNHdmN21pYXVYT29xdWVFeHE3NjRwbnlUMGtiaUhUOGZWdlMtX29NMGE3ZVJ0WEdBcThlSjdLSjJjSHpmQjlwYU1TbEdmOHd3dGdYb0lpYTJnQ215ekxYNzBiRUZpa1ZfUUNsZkdmODBjUnBjdnVlY3NWbG5YU0RrS3J3eFc4X2U2cE9obVpmZXhWdi1FTkpwU0QwVVNZNDB30gHEAUFVX3lxTE10TkRxWW5Gd0t2ek5FcW0zQlhTekwxSkZYSXRvZVRDSXhON0RaVV9ES09qWmJpc1FwNGo4MEowYTY5RjE3T0tSOE50dmd2ZWN6VlFSOXZLYnowN21hd3dRTW9QZ2MyaDdER2lLMnBIOXZGQVdkQ1BhZ0JfOEtfWFNYbXNPVHBJaUVFa3NRblVBZlRfb09HUGZzNFdUb1JpSFFnQUViRGFBTnhXczdKeW5xVHVTbGEwQmZRN1ZlN1dRNFF3cXg?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi16ajB0Q1pQUjZnTG15UlliQ0NMTFREaDYxSHNmMzRrTFEtUVdQZnN3UXNpNlJKVTNXNExYMU9KeW9BM3Z0aUlSUXRFZVlUM3k1WlVOb19mM1NVRjk0SVRkaHlYOXEtOUJjN0txTnV6RHQ1OEV4aDdnV2pHcTM0bDdIVFlqUVRscUZ3dzc3WF9FTUl1cklHdms2RHZQY0NyaGJGMnZ30gGzAUFVX3lxTFBfMDZ4VnNFc2RZT3VoMGJqMWxJbUpUNm5LTGs3VmRjZ21NRER5MkY0S1lOY3pZNzJzT2ZUd211el9Mcnp3LVJuaXJBczRnVGduYlg5UlpScXl5dWFjdzBvVFRmdU9GbFJuMGNBaFpqdW0wRWkxS25hSEpqd3l6WTBrV2NPQW96OW9haUgwWjNNTVBVTlZKY2JlMGxoZGNHX3ZTWE9jV2ZEbTVQNmFoVHdxX3JR?oc=5"
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUdCYjNqTUtvZzBudVNla05MMi16eWptaDVvRVYxb1ZMQ3NuNHVhTGhfVDdKVGVTYmtSZlVvVHpGTno1NlI4ZGdYT3ZWb3FJS1FtdU83TEpQX3ptV2k0WE9rRzlldFNSMVFDSEpaZ3RnUl8ya1hHQzRyRklmckx3aURlWERrc185WHVWOVJGOTZ3ZV9TQ21qX0dIcHdfNjkzWnhLTm54U3NienF3STE0dzEwQ3BrTUQwR2hPa2ktY1plZmJZaDktbVJILWN2TFE?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUhMTFdtZkFEeEpBcjg2T0xzWVFKaFVESjZ0ejRBSFprWDdBRDdGV2NKSjZoXy1iSlNJVGdYMDRPTEF0WENVZ2hOenBqRlRjS3ZKU3ZMSEM2TFVpaG1NZXlkYV96N3ltOEQ5dktTcDkyQklfZ0ZwSEVPSHg1ME1UY3FZSzljVXp4ZXhhTXFleXhiZ0pnXzF3aXZHVmUzM0c5dnVULUFkWHlIalBhLXBvOEtxM2RYM21BTnZLVTIyd1Z5bXdJZUtHcFRMNWVoX2lScmk4N09Rb0VjbGvSAeABQVVfeXFMTU02WG1TOG1pbXFNTjAtbm1OeldFaTdTYmhLems2bS14dmR5Qy1JTTN5cHRacW81VTVJQVhVUVJ6QzljWGU4Qjd5Mk9lV2s2N2hsQk1xaGh2Z3RmT2R5ZXRmN3BYZUxFNkVNQ1MyU1JfTjkyZWpwMWdjbmZIb09ZTkkzMDZQQlV1VFN6U0lZRmZGMHVsOE45N2dDd0xDTlhuMk96ZjRVZnFPdnI1LW5aNkpYNC1qUXRfSFZrNG9oZ1R6eHhKRTlEaW9XSmVQc2MwWUlmRXFCRnRCQURwb0t6bS0?oc=5"
       ]
     },
     {
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-      "score": 21.82,
+      "title": "IIIT-Dharwad team secures fourth place in ISRO robotics challenge",
+      "score": 19.73,
       "kinds": [
-        "news",
-        "search"
+        "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOERnbGJDT0t1aHBWd2RBdkttbVpYLVZueFdkREI5VnRJaWh3bXE0QW1scjZrY0czOE1ROUJiX0w2cHZHV2d2eTRoRGJYSFl3M1ppRDFCN25aUUI1Z19YeWlDTGZwRUxzNEd0Mjh3QkM4VkZLeXhjNHJfM1hkWkZsZjY4ejVRWm0zVzJUdnUzWHpEQkxXbWwydU5kRDdYcTFmcDY4WE5lODE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOERnbGJDT0t1aHBWd2RBdkttbVpYLVZueFdkREI5VnRJaWh3bXE0QW1scjZrY0czOE1ROUJiX0w2cHZHV2d2eTRoRGJYSFl3M1ppRDFCN25aUUI1Z19YeWlDTGZwRUxzNEd0Mjh3QkM4VkZLeXhjNHJfM1hkWkZsZjY4ejVRWm0zVzJUdnUzWHpEQkxXbWwydU5kRDdYcTFmcDY4WE5lODE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOERnbGJDT0t1aHBWd2RBdkttbVpYLVZueFdkREI5VnRJaWh3bXE0QW1scjZrY0czOE1ROUJiX0w2cHZHV2d2eTRoRGJYSFl3M1ppRDFCN25aUUI1Z19YeWlDTGZwRUxzNEd0Mjh3QkM4VkZLeXhjNHJfM1hkWkZsZjY4ejVRWm0zVzJUdnUzWHpEQkxXbWwydU5kRDdYcTFmcDY4WE5lODE?oc=5"
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFYyLXRnelF0ZjU0cDgwbmJxX3dyLXBoaUtTbzNRQVRzenFpbmxWd3E2YW9QLVlwalA4bWVZSDFXWFVtSkF3TDJOSlV1QnBIeDJkXzc0TkdXODA0eUtqNTNKeVVvZDdwQUlNWFRudFZDbHVmWGZrYnZJYWhIU3ZaZS1rM0F5b0tDU0E1RERkU2drWkxuaXV0OXBfZVA5alBrSEJCS2g2NTJHcDJ5T1BXbTdyX0RzeTkzejRIZ1BYSW5mZWlucE92c0VzVDY4bknSAdYBQVVfeXFMT1gzYjczMXNLZ0tuUUVmWjRBNjBuRGQxaWNqd29CUVUwRVBnWXlSMmN3UF9ZeUZRblNOSnV2cDBDT0RxQ19wQlpweXJzNGhCVXJUM0s1TW4yYUg0MnBObFRZTWhHZk5pMXU5aWpTUXBoQ2NQR0ZyYlZYZ0VkY1pkSUtkNmNfTnVHbHpYVldRYm5STHhiZlZndWZfLXUzX3I3Q1dENDNINEtHdkhyOVlvT0hrc0s1YkhYVkVlV3UtRzMySkNjSlZaS016VzdwNXNleDctclQ4Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1VLcU9YRlhYMFU1Tm1YUm92c0xoaXpDeTFqZnpUVHlhTG9xTEZzME5kMmE5eWxteEQwRFVacmdyQ0d1VmJQdTdHT2xjZ0FrSndTTWdqOWh5OFJYUmwzd0FaT1cxenJMUkJsUjkwT1BiSTNDYks5VTNuVzVUR1A3VnNzVVhoSmtlUm1zTDZ5aWZOdXJXSC1zcTFTQ0l1MUtLaFpHTEQzZXh4QnNMUkRfc0hQTlA?oc=5"
       ]
     },
     {
       "title": "UPI MDR rollout deferred beyond Diwali",
-      "score": 29.56,
+      "score": 31.31,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFFuc2pJa0gxSW04U3BpNUpPVS1wZkw4eHl0Ml9wZlFkeHFKN0laVENUTUp6Q0pzWmZlQVd1VDVDSEhqd3JvYmxOb2FvZnJFNUpBbFdoUUFqbnQ2NUphc0Q1QmJrUGR1VDlLUDFoRE16X0gyMlVOQW9fNWpOdHJ5eDVhaUtWYnoyMHRHeW9qOE9NaDZTbGtCMDNhSnBPMmExdE5xUTlsWFhUMUI50gGyAUFVX3lxTE9NZHRRbE5WQkQ3ZE44aEt2TXFJUGh1ZklFZnlCcmVPekh1LXNHR1VEV2JYT2RZZlMzbXZmUmlXN2lwSndkU1k5UVI4TjZ3T1E3QmJGdkhGYzJmSlJCa2NPR1ZOeTlVVTRORVZOcm5JbThnN2w5ZFFEcHVfTjk0WWZYWHFmNE9rOXBFZFFtcDVLRlhTdWp6Skg4SnFraFIwUV9ac2JyZW51TDQ5cWdmZzRqeGc?oc=5",
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHRJaHZSNHN5YV9iS1lWcFlMYUNqYTFqSGQ0SUtaaFVCSnE3RWFHY0ItTzhtcWpGaUNvcFlfVDVreWtkaWdqMG1qQWYtYURjdmZLc3IwTmxweGFnZXQ1dUl2UnkybjBycDVhdlFNX2l1ZU12Z2VrNjAxd2xNbEZpb2lNVWp6c1JYQ3pPd2FIR3pMbXloc1ltS3lNVGJuSVNjNFdicGduR1prYVlFZXVMNkREeUJmdw?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEtteldzcTZKSnJnZGN1SXpJa3ZHbmc0U2VmZGRyQUxoT29jQ0JSOGRXTzA2VWZDWi1rY1JTZE1PZW5vVVoxN1ZvSEdaSV8wUmVlYU51MjBhTzJSMWpvWjFSMUVNRFJCOElCazhvTzlCYVFvMjFrRUNqa2h6YlUwbWpMdVhnYjVzT1Q0czMxVVY5VGhjcjNhNlJnNXcxZC10WlI4ajZpUk56YmRSUldfWEdWLVp5T2MzRU1uZGxFZnVMa0JndkHSAcsBQVVfeXFMTjVEOVNmNS1QMlJrWHlkV1RPTXFkTEFXT1VjQ3ZzNVlDU1d3NjFodFNpMkpqOWR6OV9DblRlVmp4cFVBcUVvTzRGUC1iS0J3TkZJV2tsc1dMWkFsN3ZlTDVVM0psQ3YwMDEyTnNvVnZ4SHpIcXNKT2JXYnd3cGhxMjBOMzl2T2c2YXZMdENKVVlUTXNMUzhJUzFBOXFCcE5NaDJGWWVOX2xvN002Vk9KdVdwdmVDOWdfaHdOSXFydHRwb1YzR3NORnhvemM?oc=5"
-      ]
-    },
-    {
-      "title": "AI boom lifts China, India as global trade growth accelerates, IMF says",
-      "score": 21.77,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdTYxNGZPbDBiUHlUUFJxcmF6NlhVakh3U3Y4UHVlTVlrVFhZR0dGQjJNT2NPT0p5UmhURnlQenQ5dkpKZVpybEdrWG9ZV2NpamlYcDFQNEdEbG1ncU1zLUM2bWE0TjZuQUhsMUJWdGN2MTg5R2RXalQySHo1aWlKUE1yd1RhXzhOZkp0ajhvdUxKamhNaVJKQzNjWWJ4TXpYbjJhUGR3anNWWFF0dnlYMHk1blBJeXhmemJSZUxDQ2lUTW1hd3hHZUZBYzJEbEg0M1RjadIB2gFBVV95cUxPc1dtdnktZV9iQ0txWDQ2MjVpUEJlUjdRWmhncEFLQ2dCelo3UFd6aUp5U1JkMTRVel8yMldYenRLNlpVXy1BeGxMOGw1b0FKeC1vUFRueTlRd2hXdmpOX0xkZlZnSzdmNHYxdDBRTmd0ZUZ3Z2k1WlcwbmlxcG1Cc2wxRGtGeWtJTzV2N1Y3QzJUTkE2Y1ltb3RHTjkzTHNrRG0yaUVZLVVDWGFIa3Fqdk9TTUJWTnB1ZnNkTE93eUw4TjRYX3VZeElkV1dpTm95RFQyTWloQ3lMdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVFzV2hGZjBlUUFETjhBYmxjM2pPNkFfS0dxTFlKUm5fRnJUQm9sYjBoNGhCNldSX2tlTGxwTWtRbG94cUdYVkhKZkZCZGRabTFtMWhyMHZfUFZmUjcwaUlTRzFCOE04MG81aWtjbHZfNGNsY1Q0M01oOFp3NFE4eFlodW1jd2tsaVNNYTgyUFlwX3d5b1hMaFU3Y19QVFVkYXZ6Q3YzMVYzZlYzV2NnLXNlZnQxREpOXzhVd1BPM2g3QQ?oc=5"
-      ]
-    },
-    {
-      "title": "Google unveils new Fitbit line as fitness gadget competition heats up",
-      "score": 25.81,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEhWTVQyQjh3dXp2dElWWkFRTTVQenlUZkNLa0tLWU9nRHhIZzV2YkExcFVOTUExdWtmVENvYWtKY0ZoTUJEZjdoV0N2Uzd6cjF5RFdlT2puR1dtbG4yZzRrd2JWd1l0b1JLLVp6OG9BS1ppeXJWa2xTelFEZU5SYWpyejFnUDdXUTYtS2dSNjZpZUZNSWZuZW03aFZ2Qzh1RF9XRXQ4elo3N05jSXZSTHozV3hNbzlYRTZB?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEhWTVQyQjh3dXp2dElWWkFRTTVQenlUZkNLa0tLWU9nRHhIZzV2YkExcFVOTUExdWtmVENvYWtKY0ZoTUJEZjdoV0N2Uzd6cjF5RFdlT2puR1dtbG4yZzRrd2JWd1l0b1JLLVp6OG9BS1ppeXJWa2xTelFEZU5SYWpyejFnUDdXUTYtS2dSNjZpZUZNSWZuZW03aFZ2Qzh1RF9XRXQ4elo3N05jSXZSTHozV3hNbzlYRTZB?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEhWTVQyQjh3dXp2dElWWkFRTTVQenlUZkNLa0tLWU9nRHhIZzV2YkExcFVOTUExdWtmVENvYWtKY0ZoTUJEZjdoV0N2Uzd6cjF5RFdlT2puR1dtbG4yZzRrd2JWd1l0b1JLLVp6OG9BS1ppeXJWa2xTelFEZU5SYWpyejFnUDdXUTYtS2dSNjZpZUZNSWZuZW03aFZ2Qzh1RF9XRXQ4elo3N05jSXZSTHozV3hNbzlYRTZB?oc=5"
-      ]
-    },
-    {
-      "title": "OPPO Find X10 Series India Launch Date Confirmed",
-      "score": 29.71,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hcmZXRkZhMHlWWlB1WXdjQ2JMb25MdmwtVFZEeFpLUWt6Q2hCeGRTMlhsRnktNDZETGFZdWNmc2F1NjBMeE1QMjU4dWRpcENFc0E0V2hCUWlmUF9NeWZxNVRMVjc2R2c3QUZCTWpEcWdka2M4Um9jNmJ5Q0o?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2R5SWFKZV9DMHUyMUEza3BTYnRpeFR4azJTWlBKaWh0c21wRlFEWGxocmd2d0RteDdMNW5RUHNFRm1ybEx0ek9xcHdEOGxpMHQtVWI1Ml9HNW1zYlYtUnBpdVUzbk5xTlZrUVkxaThfb0Exb3UwOU1NY2x4ZnhpNXRubmVwenVHRkZ3Y0gyYUQwaHNwS01aX1lGd3FVMmV3ZFV3aHhCMjLSAagBQVVfeXFMUEdkeUlhSmVfQzB1MjFBM2twU2J0aXhUeGsyU1pQSmlodHNtcEZRRFhsaHJndndEbXg3TDVuUVBzRUZtcmxMdHpPcXB3RDhsaTB0LVViNTJfRzVtc2JWLVJwaXVVM25OcU5Wa1FZMWk4X29BMW91MDlNTWNseGZ4aTV0bm5lcHp1R0ZGd2NIMmFEMGhzcEtNWl9ZRndxVTJld2RVd2h4QjIy?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFsLUh0SDdmRTJrZm1Ydzlod0FxOTF0SlUwVzFIU0d6dFZ0MXlrQnRjemwxeWoxZ01NMGFvWHFNeXFTTmZhS0lPLW8tb1c3MktnSzAtdHcwVnFDOEdSYi1wUkVsc29vbWlkWC00VGNKOFc4ckM1anVmY002WWhEX1JnQdIBgwFBVV95cUxPMnFsLUh0SDdmRTJrZm1Ydzlod0FxOTF0SlUwVzFIU0d6dFZ0MXlrQnRjemwxeWoxZ01NMGFvWHFNeXFTTmZhS0lPLW8tb1c3MktnSzAtdHcwVnFDOEdSYi1wUkVsc29vbWlkWC00VGNKOFc4ckM1anVmY002WWhEX1JnQQ?oc=5"
-      ]
-    },
-    {
-      "title": "OnePlus 16 Launched in China: Price, 200MP Camera, 9,000mAh Battery and India Launch Update",
-      "score": 21.15,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTdBb0k4YkVVN2xYaDZsbVB6cGRzTVdtd1k0ODVTZm5aYzZ6Q1M0RmdnT1F0OURWcHhSaURIUHMweW55ZzZyWUZnWjlROXAtUjJIcXZ3Z01YbXY2enV0U2l2YWFDTzhFRjdXdVFLUXBrTWJlVTdYdjFld2dXSmhKRnBvaEF2Y0JoaHd2TWdySVhMeWdTblBMak9jNnl0VmFsTW41bi01QjEtSGZLOFlv?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODY1OTdyUEdETlFNcURCZ1hLUTl0Ri1IVEdKcWduMHVybEdBYW5TSF9zcjgwQUZBcTFFZWk2NlNfdEQxaDlIaHgtM0NtWm5RUVlnT3JmeU5CWTFFUEJ0SWJENDdVTDdiLTVvMGFQeXFKemhKVUlzandXVkpiT2tUOG1HOHVxNjg?oc=5"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence - ABC News",
-      "score": 27.79,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWNaV2s5OEltb1pVb3lqeEUydHpEN21FS0hGNXB4TmtMdkpzc2ItVmlXaXFOTGZkQVpTenZWbXdCSkRUZnJhVmhCdUhmOHo0SUZIdUVicVdQUjRleUptM3BfTzFDc0l1bzgxYlZCQWo2MzZVYUxSOEZZSjhDNmNfUjdxUlB0a2F3cUFnd096VTRyU1dYWEUzLWFmVkd5bVdKcVlfSnE0RkY2emVmQ0xtNGJ6Z0RrNmNUdTM4bTNqdTNtRnVOOXlhckRBNnVSSkdmMTVkdlU4R2paZVNDYWFKVUdUMkM?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNldNTG9uTnZLdy1jWlFnTEtNZkRhN3FkWklmVzRUdFBjU0R6VzIzSnZ5LV94TE5acTR1M2F2YzdscFd2Rk5sRWVsaHppRWpma2VfSEpZXzdjYkhEMXcyWkxoMUhkcFJPVGdnU2EyRnFmcE5vSWgybUVCWWgzc051cU1EeXdJaUo0dERFVldmV1cwYlpiYl9qQ2NpVWhZX05zN3BQUnRYdmhsdw?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDlBdVEyVjBGSk41ZTNYLW5SUlkxWTBlN3kzc1MxSG03M3huQlluY0cyV1QtM2ZlM1cxUmo1MEZ4YzZOLWRWTldOM2o2cWdPbVVMMldNSjdfcnVtMVhhY2swYV9EZHRKMWdGbFRvZFRmS0h2YmNBVDhfa0NqTF9HN09RU0FFMGh5cWlXbWJKZDJSMllxZ0E?oc=5"
       ]
     },
     {
       "title": "NPCI defers 0.4% MDR on UPI transactions above Rs 2,000 until after Diwali",
-      "score": 27.53,
+      "score": 27.28,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -124,21 +131,8 @@
       ]
     },
     {
-      "title": "India postpones UPI payment fee rollout until after Diwali festival",
-      "score": 25.62,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc09wOWdpRV92Y2Rjb2wwTndUdXI4QjFwY0ppQzBQT1gydGE1U3YyNFc1YV9rSk1RVF9xV3JldXEyaHN1bDZNZGVPcEUtbUlRLWZ3SmpKYVZEOHRpeUNFV1BmVkN5VEw3bkxmN2RyVGNKOGlxY1ltVER2MlZyMGNBTmZuM3E1cFJabzJFNTNTOWh3Z1Q0cS1XRXJVRlR4UUVOMklXTFBnY2pXQkXSAbABQVVfeXFMUHFEdWs4TlVGRTNxVXRDQUpvQ0VoSENCUTNKLU5HQlhNZ1NPVDlwSWdMM3VmT05WT1c3UEFRWGF2SVZCVXVWd1AzcDRQWjhhSWl0bmhYVG1veUl0bjEtWmN5ZDl6OTQ0U1N0TEtXMXV3VkdLaUlYU1pLcUM0WkFVUUNDZW1WOVdJZUF1Q0hfT0JaZnNEOHUybjA1bHJacnNfR1dueGpZY1VNTmVPc0VEMDk?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcUdOMG9ubXc1cDdvTzdaZ1lBeTN3dncxbHNSd1A4U2FfRnRtRUVKa2FnVUlVRWZnUElTeWkwNGVtT0VnN2dIblNJR2x6cFAxTy1pYXAwdnJHRHpDc3d3V0hJVDgybllscmh2dlNEbV9fZTVEYTk3aXMyMmMycHR2TFl4X2UxRWhoWi1aUExaOTY2NFdyMUtjYkwwMFFzOURGdENDTWN4QUM2Q3JETThSMllnTWJtUdIBtgFBVV95cUxNcUdOMG9ubXc1cDdvTzdaZ1lBeTN3dncxbHNSd1A4U2FfRnRtRUVKa2FnVUlVRWZnUElTeWkwNGVtT0VnN2dIblNJR2x6cFAxTy1pYXAwdnJHRHpDc3d3V0hJVDgybllscmh2dlNEbV9fZTVEYTk3aXMyMmMycHR2TFl4X2UxRWhoWi1aUExaOTY2NFdyMUtjYkwwMFFzOURGdENDTWN4QUM2Q3JETThSMllnTWJtUQ?oc=5"
-      ]
-    },
-    {
       "title": "UPI Merchant Charges Above Rs 2,000 To Be Implemented After Diwali",
-      "score": 22.85,
+      "score": 25.9,
       "kinds": [
         "news"
       ],
@@ -150,15 +144,16 @@
       ]
     },
     {
-      "title": "Here's when the Oppo Find X10 series is launching in India - GSMArena.com news",
-      "score": 21.46,
+      "title": "India postpones UPI payment fee rollout until after Diwali festival",
+      "score": 22.89,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNRF9hSkpLSjc0c3pNUmlIVXlkSVBIZjFDMTl5OHJMNjQtbGRDRko1VEdGTk1hQ2JHOWRBZlBsX05xQ05tSmRWZHNkajRBMFdjZ0thSFBld0l2OG9OS3l1Vl9uM3AxajlrV1FMWE5iQy12MDd5a1Vzb3R4eGpTQVZJMnN1WUNKb2I0VThMRmVDOWNydXRIa0lIek5xODNZQdIBmgFBVV95cUxOWi01WkJ1bURYSWlBREZyS0oxcVl1TldSejNfZTktejRyY1UwenkwZVZhUVFmXzZqVTdGUVN2ZXZTZENJTVRQQ0c3UE9NU0J4MGJaWV9Nd2UzZFY5ZjV3MVdJWVdUN0hmOEFpZDYtdTY0YUp1TGJEYjJCNHVDYnBXaEhCcjhFMWk1Nzc0SzRRalRlU293NXZQMFRR?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamYxa1d4U3QxMWd0aXhOLVZ3MndrZHhWUERreW5Pcm5RenpQeVk4ZFY5ZEhGM1FiZTU5c21oWFNqalFRanRRbW1qU0pBMnBfN0ZNMHdZbWNGTHF1WXUyRXBFRU03aklTQXpDXzRIN2VQaTVRLTZMakJWZGhRTDh5NjJGWWU?oc=5"
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc09wOWdpRV92Y2Rjb2wwTndUdXI4QjFwY0ppQzBQT1gydGE1U3YyNFc1YV9rSk1RVF9xV3JldXEyaHN1bDZNZGVPcEUtbUlRLWZ3SmpKYVZEOHRpeUNFV1BmVkN5VEw3bkxmN2RyVGNKOGlxY1ltVER2MlZyMGNBTmZuM3E1cFJabzJFNTNTOWh3Z1Q0cS1XRXJVRlR4UUVOMklXTFBnY2pXQkXSAbABQVVfeXFMUHFEdWs4TlVGRTNxVXRDQUpvQ0VoSENCUTNKLU5HQlhNZ1NPVDlwSWdMM3VmT05WT1c3UEFRWGF2SVZCVXVWd1AzcDRQWjhhSWl0bmhYVG1veUl0bjEtWmN5ZDl6OTQ0U1N0TEtXMXV3VkdLaUlYU1pLcUM0WkFVUUNDZW1WOVdJZUF1Q0hfT0JaZnNEOHUybjA1bHJacnNfR1dueGpZY1VNTmVPc0VEMDk?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRG9hZEVxRC1QdHJkZGlSMW1jZV9Fa29VWnp5aWV0eDg2ckVIcGcyN0trZF9qU1ptR1h2OS1NdkdXdUpMalVOWTh2TEJGYWJzWVd5RllrdjdwUkM1SU9fVTMwaFpOV1l3N1hsQUJIanI1akMyNGxlRHRESVoyMWhKdzFlRWx6U0Z5Z1HSAZIBQVVfeXFMT3R5Y2thRFhJaGVzSjFwaVlLaU1VcVN1Zm9YTTVaczVKRGwyV3NyLWtQdXJiZnRfYUVlUWxkWXdUbWNuYWtMaUw3UVN5YjhjSUxVY05kRWNiWnZzOW5vNzFZSUZYWjhlM1M5a0hBMURwMXJaMjVaZEp3clFicGoyZFc2R0JJc044TDJaeFB6bEpNc0E?oc=5"
       ]
     }
   ]

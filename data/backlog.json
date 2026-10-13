@@ -1,5 +1,71 @@
 [
   {
+    "title": "Code scanning AI Scan metrics in security overview",
+    "link": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the&#8230; \n The post  Code scanning AI Scan metrics in security overview  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-13T12:03:17+00:00",
+    "engagement": 0,
+    "saved": "2026-10-13T15:35:01.826486+00:00"
+  },
+  {
+    "title": "Improved detection for withdrawn Dependabot alerts",
+    "link": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help&#8230; \n The post  Improved detection for withdrawn Dependabot alerts  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-13T14:03:57+00:00",
+    "engagement": 0,
+    "saved": "2026-10-13T15:35:01.826486+00:00"
+  },
+  {
+    "title": "Search and filter for budgets now available",
+    "link": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " The &#8220;Budgets and alerts&#8221; page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for&#8230; \n The post  Search and filter for budgets now available  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-13T12:06:09+00:00",
+    "engagement": 0,
+    "saved": "2026-10-13T15:35:01.826486+00:00"
+  },
+  {
+    "title": "Super Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+    "source": "NASA (.gov)",
+    "kind": "news",
+    "summary": " Super Intelligence &nbsp;&nbsp; NASA (.gov) ",
+    "country": "IN",
+    "published": "2026-10-12T22:25:35+00:00",
+    "engagement": 0,
+    "saved": "2026-10-13T15:35:01.826486+00:00"
+  },
+  {
+    "title": "NuSynth Raises Rs 36.5 Crore in Seed Funding Led by Avaana Capital",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUdCYjNqTUtvZzBudVNla05MMi16eWptaDVvRVYxb1ZMQ3NuNHVhTGhfVDdKVGVTYmtSZlVvVHpGTno1NlI4ZGdYT3ZWb3FJS1FtdU83TEpQX3ptV2k0WE9rRzlldFNSMVFDSEpaZ3RnUl8ya1hHQzRyRklmckx3aURlWERrc185WHVWOVJGOTZ3ZV9TQ21qX0dIcHdfNjkzWnhLTm54U3NienF3STE0dzEwQ3BrTUQwR2hPa2ktY1plZmJZaDktbVJILWN2TFE?oc=5",
+    "source": "Siliconindia",
+    "kind": "news",
+    "summary": " NuSynth Raises Rs 36.5 Crore in Seed Funding Led by Avaana Capital &nbsp;&nbsp; Siliconindia ",
+    "country": "IN",
+    "published": "2026-10-13T10:24:12+00:00",
+    "engagement": 0,
+    "saved": "2026-10-13T15:35:01.826486+00:00"
+  },
+  {
+    "title": "IIIT-Dharwad team secures fourth place in ISRO robotics challenge",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFYyLXRnelF0ZjU0cDgwbmJxX3dyLXBoaUtTbzNRQVRzenFpbmxWd3E2YW9QLVlwalA4bWVZSDFXWFVtSkF3TDJOSlV1QnBIeDJkXzc0TkdXODA0eUtqNTNKeVVvZDdwQUlNWFRudFZDbHVmWGZrYnZJYWhIU3ZaZS1rM0F5b0tDU0E1RERkU2drWkxuaXV0OXBfZVA5alBrSEJCS2g2NTJHcDJ5T1BXbTdyX0RzeTkzejRIZ1BYSW5mZWlucE92c0VzVDY4bknSAdYBQVVfeXFMT1gzYjczMXNLZ0tuUUVmWjRBNjBuRGQxaWNqd29CUVUwRVBnWXlSMmN3UF9ZeUZRblNOSnV2cDBDT0RxQ19wQlpweXJzNGhCVXJUM0s1TW4yYUg0MnBObFRZTWhHZk5pMXU5aWpTUXBoQ2NQR0ZyYlZYZ0VkY1pkSUtkNmNfTnVHbHpYVldRYm5STHhiZlZndWZfLXUzX3I3Q1dENDNINEtHdkhyOVlvT0hrc0s1YkhYVkVlV3UtRzMySkNjSlZaS016VzdwNXNleDctclQ4Zw?oc=5",
+    "source": "The Hindu",
+    "kind": "news",
+    "summary": " IIIT-Dharwad team secures fourth place in ISRO robotics challenge &nbsp;&nbsp; The Hindu ",
+    "country": "IN",
+    "published": "2026-10-13T13:49:29+00:00",
+    "engagement": 0,
+    "saved": "2026-10-13T15:35:01.826486+00:00"
+  },
+  {
     "title": "UPI MDR rollout deferred beyond Diwali",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFFuc2pJa0gxSW04U3BpNUpPVS1wZkw4eHl0Ml9wZlFkeHFKN0laVENUTUp6Q0pzWmZlQVd1VDVDSEhqd3JvYmxOb2FvZnJFNUpBbFdoUUFqbnQ2NUphc0Q1QmJrUGR1VDlLUDFoRE16X0gyMlVOQW9fNWpOdHJ5eDVhaUtWYnoyMHRHeW9qOE9NaDZTbGtCMDNhSnBPMmExdE5xUTlsWFhUMUI50gGyAUFVX3lxTE9NZHRRbE5WQkQ3ZE44aEt2TXFJUGh1ZklFZnlCcmVPekh1LXNHR1VEV2JYT2RZZlMzbXZmUmlXN2lwSndkU1k5UVI4TjZ3T1E3QmJGdkhGYzJmSlJCa2NPR1ZOeTlVVTRORVZOcm5JbThnN2w5ZFFEcHVfTjk0WWZYWHFmNE9rOXBFZFFtcDVLRlhTdWp6Skg4SnFraFIwUV9ac2JyZW51TDQ5cWdmZzRqeGc?oc=5",
     "source": "The Economic Times",
@@ -8,72 +74,6 @@
     "country": "IN",
     "published": "2026-10-13T07:58:49+00:00",
     "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
-  },
-  {
-    "title": "AI boom lifts China, India as global trade growth accelerates, IMF says",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdTYxNGZPbDBiUHlUUFJxcmF6NlhVakh3U3Y4UHVlTVlrVFhZR0dGQjJNT2NPT0p5UmhURnlQenQ5dkpKZVpybEdrWG9ZV2NpamlYcDFQNEdEbG1ncU1zLUM2bWE0TjZuQUhsMUJWdGN2MTg5R2RXalQySHo1aWlKUE1yd1RhXzhOZkp0ajhvdUxKamhNaVJKQzNjWWJ4TXpYbjJhUGR3anNWWFF0dnlYMHk1blBJeXhmemJSZUxDQ2lUTW1hd3hHZUZBYzJEbEg0M1RjadIB2gFBVV95cUxPc1dtdnktZV9iQ0txWDQ2MjVpUEJlUjdRWmhncEFLQ2dCelo3UFd6aUp5U1JkMTRVel8yMldYenRLNlpVXy1BeGxMOGw1b0FKeC1vUFRueTlRd2hXdmpOX0xkZlZnSzdmNHYxdDBRTmd0ZUZ3Z2k1WlcwbmlxcG1Cc2wxRGtGeWtJTzV2N1Y3QzJUTkE2Y1ltb3RHTjkzTHNrRG0yaUVZLVVDWGFIa3Fqdk9TTUJWTnB1ZnNkTE93eUw4TjRYX3VZeElkV1dpTm95RFQyTWloQ3lMdw?oc=5",
-    "source": "The Economic Times",
-    "kind": "news",
-    "summary": " AI boom lifts China, India as global trade growth accelerates, IMF says &nbsp;&nbsp; The Economic Times ",
-    "country": "IN",
-    "published": "2026-10-13T13:36:45+00:00",
-    "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
-  },
-  {
-    "title": "Google unveils new Fitbit line as fitness gadget competition heats up",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEhWTVQyQjh3dXp2dElWWkFRTTVQenlUZkNLa0tLWU9nRHhIZzV2YkExcFVOTUExdWtmVENvYWtKY0ZoTUJEZjdoV0N2Uzd6cjF5RFdlT2puR1dtbG4yZzRrd2JWd1l0b1JLLVp6OG9BS1ppeXJWa2xTelFEZU5SYWpyejFnUDdXUTYtS2dSNjZpZUZNSWZuZW03aFZ2Qzh1RF9XRXQ4elo3N05jSXZSTHozV3hNbzlYRTZB?oc=5",
-    "source": "Los Angeles Times",
-    "kind": "news",
-    "summary": "   Google unveils new Fitbit line as fitness gadget competition heats up &nbsp;&nbsp; Los Angeles Times    Google Fitbit Edge: Our all-new smartest fitness tracker ever &nbsp;&nbsp; blog.google    Google Debuts $180 Fitbit Edge Tracker in Continued Health Push &nbsp;&nbsp; Bloomberg.com    Fitbit Edge launch: Price, specs, live preorders, where to buy &nbsp;&nbsp; Mashable    Upgrading to the Fitbit Edge? Here's what you'll get – and miss out on &nbsp;&nbsp; New Atlas   ",
-    "country": "IN",
-    "published": "2026-10-13T13:47:04+00:00",
-    "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
-  },
-  {
-    "title": "OPPO Find X10 Series India Launch Date Confirmed",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hcmZXRkZhMHlWWlB1WXdjQ2JMb25MdmwtVFZEeFpLUWt6Q2hCeGRTMlhsRnktNDZETGFZdWNmc2F1NjBMeE1QMjU4dWRpcENFc0E0V2hCUWlmUF9NeWZxNVRMVjc2R2c3QUZCTWpEcWdka2M4Um9jNmJ5Q0o?oc=5",
-    "source": "TelecomTalk",
-    "kind": "news",
-    "summary": " OPPO Find X10 Series India Launch Date Confirmed &nbsp;&nbsp; TelecomTalk ",
-    "country": "IN",
-    "published": "2026-10-13T11:26:16+00:00",
-    "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
-  },
-  {
-    "title": "OnePlus 16 Launched in China: Price, 200MP Camera, 9,000mAh Battery and India Launch Update",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTdBb0k4YkVVN2xYaDZsbVB6cGRzTVdtd1k0ODVTZm5aYzZ6Q1M0RmdnT1F0OURWcHhSaURIUHMweW55ZzZyWUZnWjlROXAtUjJIcXZ3Z01YbXY2enV0U2l2YWFDTzhFRjdXdVFLUXBrTWJlVTdYdjFld2dXSmhKRnBvaEF2Y0JoaHd2TWdySVhMeWdTblBMak9jNnl0VmFsTW41bi01QjEtSGZLOFlv?oc=5",
-    "source": "UdaipurTimes.com",
-    "kind": "news",
-    "summary": " OnePlus 16 Launched in China: Price, 200MP Camera, 9,000mAh Battery and India Launch Update &nbsp;&nbsp; UdaipurTimes.com ",
-    "country": "IN",
-    "published": "2026-10-13T11:09:03+00:00",
-    "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
-  },
-  {
-    "title": "Artificial Intelligence - ABC News",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "kind": "news",
-    "summary": " Artificial Intelligence &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos ",
-    "country": "IN",
-    "published": "2026-10-13T10:32:16+00:00",
-    "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
-  },
-  {
-    "title": "NPCI defers 0.4% MDR on UPI transactions above Rs 2,000 until after Diwali",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGRsbHRuZlZKOEgtcnhKMTZGWHdaTWk0OXNWTTFhbGtvdkppQ1otZWpiZTdldlJlZ0hYdWJyTThDSlFCRE1UVk9xcmVlUGJGSmZHS3dWSGtLTHhFNEhDNHY0Zjh5ODVhekNDVkpZQ09ZTlZ0V01kSkJ6cjl4MEprcFFGSURDOFBZSldQS0ZCNE1kVXFyWC1uM09DQzBWbUJTNktvU2xXYXhramwycnVJM3hETWRIQTZXTTRjdERLdktkb1nSAdABQVVfeXFMUHhHY2VxRUdsT0RJSDlXWDhVRFJNb3ljczZITzBrTkRlWjlScWY5UW1lYVhxMlFUWklqS2QyRGdfZ0c2Q0tRVFBEYzluVndxSWhfNV9SRTVrV3pvU0UzcTVjQWNtSGs5elBlYXRpa1JqbV9rUlNkaHRJSWhLd1M1a1JWZFd1b2FydUkzMUVzcmpGUnozZElDVUtweGVnOFNqaHNzWkt0dEpYY09tLUQ5Y2M3cG05T3ZvX3BscGxVbW8ycGZZVVN3QlVDTy1fdGhjSw?oc=5",
-    "source": "The New Indian Express",
-    "kind": "news",
-    "summary": " NPCI defers 0.4% MDR on UPI transactions above Rs 2,000 until after Diwali &nbsp;&nbsp; The New Indian Express ",
-    "country": "IN",
-    "published": "2026-10-13T09:20:12+00:00",
-    "engagement": 0,
-    "saved": "2026-10-13T14:34:19.451445+00:00"
+    "saved": "2026-10-13T15:35:01.826486+00:00"
   }
 ]
