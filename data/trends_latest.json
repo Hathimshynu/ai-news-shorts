@@ -1,166 +1,157 @@
 {
-  "job_id": "2026-10-12-evening-2101",
-  "chosen": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-  "reason": "NVIDIA has officially opened its next-generation Vera Rubin architecture at the OCP Summit, offering viewers a fascinating look at the supercomputing hardware designed to power the next era of AI factories.",
+  "job_id": "2026-10-13-evening-1231",
+  "chosen": "Hyundai BAYON to launch in India on October 26 with generative AI voice assistant",
+  "reason": "Bringing generative AI voice assistants directly into mainstream passenger cars in India gives everyday drivers a practical, relatable glimpse into in-cabin tech innovation.",
   "candidates": [
     {
-      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "score": 26.91,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ?oc=5",
-        "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
-      ]
-    },
-    {
-      "title": "LTTS, Nvidia open AI-native lab in Bengaluru for manufacturing vertical",
-      "score": 19.34,
+      "title": "Hyundai BAYON to launch in India on October 26 with generative AI voice assistant",
+      "score": 19.47,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVphRGFkSW84bjdOODgzZTB1SjJBd3BMUkRIeFE0dU1FOFRabzZWd0phRklVb2ZpZFNCVEtSam5tZkdsTWl4VFhpbWpRQlJTZ3pzS2YwNTBWdVhQTnFlZXM5bVV0OEhCbUlfQVN3ZXRZbEZCenBteWtHenI2c3haVjRTM2xzSE53NnJqVTVZUm1rOUVkS05nSVR6MDlKd3JwTjY0Z01aLTQ3dGF0ZmpicEpoeGR5cjM4ZkZZZ1FCUV82RU5jVHZmSDNRekhGdm1ocmlGNlRlU3I0RXFPeWIzLWNYZFBLMnY4NGhrNFZB0gHyAUFVX3lxTE1paG9ia05vcDBRdFNaRVNKbDhOVnpVbEduelY5QnNOcVZGeEIwT1ItM1lKdUd3Z1BiN0x0ODFmNUZMeXVRX0N6anItWllteUZ5VmdmMjVBd2pKZDg0dmpsUTNaNmVFTGg0bXhpTVhXdnh3cjk0Y1lxTldlWFFxZkFiNmRsRlhrMkIxRmE1d2doLU5FVDdpZ0h3VEtMRlBqWWI3eVVmZ3RERHIzOEVVb3czandYa3Yxblpyb1FEVjE1amtwX1lfWXRhTnhhRTIxQjJXMHh0Z1pOamNJWXhzNnlUNThXT2d1emszMkk1bi0tV3ZR?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzFEdldMYXlUZ2RDbWtEV1ZQczFuTlpiazRyRW4yQ0l5eDZtZzZmLXJqOHV1WnhsRzVJb1h5V1FheG9wQkkyemxMVmJzS01wUU1mNVBUVUtHdEhib0UxdG01WUNTRkFCSzhJOHQ4dEdCak4tVTNCNnQ4dlNDTmpMeUtjRmU4SDFRZGxpZjFObFdwMW9MbzJXRzBtVUZZaDduY0hMLTZvci1wejhkYXphY0Nn?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3BpaWU5aHIxSnJEa2Zqa2tTUG1jc2p1NnB3T2RIV1FJdzkwazU5Ry10ODQwVzJMMjdJVUQ2SnNhb3J4SnJLNVZxaEpKQnBPek5wdXREZS0wM09wYzVzeEZiRXVIRDc2b1JBdVEtcXp1SU5YSE91YkQ4WDYzRXRVRFUzOUxqcU5nOXlJOUx4YVpUV2xJRFlXODBSTW1nRmJ2RktEaVZ3WmdyWjZIZGd2UTIxWVpzbzA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUdYR0lBZEFLX2RESTBTZWpIbXlSZGFfdjA0QUZBT2VwMk0wSENOc3BWMFBRQXMzdGNydml6cGJaZEkxd3RVR0l4Sm51WVZGUWVfb0pxcVJUeENlOU5HNm9KLTNPcDhyVnVmeVRka1k0Ui1lUFZzLUpSZmoza183ZFUxdW9tVEJNLWJ6WThRMlpLS1BuRUZRbzlqcENrYmgxUm44RkxtZTF5bHc?oc=5"
       ]
     },
     {
-      "title": "LTTS launches EI Lab featuring NVIDIA accelerated AI-native factory",
-      "score": 19.44,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0dQZUNjczlzYUZTNjhnVUVxblloeFR2WGZxelZzNGt3Vk12Um4tZTFpYU1fcTdWaEVHZENrTlJ2NHZGM1pic2FTUWFSbXRGOG9DN1Y1WkpXZzAwaG1YTXFZeTdvTFRHaDRITVc4aUJxVktDSUFSMjNHUEZRbzgyQlhOY2lpdkJ2S2ZSVkdTSFF1UGNEWllOWHNVbzNqN21QbUkwejBlNUZ0c2FpbkRoM0I2bmtwZ3l3WThFX2hjdEo4ZW40NGdfcTR3YVh5LTjSAdYBQVVfeXFMTk9WRndhT085ZEFFU0VyNnJDSWw2RFk5X0VHZlZaLVQ1bnFGY3prcThSN3NKUDNkUzB6NEotNW55N05MUFhxTjVXYkhnZG5LbjRSdk5HMlFZeWNaZVlaREFhZFA5U19sR28ycEttS0NIS0ctbTZYZWJlMDZkQS1GblgyN1lacHVZeWJKRHpDMHM0NHhnWDVrR0JNNkVfTnVFQWQtWFFCS2xxUE9kT014bWVxdU1rODhJay16aml4VGw0dFhPb0ZraDhyY3ZTdklaNEZHWExuZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HZEtpTTdKN3YyUXNPY29sOGExUzRjcnVadFpwelNCVEhSOVlBMUdHbTNXVnhka2ZCbGdMaHY0QmpKeVh4U2syWGNCOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1l5Y2FZeDc4akVqcmFSMHJjNFh4ZmJnQXBYdTVMSW1Vb2w5NWY2Ymc1eF9qMHBfaTE2VHh1M3BKYnpkdUljcG1QbkRCN3lQOGFlVW54OEY3S3V0ZHJscDl3TTg3NVowVHlOVWJ3ZUktWUptbmhoX0pEOFg3Z25EUTFOYm9XdXBjRzBnRmNXb2N6NzlvRG5EdW55eDVfNmc4Nmc?oc=5"
-      ]
-    },
-    {
-      "title": "Nikon revokes first prize in Small World in Motion video competition over AI use",
-      "score": 22.96,
+      "title": "Hyundai Bayon India-spec unveiled ahead of 26 October launch: 115 PS petrol engine, AI assistant confirmed",
+      "score": 19.35,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXRvM2dXNHJWd0otdHlLWl9sUXc1R3FXVmkxUHppcGphNnNvSXZzWGFkQ0RLbVptdzZFVmZUdDN3VlFlbkpVeDhERFR5eFhYenlOZUo2MHh4VkhkSVBpQ0s2YlU0LUhCT3FwRXlfM1hvYlZVeXU4SS02REcxOUZsQVpSUzNGNnc?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qajdGbGo2Rnc4eWw3Y3h1X1gxTC0xbDFHcURqc1R4YmZiaXF2aENkajNRb3puNEx1QnlFVkJ2V2J3X1lpbm1zT2xPTlI1bnpYMEEyRXNYc1pSbHlibjJTLVktby0xTW93RkpTdWVpRkI0UGxkS0w3R2dqcVg?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXRvM2dXNHJWd0otdHlLWl9sUXc1R3FXVmkxUHppcGphNnNvSXZzWGFkQ0RLbVptdzZFVmZUdDN3VlFlbkpVeDhERFR5eFhYenlOZUo2MHh4VkhkSVBpQ0s2YlU0LUhCT3FwRXlfM1hvYlZVeXU4SS02REcxOUZsQVpSUzNGNnc?oc=5"
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaU44aXJPQV9SVXRMaWpzeDJvaHpqdW90N2pYUGRkRzZVOVVrcFZ5VTFWWjlKX0w5R25Ta1Z6eFNMMzIwY3FkNHBvd2w0N2NlZjZ6eGlFMzRtVjVkZExCUWVjYk1PUzduTHZnMlUyZm9FbVg5S0U0bXFlLWdaNnNYV0JLUVF3RTlqQUNlNlR4VUczYTJTcG0wejlKcEQ0ZlZCYVViNS1SejZGMk93UElXOTBWRndOejNGeWJDd2ItLTI0WmlCbHBWcXI4bEhmUk9lOHpJMnZ3ZDJOZDVLWmgxZmVTN1JYak80NWd1T0tmNHXSAfYBQVVfeXFMTWRIa3AydGFxUnZTSjdOcDVvbzB1eHp4d0FZUm9OOC15LTdTY2ptZDQxVUwxMEVWUFM1eHVvNEQtd3dyUHllWWkwS28ybnJJSVBYT1RxYlVlUkhwM1gwLWRtVU16Nk1lRUc1cFlJYTY5U1Rmb01mMVpWUE5xN2JUUUxNaGY3WFdmemoyRHhQd05VZWFhMUt4YTUyc2YzaUFCVXhMRlVaVV9wYkIxanFnMkVOZjFwQzZocmVjMGxvRjR4ZTd3MjVNTDE0R3V0bzlxdVZ2NmRod3FxaVlWQ2VDU2wxSFRBTzlkYmFvU1VaNngxdXRKRHhn?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQemd6SENwcTNkT25xRWdhM3FLZGRtcFhudHlNV1ZjMEpiZkZFLThOQTJQekFraGVzbjBEbEdncERXeEQzU1dlUnFlMXNtbEY2ZGV4TlA5WWpmY1pzYVNRbUV4YnZ5eEk1ZzdTQmwzOXFLTkVkWDdUeDBfX0gyYmZxbXc5dzM2YjJYSzgxOFFJWXRBcDM3eHfSAZYBQVVfeXFMUHpnekhDcHEzZE9ucUVnYTNxS2RkbXBYbnR5TVdWYzBKYmZGRS04TkEyUHpBa2hlc24wRGxHZ3BEV3hEM1NXZVJxZTFzbWxGNmRleE5QOVlqZmNac2FTUW1FeGJ2eXhJNWc3U0JsMzlxS05FZFg3VHgwX19IMmJmcW13OXczNmIyWEs4MThRSVl0QXAzN3h3?oc=5"
       ]
     },
     {
-      "title": "Google defends $15 billion Vizag AI hub amid water concerns, protests",
-      "score": 20.0,
+      "title": "Google Quantum AI Introduces Virtual Error Cancellation for Universal Logical Circuits",
+      "score": 19.03,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFc5RmRCSUxSUjBIa2trdVFuVzR4Yy1FTjEtMC1aVzVYMUp6S1B5bnRMYVp6ekgxcjVmZkthU2lReXZVSlhPSmdHMEhiR21DTWM3cTI5OUJrNDJ3WWgyYjZfUE9fdWJaQkZ6QlhjbVg4UEVnUUlVT0VrYktjT3ZRRkZ6V1JfcmN2YjFTRFJoNlFNQnhlcll4ZGYzRURjdTFjd054Q3paLXllTDZWX1dsckk1UVFDQmJnbFB1em9QSXU5WDBUajcyTGd6LTIzTjDSAdQBQVVfeXFMTTZuMXlhaVJhemJoUmJWdEtBQ2lidlh6ZkFwSS1XZjNBbk13MGlCNXZZT2F1ZmVTdG90c2dGUUlkVXVQeThXcXRjTm9Mb3Z1dzRHclNYcGhUd284b2szdHp3SElzQV9RQlFONUwwRTczYmZULXJ5OWFHV2VGeFQ2dFhyTmJVZVRmYk1ZeEU5dEFKaE1mOWZoT1lra2E5eEt0MTBFbUhydy1QV1ZNTHNZUVNuS0V2Q1kxaENjN2E3Y0lXd1M4d2RFekRZcDg2c1BtSmdpWGc?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjA2N2pZb2dQSlEtT0JWOHBPVldrQzRHdnU1eU51bjFlTGFXVWRhblZZOWNMV3lENDFFdjFhTTcyTm9weVlBdFM2bnhYZFFaOVVGX3E0bjZ0UUpVaFMzeGlNZDJMSkF5aGlkVGNlODlqVF9RSTJRME9NaDdTTTlUQw?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFc5RmRCSUxSUjBIa2trdVFuVzR4Yy1FTjEtMC1aVzVYMUp6S1B5bnRMYVp6ekgxcjVmZkthU2lReXZVSlhPSmdHMEhiR21DTWM3cTI5OUJrNDJ3WWgyYjZfUE9fdWJaQkZ6QlhjbVg4UEVnUUlVT0VrYktjT3ZRRkZ6V1JfcmN2YjFTRFJoNlFNQnhlcll4ZGYzRURjdTFjd054Q3paLXllTDZWX1dsckk1UVFDQmJnbFB1em9QSXU5WDBUajcyTGd6LTIzTjDSAdQBQVVfeXFMTTZuMXlhaVJhemJoUmJWdEtBQ2lidlh6ZkFwSS1XZjNBbk13MGlCNXZZT2F1ZmVTdG90c2dGUUlkVXVQeThXcXRjTm9Mb3Z1dzRHclNYcGhUd284b2szdHp3SElzQV9RQlFONUwwRTczYmZULXJ5OWFHV2VGeFQ2dFhyTmJVZVRmYk1ZeEU5dEFKaE1mOWZoT1lra2E5eEt0MTBFbUhydy1QV1ZNTHNZUVNuS0V2Q1kxaENjN2E3Y0lXd1M4d2RFekRZcDg2c1BtSmdpWGc?oc=5"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence at AMD",
-      "score": 33.93,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiM0M1UXdwNW85eGhfTVh5Q1pwMUo1RFBDb2JrbEx6QWJOVUlTRmtVRm9PX05lWUVYZ3BLSmpiR1MtZzM4TFl1UFh4TldIODhOa0FNSjFBYm5SVVdhZkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2xDUXpyYkhzMG8xdUo2OXljQkRIUEYwd2h2YVNnNkdrd1ptLWxqZFAtZzgwSnVsczRBdU1nOF9UTE5ldmdRQ3BvMFctbE00Q2RoSi1QZGRudk5UNm4xSFNWZW1NRFBvVFdTbFZVUVl5WkVHdGxmVEdLUDNJRUc3Z1ZiQWlwM3BHcXdZS1ZMci1ubV91Nm0zbzlBOGVoTW80ZGwzTk84YXJ0eUFjMEpZcG9mUEotN3Jubl9pb0p4eEE?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiM0M1UXdwNW85eGhfTVh5Q1pwMUo1RFBDb2JrbEx6QWJOVUlTRmtVRm9PX05lWUVYZ3BLSmpiR1MtZzM4TFl1UFh4TldIODhOa0FNSjFBYm5SVVdhZkE?oc=5"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2t3Qmt2dWpoNU96cURRYUp6VDFoNHBwbkk0OVdVNHlYQWhtc2R3eng4akFEQW9STFUtQUUyUURVY3dSbUxDWEQ3MXhUcDFDUndINW5tcEdqaGZBNnI5UHZETW9hb3poNEtkQWNCT3pjR0V3YktRMjBjSFZGQWFKMVdrcEJlNU9Od3hnV2g4MjRkaTJXQVFnOVBQTnBSQTZKWGVnQjlTTkV3TTVlZjdhaWctWm5pc0NHR3BKc181RdIBxAFBVV95cUxOd0tWN1J4aFVYbERaSzVYZHVmQ2plQmVoUVl4M2NTcTlBNGJVRWpDVFV5ZGpDWFFRZmpfVnNmTnRNMWRaUHI3QTF2Ni10ZGZjdUJfQW9MclgyOE1wRFdQNmFqVmYzMVFuLWhhSVYxbzJ3R01jSFlDYlo1VmVnLXlpaURoOWtkal8wUWxVM0hkSzlIXzU2Yko3S1dLVVJzd2x1Z0VxQjFobWY3TkNVdnVJa04ySVlabUFhVWFuOXJLNjM5ZlpC?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2t3Qmt2dWpoNU96cURRYUp6VDFoNHBwbkk0OVdVNHlYQWhtc2R3eng4akFEQW9STFUtQUUyUURVY3dSbUxDWEQ3MXhUcDFDUndINW5tcEdqaGZBNnI5UHZETW9hb3poNEtkQWNCT3pjR0V3YktRMjBjSFZGQWFKMVdrcEJlNU9Od3hnV2g4MjRkaTJXQVFnOVBQTnBSQTZKWGVnQjlTTkV3TTVlZjdhaWctWm5pc0NHR3BKc181RdIBxAFBVV95cUxOd0tWN1J4aFVYbERaSzVYZHVmQ2plQmVoUVl4M2NTcTlBNGJVRWpDVFV5ZGpDWFFRZmpfVnNmTnRNMWRaUHI3QTF2Ni10ZGZjdUJfQW9MclgyOE1wRFdQNmFqVmYzMVFuLWhhSVYxbzJ3R01jSFlDYlo1VmVnLXlpaURoOWtkal8wUWxVM0hkSzlIXzU2Yko3S1dLVVJzd2x1Z0VxQjFobWY3TkNVdnVJa04ySVlabUFhVWFuOXJLNjM5ZlpC?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2t3Qmt2dWpoNU96cURRYUp6VDFoNHBwbkk0OVdVNHlYQWhtc2R3eng4akFEQW9STFUtQUUyUURVY3dSbUxDWEQ3MXhUcDFDUndINW5tcEdqaGZBNnI5UHZETW9hb3poNEtkQWNCT3pjR0V3YktRMjBjSFZGQWFKMVdrcEJlNU9Od3hnV2g4MjRkaTJXQVFnOVBQTnBSQTZKWGVnQjlTTkV3TTVlZjdhaWctWm5pc0NHR3BKc181RdIBxAFBVV95cUxOd0tWN1J4aFVYbERaSzVYZHVmQ2plQmVoUVl4M2NTcTlBNGJVRWpDVFV5ZGpDWFFRZmpfVnNmTnRNMWRaUHI3QTF2Ni10ZGZjdUJfQW9MclgyOE1wRFdQNmFqVmYzMVFuLWhhSVYxbzJ3R01jSFlDYlo1VmVnLXlpaURoOWtkal8wUWxVM0hkSzlIXzU2Yko3S1dLVVJzd2x1Z0VxQjFobWY3TkNVdnVJa04ySVlabUFhVWFuOXJLNjM5ZlpC?oc=5"
       ]
     },
     {
       "title": "IonQ to buy cybersecurity firm Elisity in up to $1.3 billion deal",
-      "score": 25.77,
+      "score": 21.75,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVhnN1F1cXJhdTdfRVd2N1k0RGp3WlBtaTNkV255QkRJelJHMmNvb1BLUEFWNll3VXNveFpZM0k1V1Rkb0xidktpS2pGU3BFWEE0UWtZVlctcVpIdzdFQ0xnRnpBOU03TGNtcnVUOC03SHNaLUo2ODQyZ1BQRXRJSlFuQmZHN1FuSGcwbWl1SXBRTjhjb2xybWdBUG9INlQtWXZ4MFc1Uy1HWlA4LWtYYjE1RkUyUnU4M3dRLWtsWjJzWHVYLTdXYkFyWm4xQ1k?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmk5NnMzd2lyOHZSR1dvNEVleUIzdGg0dTF0X3NkWDVNblZYMXVoQjJFREtXdE10MFYwZkpOZHptN3dYdFV2S1RwMzAyNFFqMkxqX3N3c3lpSVNUU0s4U2hlaTVNNFg1RTJ5RkZpb1JyUGFKTFc3bHFlWkV3S0szdDUtSlE2WV91VmphdUdZc3MyNTM1YTVpVlNnNW04QUIyMmQxTGx2Z2FBcGFFZ3Q0anEzeFJlNHpXNUdheDBXRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMU8tam55RldRWThOeGVBZzJpdFptdWxDNy1YUWNrREdyaUpxOFNyVV82Y3ZjcUdJX2R2Rlk4S1hiOE53aEU1SXRkUk5QTXAzcTVROFRTLWp6YV9xMU4xRUJnM3hjc1BBTjYzVmdXTEo1VGtqRVU0YjNGSGY3OE5iY0k2WXRNQTJhQ19oTVFVcV9wNEJDT3VhN3RqY2dhMktvOEpKZ2Vxa1lOb0RlRXA4aWZoME9ySXBpTlNiNlZtY0VROEtVOHQ5WnF3Tml1S3YwYjYyUW0tZWLSAdIBQVVfeXFMT2tOdGp6UWhEb0lyUnlNdkRZR3ZUeDZaZDNOWXFKYkhaeXB3YklDd3Z6Q1FPWHlzRkpYOXNFeVBZZHBXYTN5SVlhcHR1UVp2R0lZUHYzU19tcUFtY0RrVXNDOWo3VGxsc01KSmpIUE1MYjlEeXZGNS1fRllmQnZ3Ym1yRWpLelRPLVhTQkt6ZHdvOFRBdkd5TXhIRUdQMHZsSWdaWi1oUGVwSDNqLWZvYk5XUGpmSkg3SlkyOU80NzBhaDNGYVJvNlFqVzdIMHF6cjR3?oc=5"
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVW95YjNzcXhXdHJ5cVJfWldIVm5nUXo0RnhVUGpYcFVwaTJWLXQ4TkZwR2lCWTBwNXl5dk8tdnJJUkg0cG12TlJTeFl1b2RZWDFlZGNlYkxMVktjMExoZkY5RDh3amtORFJja242dkhzVmpQOWx0Qlg0SFFRUnRBTWNGMkNmOWdmWDZRSEtCd1NJTXhybVJEODl4R3l1a3NRYm9tYnFRMU5UdVFTQWxR?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUndlYW5WRVJUV1JhNGdWcDM0WFp6T3lRcnNnYk53MUZSaGx6M0tIRkdpWllILW1HdHNVLUk3cVJnZFlGdks2UjVtWW5DSGgtTDVQcERYSXc1bXAxWVZVa1RZRER1Uk04Y3Y2RVRWV25KbFZDdDBVaUlGSzcyQktBTW1SWXFnS2Vvd1NTRFZCU3NqRGhPemVVdmJqRVNHMFlHcDl1SkdpRWY4SmRJSzkw?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFFXWWRTLXk1V2ZGM0ppRVVWNzZsS0JNYTlmYmlnbVJMR3d3ZHlQUjdQUXRrVUxXOXpCRHI4Q1J3SkprUFFNY2gwcl9nS3BBU2U0OEllZWJjRXg3emtXbVhudzVOUjUwZl9QRUZHYzlILWNJTmduOU5KMUo0bUMzedIBhgFBVV95cUxPZkpTTEg1WjFEd0pMVnBDVktxc0JxMmdQUWJ2U3RtMTVpLWNQRVZDT1FLMll1R0JmOERnR2VMUUhyRFFqZHc2UzZObWV3ZU96OG9RSWdUUWNhZWtWN21IdjFhNTJLQjlGbzk2bWRDalBqbmYzSXFxVzNQYjJLaFc5ZWxkWXlFdw?oc=5"
       ]
     },
     {
-      "title": "Infinix GT 50 Pro confirmed to launch in India on 27th October",
-      "score": 19.68,
+      "title": "Google's new Fitbit Edge fitness tracker offers a screen and up to 7 days of usage - GSMArena.com news",
+      "score": 19.37,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGE5N3pFaUVtOTlDcVBDZlB6RXg5ZW9vSm5PT1V0eHpUdDNNUGJ0U094U2NiOUNQOGpnQUtJcHQzeUdJYWwtSkVfOW5IWXVYQ2tiVm5ka1o3enV5YUtjbEUyTWNENFJVdXhXRFJVZWtTMVNfd1Zna1NzQTlELXQybDRQLXhDeGJiWnFaUkE0ZnBpQmYtdmwwTU1YVnVaLUFfb2k3Q1ZYc1MyQThXNnlTc2M5dXVORkJIdzZzVGtR0gG6AUFVX3lxTE53QTNGUERnd1ZjcU5RZ0JGeUEyN2NlcTRPQVlNMVM3aXNodDdHWE40NWFvUTVPaTJwdThBUHUtbDhJc2tTdHhnVF94LTczd3FZNUh5QmtZTXpwMzJteFRZYW90YlVZQ0VvUC1fZ0RKVkVaWWlvME83Q2RQN1Z4bE9SWG5OemJJNWhQblRJbEl1RGVIcm8wSGwwMmp1Wmx3eC1taG5WeXd1MDJHWW96SzVtU2FfbWRyVEJSdw?oc=5",
+        "https://www.producthunt.com/products/google-fit-2"
+      ]
+    },
+    {
+      "title": "OPPO Pad Mini India launch officially teased; key specs confirmed",
+      "score": 19.18,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFsLUh0SDdmRTJrZm1Ydzlod0FxOTF0SlUwVzFIU0d6dFZ0MXlrQnRjemwxeWoxZ01NMGFvWHFNeXFTTmZhS0lPLW8tb1c3MktnSzAtdHcwVnFDOEdSYi1wUkVsc29vbWlkWC00VGNKOFc4ckM1anVmY002WWhEX1JnQdIBgwFBVV95cUxPMnFsLUh0SDdmRTJrZm1Ydzlod0FxOTF0SlUwVzFIU0d6dFZ0MXlrQnRjemwxeWoxZ01NMGFvWHFNeXFTTmZhS0lPLW8tb1c3MktnSzAtdHcwVnFDOEdSYi1wUkVsc29vbWlkWC00VGNKOFc4ckM1anVmY002WWhEX1JnQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNHoyZDhSRTh6R0JsMUhrSzFlWjBtRS1QYVNQMXRHaVlWWVJmZTZaY21wdTJXUmFJSmpieC1XRUQ2SmZHcmpZb180WE5SUzRxRzZFUHMxWG5Obzc3XzF5ekdtd3VIOXVnNGM0ekd2QzhQYXgxcVlHZGktNGk2RVg5aUdPZ0pGcmxrVURrZk93R2lldjZwVnAyNy1nSjhTV2ZWeUpDMjczaHFwNUh3LTBidldSMXByaVY2ckltaXd0UWh5TzY2STh2aDQzMUROOEtPTHUwMUJZbDZvbFl1LVN5X1llYVRmd25FS0MzLTk2c2lEOTN0SzF0OXI0YTExcDRWeE1Td3Btd1Q?oc=5"
+      ]
+    },
+    {
+      "title": "Google defends $15 billion Vizag AI hub as water fears, land disputes and protests put project under scrutiny",
+      "score": 20.03,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkZVUmo4d0VWdW56VGxHMTZaeTVqOFJsUlJ6TEloRWFCXzI0OTVSdlJoc0w3Nmlqdi1sN0NVS0hWWUV5ZUpzeUFYeXNaa1E5a1laeXdyb2ZMOWJBQTNvRHBQQWt3UkxWYUNfNGNKZlJOdmloLUZFWjdHV1BnS19qRkdXVWxJUU52WDZ1RXNGTEtYek9nMzJmNExjUHJPMmJCbXQ5T1JFZ1kzWkxCdVVqaHlld3E1YjU2WC1rOWJycjJCWlRpeWZ2bA?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE96QXREQ3p6dHU0MU16X1VVWHlydlNEVVFpaHk1WkJDbzBrTWU2TTIyU1RqWDJ5S3JLOTVzY2o0ZENua3YzUWI5YkxrRWtrMjFyc0I2M3IyS3BQOWdFN0NUXzVObmdmd0hPSWtoYjRhbU1XN0RMdGFzQw?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkZVUmo4d0VWdW56VGxHMTZaeTVqOFJsUlJ6TEloRWFCXzI0OTVSdlJoc0w3Nmlqdi1sN0NVS0hWWUV5ZUpzeUFYeXNaa1E5a1laeXdyb2ZMOWJBQTNvRHBQQWt3UkxWYUNfNGNKZlJOdmloLUZFWjdHV1BnS19qRkdXVWxJUU52WDZ1RXNGTEtYek9nMzJmNExjUHJPMmJCbXQ5T1JFZ1kzWkxCdVVqaHlld3E1YjU2WC1rOWJycjJCWlRpeWZ2bA?oc=5"
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS0hsakVZTTZNWHZUZVE1eHpJMW5TRlp5RW82UHdfcV9zWms3TTh1MzNlZklEMUpGbk1wTHZJYkoxX01Zb1owQ2s5bDJxbFcxRjJnU3BtY2FVNjdad3FFRzVWM2V6M0MtaG0zSV8xRVNad2xyTi0welhkM0xIVkcxY0IzblhmRGFrcmstRjRqOVhsMjdDa3VDOGp4a0U2VVo5TkVMT2dfRXpyTHlpVGhfSmV3ZE9Fb1dZRnpKSGxoT1N0UWp1MDFab0FxZkZpVmJIMVhEUlMteF93OTdCZ3FvS0pWWlVFcW40SjRHamJlSkdCaTNvQmttS9IB_gFBVV95cUxPN3VkQkU1UUtKRlZtQVE2RG14VV9sWlQyWElFcUMzTkh5WHBtcmNyakx3TE5sRXBubW1oc0RoNGY0ZjBIUlJvaUNZSXJUZ3VCVGU3SFo2SVVBbS1TRGhUdXd6RXFITTdTSUstWHBJR19uX3cwT3dvbEh2NzRtZWpvSUFGTWhRYXFKOUNMMER5NDF2X1IyN0xJV3RkMmdjODg1X08tWXpZaHhsWUJSZEkxbVFOT1pjT1U4R0Z2cENqOFdxMXpyNnoxdXk1YmNVR2w1ZmMySHZiRlZ6ZENEa28wcDgxMmp4QzRCWFBFdlBfZnhrdEhCaHBJWi1DWGFQUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE9KcUY1Y2NFQlJhUGRHMXl2VUxlcW1rNmVtd25KSDU3NmRqYkcxU1RLQjJkV2xWVGpxam0yODNTWXpveEMySnh3Z0FVSFMyUEFtaFJudXRQRWZCMkNvUmE3VDJ2SFYtaHA2OUhuXzJYMEJRcHBUOW1GVFAxOFl1MUszRENtT21HU2lLdWRweW5URGxGeHhxOGNSUk1JcVk?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTFZSFFMZkRGOVJOQTVWZ0JwOFYtemhjd3BBS2g1aDVyRnMxRWp5T1UydnpjVU12NnlKNWh6aXpCU21qczUyVkUtUUhPdmhSR1VTWkQwSk9nSFhRdlRoWVBVanJyeGRCbDllQTlDamhpMHlSS0lPOXRTUXFJdlNLWHgyLVAyQ0ZOa0E4b1ExNXVRSDRvVTRPMEZmdlgyRWZF?oc=5"
       ]
     },
     {
-      "title": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
-      "score": 18.75,
+      "title": "AI boom bolstered growth in global trade, benefiting China and India, IMF says",
+      "score": 19.27,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3ZoTm83Z2lDMS1EVjVBVG4taU9uMFROZ0VMUkFhUnd3S2RwUWxFbm5MNXJmdmpYWFhRd2ZJSFBlQjVkbWgyR1ZpMmlxTFJnNDZHU2lmNlFTcThCZ0VvaEVvbVI2dGJ5VFA2U3pGU0JQcWgwdHhoLTZ3ZWtMbzZXRVlvZVBlWGZiY01FeEJCWmJCYlpYS2hTbDdYRk05eHk5RGxYY2tPYUhUM3RrWmZNZWdXNUJ3cFU1cnQwRFBzZHY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3ZoTm83Z2lDMS1EVjVBVG4taU9uMFROZ0VMUkFhUnd3S2RwUWxFbm5MNXJmdmpYWFhRd2ZJSFBlQjVkbWgyR1ZpMmlxTFJnNDZHU2lmNlFTcThCZ0VvaEVvbVI2dGJ5VFA2U3pGU0JQcWgwdHhoLTZ3ZWtMbzZXRVlvZVBlWGZiY01FeEJCWmJCYlpYS2hTbDdYRk05eHk5RGxYY2tPYUhUM3RrWmZNZWdXNUJ3cFU1cnQwRFBzZHY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3ZoTm83Z2lDMS1EVjVBVG4taU9uMFROZ0VMUkFhUnd3S2RwUWxFbm5MNXJmdmpYWFhRd2ZJSFBlQjVkbWgyR1ZpMmlxTFJnNDZHU2lmNlFTcThCZ0VvaEVvbVI2dGJ5VFA2U3pGU0JQcWgwdHhoLTZ3ZWtMbzZXRVlvZVBlWGZiY01FeEJCWmJCYlpYS2hTbDdYRk05eHk5RGxYY2tPYUhUM3RrWmZNZWdXNUJ3cFU1cnQwRFBzZHY?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVFzV2hGZjBlUUFETjhBYmxjM2pPNkFfS0dxTFlKUm5fRnJUQm9sYjBoNGhCNldSX2tlTGxwTWtRbG94cUdYVkhKZkZCZGRabTFtMWhyMHZfUFZmUjcwaUlTRzFCOE04MG81aWtjbHZfNGNsY1Q0M01oOFp3NFE4eFlodW1jd2tsaVNNYTgyUFlwX3d5b1hMaFU3Y19QVFVkYXZ6Q3YzMVYzZlYzV2NnLXNlZnQxREpOXzhVd1BPM2g3QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRllta0dJMzdiNEVuRWExMEJ0dlo2RVRtT3hocUp4M29nblItWUE3eGt1bi02VXZpNnRTMDJEQ3RFS1lrRFMyRVRQSG16ZkRfTmxUUmlsNGtKbE02cW9oNFJPOTJiNmtaNEV0NkVpUHJuR1piaS14TzgyaTZQaEIzMnRnUmNHdzlNTGRWS3paRlJESDJZR0xSR3BWZWszOGlONUlad3JrOFJXeUJyRXV3aDdPaXBEamhNMS1RMXAwWU84VVRMTjUtV2lZdWI5WVFnZFHSAdgBQVVfeXFMUDBGNmljUDJra3Y3NmV2alZ3YURTTTk5amJwRmd0WlR3Ql8zWWp4UWNfOFVqZDU2dTg0amxER1RnS1hpU2ZUWkF0R1pRanp6cFpxTXhkRjRKRVM2bF9KdzJiZk5BS0YwekVsS2dWQjFSVFVYQlo4ODRLMXlDTEMyWjZubC1HRTIzSmIzQVdPeGtKa3FWX2NjdVhPVzNCTm0yUTQ1Y2ItV0RsZmJTbDBHbWdPYmo0QVRTb3pwNVhhRDZXbGRxVzJUV3NYdElTZEhLeDdsd0Q5ZFY0?oc=5"
       ]
     },
     {
-      "title": "Oppo Find X10 Pro Max may launch on October 22: Check expected India price, specs and more",
-      "score": 19.39,
+      "title": "OnePlus 16 Launches in China With a 9,000mAh Battery",
+      "score": 21.0,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVW5JMlN6RUNZdmRRMHJmUjc1SEd1cDNqOUZPQnd0MHdHdi1uWXBEUE1qWmVEYjBWMl9MN1FSdzVTRllqVzJxV1dpMmNWeVBKeVgzcG9qdlN4RmFFQ1dDYXFqTHdpeU14Y3JnSVUwMnBDalBZMmg0TzFxLTBsLXk5QVB3b0ZQdjVMR1lDdHdMZzZPbm5Hd2sxNUlaY3k1Sjc0ZXZCWm9qelA0SEhtREVOM0JTdmpPcFhkdUZJdF9wOXNqeWEzRGNuTEI5dXpVQdIB1AFBVV95cUxPY3BqQ1NINmQ5S1QySjBsSWZxWU53TDNEX3Z0UWVSMTVyN1cwRzJXOW93eEFiaUw0Z0tVR2h6SHBDaUd0QmR1Yng4YUxXWGpOUlA1V3AzeHhLM2F0aEt4aG11T04wb3JnRXh6T1hYVWlLam9QN1pNbUk1V3hCaUlHOS1UY1hNOFVHZ0Z6SzdWU01JVUZrN08teUIyVU9qSjc1clVSbXByamhkWFV1WVlRSFo5Qy1yWEc5S2NvcjlJVXVveTJFWjNoYS00LVJrMTBISkN1ag?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMnJfa2dJZHhxU2ZlaE1SRTdxUXB0U1hqVkhXNkhFeXRkcV9SZHJEVzZydjVnblhJRldDRE5kX0VZU1lfclNETzAxYWliNXp1c0pLc1FhMkhBTjFEUVNrQ2tPZXdBT0NVYzN3T0p0N3k4clFfWExUOEZNR1BFeDdJVHRuYWFrNEJiemwyMWRfSnVUSXRiVklzOTFNMmZHWG5CdUVxdHhrbEdVQmF3M1NLblZPaWItMTQwd1dMTTBNM3lzWGZmZFREbndJXzZnTGFXN3ROSm9aeHlmNGVxXzBQREJna2R0Rmt00gHoAUFVX3lxTFAycl9rZ0lkeHFTZmVoTVJFN3FRcHRTWGpWSFc2SEV5dGRxX1JkckRXNnJ2NWduWElGV0NETmRfRVlTWV9yU0RPMDFhaWI1enVzSktzUWEySEFOMURRU2tDa09ld0FPQ1VjM3dPSnQ3eThyUV9YTFQ4Rk1HUEV4N0lUdG5hYWs0QmJ6bDIxZF9KdVRJdGJWSXM5MU0yZkdYbkJ1RXF0eGtsR1VCYXczU0tuVk9pYi0xNDB3V0xNME0zeXNYZmZkVERud0lfNmdMYVc3dE5Kb1p4eWY0ZXFfMFBEQmdrZHRGa3Q?oc=5"
-      ]
-    },
-    {
-      "title": "OnePlus 16 launched with 9,000mAh battery, 185Hz display and 200MP camera",
-      "score": 23.52,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzFTMkV5TXFvT0N6ZTJVRVd5VEVaM3NsLU84LWpORGllSHAtQnQyWkxFUDVHUTRqUW9ER19hR3hxVXgzV3l5WllZWlJ2dGNub2dNWnZ6c2lWaUs3STJVQ3lCbE5iNUlLU1NOaFZjZUhKRzFHV2hqbzNOdkJZLXp0ampVa3dfWkxuZlJpWktObjFscWU4bmNwWTd3V0xSeWc1bXY1SUdJVG5IdXM3RFlRZE15NWs4WXlZSk9XajFLUVQxNS16cHNnMVhWSUctOGZfa0JWddIB2gFBVV95cUxNWWQtRHlLWXF1OXBQcXZmNjFpTnI5ZXktbVpoQk40UXFQWmlZWUF2cGpDUjVTU1htYVl4Z3hsd0tNLVhVc2RuelR0TUc3ekFrZTlsY3BmU2thaW9WekduSDZCWE5RMVNLblhVSzRUbm9ZR2RSNFkzMGlHTXZ4UU9tS1hDTXRnVW96MjVMM2Fvek9iTlF5Tm1zNzByUTVmeEhfZUJ5YjlXdHJ0LXFuVjFLR1A0T0ZWV2VKcUhVLXhjSGpWUHMzWGFZYTdNZGNfWkhBR05NSnQtU3djZw?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODY1OTdyUEdETlFNcURCZ1hLUTl0Ri1IVEdKcWduMHVybEdBYW5TSF9zcjgwQUZBcTFFZWk2NlNfdEQxaDlIaHgtM0NtWm5RUVlnT3JmeU5CWTFFUEJ0SWJENDdVTDdiLTVvMGFQeXFKemhKVUlzandXVkpiT2tUOG1HOHVxNjg?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTByWDRiQWdsS3MzYWlyVWtxXzRIYlM5bGNBX2pROWNBZ014VHU3LXROQnlGMkRXdURqLTZJRGxKdkVyY2FvSklTSW1WMDVYcEowZDc2NHU4bjVpQ1FTbzJtNWNoWkZwQ3l1aU9pbUhTNkZyRm51dG5IVW1aUURDN0FEODcyUjh1cmlQVld5V3E0cW0tWkRCZF9UbDkydmo5UjhYWlB0aXlWRzBUS1FTV184V3I?oc=5",
-        "https://news.google.com/rss/articles/CBMizgJBVV95cUxNZDcyOTZfZ0prWk1haEFqeG1KcUJqREhNU0N6WC1SVEtHSDU5TlZHcmkxV01OUTNmUFN2OGMxemZ5bEprVEdwd0o0ZWszQTUxUEJ2ZzA4N0V3c0tScDVSdFRva3YtRlZmNTU0LVZaeEVRRlBzcFlGSE03TWp4bVk3OGg5LTh3SnZ0MFNtQkh3c0ZnNEFEMHdSRjhfQmtXNHdrNmJVSm13X0FkRU9jSzJsNWJUNkpRTkhwSUU3MzJlcTN3VnA4bktsRkJ3VXNmNVBoQjRVS08tVktBZUNrcTRIQk5NRk5PM2Q5RjlETDFwa1pLNDJ2ekVQWEE3aG00TnB5bnlTellNTWdqNzBReTRRcXJHUDduaXM4V1B2X3U0eUFDVkpTYWVSd3h3Y2h3aDZpUG1mbDdyOV9rTWM0a2tNcFVTZ0gtcV9LUlpuZEdR0gHTAkFVX3lxTE5VRkZlZnExSGVDdktlSGt4dkc5MzFpN1FRbHpnVVduVmkybEpDSVVzanhwbTA5dW9aUzIxMmdQVHVMTHZvX21uZTM5RjV3ZjhVWVZRLU1WY1BEdVhlQmo3NUllSUgyZnE5X0dpRDlKOUdZdng3SGhfbk5pZlpZN1E2VHhYU2oyWnVyYTdKZWxES3Mtdm9IZl8wVGUyaElPNjJ2dGFRNnJNU21oZ2JidFJtb0JRc1p5SGxuMmRPS1lwSE0wblhoc2ZwbV90aHlkUDZFMHN3YVp1U2JkZlNJSDJRTS1JbmMxV1FsbFdJQnJBWW5rSG8zbUdaRTZ5WUNGZ3FaMERBdWtHdTBsQ25hT2xPSGNMZmpuVy1HMnBfc0N6U1RkaTVQTnVRT3hkdEpkc05VekZmbW11bXVXTDV0SnJMVW9nT0FsbC1oSGZ3TF9hWS10TQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzFTMkV5TXFvT0N6ZTJVRVd5VEVaM3NsLU84LWpORGllSHAtQnQyWkxFUDVHUTRqUW9ER19hR3hxVXgzV3l5WllZWlJ2dGNub2dNWnZ6c2lWaUs3STJVQ3lCbE5iNUlLU1NOaFZjZUhKRzFHV2hqbzNOdkJZLXp0ampVa3dfWkxuZlJpWktObjFscWU4bmNwWTd3V0xSeWc1bXY1SUdJVG5IdXM3RFlRZE15NWs4WXlZSk9XajFLUVQxNS16cHNnMVhWSUctOGZfa0JWddIB2gFBVV95cUxNWWQtRHlLWXF1OXBQcXZmNjFpTnI5ZXktbVpoQk40UXFQWmlZWUF2cGpDUjVTU1htYVl4Z3hsd0tNLVhVc2RuelR0TUc3ekFrZTlsY3BmU2thaW9WekduSDZCWE5RMVNLblhVSzRUbm9ZR2RSNFkzMGlHTXZ4UU9tS1hDTXRnVW96MjVMM2Fvek9iTlF5Tm1zNzByUTVmeEhfZUJ5YjlXdHJ0LXFuVjFLR1A0T0ZWV2VKcUhVLXhjSGpWUHMzWGFZYTdNZGNfWkhBR05NSnQtU3djZw?oc=5"
       ]
     },
     {
-      "title": "Trident Growth Partners Leads Rs 142 Cr Series C Funding In Nat Habit",
-      "score": 20.97,
+      "title": "Empower India plans AI, robotics expansion to tap growing demand",
+      "score": 19.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUZTWVhacUZtTFdFd2FOU1ktOHhCT0hSNHVXUGVicUl2UnM5dEtGbmJzT2dDaVowOU1jVWdVRGRxQ242ci1QUXg5SVpJWTdEZkZRYWlORUlrOWNrN29HQ2NSN0N5WmlLVU1RaUNaUXVYZ0I2WVdpN00zY19NcElEMnl6R3lyQ3lsQ1pGamtyMXhxWHBMcEtRZmRIdVI1cF85MHcyaUh3RFQzN0M2Qm9z?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTThDWV94YmlwTGZiRXEzeUF5cnNySHpybFg5d3ExSlgzTU51cVc2YldMcDhNRk9GX2tMUVcyd3pseVY2dkpMNklwSHQwbzFIR1R2NVBpa0hfZzBsSmxjOVlORlFacXZXMkwtODFYYUZiWHZFaFFCY1dsejhFU3pNVFh0VDlzdmFRUUFXSS1Xa1lsakcxTjJpanNvNnozcm9FYWoyaTVoUFdNeGZsUlZEQkRxdl80Ukd4cHUyY0k3T0NXZ0k?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaG5nN0lLc3RoeS1iNEhKNkVncTVMSW8xc29lZGFzalpUQnRNc2REQVNDVTF4UmFOYUx5SmxKMmNvcDctUjdwcTYxMzFjSC1SZ09QS1V3RzFlU0NYM21PczA3YUJxQUk4bmQybGhQTkFoOXJzQW4xemgxT2NpYnphT3BwYU5XaUV3OGJQalh3RW84TXZGQVF3RXJ0MTFJbG9xM21YSk1jdUFLX2phelJ5RTBPYmxHbnpTUENDUk1YMV92dHAwRzFHeEF6ZXM5UFBQN1dwaDVXa1BYZ2JTeld0S1A1WlbSAeQBQVVfeXFMTWhuZzdJS3N0aHktYjRISjZFZ3E1TElvMXNvZWRhc2paVEJ0TXNkREFTQ1UxeFJhTmFMeUpsSjJjb3A3LVI3cHE2MTMxY0gtUmdPUEtVd0cxZVNDWDNtT3MwN2FCcUFJOG5kMmxoUE5BaDlyc0FuMXpoMU9jaWJ6YU9wcGFOV2lFdzhiUGpYd0VvOE12RkFRd0VydDExSWxvcTNtWEpNY3VBS19qYXpSeUUwT2JsR256U1BDQ1JNWDFfdnRwMEcxR3hBemVzOVBQUDdXcGg1V2tQWGdiU3pXdEtQNVpW?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTBkbHROUURnSkIzNFNwRFZtZnR3YlctcGpOY0h0ZS1CZzRUV1VobDY5VGtTV2x4SFpSWFo1S3czOEV3ckhTdGRQODNlSVgxcHBhQlFYWmpNLWxPb1dNR25sRXRMdzZVa19wVkE5TTlvMzJsOUdMcVllc1J3R01HM2hhQ0NqQW5nbjVPTWVHQzdLTjNZbnFVLXdsanFLT0J5ODc4VlZtOW9abW10ZWFpSDdNanVoQmplSW5CV3B4X3FyOGx4NUZuTGln0gHQAUFVX3lxTE1KWDR3WF9ramE4WGlXaUJ4N01kOXNNMDFiQk1fQ1dyVkdINDFVMDBRYmVlSXM4S3d4TXQ4RzNnMVlEVTZGZWNvMjJDQ2IwZjY4aVIteGNOYUY0cU9uMTVVWFN4Z01LVVhEM1I1LVA4ajl0RFRBTlZITGxRYTNjX3JtOWhhbUE5TDFWaGc2MDh2UWlFX2Rxb0Z0UWtLQ1hjTTZnV0p3RGVIWlFlU1lSckVqWXBpQWQxUGwybXI4YmVpSk9IY0hHak9JMHo4NXhzbUU?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUYtaFdUTWVybXU4NDVRWmFaZXBsckV2aWkwc09qWGU0THBUSWhqVV9hSDBVWmdRVmdMUVZYdjJuTk45RmQwWFQwZzZlQlZxSDRKQjVXYTVsOExDMHJsS0pFWlRpdjZWTGVEYWd6YjNtc0tPZm43VXZQQThyd3RTNUk3a004N2ZlMmdXY1dwRHdfM09EWHlGNGNxYVBMSi1jNkdXcXFiMVBBTmpxb1B0aVdneHZ2aGJ5TVV6YU5va1o3a0RIV3Rj?oc=5"
+      ]
+    },
+    {
+      "title": "The Artificial Intelligence Market in Small and Medium Businesses is Growing, Projections Reaching $162.7 Billion",
+      "score": 19.91,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNldNTG9uTnZLdy1jWlFnTEtNZkRhN3FkWklmVzRUdFBjU0R6VzIzSnZ5LV94TE5acTR1M2F2YzdscFd2Rk5sRWVsaHppRWpma2VfSEpZXzdjYkhEMXcyWkxoMUhkcFJPVGdnU2EyRnFmcE5vSWgybUVCWWgzc051cU1EeXdJaUo0dERFVldmV1cwYlpiYl9qQ2NpVWhZX05zN3BQUnRYdmhsdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiM0M1UXdwNW85eGhfTVh5Q1pwMUo1RFBDb2JrbEx6QWJOVUlTRmtVRm9PX05lWUVYZ3BLSmpiR1MtZzM4TFl1UFh4TldIODhOa0FNSjFBYm5SVVdhZkE?oc=5"
+      ]
+    },
+    {
+      "title": "Client telemetry user attribution and configurable capture",
+      "score": 18.9,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
       ]
     }
   ]
