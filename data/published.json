@@ -339,5 +339,10 @@
     "status": "expired",
     "platforms": {},
     "late_offer": true
+  },
+  "2026-10-13-evening-1231": {
+    "status": "approved",
+    "platforms": {},
+    "approved_at": "2026-10-13T09:45:08.147753+00:00"
   }
 }
