@@ -12,6 +12,10 @@
       {
         "date": "2026-10-12",
         "views": 1
+      },
+      {
+        "date": "2026-10-13",
+        "views": 1
       }
     ],
     "info": {
@@ -49,7 +53,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-10-evening-1400": {
     "history": [
@@ -64,6 +68,10 @@
       {
         "date": "2026-10-12",
         "views": 4
+      },
+      {
+        "date": "2026-10-13",
+        "views": 5
       }
     ],
     "info": {
@@ -83,7 +91,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -101,7 +109,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-10-evening-1501": {
     "history": [
@@ -115,6 +123,10 @@
       },
       {
         "date": "2026-10-12",
+        "views": 2
+      },
+      {
+        "date": "2026-10-13",
         "views": 2
       }
     ],
@@ -153,7 +165,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-10-evening-1918": {
     "history": [
@@ -167,6 +179,10 @@
       },
       {
         "date": "2026-10-12",
+        "views": 0
+      },
+      {
+        "date": "2026-10-13",
         "views": 0
       }
     ],
@@ -205,7 +221,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-10-evening-2001": {
     "history": [
@@ -220,6 +236,10 @@
       {
         "date": "2026-10-12",
         "views": 2
+      },
+      {
+        "date": "2026-10-13",
+        "views": 4
       }
     ],
     "info": {
@@ -239,7 +259,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -257,7 +277,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-10-evening-2102": {
     "history": [
@@ -271,6 +291,10 @@
       },
       {
         "date": "2026-10-12",
+        "views": 125
+      },
+      {
+        "date": "2026-10-13",
         "views": 125
       }
     ],
@@ -309,7 +333,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-10-morning-1146": {
     "history": [
@@ -323,6 +347,10 @@
       },
       {
         "date": "2026-10-12",
+        "views": 56
+      },
+      {
+        "date": "2026-10-13",
         "views": 56
       }
     ],
@@ -361,7 +389,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-11-evening-2002": {
     "history": [
@@ -372,6 +400,10 @@
       {
         "date": "2026-10-12",
         "views": 0
+      },
+      {
+        "date": "2026-10-13",
+        "views": 52
       }
     ],
     "info": {
@@ -389,10 +421,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 52,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "facebook": {
         "likes": 1,
@@ -401,7 +433,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-11-evening-2101": {
     "history": [
@@ -411,6 +443,10 @@
       },
       {
         "date": "2026-10-12",
+        "views": 0
+      },
+      {
+        "date": "2026-10-13",
         "views": 0
       }
     ],
@@ -441,7 +477,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-11-morning-1146": {
     "history": [
@@ -452,6 +488,10 @@
       {
         "date": "2026-10-12",
         "views": 0
+      },
+      {
+        "date": "2026-10-13",
+        "views": 4
       }
     ],
     "info": {
@@ -471,10 +511,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 1,
@@ -489,13 +529,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-12-evening-1333": {
     "history": [
       {
         "date": "2026-10-12",
         "views": 0
+      },
+      {
+        "date": "2026-10-13",
+        "views": 9
       }
     ],
     "info": {
@@ -515,10 +559,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 9,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 2,
@@ -533,13 +577,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   },
   "2026-10-12-evening-2001": {
     "history": [
       {
         "date": "2026-10-12",
         "views": 0
+      },
+      {
+        "date": "2026-10-13",
+        "views": 8
       }
     ],
     "info": {
@@ -559,10 +607,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 8,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 0,
@@ -577,6 +625,131 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-12T23:13:53.644029+00:00"
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
+  },
+  "2026-10-13-evening-1231": {
+    "history": [
+      {
+        "date": "2026-10-13",
+        "views": 1
+      }
+    ],
+    "info": {
+      "title": "Hyundai Bayon India Launch on October 26 with AI #Shorts",
+      "topic": "Hyundai BAYON to launch in India on October 26 with generative AI voice assistant",
+      "category": "Trending Technology",
+      "hook": "Hyundai is launching generative AI in India!",
+      "seconds": 40.3,
+      "primary_keyword": "Hyundai Bayon India launch",
+      "qa_passed": false,
+      "posted_at": "2026-10-13T15:32:40.300588+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/8Os4-LeXzyU",
+      "instagram": "https://www.instagram.com/reel/DecItw1jF1X/",
+      "facebook": "https://www.facebook.com/reel/2477482396073415"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "instagram": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
+  },
+  "2026-10-13-evening-2001": {
+    "history": [
+      {
+        "date": "2026-10-13",
+        "views": 12
+      }
+    ],
+    "info": {
+      "title": "Meta Muse Wonder AI Models Launch – What It Means for India #Shorts",
+      "topic": "Meta launches new AI models to compete with OpenAI and Anthropic",
+      "category": "New AI Models",
+      "hook": "Meta just dropped a new AI model!",
+      "seconds": 34.8,
+      "primary_keyword": "Meta Muse Wonder AI models",
+      "qa_passed": false,
+      "posted_at": "2026-10-13T15:31:14.439534+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/w7Z4LTLTK9k",
+      "instagram": "https://www.instagram.com/reel/DecIlealV_2/",
+      "facebook": "https://www.facebook.com/reel/1638039484580738"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 12,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "instagram": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
+  },
+  "2026-10-13-evening-2101": {
+    "history": [
+      {
+        "date": "2026-10-13",
+        "views": 5
+      }
+    ],
+    "info": {
+      "title": "Apple HomeView: Siri AI Gets A Screen #Shorts",
+      "topic": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "category": "New AI Features",
+      "hook": "Siri finally has a face.",
+      "seconds": 32.1,
+      "primary_keyword": "Apple HomeView Siri AI",
+      "qa_passed": false,
+      "posted_at": "2026-10-13T17:21:51.865546+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/bKSSaTHDHIc",
+      "facebook": "https://www.facebook.com/reel/956687454171680"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-13T21:33:41.317125+00:00"
   }
 }
