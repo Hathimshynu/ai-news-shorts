@@ -341,9 +341,30 @@
     "late_offer": true
   },
   "2026-10-13-evening-1231": {
-    "status": "approved",
-    "platforms": {},
-    "approved_at": "2026-10-13T09:45:08.147753+00:00"
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/8Os4-LeXzyU",
+      "instagram": "https://www.instagram.com/reel/DecItw1jF1X/",
+      "facebook": "https://www.facebook.com/reel/2477482396073415"
+    },
+    "approved_at": "2026-10-13T09:45:08.147753+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-13T15:31:17.194302+00:00",
+    "ids": {
+      "youtube": "8Os4-LeXzyU",
+      "instagram": "18637471720063647",
+      "facebook": "2477482396073415"
+    },
+    "info": {
+      "title": "Hyundai Bayon India Launch on October 26 with AI #Shorts",
+      "topic": "Hyundai BAYON to launch in India on October 26 with generative AI voice assistant",
+      "category": "Trending Technology",
+      "hook": "Hyundai is launching generative AI in India!",
+      "seconds": 40.3,
+      "primary_keyword": "Hyundai Bayon India launch",
+      "qa_passed": false,
+      "posted_at": "2026-10-13T15:32:40.300588+00:00"
+    }
   },
   "2026-10-13-evening-2001": {
     "status": "published",
