@@ -391,5 +391,30 @@
       "qa_passed": false,
       "posted_at": "2026-10-13T15:31:14.439534+00:00"
     }
+  },
+  "2026-10-13-evening-2101": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/bKSSaTHDHIc",
+      "facebook": "https://www.facebook.com/reel/956687454171680"
+    },
+    "late": true,
+    "approved_at": "2026-10-13T17:20:37.865000+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-13T17:20:39.571033+00:00",
+    "ids": {
+      "youtube": "bKSSaTHDHIc",
+      "facebook": "956687454171680"
+    },
+    "info": {
+      "title": "Apple HomeView: Siri AI Gets A Screen #Shorts",
+      "topic": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "category": "New AI Features",
+      "hook": "Siri finally has a face.",
+      "seconds": 32.1,
+      "primary_keyword": "Apple HomeView Siri AI",
+      "qa_passed": false,
+      "posted_at": "2026-10-13T17:21:51.865546+00:00"
+    }
   }
 }
