@@ -344,5 +344,31 @@
     "status": "approved",
     "platforms": {},
     "approved_at": "2026-10-13T09:45:08.147753+00:00"
+  },
+  "2026-10-13-evening-2001": {
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/w7Z4LTLTK9k",
+      "instagram": "https://www.instagram.com/reel/DecIlealV_2/",
+      "facebook": "https://www.facebook.com/reel/1638039484580738"
+    },
+    "approved_at": "2026-10-13T15:11:16.563290+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-13T15:30:07.083612+00:00",
+    "ids": {
+      "youtube": "w7Z4LTLTK9k",
+      "instagram": "18066914903788682",
+      "facebook": "1638039484580738"
+    },
+    "info": {
+      "title": "Meta Muse Wonder AI Models Launch – What It Means for India #Shorts",
+      "topic": "Meta launches new AI models to compete with OpenAI and Anthropic",
+      "category": "New AI Models",
+      "hook": "Meta just dropped a new AI model!",
+      "seconds": 34.8,
+      "primary_keyword": "Meta Muse Wonder AI models",
+      "qa_passed": false,
+      "posted_at": "2026-10-13T15:31:14.439534+00:00"
+    }
   }
 }
