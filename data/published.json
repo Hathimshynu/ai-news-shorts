@@ -393,18 +393,20 @@
     }
   },
   "2026-10-13-evening-2101": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/bKSSaTHDHIc",
-      "facebook": "https://www.facebook.com/reel/956687454171680"
+      "facebook": "https://www.facebook.com/reel/956687454171680",
+      "instagram": "https://www.instagram.com/reel/Dedov60DUwV/"
     },
     "late": true,
     "approved_at": "2026-10-13T17:20:37.865000+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-13T17:20:39.571033+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-14T05:30:30.661229+00:00",
     "ids": {
       "youtube": "bKSSaTHDHIc",
-      "facebook": "956687454171680"
+      "facebook": "956687454171680",
+      "instagram": "18127380994848602"
     },
     "info": {
       "title": "Apple HomeView: Siri AI Gets A Screen #Shorts",
@@ -414,7 +416,7 @@
       "seconds": 32.1,
       "primary_keyword": "Apple HomeView Siri AI",
       "qa_passed": false,
-      "posted_at": "2026-10-13T17:21:51.865546+00:00"
+      "posted_at": "2026-10-14T05:31:04.417327+00:00"
     }
   }
 }
