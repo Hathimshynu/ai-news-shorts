@@ -1,79 +1,79 @@
 [
   {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Higgsfield takes AI video from 1 minute to over 10 &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-13T17:45:35+00:00",
+    "engagement": 0,
+    "saved": "2026-10-14T17:37:08.795788+00:00"
+  },
+  {
+    "title": "GitHub Actions workflow lockfiles in public preview",
+    "link": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a&#8230; \n The post  GitHub Actions workflow lockfiles in public preview  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-14T13:49:15+00:00",
+    "engagement": 0,
+    "saved": "2026-10-14T17:37:08.795788+00:00"
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
     "source": "Hugging Face",
     "kind": "official",
     "summary": "",
     "country": "GLOBAL",
-    "published": "2026-10-13T17:05:48+00:00",
+    "published": "2026-10-14T16:12:42+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
+    "saved": "2026-10-14T17:37:08.795788+00:00"
   },
   {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "title": "The EU’s next chapter in AI is agentic",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
     "source": "OpenAI",
-    "kind": "official",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "country": "GLOBAL",
-    "published": "2026-10-13T12:00:00+00:00",
+    "kind": "news",
+    "summary": " The EU’s next chapter in AI is agentic &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-14T09:03:47+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
+    "saved": "2026-10-14T17:37:08.795788+00:00"
   },
   {
-    "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "link": "https://github.com/onehumanbeing/esp32-iphone-agent",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "country": "GLOBAL",
-    "published": "2026-10-11T19:10:25+00:00",
-    "engagement": 1944,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
-  },
-  {
-    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-    "source": "NVIDIA",
-    "kind": "official",
-    "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make [&#8230;]",
-    "country": "GLOBAL",
-    "published": "2026-10-14T06:00:28+00:00",
+    "title": "OpenAI Computing Chief to Depart",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5",
+    "source": "WSJ",
+    "kind": "news",
+    "summary": " OpenAI Computing Chief to Depart &nbsp;&nbsp; WSJ ",
+    "country": "IN",
+    "published": "2026-10-14T16:06:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
+    "saved": "2026-10-14T17:37:08.795788+00:00"
   },
   {
-    "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
-    "link": "https://github.com/deeplethe/solid-glass",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
-    "country": "GLOBAL",
-    "published": "2026-10-12T09:19:02+00:00",
-    "engagement": 581,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
-  },
-  {
-    "title": "Improved detection for withdrawn Dependabot alerts",
-    "link": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help&#8230; \n The post  Improved detection for withdrawn Dependabot alerts  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-13T14:03:57+00:00",
+    "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JzN09IZDJjcHJLS1lCWnZKYlpOLVBJLUl1RDFoV2t1eFNZVEtONFdFR19qYURJX3poOTJvUmNrZGxTczB3MFZRWVIzQnZPNzJ6YXVpZHNlQ2NDVWJNTXNCUnNRQ0F2VTVEcUVVbWx6OTJmZDEzbndaSmdSOTJ4SnZCSllZNWo1blVTVFB0RG1pUTNrd0F4Wk9pZk1iRGpVVXdhUjktOGbSAa4BQVVfeXFMT28zWXA2LU9ySEV3c3pscnlJNVFkY05ZN2ZwaTc4cTZNOTQwazg1ckJaSm1ObTNIa0w1TThkUXBiNGx5SVhwZWJHYTgwaktsdnYteFU4d0VwaE5Mam1ON2FlSWp5NjdwQ3NLUF8wQnVsc1VoVFpGWllGcEs1VTBULXJUbHdTUy1NYmxlSlF6VTVrWGN4WTNrbXZWOER4VEpLUjI0WmVjbF9JaTNtVDdB?oc=5",
+    "source": "CNBC",
+    "kind": "news",
+    "summary": " OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor &nbsp;&nbsp; CNBC ",
+    "country": "IN",
+    "published": "2026-10-14T17:25:34+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
+    "saved": "2026-10-14T17:37:08.795788+00:00"
   },
   {
-    "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-    "link": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is&#8230; \n The post  Secret scanning blocks Anthropic keys by default, adds Salesforce  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-13T16:12:36+00:00",
+    "title": "Merchant Discount Rate on UPI transactions deferred to after Diwali",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa21tQkw5WUFuYWZvNWJiTFltSUpNV29jUGYyLVFENEVVVG91QW11dEMxb2pKamVBZFBZcjd3NEZyeEVkWDd1cmFuNXljRjdnYXdUNHh5Q0MzTjdNcy0zY0MtMFlhamZPM3QtLTVBd3F4TmhlSjg0eFV0T0J3TGVIZ3dNM1dHWEFDMkRrT2JOY2ZpNVZPRTdRNGVGY2FyWEVjS3h6a3l0TdIBrAFBVV95cUxQOURDcnNscjZ2Yjg3T25kc01fV29ZM0lSbmtxd1I0d2taYi1YbllCaUVtblRwSDVHWG9BNFJaYnYzU2xpR3NKdk5hZ3ptMDZIcHlwVmZLVFRFU1VEUnYybGF5bGxISUxwLUs3bkFHR2d1Y0VtZ2RMVHJEbnF4ZERyMlJ0SGFfTGJJNXU1SkFQVUZjQU9WNXBhcUo1TUdvdUlKaG1pQ3ltb2lDQlhh?oc=5",
+    "source": "ThePrint",
+    "kind": "news",
+    "summary": " Merchant Discount Rate on UPI transactions deferred to after Diwali &nbsp;&nbsp; ThePrint ",
+    "country": "IN",
+    "published": "2026-10-14T10:34:25+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T12:37:21.083015+00:00"
+    "saved": "2026-10-14T17:37:08.795788+00:00"
   }
 ]

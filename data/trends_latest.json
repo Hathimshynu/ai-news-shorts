@@ -1,143 +1,162 @@
 {
-  "job_id": "2026-10-14-evening-1801",
-  "chosen": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-  "reason": "A DeepMind‑Singapore partnership builds a fine‑tuned AI to spot scams, showing how AI can protect everyday users in Asia.",
+  "job_id": "2026-10-14-evening-2303",
+  "chosen": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+  "reason": "Shows how NVIDIA‑powered AI agents are being deployed to run smarter city operations, giving Indian viewers a concrete glimpse of future urban automation they can learn from and apply.",
   "candidates": [
     {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "score": 18.36,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-      ]
-    },
-    {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "score": 16.13,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
-      ]
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "score": 20.3,
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "score": 26.12,
       "kinds": [
         "backlog",
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/index/higgsfield-longer-videos-voice",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5"
-      ]
-    },
-    {
-      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/onehumanbeing/esp32-iphone-agent"
-      ]
-    },
-    {
-      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "score": 19.36,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mU01rUUJVYmZVeVFELWp3azNXc2xOTGF2cGg4clFwSlpyTmhLRmdFV0ZhcU5kOE5fWlBEbEx0WDhYOTdtQWp6VnFZT0FPUmNJVjFoX2p2b2pFZEZQUEs1SXQtdlBUaThzeDFjNkJ1bWQtOVgtTzRUU0hR?oc=5",
+        "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
         "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
       ]
     },
     {
-      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
-      "score": 15.87,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/deeplethe/solid-glass",
-        "https://github.com/deeplethe/solid-glass"
-      ]
-    },
-    {
-      "title": "Improved detection for withdrawn Dependabot alerts",
-      "score": 17.37,
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "score": 21.05,
       "kinds": [
         "backlog",
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-        "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts"
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
+        "https://openai.com/index/higgsfield-longer-videos-voice",
+        "https://openai.com/index/higgsfield-longer-videos-voice"
       ]
     },
     {
-      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-      "score": 15.91,
+      "title": "GitHub Actions workflow lockfiles in public preview",
+      "score": 20.06,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce"
+        "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview"
+      ]
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "score": 20.66,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/allenai/hiro-acev2"
       ]
     },
     {
       "title": "The EU’s next chapter in AI is agentic",
-      "score": 17.86,
+      "score": 22.87,
       "kinds": [
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
         "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
       ]
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "score": 17.16,
+      "title": "OpenAI Computing Chief to Depart",
+      "score": 21.97,
       "kinds": [
-        "community"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://www.anthropic.com/engineering/redesigning-source-control"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXlpQi1DLWswRkI5NnpyRGk1QWY0X1pBX0NSN09NWFlJYmliSGNpSVVmOFFLYzFQRndoc3RJRmRfXzVvLXhLTkROUXhCOWpmeTV2U1lGSU9kQnRoMEViWE9yaFFZQVJRS0VLQW43TWVsY3VHajE2c3drOE5qa1I1NlliVXROQS1GRmtaSjExODhiYjZzZURuSE9MdU9TMi1sY19KZ1FoakllMldaczBQZE5zRU5tcWpmN1RIZNIBwgFBVV95cUxNeUk4YmdaNUFMR0Z6R21ma05RdmQyLVVTOVROWVA2OHlrU0E3dkFWS3lVMlZJRG4zb0JOTENlU0lUYXludWlWbE9oX2hiZUQ4WGUtM3RLVm1lTm1hOXN3ZkpBdlJWUTV2d1EyUXo4RkkwZWZGNFVRcU1jVGdQX280VnFhSUZkZFBkN3cwLV81cnlWV1MtZy1sT0JuelBvWFE0MGhEa0VhUGFnZUx0b3ZJcDRXczd3dTR4WjJ4TTVISnpJZw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDAyMkltWVVyWTRyaEU5bV9sU0FlNG1mMUZLR0hZcm5ORFY3dENPNWpROFdVc3A5c3lxUVlUQTdzN2VZWjNIdTFtSkdaZTQ2Q2FWcklBRkp1NmV1di1MV2dxN1pSQ0NfWkFsMlpqc0h1NFhvbnladzdBazZwd19ld2swa18tSmlOX2dNcmp2bzBQVmVDZXMxVVZfbW91ZXZvYThPX3NMSzNuZmpEM2I2d2tuOHo?oc=5"
       ]
     },
     {
-      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-      "score": 16.35,
+      "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+      "score": 21.97,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JzN09IZDJjcHJLS1lCWnZKYlpOLVBJLUl1RDFoV2t1eFNZVEtONFdFR19qYURJX3poOTJvUmNrZGxTczB3MFZRWVIzQnZPNzJ6YXVpZHNlQ2NDVWJNTXNCUnNRQ0F2VTVEcUVVbWx6OTJmZDEzbndaSmdSOTJ4SnZCSllZNWo1blVTVFB0RG1pUTNrd0F4Wk9pZk1iRGpVVXdhUjktOGbSAa4BQVVfeXFMT28zWXA2LU9ySEV3c3pscnlJNVFkY05ZN2ZwaTc4cTZNOTQwazg1ckJaSm1ObTNIa0w1TThkUXBiNGx5SVhwZWJHYTgwaktsdnYteFU4d0VwaE5Mam1ON2FlSWp5NjdwQ3NLUF8wQnVsc1VoVFpGWllGcEs1VTBULXJUbHdTUy1NYmxlSlF6VTVrWGN4WTNrbXZWOER4VEpLUjI0WmVjbF9JaTNtVDdB?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOVl3Rk45LWRFWjBaZ0p1TDZQZV9ud1BmYUxtYkVjck1GWWE3amtxamxINVExRVhsVlg5RkFPTF9SSXJrX2R5X29Jb1h5dmllVzdkVmU1M1ZnbnlPWXMtVmpLOTNkUmRrOXFNQnlTbU9JZ1BnbENIMThlVEt6UDc3YldocDNsTHNNeHpvVGVNTEk4LWVJdWVtWVFGSmFWNk5hbFYzSHI3VjZYWllqdzJZSEFHQnUtUWVjN1k2azJyLUhWMmRkMWRlMFJwTDBZZllsa3ZaMm04QlJ1UdIB3wFBVV95cUxQbU5ZVERFMXRXUXBqUGtVaHRaZmlneV8tdmhhMnpFY3htX0NkOUxMZXFMQW5jdUpLRkVpUlB1YUFUS1VydmdjMWhjUDBZMmpYQ1lOSDZfTUs1SDlfbmNaVlRIaERQRGlsZU5RM1Zac0llY0RibkpDZWJ0Z29IdWRFVHY3SzJOdkJKaHlSTTExLU83WENvU2pKT2lxUERXU1FuM1pKUmRvSmZiNy0xc2xzVVI2RDdINXoxNm9LdkZ5cWRDUnhDMzFwalRNYmx5MEtuU3I3cEFtaUFoaG40Snkw?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVRkZ1Z6ZXFhQ3R4a2dRSzEtM2JnamxNVXN2eXVzZXVsODVTbk1meTM0RmJkMFpOQnI0TDI3TEdtVG1KOG1pMk5xTGd3RTlzelNNMFNkdF82a3ZlR29UUVNxZ2h1bE53RlUySG00WDd4YWt3VE1uQXhrVEx3LXFjV1BYVW1qZkZYNXV5U3dkWFF3cm13YmJ3YWtHWVpkbG1KLXlsNURB?oc=5"
       ]
     },
     {
-      "title": "Enterprise managed settings enforcement updates",
-      "score": 15.69,
+      "title": "Merchant Discount Rate on UPI transactions deferred to after Diwali",
+      "score": 24.25,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa21tQkw5WUFuYWZvNWJiTFltSUpNV29jUGYyLVFENEVVVG91QW11dEMxb2pKamVBZFBZcjd3NEZyeEVkWDd1cmFuNXljRjdnYXdUNHh5Q0MzTjdNcy0zY0MtMFlhamZPM3QtLTVBd3F4TmhlSjg0eFV0T0J3TGVIZ3dNM1dHWEFDMkRrT2JOY2ZpNVZPRTdRNGVGY2FyWEVjS3h6a3l0TdIBrAFBVV95cUxQOURDcnNscjZ2Yjg3T25kc01fV29ZM0lSbmtxd1I0d2taYi1YbllCaUVtblRwSDVHWG9BNFJaYnYzU2xpR3NKdk5hZ3ptMDZIcHlwVmZLVFRFU1VEUnYybGF5bGxISUxwLUs3bkFHR2d1Y0VtZ2RMVHJEbnF4ZERyMlJ0SGFfTGJJNXU1SkFQVUZjQU9WNXBhcUo1TUdvdUlKaG1pQ3ltb2lDQlhh?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3JTaWtwaG1palpqdDBBeUJtMFpkZXlHaWxJY0t4RmVFZFpSMW5NMXpURkpvVXB0bkFId3ljNkhzYy01My1NWVNQWHRLZEc5ZUtMSlJtbzlBSTJocDYxemJ1MUhuNzloMGFJeXM0N1Bac1l1V2dQYjRHZGFXb29CSTR5WGNKVWdVMUtjc0ZPRnRod2do?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0ItcDR6NDV5OWt3T25TQVRuX2N5T2VZSFdKS19wZF8wTlNKdEloZ05vdnNBS1I5VEE2SVR3UHB2U0E3NGRxYTJ5aEVrdktXVG5oeC0wMnViOFdCUFdIN1huSlNiU2M1UHNBSGdFMHlDd2tmNlp6aVdaWTZOWjRveXc2UVRZb09RcDdjZlhadWhOcDVkTzFQdFhLSWNhclFmQkJEemRaQWMtejBRWVFJaWJLZ0tIek5fUE8xQzcwWEctUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Frankfurt-Delhi Air India Flight Diverted To Jaipur After Hijack Alert: Report",
+      "score": 21.96,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzB4U3NFc0VrQXZNLTJhaGdPRU1lZ0NMQmV4Qk5GdlZicVoydmJXRkxlenFRLXFYWk9oLVVxVEJwdjJjcTktaFNJMS1LcjVYUVBaV3Z3YzAwNTZUZmc4WmdqM1BlaHM3a3Z6T2o4RTJvSmI2VFRPNWo3TjF2eURYcGlXajdVMVZxNmtnclVzSTRzeUZ6UFZnaEFqVnkyck1ZNmhZZDN3R1BrSnBzSTBsYUotVjM4SXZzVnc3T004RFlUUVNfQmVCedIB0AFBVV95cUxQUUNMOTlIUWsxU1ZlOFEwRU45cEJRRUhpQXFjRnhoNTY1QkYxTUZWUmFTbnBUalp0c2NpVGFVbUZXX2tWLXNKVEUyNkRmZ1lPYkxUeHJkNWZKNkd4dlpqMlRJUXd0MmxSX2dMTWNZaW1oOTdOWkNvWThZakJwV3ZrVkJHMm5FdVlQMVdfU0FGV3Rqd2VIWGlJV0w3RUNkVUVlODRVLTdyMWlHdm9oMkR3dUl3MmRnZ0tBWTRSeUFWelVaMktFQUZHX0U0T0JNeDY2?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRG41THFJemkwSGNQNXF3WGMyMldrSmJEZFZEZ0E3ZXIyNTVfQXZCTmp5OE10NFdzZDhMaHBPd21peUFmSlZxanJ2ZDhBLUlzcDRwbGM2WDdWNmhVWFhsaG1uWXF2di1NdklscFBmRTBjcFE5UVMzc0UwR3oyTVVlSjFxNllIRTkwUWdOaFpMdGMyZ3BLZkpNYU9DQ0FwQlhiLVh1aEt1X1hZUGpRV0RpbnBhYW9JZjd3bG04?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2lqa0I2Y2JCZkNoYzlfYjJLWHNqVG1jNDhvQlpEYm1NNGpyZUUtNEdZWHp5dk5KWHpOWXBnNjZ3aTNLZ3drV1BIdE8xYm1hNjkwZ3d0S2lXYlZWSjBMc2tZdV90VnJScWZZM21OM1RHSkxZcTJXcE12S0ZIaUNLa21TM3M2c0trY184NUhVdmtMQTFBV2ZqNXRsSzBIRVk2dnRSdDFTbTlZZkkxVVBhZkItdw?oc=5"
+      ]
+    },
+    {
+      "title": "Aum Ventures Leads Rs 17 C Round In Space Tech Startup OXG Space",
+      "score": 20.79,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDRUWjc4Z1FkaGZkMnYwOHZyNlA5eUQ2YkJqVkdDRXo1OS1hdkxrR043QVo0YU85RVhDQzYtd0xrM3FKbXNueU9VSWFHTExPTzJqZUhLY3oyQ0ZhRG9DUUZ0LVdkYmR2a2dvTlAyZmN0U1AxNEVHNVJVU0x5VndxNW16LUw1MTNneGxpUGlDY0daMlZxR0o0c2lMSnctUlk5NlFlMGN2U3A?oc=5",
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTUFldWtmSDNVVWNxYWVRTVpPZllCaW5qUjIxSXI0SEVvenhXS0FFVlo4bmt1WFcza2FJbEUzejlhOEQzbGF1Ul9vTUtlb3hmZ3hTRHUwOEtuV29zU3YzNndVbmdXMDhvRDhMQnBhZXhVY0tFa3N2LUhtejB1aERLbnhkQXZsUDNFVlRFY01EbVJfR19DUXNWSVpHd1R5SXNVTEQ5cDFRUjRYWkhzSTdFcF8yWUNqMktkamY0dHFrR05aWTAtTHZhU1pjeVJlWkotTDBOTkMtS1JWb1EyX2FFckUtODVBeC1qck44SXVUVnJUM2xMWlhNN3FQY1RRUdIBgwJBVV95cUxQTXc1d0Y3UDI4OUZ2Z2huQkRRRndwY215ekVKdklXdFoyb1FFTmptelRNeXRDN3R1S3ZmZWF0aXB6aEZCakxKS3JBQXRINGxTWTcxMHVNdkhkV1p1d0ZMNmYxUDg1UHpKd3NSdGlrYnlrR2k5YmFoZHowYjBMM0d1dVdYTThFT3ZjQU5fMmxRRm5VMklGM0lzSjlKS25WNlF2NzQ1UVpSNU1Cb0p2a2N6b2lSYlZxcmczYlpiRldrZm1YZWs2NTNfTFg0RmdNV09aeF9jdGJCRVJNbkVEQmpEVE9FNjRuYUZsQ2xDejZIXzBwVnk3WkY0clFkU0VCTGU3YVQ0?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDRUWjc4Z1FkaGZkMnYwOHZyNlA5eUQ2YkJqVkdDRXo1OS1hdkxrR043QVo0YU85RVhDQzYtd0xrM3FKbXNueU9VSWFHTExPTzJqZUhLY3oyQ0ZhRG9DUUZ0LVdkYmR2a2dvTlAyZmN0U1AxNEVHNVJVU0x5VndxNW16LUw1MTNneGxpUGlDY0daMlZxR0o0c2lMSnctUlk5NlFlMGN2U3A?oc=5"
+      ]
+    },
+    {
+      "title": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science",
+      "score": 19.74,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHVjSTEzLUxMZUF4MzRFYXdIOFZubzRQenRuZndIbjhWT2RUYXY5NmF2NmRFcXpZLW5KR3ZRcUNkYUw4eUVzOEhiVWxWTFJoRUlxcjFZTnRIZHFPYmNvVFRmZXR1OHY5V0llSUtPLVFJSmlSU1FiTDNHOEJmUzFGRks2clpxVngzOXpQdEtSWjl6SDFsdDNURFRkWnlYN0x0YU9RbTNLbnkyM0VYS25mRXNZNnVJRDdGR0dmc2pBMktQcTNrWEwxWjJqYlo1YTVLQlpHYkl2RW5SMnJjeUl0Zg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFZnTjZZZl9JOUlPZndGVkhUajMzd0NjNDdLMlFKQlAxRVM2anNDbE9hODAtVGwwMG9lcWt6VkM1MDZrak5rTXN3ME9sNW1lczM5bUxQWG13SGZXZTA5NW4yZmFKanVZQkx2RGM5bnE2SDJwZ2t1QW13N3pFSndyZkdYZjZEbTNabnJzYXVvSVNhVTN6OEN6YjN5TU92Y2px?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRl9kSXNGRVJfSUJ1cmxOWWJqbnhZWlUxU2xXc1Q3MkhRLW55bzhvalA3WWVpSG5LN200eXdfT0ZhV0N1OFdsN3pZVTFwcUJ5ZWpFT29JOTdJSmQ3ZDdrM0FQT0tyUF8xNGNMNDU5ZTdpVmhHNDRzR3FZRUxvOHVrSzM4LWdYU1E3Qy1ab1lycnFYQzRhNEVB?oc=5"
+      ]
+    },
+    {
+      "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
+      "score": 19.72,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZU5oMTlKMmo5aXMxU3dfanFuLW9mYW4ySE14TldvWnJrNEc4SEhRRXdaMVg5WHBJdFVhY0lnMlJlN3RfdzV6NzYxZFgtYkFpT1NvS0c5ZXFrX0daNW9ORzBTOWpoNVZjRWV3WnJhb3AxY0REdkJMbTd3eHhBUTI4Yjk3dWg4YXZfM3kxT3pqNDV0VDJzV2dHMzl0T1ZzOFBHMW9xbjRKRWZxNUlQcHpfNno5MnphbEtVNnfSAboBQVVfeXFMTWVOaDE5SjJqOWlzMVN3X2pxbi1vZmFuMkhNeE5Xb1pyazRHOEhIUUV3WjFYOVhwSXRVYWNJZzJSZTd0X3c1ejc2MWRYLWJBaU9Tb0tHOWVxa19HWjVvTkcwUzlqaDVWY0Vld1pyYW9wMWNERHZCTG03d3h4QVEyOGI5N3VoOGF2XzN5MU96ajQ1dFQyc1dnRzM5dE9WczhQRzFvcW40SkVmcTVJUHB6XzZ6OTJ6YWxLVTZ3?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkZXOGQtY20wYks4cjUyN3lSZEFCNDJvYWVlSGxra0IyOHQ5bEVUTC1jU0E5aU1WY1Y4NFZuT3lvX2JOdjhIeHJyaWVwWG5QVExsUjZSeUhQS2tObzM2Wlg1RjY4bGtzaWhOclRDNnRqMXdINTI4bGJtNkxYOEEtUFo0VDNwUWFuT3Z4b2tFRGIxWlNwXzhnTzI1Mnl5OGl3WXZxS25rblVrbTZtdlNjNFVRbXI?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXdTVnRkZ3k0aWljbTAtM0VReWZSV1NqVUxkMVdqVU8yMHkxXzVxdFFQbEJUX05EdURFWWdXTEZrd3p6UFUwekVReWM5d1dhZkU5Q0kxR0ZoM0JYZnIwZDZJZ0ZxZ05SWnJyd3NFUXp0TzR0azhmVnhBTGt6Snl6WlV0VzhRR2NsMkdyLXJYRF9YRnc?oc=5"
       ]
     }
   ]
