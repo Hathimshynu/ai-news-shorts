@@ -1,52 +1,80 @@
 {
-  "job_id": "2026-10-14-morning-1046",
-  "chosen": "Gemini 4 Argon for Robotics",
-  "reason": "Gemini 4 Argon brings a powerful, robotics‑focused AI model that lets developers build smarter machines, a game‑changer for Indian and Asian tech makers.",
+  "job_id": "2026-10-14-evening-1801",
+  "chosen": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+  "reason": "A DeepMind‑Singapore partnership builds a fine‑tuned AI to spot scams, showing how AI can protect everyday users in Asia.",
   "candidates": [
     {
-      "title": "Gemini 4 Argon for Robotics",
-      "score": 44.31,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "score": 18.36,
       "kinds": [
-        "community",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkl0OG9UWk15YTJpLW9QbVJYV3VHSjJNTGpXeGhOcEFhVVdkbzl2S1NQem5LMzRTTEI0ZlJpdzFSOVdkWXMzZlZrcEJ2R1ozY0JOaXVMMVBobUZROFptRE9OZ2NWc2JVbUo1ZFQ1bW10UUYxdTFyTDFfRkFPUTB6YmRBZEZFYy00ZjhRRElPQWpKbGJwLVBEbTU3STROT2ZReGdla1V0OVpEN1BHQ3dVMDNSSE9SLXR2OFB6UkQwUU5BZEpESDI0RGFiY0ZpNnhfamEzT1NUNG9oODBEY1RPeW5jOEFzcGRXdmp2aFM2WdIB7wFBVV95cUxPSkl0OG9UWk15YTJpLW9QbVJYV3VHSjJNTGpXeGhOcEFhVVdkbzl2S1NQem5LMzRTTEI0ZlJpdzFSOVdkWXMzZlZrcEJ2R1ozY0JOaXVMMVBobUZROFptRE9OZ2NWc2JVbUo1ZFQ1bW10UUYxdTFyTDFfRkFPUTB6YmRBZEZFYy00ZjhRRElPQWpKbGJwLVBEbTU3STROT2ZReGdla1V0OVpEN1BHQ3dVMDNSSE9SLXR2OFB6UkQwUU5BZEpESDI0RGFiY0ZpNnhfamEzT1NUNG9oODBEY1RPeW5jOEFzcGRXdmp2aFM2WQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX1NZZkpfRDJETWhZaU1URzVyUzVXZ0QxUlp4YkVnWmlvNVpjREdRN29Zc0o5MHBNcmtoT0lYYVp4NkxPVXRCWGJDN1lEVDg1YkpZSU85bm9sdnZmTU5jY1ZxQWFyS09uOEI5Q2k4SkVkb05nQnZ1WDZQNXNEMVlGdXFzbS01SlVfRkFqOUp5Uk5PTmZ6c0hRSXhmTFNMZ2RzVzE5eVF4N1NFQTlFSU1KX3g1U0ZyOHNPRk5vQnYybERFVVJDcmFXWDhBTTI2VkRqN1BrSDRDdnVuSGMtbmVuRmlsTnNmVThO?oc=5"
-      ]
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "score": 22.12,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
-        "https://openai.com/index/higgsfield-longer-videos-voice"
-      ]
-    },
-    {
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-      "score": 24.18,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5",
         "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
       ]
     },
     {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "score": 16.13,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      ]
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "score": 20.3,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/higgsfield-longer-videos-voice",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5"
+      ]
+    },
+    {
+      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "score": 18.0,
+      "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/onehumanbeing/esp32-iphone-agent"
+      ]
+    },
+    {
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "score": 19.36,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
+      ]
+    },
+    {
+      "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
+      "score": 15.87,
+      "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/deeplethe/solid-glass",
+        "https://github.com/deeplethe/solid-glass"
+      ]
+    },
+    {
       "title": "Improved detection for withdrawn Dependabot alerts",
-      "score": 19.2,
+      "score": 17.37,
       "kinds": [
         "backlog",
         "official"
@@ -58,105 +86,58 @@
       ]
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "score": 26.47,
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "score": 15.91,
       "kinds": [
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVZfbko2Z1ZLdmcyazBZREVKZnJhUmlJdWU5anVjREU4a3VWTW1oU3ZNY19EMFk1aGZLZ0R6UG91Qmh0dXpVTV9PUUVzSkgwcFRTNldYcnRha2NZbkpLZVhaTTQtMVNSMHhOd0UxVExTUlFvMnIteG5vSzY0RHFPWExLRjl2NDF4c0l4ZDltWEZuLXdWZXpXRFhiVnVHMko2YWJWOE52RWNpbGNDN3VnXzIzT28ydkpzUUZKZ2ln?oc=5",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce"
       ]
     },
     {
-      "title": "Adani, Jabil ink pact to form 50:50 AI, data center gear JV in India",
-      "score": 19.23,
+      "title": "The EU’s next chapter in AI is agentic",
+      "score": 17.86,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnlBZE91OV9NanFVNGp1dzM3LXdfZHNGejlDLVdsMkNmajdNZV9mYTNCc0ZRNGptdWdMOENnRmpOU25ZWEF1bHRfaHh5aW5mWTR0dEl2WXNOTjV2RGtrZWdLU0hGVmZxR3dqOFE3Y0p1LURpUVJwVl9FQ3VGN3JNdi1YR2gzN3IwVHBiTnpORWlXdmIwdDdlUW1KWHFkV00ySExKMnBMempxcUxrQmhFUmQ0NEYtOVptZkVsRDUxUVZCYVl3Nzk1ek9ZQkwwUzDSAdQBQVVfeXFMT3RjQkRid3owN0tPNkozWkxNYmw4bWl6N3lPUThpZ1JBT2o5c21vZ09tb2pSc1Z5aDdiZGwyZ3VvdElGajZGVkFiajllYU5yczczTk83YlV1TEtfdkNoR0NXQUpsTjhyeEh1TGRrVUJXLV9hUUFxWEFic09TN0ZnM0IybDVVYXR1ZFdaYllCUUZWeHFFZzRxdmdEVHJVd3p5Z0l2TE1WSGJWVGVwaUowejRpMjdJazBqYXNLdGhlOVJjZFp1UWRZTFhtOV9rejJNcVVOYm4?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3lPYmtiMklRVkswR0Y4N1IyeEhhY0JyaUFHYkZOV1lfa3pZeTJmMkE0VjFxazY5QkRxNlRsWTJKRVMzVHM1RloyQUZLT2xFN1B5Nk5EdkdQajd2MnpjRk81WVpUVWU1MkMybUlFOUpwd2l2M0xHd1hDaU5KdG9nbThhVUxUUQ?oc=5"
+        "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
       ]
     },
     {
-      "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI",
-      "score": 20.87,
+      "title": "Redesigning source control at Anthropic",
+      "score": 17.16,
       "kinds": [
-        "news"
+        "community"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPak9qS1lNUVpQNXFBbUdxeE9JUmg2ajdpQjJ3TEJhV2REOEpHUml1RTZpZWxtNmVRTGQxZ2ZGdlE4X0d0WFFYSFBXaG5waWFYOUJjelFXdjc0MFl3WG9SMGpHU1ZOVXJlczd0enVhcmZuQ0k1bzVtdmtmOG9nUUk1RzJiSllSVFRHV2Fod2FpbEZWSFdLX1U3WEZ5TURUaExjYkJmZGdQRUJWeEFUcGFCelJHYU9tWlRIV1lOWm1EMA?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHROOVBRWUtCN1hSN0FjM1JGa2hKSEI3NnhJWmxoYkNBUXA5SVFWZkVGaENaOHd3aXJMMjUtVlloTktzWlZBa05yT04wbXhOSnBLX1J0TzRTc3MzTjhrekEtd3U0Wm9mV3lnTS1MN240YjhOUjJnNmktUWhNOUlPNWZkN1libTFaM2xXcWt3?oc=5"
+        "https://www.anthropic.com/engineering/redesigning-source-control"
       ]
     },
     {
-      "title": "UPI Merchant Charges Above Rs 2,000 To Be Implemented After Diwali",
-      "score": 22.46,
+      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
+      "score": 16.35,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU8tNFVHN3hYbGE1QXJucXRkekR2emFtM3ROak1DNVEwQ25fbDhCMmt3YTBGaW5lbko3ZUFwWVJMZGJzMVYyZHVYVUVkTUdIYnF1Y3JZdWlrLXl4Smh1YnVNcFdSRV9UdFVzSHc0MXR3Wkt6OGxDeXFiZW9paVMtUThyci1BWFo0NFZmS1ZvcDRIVVV4d01HdEJ6alc5cE15Q0NhN3IxSkxmaknSAbMBQVVfeXFMTnFWcEpaOXBRbjlPLVZOQWlVSjNUMDQ1VUNxVVBBM0xnT1lfV2RNRHlTNGhidUk4U0hGSDZpRWsxdW5RMG1LYWpuNkQ0YXpQUkFhX1VYTllhSzVYZVQtTUZIV04wNjFyMGJGMk10cm5QTVRSZVBBcGlQa3o0czVGLWZWQ3F1Zk53aW1HWXVwbzEyWEtXLTBJU1hOb1BwOTNmNVZnNmpMQW9UdzVhZGFoSm0xMk0?oc=5",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE5KT0dqMVA0ODh2NVI0eUR0U01yS2ZLdzliT1k2NmQxb3k1TkRIVlVQWk9jSUFaWUhDZFdPcWJBZkVpUkM2Vmg3c3UwcG1uYUtwcFYwcUh4V010Z0QwUFBPNWkzRFlhcWpTUi1HNWZiRFd1dw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXRvWTFmRTZoLXBIRlhKSlFPZnoyZ3poYTdZREJPcllMeS1aM0I3VWs4Rk14UDAyMzFwSGdpVHdJN1hpa1NjYWVrRTR1Q1NMT0JFV1otS0tOMzdyY0tjNDhMWGQ0T1BHSGE4djdDeTE3ZTlPeE9IUlpXODFCeVNSQ3licW9nRjhCTXJjaWY1WUJiaFZ2bFlaUjFwZmNPR29lQ2lpeXJ6VjlIX181NW9TXzBIdGtGSWozbEZuQjJ3OVPSAccBQVVfeXFMTmpFS180OFJkNnJsM1pBSElPcEkyZ1F4aVVMMmpNeHBiaTY5a2hrZ0FhTXFQM1VxRERTbGpjbFloV3hTTXZLczd0TWRDcFo0cEJtWGdxNE50Q1hoZ0UzTkRnU2Ztclo0cFV6TFhhdllmanhjY3lud1V4QzIzU2NZT0FyZ1BKb2NvQ1JmM0s4SGhXUXZCQTFVdENpOUMxZnZyNG9iV2J3V20tUWd0MGNyalZONmFpYWI0YW54aF9IbHB0NGwya3RyVQ?oc=5"
+        "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings"
       ]
     },
     {
-      "title": "India postpones UPI payment fee rollout until after Diwali festival",
-      "score": 19.94,
+      "title": "Enterprise managed settings enforcement updates",
+      "score": 15.69,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc09wOWdpRV92Y2Rjb2wwTndUdXI4QjFwY0ppQzBQT1gydGE1U3YyNFc1YV9rSk1RVF9xV3JldXEyaHN1bDZNZGVPcEUtbUlRLWZ3SmpKYVZEOHRpeUNFV1BmVkN5VEw3bkxmN2RyVGNKOGlxY1ltVER2MlZyMGNBTmZuM3E1cFJabzJFNTNTOWh3Z1Q0cS1XRXJVRlR4UUVOMklXTFBnY2pXQkXSAbABQVVfeXFMUHFEdWs4TlVGRTNxVXRDQUpvQ0VoSENCUTNKLU5HQlhNZ1NPVDlwSWdMM3VmT05WT1c3UEFRWGF2SVZCVXVWd1AzcDRQWjhhSWl0bmhYVG1veUl0bjEtWmN5ZDl6OTQ0U1N0TEtXMXV3VkdLaUlYU1pLcUM0WkFVUUNDZW1WOVdJZUF1Q0hfT0JaZnNEOHUybjA1bHJacnNfR1dueGpZY1VNTmVPc0VEMDk?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxORm95U0NtbF9FLUh2NVJkTDJOdWVpNi0zSWtJZDM1VHBkVm9ibjFKMVlsNURqSnh5X3JRSGp6eGtndGFRTm1aLUQ2S2Q4MllZbHRRRGpyQ1RzbmtsOWZpUmhCRGhwSDFyZ2FteDRtSGhnSWdWVVlkOUNubXl0VGhHUERXVVZCOVlsekgxblRvUTFKbW80VllHdDdaa242THcyT1U4VGZRRWRVTG9HWGVZNNIBtgFBVV95cUxNcUdOMG9ubXc1cDdvTzdaZ1lBeTN3dncxbHNSd1A4U2FfRnRtRUVKa2FnVUlVRWZnUElTeWkwNGVtT0VnN2dIblNJR2x6cFAxTy1pYXAwdnJHRHpDc3d3V0hJVDgybllscmh2dlNEbV9fZTVEYTk3aXMyMmMycHR2TFl4X2UxRWhoWi1aUExaOTY2NFdyMUtjYkwwMFFzOURGdENDTWN4QUM2Q3JETThSMllnTWJtUQ?oc=5"
-      ]
-    },
-    {
-      "title": "National Payments body pushes UPI merchant discount rate implementation till after Diwali | Business News",
-      "score": 19.26,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMFA3X09jWDdzRGFCa29HUUxGa2ItNktoWlg4VWtJTndWQWgxTzhRVFp1cHZ2OWZhVThaRUdfVE9nSjJzanlna21lZTJvaGRjOUNtV1EzOEJ6aXJkS0lpS3dhUmdFb0IyaV9TWFkxa2hMQkEzWUhqVXp3U0wyeXo5Q2JzeXVxWktmS3Z2YXlXdUpNRi1nRGk2TkpPWm4xOVM3MGJNX19Ob1NGMFR4b3k2OGZJS3RwYmdZNWNlZENWaE5NUFhRV1c4NUpvMktWYWtYclpiQ1ZhR0tudHd1NlNSNy1pd19oTnPSAecBQVVfeXFMTzBQN19PY1g3c0RhQmtvR1FMRmtiLTZLaFpYOFVrSU53VkFoMU84UVRadXB2djlmYVU4WkVHX1RPZ0oyc2p5Z2ttZWUyb2hkYzlDbVdRMzhCemlyZEtJaUt3YVJnRW9CMmlfU1hZMWtoTEJBM1lIalV6d1NMMnl6OUNic3l1cVpLZkt2dmF5V3VKTUYtZ0RpNk5KT1puMTlTNzBiTV9fTm9TRjBUeG95NjhmSUt0cGJnWTVjZWRDVmhOTVBYUVdXODVKbzJLVmFrWHJaYkNWYUdLbnR3dTZTUjctaXdfaE5z?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHF1Zkh1eDJUaTJNUUpxVmRDVUo5bmV1QU8ycTViVDlHcGQ0TzF6TzNJWUJGT0JZVktVZXcxY0tkcFRSOEZUOEY4a25jVEwzbTQwRVVNV1lhZDNCWW9FOWprWHd3SnJMWW5MYV91MGdKU29ZY2FiM1Bmc0Y1MlQtZDM0cThqZXlTX25XZEVRek9vbU82WE9jMUpYR3RCUGxxMWRwS09KR3pHR3ZzSFpJWktqd2JJY0VxTEd1anMtaXJLcVFJQll0WUw1TTJTcjhXQjZJeU5UNU5DX0F20gHjAUFVX3lxTE5WR2NlWHF3YzlBYWM1WDl6bHVwVXhzRV9hRU1RYU1uem5HdS1JdU5lR1RkY2trWEM3R2lISE95NFZkSXNZVHM4anpxbXk4cjd0Vmc0UTE3b1ZmSVAwZ1V2UnJCbE9PN0ZNN2ZsUXNhcVJjcWxvdVhicTNmd211TEs5S2NoWERvRFIyRFFWN0pjcnp4S010eF9ZNUV6M01qcldjRU4wMVVXa2ZzMWZSUXBCb2ZKOEhDd0k3THhsTFJLLVplcDA4OFZIZmltb0hwaXkwYWJILVFrZV9GSFhCaHpzeUFn?oc=5"
-      ]
-    },
-    {
-      "title": "OnePlus 16 Sales Cross 70,000 Units in First Hour in China, Company Claims",
-      "score": 19.57,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNndneUxOdEp2T3o2MTdmN1ZPVEMwT29uYk9vTHp3MlBkeGpUQnFIMERTdW1hQlUtQ3pPbmlLMjhaN2gzQnBXcmkzMlNIQlVhLVBtWDZ5ZVg3MzQzdmxiMWpadURObWVQeHFQNHg3eU1ydF93MWM2U2k0TGZRaGRtMDl4S2ttdWFIemZONTdwc1BXWlBDbmZfUVd6cDZYclpBenhublVn?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWZCek5neEw5OW9ZcndUOWZrVEIwVk9BT2k5YXdQbVlCLW8xa05OblR2NEEwSXlEd1plb2xBVDhyR2Z2eGowdExwYkU4bWFkQWRiNm44T3pQVHdHcjhfNVR6VWlYRzNFQzNNMnZuTnJMNmN3WTVrWHd3eTFsV2Y3d1UwVWk5WjdsQW8zWWxVUFVGbHVaYUNval9DZ1ZlRHdpRmttWE10V3ZuejEyd1hDbHJjQXVyUFhlN09zV1BBT1lyM1E3RERsUFBXcncxT2o2RURWbTBR0gHbAUFVX3lxTE5USEhGTTA3cWNmZ1M0VlF1T3JPd1JwalBZUjRQekFhNGVvZHZwN1BMMkdfQ3J1TjY1TzBrRjJrTGJ5UUJidGd6b0xtZTdWS2l2aE5LVlVtZlRtakFlT0tWTzlqakNtR09aZl8zX2lndmUyM0NZVVVKOXRTQXZudW8wU2JpYU14ck8wbjhwdHVuVmRhMGx5d2llTFVra19lb1RoenBNZjdDNkRXQWZVWXVHaG40TnQzaUVkMkU5b1g1QWhUZFpDUEZJMFFvV1l4STVKRDZiTXhucUwzZw?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI says staffer arrested for hidden recording device in office",
-      "score": 19.49,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNC1QMWFJSUVGT2xNVmVVc2tfOUozVldJa2FQaDRFZFpTb25UUkE5cHp1OFRNS0tTZ0NQTWpsekhwRFBzRFFacVQzUDlTQ3luLW5HNTZFVEx1TjdDZ0J6bVFsdkRSZVh2Vm1RWEttX1liT0llU05mVXVneFNfQ1lnQmFpeDNIYy1EMk5PVFFHcHVRbzNULXpTWlZTY1Rnd0VPR3lYZjZHVEMwdGlQRVRjRldLWlF6Rlk4eUV1NkExaGc1czA5R3Q5MGNWVjJLZ9IB1AFBVV95cUxOdnlKNGF4aXhKQ1NrS0M0RG1jSUZiRkhVclpyaklSUUctYjhFTDRDSWVMenB5QkN5WGVaUW5leXctWWF5OFowTjNmMjNDVHZnV3ZUUlhOU0ZMN09WZjZBUUh5aGFyN3JsQnV1dGJ5bGVGUXFQd1JOT2t6VTdxOHNUYnBSbk5aT3hsMzdIUHVFc2VGcGg5NUxlN3hVbzFKajBTLUNrYzFvb2RlU0RJNTRVaFB3NE5sRk8yWGpYaW9weWpYZ1BGZ1JSVjI3YXFqd1EzQzlxTg?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEJHVlpYU1h3TWo5UkZwR0dkdmZSaWpzWWIzYzh3bGJldUhBNUVONW1kZWNhdml4YXJ4YU8zVDVpaE1qUUE2YmNiSjVrdC1PTG9jVTdpYzMyYmpONEEwaXlYSTRKUWZienFFRUU4RDh3VFBxRUdDc1lON2hpUDM4UEtSSmsxcVRFbHZqU2ZNejJUN2NSUnNONDJIXy02Y0lTRTVoLXA1SzRNSU9zbXNUeElCdw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVlobDJrSy1BeEVqQVBfemd4UWZTSG9iTUhtS2hfQ0hPT1lYd1l0Y1lXN1g0dkRwMWw0c282ZmFXMU9HNHNGWHpQZ1FZSjlLX2w3N3c1cmRETTF2aDhZdkxqenpVWXgxMGlETTRDdTRWRGJxbFJRNHdBMmpTXzI2OEJjcGFxQ0lVNTdPX21OanYwUF9FU2c?oc=5"
+        "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
       ]
     }
   ]

@@ -1,25 +1,58 @@
 [
   {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Higgsfield takes AI video from 1 minute to over 10 &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-13T17:45:35+00:00",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-13T17:05:48+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
+    "saved": "2026-10-14T12:37:21.083015+00:00"
   },
   {
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5",
-    "source": "Google DeepMind",
-    "kind": "news",
-    "summary": " On-Device AI Against Scams &nbsp;&nbsp; Google DeepMind ",
-    "country": "IN",
-    "published": "2026-10-14T02:00:52+00:00",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "country": "GLOBAL",
+    "published": "2026-10-13T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
+    "saved": "2026-10-14T12:37:21.083015+00:00"
+  },
+  {
+    "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "link": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "country": "GLOBAL",
+    "published": "2026-10-11T19:10:25+00:00",
+    "engagement": 1944,
+    "saved": "2026-10-14T12:37:21.083015+00:00"
+  },
+  {
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-10-14T06:00:28+00:00",
+    "engagement": 0,
+    "saved": "2026-10-14T12:37:21.083015+00:00"
+  },
+  {
+    "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
+    "link": "https://github.com/deeplethe/solid-glass",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+    "country": "GLOBAL",
+    "published": "2026-10-12T09:19:02+00:00",
+    "engagement": 581,
+    "saved": "2026-10-14T12:37:21.083015+00:00"
   },
   {
     "title": "Improved detection for withdrawn Dependabot alerts",
@@ -30,50 +63,17 @@
     "country": "GLOBAL",
     "published": "2026-10-13T14:03:57+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
+    "saved": "2026-10-14T12:37:21.083015+00:00"
   },
   {
-    "title": "Adani, Jabil ink pact to form 50:50 AI, data center gear JV in India",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnlBZE91OV9NanFVNGp1dzM3LXdfZHNGejlDLVdsMkNmajdNZV9mYTNCc0ZRNGptdWdMOENnRmpOU25ZWEF1bHRfaHh5aW5mWTR0dEl2WXNOTjV2RGtrZWdLU0hGVmZxR3dqOFE3Y0p1LURpUVJwVl9FQ3VGN3JNdi1YR2gzN3IwVHBiTnpORWlXdmIwdDdlUW1KWHFkV00ySExKMnBMempxcUxrQmhFUmQ0NEYtOVptZkVsRDUxUVZCYVl3Nzk1ek9ZQkwwUzDSAdQBQVVfeXFMT3RjQkRid3owN0tPNkozWkxNYmw4bWl6N3lPUThpZ1JBT2o5c21vZ09tb2pSc1Z5aDdiZGwyZ3VvdElGajZGVkFiajllYU5yczczTk83YlV1TEtfdkNoR0NXQUpsTjhyeEh1TGRrVUJXLV9hUUFxWEFic09TN0ZnM0IybDVVYXR1ZFdaYllCUUZWeHFFZzRxdmdEVHJVd3p5Z0l2TE1WSGJWVGVwaUowejRpMjdJazBqYXNLdGhlOVJjZFp1UWRZTFhtOV9rejJNcVVOYm4?oc=5",
-    "source": "ET Telecom",
-    "kind": "news",
-    "summary": " Adani, Jabil ink pact to form 50:50 AI, data center gear JV in India &nbsp;&nbsp; ET Telecom ",
-    "country": "IN",
-    "published": "2026-10-14T02:13:02+00:00",
+    "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+    "link": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is&#8230; \n The post  Secret scanning blocks Anthropic keys by default, adds Salesforce  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-13T16:12:36+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
-  },
-  {
-    "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5",
-    "source": "Reuters",
-    "kind": "news",
-    "summary": " Nvidia buys stakes in French tech startups Doctolib, Genesis AI &nbsp;&nbsp; Reuters ",
-    "country": "IN",
-    "published": "2026-10-13T18:56:57+00:00",
-    "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
-  },
-  {
-    "title": "UPI Merchant Charges Above Rs 2,000 To Be Implemented After Diwali",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU8tNFVHN3hYbGE1QXJucXRkekR2emFtM3ROak1DNVEwQ25fbDhCMmt3YTBGaW5lbko3ZUFwWVJMZGJzMVYyZHVYVUVkTUdIYnF1Y3JZdWlrLXl4Smh1YnVNcFdSRV9UdFVzSHc0MXR3Wkt6OGxDeXFiZW9paVMtUThyci1BWFo0NFZmS1ZvcDRIVVV4d01HdEJ6alc5cE15Q0NhN3IxSkxmaknSAbMBQVVfeXFMTnFWcEpaOXBRbjlPLVZOQWlVSjNUMDQ1VUNxVVBBM0xnT1lfV2RNRHlTNGhidUk4U0hGSDZpRWsxdW5RMG1LYWpuNkQ0YXpQUkFhX1VYTllhSzVYZVQtTUZIV04wNjFyMGJGMk10cm5QTVRSZVBBcGlQa3o0czVGLWZWQ3F1Zk53aW1HWXVwbzEyWEtXLTBJU1hOb1BwOTNmNVZnNmpMQW9UdzVhZGFoSm0xMk0?oc=5",
-    "source": "NDTV",
-    "kind": "news",
-    "summary": " UPI Merchant Charges Above Rs 2,000 To Be Implemented After Diwali &nbsp;&nbsp; NDTV ",
-    "country": "IN",
-    "published": "2026-10-13T08:12:26+00:00",
-    "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
-  },
-  {
-    "title": "India postpones UPI payment fee rollout until after Diwali festival",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
-    "source": "Reuters",
-    "kind": "news",
-    "summary": " India postpones UPI payment fee rollout until after Diwali festival &nbsp;&nbsp; Reuters ",
-    "country": "IN",
-    "published": "2026-10-13T09:39:20+00:00",
-    "engagement": 0,
-    "saved": "2026-10-14T05:26:20.481289+00:00"
+    "saved": "2026-10-14T12:37:21.083015+00:00"
   }
 ]
