@@ -420,17 +420,19 @@
     }
   },
   "2026-10-14-evening-1801": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/u3n_7G5OD6c",
-      "facebook": "https://www.facebook.com/reel/2288413911700245"
+      "facebook": "https://www.facebook.com/reel/2288413911700245",
+      "instagram": "https://www.instagram.com/reel/Deeuh3yCtJF/"
     },
     "approved_at": "2026-10-14T13:35:24.712822+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-14T15:30:08.990324+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-14T15:40:10.177358+00:00",
     "ids": {
       "youtube": "u3n_7G5OD6c",
-      "facebook": "2288413911700245"
+      "facebook": "2288413911700245",
+      "instagram": "17925319935202736"
     },
     "info": {
       "title": "DeepMind On‑Device Scam Detection Protects Your Phone #Shorts",
@@ -440,7 +442,7 @@
       "seconds": 48.0,
       "primary_keyword": "DeepMind on-device scam detection",
       "qa_passed": true,
-      "posted_at": "2026-10-14T15:31:36.308821+00:00"
+      "posted_at": "2026-10-14T15:41:00.593284+00:00"
     }
   },
   "2026-10-14-morning-1046": {
