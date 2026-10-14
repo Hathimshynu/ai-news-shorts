@@ -16,6 +16,10 @@
       {
         "date": "2026-10-13",
         "views": 1
+      },
+      {
+        "date": "2026-10-14",
+        "views": 1
       }
     ],
     "info": {
@@ -53,7 +57,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-10-evening-1400": {
     "history": [
@@ -72,6 +76,10 @@
       {
         "date": "2026-10-13",
         "views": 5
+      },
+      {
+        "date": "2026-10-14",
+        "views": 6
       }
     ],
     "info": {
@@ -91,7 +99,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -109,7 +117,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-10-evening-1501": {
     "history": [
@@ -128,6 +136,10 @@
       {
         "date": "2026-10-13",
         "views": 2
+      },
+      {
+        "date": "2026-10-14",
+        "views": 4
       }
     ],
     "info": {
@@ -147,7 +159,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -165,7 +177,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-10-evening-1918": {
     "history": [
@@ -184,6 +196,10 @@
       {
         "date": "2026-10-13",
         "views": 0
+      },
+      {
+        "date": "2026-10-14",
+        "views": 18
       }
     ],
     "info": {
@@ -203,10 +219,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 18,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "instagram": {
         "likes": 0,
@@ -221,7 +237,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-10-evening-2001": {
     "history": [
@@ -240,6 +256,10 @@
       {
         "date": "2026-10-13",
         "views": 4
+      },
+      {
+        "date": "2026-10-14",
+        "views": 5
       }
     ],
     "info": {
@@ -259,7 +279,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -277,7 +297,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-10-evening-2102": {
     "history": [
@@ -296,6 +316,10 @@
       {
         "date": "2026-10-13",
         "views": 125
+      },
+      {
+        "date": "2026-10-14",
+        "views": 126
       }
     ],
     "info": {
@@ -315,7 +339,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 125,
+        "views": 126,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -333,7 +357,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-10-morning-1146": {
     "history": [
@@ -352,6 +376,10 @@
       {
         "date": "2026-10-13",
         "views": 56
+      },
+      {
+        "date": "2026-10-14",
+        "views": 55
       }
     ],
     "info": {
@@ -371,7 +399,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 56,
+        "views": 55,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -389,7 +417,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-11-evening-2002": {
     "history": [
@@ -404,6 +432,10 @@
       {
         "date": "2026-10-13",
         "views": 52
+      },
+      {
+        "date": "2026-10-14",
+        "views": 77
       }
     ],
     "info": {
@@ -421,7 +453,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 52,
+        "views": 77,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -433,7 +465,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-11-evening-2101": {
     "history": [
@@ -447,6 +479,10 @@
       },
       {
         "date": "2026-10-13",
+        "views": 0
+      },
+      {
+        "date": "2026-10-14",
         "views": 0
       }
     ],
@@ -477,7 +513,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-11-morning-1146": {
     "history": [
@@ -492,6 +528,10 @@
       {
         "date": "2026-10-13",
         "views": 4
+      },
+      {
+        "date": "2026-10-14",
+        "views": 5
       }
     ],
     "info": {
@@ -511,7 +551,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -529,7 +569,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-12-evening-1333": {
     "history": [
@@ -540,6 +580,10 @@
       {
         "date": "2026-10-13",
         "views": 9
+      },
+      {
+        "date": "2026-10-14",
+        "views": 12
       }
     ],
     "info": {
@@ -559,7 +603,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 9,
+        "views": 12,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -577,7 +621,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-12-evening-2001": {
     "history": [
@@ -587,6 +631,10 @@
       },
       {
         "date": "2026-10-13",
+        "views": 8
+      },
+      {
+        "date": "2026-10-14",
         "views": 8
       }
     ],
@@ -625,13 +673,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-13-evening-1231": {
     "history": [
       {
         "date": "2026-10-13",
         "views": 1
+      },
+      {
+        "date": "2026-10-14",
+        "views": 2
       }
     ],
     "info": {
@@ -651,7 +703,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -669,13 +721,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-13-evening-2001": {
     "history": [
       {
         "date": "2026-10-13",
         "views": 12
+      },
+      {
+        "date": "2026-10-14",
+        "views": 32
       }
     ],
     "info": {
@@ -695,7 +751,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 12,
+        "views": 32,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -713,13 +769,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   },
   "2026-10-13-evening-2101": {
     "history": [
       {
         "date": "2026-10-13",
         "views": 5
+      },
+      {
+        "date": "2026-10-14",
+        "views": 17
       }
     ],
     "info": {
@@ -730,15 +790,16 @@
       "seconds": 32.1,
       "primary_keyword": "Apple HomeView Siri AI",
       "qa_passed": false,
-      "posted_at": "2026-10-13T17:21:51.865546+00:00"
+      "posted_at": "2026-10-14T05:31:04.417327+00:00"
     },
     "links": {
       "youtube": "https://youtube.com/shorts/bKSSaTHDHIc",
-      "facebook": "https://www.facebook.com/reel/956687454171680"
+      "facebook": "https://www.facebook.com/reel/956687454171680",
+      "instagram": "https://www.instagram.com/reel/Dedov60DUwV/"
     },
     "platforms": {
       "youtube": {
-        "views": 5,
+        "views": 17,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -748,8 +809,94 @@
         "comments": 0,
         "note": "insights unavailable: (#100) The value must be a valid insights metric",
         "engagement_rate": null
+      },
+      "instagram": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
       }
     },
-    "fetched": "2026-10-13T21:33:41.317125+00:00"
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
+  },
+  "2026-10-14-evening-1801": {
+    "history": [
+      {
+        "date": "2026-10-14",
+        "views": 0
+      }
+    ],
+    "info": {
+      "title": "DeepMind On‑Device Scam Detection Protects Your Phone #Shorts",
+      "topic": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "category": "New AI Features",
+      "hook": "Scams cost billions, AI can stop them.",
+      "seconds": 48.0,
+      "primary_keyword": "DeepMind on-device scam detection",
+      "qa_passed": true,
+      "posted_at": "2026-10-14T15:41:00.593284+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/u3n_7G5OD6c",
+      "facebook": "https://www.facebook.com/reel/2288413911700245",
+      "instagram": "https://www.instagram.com/reel/Deeuh3yCtJF/"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": null
+      },
+      "instagram": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
+  },
+  "2026-10-14-morning-1046": {
+    "history": [
+      {
+        "date": "2026-10-14",
+        "views": 0
+      }
+    ],
+    "info": {
+      "title": "Gemini 4 Argon: Step Change in Physical Intelligence #Shorts",
+      "topic": "Gemini 4 Argon for Robotics",
+      "category": "New AI Models",
+      "hook": "Robots just got smarter at physical tasks",
+      "seconds": 53.4,
+      "primary_keyword": "gemini 4 argon",
+      "qa_passed": true
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/MSfMF5qz9Ro",
+      "facebook": "https://www.facebook.com/reel/1099803482429993"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-14T20:20:19.012634+00:00"
   }
 }
