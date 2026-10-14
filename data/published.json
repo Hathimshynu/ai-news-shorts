@@ -431,8 +431,8 @@
       "facebook": "https://www.facebook.com/reel/1099803482429993"
     },
     "approved_at": "2026-10-14T10:30:23.261585+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-14T14:30:09.362714+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-14T14:40:17.178773+00:00",
     "ids": {
       "youtube": "MSfMF5qz9Ro",
       "facebook": "1099803482429993"
@@ -444,8 +444,7 @@
       "hook": "Robots just got smarter at physical tasks",
       "seconds": 53.4,
       "primary_keyword": "gemini 4 argon",
-      "qa_passed": true,
-      "posted_at": "2026-10-14T14:31:53.314269+00:00"
+      "qa_passed": true
     }
   }
 }
