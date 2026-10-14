@@ -420,9 +420,28 @@
     }
   },
   "2026-10-14-evening-1801": {
-    "status": "approved",
-    "platforms": {},
-    "approved_at": "2026-10-14T13:35:24.712822+00:00"
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/u3n_7G5OD6c",
+      "facebook": "https://www.facebook.com/reel/2288413911700245"
+    },
+    "approved_at": "2026-10-14T13:35:24.712822+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-14T15:30:08.990324+00:00",
+    "ids": {
+      "youtube": "u3n_7G5OD6c",
+      "facebook": "2288413911700245"
+    },
+    "info": {
+      "title": "DeepMind On‑Device Scam Detection Protects Your Phone #Shorts",
+      "topic": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "category": "New AI Features",
+      "hook": "Scams cost billions, AI can stop them.",
+      "seconds": 48.0,
+      "primary_keyword": "DeepMind on-device scam detection",
+      "qa_passed": true,
+      "posted_at": "2026-10-14T15:31:36.308821+00:00"
+    }
   },
   "2026-10-14-morning-1046": {
     "status": "published",
