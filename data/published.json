@@ -418,5 +418,10 @@
       "qa_passed": false,
       "posted_at": "2026-10-14T05:31:04.417327+00:00"
     }
+  },
+  "2026-10-14-morning-1046": {
+    "status": "approved",
+    "platforms": {},
+    "approved_at": "2026-10-14T10:30:23.261585+00:00"
   }
 }
