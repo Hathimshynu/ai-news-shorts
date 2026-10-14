@@ -6,7 +6,7 @@ approval on Telegram, then posts to **YouTube Shorts, Instagram Reels and your F
 It runs on GitHub Actions (no server, no card). Your phone only needs Telegram.
 
 ```
-6:00 AM / 3:00 PM IST   produce.yml (one video each run)
+5:00 PM / 6:00 PM IST   produce.yml (one video each run)
   Trend discovery  Google News (IN + Asia) · OpenAI/Google/DeepMind/Microsoft/NVIDIA/Hugging Face/GitHub blogs
                    · Hacker News · Reddit · GitHub rising AI repos · Product Hunt · Google Trends India
   -> merge duplicates, score (credibility, recency, India relevance, buzz), skip recent topics
@@ -20,7 +20,7 @@ It runs on GitHub Actions (no server, no card). Your phone only needs Telegram.
 right after each video  publish.yml starts and watches Telegram until the video is posted/decided
   -> every tap is confirmed within ~10 s (button changes + pop-up)
   -> posts the video YOU approved to YouTube (+captions file), Instagram, Facebook (+cover):
-     8 PM (morning video) / 9 PM (afternoon video), or immediately with ⚡ Post now
+     8 PM (5 PM video) / 9 PM (6 PM video), or immediately with ⚡ Post now
   -> each platform recorded the moment it succeeds: nothing is ever posted twice
 
 10:15 PM IST            report.yml
@@ -53,6 +53,7 @@ Only one of the three AI keys is required; more keys = more fallback when one is
 | `TTS_RATE` | `+5%` | speaking speed (default `+5%`: lively but clear; `+0%` normal, `+15%` fast) |
 | `TTS_PITCH` | `+2Hz` | voice tone (default `+2Hz`, slightly brighter) |
 | `YT_PRIVACY` | `public` | set after the YouTube API audit is approved (until then uploads are private) |
+| `YT_SCHEDULE` | `false` | turn off early YouTube upload with scheduled publishing (default on when `YT_PRIVACY=public`) |
 | `AUTO_PUBLISH` | `true` | post videos that pass all quality checks without pressing Approve (Reject still works) |
 | `AFFILIATE_FOOTER` | `My AI ebook: https://…` | added to every YouTube description |
 
@@ -76,12 +77,12 @@ and GitHub's schedule stays as a backup (it skips itself if the video was alread
    Repository access: **Only select repositories** → `ai-news-shorts` → Permissions → Repository →
    **Actions: Read and write** → Generate → copy the token (starts with `github_pat_`).
 2. **cron-job.org** → sign up → **Create cronjob**:
-   - Title `Morning video`, URL
+   - Title `First video`, URL
      `https://api.github.com/repos/<your-github-name>/ai-news-shorts/actions/workflows/produce.yml/dispatches`
-   - Schedule: every day at **06:00**, time zone **Asia/Kolkata**
+   - Schedule: every day at **17:00**, time zone **Asia/Kolkata**
    - **Advanced** tab: Request method **POST**; Headers: `Authorization` = `Bearer <your token>`,
      `Accept` = `application/vnd.github+json`; Request body: `{"ref":"main"}`
-   - Save. Then **Copy** the job → title `Evening video`, time **15:00** → Save.
+   - Save. Then **Copy** the job → title `Second video`, time **18:00** → turn **Enable job** on → Save.
 3. Test: on the job click **Test run** → GitHub Actions shows a new "Produce daily short" run (response 204 = OK).
 
 Nothing else needs a timer: when a video finishes, the publish watcher starts by itself and keeps
@@ -93,11 +94,11 @@ watching Telegram until the window closes (it restarts itself before GitHub's 6-
 3. **Actions → Publish approved short → Run workflow** → links in Telegram.
 
 ## Daily use (≈ 5 minutes)
-Videos arrive in Telegram at about 6:15 AM and 3:15 PM, each with three buttons:
+Videos are made at **5 PM and 6 PM** and arrive in Telegram about 10 minutes later, each with three buttons:
 
 | Button | What happens |
 |---|---|
-| ✅ Approve | Posts at its time: **8 PM** (morning video) or **9 PM** (afternoon video). Approved after that time → posts immediately. |
+| ✅ Approve | Posts at its time: **8 PM** (5 PM video) or **9 PM** (6 PM video). Approved after that time → posts immediately. With `YT_PRIVACY=public`, YouTube gets the video right away, scheduled to go public at that time (YouTube publishes it itself, exactly on time). |
 | ⚡ Post now | Posts immediately. |
 | ❌ Reject | Not posted; you get the top 10 trending topics, tap one for a replacement video (~15 min). |
 

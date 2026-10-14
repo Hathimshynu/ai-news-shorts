@@ -13,11 +13,39 @@ import traceback
 from . import config, facebook, gate, instagram, telegram_bot, youtube
 
 
-def _youtube(meta):
+def _youtube(meta, publish_at=None):
     thumb = config.OUT / "thumb_yt.jpg"
     vid = youtube.upload(config.OUT / "final.mp4", meta["title"], meta["description"], meta["tags"],
-                         thumbnail_path=thumb if thumb.exists() else None, srt_path=config.OUT / "captions.srt")
+                         thumbnail_path=thumb if thumb.exists() else None, srt_path=config.OUT / "captions.srt",
+                         publish_at=publish_at)
     return f"https://youtube.com/shorts/{vid}", vid
+
+
+def schedule_youtube():
+    """Approved before its posting time: upload to YouTube now, scheduled to go public at that time.
+    YouTube publishes it itself, exactly on time. Instagram and Facebook post at that time as usual."""
+    meta = json.loads((config.OUT / "meta.json").read_text())
+    job_id = meta["job_id"]
+    rec = gate.get(job_id)
+    rec.setdefault("platforms", {})
+    rec.setdefault("ids", {})
+    if "youtube" in rec["platforms"] or rec["status"] in gate.FINAL_STATES:
+        return
+    at = gate.video_post_at(job_id)
+    try:
+        link, vid = _youtube(meta, publish_at=at)
+    except Exception as e:  # noqa: BLE001 - fall back to uploading at posting time
+        traceback.print_exc()
+        rec["yt_schedule_failed"] = True
+        gate.put(job_id, rec)
+        telegram_bot.notify(f"ℹ️ Couldn't schedule on YouTube ({str(e)[:200]}). It will upload at "
+                            f"{gate.fmt(at)} with the others instead.")
+        return
+    rec["platforms"]["youtube"], rec["ids"]["youtube"] = link, vid
+    rec["yt_scheduled_for"] = at.isoformat()
+    gate.put(job_id, rec)
+    telegram_bot.notify(f"🗓 YouTube: uploaded and scheduled to go public at {gate.fmt(at)} IST\n{link}\n"
+                        f"Instagram and Facebook post at {gate.fmt(at)}. Tap ⚡ Post now to publish everything now.")
 
 
 def _instagram(meta):
@@ -51,6 +79,17 @@ def run():
     rec["info"] = {k: meta.get(k) for k in ("title", "topic", "category", "hook", "seconds", "primary_keyword")}
     rec["info"]["qa_passed"] = (meta.get("qa") or {}).get("passed")
     gate.put(job_id, rec)
+
+    # "⚡ Post now" after YouTube was already scheduled: publish it on YouTube right away too
+    sched = rec.get("yt_scheduled_for")
+    if sched and datetime.now(timezone.utc) < datetime.fromisoformat(sched):
+        try:
+            youtube.make_public_now(rec["ids"]["youtube"])
+            rec.pop("yt_scheduled_for")
+            gate.put(job_id, rec)
+            print("[publish] YouTube schedule cancelled: public now")
+        except Exception as e:  # noqa: BLE001 - YouTube will still publish at the scheduled time
+            print(f"[publish] could not make YouTube public now ({e}); it goes public at {sched}")
 
     targets = [("YouTube", "youtube", _youtube)]
     if instagram.enabled():
@@ -94,7 +133,7 @@ def run():
 
 if __name__ == "__main__":
     try:
-        run()
+        schedule_youtube() if "--schedule-youtube" in sys.argv else run()
     except Exception as e:  # noqa: BLE001
         traceback.print_exc()
         telegram_bot.notify(f"⚠️ AI News Shorts: publishing failed.\n{type(e).__name__}: {e}"[:1500])

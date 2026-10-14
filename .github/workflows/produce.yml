@@ -2,8 +2,8 @@ name: Produce daily short
 
 on:
   schedule:
-    - cron: "30 0 * * *"   # 00:30 UTC = 6:00 AM IST  (morning video)
-    - cron: "30 9 * * *"   # 09:30 UTC = 3:00 PM IST  (evening video)
+    - cron: "30 11 * * *"  # 11:30 UTC = 5:00 PM IST  (video posted at 8 PM)
+    - cron: "30 12 * * *"  # 12:30 UTC = 6:00 PM IST  (video posted at 9 PM)
     # Backup only: set exact-time triggers on cron-job.org (README). GitHub's schedule can be hours late.
   workflow_dispatch:
     inputs:
@@ -34,8 +34,8 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" != "schedule" ]; then exit 0; fi
           N=$(gh api "repos/${{ github.repository }}/actions/artifacts?name=short&per_page=10" \
-              --jq '[.artifacts[] | select((.created_at | fromdateiso8601) > (now - 5*3600))] | length')
-          echo "videos made in the last 5 hours: $N"
+              --jq '[.artifacts[] | select((.created_at | fromdateiso8601) > (now - 45*60))] | length')
+          echo "videos made in the last 45 minutes: $N"
           if [ "$N" -gt 0 ]; then echo "skip=true" >> "$GITHUB_OUTPUT"; fi
 
   produce:

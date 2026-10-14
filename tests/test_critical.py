@@ -225,13 +225,45 @@ def test_cancel_after_approve(tmp_state, monkeypatch):
     assert gate.decide() == "done" and gate.get("J1")["status"] == "rejected"
 
 
-def test_posting_times_8pm_and_9pm():
+def test_posting_times_5pm_video_8pm_6pm_video_9pm():
     ist = gate.IST
-    assert gate.video_post_at("2026-10-10-morning-0615") == datetime(2026, 10, 10, 20, tzinfo=ist)
-    assert gate.video_post_at("2026-10-10-morning-1146") == datetime(2026, 10, 10, 20, tzinfo=ist)
-    assert gate.video_post_at("2026-10-10-evening-1515") == datetime(2026, 10, 10, 21, tzinfo=ist)
-    assert gate.video_post_at("2026-10-10-evening-2230") == datetime(2026, 10, 11, 20, tzinfo=ist)  # made late
-    assert gate.video_window_end("2026-10-10-evening-1515") == datetime(2026, 10, 10, 23, tzinfo=ist)
+    assert gate.video_post_at("2026-10-14-evening-1700") == datetime(2026, 10, 14, 20, tzinfo=ist)
+    assert gate.video_post_at("2026-10-14-evening-1712") == datetime(2026, 10, 14, 20, tzinfo=ist)  # runs ~10 min
+    assert gate.video_post_at("2026-10-14-evening-1800") == datetime(2026, 10, 14, 21, tzinfo=ist)
+    assert gate.video_post_at("2026-10-14-evening-1745") == datetime(2026, 10, 14, 21, tzinfo=ist)
+    assert gate.video_post_at("2026-10-14-evening-2230") == datetime(2026, 10, 15, 20, tzinfo=ist)  # made late
+    assert gate.video_window_end("2026-10-14-evening-1800") == datetime(2026, 10, 14, 23, tzinfo=ist)
+
+
+def test_youtube_is_scheduled_early_only_when_public(tmp_path, monkeypatch):
+    _two_videos(tmp_path, monkeypatch, ["2026-10-14-evening-1700"])
+    monkeypatch.setattr(gate, "due", lambda job_id, now=None: False)
+    monkeypatch.setattr(gate, "MODE", "watch")
+    monkeypatch.setattr(gate, "tg", telegram([("approve:2026-10-14-evening-1700", 42, 42)], []))
+    at_510 = datetime(2026, 10, 14, 17, 10, tzinfo=gate.IST)
+    monkeypatch.setenv("YT_PRIVACY", "private")
+    assert gate.decide(at_510) == "wait"                         # private channel: nothing to schedule
+    monkeypatch.setenv("YT_PRIVACY", "public")
+    assert gate.decide(at_510) == "schedule_yt"                  # public: upload now, goes live at 8 PM
+    r = gate.get("2026-10-14-evening-1700"); r["platforms"] = {"youtube": "https://yt"}; gate.put("2026-10-14-evening-1700", r)
+    assert gate.decide(at_510) == "wait"                         # scheduled once, never twice
+    assert gate.decide(datetime(2026, 10, 14, 19, 55, tzinfo=gate.IST)) == "wait"  # <10 min left: no
+
+
+def test_post_now_after_youtube_was_scheduled_makes_it_public(tmp_state, monkeypatch):
+    from datetime import timedelta, timezone as tz
+    monkeypatch.setattr(publish.telegram_bot, "notify", lambda t: None)
+    monkeypatch.setattr(publish.instagram, "enabled", lambda: False)
+    monkeypatch.setattr(publish.facebook, "enabled", lambda: False)
+    later = (datetime.now(tz.utc) + timedelta(hours=2)).isoformat()
+    gate.put("J1", {"status": "approved", "platforms": {"youtube": "https://yt/1"}, "ids": {"youtube": "Y1"},
+                    "yt_scheduled_for": later})
+    made_public, uploads = [], []
+    monkeypatch.setattr(publish.youtube, "make_public_now", lambda vid: made_public.append(vid))
+    monkeypatch.setattr(publish, "_youtube", lambda m, publish_at=None: uploads.append(1))
+    publish.run()
+    assert made_public == ["Y1"] and uploads == []               # not uploaded twice
+    assert gate.get("J1")["status"] == "published"
 
 
 def test_due_uses_the_real_clock_rule(monkeypatch):

@@ -1,4 +1,5 @@
 """Upload a Short to YouTube with the Data API v3 using a stored OAuth refresh token."""
+from datetime import timezone
 from pathlib import Path
 
 from google.oauth2.credentials import Credentials
@@ -30,7 +31,8 @@ def channel_title(yt=None):
     return items[0]["snippet"]["title"] if items else None
 
 
-def upload(video_path, title, description, tags, thumbnail_path=None, privacy=None, srt_path=None):
+def upload(video_path, title, description, tags, thumbnail_path=None, privacy=None, srt_path=None, publish_at=None):
+    """publish_at (aware datetime): upload now as private; YouTube itself makes it public at that time."""
     yt = client()
     body = {
         "snippet": {
@@ -47,6 +49,9 @@ def upload(video_path, title, description, tags, thumbnail_path=None, privacy=No
             "containsSyntheticMedia": True,  # AI disclosure
         },
     }
+    if publish_at:
+        body["status"]["privacyStatus"] = "private"  # required by YouTube for scheduled videos
+        body["status"]["publishAt"] = publish_at.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
     def _insert(b):
         media = MediaFileUpload(str(video_path), mimetype="video/mp4", chunksize=8 * 1024 * 1024, resumable=True)
@@ -85,6 +90,16 @@ def upload(video_path, title, description, tags, thumbnail_path=None, privacy=No
         except HttpError as e:
             print(f"[youtube] captions not uploaded (re-run scripts/youtube_token.py to allow it): {e}")
     return video_id
+
+
+def make_public_now(video_id):
+    """Cancel a schedule and publish immediately (used by '⚡ Post now' after YouTube was scheduled)."""
+    yt = client()
+    item = yt.videos().list(part="status", id=video_id).execute()["items"][0]
+    st = {k: v for k, v in item["status"].items() if k in ("selfDeclaredMadeForKids", "containsSyntheticMedia",
+                                                           "license", "embeddable", "publicStatsViewable")}
+    st["privacyStatus"] = "public"
+    yt.videos().update(part="status", body={"id": video_id, "status": st}).execute()
 
 
 def stats(video_ids):

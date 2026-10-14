@@ -6,6 +6,7 @@ This script finds the video YOU approved, copies it into out/ and says what to d
   publish  - an approved (or half-posted) video is ready in out/
   done     - nothing left to post
   wait     - no decision yet, or approved but its posting time hasn't come
+  schedule_yt - approved early: upload to YouTube now with a scheduled publish time
 
 MODE
   watch  - (public repo) runs from when a video is made until it's posted or decided (latest 11 PM),
@@ -13,7 +14,7 @@ MODE
   check  - one quick check (private repo / backup schedule)
   manual - run by hand: posts an approved video right now, otherwise explains why not
 
-Posting times (IST): the day's first video (made before noon) posts at 8 PM, the second at 9 PM.
+Posting times (IST): the 5 PM video posts at 8 PM, the 6 PM video at 9 PM.
   ✅ Approve      -> posts at its time (immediately if that time has passed)
   ⚡ Post now     -> posts immediately
   ❌ Reject       -> not posted; you get 10 trending topics to make a replacement
@@ -80,7 +81,8 @@ def now_ist():
     return datetime.now(IST)
 
 
-POST_TIMES = [(20, 0), (21, 0)]  # IST: the day's first video posts at 8 PM, the second at 9 PM
+POST_TIMES = [(20, 0), (21, 0)]  # IST: the 5 PM video posts at 8 PM, the 6 PM video at 9 PM
+SECOND_SLOT_FROM = 17 * 60 + 40   # videos made from 5:40 PM on take the 9 PM slot
 DAY_START, DAY_END = 6, 23        # the watcher works 6 AM - 11 PM; unposted videos are skipped at 11 PM
 
 
@@ -100,12 +102,13 @@ def video_made(job_id):
 
 
 def video_post_at(job_id):
-    """Made before noon -> 8 PM. Made in the afternoon/evening -> 9 PM. Made after 10 PM -> 8 PM next day."""
+    """Videos are made at 5 PM and 6 PM. Made before 5:40 PM -> 8 PM. Made 5:40-10 PM -> 9 PM.
+    Made after 10 PM -> 8 PM next day."""
     made = video_made(job_id)
     if not made:
         return None
     (h1, m1), (h2, m2) = POST_TIMES
-    if made.hour < 12:
+    if made.hour * 60 + made.minute < SECOND_SLOT_FROM:
         return made.replace(hour=h1, minute=m1)
     if made.hour < 22:
         return made.replace(hour=h2, minute=m2)
@@ -120,6 +123,18 @@ def video_window_end(job_id):
 def window_over(job_id, now=None):
     end = video_window_end(job_id)
     return bool(end) and (now or now_ist()) >= end
+
+
+def youtube_schedulable(rec, at, now=None):
+    """Upload to YouTube early with a scheduled publish time? Only when uploads can be public
+    (YT_PRIVACY=public after the API audit) and the posting time is more than 10 minutes away."""
+    if os.getenv("YT_PRIVACY", "private").strip().lower() != "public":
+        return False
+    if os.getenv("YT_SCHEDULE", "true").strip().lower() == "false":
+        return False
+    if "youtube" in rec.get("platforms", {}) or rec.get("yt_schedule_failed"):
+        return False
+    return at is not None and at - (now or now_ist()) > timedelta(minutes=10)
 
 
 def due(job_id, now=None):
@@ -427,6 +442,9 @@ def decide(now=None):
         when = f"{fmt(at)}" + ("" if at.date() == (now or now_ist()).date() else " tomorrow")
         set_buttons(msgs, f"✅ Approved · posts at {when}", job_id)
         answer(ids, f"✅ Approved! It will post at {when}. Tap ⚡ Post now to post immediately.")
+        if youtube_schedulable(rec, at, now):
+            select(folder)
+            return "schedule_yt"  # upload to YouTube now, set to go public at `at`
         holding = True
 
     waiting = [(j, m) for j, _, m in open_vids if get(j)["status"] in ("new",)]
@@ -476,6 +494,10 @@ def watch():
         except Exception as e:  # noqa: BLE001 - keep watching
             print(f"[gate] check failed: {type(e).__name__}: {e}")
             action = "wait"
+        if action == "schedule_yt":
+            _sh(f"{sys.executable} -m pipeline.publish --schedule-youtube")
+            _sh("bash scripts/save_record.sh")
+            continue
         if action == "publish":
             if _sh(f"{sys.executable} -m pipeline.publish") != 0:
                 print("[gate] publish exited with an error (details were sent to Telegram)")
