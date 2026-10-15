@@ -545,5 +545,10 @@
       "primary_keyword": "Third Moment Research agents",
       "qa_passed": true
     }
+  },
+  "2026-10-15-evening-2112": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
