@@ -446,15 +446,29 @@
     }
   },
   "2026-10-14-evening-2303": {
-    "status": "approved",
+    "status": "posting",
     "platforms": {
-      "youtube": "https://youtube.com/shorts/h0RyYymFW6E"
+      "youtube": "https://youtube.com/shorts/h0RyYymFW6E",
+      "facebook": "https://www.facebook.com/reel/1175322494828082"
     },
     "approved_at": "2026-10-15T13:28:31.832970+00:00",
     "ids": {
-      "youtube": "h0RyYymFW6E"
+      "youtube": "h0RyYymFW6E",
+      "facebook": "1175322494828082"
     },
-    "yt_scheduled_for": "2026-10-15T20:00:00+05:30"
+    "yt_scheduled_for": "2026-10-15T20:00:00+05:30",
+    "attempts": 1,
+    "last_try": "2026-10-15T14:31:30.038661+00:00",
+    "info": {
+      "title": "NVIDIA AI Agents for Cities Transform Urban Services #Shorts",
+      "topic": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "category": "Breaking AI News",
+      "hook": "Cities are getting AI brains",
+      "seconds": 56.5,
+      "primary_keyword": "NVIDIA AI agents for cities",
+      "qa_passed": false,
+      "posted_at": "2026-10-15T14:32:49.194236+00:00"
+    }
   },
   "2026-10-14-morning-1046": {
     "status": "published",
