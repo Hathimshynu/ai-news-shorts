@@ -1,88 +1,39 @@
 {
-  "job_id": "2026-10-15-evening-2112",
-  "chosen": "AI Scan for pull requests generally available",
-  "reason": "It offers developers and tech creators a practical, official AI tool that automatically scans code pull requests for security vulnerabilities.",
+  "job_id": "2026-10-15-evening-2248",
+  "chosen": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+  "reason": "NVIDIA DLSS 4.5 controls on GeForce NOW let Indian gamers instantly boost visual quality with AI, a must‑watch upgrade for cloud gaming enthusiasts.",
   "candidates": [
     {
-      "title": "AI Scan for pull requests generally available",
-      "score": 20.84,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
-      ]
-    },
-    {
-      "title": "AI could add ₹75,000 crore to India’s GDP by 2035, says YouTube’s Gunjan Soni",
-      "score": 20.81,
+      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "score": 27.96,
       "kinds": [
         "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczZ5UHNtdlNRczk1dEFQVUpHRG05VE9hTmV2cjhMdXU3T09LMVNIZ1FzNG5iQm1nQWUydEZKUmE4QXlrakFfazdtbm4tdUVkX1IyOW1ZOUxGV2x3eF9TeXB5VXVSVWExU2RibEtCTDFHYkFmWkpLcTh4REZVeUVJQzZVWmt1UFF4Ri0xVDc4azFGNndLblVrVmdESkFRV2ZsRDQwZVowYmpXVVc0NFJr?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGctSFdIa2RlMWhpa0ttbFJaT05BdzVYdHlkSDEwcUtqTmh3YjUybDVPa1ZMTXBzY0hHSlRxcWw3dUxhZWh1YUdHcTZVcG84djl3emFTdzg2SWY5WjJZd2p3eHgzYjdWTDV5RXN1NGQ1VVoyR2U5YzdESDBsUmJJSnI2OS1NRVR0Y0I1eW9MUW55eFpGbmVaV0pZTGwyZDh1Q2lXNk51T3dkR0dxangzTWtvQ2lCaHc?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczZ5UHNtdlNRczk1dEFQVUpHRG05VE9hTmV2cjhMdXU3T09LMVNIZ1FzNG5iQm1nQWUydEZKUmE4QXlrakFfazdtbm4tdUVkX1IyOW1ZOUxGV2x3eF9TeXB5VXVSVWExU2RibEtCTDFHYkFmWkpLcTh4REZVeUVJQzZVWmt1UFF4Ri0xVDc4azFGNndLblVrVmdESkFRV2ZsRDQwZVowYmpXVVc0NFJr?oc=5"
-      ]
-    },
-    {
-      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-      "score": 26.36,
-      "kinds": [
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SQXpCaDJHYnltSGNUeDZKYjZxRjQ2djh1Ti1LUkJVUlVsRjRuSWpabXVILV9kU24tZHFIYW14QTJvYVZSc3lEUUdLM0dESGZFTXpMZGl2M2FkRVVSd05RUlRPVVZYMEJvVEZIdGhyNEtSakVqaHphcQ?oc=5",
-        "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/"
+        "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SQXpCaDJHYnltSGNUeDZKYjZxRjQ2djh1Ti1LUkJVUlVsRjRuSWpabXVILV9kU24tZHFIYW14QTJvYVZSc3lEUUdLM0dESGZFTXpMZGl2M2FkRVVSd05RUlRPVVZYMEJvVEZIdGhyNEtSakVqaHphcQ?oc=5"
       ]
     },
     {
-      "title": "Bureau launches Silent Mobile Verification for UPI device binding",
-      "score": 21.12,
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "score": 26.94,
       "kinds": [
-        "news"
+        "news",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVQ1dHZmWklmb3hlRWpGczFYTUFhc2d0SUJPc3Y5N3Yzb3ZQaUpVRlFsdGFOOHdrVEpyTWhFaUhHUWJ1dW5oR2NIbEh6QmN2dTFKWERlaTlKWGZSOFFBWGtYMjRaazllQThZdzVaZXUyRjBqTGt3TnRCRGZnX296a09Wc3B1STkyQzNMY3lBQ3Q3M0dFTngtX25yVVVTSGIxWWxGZHFhWFhWZDhOXy1OSkxR?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGNXT0ZhMVA1SVUtbFNubGVqSlNEVDE2M2luVllRaXk0VlNnWjZndG1KeU9vcjZHa3hvc3BVRXE2Wm9ZaVJuUUJqVm03MDJQY1dEOE9BeTFJb1doZWVHcS15Z3VoME84c0RVcnRQZ3gxT2lDeGcxeUR1VnpxTjNYODZvTGU5c0Fvc3hKTl9wb1d1bFNycVpJTEY5aDhXNHRXLWFQdFp6TFRDTlRTeVdLR3oza1RfNTZESF9vMDl0ZUljVHk5T05XTVdyb2pRc2phcjl30gHTAUFVX3lxTE5wY1dPRmExUDVJVS1sU25sZWpKU0RUMTYzaW5WWVFpeTRWU2daNmd0bUp5T29yNkdreG9zcFVFcTZab1lpUm5RQmpWbTcwMlBjV0Q4T0F5MUlvV2hlZUdxLXlndWgwTzhzRFVydFBneDFPaUN4ZzF5RHVWenFOM1g4Nm9MZTlzQW9zeEpOX3BvV3VsU3JxWklMRjloOFc0dFctYVB0WnpMVENOVFN5V0tHejNrVF81NkRIX28wOXRlSWNUeTlPTldNV3JvalFzamFyOXc?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUdHNFJVM01VR2ZfelZEZzFQQXNlUEZLbUs3bENDOURTdFROaWQ4M1Zab2lHVU15UkJSSnloU2NEWEdmQjVSRVlWd0RGNkU1YUt2cHVVTXVOV1dPb1ZVaXJBMWdGYjZsX3o3WGp1bWg0Snh1bFdnZEhBN2F3T1hYemh3TEt1QjFwcXlrVXFIX3FuTTVEQXdxRWo1ZVl6b1NwZFVVZjdaY1FidnR6U18wanhTWWFfQUZETGpDZkJWQzIxeE9DWXJFZS1OVFhxQdIB2wFBVV95cUxQTzJsR2FmM0c0eUtLSTBhYTJTaVJqcEdoblYtWlJIQ3l3bWNWWk9qUFpJc2tfN2x2dVZFRGx1bk4yRHhUWVNrSk1yZ2YzaGVWOVN1bENLNzRsVnpNUC1COVNWSFFobDZkbW1JU3FRQjhvcjJMUXo3UXRjaGtnQVR2bndZSGc3VmNrTXQxVTRmMHpIY2NlNXhFV2RoQUZiUlZOTXBCYjZ6NlowSUVSenRzWXRJWVFHZlFGRDdfb0lrRHFnM053RURiQkQ0WUtRbUtxeHNmS0p5MnIyYnM?oc=5"
-      ]
-    },
-    {
-      "title": "AI Startup Cohere Moves to Acquire Cybersecurity Firm AISLE",
-      "score": 21.65,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVJzc0pRcDFKNXhxb2NiaW9EN1NtaXBMcEFBbE11YUp0TzF6TTR0QTEySjhTVUVPbHF4RzF0LThHdXZzRjJVYmR5NEx2WGJrR1Y5TUZaNEZTb0N5NzBoSU1LV1diNDg5NENVWGY1Q090R0JTVE8zQWNLSVlOU0kwOW1pTTM3c1N4a0ZvVURhUE1JVGRZV0tRVTl3a2JLNllIZzhDVWFadHRWZEtiMjdiaE81OS1xQjNy?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1otMlRlT1h1b0xTeHg2amphQzBwaWpfUzBZYU1TSmt5TnY1MVBWX2hPVlQyeTVMamphQ050SVoxZldTUy0zN2ZYMDM1b0NxRFpLb2Fxd0d4dDVuRVJ3OE5JU0xZLV9wNFB5SUpFZDBqeFV5bkdtcE5pTGYySFN2RVdJYi1LTlg4Vk82SkNOQkU2Zmc5d29PUzBEUDdVX3dRZXdfbUNGeGpnQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlg1eGhYY042ODQxRC1WM3h0M2ZlOVBnRXpPaFFyaDlzMzU0UDdiUUNpWGdCbHoxRG0tLThZMGE0LTMxbWVYZDU2RmtDUjAxT2FuV2IwajR1dVVPYlI5MmZPdThvekc3RV9qRWpTelVnMU9vcFFycklqeW5xN3Fid3RHb3FqdGlRZlpPTVczYmtCVnFoUUZSZGlhYlZsSXpEYm5Bb1R6alZrd181RWtJT3ltalVsU2d2dTd4cnp6N3dXUzlHTXJRUDhhcjdycXhCRlByN0YxRlE2Z9IB0wFBVV95cUxNeW94b2lQdzktYjZ3UXhadzhkZUZ4T1dZMnZ6OGwwc0FfNFlDWHU2MU1vQXh0ZE1CY2Z0M1lmM1Q4eHdnaFRsaDlnSGJBbko1YzRWV0wwTmpIMFRtdnAxRHA4ZWoyQVBsQ3VCM3BVRGkxWHlTeHBjLWpCRWxaUzBibzJXLVZUUEE0NHIyTHBXaEl5cXlBUXgyNDBaSFBMVDVlRU9pc2dLSk5nWE9CN191WjlOdEo0U0VueGdkRklGLXVkTHZCMmM2T0dHOVhveE5kZThz?oc=5"
-      ]
-    },
-    {
-      "title": "Schneider and Apple Bring Energy Intelligence to Smart Homes",
-      "score": 21.39,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3dvVHVtT1k1QnpuS0pIeGRNRTBXbFdYRGtjY1I3UkNJeThaWW90UDNPU1J1N0NBZXJuSHJraU10M0dyNWJRUnpEbE93ckg2REh3MnRfOWJzSFRCS29Vd0FRV3hTbC1oanh0QzZRTDl1ZGRBeXBwX1dSd0dFSUZITEpNb3BpOWRQbUxqYnJTVkNhOWh5RnJrRmhWVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3dvVHVtT1k1QnpuS0pIeGRNRTBXbFdYRGtjY1I3UkNJeThaWW90UDNPU1J1N0NBZXJuSHJraU10M0dyNWJRUnpEbE93ckg2REh3MnRfOWJzSFRCS29Vd0FRV3hTbC1oanh0QzZRTDl1ZGRBeXBwX1dSd0dFSUZITEpNb3BpOWRQbUxqYnJTVkNhOWh5RnJrRmhWVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3dvVHVtT1k1QnpuS0pIeGRNRTBXbFdYRGtjY1I3UkNJeThaWW90UDNPU1J1N0NBZXJuSHJraU10M0dyNWJRUnpEbE93ckg2REh3MnRfOWJzSFRCS29Vd0FRV3hTbC1oanh0QzZRTDl1ZGRBeXBwX1dSd0dFSUZITEpNb3BpOWRQbUxqYnJTVkNhOWh5RnJrRmhWVQ?oc=5"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4RTJoRXBqang2M2NNT0RtYXRvX1dGYmtSXy1GMmMzbHJuRnZHVmpXcXkzWGN1U2k5Q0FLUkVKd1E5bWFLeG1xZlBXemxxSjBBQVFKUnRlVE1LWjc2aUVVektyeDVqWGtuUjN0aDFJSHVQX09hdHRUUg?oc=5",
+        "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
       ]
     },
     {
       "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-      "score": 26.36,
+      "score": 25.96,
       "kinds": [
         "backlog",
         "news",
@@ -97,34 +48,33 @@
     },
     {
       "title": "Teaching students to think and learn through questions",
-      "score": 24.35,
+      "score": 25.95,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5",
-        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5"
       ]
     },
     {
-      "title": "TECNO SPARK 50s 5G launching in India on 16th October",
-      "score": 22.74,
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "score": 20.71,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE54eXdweDRZZFVOY05IT0FjM1F4V2RDTGdHTXJuUVNXaDZhV0dIOFRRdVRKdGpid2QyR1YyTEVPS0N2OFhHcE1BY25rVXZnMEN0bUJzazVfVnRBUF9hV0FjUFpqOTlIRWh3T3g0Yk01cS1FdWVtUnd2SHF4cE1vZw?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2tfLVB3dkJJdEJvclpVcVZ1Yk9LSkc2UDFCbkpFcGE0QkRwZXptYlk0LTM1U3JPQUJ5dlhUckgyUng3ZERKT1daczJLeU5KekcyVnRRMmM4cVJQcGROTk1oOG5HRmZzV0EtclpFTk1oSW5Wa19WY1JVTGNUUzdud0owd2JUckJWUFU3eg?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEFTNEJjMUFfdC1CVFhFdnMxdzBmYldiNGtoSkZKeFprbkNXQ2RyOUNUSHZwSC1WODNHQlg2MHEtQWhvaGhxa1V5SWpncU1tZ0hjQUcyUDlJQVZ3NV9LUHJFVkYxZVNleGlLUXB2ODlDQzdzWmFtM1JRcElMQ2o4OWUtX2pCWUpjdnRjMktFemxFMVFCem8yY2x4RFRxUkVWNUxEaGJjXzFoa185QmhF0gG0AUFVX3lxTE1mOXIwejBMZUZPVGhvRUtKZGNjUHFQMGF6eFQyXzdINURMdGlWcVN5V2dBdlhQVTF1dHFtTG5LbGh1UjJwaTY5clczSUVIU0JTemVEZldyRjM0OVR0cGdyMzlXNzhSUXM4d1h6SjkwZXVuVDkxemxFN0l1d3lXMnY5VUxjc09aa1d0M3ZhdlprN1ZXR1dsRXk1UEVXUzVISlRNUTEyUE9qOVFtaktVM1RxU0g2SA?oc=5"
+        "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
       ]
     },
     {
       "title": "Tecno Spark 50s 5G launch date confirmed - GSMArena.com news",
-      "score": 26.44,
+      "score": 26.04,
       "kinds": [
         "news"
       ],
@@ -136,30 +86,85 @@
       ]
     },
     {
-      "title": "OPPO Reno 17 Tipped to Launch in India Without Pro Model: Expected Specs, Design, Price",
-      "score": 22.52,
+      "title": "Cohere moves to buy AI cybersecurity startup Aisle",
+      "score": 23.83,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWVTcVdjWFk4cTdDNU4tVVNZSUtHMUROM3Awa1ZYWjhRYkFNVHBGNnpwM2RKdVVWckNmVEN5Tm5XYVNmR1ZFOUZfLVFwQkp1MUQwSGZLSjY0aVd6Wmw5cnVxaHoyWGdOSzVDT0h4MW1waC1LOVdDcHFyT0dobFNDOGUzMElHZXZGMWNoN09IVDNCUHBqS0tWVFk4TFoyZklxU1RPUjgxYzRYTWRmbTdWQmp6VEsxUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN01VdHZYSWtlZjJ4MnUxSW5xSzVzUkY4cW43RmpDbmx4eWJxM2s5WnNzS01rd0VJUi1lY0VENVJGTndhUTFqTVMxQl85Vzd1bEF6dktta21QU1RSb2FPVGctSklVcHVzTnd6bzJCaUY3ZDZoTWh0amtlSFRSMGEwTm5FTG1FSVduclkxUlFuYWE2QnY0QkZ5QkN3TUxhQUhpQ3fSAagBQVVfeXFMUGMzdXVfMkxKRE1uUUExNG1wcFR1aWN4WUNKMmxzOFFtTjZrdkRxWFUySzIwbHkzeVFTTy13QlZvdUJ2Rmdra0hFT1ZPNUJibnB2bGpBUXN4N2t0QWFMT3RPYXlaX0J6REhGUWp3WXVKeldvazkyczdNS3g2Qm5ocFRXcTdQdHVpMlFXWDBpZk0tYkU5SWt4b3pXb3UzQXdyNlJPSmlmZ0lt?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjZwUGxTRFQyeFZTalVjSWJkV2FmdG8tZDJGX3phS0QzaEU1WFdIX0hSTDlrM2lhTWRkeFJ2RE5mSV9TS3NYbThnRzQ0UDIzb0ZyS2s2WWppLVdxQ0xVdF9yYldvcWlBcVF6YXMtMndEZEpPbkhYSkxsMGEyZmhxVU5QXzhoMHJra2REb0lTSHBUcldBSzBv?oc=5"
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVJzc0pRcDFKNXhxb2NiaW9EN1NtaXBMcEFBbE11YUp0TzF6TTR0QTEySjhTVUVPbHF4RzF0LThHdXZzRjJVYmR5NEx2WGJrR1Y5TUZaNEZTb0N5NzBoSU1LV1diNDg5NENVWGY1Q090R0JTVE8zQWNLSVlOU0kwOW1pTTM3c1N4a0ZvVURhUE1JVGRZV0tRVTl3a2JLNllIZzhDVWFadHRWZEtiMjdiaE81OS1xQjNy?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTFsaGQ1YTJNbjlnanItVVBFdTQ4OUJwckRmVFRBbWh4elR0bjZfUGVCbzBuRWVWeWhwcElxRlpUYTFHZnhQRjN0SmtiMEdYWVFYekZBTnNsN2tzaTdvdUpOSGxnMnhuTXFJTDlJakJ5cVNpaldLa1VETnJNWElrLXlfV1ZoQVZ0d3l0NVF6cUFPamRfRVlpVml1bUVBblFiUUtObWQ1UDFmaFRDdHBGc3hXRlI1MUUzMGp1Tw?oc=5"
       ]
     },
     {
-      "title": "BGMI Air Surpasses 10 Million Pre-Registrations Ahead Launch",
-      "score": 21.71,
+      "title": "Bureau launches Silent Mobile Verification for UPI device binding",
+      "score": 22.72,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVQ1dHZmWklmb3hlRWpGczFYTUFhc2d0SUJPc3Y5N3Yzb3ZQaUpVRlFsdGFOOHdrVEpyTWhFaUhHUWJ1dW5oR2NIbEh6QmN2dTFKWERlaTlKWGZSOFFBWGtYMjRaazllQThZdzVaZXUyRjBqTGt3TnRCRGZnX296a09Wc3B1STkyQzNMY3lBQ3Q3M0dFTngtX25yVVVTSGIxWWxGZHFhWFhWZDhOXy1OSkxR?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGNXT0ZhMVA1SVUtbFNubGVqSlNEVDE2M2luVllRaXk0VlNnWjZndG1KeU9vcjZHa3hvc3BVRXE2Wm9ZaVJuUUJqVm03MDJQY1dEOE9BeTFJb1doZWVHcS15Z3VoME84c0RVcnRQZ3gxT2lDeGcxeUR1VnpxTjNYODZvTGU5c0Fvc3hKTl9wb1d1bFNycVpJTEY5aDhXNHRXLWFQdFp6TFRDTlRTeVdLR3oza1RfNTZESF9vMDl0ZUljVHk5T05XTVdyb2pRc2phcjl30gHTAUFVX3lxTE5wY1dPRmExUDVJVS1sU25sZWpKU0RUMTYzaW5WWVFpeTRWU2daNmd0bUp5T29yNkdreG9zcFVFcTZab1lpUm5RQmpWbTcwMlBjV0Q4T0F5MUlvV2hlZUdxLXlndWgwTzhzRFVydFBneDFPaUN4ZzF5RHVWenFOM1g4Nm9MZTlzQW9zeEpOX3BvV3VsU3JxWklMRjloOFc0dFctYVB0WnpMVENOVFN5V0tHejNrVF81NkRIX28wOXRlSWNUeTlPTldNV3JvalFzamFyOXc?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUdHNFJVM01VR2ZfelZEZzFQQXNlUEZLbUs3bENDOURTdFROaWQ4M1Zab2lHVU15UkJSSnloU2NEWEdmQjVSRVlWd0RGNkU1YUt2cHVVTXVOV1dPb1ZVaXJBMWdGYjZsX3o3WGp1bWg0Snh1bFdnZEhBN2F3T1hYemh3TEt1QjFwcXlrVXFIX3FuTTVEQXdxRWo1ZVl6b1NwZFVVZjdaY1FidnR6U18wanhTWWFfQUZETGpDZkJWQzIxeE9DWXJFZS1OVFhxQdIB2wFBVV95cUxQTzJsR2FmM0c0eUtLSTBhYTJTaVJqcEdoblYtWlJIQ3l3bWNWWk9qUFpJc2tfN2x2dVZFRGx1bk4yRHhUWVNrSk1yZ2YzaGVWOVN1bENLNzRsVnpNUC1COVNWSFFobDZkbW1JU3FRQjhvcjJMUXo3UXRjaGtnQVR2bndZSGc3VmNrTXQxVTRmMHpIY2NlNXhFV2RoQUZiUlZOTXBCYjZ6NlowSUVSenRzWXRJWVFHZlFGRDdfb0lrRHFnM053RURiQkQ0WUtRbUtxeHNmS0p5MnIyYnM?oc=5"
+      ]
+    },
+    {
+      "title": "Intel at Web Summit 2026",
+      "score": 21.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVldQR3hEM2VtR21XT0k4cy16aTdkbU5ZVG1fVnByYk9faXFBaUhUcTE4bHlkaUo3QlItZ2lXTmE1QVpUUEkzT0QxT0FxTmF0dkdER1ZwbmhXWV9LOWNpbXNKQnVfR1J2ZGZLcWFFajNHV05meGV5dEk4b0hMUVZVM2NjNUItX0pNVk5rbzIwMG04NWxPYk1v?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmFwYnFhdlBJOTZGSlF0dFZJQ05Dd0JuUEVmUGlyRGRGQ3NoUmRqM0kwZXZkNHAtSTBjNU1jVlBOZkU5b2VGMTdDSXozSkY4VFk3dTh2R09qQV94aWFUMGZZU005RWUzUl9UWXdNaDZtdVMxMmFVVVpvRGhuLUI4Sl8tUGZRZnBFU1pTUS1ZVi1ZMEttNUQ5bDJsY3ZBUjhESXVYa1dOZ3psZWlUT0tucw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgJBVV95cUxOX3J2N3FON3M2ZUZmQi12QWxnUmtNbGlVRG0wUGRpUnlWcEh3c0VRaEFnNkNwM1FwNkNxTHVaekZnT2c5V1JTSVpJZUxxLWZTUnp3NWE2M0VqYXc1VlNlWHFJa2pSSFlCMzJOQmxtYVRxZk9UTWlMQUc4M2lPRUxQQ245czN5SzZScU9McThibmdNZ2NLMWJfS2tKSEFFWDBiR0pkLWVNMW5JT1R0cVhqZ3c4Y3lsbmc3R25WaG5WcDJFZzBwNXFHcFVPLUUyQzNqT2FwSk44Y2h2Sy11QlY1MmpHWThyRmN6UWV5ZjJJeGs2VnFDb3JNTzBqLU1OV0NsQzA3UjFNUFhvb1A0VWFUZlRUaWdtQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejdHd21XRmhnOUlCTEF3clU2M2Z6M3kydUR0Z0NjZ0d6ckF0RFlXS3JpRXFDSnJNQmxfMjduRmVoSUw2TWQ5U0pTS3VFV1J3M05ud29uYzYtSS1IbzdmSVl3REdZY3F1U01wd3lGQnFSa1RvbVVfdzdJQlBtcGxldURDOE1HaGZ3TmgwUlFWZnlqRzd1bXFkX0l0YWUxWk1WWDZpS3N3TnlkelU?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkRTZBbDBaZ29qdmRTS1B3cWo5V2lnekpOWm5BT2tvemNPeUFOdVAwTV9YWE1PbFB3SDJwRkt4eTlNeTFiUDBtV1dKNFVpY2MwTlJYaXlfRUhaUzhUa3NaTTZzdw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAJBVV95cUxNTmhmVlQxVVZkanB4ZGpGaG5LYTFqQ0JRdE8yVDdPZzVQdUd6eGlUeFlkZDV6SUxZMmJpNmdMdzdjREdJRWhVLU5fQUJmRkdqWndyTTJVR0tqcUJPQVBBZkVYWTFTaHhUUkRQeVd3Vjh3U3dZSGR1dnlNa1FyU2tIbE9zSFFIX1FXTDAxR2luOUlsNlcyb0N1RHFlMmo5NThRUl9VT0ltSExjUkpGUFVCOTdBcWxnd2FUNWZIaGNXMFI4M0pxUC1tUVFzMlpOb0FpUURET0Z6M1JOZFJEMzJUbU1zeGZjdERXa1p3NHlNZDN4R3lrejQweFhtanNsNW0ydXVrdjQzMTdHMnJXcXludHdHVG9pMW9qdTlyV19qQjNoaWo4VTJOX2cwSzRwYVpoYVVtag?oc=5"
+      ]
+    },
+    {
+      "title": "Schneider and Apple Bring Energy Intelligence to Smart Homes",
+      "score": 20.99,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3dvVHVtT1k1QnpuS0pIeGRNRTBXbFdYRGtjY1I3UkNJeThaWW90UDNPU1J1N0NBZXJuSHJraU10M0dyNWJRUnpEbE93ckg2REh3MnRfOWJzSFRCS29Vd0FRV3hTbC1oanh0QzZRTDl1ZGRBeXBwX1dSd0dFSUZITEpNb3BpOWRQbUxqYnJTVkNhOWh5RnJrRmhWVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3dvVHVtT1k1QnpuS0pIeGRNRTBXbFdYRGtjY1I3UkNJeThaWW90UDNPU1J1N0NBZXJuSHJraU10M0dyNWJRUnpEbE93ckg2REh3MnRfOWJzSFRCS29Vd0FRV3hTbC1oanh0QzZRTDl1ZGRBeXBwX1dSd0dFSUZITEpNb3BpOWRQbUxqYnJTVkNhOWh5RnJrRmhWVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3dvVHVtT1k1QnpuS0pIeGRNRTBXbFdYRGtjY1I3UkNJeThaWW90UDNPU1J1N0NBZXJuSHJraU10M0dyNWJRUnpEbE93ckg2REh3MnRfOWJzSFRCS29Vd0FRV3hTbC1oanh0QzZRTDl1ZGRBeXBwX1dSd0dFSUZITEpNb3BpOWRQbUxqYnJTVkNhOWh5RnJrRmhWVQ?oc=5"
+      ]
+    },
+    {
+      "title": "AI could add ₹75,000 crore to India’s GDP by 2035, says YouTube’s Gunjan Soni",
+      "score": 20.4,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczZ5UHNtdlNRczk1dEFQVUpHRG05VE9hTmV2cjhMdXU3T09LMVNIZ1FzNG5iQm1nQWUydEZKUmE4QXlrakFfazdtbm4tdUVkX1IyOW1ZOUxGV2x3eF9TeXB5VXVSVWExU2RibEtCTDFHYkFmWkpLcTh4REZVeUVJQzZVWmt1UFF4Ri0xVDc4azFGNndLblVrVmdESkFRV2ZsRDQwZVowYmpXVVc0NFJr?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGctSFdIa2RlMWhpa0ttbFJaT05BdzVYdHlkSDEwcUtqTmh3YjUybDVPa1ZMTXBzY0hHSlRxcWw3dUxhZWh1YUdHcTZVcG84djl3emFTdzg2SWY5WjJZd2p3eHgzYjdWTDV5RXN1NGQ1VVoyR2U5YzdESDBsUmJJSnI2OS1NRVR0Y0I1eW9MUW55eFpGbmVaV0pZTGwyZDh1Q2lXNk51T3dkR0dxangzTWtvQ2lCaHc?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczZ5UHNtdlNRczk1dEFQVUpHRG05VE9hTmV2cjhMdXU3T09LMVNIZ1FzNG5iQm1nQWUydEZKUmE4QXlrakFfazdtbm4tdUVkX1IyOW1ZOUxGV2x3eF9TeXB5VXVSVWExU2RibEtCTDFHYkFmWkpLcTh4REZVeUVJQzZVWmt1UFF4Ri0xVDc4azFGNndLblVrVmdESkFRV2ZsRDQwZVowYmpXVVc0NFJr?oc=5"
+      ]
+    },
+    {
+      "title": "TECNO SPARK 50s 5G launching in India on 16th October",
+      "score": 20.34,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE54eXdweDRZZFVOY05IT0FjM1F4V2RDTGdHTXJuUVNXaDZhV0dIOFRRdVRKdGpid2QyR1YyTEVPS0N2OFhHcE1BY25rVXZnMEN0bUJzazVfVnRBUF9hV0FjUFpqOTlIRWh3T3g0Yk01cS1FdWVtUnd2SHF4cE1vZw?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2tfLVB3dkJJdEJvclpVcVZ1Yk9LSkc2UDFCbkpFcGE0QkRwZXptYlk0LTM1U3JPQUJ5dlhUckgyUng3ZERKT1daczJLeU5KekcyVnRRMmM4cVJQcGROTk1oOG5HRmZzV0EtclpFTk1oSW5Wa19WY1JVTGNUUzdud0owd2JUckJWUFU3eg?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEFTNEJjMUFfdC1CVFhFdnMxdzBmYldiNGtoSkZKeFprbkNXQ2RyOUNUSHZwSC1WODNHQlg2MHEtQWhvaGhxa1V5SWpncU1tZ0hjQUcyUDlJQVZ3NV9LUHJFVkYxZVNleGlLUXB2ODlDQzdzWmFtM1JRcElMQ2o4OWUtX2pCWUpjdnRjMktFemxFMVFCem8yY2x4RFRxUkVWNUxEaGJjXzFoa185QmhF0gG0AUFVX3lxTE1mOXIwejBMZUZPVGhvRUtKZGNjUHFQMGF6eFQyXzdINURMdGlWcVN5V2dBdlhQVTF1dHFtTG5LbGh1UjJwaTY5clczSUVIU0JTemVEZldyRjM0OVR0cGdyMzlXNzhSUXM4d1h6SjkwZXVuVDkxemxFN0l1d3lXMnY5VUxjc09aa1d0M3ZhdlprN1ZXR1dsRXk1UEVXUzVISlRNUTEyUE9qOVFtaktVM1RxU0g2SA?oc=5"
       ]
     }
   ]
