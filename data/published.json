@@ -478,5 +478,16 @@
       "primary_keyword": "gemini 4 argon",
       "qa_passed": true
     }
+  },
+  "2026-10-15-evening-1702": {
+    "status": "approved",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/HjFzTtFkosA"
+    },
+    "approved_at": "2026-10-15T13:29:05.972799+00:00",
+    "ids": {
+      "youtube": "HjFzTtFkosA"
+    },
+    "yt_scheduled_for": "2026-10-15T20:00:00+05:30"
   }
 }
