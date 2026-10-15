@@ -494,19 +494,21 @@
     }
   },
   "2026-10-15-evening-1702": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/HjFzTtFkosA",
-      "facebook": "https://www.facebook.com/reel/2207768900176234"
+      "facebook": "https://www.facebook.com/reel/2207768900176234",
+      "instagram": "https://www.instagram.com/reel/DehMc9OkhAX/"
     },
     "approved_at": "2026-10-15T13:29:05.972799+00:00",
     "ids": {
       "youtube": "HjFzTtFkosA",
-      "facebook": "2207768900176234"
+      "facebook": "2207768900176234",
+      "instagram": "17951524632286855"
     },
     "yt_scheduled_for": "2026-10-15T20:00:00+05:30",
-    "attempts": 1,
-    "last_try": "2026-10-15T14:30:08.599204+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-15T14:40:11.641657+00:00",
     "info": {
       "title": "Block AI Security: 50% Faster Threat Triage #Shorts",
       "topic": "How Block is building AI-powered security with OpenAI technology",
@@ -515,7 +517,7 @@
       "seconds": 46.4,
       "primary_keyword": "Block AI security",
       "qa_passed": true,
-      "posted_at": "2026-10-15T14:31:26.939878+00:00"
+      "posted_at": "2026-10-15T14:40:47.632838+00:00"
     }
   },
   "2026-10-15-evening-1801": {
