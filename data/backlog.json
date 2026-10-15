@@ -1,79 +1,79 @@
 [
   {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YV2l6MHpLUHNCMzVVNTVRVmwxOUNFQ29FUllTb3liU3VKZHBWZDVpWFo3bk1XazV0NFA3djVzcFhMWG5RSkhvenpEbTZMMDhQOEJlUXFjS21NSFY5bE1pRF9VSkZRNFk?oc=5",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPbGxlYk5TUUh6Y0dzR01PeVFaOUxMNGNIeXdtSjhzTG55WGVwdTVqYWZ0bjg3WFFxdmJuSTFBeEh2RjJ0RlNPajlYSkpSQQ?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " Higgsfield takes AI video from 1 minute to over 10 &nbsp;&nbsp; OpenAI ",
+    "summary": " SentinelOne cuts malware analysis from weeks to hours &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-13T17:45:35+00:00",
+    "published": "2026-10-14T17:32:53+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
+    "saved": "2026-10-15T11:32:54.750775+00:00"
   },
   {
-    "title": "GitHub Actions workflow lockfiles in public preview",
-    "link": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a&#8230; \n The post  GitHub Actions workflow lockfiles in public preview  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-14T13:49:15+00:00",
-    "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
-  },
-  {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-14T16:12:42+00:00",
-    "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5makp6Sy1xOUdwNDNZUlZCTWEyc2l5NUk2SllRNWo4Qm1MRmlvbkdYaWZmZ1h4d2sweHVEbmxSQnhTOVExRmRCUEZoaF9RbUE0cmhZcWpTVGFuVHR1WGxWNGlVc2ExdGIyaDFUbktLMHE?oc=5",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " The EU’s next chapter in AI is agentic &nbsp;&nbsp; OpenAI ",
+    "summary": " How Third Moment Research runs 10,000 agents for 36+ hours &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-14T09:03:47+00:00",
+    "published": "2026-10-14T15:19:43+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
+    "saved": "2026-10-15T11:32:54.750775+00:00"
   },
   {
-    "title": "OpenAI Computing Chief to Depart",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5",
-    "source": "WSJ",
+    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1VnZ3Q0NabGw5VDBWc3RjSEotNnNaRDhyMTRJcF9VczhMTTB5Ui1ad2FQZllkTy1WNUhubmNBLXdjcDVQc3V3VzJsWkhjWlF2M044SWNVWGQxYkhBajBXeGVEeEpDU0UxZWZr?oc=5",
+    "source": "NVIDIA Blog",
     "kind": "news",
-    "summary": " OpenAI Computing Chief to Depart &nbsp;&nbsp; WSJ ",
+    "summary": " The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing &nbsp;&nbsp; NVIDIA Blog ",
     "country": "IN",
-    "published": "2026-10-14T16:06:00+00:00",
+    "published": "2026-10-15T05:08:57+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
+    "saved": "2026-10-15T11:32:54.750775+00:00"
   },
   {
-    "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JzN09IZDJjcHJLS1lCWnZKYlpOLVBJLUl1RDFoV2t1eFNZVEtONFdFR19qYURJX3poOTJvUmNrZGxTczB3MFZRWVIzQnZPNzJ6YXVpZHNlQ2NDVWJNTXNCUnNRQ0F2VTVEcUVVbWx6OTJmZDEzbndaSmdSOTJ4SnZCSllZNWo1blVTVFB0RG1pUTNrd0F4Wk9pZk1iRGpVVXdhUjktOGbSAa4BQVVfeXFMT28zWXA2LU9ySEV3c3pscnlJNVFkY05ZN2ZwaTc4cTZNOTQwazg1ckJaSm1ObTNIa0w1TThkUXBiNGx5SVhwZWJHYTgwaktsdnYteFU4d0VwaE5Mam1ON2FlSWp5NjdwQ3NLUF8wQnVsc1VoVFpGWllGcEs1VTBULXJUbHdTUy1NYmxlSlF6VTVrWGN4WTNrbXZWOER4VEpLUjI0WmVjbF9JaTNtVDdB?oc=5",
-    "source": "CNBC",
+    "title": "Google announces new AI initiatives in India across crop science, agriculture, education and small busine",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb2d5cVoyVWpzaGZuWXlkSkhNeFBGeDZVUmVtMXpFQVp1bkdDel9nYUw1cXVzanJXU2VLVXpwVlJ5Ym1LTTdaSG1NVkM2V2o5M1RRVjRYVGo2S0k3TEN4UVdRWWJXY09hVjhGSmdLMzY0Y0d0b1VzS1h5bjFaMFhWMnlWdDd2XzJ0OTRoUmpDUzY4TEdrekFuQnVTMVVmOU9Cb2xBVUFsQ1JQQ2pVTmgxUERHVlVkaGxfY3dLb0F1YVRmTmpaLXFwZ1NaZG92WkFRdXFFX1pacl94M2pWX096Vkx3bHdiMnpDckY0OE1OU0s5SGtGLUVSVHoyWmpiOUVtMnRGcHdn0gGLAkFVX3lxTFBQU3BFZjJ3U0d6MWp5TWMzWU1OdXZSQnFrNHF2eWNxUVBVMHBsTXc1bEJxbEFXWG1jN2IzZUJDcEtwbkJ3N1dlREtncWhJVnNCbjJDbzJvM3ZFYlZqWGRpQzFNdUpGT195dkpLLWxUWHd4emp2R3JpdnlOZ281cXVkVlZOS0toZ0dtSHJzMVo0T0VKQ0ZvckVJMHNUNml6RDdScHV2QkYzWG5HMl9ZTUtsTzhVQ3VrNl9WZWc2MDBQbGI1YkYzUDNGMl9FeWhQYk5FZUY2YkNJMWhlanFOMFliYUY0Q2JVQ2hKUTkyWmx3MnVjUmJEMmlsOHplVC15dXBOYVhOdElOZlNEQQ?oc=5",
+    "source": "The Times of India",
     "kind": "news",
-    "summary": " OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor &nbsp;&nbsp; CNBC ",
+    "summary": " Google announces new AI initiatives in India across crop science, agriculture, education and small busine &nbsp;&nbsp; The Times of India ",
     "country": "IN",
-    "published": "2026-10-14T17:25:34+00:00",
+    "published": "2026-10-15T09:40:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
+    "saved": "2026-10-15T11:32:54.750775+00:00"
   },
   {
-    "title": "Merchant Discount Rate on UPI transactions deferred to after Diwali",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa21tQkw5WUFuYWZvNWJiTFltSUpNV29jUGYyLVFENEVVVG91QW11dEMxb2pKamVBZFBZcjd3NEZyeEVkWDd1cmFuNXljRjdnYXdUNHh5Q0MzTjdNcy0zY0MtMFlhamZPM3QtLTVBd3F4TmhlSjg0eFV0T0J3TGVIZ3dNM1dHWEFDMkRrT2JOY2ZpNVZPRTdRNGVGY2FyWEVjS3h6a3l0TdIBrAFBVV95cUxQOURDcnNscjZ2Yjg3T25kc01fV29ZM0lSbmtxd1I0d2taYi1YbllCaUVtblRwSDVHWG9BNFJaYnYzU2xpR3NKdk5hZ3ptMDZIcHlwVmZLVFRFU1VEUnYybGF5bGxISUxwLUs3bkFHR2d1Y0VtZ2RMVHJEbnF4ZERyMlJ0SGFfTGJJNXU1SkFQVUZjQU9WNXBhcUo1TUdvdUlKaG1pQ3ltb2lDQlhh?oc=5",
-    "source": "ThePrint",
+    "title": "AI could add ₹75,000 crore to India’s GDP by 2035, says YouTube’s Gunjan Soni",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczZ5UHNtdlNRczk1dEFQVUpHRG05VE9hTmV2cjhMdXU3T09LMVNIZ1FzNG5iQm1nQWUydEZKUmE4QXlrakFfazdtbm4tdUVkX1IyOW1ZOUxGV2x3eF9TeXB5VXVSVWExU2RibEtCTDFHYkFmWkpLcTh4REZVeUVJQzZVWmt1UFF4Ri0xVDc4azFGNndLblVrVmdESkFRV2ZsRDQwZVowYmpXVVc0NFJr?oc=5",
+    "source": "Adgully",
     "kind": "news",
-    "summary": " Merchant Discount Rate on UPI transactions deferred to after Diwali &nbsp;&nbsp; ThePrint ",
+    "summary": " AI could add ₹75,000 crore to India’s GDP by 2035, says YouTube’s Gunjan Soni &nbsp;&nbsp; Adgully ",
     "country": "IN",
-    "published": "2026-10-14T10:34:25+00:00",
+    "published": "2026-10-15T10:56:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-14T17:37:08.795788+00:00"
+    "saved": "2026-10-15T11:32:54.750775+00:00"
+  },
+  {
+    "title": "FirstQFM Model Cuts Single-Qubit Gate Times by 33% on QuantWare Processor",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVNuTGFMbmtlSDJtSVhzVHJXZmtlOFdTSE9QU0pJdkFxSllaNno5VU42TG9vNWNoemR3NjBZSTNsT21BSVpadFlIT3BEdUE4QUswdzZBTFQwVUp4TmdpQ18tbU9wdWlYT1YyUmZmRmpEcVVJSTRkQWtLTWdCY1ZfNWNIaTBneVdubGg4Rzh5WWcwbS13V0trQnktNHNRbmJXZnZHLUNISW0tZw?oc=5",
+    "source": "The Quantum Insider",
+    "kind": "news",
+    "summary": " FirstQFM Model Cuts Single-Qubit Gate Times by 33% on QuantWare Processor &nbsp;&nbsp; The Quantum Insider ",
+    "country": "IN",
+    "published": "2026-10-15T09:56:15+00:00",
+    "engagement": 0,
+    "saved": "2026-10-15T11:32:54.750775+00:00"
+  },
+  {
+    "title": "OpenAI Employee Who Left For Apple Took Files About Unreleased Device, OpenAI Alleges",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQThTb3Exc25fSzZlZ2toeWVBYzkweEgtOFhFUjVWcHdIb3hfRndma3Q4bTRKOFhVTTM3eHNDbk9DdkxwTmFiaVEzdVBnbWFmWTZwVkU2a09oUE5mcDhzX3p1ME10dFlzT1hxczJPWmhJLTRGZDRoRi1jX3lyclRsWVpQVWlNOGRKU3NpSlIxSE5QNFJFdHV4elM2VmtHSHRURERETkNnQV9WVlMxSnN4RjVXVzhSYU9CSjJMWXVfVVVTUF9BYXRCQXdtejdUUm5yZUFiUtIB3AFBVV95cUxPdDd3YXI0cm1GM0YzcURndVhCRFRvNmZubldLUUY0TUZ5eUg2ZHAyckl1Y05HUTFWem5lRXJJRElsNEllbXV6dHN3QnBCR013N2JEWGdrek5Db1J5aGh4NE5NUXRKWHNKWG9EMGRGTlgxSjNxTHVOS3o5eGwzS3RXbllTVFlWYkcxMDRnemJJNy12em1wblc1d0pfSWh4V1lOQ1ZnSDlIc2dMRjZZNWFISDFmdGZHTjJ3M095dndvOXNTREJUanFhSktZTE5OaHNiQ0xrTS1OVDFfUlM1?oc=5",
+    "source": "NDTV",
+    "kind": "news",
+    "summary": " OpenAI Employee Who Left For Apple Took Files About Unreleased Device, OpenAI Alleges &nbsp;&nbsp; NDTV ",
+    "country": "IN",
+    "published": "2026-10-15T10:45:42+00:00",
+    "engagement": 0,
+    "saved": "2026-10-15T11:32:54.750775+00:00"
   }
 ]
