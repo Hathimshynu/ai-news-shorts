@@ -523,7 +523,7 @@
     }
   },
   "2026-10-15-evening-1801": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/4R61gpLzfDc",
       "facebook": "https://www.facebook.com/reel/1487669033345951"
@@ -534,8 +534,8 @@
       "facebook": "1487669033345951"
     },
     "yt_scheduled_for": "2026-10-15T21:00:00+05:30",
-    "attempts": 2,
-    "last_try": "2026-10-15T15:40:08.057902+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-15T15:50:10.148302+00:00",
     "info": {
       "title": "Third Moment Research Runs 10,000 AI Agents for 48 Hours #Shorts",
       "topic": "How Third Moment Research runs 10,000 agents for 36+ hours",
