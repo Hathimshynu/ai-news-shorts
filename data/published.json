@@ -576,14 +576,30 @@
     }
   },
   "2026-10-16-evening-1801": {
-    "status": "approved",
+    "status": "published",
     "platforms": {
-      "youtube": "https://youtube.com/shorts/TWd-eRyO_wQ"
+      "youtube": "https://youtube.com/shorts/TWd-eRyO_wQ",
+      "instagram": "https://www.instagram.com/reel/Dej281rDX4S/",
+      "facebook": "https://www.facebook.com/reel/1877526643598870"
     },
     "approved_at": "2026-10-16T14:01:45.176807+00:00",
     "ids": {
-      "youtube": "TWd-eRyO_wQ"
+      "youtube": "TWd-eRyO_wQ",
+      "instagram": "18070134071781062",
+      "facebook": "1877526643598870"
     },
-    "yt_scheduled_for": "2026-10-16T21:00:00+05:30"
+    "yt_scheduled_for": "2026-10-16T21:00:00+05:30",
+    "attempts": 1,
+    "last_try": "2026-10-16T15:30:02.623224+00:00",
+    "info": {
+      "title": "Android AI Scam Alerts Block Bank Impostors #Shorts",
+      "topic": "Android adds AI-powered scam alerts, hangs up on bank impostors",
+      "category": "New AI Features",
+      "hook": "Android will now hang up on bank scammers.",
+      "seconds": 45.3,
+      "primary_keyword": "android ai scam alerts",
+      "qa_passed": false,
+      "posted_at": "2026-10-16T15:31:19.260049+00:00"
+    }
   }
 }
