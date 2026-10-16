@@ -1,48 +1,11 @@
 {
-  "job_id": "2026-10-16-evening-1801",
-  "chosen": "Android adds AI-powered scam alerts, hangs up on bank impostors",
-  "reason": "AI-powered scam detection directly on Android phones solves a major real-world problem for millions of smartphone users facing bank fraud in India.",
+  "job_id": "2026-10-16-evening-2057",
+  "chosen": "Bringing GPT-Rosalind to academic research labs",
+  "reason": "GPT-Rosalind brings specialized frontier AI directly into life sciences and research labs, offering viewers an exciting look at how foundation models are transforming scientific discovery.",
   "candidates": [
     {
-      "title": "Android adds AI-powered scam alerts, hangs up on bank impostors",
-      "score": 19.09,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTBvZ2x3UWpfOS1mbUdrd3h4cDRpZXBHdFhVZG9fSnl6U1h4RS1MWFZGSkJWTHJvYUd2aENoQl9YRG42Q3NQWTI1LXg3dGhiZUx6QmxCSHZtQkY3Sm1ZX0ZybXpDVl9kQ2dyb2dlTE9HZkJ4WFhoWGlnU1FXRzBnM0ttZmhRaEwwU0VFZTBB?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTBvZ2x3UWpfOS1mbUdrd3h4cDRpZXBHdFhVZG9fSnl6U1h4RS1MWFZGSkJWTHJvYUd2aENoQl9YRG42Q3NQWTI1LXg3dGhiZUx6QmxCSHZtQkY3Sm1ZX0ZybXpDVl9kQ2dyb2dlTE9HZkJ4WFhoWGlnU1FXRzBnM0ttZmhRaEwwU0VFZTBB?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTBvZ2x3UWpfOS1mbUdrd3h4cDRpZXBHdFhVZG9fSnl6U1h4RS1MWFZGSkJWTHJvYUd2aENoQl9YRG42Q3NQWTI1LXg3dGhiZUx6QmxCSHZtQkY3Sm1ZX0ZybXpDVl9kQ2dyb2dlTE9HZkJ4WFhoWGlnU1FXRzBnM0ttZmhRaEwwU0VFZTBB?oc=5"
-      ]
-    },
-    {
-      "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme",
-      "score": 19.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFd0eFRXa1AtczdrLTRxTy1FRjdzWkRRZUt4bnJUOWh2R19JY3ZKYy1BWWQ0c0RvckVqQzBJT2Q0ckNQVHhic2QxRkZpSmw1dHZwSXFLOWIyY2VtZXVBVWpnMHBBZGhZemdpMzBXOUwwY0pkSjZ5M19RNFFsSW1OX3FXT3Bac1J1dEwzajFQS1UtOHYyc1JMTEIwQ0kzQ1dYX0Nxb0hJeXVDX2JIY0FMU3JmeW0?oc=5"
-      ]
-    },
-    {
-      "title": "India's services exports fall in September after record year, AI weighs on growth - CNBC TV18",
-      "score": 19.75,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFE3NHEyN3hnZlFUaUtBNmNqWUVMbl8zanBMdGVpS2k2d3FmOXA3SFNGNWtHVVR0bEsxSTA3R1EzX0xhU1RlRkpRaV9PdXJ4S2dMcHB2NjhxTFhnd0ZxSjg5VmhjcFVZRWRjQmpuUmV3azV4ZGJDRWdJSExBbHJRTlNfblFKREFIdV9HWGt2SjBpNGVrRlRFRmlwWVU3blJRUS1jdU9kY0l4X2ltNjJlYm8zYXJ5S0E?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdllrNW5qaWhyeGxFOC1ZN0RocWJULXNJTzNaSkgwSGxyUXcybXJUQUJkbEdCd09hbF8xU3RZZDAyNGNzemR5ZTRXN083UUNSRDdrejVTMTdfdFJvNnJfd0hyTWI1bnZibGdnemVCUHBGemJYajBLMFVNY3Bodzdya0lBOWx1bndSUFlKdS1WSnZobktFNVZDY0prV2ZxSjhRb0M0ZnRKZVJTWlFqeXRIbUM4VU83RXNYaU1ieE530gHDAUFVX3lxTE1YRENuek5WYXVSVnVwazFqMExkWnZJVEZVSm9BRnRtQW1lTFhyUTdYbnI0RlRVSWoycHZYSHVRNnJEN0JYMk5VWDQ2SGtEVGlxZzJkNGxpUUpzeXJubkY0OVEwVFBWT05DeXR4WEttRmY0cThsemhZYVJ5Z3UwaW9LcFotSXpsdldJR215ajRDNFpjaUlRRUp4NXhtRHdSZVJnN2xqVnRfMUNvLUJWbHJxd05iUGlRQm11aWc1SDl4eVlCZw?oc=5"
-      ]
-    },
-    {
       "title": "Bringing GPT-Rosalind to academic research labs",
-      "score": 23.13,
+      "score": 22.4,
       "kinds": [
         "backlog",
         "news",
@@ -56,21 +19,20 @@
       ]
     },
     {
-      "title": "CNN announces AI partnership with Google",
-      "score": 19.81,
+      "title": "OpenAI Names Uday Ruddarraju Head Of Data Centres And Compute",
+      "score": 19.34,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUJ2VkwyTThXNm1sMl95U2hBam1WQlFEanlFVk5kZGFQbk9xNndqRzVsTURKMTBabjY4dG5iT2VMcC10T3Rya0VQVzZyZ2Zzak9QbnRDdFo4a3RfWE1oUlBFc1cxaFJaUVVBUWFUNlptcmJYcjhDODVlYUNzc3lNMg?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFgxX0JGS3RNaVVya210ekxNUm8wbldKSzVVemhWcGZZWU9lQnFENTUwa21QWVJhZ0VXbVdJcFlQb2UxSHcyTjhvekNWbmFrRmgzc3Y2Nl9vaUxFQWZ3VFVTRGtQMVhwZGMzSFVTWWt5YVJjMVJoRU10TnUwei1SOXRnZUwtcEkwRXYwU0hiSUllYU5RU3BRX2c5RFI0Q1R0?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnBMVDFTR205akNqRXJZVUxwV096NThYNV9VNTNLRTBRUktPYXdOTjFIcG1hTUtNMVVmazFZSU5ZZGljUTQwS0tUamlXTkZIQUY3X3hvLTgtLWVXV3ZNRzJ3WUE0UXExRDhwRl9rem5CLThsTS1pemlXWUdYZ2d3aVktbkR5MjFNcElhMldsYXJ3M3kxS3BHeDNRM1BMbTFQZ0E?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODdWaC1mYnRCdHJCVUlBbUp5V25tXzFkY3lJaS1ObmRKajBMaTdQMXRaMndfNDVrMVNTNnE5R3hVQy1sVl9iNHVuaWhnVDBCaXBHbG91QnQ1MmR0UU1VY3l5RHYwT2QwdEFlVkNTUnJIa1dzSEdDNUtzRlc3eFNqWk9FUm9MejlOeFBIU0NpQ1FJaGZNdjdkeDBydXFTdlZEbEE?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTZJdS1PVDJVUk9wSVQ0amR3VTRGUFpqZmlhY1BWVmhWS0ZoXzh5aV9yTUJCWnNPb3JlcGV1MENGQUVnR3RDYzdjUnN6V3FMa1hEVnhtWEFsY3VydklmWmV1YVMwTnIxSVhnbXVvc3hYcXRibVY5V0F1UW1KbkpsZ1pJcEZUcGYzMFpZYnQ2Nm9aZXFfdGV2M3pQbjNIcXVIVjVZMDVHdWNOSE9NSVg2N1hJQXVqZ2JMeEN5Z2xR0gHGAUFVX3lxTFBfMUhoMHZrckw1MDFfM3hBUm55a1pzaXJKLXlsT2t3YXBDckkwN0U1OEFnd2VORmM0d2tnN29DdnU0cGFaZzVsbEF4bXRDbWh5SFJGdklJM0hIN2FfSDRvNGFfa2F5QTdOYktYUUk4M0hKejVoT2dGYnQxQ0YxaGpPOE9EOThtTWtqaTNLd0R2d3Z2VzllVWVZNFdJbm5nazJOaDBUVDl5d2s5ckZuMVhjUHZsSnJiQld5OVZCQTdfdG9JdTVVdw?oc=5"
       ]
     },
     {
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "score": 23.66,
+      "score": 22.93,
       "kinds": [
         "backlog",
         "news",
@@ -84,82 +46,121 @@
       ]
     },
     {
-      "title": "Oppo Find X10 Series Launching in India Next Week with Industry-First 200MP Cameras",
-      "score": 19.94,
+      "title": "CNN announces AI partnership with Google",
+      "score": 19.07,
       "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUJ2VkwyTThXNm1sMl95U2hBam1WQlFEanlFVk5kZGFQbk9xNndqRzVsTURKMTBabjY4dG5iT2VMcC10T3Rya0VQVzZyZ2Zzak9QbnRDdFo4a3RfWE1oUlBFc1cxaFJaUVVBUWFUNlptcmJYcjhDODVlYUNzc3lNMg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFgxX0JGS3RNaVVya210ekxNUm8wbldKSzVVemhWcGZZWU9lQnFENTUwa21QWVJhZ0VXbVdJcFlQb2UxSHcyTjhvekNWbmFrRmgzc3Y2Nl9vaUxFQWZ3VFVTRGtQMVhwZGMzSFVTWWt5YVJjMVJoRU10TnUwei1SOXRnZUwtcEkwRXYwU0hiSUllYU5RU3BRX2c5RFI0Q1R0?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzFBTjhNM0hEbWE2bDVZaEdyYkk5dkN5Y2dPTGhSOTVhaGw1UDhaaEpCcWlpSS00ekVDQWVEZ2dadjdDQzlwQ1pRTE0wZUNZcUh3X214dmFVSE1ualc1a1dQdlR0TzlQRElzUjh5elRoREZJem5xWXVTNmd5MDUyOFdnTVQ1Z3djVHpkaQ?oc=5"
+      ]
+    },
+    {
+      "title": "Isro gears up for maiden Gaganyaan launch, completes big crew module test",
+      "score": 19.14,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmZ1UDRveDF4WFdZcHptekFDRVdkWElra3hQcmM3SVRmcHItb0RMZkh5cmxnb2ZRa2xBWEM4a0Z3WmFhcXRybjQ4V2JFaHFsX3RJZmRuZFZHVWZpLVhWWlFhczRxZ3dWNng0aHZXQ29vNTMwOElpc2lZSVNzQ0RaUVZoSG1mdXJDdm9BaXNQS2R3aHk4S0p2OWxoSlh6cnlzdWFEdDNPbGJYWnNEVFBSdndBMEczZzJ3X1ZWM2o5Z0Z2UkFwVXg0ODZacU4tTE5E0gHWAUFVX3lxTE4zUTl5V200MzZMWmxXLWQzTVI5aURPMVBTUUpqRWNNUlV4Z3ZQZmhBVS11cDZwRHdrLWQzcVkyQkFaQ0pvWUM2Q1FwNlo5SldKQ3hhbUwtb1pkVVlDcDhWS3oyZURuRndzd2tOdzV3QjRKa01ZUW1Tc2JxM2lNZDVFWkRpRW01TUNtdHF0eEp5aTJKZzN3Uk5OdjR6YU5aREJtZTM2S19PYlBIRDNibE1RaWRUazNuRDE2aFhMM0xwbk53aTZWaHJKV2p6QS1ITVZFQkJab0E?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFd0eFRXa1AtczdrLTRxTy1FRjdzWkRRZUt4bnJUOWh2R19JY3ZKYy1BWWQ0c0RvckVqQzBJT2Q0ckNQVHhic2QxRkZpSmw1dHZwSXFLOWIyY2VtZXVBVWpnMHBBZGhZemdpMzBXOUwwY0pkSjZ5M19RNFFsSW1OX3FXT3Bac1J1dEwzajFQS1UtOHYyc1JMTEIwQ0kzQ1dYX0Nxb0hJeXVDX2JIY0FMU3JmeW0?oc=5"
+      ]
+    },
+    {
+      "title": "India’s Aditya-L1 and Europe’s Proba-3 join forces to decode the Sun’s violent eruptions",
+      "score": 20.75,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZS01UkJ0TWc1RUw5TUQzTDNUTXpZc2hZdWpHaXY2dVJ3aTg4WUxNNFQ5UmJUREFBTmZyRndrZmdwdzVQQ09Ba29idUhINTh2bGxDQ0M3OEp3c241dHViZFVsVzBZVEEtalNpbWI0V0hkZFdneWdoNTBXQW44RlBtSUdDZjdYbXJzajlCemhDa0pZZkZpaXhfSl9uWWxqTzhWLWdJUXIwVGN3VURQczd2MWtZNERyNHpIdFFvenc2cE1zc2020gHEAUFVX3lxTE1lLTVSQnRNZzVFTDlNRDNMM1RNellzaFl1akdpdjZ1UndpODhZTE00VDlSYlREQUFOZnJGd2tmZ3B3NVBDT0Frb2J1SEg1OHZsbENDQzc4SndzbjV0dWJkVWxXMFlUQS1qU2ltYjRXSGRkV2d5Z2g1MFdBbjhGUG1JR0NmN1htcnNqOUJ6aENrSllmRmlpeF9KX25ZbGpPOFYtZ0lRcjBUY3dVRFBzN3Yxa1k0RHI0ekh0UW96dzZwTXNzbTY?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zYV9Ea1BwQjZWUU56Umw4em5mckthRzNEZGdWNzFfdWdYSjBUWTV6VmhmNFFHTXNRM2ptVWt5ODZlWlJkSk1YWlZQUnRoUzFpRVl4WTIzcTFnWHNxcTY1SlRWWVZpQU1VeGozN2NsRkM2cnp2dkE?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXgwdnRmUEdidk9hQkVOM2JnRVVMYjBOYTZRX1VyTXFla0hBZGJVMDZZVkFGVXd2QmRaNjRwck1mRjNIdERBZlFrdkVXNnp5SW9vSlBsM3l4WmJTN0l0Y0xEdXNGWGd0ZXBCMzc1Sk10SjVFSmo0amtaZWRZQzZXSjlNNFNIbU50N3FNcUpBY3ViekVfV0xCRjdKOTJET08tWVE?oc=5"
+      ]
+    },
+    {
+      "title": "Oppo Find X10 Series Launching in India Next Week with Industry-First 200MP Cameras",
+      "score": 23.97,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVVlTmw2bDJvak5TSmJqbEhiRzJyUVpVR1dIN2piTEZXM2VmRGdkRVZfOTVXTFJMMXRSSEg4ME9EQm5HZExZVTMxNjdINnhJWlIxcmdqYVpTWXFxM2MzdW5reVRCbGllb0pnN1d1RmVYc04ta2R3Szg4anBBZW9CMA?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEJyNFJSOWlGNGo2VGxfVFFRVDJYdzVlQmdwcEpHcXpmQURtOW96ek9hQ21zYUszZzN0TlhlX2J6Wi1VRGQxWjFQc1lzZDYxNnFmVGVTUEhJLUFWdHFpaWNqWGtTLTRxS1ZQWW5CaUplMVV3dXJEN2FzbkdkSGtBTTJITnVlRFUzQjNBczJBS254TnZpSFN5UHpMN0FBc1BuT3pVSWdKUkZlMXY3MGUxNk5hLTdyMm8?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEJyNFJSOWlGNGo2VGxfVFFRVDJYdzVlQmdwcEpHcXpmQURtOW96ek9hQ21zYUszZzN0TlhlX2J6Wi1VRGQxWjFQc1lzZDYxNnFmVGVTUEhJLUFWdHFpaWNqWGtTLTRxS1ZQWW5CaUplMVV3dXJEN2FzbkdkSGtBTTJITnVlRFUzQjNBczJBS254TnZpSFN5UHpMN0FBc1BuT3pVSWdKUkZlMXY3MGUxNk5hLTdyMm8?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVVlTmw2bDJvak5TSmJqbEhiRzJyUVpVR1dIN2piTEZXM2VmRGdkRVZfOTVXTFJMMXRSSEg4ME9EQm5HZExZVTMxNjdINnhJWlIxcmdqYVpTWXFxM2MzdW5reVRCbGllb0pnN1d1RmVYc04ta2R3Szg4anBBZW9CMA?oc=5"
+      ]
+    },
+    {
+      "title": "TECNO SPARK 50s 5G launched in India starting at Rs. 19,999",
+      "score": 28.77,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2F0VnphT3VFbkx3Mi1lQ09WQ1c2TU5UM1pnRW56eGQyTTQ1Zzl1ZWFzUGZwNGZ3anU1VmtycEV5NGpOVlZsN2FiZXdaU29UM1JCSzdfa3RDYjFmaFNpRXY2R0JDcmV0cnJKRDRuaGlrNXdyRno0anFlMGFFNFY3d3JmNE1ad3l1dmg0QVpLMGhad9IBlwFBVV95cUxPclFrdEN2blYwQm03dFlRbjByX0hRYTFOVzJuODAxWUFWbThRVEEwZ0V6X01DUUdlSDMyNFRlZm5rMUU0VHdhcFEzTzFKekVYdm5MWnA4ZHhzWHBLLWFYdl81dks5RkVmc0FRbEhnSDc4ZWpQS2E5VWUyNHRDMVlwX1RjSV9VdDFud1F3OWQwcFBQVHBTbmpB?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTlSdE9yMldXRzNYd0hKSG9PTG40dGNwQ0RPNXp1NHpQeVp3ek9Tc1lYNDlCbHUzdWZxRUFENHlKdGVFVVM2QS0yY2F0R0lvUXQ5NEN3RnlWNnIxM1l0WUo4MWpMTHdaTVo4VGF2cWNiRHViRHBxaUlRRVBJUm5pRmF4a07SAYoBQVVfeXFMTjVWeURKUDdQclpKeXBOM1BrQ3lHQUZzWHBpYVR1ZmdhX0Rwb2RPbllIcGNzb1BzcnpHcFd4QjNhLWphODV5MDRBUjQ4SS15RkIzUDJyRkxjc3QzaVlWajE5LTBnVERSOHVjbDBSdVNfZlNUbjhhQkhlVGl5Z1ZJdE8xYXBwNnJCRjBn?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4WVJTWDNvMkdMb2sxLTR4cTVjTlVZclRzX1otUkhmZGdITmJSTzRPVE9ldllaM1BnZkFjNEU1ZzlpSU5GbU9qN0ZqbFlzVDRiVXRUNnNTcUpVZFBTLVpZ?oc=5"
       ]
     },
     {
       "title": "Samsung Galaxy F70 5G launching in India on 18th October",
-      "score": 27.93,
+      "score": 22.51,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Sa0JUeVFEdWduNFFXcUZrREVMU2lqaEZPSzdENFkwY2ZDTWlNUzFQOXk3b0trTG1pek1Rc3lpcGhHbzJuWkU0eFp3ajZhWDJJdGxsbXdOcm5ILWFLSDc1aVZEUjlYV1dUSklVUlNTTFpZSWFkQWphdA?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVpRU1Exbi1WY2FOaHpJSWg3STlsYzJ0ZzBmUy1wTVZJSjYxSEdGRXdDQm84ZjVhMDhib0ZSUVhqMWt4YlBjbDRVU0dJNW1JR0s5WHFZTFlGaUNXN2hZcXB5UmpqN1lDT2xFNzRDYTdkZm9sT1hFZG9hX3Bvb1A0b1RFSm51a0hIaTZwVWNudHl5R3V4MkF4RmdmZVQ0RHJ2NndER0hXNk5fMFNfZk9mUUJ2ckdLVGx2ZGNHU1J3?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXpvQkZGOC1aaEYyN0d0RE5VNGp2VGVUTXFwcEg4MVJrMU5sUXpHcGM4TnNtakpZU0hrR1Z1czZ0MEg4b21IbUxXdFM0c0VyUE1CMkdkWWV6MURvaUNObXpzZDJPVXdiVkk1R3lHY014Ylk3LTVKekU5WE1hTTF4cnhlVFpIcHJFdmYyZ0NDN2pzbUVkYVJ2YnRCWkZSSk9GQmFyMnFLY1VaRTBPa1JRam5lcmstQk13WHc?oc=5"
+        "https://news.google.com/rss/articles/CBMijwJBVV95cUxPN3laLXhKcGc5amhENHpKR2FkdV9LYnJuSUhxeHNvVF9wdUNTQUU3U1Eza1JjbGUzMjJxUlpSV2NUSkptWlQwc2NhOGFvSWhiR2NlbWFGY19UOTk2TnhUb256cWx2S1dkWndkX3JIcHc0MXJxVWZfWEdQcGx3WVJWNmtnSWM0WTNFV2pUTXpXcjFkVlk2WWt1M054Ym1qU1dlQkxsczZ0R0FuX04wanlYOFZRNWdueDFhcjNuOE9JWGZUeVdwTHQ3QXJxeW5rbWJfR0JqaU5NU3VzYTZ0VUo4RzFObkI5MktxMUdIbDdXSDFxTlZBaGJ2dkcwN1lnWVg2bmpuMWZ3cGIwdWx1YWRr?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWlrOHl6MjZ5LWJVMmY0aUt1STRoaDViLWZxT2lsUDk5ZnRJdVZ1WmZUWFdzejFfSHdackFhc3BtV0JPQ2hpcm53dUxYUUI0TDdLRENlOEpjUjNhUGxueTFwX191RFpDSVR6Y1VfMTdtREZ4cUg4cFVJNXNfX2I3TUxpd3ltWkNYWWlNcWhUNDZMNjNzU2x0S0hLSzVQbmZ3UlNkMVlOUTZTdw?oc=5"
       ]
     },
     {
-      "title": "TECNO SPARK 50s 5G Launched in India Starting at ₹19,999",
-      "score": 27.42,
+      "title": "Sony just canceled a promised Android 17 update for one of its Xperia phones",
+      "score": 25.92,
+      "kinds": [
+        "news",
+        "search"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bldpcXdGNUtFejU5ZHEyaFhOVlRka2tucVNlZmd2TDdLLWY1TXczY0swLUhjWmtnWkNfdjNNNGd1R2Mxd3MzNTJneFUtQnV6SzdCVjBGQWtYZ01VekJ5UXV2NldvNGtJNF93dTNrMHhDT0hVcFdGenZiTXpOQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTYwckdIRnlBaEFCQW05WTJVMWR4YTNtR0swcUV0QVpHOXlFblMtVXpHdUdja00tbThBSlV4M3pOb0J2WVJaWmszTEVLdVJNZ0h1LV9sdWZaUFhENW0zQThhdDJLb2s5bnBzTEZQNU45ZC1ucm5IQ08tMTVtTm96WWFYRi1CT05RTVBYRzFLWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTYwckdIRnlBaEFCQW05WTJVMWR4YTNtR0swcUV0QVpHOXlFblMtVXpHdUdja00tbThBSlV4M3pOb0J2WVJaWmszTEVLdVJNZ0h1LV9sdWZaUFhENW0zQThhdDJLb2s5bnBzTEZQNU45ZC1ucm5IQ08tMTVtTm96WWFYRi1CT05RTVBYRzFLWQ?oc=5"
+      ]
+    },
+    {
+      "title": "GreenCell Mobility raises ₹330 crore from Impact Fund Denmark to expand electric bus fleet",
+      "score": 19.89,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUpTeUxjclFYdkxjaHlMM0swTlZWVExfM3hqOXk5U0U0SkNXU0MxMHhrRVZRYkRjYjhSUENMN2RCeUhRMXpuTjViSUlJTUVNQVg4Z1ltbnNaRzRKRjBMVmR0NjJfTVRRQXRPN3RFOGtYLWtUYlozbVdKeDhpUXV6bWFoemxGN2pZdDhNU1RCUlh5cXh5NFM2aDQ3QjNINW53UzZhaHlCNA?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTFBYmpfb21UM2h6SlBCR0xMTklIWGg4YVhxbG80YUozeWtvSTgxbERveTFyUlN4cTljY1pOWnlwV1dFakV3blNRM01XanRRSmlDSEJZTER6M01xV2s3S0xjRlpKTGVzYUttc1JwNjdMcVRKQ2FjcVNiM3IzQXE1YXRlN0V6c2tHQkxOVEtKM051S2vSAZMBQVVfeXFMTkUxQWJqX29tVDNoekpQQkdMTE5JSFhoOGFYcWxvNGFKM3lrb0k4MWxEb3kxclJTeHE5Y2NaTlp5cFdXRWpFd25TUTNNV2p0UUppQ0hCWUxEejNNcVdrN0tMY0ZaSkxlc2FLbXNScDY3THFUSkNhY3FTYjNyM0FxNWF0ZTdFenNrR0JMTlRLSjNOdUtr?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGE0WThWSDJTQzBzWFQtZVdwb1dxeFN2Y1dzV0E4XzhjcjJFRHhtQWp0RkFHejRVU0ZfLTZCZzZtMnJKYUxoVXhCQWJ2eVF5UWdTakFTY3RCVE54R0hYaVZYWnYwR0xkdG5KRWZmbGZnUkNxQm92dndDTzc1WWpqdTZMcXJjUUNjZE9NdTBnZXB6ZHdUX0o2d2pLSQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFkzVXJRY25WYUN0Z3RkdVVWMGtvUTRuVFlvalRtalFLQmZSV2hfaEpVcTZfVGptWXZuQ1Ezd2NoS2FHRWZ3eEdDZEpoQjhWMUU5NDNtVF9HT0NORGZOZ0pNamlOdWp5M2ppZUY2U05OcmFHNTZuMTlCaE1XZmhrRTc5ZHZiUXoydTRLOW9mQkt2N0Fxb1FQVDk5VDdoeHhZNVZUZGk4Y0FtNExMbks0QWNMTGZmem94T1owQ1gtLWpiNDB1eUo2N3FQdG5lNXBkY3p5T2FR?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDJHTFFtSlhjQ3ExQW1rYzZhb0NCNnY5ZnpwU0hPdExiMVNOaU1tWHdXMnlZdXVyazF3RDY0cU5Dc1JFZzd2eTZXaHlrQnRISGUybkI1R0ExeUlYSUhTemdxQm85SjZ6eWhnWHdPdGZ2ZG92OG9PdThOcDhGUG5LdUpLSmdkZUQzWTRlNmpHR1NDczBRaXVwVjFicnNyVXlWM2dCVW8tczBpRjltZ1pZcVVoMmwycmFQWm1CWjNQSVpFdHBzVTdOZlVDYXN2dmJ2Q1AxRVdaRzdseDU0WkhBTl9n0gHiAUFVX3lxTE94MkdMUW1KWGNDcTFBbWtjNmFvQ0I2djlmenBTSE90TGIxU05pTW1Yd1cyeVl1dXJrMXdENjRxTkNzUkVnN3Z5NldoeWtCdEhIZTJuQjVHQTF5SVhJSFN6Z3FCbzlKNnp5aGdYd090ZnZkb3Y4b091OE5wOEZQbkt1SktKZ2RlRDNZNGU2akdHU0NzMFFpdXBWMWJyc3JVeVYzZ0JVby1zMGlGOW1nWllxVWgybDJyYVBabUJaM1BJWkV0cHNVN05mVUNhc3Z2YnZDUDFFV1pHN2x4NTRaSEFOX2c?oc=5"
       ]
     },
     {
-      "title": "Scientists decode solar eruptions using Aditya-L1, Proba-3",
-      "score": 27.12,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSmFVYlRkdlVYLVdLMHQxSEV1S3pqeFotVDdhXzRUalctUDlSaWhseTA4di1NTU9qcU1lcy1saUt6Vm5iTEUyV2xXUUw1SWhrdWNGaHdrb3kyekplT01LMFlIQW5UbVhzQmhSZkh2eTlRdUljZnpNSFNPbzZPNmRKdnY3ejhKbzFqT2NjWktLUHFJSm1jeWFCMTFUMDRUVFd3UWpMYWNIa3pRa195emxadk8xSU5rTGVLbzdnTy1JQmFKWDNnTGNBdVFzUUwtZjlEeGNHajNOWGzSAdgBQVVfeXFMT0phVWJUZHZVWC1XSzB0MUhFdUt6anhaLVQ3YV80VGpXLVA5UmlobHkwOHYtTU1PanFNZXMtbGlLelZuYkxFMldsV1FMNUloa3VjRmh3a295MnpKZU9NSzBZSEFuVG1Yc0JoUmZIdnk5UXVJY2Z6TUhTT282TzZkSnZ2N3o4Sm8xak9jY1pLS1BxSUptY3lhQjExVDA0VFRXd1FqTGFjSGt6UWtfeXpsWnZPMUlOa0xlS283Z08tSUJhSlgzZ0xjQXVRc1FMLWY5RHhjR2ozTlhs?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOF9aMmxfWERDUGRvUVBhRUZtcHhVMC1mcG5rQzh1ZGlua1R6WlljSFlpdWpZcFBUQTZtQjY5MkYwT0JXU0NOZEFKSW9LcWdUNUtWd0FzVTl3T0x4dXZobDY0VXBnUW9UVnZONXhUZ0FqTTVjUHJfQzVIZ2xCVU5teU5YZlFQN21jMmhSejh5cldxZXoyLXk1ZkhCbV9qVDZkY3JBWXpaTU40bE1SeGd0Z1JQVG83WHR0YmdicnVoaHJ0Zk5hUEg3ckZZTlp0aFZoZUJoTmtqMNIB3AFBVV95cUxPc0Y4TGF5XzVtSmJqMndLZ0wta3hBajZBdVB5TE9PR0hMWG11ZW9fMjVkbFAxZXlYR1dTM1RiTWRqQ2VfWmR0QW1wZWlNSmNkdVJNeUU3NW12ckZmM0FncEtsMndJYXpyRGhiSzNxb3p3Y25ybS1SQUNLZkYtcnhSaTBqM1dhSmNmQTRSZk9PcUUtVkZobWdpSmk5QUpUTGtKQjZmVHZORHFwcUNkcUx2dWI5VVY3Q0I2RklLM0k3VTZGbmowU013M3ZPQWdTVmMtTmNoS2R4bnhybDBI?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zYV9Ea1BwQjZWUU56Umw4em5mckthRzNEZGdWNzFfdWdYSjBUWTV6VmhmNFFHTXNRM2ptVWt5ODZlWlJkSk1YWlZQUnRoUzFpRVl4WTIzcTFnWHNxcTY1SlRWWVZpQU1VeGozN2NsRkM2cnp2dkE?oc=5"
-      ]
-    },
-    {
-      "title": "iQOO Pad Pro is joining the iQOO Pad Ultra soon, here's what's different - GSMArena.com news",
-      "score": 20.7,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGF5R3JZbGpMUzJQVmUwOXRvVzBTVm5Bbms4TTVQNDMtakplZTNsTl9BRHZieWpfaVU1QnpCUS1MQThfclI3LXNXTjZfa2RmWFBJaWFqN2xwMmhVZWZKMHIyeG9zVGJrNllXOEtKVTl5Ti0xNEJsZHdQcjRVWDlPLU56SFQ0TTN6T3E3c2ZSRFZWRnl4RWh0T0tDNndtVzlnZVhlT2xGWWZSRUVaa1HSAaoBQVVfeXFMTUNGNC1RVmZqX3VNSWQ1aU1tdWE3anBOa2xTMXNmMW1zNTY3SEFBWnFiT20zR1lGZzA0dXIwOFFDUnhaUnFLSzV6aFJ1d1JWVy1RMVBucXYxTWMyUHhWRUVyUk1yb2VyLWtYVTBwTzVmWVZSa1hVYnZiUGFGc09nUzI2WERUT1dBOU5maEFDQWRuYVV5cEZWcTJfWXlINXRvTHBwX3BNZENEcVE?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGF5R3JZbGpMUzJQVmUwOXRvVzBTVm5Bbms4TTVQNDMtakplZTNsTl9BRHZieWpfaVU1QnpCUS1MQThfclI3LXNXTjZfa2RmWFBJaWFqN2xwMmhVZWZKMHIyeG9zVGJrNllXOEtKVTl5Ti0xNEJsZHdQcjRVWDlPLU56SFQ0TTN6T3E3c2ZSRFZWRnl4RWh0T0tDNndtVzlnZVhlT2xGWWZSRUVaa1HSAaoBQVVfeXFMTUNGNC1RVmZqX3VNSWQ1aU1tdWE3anBOa2xTMXNmMW1zNTY3SEFBWnFiT20zR1lGZzA0dXIwOFFDUnhaUnFLSzV6aFJ1d1JWVy1RMVBucXYxTWMyUHhWRUVyUk1yb2VyLWtYVTBwTzVmWVZSa1hVYnZiUGFGc09nUzI2WERUT1dBOU5maEFDQWRuYVV5cEZWcTJfWXlINXRvTHBwX3BNZENEcVE?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGF5R3JZbGpMUzJQVmUwOXRvVzBTVm5Bbms4TTVQNDMtakplZTNsTl9BRHZieWpfaVU1QnpCUS1MQThfclI3LXNXTjZfa2RmWFBJaWFqN2xwMmhVZWZKMHIyeG9zVGJrNllXOEtKVTl5Ti0xNEJsZHdQcjRVWDlPLU56SFQ0TTN6T3E3c2ZSRFZWRnl4RWh0T0tDNndtVzlnZVhlT2xGWWZSRUVaa1HSAaoBQVVfeXFMTUNGNC1RVmZqX3VNSWQ1aU1tdWE3anBOa2xTMXNmMW1zNTY3SEFBWnFiT20zR1lGZzA0dXIwOFFDUnhaUnFLSzV6aFJ1d1JWVy1RMVBucXYxTWMyUHhWRUVyUk1yb2VyLWtYVTBwTzVmWVZSa1hVYnZiUGFGc09nUzI2WERUT1dBOU5maEFDQWRuYVV5cEZWcTJfWXlINXRvTHBwX3BNZENEcVE?oc=5"
-      ]
-    },
-    {
-      "title": "FM27: 2D Match Engine, In-Game Editor and Deeper World Upgrades",
-      "score": 21.58,
+      "title": "CapGrid Raises $4.87 Million in Pre-Series B Funding",
+      "score": 19.77,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2hkYWh6cG9Kc21IdnZTZ25hbVd3aHZBRlp4Qm9WZE4yMzc2ZlJnaHQ2T1B0Vi1heExsRGd1SUlxWmswN2FqbDIxVURGVzNFNDRrbEdBY2VMc1Z5TlYtSlNIVkdwVWxTaEVVOVI1eE1LOS1QTmlRamJERy1vM2ttN0hUT0stYjRrMGY3QjlSa3RtWDdPSjJxOHM0UG5sV2h0aVFrdzFQTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2hkYWh6cG9Kc21IdnZTZ25hbVd3aHZBRlp4Qm9WZE4yMzc2ZlJnaHQ2T1B0Vi1heExsRGd1SUlxWmswN2FqbDIxVURGVzNFNDRrbEdBY2VMc1Z5TlYtSlNIVkdwVWxTaEVVOVI1eE1LOS1QTmlRamJERy1vM2ttN0hUT0stYjRrMGY3QjlSa3RtWDdPSjJxOHM0UG5sV2h0aVFrdzFQTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2hkYWh6cG9Kc21IdnZTZ25hbVd3aHZBRlp4Qm9WZE4yMzc2ZlJnaHQ2T1B0Vi1heExsRGd1SUlxWmswN2FqbDIxVURGVzNFNDRrbEdBY2VMc1Z5TlYtSlNIVkdwVWxTaEVVOVI1eE1LOS1QTmlRamJERy1vM2ttN0hUT0stYjRrMGY3QjlSa3RtWDdPSjJxOHM0UG5sV2h0aVFrdzFQTQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2JPUDRTbjRWdDJmdDBkZEFFZHBYQjJlWG81dWp4VGRXa0EyREFRVk01SDlPVU9ja0ZvQXVMNlFGU19Yc2JxUjhqUUtZSkZwbmZWQ3o0WUI5RVBOTEluT0YzTUJ5aWlDNVlYd1U3eWZDcWtZNzhJUUh1b3ZlTnZlTEp6SWdiZF9vUm9XTlNWZnVkWG9nNy10Z3k4bXpQc0F0LTh4VHBHN2pEM3pmZ2RxLWdSZnFBYUpWUEE?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYk1rUU1wSjROVmNValZzdjR4Z1gyNFp0VzdtSlNrM2ZTaHBXZUx6WEdvV0dqem9iSDhST3FEYy1oSV9DWFROQUxzellVcU5DVnZxd2YwaFVfZGM4OTJZUUtWWklVTWNPY0I0N0Y1TmFNcjFXaW1FYm9mMUJUVUNhTm4weXN2bGc0Ui1xWjhYU1pHWUd4M2V0WDBTM2ZjVzl2M096eVhJaGJUcEdqRWZNX0FBcHptbTFON0drOTdkbWZla09WR2dRU1FMdzV3elJiUkxzTQ?oc=5"
       ]
     }
   ]
