@@ -24,6 +24,10 @@
       {
         "date": "2026-10-15",
         "views": 1
+      },
+      {
+        "date": "2026-10-16",
+        "views": 1
       }
     ],
     "info": {
@@ -61,7 +65,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-10-evening-1400": {
     "history": [
@@ -87,6 +91,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 6
+      },
+      {
+        "date": "2026-10-16",
         "views": 6
       }
     ],
@@ -125,7 +133,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-10-evening-1501": {
     "history": [
@@ -152,6 +160,10 @@
       {
         "date": "2026-10-15",
         "views": 7
+      },
+      {
+        "date": "2026-10-16",
+        "views": 8
       }
     ],
     "info": {
@@ -171,7 +183,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -189,7 +201,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-10-evening-1918": {
     "history": [
@@ -216,6 +228,10 @@
       {
         "date": "2026-10-15",
         "views": 63
+      },
+      {
+        "date": "2026-10-16",
+        "views": 67
       }
     ],
     "info": {
@@ -235,7 +251,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 63,
+        "views": 67,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -253,7 +269,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-10-evening-2001": {
     "history": [
@@ -279,6 +295,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 5
+      },
+      {
+        "date": "2026-10-16",
         "views": 5
       }
     ],
@@ -317,7 +337,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-10-evening-2102": {
     "history": [
@@ -343,6 +363,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 126
+      },
+      {
+        "date": "2026-10-16",
         "views": 126
       }
     ],
@@ -381,7 +405,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-10-morning-1146": {
     "history": [
@@ -407,6 +431,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 55
+      },
+      {
+        "date": "2026-10-16",
         "views": 55
       }
     ],
@@ -445,7 +473,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-11-evening-2002": {
     "history": [
@@ -467,6 +495,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 79
+      },
+      {
+        "date": "2026-10-16",
         "views": 79
       }
     ],
@@ -497,7 +529,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-11-evening-2101": {
     "history": [
@@ -520,6 +552,10 @@
       {
         "date": "2026-10-15",
         "views": 3
+      },
+      {
+        "date": "2026-10-16",
+        "views": 5
       }
     ],
     "info": {
@@ -537,7 +573,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 3,
+        "views": 5,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -549,7 +585,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-11-morning-1146": {
     "history": [
@@ -571,6 +607,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 5
+      },
+      {
+        "date": "2026-10-16",
         "views": 5
       }
     ],
@@ -609,7 +649,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-12-evening-1333": {
     "history": [
@@ -627,6 +667,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 12
+      },
+      {
+        "date": "2026-10-16",
         "views": 12
       }
     ],
@@ -665,7 +709,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-12-evening-2001": {
     "history": [
@@ -684,6 +728,10 @@
       {
         "date": "2026-10-15",
         "views": 8
+      },
+      {
+        "date": "2026-10-16",
+        "views": 9
       }
     ],
     "info": {
@@ -703,7 +751,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -721,7 +769,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-13-evening-1231": {
     "history": [
@@ -736,6 +784,10 @@
       {
         "date": "2026-10-15",
         "views": 4
+      },
+      {
+        "date": "2026-10-16",
+        "views": 7
       }
     ],
     "info": {
@@ -755,7 +807,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 4,
+        "views": 7,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -773,7 +825,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-13-evening-2001": {
     "history": [
@@ -787,6 +839,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 33
+      },
+      {
+        "date": "2026-10-16",
         "views": 33
       }
     ],
@@ -825,7 +881,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-13-evening-2101": {
     "history": [
@@ -840,6 +896,10 @@
       {
         "date": "2026-10-15",
         "views": 20
+      },
+      {
+        "date": "2026-10-16",
+        "views": 26
       }
     ],
     "info": {
@@ -859,7 +919,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 20,
+        "views": 26,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -877,7 +937,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-14-evening-1801": {
     "history": [
@@ -887,6 +947,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 0
+      },
+      {
+        "date": "2026-10-16",
         "views": 0
       }
     ],
@@ -925,7 +989,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-14-morning-1046": {
     "history": [
@@ -935,6 +999,10 @@
       },
       {
         "date": "2026-10-15",
+        "views": 0
+      },
+      {
+        "date": "2026-10-16",
         "views": 0
       }
     ],
@@ -965,13 +1033,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-14-evening-2303": {
     "history": [
       {
         "date": "2026-10-15",
         "views": 3
+      },
+      {
+        "date": "2026-10-16",
+        "views": 4
       }
     ],
     "info": {
@@ -991,7 +1063,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1009,13 +1081,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-15-evening-1702": {
     "history": [
       {
         "date": "2026-10-15",
         "views": 16
+      },
+      {
+        "date": "2026-10-16",
+        "views": 21
       }
     ],
     "info": {
@@ -1035,7 +1111,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 16,
+        "views": 21,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1053,13 +1129,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   },
   "2026-10-15-evening-1801": {
     "history": [
       {
         "date": "2026-10-15",
         "views": 12
+      },
+      {
+        "date": "2026-10-16",
+        "views": 42
       }
     ],
     "info": {
@@ -1077,7 +1157,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 12,
+        "views": 42,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1089,6 +1169,86 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-15T20:02:50.089032+00:00"
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
+  },
+  "2026-10-16-evening-1701": {
+    "history": [
+      {
+        "date": "2026-10-16",
+        "views": 0
+      }
+    ],
+    "info": {
+      "title": "CERT-In AI Agents Accessing Indian Systems #Shorts",
+      "topic": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
+      "category": "Breaking AI News",
+      "hook": "CERT-In just issued a critical alert.",
+      "seconds": 53.0,
+      "primary_keyword": "CERT-In AI agents",
+      "qa_passed": false
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/D_IyqeGukY0",
+      "facebook": "https://www.facebook.com/reel/1412984417266778"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
+  },
+  "2026-10-16-evening-1801": {
+    "history": [
+      {
+        "date": "2026-10-16",
+        "views": 5
+      }
+    ],
+    "info": {
+      "title": "Android AI Scam Alerts Block Bank Impostors #Shorts",
+      "topic": "Android adds AI-powered scam alerts, hangs up on bank impostors",
+      "category": "New AI Features",
+      "hook": "Android will now hang up on bank scammers.",
+      "seconds": 45.3,
+      "primary_keyword": "android ai scam alerts",
+      "qa_passed": false,
+      "posted_at": "2026-10-16T15:31:19.260049+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/TWd-eRyO_wQ",
+      "instagram": "https://www.instagram.com/reel/Dej281rDX4S/",
+      "facebook": "https://www.facebook.com/reel/1877526643598870"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "instagram": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-16T19:42:38.794538+00:00"
   }
 }
