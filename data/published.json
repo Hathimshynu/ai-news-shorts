@@ -561,5 +561,16 @@
       "youtube": "D_IyqeGukY0"
     },
     "yt_scheduled_for": "2026-10-16T20:00:00+05:30"
+  },
+  "2026-10-16-evening-1801": {
+    "status": "approved",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/TWd-eRyO_wQ"
+    },
+    "approved_at": "2026-10-16T14:01:45.176807+00:00",
+    "ids": {
+      "youtube": "TWd-eRyO_wQ"
+    },
+    "yt_scheduled_for": "2026-10-16T21:00:00+05:30"
   }
 }
