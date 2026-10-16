@@ -1,64 +1,131 @@
 {
-  "job_id": "2026-10-16-evening-1701",
-  "chosen": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
-  "reason": "CERT-In's warning highlights urgent cybersecurity risks surrounding autonomous AI agents accessing sensitive enterprise data in India, giving viewers crucial context on AI security hazards.",
+  "job_id": "2026-10-16-evening-1801",
+  "chosen": "Android adds AI-powered scam alerts, hangs up on bank impostors",
+  "reason": "AI-powered scam detection directly on Android phones solves a major real-world problem for millions of smartphone users facing bank fraud in India.",
   "candidates": [
     {
-      "title": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
-      "score": 31.91,
+      "title": "Android adds AI-powered scam alerts, hangs up on bank impostors",
+      "score": 19.09,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3U4QU1kdldONm5LM1BxZXBSOC1kSjVNR1kzaFlaeGE3Wm1vVjZwMHFJSDBhSVRLVHl2YVVGX3diR1Ezd1JQc2pHMFVpVXpRVTB0VW90V1JRT0Q0SnA3RGcxZkxOT0xpVDdCaWhFY2VxVEhYM05abXZpWUZVR25fUmQwQjgtMUZvMDBmZTZsa09zVlVkZkJpb01oVG5MNXpvOHh3SDUzQjNTZktsRUZhNEJNN0pkTkRBYnV2VjlPSFRPbVBwak1nbHVB0gHPAUFVX3lxTE1rVDdlelVFVFVMdFQ3MUtrU0xobVVmaEVldjVMckFSMzRTaVpTcTNDTkpRNk9yUDVFOEkwd1hnYVV5eGJVTm12dmZYWk5nZWZuclVMLWxRX0Z4bjB0bWhTb0gxamgxT3N5REJWdEZKM2wtVkVEa1ZpblNMbHdpeEV3bHBFSUxaT0JBM1FOMTFidWZ2YlpOekRZam96TVhEZGNLME1QUFZnZVJPX1VWMkRxWndGd2VsOFM4dlNaVUxRS1Z3YUJWRmdUTTVhQk16QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMWk5UkNPYk5oUk85WGdQSVkydmgtX3Q5ODAtbURDNGYxNjJ2ckhoWTR5YTBFakRQbG9pRVE1LUVaSjRCSUZlU1BRc0lKbWdOUzhiT0lNMmhFWVZSWkU0QUxlaE93R0FDVlRnYklwdG9VampSd3RTWENDcDZ2b2N1MFhXMTUxUGoxUnVTU1E2alNnV3ZsZmdwLWJyblpFYUJQc3ZjWm1NODMtbWprc1UxcjMyeGJlUkdDRGpHX2Z5M3gtS3N5VU14dThlRkd1X19SUTAtLVJodFRib2IyTS1ZeThOWFg3bVdYYnBzNTRpbVI?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNGk5alJWRHdENjBFZ0thcFNtSEpWNE9nNE1UNFN2c0Y3QUxLVnFDRHpVNlJvMk1WWUhKczd6Z2R0THZOQTB6dHpKZGRHV2hDYVFBbW9wYWxZdERlTkRaZ09TVEtyR0htdVFpN19YNU1yQUZZU2M1eFdKQS0za1J0YnVGVjdra3BURlVtb3BIV2x6eFZ3OW0wNEJtaE56U3JMWWRDcDRaNXZweEJvQnZXLTU4bkFNeWFLSzR5ZExSUjA5S2tkUDFKWndpcUI4WGt5UFpGamltc2tUS1lwc2RGN1JLOU5MdVJ1X2NOR2tWOHUyMXRQalRiaUIwY0xSQdIBgwJBVV95cUxNZGRtaFloRVJBNkR1YWtYVklfOW5FYUVRTlB3Yl9ScjVPZThFcWtIcF9rdGNtcmhseXk2MjNCekROeTVIbWlnd2xDSEFSbXJIMHRfVXhHV2dZaGR6ZzhFOW53dGI4dVpzYmFqeEtURlljVHU3UGJweXcwakZXdFRBdXVpS0E0cGl1cmJNaEVtMkNnUkhMMFNSNENKMEN4cWFFQktYM3pwNUlSMzNWM04wMWQ0aEhaaUJxUjR0Ry1Kb3EyaHBraFBZcGplY1FLMHRhSVFzNGJWMUhMTGlTVEwyRHM5NnROMmJSVUp5UXRJSm1nWUtPVGdBcTRDaHFDWnh3VXhF?oc=5"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTBvZ2x3UWpfOS1mbUdrd3h4cDRpZXBHdFhVZG9fSnl6U1h4RS1MWFZGSkJWTHJvYUd2aENoQl9YRG42Q3NQWTI1LXg3dGhiZUx6QmxCSHZtQkY3Sm1ZX0ZybXpDVl9kQ2dyb2dlTE9HZkJ4WFhoWGlnU1FXRzBnM0ttZmhRaEwwU0VFZTBB?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTBvZ2x3UWpfOS1mbUdrd3h4cDRpZXBHdFhVZG9fSnl6U1h4RS1MWFZGSkJWTHJvYUd2aENoQl9YRG42Q3NQWTI1LXg3dGhiZUx6QmxCSHZtQkY3Sm1ZX0ZybXpDVl9kQ2dyb2dlTE9HZkJ4WFhoWGlnU1FXRzBnM0ttZmhRaEwwU0VFZTBB?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTBvZ2x3UWpfOS1mbUdrd3h4cDRpZXBHdFhVZG9fSnl6U1h4RS1MWFZGSkJWTHJvYUd2aENoQl9YRG42Q3NQWTI1LXg3dGhiZUx6QmxCSHZtQkY3Sm1ZX0ZybXpDVl9kQ2dyb2dlTE9HZkJ4WFhoWGlnU1FXRzBnM0ttZmhRaEwwU0VFZTBB?oc=5"
       ]
     },
     {
-      "title": "Indian Lab Sthanika's AI Model Takes Second Place on Jev Decision Index",
-      "score": 19.65,
+      "title": "ISRO successfully completes Crew Module-Service Module Separation Tests for Gaganyaan Programme",
+      "score": 19.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3VMR2Y2MHMwcE1FN0NFVm9WVVlTMW1EQUxNSWpoUF81MTZjM0hWSHE1bGlTVEZ0QXMzY2hJUXFMREdGWUhKT3BiRzRsb3NKcE5zM1VFdFZXdVVuRURVRm9XYlNZYzZKaFJmeTlzTzJNMXM5eGxiTC14X2J6OF9feXk2UlR2R0NEdWFmUzVSbnpEOXVGelRfT1lEUV9UaHhFV0s4WWFOV3lLRXk2MExab3BpeVRYaHAzMGNqRXZCUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclZ5UmJYVFozSlQydGZhQnY1VkpjaVdiOVI2N08zNzM0RDlCRmViOElKclJyR3JpUWszZlYtZ19tNWxXNjJEUUFVNlp6djlxY0Z2Q3ptNUxJekxnVnY1LVoyc01HTHpwWmVUUkNWY2stelJrOThhVHh4SGxCTEV0YldyUU4zVVZFbTRDNUdtWVJYc2UzZWNTMUcxSjBGdEVvSG5OcEp0ODhoRXduM1HSAbMBQVVfeXFMTUVNZzl6dnd0UWVmd2RFcUxycFZOMXFRZFdRQk1jdXZOZFpoTW5VNEUtdkRwaWR3dk5FcHdGVk5KUllfWHZlb0JxNG5BenZqeE5nQXZLZHU4Q1JJemxJT1YtYk55N3dVTEFpczgzUGt1XzNBdkhyZmFWLTUzR3c3QWpEMUNGZ1pLdjg1SVBXNkR3WWExQXYyQzJWWTZzazZQeEFrdWtJYVdVZkt2V3NPMWtneTg?oc=5"
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTlRKYUU1RkpfU3REbTIxQ3pMMDFhRV9aTFh6a19nZF94LUlSSXU2eXRVYWt0QVFqeV84TWdVcUlwWnMxQ1pISXNGS0ZQa202WGhGNzhIYlhDNVgzV2M5VFJrZHRoNmJzUUZ0YUdCVm4xMGNHOTN6aWxGd1c?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFd0eFRXa1AtczdrLTRxTy1FRjdzWkRRZUt4bnJUOWh2R19JY3ZKYy1BWWQ0c0RvckVqQzBJT2Q0ckNQVHhic2QxRkZpSmw1dHZwSXFLOWIyY2VtZXVBVWpnMHBBZGhZemdpMzBXOUwwY0pkSjZ5M19RNFFsSW1OX3FXT3Bac1J1dEwzajFQS1UtOHYyc1JMTEIwQ0kzQ1dYX0Nxb0hJeXVDX2JIY0FMU3JmeW0?oc=5"
+      ]
+    },
+    {
+      "title": "India's services exports fall in September after record year, AI weighs on growth - CNBC TV18",
+      "score": 19.75,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFE3NHEyN3hnZlFUaUtBNmNqWUVMbl8zanBMdGVpS2k2d3FmOXA3SFNGNWtHVVR0bEsxSTA3R1EzX0xhU1RlRkpRaV9PdXJ4S2dMcHB2NjhxTFhnd0ZxSjg5VmhjcFVZRWRjQmpuUmV3azV4ZGJDRWdJSExBbHJRTlNfblFKREFIdV9HWGt2SjBpNGVrRlRFRmlwWVU3blJRUS1jdU9kY0l4X2ltNjJlYm8zYXJ5S0E?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdllrNW5qaWhyeGxFOC1ZN0RocWJULXNJTzNaSkgwSGxyUXcybXJUQUJkbEdCd09hbF8xU3RZZDAyNGNzemR5ZTRXN083UUNSRDdrejVTMTdfdFJvNnJfd0hyTWI1bnZibGdnemVCUHBGemJYajBLMFVNY3Bodzdya0lBOWx1bndSUFlKdS1WSnZobktFNVZDY0prV2ZxSjhRb0M0ZnRKZVJTWlFqeXRIbUM4VU83RXNYaU1ieE530gHDAUFVX3lxTE1YRENuek5WYXVSVnVwazFqMExkWnZJVEZVSm9BRnRtQW1lTFhyUTdYbnI0RlRVSWoycHZYSHVRNnJEN0JYMk5VWDQ2SGtEVGlxZzJkNGxpUUpzeXJubkY0OVEwVFBWT05DeXR4WEttRmY0cThsemhZYVJ5Z3UwaW9LcFotSXpsdldJR215ajRDNFpjaUlRRUp4NXhtRHdSZVJnN2xqVnRfMUNvLUJWbHJxd05iUGlRQm11aWc1SDl4eVlCZw?oc=5"
       ]
     },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
-      "score": 21.39,
+      "score": 23.13,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
-        "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5"
       ]
     },
     {
-      "title": "Bureau Launches Silent Mobile Verification to Strengthen UPI Device Binding",
-      "score": 22.78,
+      "title": "CNN announces AI partnership with Google",
+      "score": 19.81,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX25aMXFTdW1yWUxNZWVfVW5vMzNTUEtvTXlmUkdJcXNPMFZGbDZwamw1TjNPaUxDRDQ4UWc0SVVxYWpySTNFYVNhQkMxazBvNnRYcTBSc0ZlWjJROWxFUHhIUV9lSEM1X0h6dnlfWGxfRjBzMXhJSlZka2x2N0xWbDRqMTgzVV90Z0c2VzVqLTRFOGFXNENhUFVWYWRDLUtuVzA4UGlfaDlVblRTaDBpeGJoMWJTNXhFTTA4?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVQ1dHZmWklmb3hlRWpGczFYTUFhc2d0SUJPc3Y5N3Yzb3ZQaUpVRlFsdGFOOHdrVEpyTWhFaUhHUWJ1dW5oR2NIbEh6QmN2dTFKWERlaTlKWGZSOFFBWGtYMjRaazllQThZdzVaZXUyRjBqTGt3TnRCRGZnX296a09Wc3B1STkyQzNMY3lBQ3Q3M0dFTngtX25yVVVTSGIxWWxGZHFhWFhWZDhOXy1OSkxR?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGNXT0ZhMVA1SVUtbFNubGVqSlNEVDE2M2luVllRaXk0VlNnWjZndG1KeU9vcjZHa3hvc3BVRXE2Wm9ZaVJuUUJqVm03MDJQY1dEOE9BeTFJb1doZWVHcS15Z3VoME84c0RVcnRQZ3gxT2lDeGcxeUR1VnpxTjNYODZvTGU5c0Fvc3hKTl9wb1d1bFNycVpJTEY5aDhXNHRXLWFQdFp6TFRDTlRTeVdLR3oza1RfNTZESF9vMDl0ZUljVHk5T05XTVdyb2pRc2phcjl30gHTAUFVX3lxTE5wY1dPRmExUDVJVS1sU25sZWpKU0RUMTYzaW5WWVFpeTRWU2daNmd0bUp5T29yNkdreG9zcFVFcTZab1lpUm5RQmpWbTcwMlBjV0Q4T0F5MUlvV2hlZUdxLXlndWgwTzhzRFVydFBneDFPaUN4ZzF5RHVWenFOM1g4Nm9MZTlzQW9zeEpOX3BvV3VsU3JxWklMRjloOFc0dFctYVB0WnpMVENOVFN5V0tHejNrVF81NkRIX28wOXRlSWNUeTlPTldNV3JvalFzamFyOXc?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUJ2VkwyTThXNm1sMl95U2hBam1WQlFEanlFVk5kZGFQbk9xNndqRzVsTURKMTBabjY4dG5iT2VMcC10T3Rya0VQVzZyZ2Zzak9QbnRDdFo4a3RfWE1oUlBFc1cxaFJaUVVBUWFUNlptcmJYcjhDODVlYUNzc3lNMg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFgxX0JGS3RNaVVya210ekxNUm8wbldKSzVVemhWcGZZWU9lQnFENTUwa21QWVJhZ0VXbVdJcFlQb2UxSHcyTjhvekNWbmFrRmgzc3Y2Nl9vaUxFQWZ3VFVTRGtQMVhwZGMzSFVTWWt5YVJjMVJoRU10TnUwei1SOXRnZUwtcEkwRXYwU0hiSUllYU5RU3BRX2c5RFI0Q1R0?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnBMVDFTR205akNqRXJZVUxwV096NThYNV9VNTNLRTBRUktPYXdOTjFIcG1hTUtNMVVmazFZSU5ZZGljUTQwS0tUamlXTkZIQUY3X3hvLTgtLWVXV3ZNRzJ3WUE0UXExRDhwRl9rem5CLThsTS1pemlXWUdYZ2d3aVktbkR5MjFNcElhMldsYXJ3M3kxS3BHeDNRM1BMbTFQZ0E?oc=5"
+      ]
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "score": 23.66,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5",
+        "https://openai.com/index/sullivan-cromwell",
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5"
+      ]
+    },
+    {
+      "title": "Oppo Find X10 Series Launching in India Next Week with Industry-First 200MP Cameras",
+      "score": 19.94,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVVlTmw2bDJvak5TSmJqbEhiRzJyUVpVR1dIN2piTEZXM2VmRGdkRVZfOTVXTFJMMXRSSEg4ME9EQm5HZExZVTMxNjdINnhJWlIxcmdqYVpTWXFxM2MzdW5reVRCbGllb0pnN1d1RmVYc04ta2R3Szg4anBBZW9CMA?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEJyNFJSOWlGNGo2VGxfVFFRVDJYdzVlQmdwcEpHcXpmQURtOW96ek9hQ21zYUszZzN0TlhlX2J6Wi1VRGQxWjFQc1lzZDYxNnFmVGVTUEhJLUFWdHFpaWNqWGtTLTRxS1ZQWW5CaUplMVV3dXJEN2FzbkdkSGtBTTJITnVlRFUzQjNBczJBS254TnZpSFN5UHpMN0FBc1BuT3pVSWdKUkZlMXY3MGUxNk5hLTdyMm8?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy F70 5G launching in India on 18th October",
+      "score": 27.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Sa0JUeVFEdWduNFFXcUZrREVMU2lqaEZPSzdENFkwY2ZDTWlNUzFQOXk3b0trTG1pek1Rc3lpcGhHbzJuWkU0eFp3ajZhWDJJdGxsbXdOcm5ILWFLSDc1aVZEUjlYV1dUSklVUlNTTFpZSWFkQWphdA?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVpRU1Exbi1WY2FOaHpJSWg3STlsYzJ0ZzBmUy1wTVZJSjYxSEdGRXdDQm84ZjVhMDhib0ZSUVhqMWt4YlBjbDRVU0dJNW1JR0s5WHFZTFlGaUNXN2hZcXB5UmpqN1lDT2xFNzRDYTdkZm9sT1hFZG9hX3Bvb1A0b1RFSm51a0hIaTZwVWNudHl5R3V4MkF4RmdmZVQ0RHJ2NndER0hXNk5fMFNfZk9mUUJ2ckdLVGx2ZGNHU1J3?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXpvQkZGOC1aaEYyN0d0RE5VNGp2VGVUTXFwcEg4MVJrMU5sUXpHcGM4TnNtakpZU0hrR1Z1czZ0MEg4b21IbUxXdFM0c0VyUE1CMkdkWWV6MURvaUNObXpzZDJPVXdiVkk1R3lHY014Ylk3LTVKekU5WE1hTTF4cnhlVFpIcHJFdmYyZ0NDN2pzbUVkYVJ2YnRCWkZSSk9GQmFyMnFLY1VaRTBPa1JRam5lcmstQk13WHc?oc=5"
+      ]
+    },
+    {
+      "title": "TECNO SPARK 50s 5G Launched in India Starting at ₹19,999",
+      "score": 27.42,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUpTeUxjclFYdkxjaHlMM0swTlZWVExfM3hqOXk5U0U0SkNXU0MxMHhrRVZRYkRjYjhSUENMN2RCeUhRMXpuTjViSUlJTUVNQVg4Z1ltbnNaRzRKRjBMVmR0NjJfTVRRQXRPN3RFOGtYLWtUYlozbVdKeDhpUXV6bWFoemxGN2pZdDhNU1RCUlh5cXh5NFM2aDQ3QjNINW53UzZhaHlCNA?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTFBYmpfb21UM2h6SlBCR0xMTklIWGg4YVhxbG80YUozeWtvSTgxbERveTFyUlN4cTljY1pOWnlwV1dFakV3blNRM01XanRRSmlDSEJZTER6M01xV2s3S0xjRlpKTGVzYUttc1JwNjdMcVRKQ2FjcVNiM3IzQXE1YXRlN0V6c2tHQkxOVEtKM051S2vSAZMBQVVfeXFMTkUxQWJqX29tVDNoekpQQkdMTE5JSFhoOGFYcWxvNGFKM3lrb0k4MWxEb3kxclJTeHE5Y2NaTlp5cFdXRWpFd25TUTNNV2p0UUppQ0hCWUxEejNNcVdrN0tMY0ZaSkxlc2FLbXNScDY3THFUSkNhY3FTYjNyM0FxNWF0ZTdFenNrR0JMTlRLSjNOdUtr?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGE0WThWSDJTQzBzWFQtZVdwb1dxeFN2Y1dzV0E4XzhjcjJFRHhtQWp0RkFHejRVU0ZfLTZCZzZtMnJKYUxoVXhCQWJ2eVF5UWdTakFTY3RCVE54R0hYaVZYWnYwR0xkdG5KRWZmbGZnUkNxQm92dndDTzc1WWpqdTZMcXJjUUNjZE9NdTBnZXB6ZHdUX0o2d2pLSQ?oc=5"
       ]
     },
     {
       "title": "Scientists decode solar eruptions using Aditya-L1, Proba-3",
-      "score": 25.37,
+      "score": 27.12,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -69,35 +136,10 @@
       ]
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "score": 19.39,
+      "title": "iQOO Pad Pro is joining the iQOO Pad Ultra soon, here's what's different - GSMArena.com news",
+      "score": 20.7,
       "kinds": [
         "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5"
-      ]
-    },
-    {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "score": 21.91,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5",
-        "https://openai.com/index/sullivan-cromwell"
-      ]
-    },
-    {
-      "title": "iQOO Pad Pro is joining the iQOO Pad Ultra soon, here's what's different - GSMArena.com news",
-      "score": 20.95,
-      "kinds": [
         "news"
       ],
       "primary": false,
@@ -108,48 +150,8 @@
       ]
     },
     {
-      "title": "Samsung reveals key Galaxy F70 5G specs and its launch date - GSMArena.com news",
-      "score": 24.69,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnl5UTItVmRvMTFRNkZ6VjdtdHF2X05kMFVHVE95QWxmNW5GSkJFWWdnNVR4bEFjc19xUDlkNTBNV0tUU0MyaUJUMTQ2NkpKZGVaN1hqLW1jNEc2anNfMFY1OTcxejdVZ2hFcUxlMWdERTFkczk0UEFPaTlvVnplcWg4MzlSMUZVcHBOalFUYXRfUXJhS21Dd2Rqa0taQ1lr0gGcAUFVX3lxTE9BUk9jRUhRVzJyeUp4dGRPcldNY1pWZWJmbmFuOFZfSFRUWGV4VTJnS2xNMEUxTEoyLUM5T3cxeUZaY05SRnIxY1VRZlFQX2lXOGVSQVJ4aGdLczlEMHJGcm90NnNMVlBwMEdxSExXS3plZlNrd05pcE14QVRmVmtkUmxCWi1nbkJUU2xTMUxMRmFNUThBcHIzSDhRYQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnl5UTItVmRvMTFRNkZ6VjdtdHF2X05kMFVHVE95QWxmNW5GSkJFWWdnNVR4bEFjc19xUDlkNTBNV0tUU0MyaUJUMTQ2NkpKZGVaN1hqLW1jNEc2anNfMFY1OTcxejdVZ2hFcUxlMWdERTFkczk0UEFPaTlvVnplcWg4MzlSMUZVcHBOalFUYXRfUXJhS21Dd2Rqa0taQ1lr0gGcAUFVX3lxTE9BUk9jRUhRVzJyeUp4dGRPcldNY1pWZWJmbmFuOFZfSFRUWGV4VTJnS2xNMEUxTEoyLUM5T3cxeUZaY05SRnIxY1VRZlFQX2lXOGVSQVJ4aGdLczlEMHJGcm90NnNMVlBwMEdxSExXS3plZlNrd05pcE14QVRmVmtkUmxCWi1nbkJUU2xTMUxMRmFNUThBcHIzSDhRYQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXZWQUhLWENrWFpVNDQyeDlIQlA2YkljaE1WZkpuZjlDdDJPakl3UHVwZi1ja2d4Y0kzRlp6ckMxNF85aVdiVk85T3Rpekk0MVMyYWNPa09mVk9zYmhkV0hxZ0pOaTFMZGlTRlRVSkNrekZMcm9IY0tjYU1mYTdqM0ZhSFBhSnp1UTljazJ6MElGS2FzZzQxVkEtaVFLQ25CMVdqNzV1Q3VZT09wUV94cFdrXzNDemFUUWN0Q2NZNHhQRzNta2E5aNIBzgFBVV95cUxNY0E4cE05TGliR0lPYnozZzRTejFTcnN2eXZVSG9UTjIzZ3BONHlqSXRCWVFidE1aVHd0RDhuT3hhbWRnUEVvUFE2Ynp3OURGRjBvSkROUk5FOUl5dHVQUUpheXVVRHBEUi1WTkU5VkFZa3dfVUIxSF9QbVhMR21qdDQ3dWxPZ3BMTC1PdjNkX0VocWtrVEpxdm4wU3NabmE5NDR6UWxURzZGY3B5RHMzNnlvSHhoajFQc01hUWc2bVJkMi10M0lYNV9VMnBGQQ?oc=5"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy F70 5G Launching in India on Oct 18: Specs, Price, and Features",
-      "score": 21.49,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVpRU1Exbi1WY2FOaHpJSWg3STlsYzJ0ZzBmUy1wTVZJSjYxSEdGRXdDQm84ZjVhMDhib0ZSUVhqMWt4YlBjbDRVU0dJNW1JR0s5WHFZTFlGaUNXN2hZcXB5UmpqN1lDT2xFNzRDYTdkZm9sT1hFZG9hX3Bvb1A0b1RFSm51a0hIaTZwVWNudHl5R3V4MkF4RmdmZVQ0RHJ2NndER0hXNk5fMFNfZk9mUUJ2ckdLVGx2ZGNHU1J3?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Sa0JUeVFEdWduNFFXcUZrREVMU2lqaEZPSzdENFkwY2ZDTWlNUzFQOXk3b0trTG1pek1Rc3lpcGhHbzJuWkU0eFp3ajZhWDJJdGxsbXdOcm5ILWFLSDc1aVZEUjlYV1dUSklVUlNTTFpZSWFkQWphdA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWlrOHl6MjZ5LWJVMmY0aUt1STRoaDViLWZxT2lsUDk5ZnRJdVZ1WmZUWFdzejFfSHdackFhc3BtV0JPQ2hpcm53dUxYUUI0TDdLRENlOEpjUjNhUGxueTFwX191RFpDSVR6Y1VfMTdtREZ4cUg4cFVJNXNfX2I3TUxpd3ltWkNYWWlNcWhUNDZMNjNzU2x0S0hLSzVQbmZ3UlNkMVlOUTZTdw?oc=5"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy F70 5G India Launch Confirmed: Tipped to Starts From Under Rs 20,000",
-      "score": 20.78,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODRKOE9hTy1rbWhvWWdhd3M2X0E0dDBOTkVIdlI2REhwekFZaDZPOE54cjZ5RmJfNmJlQWFKVDE2OGhWUE5YQm9FLWc3dTlkR056SHlrVmZhM3pGZU1BdmUwcWN4cFNfbnhEeHFkcC16RkFLMDFjYS1iUmc1SUVOc2Z2Q0lZQ1hyX0IzWWlDX19kX0tmYzRFY2Y5MFZPNU44THRtWHBRMUdhZlJUeFBrTE5zVVRVVkFOZzJ6YVBDLURvQXM?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXpvQkZGOC1aaEYyN0d0RE5VNGp2VGVUTXFwcEg4MVJrMU5sUXpHcGM4TnNtakpZU0hrR1Z1czZ0MEg4b21IbUxXdFM0c0VyUE1CMkdkWWV6MURvaUNObXpzZDJPVXdiVkk1R3lHY014Ylk3LTVKekU5WE1hTTF4cnhlVFpIcHJFdmYyZ0NDN2pzbUVkYVJ2YnRCWkZSSk9GQmFyMnFLY1VaRTBPa1JRam5lcmstQk13WHc?oc=5",
-        "https://news.google.com/rss/articles/CBMijwJBVV95cUxPN3laLXhKcGc5amhENHpKR2FkdV9LYnJuSUhxeHNvVF9wdUNTQUU3U1Eza1JjbGUzMjJxUlpSV2NUSkptWlQwc2NhOGFvSWhiR2NlbWFGY19UOTk2TnhUb256cWx2S1dkWndkX3JIcHc0MXJxVWZfWEdQcGx3WVJWNmtnSWM0WTNFV2pUTXpXcjFkVlk2WWt1M054Ym1qU1dlQkxsczZ0R0FuX04wanlYOFZRNWdueDFhcjNuOE9JWGZUeVdwTHQ3QXJxeW5rbWJfR0JqaU5NU3VzYTZ0VUo4RzFObkI5MktxMUdIbDdXSDFxTlZBaGJ2dkcwN1lnWVg2bmpuMWZ3cGIwdWx1YWRr?oc=5"
-      ]
-    },
-    {
       "title": "FM27: 2D Match Engine, In-Game Editor and Deeper World Upgrades",
-      "score": 21.83,
+      "score": 21.58,
       "kinds": [
         "news"
       ],
