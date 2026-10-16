@@ -552,7 +552,7 @@
     "late_offer": true
   },
   "2026-10-16-evening-1701": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/D_IyqeGukY0",
       "facebook": "https://www.facebook.com/reel/1412984417266778"
@@ -563,8 +563,8 @@
       "facebook": "1412984417266778"
     },
     "yt_scheduled_for": "2026-10-16T20:00:00+05:30",
-    "attempts": 2,
-    "last_try": "2026-10-16T14:40:09.867675+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-16T14:50:12.653211+00:00",
     "info": {
       "title": "CERT-In AI Agents Accessing Indian Systems #Shorts",
       "topic": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
