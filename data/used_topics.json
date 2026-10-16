@@ -128,5 +128,10 @@
     "title": "Bringing GPT-Rosalind to academic research labs",
     "category": "AI Tools You Should Know",
     "date": "2026-10-16"
+  },
+  {
+    "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "category": "AI Automation Tutorials",
+    "date": "2026-10-16"
   }
 ]
