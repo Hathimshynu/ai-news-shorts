@@ -551,6 +551,11 @@
     "platforms": {},
     "late_offer": true
   },
+  "2026-10-15-evening-2248": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
   "2026-10-16-evening-1701": {
     "status": "published",
     "platforms": {
@@ -601,5 +606,10 @@
       "qa_passed": false,
       "posted_at": "2026-10-16T15:31:19.260049+00:00"
     }
+  },
+  "2026-10-16-evening-2057": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
