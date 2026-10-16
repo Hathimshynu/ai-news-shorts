@@ -552,15 +552,29 @@
     "late_offer": true
   },
   "2026-10-16-evening-1701": {
-    "status": "approved",
+    "status": "posting",
     "platforms": {
-      "youtube": "https://youtube.com/shorts/D_IyqeGukY0"
+      "youtube": "https://youtube.com/shorts/D_IyqeGukY0",
+      "facebook": "https://www.facebook.com/reel/1412984417266778"
     },
     "approved_at": "2026-10-16T14:01:33.002956+00:00",
     "ids": {
-      "youtube": "D_IyqeGukY0"
+      "youtube": "D_IyqeGukY0",
+      "facebook": "1412984417266778"
     },
-    "yt_scheduled_for": "2026-10-16T20:00:00+05:30"
+    "yt_scheduled_for": "2026-10-16T20:00:00+05:30",
+    "attempts": 1,
+    "last_try": "2026-10-16T14:30:03.144077+00:00",
+    "info": {
+      "title": "CERT-In AI Agents Accessing Indian Systems #Shorts",
+      "topic": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
+      "category": "Breaking AI News",
+      "hook": "CERT-In just issued a critical alert.",
+      "seconds": 53.0,
+      "primary_keyword": "CERT-In AI agents",
+      "qa_passed": false,
+      "posted_at": "2026-10-16T14:31:13.014601+00:00"
+    }
   },
   "2026-10-16-evening-1801": {
     "status": "approved",
