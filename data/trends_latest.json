@@ -1,40 +1,11 @@
 {
-  "job_id": "2026-10-17-evening-1950",
-  "chosen": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-  "reason": "It showcases how developer infrastructure is adapting to autonomous AI agents, offering practical value for builders and engineers exploring agentic workflows.",
+  "job_id": "2026-10-17-evening-2123",
+  "chosen": "Claude reveals ECDSA curve origins",
+  "reason": "Claude's surprising analysis uncovering the mystery behind standard cryptographic curve constants demonstrates the unprecedented problem-solving depth of cutting-edge AI models.",
   "candidates": [
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "score": 22.06,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
-        "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5"
-      ]
-    },
-    {
-      "title": "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
-      "score": 22.59,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkFyUXc5Qk00Zmh3ekw1MGk4QVE5TFJkcko3cTZFZldBM3hBaGJ6UG1JcWlzNExvNUE5ZXNxelp5bHF5SU9XeXhsRFJ0bGhuWHNGZ0doaG1lYnNOcUNXY3FGeVhXYXRjdEViT3RnVmJva0xPTFgxdGxta19Lend3WndHY0h0X1ZWbUtaY29iczZUVTVydFVJa1VGLUU4cVlEU1HSAacBQVVfeXFMTlRrZERGVmRackMyM01HWUl1aXdKcFQ0RG9aOHN5NEFhMEkzMXlDNjNOTGJBc0gydzFnRTNOYVp4aGFxZWNKa01LVWotMllycFJ0SG5PeHJTZkRPV0FNLVZxUDNxaDFTMXRKekl4dlNnMTBzWVhIRlF5eExMNU8wdW9CdEd1YWhwYVdvTkNQSVlPZVZySVV6MXQtRjBKdGZXcThWWWVzRDA?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5"
-      ]
-    },
-    {
       "title": "Claude reveals ECDSA curve origins",
-      "score": 20.15,
+      "score": 19.76,
       "kinds": [
         "backlog",
         "community"
@@ -43,6 +14,46 @@
       "links": [
         "https://www.anthropic.com/research/ecdsa-curve-origins",
         "https://www.anthropic.com/research/ecdsa-curve-origins"
+      ]
+    },
+    {
+      "title": "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
+      "score": 20.21,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkFyUXc5Qk00Zmh3ekw1MGk4QVE5TFJkcko3cTZFZldBM3hBaGJ6UG1JcWlzNExvNUE5ZXNxelp5bHF5SU9XeXhsRFJ0bGhuWHNGZ0doaG1lYnNOcUNXY3FGeVhXYXRjdEViT3RnVmJva0xPTFgxdGxta19Lend3WndHY0h0X1ZWbUtaY29iczZUVTVydFVJa1VGLUU4cVlEU1HSAacBQVVfeXFMTlRrZERGVmRackMyM01HWUl1aXdKcFQ0RG9aOHN5NEFhMEkzMXlDNjNOTGJBc0gydzFnRTNOYVp4aGFxZWNKa01LVWotMllycFJ0SG5PeHJTZkRPV0FNLVZxUDNxaDFTMXRKekl4dlNnMTBzWVhIRlF5eExMNU8wdW9CdEd1YWhwYVdvTkNQSVlPZVZySVV6MXQtRjBKdGZXcThWWWVzRDA?oc=5"
+      ]
+    },
+    {
+      "title": "feder-cr/git-ai: Git designed for AI agents.",
+      "score": 18.0,
+      "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/feder-cr/git-ai"
+      ]
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "score": 22.47,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+        "https://openai.com/index/itau-generative-ai",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5"
       ]
     },
     {
@@ -58,23 +69,8 @@
       ]
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "score": 22.86,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
-        "https://openai.com/index/itau-generative-ai",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5"
-      ]
-    },
-    {
       "title": "Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim",
-      "score": 19.41,
+      "score": 21.03,
       "kinds": [
         "backlog",
         "news"
@@ -88,7 +84,7 @@
     },
     {
       "title": "vivo V80 goes global - GSMArena.com news",
-      "score": 22.06,
+      "score": 21.68,
       "kinds": [
         "backlog",
         "news"
@@ -96,38 +92,39 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcVYyWWtKZjVTcS1SWWRnZENyMEFYVjhNZjdpNzVVV0dfSjZxTW05RnVrZDFEQUNDQ3o3Y0lYSS04b1pkMnNMNTZuNjdtTTlLd21Gb3N6U2NpaTFEekQ3N3BLbzg3UFNTQ2sxQdIBaEFVX3lxTE00WHZNQUJhU3BxUThmSzdnVTlmUWtVc3kwSHhpLW5FSmZGVVVNZV9sTjNXZGNWX3pvT1RSNWZWUHhnWnNYMTJoT205TEZKeE1zTFA2N1l0Sk5qZW5qd2JTNXo5MWQzMU5T?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcVYyWWtKZjVTcS1SWWRnZENyMEFYVjhNZjdpNzVVV0dfSjZxTW05RnVrZDFEQUNDQ3o3Y0lYSS04b1pkMnNMNTZuNjdtTTlLd21Gb3N6U2NpaTFEekQ3N3BLbzg3UFNTQ2sxQdIBaEFVX3lxTE00WHZNQUJhU3BxUThmSzdnVTlmUWtVc3kwSHhpLW5FSmZGVVVNZV9sTjNXZGNWX3pvT1RSNWZWUHhnWnNYMTJoT205TEZKeE1zTFA2N1l0Sk5qZW5qd2JTNXo5MWQzMU5T?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxORkJTellPZG4yWS1BX2t3T2hZbUdYWXkwNTFtemc3WFpWaE0wSHVpUXY1Qy1HR0ZyLVVobWtoWGM2VU94TnhhRk1wSE9wTFExOWFsSFpReEtJNUxsT0RGWEdGSGsyV0J2cldhdzQyTmlLYURHTkRLTG9rNldBX0hoV0sxWGU0SE01akxpSkRwRDNWTnlxOWtLTGhsMEtEUdIBmgFBVV95cUxOekpWeDRmSXBXRGtQSUwzMnBPYXgzRk40dFE4Xy16Tl9Xc0VfMzNjaE83N013TzRMWFJ4a041OU55b0VLWU5GVklCWjBwZ0xaOHFjRVNvWG9GVnhhSHZWUFVzQnVOdmZjNDdFY1JTV0lpMEtiYjAtd09Ccy1LUWtaQWpnbnM4MzZRakFyYzA2emtjdkVoWVhJU3p3?oc=5"
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxORkJTellPZG4yWS1BX2t3T2hZbUdYWXkwNTFtemc3WFpWaE0wSHVpUXY1Qy1HR0ZyLVVobWtoWGM2VU94TnhhRk1wSE9wTFExOWFsSFpReEtJNUxsT0RGWEdGSGsyV0J2cldhdzQyTmlLYURHTkRLTG9rNldBX0hoV0sxWGU0SE01akxpSkRwRDNWTnlxOWtLTGhsMEtEUdIBmgFBVV95cUxOekpWeDRmSXBXRGtQSUwzMnBPYXgzRk40dFE4Xy16Tl9Xc0VfMzNjaE83N013TzRMWFJ4a041OU55b0VLWU5GVklCWjBwZ0xaOHFjRVNvWG9GVnhhSHZWUFVzQnVOdmZjNDdFY1JTV0lpMEtiYjAtd09Ccy1LUWtaQWpnbnM4MzZRakFyYzA2emtjdkVoWVhJU3p3?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcVYyWWtKZjVTcS1SWWRnZENyMEFYVjhNZjdpNzVVV0dfSjZxTW05RnVrZDFEQUNDQ3o3Y0lYSS04b1pkMnNMNTZuNjdtTTlLd21Gb3N6U2NpaTFEekQ3N3BLbzg3UFNTQ2sxQdIBaEFVX3lxTE00WHZNQUJhU3BxUThmSzdnVTlmUWtVc3kwSHhpLW5FSmZGVVVNZV9sTjNXZGNWX3pvT1RSNWZWUHhnWnNYMTJoT205TEZKeE1zTFA2N1l0Sk5qZW5qd2JTNXo5MWQzMU5T?oc=5"
       ]
     },
     {
       "title": "OPPO Find X10, Find X10 Pro Max India Prices Leaked; Pad Mini, Enco X4 Prices Revealed",
-      "score": 19.85,
+      "score": 21.47,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkhQZTQyV3k4a3hjTnpJRklHSTZFZ01mNzBUY2VLOGZRQ0VhTVkwX1hRR2RSa1dtQ1RwRGd1dlFQbzBkVjNTalhacGQ0X1A0bmNRT2l0Wm5YWGdpUmJ0UThwZEJKOVNKMENaZk00TXBudGFiQVk0UGJYUC1QX1RoYXMxdWN2bFozbWdhTHVianZqU2MtdHFHZ2R5dE13MU5CS3hMWFhTbk04OE9RZllnbjRZTHk?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDEtbmJYWTRob3lKbEIwS0FNaTFTZVYxNGctOHUwUURSY1NKTVF4UjNLRlhGaTBBN1N0WjM2bTFDOUkwbE1DR1lwQjJJbzdUMk02d3hwanVPdWJWZXFJX2JZWFRmTzFRRDR4LUZXcUtiVU5EWmZsbUNEQ241M0J4R0ZfZW9zelQ1QVYzYTREOFBQTjQ?oc=5"
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDEtbmJYWTRob3lKbEIwS0FNaTFTZVYxNGctOHUwUURSY1NKTVF4UjNLRlhGaTBBN1N0WjM2bTFDOUkwbE1DR1lwQjJJbzdUMk02d3hwanVPdWJWZXFJX2JZWFRmTzFRRDR4LUZXcUtiVU5EWmZsbUNEQ241M0J4R0ZfZW9zelQ1QVYzYTREOFBQTjQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkhQZTQyV3k4a3hjTnpJRklHSTZFZ01mNzBUY2VLOGZRQ0VhTVkwX1hRR2RSa1dtQ1RwRGd1dlFQbzBkVjNTalhacGQ0X1A0bmNRT2l0Wm5YWGdpUmJ0UThwZEJKOVNKMENaZk00TXBudGFiQVk0UGJYUC1QX1RoYXMxdWN2bFozbWdhTHVianZqU2MtdHFHZ2R5dE13MU5CS3hMWFhTbk04OE9RZllnbjRZTHk?oc=5"
       ]
     },
     {
-      "title": "The Galaxy S27 Ultra runs into issues with the Snapdragon 8 EE Gen 6, Exynos 2700 may return - GSMArena.com news",
-      "score": 18.27,
+      "title": "Upcoming Phones Launching in India This Week: OPPO Find X10 Series, Samsung Galaxy F70 5G Is this conversation helpful so far?",
+      "score": 19.62,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHJ2MF9Bd3phNkF3TC03Wm9qaEhwTl9jMGlGaUxHT2xpUUVtX2lpZWpnYm5BVjVLX1VTNHJPc3JxSW5Ma2hiMUhIeFItVU1zWmgxM2I3cy0yeUtjczY1c21RdEt1OGlxZVFMTmlOMF9wOF9HaDNpWG5xZ0otcl95YXNNYkg2dHQ2UGdEcXhVbmhWWURyQXgzOGJtTnJma3ZyeUlHdzdUbWhvY2ltZDctZDN0bi12MzVOZktfNU9fd25DbVNseG5ZQ2Y1TdIBxwFBVV95cUxOOTRLSXBuT1RBYl91aXVMNklWMEFZRENIM2lLeUlDTTZySHpjQm5SQ3l5VUJVaDIyNllOazRQcURFMWV3Y1gxcXItcXpNek9id1U4V1Z0VkpOdzdnV2dXYVliSzlhSnNRa3pJZl9TT05GSkdMZVhneU1EUThtVGF1RjNLenFCR3FBay1xRzhIRUYwUnJzLV92bTdwWkNrUUVDeXlIREhIQzU0Q2xrcUx0MGlVS2twd0dMMTd3b3hRX0JrZGxKRG9N?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHJ2MF9Bd3phNkF3TC03Wm9qaEhwTl9jMGlGaUxHT2xpUUVtX2lpZWpnYm5BVjVLX1VTNHJPc3JxSW5Ma2hiMUhIeFItVU1zWmgxM2I3cy0yeUtjczY1c21RdEt1OGlxZVFMTmlOMF9wOF9HaDNpWG5xZ0otcl95YXNNYkg2dHQ2UGdEcXhVbmhWWURyQXgzOGJtTnJma3ZyeUlHdzdUbWhvY2ltZDctZDN0bi12MzVOZktfNU9fd25DbVNseG5ZQ2Y1TdIBxwFBVV95cUxOOTRLSXBuT1RBYl91aXVMNklWMEFZRENIM2lLeUlDTTZySHpjQm5SQ3l5VUJVaDIyNllOazRQcURFMWV3Y1gxcXItcXpNek9id1U4V1Z0VkpOdzdnV2dXYVliSzlhSnNRa3pJZl9TT05GSkdMZVhneU1EUThtVGF1RjNLenFCR3FBay1xRzhIRUYwUnJzLV92bTdwWkNrUUVDeXlIREhIQzU0Q2xrcUx0MGlVS2twd0dMMTd3b3hRX0JrZGxKRG9N?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWNxbzJuQlZBazNSdmVxdlVnWlNreDlDbWE5bFF4MVJNeGQ3eGdMUEtSNzY0U1M2NHFjZi1qMGF2R2ItQWZjRk5zLVFYcVM2bEthZ1laazBkTkpteG9yLVFCZ0VLWDBxR09MSk1LU3lhdzdvajNac3htVXJOSll1Z241OWVQTXFOTmI2VEwxaFVwMER6eXVoWEQteVIyOXcycEUwaW84S3M?oc=5"
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRDhuZ2VUZW9LZWZ5MmxlZ0dFakYzLUlSbW52OFoyTU1IWTd0MjBJUndLUkpyNEMzZ0ZvQUlBOVV6Y1ppS2VsMDJSZ29UOHZDLUVodnlqY3JmdGsxNU9xX1F3Vk82QWh6MWZheHB3bEIwQU1UeWxUNXVxMHhzRktUMnVEbVpPZ0VhMUNyOXRlbEw3MnhQNnVDTFEybGFxbGtYNG56bWxpXzVSV0FFWFgzTjhON0haZWowZ0tjZEpkY3EzbGk3dTBBOURjSE5IVWtWS1dDNDVjc0RjOFpIVVh2OXhNN1hjUFN0VFE?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzFsaTRwSFhHWTR1NGVybUUtY0dzVjZHMGxxMnRCM2xxWjJsaU95TEhjTE50MkNZN1Znd2RSWV9Kby1kN3RnLVVsNjR3YlhtQS1nZ3JYLUItOEVVbzBTV2R0MFBlVDEyM0NzUVRYVjB4OHN5aXd3WFEtN09RVDhTX0NvU0I1WHBIQW5sQ2JUWExRdmZqM2FHb3hmdVDSAaMBQVVfeXFMTTRLX0ZUWWxVRmJNMnBialFZUVVuRHVoWVNpb0RIbUkxTGptWi1HekpqRW1pV2daQzBEMGtZdnowc3dueXZOUVFqOWZVdE5Xb2tFRWRyeWF4QlAwUUdlWmpQNGZYckViVU1QYVhzSE9LeHVTejJvazByS3NfaTBnSHdhNzcyNW9yOUIxM3pyUUlLUVFQajNkak5LWVZIOE43YXRMZw?oc=5"
       ]
     },
     {
       "title": "Sapphire International School students explore India’s space missions at ISRO",
-      "score": 19.01,
+      "score": 18.62,
       "kinds": [
         "news"
       ],
@@ -138,21 +135,21 @@
       ]
     },
     {
-      "title": "Air India and AI Express cancel Saudi Arabia flights till Oct. 24",
-      "score": 25.44,
+      "title": "Air India, AI Express extend Saudi flight cancellations until October 24",
+      "score": 23.05,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEhYbldJX1JpazJsOTllYThLNVVLSDNleThXNkdmX2wwV092dWhvSVp5NVc5LUlOanlHMWQ3MURlckNWMUJMZjlrdkIwMVhwT1V2Y3NyTGtlTFVUWUZyQ1dabUpEN2dmN05PVlloT3NxNVVhWFVNLU0yM3YwdHRpTjhLUTl4RFRrdFFGQThnYW5yN3E3a3hfQjVaeHJ1amVsV3ZSU0RBc2lGMDlySVBUYkxZTE50YzRyeXVHMWVtWDDSAccBQVVfeXFMT1dxek9nOFo5RFh6SUJRUl91YTBXLWZjVkdZbDh6SUU1VXR1WTFYUVgyMGNqTW9uVGZ4M2NQaDlpbGhNcGVscElHTGtYVm1iWExDeWptbUl3b2lacVN2VFVXbE5yaDBRNXRHSHM1OE11NjVPM0lCcVhldTBqX1hfa3RtcEtZMWFmLThYR2dJeGE5YzYwM05VbVFuSXVOeHp2S0FhbHVWYm95VDVWWkQ0MUtIbXZDeklQZzlGcllMc3pBdG1nTHZuTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzBsVmVGUmR3bTAwWHJnai1NME9vUGY4SzZhUzMyRlhrREZfZTdQN2RiX2hlRXAyeG9oOU00ZENOdnNQem9od2RPVENON05SZWxsbnJoN1hMeHNfTklyYWhOZWRybUVXcDdpQ0dqZzljaTBhaml3cGg2Vjc2UFd1TkhhTFRzc3I4VjNOekJtTTV6ZEVBMDN2bUZvUUdpZnJJaUhKRE5sNHo4MUFpTWk0Y0wwekVOQ3ZSLUduX9IBwgFBVV95cUxObmt1c1hjaHRMa1hJbWtaRXFSRFE4VXBURU54WWtjcEhMVmNzeE1XSFNUWS1XQUE5aVNRMlBIT0FCZVBHNWVhTlJEclBtdlE2QVRVWG5wYmhkaWZsdnM1TzJ2ZVRNZHFacDNvYXFLaDlSLWdGUXFXMFFseUlPVElwRHlYM2VvU25ZVWFqdHJ4LWhXVVBaQVVaY2hjTWR2VHNwSjg1MEUxVGJVMHRRUUJUMWNHMzJob3c2QXZPQmtrTFp4dw?oc=5",
         "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMkE3Zk5BTzA1YUtZMEZxS3Jqal9meHU0dWxCWnFiNmQ2WnFIdmlFemxPSzlubHRrNGtBZERZNzZEZG93a0VQWVhGa1hyQ1N0VXgtTDRhMHRXWXNGb0lacDhaMHpRaDhqVUZzOTVxemhQcUd4WnczTmp1OFZLT0JxVk1pMWZBSVFybVVHWlExWWZyYUdOY2Z5U3ZNRWxnOF9NN2ZqTFphSHJ3MGVzRVBFRGdSdjVaOEo4QklDXzNLSlVmM1BfOTl0WE92SnBianRh0gHYAUFVX3lxTE9STDBEVzVUQjR3YUlnNnBxSmVpTG9RQnlwdDViRDg3Nm5RYkVXNGpnc0NocnQ3UWZJTmhYdF9GSmJkOEg3eDRrTllKaC03WWhyZ29IcGpIbkZHUng3WkpZWlc3S2VocFdwdzlwekRpc25oOS11SWp6bXRRUXZVRTdveXlGTExJOHZsSnluZHpXLVFMajdvZzh1SEdYS2FTMTBENEhuS3FKbDI5ZXVJRlpJc2d1VDF2cUJZdUZxTWNhYTVacXJEZTlvb05yNFNGRGNjVlV1X253bw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSFhiVTRSREZKb01Sb2h3RWtSelI2eXkzNjE1M3ZxamgzLUdIUGw2Rm9HNE1SNGpGSVJoTEZBbzhhRE9CQU9yZTlTc0owdlFENlE4UUlLQ0VIam50ZG5GT0dsdHRWOFVZMC1rbFBvSFpBNlltSzNlS0E4bG9EMDY5M0ZxNnY3WW5vVk40SEo2WHRPSWVGLTQ5MmJkSkJMcWJTVmxKeUtWYm45N03SAbgBQVVfeXFMUGlaQzVBemtMbDk0S0ZRYlFIWnBGeTVLZVU3Rmxwc3o2U05WMGJYUTJpOTExUWlWSEJabzViS00yZ2ZBNkczRU1zV0Rla2Fzb2hHdWVyWExESG5pZS16VHpHNjVyaFkwZUg5WWZTcXZNc3ZaalphWFFWempGbXJFNXlUelYzeWgyNGxiLV8tN2k0QmM5bFB1TzdMTkFUcXc4aE9NVEhHZEdsLV82bEtzQmhLbHFJQW9ZeA?oc=5"
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLWZuck9jLXFpTjZRVG56TE42OHpqZ3A3MUhTVXhBS19MbDI3OUJvQjNJYVptaUhtcHktdTV4Z04zMTZhWlE1YzNBaklsSHByaHVjamwzZm9HNDgzaVlLVDJ3blQya01rRjlhc3hPYWZqdUQ4TlhCOXRLanVKSG5XblA3Uy0xb1d1WTEzSE9EM2RaRnRpZGhOS01CNEIwSDcyd3c0WFl1N1ptdERMQzlNVERnVS1GbV8weTlma1BETFg1QWRIckpPT0NvY0V6ZEljMEYxVDl3bDg2X1VHNjhIMW1WYjNtS1FZcGt1eTZNMnlfTmpVMXhFWXJpUWZHVkJtTGh2QdIB_gFBVV95cUxNcDhLQ1FEeWU3c3pIaUdfZ2c2QzdqZTJkcGE1cjhFT25EV2dKcDRubm55UWlQUldqQVpfRjNyS1E1VkxIVk5sSHY1UXZnM1paM1BmdEtCcWJraUFjQVRMbDVZLUxyUzNpVUVXODNNZ0NFZmxlbGd1UmtzSC1ZQm4zUjNBNUdWWk9IaDZfWUNnSXVoZUVBWmI1N3NJSm0xaW84UDdueXdfUUlQUWkzSjNFblF3dDktRFU3eDR4am5TQmxNbE15VFlBelczV0luS29DSTNiXzhaLThTbDBkM2U3OUJKUm9aVkkyVVhlWnlVdkFzTGV3anc2b3VtaG5oZw?oc=5"
       ]
     },
     {
       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 17, #958",
-      "score": 24.16,
+      "score": 21.78,
       "kinds": [
         "news"
       ],
@@ -160,7 +157,7 @@
       "links": [
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTFNWmVIeDJPOFEtNGMxek9qczFmUGZPQkV4Y1VxaGptcTJiam1KY0x2R2Q4QW92WTFScnlNRUE2S1FGOXRHRWdHWFNEZXEwamc1SGd0eGlDc252WkV1Z3JQVkpTdG01UWdHc3E0R0RKZXU3OEM2YXllR3p5amhDSE10QkdYZGkyVTdmMVltTFJwSjhtTnE5RS1FbllMVmM0dEtOT2lB?oc=5",
         "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWWdhOGh3eF9leExIRlVJSjlDcElQTHRCQ25BYVhIbU14NUJ0U2NXaGRGNGNIWC1Ia25BRGkyMGFDaDVjVHdXbVNTd2lSMmdxN01Jck9rNlVkQXhhRXN2SnppdXRqU2FIQjBEMHNXYTczQTFXLXFuQ3hSTV9RZVlCVjB5VE5NRDlVaUd3XzFCa2FBM3cyLW9MMFoydFZHZHdPbkVNZ2lvc3Y3WXVodTg1WFFEU3YzVzZHZkRUalE0emtWVzRjdmRr?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTFNWmVIeDJPOFEtNGMxek9qczFmUGZPQkV4Y1VxaGptcTJiam1KY0x2R2Q4QW92WTFScnlNRUE2S1FGOXRHRWdHWFNEZXEwamc1SGd0eGlDc252WkV1Z3JQVkpTdG01UWdHc3E0R0RKZXU3OEM2YXllR3p5amhDSE10QkdYZGkyVTdmMVltTFJwSjhtTnE5RS1FbllMVmM0dEtOT2lB?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEtnLU43QnF6ZmhRS0RuR3JOVExQaGhXSHd0RlFxa1VRUEc5Vmp1OFhscWVIMmdWaGhtYUhyZnppN2IyVFEzTnB3SzhkVFJBdURFODZneXpUVlVkbHJibW0wSEJWWVVCNGxzMGprV19pbnphVU5qZFoyT241UmVQT3JGdGFrUzJ2X1hHcTlsMWNKcU1TR0HSAZsBQVVfeXFMUE1QUDRiSjFySk0zS29NdnA3UTBCQjY3YmwtYUlaTDdaUkR2M3AzLThqV1ZZZ0V2TFFGTXdQeDZlQkh5SmR4NFlYSlN1LVJPYzMzSHRpZnBGYUhfaUVIblQydlB2TEVwMmtkZjdQNURrTG1zb211X3lRS2gybHBxMFBQNFFCVnlNWUd1YzA2NDFVTFEyd3dXaVctWDQ?oc=5"
       ]
     }
   ]
