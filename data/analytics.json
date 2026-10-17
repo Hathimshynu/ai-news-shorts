@@ -28,6 +28,10 @@
       {
         "date": "2026-10-16",
         "views": 1
+      },
+      {
+        "date": "2026-10-17",
+        "views": 1
       }
     ],
     "info": {
@@ -65,7 +69,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-10-evening-1400": {
     "history": [
@@ -95,6 +99,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 6
+      },
+      {
+        "date": "2026-10-17",
         "views": 6
       }
     ],
@@ -133,7 +141,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-10-evening-1501": {
     "history": [
@@ -163,6 +171,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 8
+      },
+      {
+        "date": "2026-10-17",
         "views": 8
       }
     ],
@@ -201,7 +213,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-10-evening-1918": {
     "history": [
@@ -232,6 +244,10 @@
       {
         "date": "2026-10-16",
         "views": 67
+      },
+      {
+        "date": "2026-10-17",
+        "views": 74
       }
     ],
     "info": {
@@ -251,7 +267,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 67,
+        "views": 74,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -269,7 +285,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-10-evening-2001": {
     "history": [
@@ -299,6 +315,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 5
+      },
+      {
+        "date": "2026-10-17",
         "views": 5
       }
     ],
@@ -337,7 +357,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-10-evening-2102": {
     "history": [
@@ -367,6 +387,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 126
+      },
+      {
+        "date": "2026-10-17",
         "views": 126
       }
     ],
@@ -405,7 +429,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-10-morning-1146": {
     "history": [
@@ -435,6 +459,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 55
+      },
+      {
+        "date": "2026-10-17",
         "views": 55
       }
     ],
@@ -473,7 +501,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-11-evening-2002": {
     "history": [
@@ -500,6 +528,10 @@
       {
         "date": "2026-10-16",
         "views": 79
+      },
+      {
+        "date": "2026-10-17",
+        "views": 80
       }
     ],
     "info": {
@@ -517,7 +549,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 79,
+        "views": 80,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -529,7 +561,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-11-evening-2101": {
     "history": [
@@ -555,6 +587,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 5
+      },
+      {
+        "date": "2026-10-17",
         "views": 5
       }
     ],
@@ -585,7 +621,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-11-morning-1146": {
     "history": [
@@ -611,6 +647,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 5
+      },
+      {
+        "date": "2026-10-17",
         "views": 5
       }
     ],
@@ -649,7 +689,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-12-evening-1333": {
     "history": [
@@ -671,6 +711,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 12
+      },
+      {
+        "date": "2026-10-17",
         "views": 12
       }
     ],
@@ -709,7 +753,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-12-evening-2001": {
     "history": [
@@ -731,6 +775,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 9
+      },
+      {
+        "date": "2026-10-17",
         "views": 9
       }
     ],
@@ -769,7 +817,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-13-evening-1231": {
     "history": [
@@ -787,6 +835,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 7
+      },
+      {
+        "date": "2026-10-17",
         "views": 7
       }
     ],
@@ -825,7 +877,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-13-evening-2001": {
     "history": [
@@ -843,6 +895,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 33
+      },
+      {
+        "date": "2026-10-17",
         "views": 33
       }
     ],
@@ -881,7 +937,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-13-evening-2101": {
     "history": [
@@ -899,6 +955,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 26
+      },
+      {
+        "date": "2026-10-17",
         "views": 26
       }
     ],
@@ -937,7 +997,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-14-evening-1801": {
     "history": [
@@ -951,6 +1011,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 0
+      },
+      {
+        "date": "2026-10-17",
         "views": 0
       }
     ],
@@ -989,7 +1053,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-14-morning-1046": {
     "history": [
@@ -1003,6 +1067,10 @@
       },
       {
         "date": "2026-10-16",
+        "views": 0
+      },
+      {
+        "date": "2026-10-17",
         "views": 0
       }
     ],
@@ -1033,7 +1101,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-14-evening-2303": {
     "history": [
@@ -1044,6 +1112,10 @@
       {
         "date": "2026-10-16",
         "views": 4
+      },
+      {
+        "date": "2026-10-17",
+        "views": 6
       }
     ],
     "info": {
@@ -1063,7 +1135,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 4,
+        "views": 6,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1081,7 +1153,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-15-evening-1702": {
     "history": [
@@ -1092,6 +1164,10 @@
       {
         "date": "2026-10-16",
         "views": 21
+      },
+      {
+        "date": "2026-10-17",
+        "views": 26
       }
     ],
     "info": {
@@ -1111,7 +1187,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 21,
+        "views": 26,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1129,7 +1205,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-15-evening-1801": {
     "history": [
@@ -1140,6 +1216,10 @@
       {
         "date": "2026-10-16",
         "views": 42
+      },
+      {
+        "date": "2026-10-17",
+        "views": 43
       }
     ],
     "info": {
@@ -1157,7 +1237,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 42,
+        "views": 43,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1169,13 +1249,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-16-evening-1701": {
     "history": [
       {
         "date": "2026-10-16",
         "views": 0
+      },
+      {
+        "date": "2026-10-17",
+        "views": 9
       }
     ],
     "info": {
@@ -1193,10 +1277,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
+        "views": 9,
         "likes": 0,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 0.0
       },
       "facebook": {
         "likes": 0,
@@ -1205,13 +1289,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   },
   "2026-10-16-evening-1801": {
     "history": [
       {
         "date": "2026-10-16",
         "views": 5
+      },
+      {
+        "date": "2026-10-17",
+        "views": 24
       }
     ],
     "info": {
@@ -1231,7 +1319,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 5,
+        "views": 24,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -1249,6 +1337,86 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-16T19:42:38.794538+00:00"
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
+  },
+  "2026-10-17-evening-1701": {
+    "history": [
+      {
+        "date": "2026-10-17",
+        "views": 21
+      }
+    ],
+    "info": {
+      "title": "Meta Muse Spark Open: New 816B Coding AI #Shorts",
+      "topic": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "category": "New AI Models",
+      "hook": "Meta just dropped a massive open coding model.",
+      "seconds": 47.5,
+      "primary_keyword": "Meta Muse Spark Open",
+      "qa_passed": true,
+      "posted_at": "2026-10-17T14:33:31.802637+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/aJHAwFrxwgg",
+      "instagram": "https://www.instagram.com/reel/DemVHpLmc-Z/",
+      "facebook": "https://www.facebook.com/reel/1090788730238335"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 21,
+        "likes": 2,
+        "comments": 0,
+        "engagement_rate": 9.52
+      },
+      "instagram": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
+  },
+  "2026-10-17-evening-1950": {
+    "history": [
+      {
+        "date": "2026-10-17",
+        "views": 1
+      }
+    ],
+    "info": {
+      "title": "Stack Overflow ChatGPT Plugin Tripled Signups #Shorts",
+      "topic": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "category": "Trending Technology",
+      "hook": "Stack Overflow just tripled its AI agent signups.",
+      "seconds": 52.9,
+      "primary_keyword": "Stack Overflow ChatGPT plugin",
+      "qa_passed": false
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/-SVeR2bviY8",
+      "facebook": "https://www.facebook.com/reel/1108153915350812"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-17T18:50:37.236200+00:00"
   }
 }
