@@ -1,60 +1,41 @@
 {
-  "job_id": "2026-10-16-evening-2224",
-  "chosen": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-  "reason": "This open-source project lets viewers automate a real iPhone using a cheap $7 ESP32 microcontroller and any vision AI model without needing a Mac or jailbreak, making it a highly actionable and intriguing hack for AI enthusiasts.",
+  "job_id": "2026-10-17-evening-1701",
+  "chosen": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "reason": "Meta's release of an open-weight multimodal mixture-of-experts model gives developers and creators powerful frontier AI capabilities they can run and build on for free.",
   "candidates": [
     {
-      "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "score": 19.0,
+      "kinds": [
+        "launch",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/meta-muse-spark-open",
+        "https://www.producthunt.com/products/muse-spark-open"
+      ]
+    },
+    {
+      "title": "feder-cr/git-ai: Git designed for AI agents.",
       "score": 18.0,
       "kinds": [
         "github"
       ],
       "primary": true,
       "links": [
-        "https://github.com/onehumanbeing/esp32-iphone-agent"
+        "https://github.com/feder-cr/git-ai"
       ]
     },
     {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "score": 22.57,
+      "title": "Zfinix/eleven: Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "score": 16.31,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "github"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5",
-        "https://openai.com/index/sullivan-cromwell",
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5"
-      ]
-    },
-    {
-      "title": "Isro completes Gaganyaan crew & service module separation tests",
-      "score": 27.77,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdng5UjhRWWs2ZWRHWWNFS1BLcF9udkxkMkFETWEyN2lTLWhUZlhuRWtIaGR2Q3NIVGd0cTFLSnowd24yLVJFQl9RU2gyd3pSS25XbkhCSHJ3a09GcGNwWmt6dzJhblFOOWt4bmo2OTFmREZKVmdNOHdnNGJWZTBFSER5a3d4bFFaM2NtaGVtUFBoTElTRXAzbjIzLWlMeDI4MlBUSmhvZUc5MWVxdkpWTnhVTE4tRTQ5MG53S01ZVVpCeElaSTlUbzA1ONIB0AFBVV95cUxPNDhjMHRVOGYwNDQ1Y0RTT0pQWlhxN1NoY3FrOUtLeFREVU5HV18wN0V3TzVFalVFdDBoeC00Mk5nc0NfSUIyem5Fd0FaYXQwVHNFWS1UN21LY1VBZUczZGVGTnoyWTdOeHhPRkFWd0NHT2x6YVh0aGpqRW5uaFlxMjdIbnp0UGs4UkxIRm50WUVQTk1TV3B2OFdSNmlfN3MyMUlMNzc1ZTdUNUdyNHhTUm1JeXJxUGM0MWY4QXA3NHd5SjVnN2VTcFhGWldpcVNN?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUlRMHM3UnBlRUFVT2N0THVMa0ZZekMyQVNXQXdKVFBteXlUUE0yTV9CSFI1d1VWczlaRVFPbV9wN0lDVE1xb1pRcUhZUzRKNVo4dHZWNU05WFlQTVNjNTZyMWk0MS1TVXFGRFV6WEs1RkhGSVNWQTlBSFlJZW0wVlRZa3Z1RjI2ZnNoWjlPVERfaWJJSkpJbU10cDFVTTk0YmhLeXVHYVpXNlhjZTFzdUh4RTRFbktjNjZ3dWtKdlRrS0N4S25TWEU3WkE4eXA4ZEIzaWJR?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmZ1UDRveDF4WFdZcHptekFDRVdkWElra3hQcmM3SVRmcHItb0RMZkh5cmxnb2ZRa2xBWEM4a0Z3WmFhcXRybjQ4V2JFaHFsX3RJZmRuZFZHVWZpLVhWWlFhczRxZ3dWNng0aHZXQ29vNTMwOElpc2lZSVNzQ0RaUVZoSG1mdXJDdm9BaXNQS2R3aHk4S0p2OWxoSlh6cnlzdWFEdDNPbGJYWnNEVFBSdndBMEczZzJ3X1ZWM2o5Z0Z2UkFwVXg0ODZacU4tTE5E0gHWAUFVX3lxTE4zUTl5V200MzZMWmxXLWQzTVI5aURPMVBTUUpqRWNNUlV4Z3ZQZmhBVS11cDZwRHdrLWQzcVkyQkFaQ0pvWUM2Q1FwNlo5SldKQ3hhbUwtb1pkVVlDcDhWS3oyZURuRndzd2tOdzV3QjRKa01ZUW1Tc2JxM2lNZDVFWkRpRW01TUNtdHF0eEp5aTJKZzN3Uk5OdjR6YU5aREJtZTM2S19PYlBIRDNibE1RaWRUazNuRDE2aFhMM0xwbk53aTZWaHJKV2p6QS1ITVZFQkJab0E?oc=5"
-      ]
-    },
-    {
-      "title": "India’s Aditya-L1 and Europe’s Proba-3 join forces to decode the Sun’s violent eruptions",
-      "score": 20.39,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZS01UkJ0TWc1RUw5TUQzTDNUTXpZc2hZdWpHaXY2dVJ3aTg4WUxNNFQ5UmJUREFBTmZyRndrZmdwdzVQQ09Ba29idUhINTh2bGxDQ0M3OEp3c241dHViZFVsVzBZVEEtalNpbWI0V0hkZFdneWdoNTBXQW44RlBtSUdDZjdYbXJzajlCemhDa0pZZkZpaXhfSl9uWWxqTzhWLWdJUXIwVGN3VURQczd2MWtZNERyNHpIdFFvenc2cE1zc2020gHEAUFVX3lxTE1lLTVSQnRNZzVFTDlNRDNMM1RNellzaFl1akdpdjZ1UndpODhZTE00VDlSYlREQUFOZnJGd2tmZ3B3NVBDT0Frb2J1SEg1OHZsbENDQzc4SndzbjV0dWJkVWxXMFlUQS1qU2ltYjRXSGRkV2d5Z2g1MFdBbjhGUG1JR0NmN1htcnNqOUJ6aENrSllmRmlpeF9KX25ZbGpPOFYtZ0lRcjBUY3dVRFBzN3Yxa1k0RHI0ekh0UW96dzZwTXNzbTY?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zYV9Ea1BwQjZWUU56Umw4em5mckthRzNEZGdWNzFfdWdYSjBUWTV6VmhmNFFHTXNRM2ptVWt5ODZlWlJkSk1YWlZQUnRoUzFpRVl4WTIzcTFnWHNxcTY1SlRWWVZpQU1VeGozN2NsRkM2cnp2dkE?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZS01UkJ0TWc1RUw5TUQzTDNUTXpZc2hZdWpHaXY2dVJ3aTg4WUxNNFQ5UmJUREFBTmZyRndrZmdwdzVQQ09Ba29idUhINTh2bGxDQ0M3OEp3c241dHViZFVsVzBZVEEtalNpbWI0V0hkZFdneWdoNTBXQW44RlBtSUdDZjdYbXJzajlCemhDa0pZZkZpaXhfSl9uWWxqTzhWLWdJUXIwVGN3VURQczd2MWtZNERyNHpIdFFvenc2cE1zc2020gHEAUFVX3lxTE1lLTVSQnRNZzVFTDlNRDNMM1RNellzaFl1akdpdjZ1UndpODhZTE00VDlSYlREQUFOZnJGd2tmZ3B3NVBDT0Frb2J1SEg1OHZsbENDQzc4SndzbjV0dWJkVWxXMFlUQS1qU2ltYjRXSGRkV2d5Z2g1MFdBbjhGUG1JR0NmN1htcnNqOUJ6aENrSllmRmlpeF9KX25ZbGpPOFYtZ0lRcjBUY3dVRFBzN3Yxa1k0RHI0ekh0UW96dzZwTXNzbTY?oc=5"
+        "https://github.com/Zfinix/eleven"
       ]
     },
     {
@@ -70,94 +51,93 @@
       ]
     },
     {
-      "title": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-      "score": 19.79,
+      "title": "i12bp8/decomp.wtf: What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "score": 15.17,
       "kinds": [
-        "news"
+        "github"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDR1Si1DOVVaREI2dGRBYWZGaTNYNzg2OFhhTm1EWGFXeGJLSm4xVnlYRWNqRE8tSi1LSnJoMWtkWEpRc3VRaTBHd3JLWHhwcWtGeU00ZHctdnRRT1B2WVh2NlZBUklLMUFURWR2Q0xHNnIyZnlrc1FETGNsVUZiLTlBZ0NUTWN6azAwQ2hyZ21QMDNXUG51aFlpRU45b3I5Um9UXy1uSnlfd3ZDakl0VFZOQmZSTHVmay1wMUpsa3I0TXVVLXfSAcwBQVVfeXFMT3Y5alJ0WFZHUllMQW1MMkhUbHo1a1VMN1EtbFY2ZHZxU0VFYnlzUURaZW5aek9YNlA5MEwtbzZzMkxsV2Z5TlcxWkJzaEdMMnJ4eTNfb3Z5NVhmcENSdmczUE5yYnoxODFYdHJTTEgtbmllR1RvMnlRT2labXZ6X2I0d01QSXAtdl9wWVdfRUZ1X2Y2Z0RxTjdjSk85N2FQVHFxSWxVaGxMM1ZYNnBLR0M0UVJJSFRBYVptWHlBc3hyNVlHWXVRUm5vaUJF?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUViZUczTl84NnRlMzhvcTlwX3lKeGdFTl9HcWJ4QmJfVnc2bVR5SThndmI1QnJZdHZwX1NFbUZ3SkVINktxTmtKREVBLThyOGk5SFBhdFJmWnkxQUdtdmhHQmVxTjJkT1RaUEtZTF9FOXVsd1VZZXZ2ODVjUmxoZHAya2lnTTE5elh6ZmRuUWU4Wm5UY29BMFFMdlFpVkN4ZUJxeFdUbTNIaFVFXzBQbWttSVJmaGlVUTR2YkhneTlHYXM0dUZvcjR3?oc=5"
+        "https://github.com/i12bp8/decomp.wtf"
       ]
     },
     {
-      "title": "Tecno Spark 50S 5G Launched in India: Price and Specifications",
-      "score": 22.4,
+      "title": "Claude reveals ECDSA curve origins",
+      "score": 18.8,
+      "kinds": [
+        "community"
+      ],
+      "primary": true,
+      "links": [
+        "https://www.anthropic.com/research/ecdsa-curve-origins"
+      ]
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "score": 17.54,
+      "kinds": [
+        "community"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      ]
+    },
+    {
+      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+      "score": 15.92,
+      "kinds": [
+        "community"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/CLoaKY233/siltop"
+      ]
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "score": 15.0,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      ]
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "score": 16.86,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/itau-generative-ai"
+      ]
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "score": 19.0,
       "kinds": [
         "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGE0WThWSDJTQzBzWFQtZVdwb1dxeFN2Y1dzV0E4XzhjcjJFRHhtQWp0RkFHejRVU0ZfLTZCZzZtMnJKYUxoVXhCQWJ2eVF5UWdTakFTY3RCVE54R0hYaVZYWnYwR0xkdG5KRWZmbGZnUkNxQm92dndDTzc1WWpqdTZMcXJjUUNjZE9NdTBnZXB6ZHdUX0o2d2pLSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2F0VnphT3VFbkx3Mi1lQ09WQ1c2TU5UM1pnRW56eGQyTTQ1Zzl1ZWFzUGZwNGZ3anU1VmtycEV5NGpOVlZsN2FiZXdaU29UM1JCSzdfa3RDYjFmaFNpRXY2R0JDcmV0cnJKRDRuaGlrNXdyRno0anFlMGFFNFY3d3JmNE1ad3l1dmg0QVpLMGhad9IBlwFBVV95cUxPclFrdEN2blYwQm03dFlRbjByX0hRYTFOVzJuODAxWUFWbThRVEEwZ0V6X01DUUdlSDMyNFRlZm5rMUU0VHdhcFEzTzFKekVYdm5MWnA4ZHhzWHBLLWFYdl81dks5RkVmc0FRbEhnSDc4ZWpQS2E5VWUyNHRDMVlwX1RjSV9VdDFud1F3OWQwcFBQVHBTbmpB?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxONVZ5REpQN1ByWkp5cE4zUGtDeUdBRnNYcGlhVHVmZ2FfRHBvZE9uWUhwY3NvUHNyekdwV3hCM2EtamE4NXkwNEFSNDhJLXlGQjNQMnJGTGNzdDNpWVZqMTktMGdURFI4dWNsMFJ1U19mU1RuOGFCSGVUaXlnVkl0TzFhcHA2ckJGMGfSAYoBQVVfeXFMTjVWeURKUDdQclpKeXBOM1BrQ3lHQUZzWHBpYVR1ZmdhX0Rwb2RPbllIcGNzb1BzcnpHcFd4QjNhLWphODV5MDRBUjQ4SS15RkIzUDJyRkxjc3QzaVlWajE5LTBnVERSOHVjbDBSdVNfZlNUbjhhQkhlVGl5Z1ZJdE8xYXBwNnJCRjBn?oc=5"
+        "https://openai.com/index/sullivan-cromwell",
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5"
       ]
     },
     {
-      "title": "Tecno Spark 50s 5G Launched With 6,500mAh Battery, Dimensity 6400 Chipset and Military-Grade Protection",
-      "score": 18.65,
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "score": 15.0,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQampRdmMwSmpKaDFWLWFYclhVZGs4N3hsRzJPaTVDN196S2d0WDZnSU1LUS1CNkxaWTFCTTB3RFJfU1M4dUg4VGVFSWwtZU4tc01YTnpKRVlWRjBLZXFSbjJPN0VpVTAtSmtpSmxPRS1XekVKWXl2TGVKLUd3RW05b3BKWVVBOGpEOXhFcHFNM1hUZm4yTG0tTXVfZG5nWTNKVzNOZHBzY2dubURWWEo5X3cxUFNFWFpiLUtzdm5WQnJhcmpIME9fcEtvZzU?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVp3ZnRkbXhNTGJJTUJHXzFBQUtwSC1oTUpOazB5MDNpaVN5OFdVazJFQnEzVi1xQ3dQQVl5RnNSOF9nSHdLOXFnZFVScXEtQ3d5ZXhmTy1HelhlSldLMnVEbER0U2VMd3FqNGxXNnVVbkVBR3AyYXBsT3hYR1hGYmxDOWZjaXdDWE5CQktR0gGTAUFVX3lxTE5FMUFial9vbVQzaHpKUEJHTExOSUhYaDhhWHFsbzRhSjN5a29JODFsRG95MXJSU3hxOWNjWk5aeXBXV0VqRXduU1EzTVdqdFFKaUNIQllMRHozTXFXazdLTGNGWkpMZXNhS21zUnA2N0xxVEpDYWNxU2IzcjNBcTVhdGU3RXpza0dCTE5US0ozTnVLaw?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQampRdmMwSmpKaDFWLWFYclhVZGs4N3hsRzJPaTVDN196S2d0WDZnSU1LUS1CNkxaWTFCTTB3RFJfU1M4dUg4VGVFSWwtZU4tc01YTnpKRVlWRjBLZXFSbjJPN0VpVTAtSmtpSmxPRS1XekVKWXl2TGVKLUd3RW05b3BKWVVBOGpEOXhFcHFNM1hUZm4yTG0tTXVfZG5nWTNKVzNOZHBzY2dubURWWEo5X3cxUFNFWFpiLUtzdm5WQnJhcmpIME9fcEtvZzU?oc=5"
-      ]
-    },
-    {
-      "title": "OPPO Find X10 Pro Max to be India’s First Phone with Triple 200MP Sensors",
-      "score": 21.61,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVi05N21OcXVqNkJSVHZwY25TX19yY1MweHI4RVl5ZGdUb2hYNS1zc0JaMjEteDByM2hIb25yZUhuVzZCSTg0Tkx2elpRRDl4b2lqLThxQnVLczJhYlZZeHg2ZHhYcm5OVVUxU1RB?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEJyNFJSOWlGNGo2VGxfVFFRVDJYdzVlQmdwcEpHcXpmQURtOW96ek9hQ21zYUszZzN0TlhlX2J6Wi1VRGQxWjFQc1lzZDYxNnFmVGVTUEhJLUFWdHFpaWNqWGtTLTRxS1ZQWW5CaUplMVV3dXJEN2FzbkdkSGtBTTJITnVlRFUzQjNBczJBS254TnZpSFN5UHpMN0FBc1BuT3pVSWdKUkZlMXY3MGUxNk5hLTdyMm8?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVi05N21OcXVqNkJSVHZwY25TX19yY1MweHI4RVl5ZGdUb2hYNS1zc0JaMjEteDByM2hIb25yZUhuVzZCSTg0Tkx2elpRRDl4b2lqLThxQnVLczJhYlZZeHg2ZHhYcm5OVVUxU1RB?oc=5"
-      ]
-    },
-    {
-      "title": "Oppo Find X10 Series Launching in India Next Week with Industry-First 200MP Cameras",
-      "score": 18.86,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVVlTmw2bDJvak5TSmJqbEhiRzJyUVpVR1dIN2piTEZXM2VmRGdkRVZfOTVXTFJMMXRSSEg4ME9EQm5HZExZVTMxNjdINnhJWlIxcmdqYVpTWXFxM2MzdW5reVRCbGllb0pnN1d1RmVYc04ta2R3Szg4anBBZW9CMA?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVVlTmw2bDJvak5TSmJqbEhiRzJyUVpVR1dIN2piTEZXM2VmRGdkRVZfOTVXTFJMMXRSSEg4ME9EQm5HZExZVTMxNjdINnhJWlIxcmdqYVpTWXFxM2MzdW5reVRCbGllb0pnN1d1RmVYc04ta2R3Szg4anBBZW9CMA?oc=5"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy F70 5G launching in India on 18th October",
-      "score": 19.64,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Sa0JUeVFEdWduNFFXcUZrREVMU2lqaEZPSzdENFkwY2ZDTWlNUzFQOXk3b0trTG1pek1Rc3lpcGhHbzJuWkU0eFp3ajZhWDJJdGxsbXdOcm5ILWFLSDc1aVZEUjlYV1dUSklVUlNTTFpZSWFkQWphdA?oc=5",
-        "https://news.google.com/rss/articles/CBMijwJBVV95cUxPN3laLXhKcGc5amhENHpKR2FkdV9LYnJuSUhxeHNvVF9wdUNTQUU3U1Eza1JjbGUzMjJxUlpSV2NUSkptWlQwc2NhOGFvSWhiR2NlbWFGY19UOTk2TnhUb256cWx2S1dkWndkX3JIcHc0MXJxVWZfWEdQcGx3WVJWNmtnSWM0WTNFV2pUTXpXcjFkVlk2WWt1M054Ym1qU1dlQkxsczZ0R0FuX04wanlYOFZRNWdueDFhcjNuOE9JWGZUeVdwTHQ3QXJxeW5rbWJfR0JqaU5NU3VzYTZ0VUo4RzFObkI5MktxMUdIbDdXSDFxTlZBaGJ2dkcwN1lnWVg2bmpuMWZ3cGIwdWx1YWRr?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWlrOHl6MjZ5LWJVMmY0aUt1STRoaDViLWZxT2lsUDk5ZnRJdVZ1WmZUWFdzejFfSHdackFhc3BtV0JPQ2hpcm53dUxYUUI0TDdLRENlOEpjUjNhUGxueTFwX191RFpDSVR6Y1VfMTdtREZ4cUg4cFVJNXNfX2I3TUxpd3ltWkNYWWlNcWhUNDZMNjNzU2x0S0hLSzVQbmZ3UlNkMVlOUTZTdw?oc=5"
-      ]
-    },
-    {
-      "title": "GreenCell Mobility Raises Rs 330 Crore from Impact Fund Denmark",
-      "score": 21.55,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUDl1dGxHR3Nfb0lERGxocE5NZ2NWb0dlNXFlMWItSEV0MXprWFdxbTVCRjlRazZ4N016NUhIVDN1R2pYaEd2elF6NkdSckdWdFVqUVQwajNYVV91RHhUVHNqbXQtbWJ4eEVXQzZaLUpPNmxjcmV2YXpRdm5jSEdEOEx5SWZwZTVWNVdOdE9HR2pKaEUwV0FSeXJvaTg3Y1YwMkRrQUU0Xzk4c0JIcUVxdGRsMXhqQjY1blg4TGt2UG01V2YzOGJLY2puQWw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFkzVXJRY25WYUN0Z3RkdVVWMGtvUTRuVFlvalRtalFLQmZSV2hfaEpVcTZfVGptWXZuQ1Ezd2NoS2FHRWZ3eEdDZEpoQjhWMUU5NDNtVF9HT0NORGZOZ0pNamlOdWp5M2ppZUY2U05OcmFHNTZuMTlCaE1XZmhrRTc5ZHZiUXoydTRLOW9mQkt2N0Fxb1FQVDk5VDdoeHhZNVZUZGk4Y0FtNExMbks0QWNMTGZmem94T1owQ1gtLWpiNDB1eUo2N3FQdG5lNXBkY3p5T2FR?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDJHTFFtSlhjQ3ExQW1rYzZhb0NCNnY5ZnpwU0hPdExiMVNOaU1tWHdXMnlZdXVyazF3RDY0cU5Dc1JFZzd2eTZXaHlrQnRISGUybkI1R0ExeUlYSUhTemdxQm85SjZ6eWhnWHdPdGZ2ZG92OG9PdThOcDhGUG5LdUpLSmdkZUQzWTRlNmpHR1NDczBRaXVwVjFicnNyVXlWM2dCVW8tczBpRjltZ1pZcVVoMmwycmFQWm1CWjNQSVpFdHBzVTdOZlVDYXN2dmJ2Q1AxRVdaRzdseDU0WkhBTl9n0gHiAUFVX3lxTE94MkdMUW1KWGNDcTFBbWtjNmFvQ0I2djlmenBTSE90TGIxU05pTW1Yd1cyeVl1dXJrMXdENjRxTkNzUkVnN3Z5NldoeWtCdEhIZTJuQjVHQTF5SVhJSFN6Z3FCbzlKNnp5aGdYd090ZnZkb3Y4b091OE5wOEZQbkt1SktKZ2RlRDNZNGU2akdHU0NzMFFpdXBWMWJyc3JVeVYzZ0JVby1zMGlGOW1nWllxVWgybDJyYVBabUJaM1BJWkV0cHNVN05mVUNhc3Z2YnZDUDFFV1pHN2x4NTRaSEFOX2c?oc=5"
+        "https://openai.com/index/benefit-street-partners"
       ]
     }
   ]

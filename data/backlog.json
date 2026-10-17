@@ -1,36 +1,25 @@
 [
   {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaE91eldfOWg1QzZLdF9YbDRBNlBOR1NHeXZGR0ZkTTVxQ1R6ckhCeERXcjJVSnNGbEMtbW9ZdnJqa05FUUlsRFZxaTBIWUdYdXNRekN3?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Sullivan & Cromwell brings legal expertise into agreement review &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-15T23:11:04+00:00",
-    "engagement": 0,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
+    "title": "feder-cr/git-ai: Git designed for AI agents.",
+    "link": "https://github.com/feder-cr/git-ai",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "Git designed for AI agents.",
+    "country": "GLOBAL",
+    "published": "2026-10-15T13:12:02+00:00",
+    "engagement": 1099,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
   },
   {
-    "title": "Isro completes Gaganyaan crew & service module separation tests",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdng5UjhRWWs2ZWRHWWNFS1BLcF9udkxkMkFETWEyN2lTLWhUZlhuRWtIaGR2Q3NIVGd0cTFLSnowd24yLVJFQl9RU2gyd3pSS25XbkhCSHJ3a09GcGNwWmt6dzJhblFOOWt4bmo2OTFmREZKVmdNOHdnNGJWZTBFSER5a3d4bFFaM2NtaGVtUFBoTElTRXAzbjIzLWlMeDI4MlBUSmhvZUc5MWVxdkpWTnhVTE4tRTQ5MG53S01ZVVpCeElaSTlUbzA1ONIB0AFBVV95cUxPNDhjMHRVOGYwNDQ1Y0RTT0pQWlhxN1NoY3FrOUtLeFREVU5HV18wN0V3TzVFalVFdDBoeC00Mk5nc0NfSUIyem5Fd0FaYXQwVHNFWS1UN21LY1VBZUczZGVGTnoyWTdOeHhPRkFWd0NHT2x6YVh0aGpqRW5uaFlxMjdIbnp0UGs4UkxIRm50WUVQTk1TV3B2OFdSNmlfN3MyMUlMNzc1ZTdUNUdyNHhTUm1JeXJxUGM0MWY4QXA3NHd5SjVnN2VTcFhGWldpcVNN?oc=5",
-    "source": "The Times of India",
-    "kind": "news",
-    "summary": " Isro completes Gaganyaan crew & service module separation tests &nbsp;&nbsp; The Times of India ",
-    "country": "IN",
-    "published": "2026-10-16T15:30:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
-  },
-  {
-    "title": "India’s Aditya-L1 and Europe’s Proba-3 join forces to decode the Sun’s violent eruptions",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZS01UkJ0TWc1RUw5TUQzTDNUTXpZc2hZdWpHaXY2dVJ3aTg4WUxNNFQ5UmJUREFBTmZyRndrZmdwdzVQQ09Ba29idUhINTh2bGxDQ0M3OEp3c241dHViZFVsVzBZVEEtalNpbWI0V0hkZFdneWdoNTBXQW44RlBtSUdDZjdYbXJzajlCemhDa0pZZkZpaXhfSl9uWWxqTzhWLWdJUXIwVGN3VURQczd2MWtZNERyNHpIdFFvenc2cE1zc2020gHEAUFVX3lxTE1lLTVSQnRNZzVFTDlNRDNMM1RNellzaFl1akdpdjZ1UndpODhZTE00VDlSYlREQUFOZnJGd2tmZ3B3NVBDT0Frb2J1SEg1OHZsbENDQzc4SndzbjV0dWJkVWxXMFlUQS1qU2ltYjRXSGRkV2d5Z2g1MFdBbjhGUG1JR0NmN1htcnNqOUJ6aENrSllmRmlpeF9KX25ZbGpPOFYtZ0lRcjBUY3dVRFBzN3Yxa1k0RHI0ekh0UW96dzZwTXNzbTY?oc=5",
-    "source": "ThePrint",
-    "kind": "news",
-    "summary": " India’s Aditya-L1 and Europe’s Proba-3 join forces to decode the Sun’s violent eruptions &nbsp;&nbsp; ThePrint ",
-    "country": "IN",
-    "published": "2026-10-16T10:27:40+00:00",
-    "engagement": 0,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
+    "title": "Zfinix/eleven: Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+    "link": "https://github.com/Zfinix/eleven",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+    "country": "GLOBAL",
+    "published": "2026-10-13T13:47:31+00:00",
+    "engagement": 647,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
   },
   {
     "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
@@ -40,40 +29,51 @@
     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
     "country": "GLOBAL",
     "published": "2026-10-12T09:19:02+00:00",
-    "engagement": 1337,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
+    "engagement": 1667,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
   },
   {
-    "title": "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDR1Si1DOVVaREI2dGRBYWZGaTNYNzg2OFhhTm1EWGFXeGJLSm4xVnlYRWNqRE8tSi1LSnJoMWtkWEpRc3VRaTBHd3JLWHhwcWtGeU00ZHctdnRRT1B2WVh2NlZBUklLMUFURWR2Q0xHNnIyZnlrc1FETGNsVUZiLTlBZ0NUTWN6azAwQ2hyZ21QMDNXUG51aFlpRU45b3I5Um9UXy1uSnlfd3ZDakl0VFZOQmZSTHVmay1wMUpsa3I0TXVVLXfSAcwBQVVfeXFMT3Y5alJ0WFZHUllMQW1MMkhUbHo1a1VMN1EtbFY2ZHZxU0VFYnlzUURaZW5aek9YNlA5MEwtbzZzMkxsV2Z5TlcxWkJzaEdMMnJ4eTNfb3Z5NVhmcENSdmczUE5yYnoxODFYdHJTTEgtbmllR1RvMnlRT2labXZ6X2I0d01QSXAtdl9wWVdfRUZ1X2Y2Z0RxTjdjSk85N2FQVHFxSWxVaGxMM1ZYNnBLR0M0UVJJSFRBYVptWHlBc3hyNVlHWXVRUm5vaUJF?oc=5",
-    "source": "The Hindu",
-    "kind": "news",
-    "summary": " Gaganyaan: ISRO completes key test ahead of first uncrewed mission &nbsp;&nbsp; The Hindu ",
-    "country": "IN",
-    "published": "2026-10-16T14:18:41+00:00",
-    "engagement": 0,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
+    "title": "i12bp8/decomp.wtf: What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+    "link": "https://github.com/i12bp8/decomp.wtf",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+    "country": "GLOBAL",
+    "published": "2026-10-13T08:19:01+00:00",
+    "engagement": 476,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
   },
   {
-    "title": "Tecno Spark 50S 5G Launched in India: Price and Specifications",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGE0WThWSDJTQzBzWFQtZVdwb1dxeFN2Y1dzV0E4XzhjcjJFRHhtQWp0RkFHejRVU0ZfLTZCZzZtMnJKYUxoVXhCQWJ2eVF5UWdTakFTY3RCVE54R0hYaVZYWnYwR0xkdG5KRWZmbGZnUkNxQm92dndDTzc1WWpqdTZMcXJjUUNjZE9NdTBnZXB6ZHdUX0o2d2pLSQ?oc=5",
-    "source": "TelecomTalk",
-    "kind": "news",
-    "summary": " Tecno Spark 50S 5G Launched in India: Price and Specifications &nbsp;&nbsp; TelecomTalk ",
-    "country": "IN",
-    "published": "2026-10-16T10:14:03+00:00",
-    "engagement": 0,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
+    "title": "Claude reveals ECDSA curve origins",
+    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "source": "Hacker News",
+    "kind": "community",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-16T18:55:59+00:00",
+    "engagement": 893,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
   },
   {
-    "title": "Tecno Spark 50s 5G Launched With 6,500mAh Battery, Dimensity 6400 Chipset and Military-Grade Protection",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQampRdmMwSmpKaDFWLWFYclhVZGs4N3hsRzJPaTVDN196S2d0WDZnSU1LUS1CNkxaWTFCTTB3RFJfU1M4dUg4VGVFSWwtZU4tc01YTnpKRVlWRjBLZXFSbjJPN0VpVTAtSmtpSmxPRS1XekVKWXl2TGVKLUd3RW05b3BKWVVBOGpEOXhFcHFNM1hUZm4yTG0tTXVfZG5nWTNKVzNOZHBzY2dubURWWEo5X3cxUFNFWFpiLUtzdm5WQnJhcmpIME9fcEtvZzU?oc=5",
-    "source": "My Mobile India",
-    "kind": "news",
-    "summary": "   Tecno Spark 50s 5G Launched With 6,500mAh Battery, Dimensity 6400 Chipset and Military-Grade Protection &nbsp;&nbsp; My Mobile India    Tecno Spark 50s and 50C unveiled with 120Hz displays - GSMArena.com news &nbsp;&nbsp; GSMArena.com    Tecno Spark 50S 5G Could Be Cheaper Than Spark 50 5G: What We Know So Far &nbsp;&nbsp; NDTV Profit    Tecno Spark 50s 5G: Massive Battery and AI Features in a Budget Powerhouse &nbsp;&nbsp; Gagadget.com    Tecno Spark 50S 5G Launch Date Confirmed for October 16 in India &nbsp;&nbsp; androguru.com   ",
-    "country": "IN",
-    "published": "2026-10-16T11:31:27+00:00",
-    "engagement": 0,
-    "saved": "2026-10-16T16:56:33.600909+00:00"
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "Hacker News",
+    "kind": "community",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-17T08:21:25+00:00",
+    "engagement": 201,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
+  },
+  {
+    "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+    "link": "https://github.com/CLoaKY233/siltop",
+    "source": "Hacker News",
+    "kind": "community",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-17T07:01:07+00:00",
+    "engagement": 9,
+    "saved": "2026-10-17T11:34:24.573866+00:00"
   }
 ]
