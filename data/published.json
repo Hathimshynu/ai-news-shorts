@@ -646,8 +646,8 @@
     },
     "late": true,
     "approved_at": "2026-10-17T14:33:34.359775+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-17T14:33:36.173662+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-17T14:43:40.851973+00:00",
     "ids": {
       "youtube": "-SVeR2bviY8",
       "facebook": "1108153915350812"
@@ -659,8 +659,7 @@
       "hook": "Stack Overflow just tripled its AI agent signups.",
       "seconds": 52.9,
       "primary_keyword": "Stack Overflow ChatGPT plugin",
-      "qa_passed": false,
-      "posted_at": "2026-10-17T14:34:59.457080+00:00"
+      "qa_passed": false
     }
   }
 }
