@@ -1,49 +1,5 @@
 [
   {
-    "title": "feder-cr/git-ai: Git designed for AI agents.",
-    "link": "https://github.com/feder-cr/git-ai",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "Git designed for AI agents.",
-    "country": "GLOBAL",
-    "published": "2026-10-15T13:12:02+00:00",
-    "engagement": 1099,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
-  },
-  {
-    "title": "Zfinix/eleven: Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-    "link": "https://github.com/Zfinix/eleven",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-    "country": "GLOBAL",
-    "published": "2026-10-13T13:47:31+00:00",
-    "engagement": 647,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
-  },
-  {
-    "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
-    "link": "https://github.com/deeplethe/solid-glass",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
-    "country": "GLOBAL",
-    "published": "2026-10-12T09:19:02+00:00",
-    "engagement": 1667,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
-  },
-  {
-    "title": "i12bp8/decomp.wtf: What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-    "link": "https://github.com/i12bp8/decomp.wtf",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-    "country": "GLOBAL",
-    "published": "2026-10-13T08:19:01+00:00",
-    "engagement": 476,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
-  },
-  {
     "title": "Claude reveals ECDSA curve origins",
     "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
     "source": "Hacker News",
@@ -51,29 +7,73 @@
     "summary": "",
     "country": "GLOBAL",
     "published": "2026-10-16T18:55:59+00:00",
-    "engagement": 893,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
+    "engagement": 906,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
   },
   {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "source": "Hacker News",
-    "kind": "community",
-    "summary": "",
+    "title": "feder-cr/git-ai: Git designed for AI agents.",
+    "link": "https://github.com/feder-cr/git-ai",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "Git designed for AI agents.",
     "country": "GLOBAL",
-    "published": "2026-10-17T08:21:25+00:00",
-    "engagement": 201,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
+    "published": "2026-10-15T13:12:02+00:00",
+    "engagement": 1100,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
   },
   {
-    "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
-    "link": "https://github.com/CLoaKY233/siltop",
-    "source": "Hacker News",
-    "kind": "community",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-17T07:01:07+00:00",
-    "engagement": 9,
-    "saved": "2026-10-17T11:34:24.573866+00:00"
+    "title": "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5",
+    "source": "Indian Startup News",
+    "kind": "news",
+    "summary": " Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India &nbsp;&nbsp; Indian Startup News ",
+    "country": "IN",
+    "published": "2026-10-17T08:43:22+00:00",
+    "engagement": 0,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Stack Overflow for Agents triples signups with ChatGPT plugin &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-16T18:34:49+00:00",
+    "engagement": 0,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " How Itaú is building generative AI for its entire customer base &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-16T21:46:06+00:00",
+    "engagement": 0,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
+  },
+  {
+    "title": "Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzk0bEJVY2JFMTR4bF9EQk9GU2stVEZfXzJyYlgwVEdaVG5DRDJrNXpXelZvdkJLaTdXVkpUcUJuSVpIcHlLa29HM1JqcFpwcjVtQWdzZEdTbE1tRnY2MXZpNEY5dS1Nek8wdzNyTXo4V1FGSUpCcmpxUXRNakdIYTV5amNFV3J0T2E3b3pZTHBSQUhwbDBSNWpfZzl4eUdOeWpsRGdtSnljNFUwbmE0?oc=5",
+    "source": "ExtremeTech",
+    "kind": "news",
+    "summary": "   Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim &nbsp;&nbsp; ExtremeTech    What’s new in Windows 11: Everyday experiences, reimagined &nbsp;&nbsp; Windows Blog    \"A new PC is a meaningful purchase\" — Microsoft thinks Windows 11 is finally good enough to be the selling point &nbsp;&nbsp; Windows Central    Microsoft Says It Made Windows 11 Zippier, Especially On PCs With Less RAM &nbsp;&nbsp; Engadget    New Windows 11 build improves Gaming Task View and revamps the Run dialog &nbsp;&nbsp; Neowin   ",
+    "country": "IN",
+    "published": "2026-10-17T12:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
+  },
+  {
+    "title": "vivo V80 goes global - GSMArena.com news",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcVYyWWtKZjVTcS1SWWRnZENyMEFYVjhNZjdpNzVVV0dfSjZxTW05RnVrZDFEQUNDQ3o3Y0lYSS04b1pkMnNMNTZuNjdtTTlLd21Gb3N6U2NpaTFEekQ3N3BLbzg3UFNTQ2sxQdIBaEFVX3lxTE00WHZNQUJhU3BxUThmSzdnVTlmUWtVc3kwSHhpLW5FSmZGVVVNZV9sTjNXZGNWX3pvT1RSNWZWUHhnWnNYMTJoT205TEZKeE1zTFA2N1l0Sk5qZW5qd2JTNXo5MWQzMU5T?oc=5",
+    "source": "GSMArena.com",
+    "kind": "news",
+    "summary": "   vivo V80 goes global - GSMArena.com news &nbsp;&nbsp; GSMArena.com    vivo Introduces vivo V80 Featuring Cold-Carved Glass Design, Advanced ZEISS Portrait Imaging and Exceptional Battery Life &nbsp;&nbsp; TheWire.in    Vivo V80 vs Oppo F35 Pro 2026: Is the $134 Zoom Worth It? &nbsp;&nbsp; Memeburn    vivo V80 price, specifications and availability announced &nbsp;&nbsp; Camera Jabber    vivo V80 Review: Refined Elegance, Incredible Endurance, Familiar Power &nbsp;&nbsp; FoneArena.com   ",
+    "country": "IN",
+    "published": "2026-10-17T06:01:02+00:00",
+    "engagement": 0,
+    "saved": "2026-10-17T12:32:32.674873+00:00"
   }
 ]
