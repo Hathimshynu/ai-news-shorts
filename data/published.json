@@ -637,5 +637,30 @@
       "qa_passed": true,
       "posted_at": "2026-10-17T14:33:31.802637+00:00"
     }
+  },
+  "2026-10-17-evening-1950": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/-SVeR2bviY8",
+      "facebook": "https://www.facebook.com/reel/1108153915350812"
+    },
+    "late": true,
+    "approved_at": "2026-10-17T14:33:34.359775+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-17T14:33:36.173662+00:00",
+    "ids": {
+      "youtube": "-SVeR2bviY8",
+      "facebook": "1108153915350812"
+    },
+    "info": {
+      "title": "Stack Overflow ChatGPT Plugin Tripled Signups #Shorts",
+      "topic": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "category": "Trending Technology",
+      "hook": "Stack Overflow just tripled its AI agent signups.",
+      "seconds": 52.9,
+      "primary_keyword": "Stack Overflow ChatGPT plugin",
+      "qa_passed": false,
+      "posted_at": "2026-10-17T14:34:59.457080+00:00"
+    }
   }
 }
