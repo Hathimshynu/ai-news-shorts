@@ -1,27 +1,5 @@
 [
   {
-    "title": "Claude reveals ECDSA curve origins",
-    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "source": "Hacker News",
-    "kind": "community",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-16T18:55:59+00:00",
-    "engagement": 906,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
-  },
-  {
-    "title": "feder-cr/git-ai: Git designed for AI agents.",
-    "link": "https://github.com/feder-cr/git-ai",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "Git designed for AI agents.",
-    "country": "GLOBAL",
-    "published": "2026-10-15T13:12:02+00:00",
-    "engagement": 1100,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
-  },
-  {
     "title": "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5",
     "source": "Indian Startup News",
@@ -30,18 +8,29 @@
     "country": "IN",
     "published": "2026-10-17T08:43:22+00:00",
     "engagement": 0,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
+    "saved": "2026-10-17T14:21:29.042494+00:00"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Stack Overflow for Agents triples signups with ChatGPT plugin &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-16T18:34:49+00:00",
-    "engagement": 0,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
+    "title": "Claude reveals ECDSA curve origins",
+    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "source": "Hacker News",
+    "kind": "community",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-16T18:55:59+00:00",
+    "engagement": 938,
+    "saved": "2026-10-17T14:21:29.042494+00:00"
+  },
+  {
+    "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
+    "link": "https://github.com/deeplethe/solid-glass",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+    "country": "GLOBAL",
+    "published": "2026-10-12T09:19:02+00:00",
+    "engagement": 1681,
+    "saved": "2026-10-17T14:21:29.042494+00:00"
   },
   {
     "title": "How Itaú is building generative AI for its entire customer base",
@@ -52,18 +41,18 @@
     "country": "IN",
     "published": "2026-10-16T21:46:06+00:00",
     "engagement": 0,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
+    "saved": "2026-10-17T14:21:29.042494+00:00"
   },
   {
     "title": "Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzk0bEJVY2JFMTR4bF9EQk9GU2stVEZfXzJyYlgwVEdaVG5DRDJrNXpXelZvdkJLaTdXVkpUcUJuSVpIcHlLa29HM1JqcFpwcjVtQWdzZEdTbE1tRnY2MXZpNEY5dS1Nek8wdzNyTXo4V1FGSUpCcmpxUXRNakdIYTV5amNFV3J0T2E3b3pZTHBSQUhwbDBSNWpfZzl4eUdOeWpsRGdtSnljNFUwbmE0?oc=5",
     "source": "ExtremeTech",
     "kind": "news",
-    "summary": "   Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim &nbsp;&nbsp; ExtremeTech    What’s new in Windows 11: Everyday experiences, reimagined &nbsp;&nbsp; Windows Blog    \"A new PC is a meaningful purchase\" — Microsoft thinks Windows 11 is finally good enough to be the selling point &nbsp;&nbsp; Windows Central    Microsoft Says It Made Windows 11 Zippier, Especially On PCs With Less RAM &nbsp;&nbsp; Engadget    New Windows 11 build improves Gaming Task View and revamps the Run dialog &nbsp;&nbsp; Neowin   ",
+    "summary": "   Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim &nbsp;&nbsp; ExtremeTech    What’s new in Windows 11: Everyday experiences, reimagined &nbsp;&nbsp; Windows Blog    \"A new PC is a meaningful purchase\" — Microsoft thinks Windows 11 is finally good enough to be the selling point &nbsp;&nbsp; Windows Central    Microsoft Says It Made Windows 11 Zippier, Especially On PCs With Less RAM &nbsp;&nbsp; Engadget    Windows 11 Release Preview update KB5127936 is now available with a long list of changes &nbsp;&nbsp; Neowin   ",
     "country": "IN",
     "published": "2026-10-17T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
+    "saved": "2026-10-17T14:21:29.042494+00:00"
   },
   {
     "title": "vivo V80 goes global - GSMArena.com news",
@@ -74,6 +63,17 @@
     "country": "IN",
     "published": "2026-10-17T06:01:02+00:00",
     "engagement": 0,
-    "saved": "2026-10-17T12:32:32.674873+00:00"
+    "saved": "2026-10-17T14:21:29.042494+00:00"
+  },
+  {
+    "title": "OPPO Find X10, Find X10 Pro Max India Prices Leaked; Pad Mini, Enco X4 Prices Revealed",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkhQZTQyV3k4a3hjTnpJRklHSTZFZ01mNzBUY2VLOGZRQ0VhTVkwX1hRR2RSa1dtQ1RwRGd1dlFQbzBkVjNTalhacGQ0X1A0bmNRT2l0Wm5YWGdpUmJ0UThwZEJKOVNKMENaZk00TXBudGFiQVk0UGJYUC1QX1RoYXMxdWN2bFozbWdhTHVianZqU2MtdHFHZ2R5dE13MU5CS3hMWFhTbk04OE9RZllnbjRZTHk?oc=5",
+    "source": "My Mobile India",
+    "kind": "news",
+    "summary": " OPPO Find X10, Find X10 Pro Max India Prices Leaked; Pad Mini, Enco X4 Prices Revealed &nbsp;&nbsp; My Mobile India ",
+    "country": "IN",
+    "published": "2026-10-17T13:45:39+00:00",
+    "engagement": 0,
+    "saved": "2026-10-17T14:21:29.042494+00:00"
   }
 ]
