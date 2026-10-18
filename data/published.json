@@ -673,7 +673,7 @@
     "late_offer": true
   },
   "2026-10-18-evening-1701": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/37XLMUezuIo",
       "facebook": "https://www.facebook.com/reel/2675586012899878"
@@ -684,8 +684,8 @@
       "facebook": "2675586012899878"
     },
     "yt_scheduled_for": "2026-10-18T20:00:00+05:30",
-    "attempts": 2,
-    "last_try": "2026-10-18T14:40:03.226848+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-18T14:50:07.872049+00:00",
     "info": {
       "title": "Scout Browser Agent Automates Web Tasks #Shorts",
       "topic": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
