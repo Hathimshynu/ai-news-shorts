@@ -671,5 +671,16 @@
     "status": "expired",
     "platforms": {},
     "late_offer": true
+  },
+  "2026-10-18-evening-1701": {
+    "status": "approved",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/37XLMUezuIo"
+    },
+    "approved_at": "2026-10-18T13:39:18.477758+00:00",
+    "ids": {
+      "youtube": "37XLMUezuIo"
+    },
+    "yt_scheduled_for": "2026-10-18T20:00:00+05:30"
   }
 }
