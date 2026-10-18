@@ -1,19 +1,8 @@
 {
-  "job_id": "2026-10-18-evening-1701",
-  "chosen": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-  "reason": "Open-source browser agents are currently in high demand for AI automation, giving viewers a practical tool they can learn about and try today.",
+  "job_id": "2026-10-18-evening-1801",
+  "chosen": "feder-cr/git-ai: Git designed for AI agents.",
+  "reason": "It introduces a novel version control tool built specifically for autonomous AI coding agents, offering practical value for developers building agentic workflows.",
   "candidates": [
-    {
-      "title": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/outcrawlai/scout"
-      ]
-    },
     {
       "title": "feder-cr/git-ai: Git designed for AI agents.",
       "score": 18.0,
@@ -23,6 +12,49 @@
       "primary": true,
       "links": [
         "https://github.com/feder-cr/git-ai"
+      ]
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "score": 25.13,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5",
+        "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5"
+      ]
+    },
+    {
+      "title": "UPI Payments to Remain Free for Consumers: Govt",
+      "score": 19.87,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ24yTU9RNGVfMkdqclBGaFZhVlFlREotZmItWGJ1a3BGNVBvZlQ0SjBfa0NIU1ltNFpvb3o5REJsOUdtbVJiZ01YNkctdzdFU3VlNVlacHF0OWEwaHRkZmdoekJaWDJzRXAyYnJTWGVSLTRPdWRMRGtxQVlJdVliYW1zYTNpZ2I0THpSbjZlcXhjVVU?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+      "score": 22.87,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5"
       ]
     },
     {
@@ -38,22 +70,10 @@
       ]
     },
     {
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "score": 23.38,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5",
-        "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
-      ]
-    },
-    {
       "title": "STPI, IIT BHU conclave explores AI solutions for healthcare and assistive technologies",
-      "score": 21.77,
+      "score": 23.53,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -64,70 +84,57 @@
       ]
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/itau-generative-ai",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
-      "score": 21.12,
+      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+      "score": 17.91,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5"
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcU56OTlMLVFabURtYWJQTThtUW93SExmTmF6aGFJeVdqMklyNzZTLXpsOTd2UFd0VzJSRUo4UllVcEh0QXBIZTRzakpJTGp6aU9IZlBOcjBqbm5kUXZkRUw5NzQ0TC1HYUEzVEdsdkE1eldKM2JRNlFtUG1OVVF4VTdIM2lRb2VxZXdIRkhOMkVRLWNGbFFqVjlsaDY0blVkZDE0V0d2TXRlUGhLX1N2eVl6WmdDaEQwN0dWNU5sV1JiOHdpckFOY2ZHY0lic3AtSkFyQ0FFcGNtQjltV2R5b2hoZVBTUENHemwwTFFhRU9kVVpKdHM0UXpR?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZRmNKVEVxMUt6R1RPN3hFb0tXdXk0Z1FKbDQ2RFB6ZHBMR3RXckUyT1FselNRUVVpNWptTkR3YXBtSm1YclJWUUdyamNCQkhB?oc=5"
       ]
     },
     {
-      "title": "UPI Payments to Remain Free for Consumers: Govt",
-      "score": 18.12,
+      "title": "Samsung Galaxy F70 5G Launched in India at ₹17,999 With 50MP OIS Camera, AMOLED Display",
+      "score": 19.92,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ24yTU9RNGVfMkdqclBGaFZhVlFlREotZmItWGJ1a3BGNVBvZlQ0SjBfa0NIU1ltNFpvb3o5REJsOUdtbVJiZ01YNkctdzdFU3VlNVlacHF0OWEwaHRkZmdoekJaWDJzRXAyYnJTWGVSLTRPdWRMRGtxQVlJdVliYW1zYTNpZ2I0THpSbjZlcXhjVVU?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWlnRG1rOWJDUS1fX3pCS2hYbkhpUmpfc1ZhVEYxR3ViSmVNeE9yOWoxNlhoMks5UUNOblFZbTFXSXF2OUt3b2pZQi1UYkMtNWJJZmlOMGlhTHRyazdqZGFpTnhJNG84V0pWVjJiQl9PdkNDQ2FZeGZfRVVyQl9lSGxfNTIyWmVCOGpSZ0Q0TVVpSkFyQndoOVFmd0I3LTcyWldBaXRmTmZ4bXlJRUtxQlFlRW00Smo4R2xpZWdPWndNZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREhVMTlDVVhGUm9XR1pvckNLeDk3SzR6ZnoyZlZzYUtyaWtNV28tMjhfYk0wT0hYcGNPSjdoUUZrYTJCaVhiREJHb09pWXFFcHQyYUhZZVNXUXIzNHE2bnRfWEtxX0ZVcThaSGlSVEZlV1lHVmJCd19LTE93MDZiWll4czF6QzJBdFFCMzhWZUloT0tnc2w4RjNkeENCTEhfcDRhZUhYTGhhNGNLdmRGUWhVUVA2OGlXdDRfMUo0SjlaeWVGbGJBcmdaNGkwS2djNWlZZGRhRU9zTl9oUU5XMm5GX0tSek5udGVrZDdWbzVpUnhMaF9OdTg5aVVfSHJiazNmeXhtcklBM1kycGZ1NDZTQXBvQQ?oc=5"
       ]
     },
     {
-      "title": "Failed UPI, ATM or card payment? Here's when you'll get ₹100 per day for a delayed refund — Key RBI rules explained",
-      "score": 17.77,
+      "title": "TECNO SPARK 50s 5G Budget Smartphone Launched In India: Check Price, Specifications, Features",
+      "score": 17.95,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeDg0RTdDLXVvRERCblJrTlVqVjB4QWR3UGN4WFM4U0VUUWJCMWtHWWNQbk9GQ2VaQVJJTFZObEQzMEstRkZKRS1rT1FpeHdvTU1zRVBVZktuNmRDeG8tRUZlbkVha0l3SnFpcjliRW5RLU1sWm1pdndhVlZDTHZ6cFI2bURKNWQ0QXhNWU1OTDlCbjNyLWVhMVZ2bzVFVnBMcklLYjhYMmtWeWR3bjIyT3hnd1l0d1h1V05uc3Bselc5VUhaT29qTDl1OE4xa0lBRmNsY1hnU29SeGM5S0tPZmZhYkVFRjdlS2F3aDVWNjlTWjlvTllabmF4ajNxLUd0bmF5ZC1wMNIBjAJBVV95cUxQdXFDX2JwZjhaX25RNGw4TEdiQ2VyaXp5cjJIWG45UkR6WThJbFk2UGxTYXp2OEZXTmo1NmRyRzNfR3BWNlpQZ1pkTEVjaFNGQ3l0dzJDQmYtQUprZllTVTJDTWNJZUtPbk9XSmh6bFJhMGN6TEdqckhDa0VaSTZXQXdOckF2VVI3N1VJREp2ZjNIYktoaXYwUUtqR05MWGstZjZYUTNjRnl4MEdqVUZLLXJZbzU0ZFd3cUtlcjhUR05rY1k3ZUttdzl1QTB4Mnk3S1FQUmEzZGZObERZVVdqT0FvMDdBR1R0blFleGhxcXRFVEpZbTlnVjFKZEQ2aXhTN0JWLVFvRldhSVVt?oc=5"
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlZOc1EtLTBMUE5ZWVpNUU11d2p1WTB1LThZNmpGcTdOWl8zYzJPeHZfTXkza0VZWExhZnlFQ1JCUWhZN1JUNGdIdFpNS0g2aGoxUkJYSEtLMS1NWlRxSzZaeFN5OUVtSjVJd1VoV214c2t5QW56V0FBWlZxU2VZX3hsbU5yazFyUS13YlBHaWsyazNvR1U0b2ZFaW9yX1pabmlrN1MzWFBYNUJRMFVwajN5VDh4TERRX1RfeURJWktzazRvNTFIRk1XX1dIdnBIcXA3YXl2dkw?oc=5"
       ]
     },
     {
-      "title": "Artificial Intelligence - ABC News",
-      "score": 27.66,
+      "title": "A hybrid quantum algorithm for multi-resolution arrhythmia classification",
+      "score": 19.54,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlRhZ3BEYkd6cWRJRER3LUNXWE9UYmVJRlNVSDdodnpQVTFZekRYM1J2aDNuSmp2bUxPb2xFck5GWXh4SUxhLVVOOGtQREMtczJhcXNNbFJ1RlJORHAzT3dxY3dXakRjcUhXLUNZOE9SVTZfZ29PdzNZMWx5XzlXRWlFQ0R4aHZ1OWZpVHJzRkVhcnBPN2o2WFl2cEhHTWFSYXRlazBWeDNZUS1OUVhVNVJmNkdTTmpkSy1lR2ZYUGJjcmxBMUczQW1B?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDdZc1A0VEUtdW5mQ1hTM2c0bUJPZGZqVG9weDRiSk1XMGh2WEpHMDd6WVhySGo3ZVg4YWo0ODhvNFdxTXYzWW9vUkRzNnloOFdKT08yZzNJS2dzZ2NnU0RZT29qU3ZrNy1qdFJUZGlaZUhCTUhSdk8wMTZlVmtqNkc4MVJlRmR1X3ZDd1lSZlY4UnhReTN3S2VkbTBVeHVLLW5fWndWVQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jc3J5WjExbEwzOHZ1OFBWdE9UNlBQYmV4U196YWc1bG9VV0F2SUdBNHA2SUE1eGVTUkZoMVVCYWhJTG1NUkJEUGcyNVdDNXZud0dxb3c5cThLZTFrbnBv?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jc3J5WjExbEwzOHZ1OFBWdE9UNlBQYmV4U196YWc1bG9VV0F2SUdBNHA2SUE1eGVTUkZoMVVCYWhJTG1NUkJEUGcyNVdDNXZud0dxb3c5cThLZTFrbnBv?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jc3J5WjExbEwzOHZ1OFBWdE9UNlBQYmV4U196YWc1bG9VV0F2SUdBNHA2SUE1eGVTUkZoMVVCYWhJTG1NUkJEUGcyNVdDNXZud0dxb3c5cThLZTFrbnBv?oc=5"
       ]
     },
     {
       "title": "Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted - GSMArena.com news",
-      "score": 19.21,
+      "score": 18.96,
       "kinds": [
         "news"
       ],
@@ -139,16 +146,16 @@
       ]
     },
     {
-      "title": "Quordle Hint Today: Sunday, October 18 Clues And Answers",
-      "score": 18.12,
+      "title": "Artificial Intelligence - ABC News",
+      "score": 27.51,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelE1SXVieUVTdnlWMl9sc2pBS1lVQ2Jfb282WXlxTldkMHQ3N0lEQjNYR2Z6STNGcm9QYlBPUkh5YXlwcTJSXzVYM3ZxQ2pDbW14ejR1RVRNdkdFazZpc1BEMkc3NDR0d2FEME1HVDRpaWdTR3BGdVVMSHdCR25jb0pkOWNyZ2tPSkRCYUpMMVZuS1VKUEljMUhYZmRVNmFyeS1QODdfcw?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE96YVFBeXBESUJNNlpBM29nWVBoUFdEbE9NWXIwZTdqZVRlSDBkUWJ4X0JUck9vd3lNNTlGcVhGSzR0OGFIRjdJY1N2RkNGa2NQNFREY0x6S2pSWWNVWGNyd1F0NVhfc2RFREtjeTJCc1UyVlBsVkdLaldsTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE96YVFBeXBESUJNNlpBM29nWVBoUFdEbE9NWXIwZTdqZVRlSDBkUWJ4X0JUck9vd3lNNTlGcVhGSzR0OGFIRjdJY1N2RkNGa2NQNFREY0x6S2pSWWNVWGNyd1F0NVhfc2RFREtjeTJCc1UyVlBsVkdLaldsTQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDdZc1A0VEUtdW5mQ1hTM2c0bUJPZGZqVG9weDRiSk1XMGh2WEpHMDd6WVhySGo3ZVg4YWo0ODhvNFdxTXYzWW9vUkRzNnloOFdKT08yZzNJS2dzZ2NnU0RZT29qU3ZrNy1qdFJUZGlaZUhCTUhSdk8wMTZlVmtqNkc4MVJlRmR1X3ZDd1lSZlY4UnhReTN3S2VkbTBVeHVLLW5fWndWVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlRhZ3BEYkd6cWRJRER3LUNXWE9UYmVJRlNVSDdodnpQVTFZekRYM1J2aDNuSmp2bUxPb2xFck5GWXh4SUxhLVVOOGtQREMtczJhcXNNbFJ1RlJORHAzT3dxY3dXakRjcUhXLUNZOE9SVTZfZ29PdzNZMWx5XzlXRWlFQ0R4aHZ1OWZpVHJzRkVhcnBPN2o2WFl2cEhHTWFSYXRlazBWeDNZUS1OUVhVNVJmNkdTTmpkSy1lR2ZYUGJjcmxBMUczQW1B?oc=5"
       ]
     }
   ]
