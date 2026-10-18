@@ -682,5 +682,16 @@
       "youtube": "37XLMUezuIo"
     },
     "yt_scheduled_for": "2026-10-18T20:00:00+05:30"
+  },
+  "2026-10-18-evening-1801": {
+    "status": "approved",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/NI_91Sfd_ho"
+    },
+    "approved_at": "2026-10-18T13:39:40.263045+00:00",
+    "ids": {
+      "youtube": "NI_91Sfd_ho"
+    },
+    "yt_scheduled_for": "2026-10-18T21:00:00+05:30"
   }
 }
