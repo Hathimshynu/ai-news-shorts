@@ -708,8 +708,8 @@
       "facebook": "1694780248969073"
     },
     "yt_scheduled_for": "2026-10-18T21:00:00+05:30",
-    "attempts": 1,
-    "last_try": "2026-10-18T15:30:07.537779+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-18T15:40:10.086628+00:00",
     "info": {
       "title": "Git AI Agents: Why Traditional Git Is Obsolete #Shorts",
       "topic": "feder-cr/git-ai: Git designed for AI agents.",
@@ -717,8 +717,7 @@
       "hook": "Classic Git was never built for AI agents.",
       "seconds": 51.5,
       "primary_keyword": "git ai agents",
-      "qa_passed": true,
-      "posted_at": "2026-10-18T15:31:24.634724+00:00"
+      "qa_passed": true
     }
   }
 }
