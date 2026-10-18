@@ -1,16 +1,5 @@
 [
   {
-    "title": "Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMNIB1AFBVV95cUxNM3BId3NLUm9hY29senhGV1NRYVNVLUdWd1JIellBTV9HRUtJel9zMU4yanBUa3hjSGl1cnY5Q2xQX05lS1VLX2NRaEVzM1h3V05CUlNHVjUyeWZ4TUJhRFRlcmtaNUM4eHFrcVhhb2hxb2JXby05RVczSEdRMDdDTWFycmNXcEM5QVJ0Q0JHQUxBRWdyMHA3V3FkYVNqZzJiTTZ4Ul96WUVvV19hUjZQaDlIM1Fmck5Bcjl5VWZsUDJWeE8wd2xDMUxuS0dwOG45UkhvMA?oc=5",
-    "source": "Indian Startup News",
-    "kind": "news",
-    "summary": " Managed AI execution startup RapidCanvas raises $29 million led by Vertex Ventures SEA & India &nbsp;&nbsp; Indian Startup News ",
-    "country": "IN",
-    "published": "2026-10-17T08:43:22+00:00",
-    "engagement": 0,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
-  },
-  {
     "title": "feder-cr/git-ai: Git designed for AI agents.",
     "link": "https://github.com/feder-cr/git-ai",
     "source": "GitHub",
@@ -18,19 +7,8 @@
     "summary": "Git designed for AI agents.",
     "country": "GLOBAL",
     "published": "2026-10-15T13:12:02+00:00",
-    "engagement": 1113,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
-  },
-  {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " How Itaú is building generative AI for its entire customer base &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-16T21:46:06+00:00",
-    "engagement": 0,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
+    "engagement": 1161,
+    "saved": "2026-10-18T11:34:52.126307+00:00"
   },
   {
     "title": "deeplethe/solid-glass: A design system for AI applications. Material, physical, tactile, technical.",
@@ -40,40 +18,62 @@
     "summary": "A design system for AI applications. Material, physical, tactile, technical.",
     "country": "GLOBAL",
     "published": "2026-10-12T09:19:02+00:00",
-    "engagement": 1684,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
+    "engagement": 1993,
+    "saved": "2026-10-18T11:34:52.126307+00:00"
   },
   {
-    "title": "Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzk0bEJVY2JFMTR4bF9EQk9GU2stVEZfXzJyYlgwVEdaVG5DRDJrNXpXelZvdkJLaTdXVkpUcUJuSVpIcHlLa29HM1JqcFpwcjVtQWdzZEdTbE1tRnY2MXZpNEY5dS1Nek8wdzNyTXo4V1FGSUpCcmpxUXRNakdIYTV5amNFV3J0T2E3b3pZTHBSQUhwbDBSNWpfZzl4eUdOeWpsRGdtSnljNFUwbmE0?oc=5",
-    "source": "ExtremeTech",
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5",
+    "source": "NVIDIA Blog",
     "kind": "news",
-    "summary": "   Windows 11 RAM Usage Update Falls Short of Microsoft's '20% More Responsive' Claim &nbsp;&nbsp; ExtremeTech    What’s new in Windows 11: Everyday experiences, reimagined &nbsp;&nbsp; Windows Blog    Microsoft claims Windows 11 is up to 20% faster. Here’s what changed &nbsp;&nbsp; PCWorld    This Windows 11 change frees up RAM on low-memory PCs &nbsp;&nbsp; MakeUseOf    After hands‑on testing, these 9 Windows 11 Insider features from October genuinely stand out &nbsp;&nbsp; Windows Central   ",
-    "country": "MY",
-    "published": "2026-10-17T12:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
-  },
-  {
-    "title": "vivo V80 goes global - GSMArena.com news",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcVYyWWtKZjVTcS1SWWRnZENyMEFYVjhNZjdpNzVVV0dfSjZxTW05RnVrZDFEQUNDQ3o3Y0lYSS04b1pkMnNMNTZuNjdtTTlLd21Gb3N6U2NpaTFEekQ3N3BLbzg3UFNTQ2sxQdIBaEFVX3lxTE00WHZNQUJhU3BxUThmSzdnVTlmUWtVc3kwSHhpLW5FSmZGVVVNZV9sTjNXZGNWX3pvT1RSNWZWUHhnWnNYMTJoT205TEZKeE1zTFA2N1l0Sk5qZW5qd2JTNXo5MWQzMU5T?oc=5",
-    "source": "GSMArena.com",
-    "kind": "news",
-    "summary": "   vivo V80 goes global - GSMArena.com news &nbsp;&nbsp; GSMArena.com    vivo Introduces vivo V80 Featuring Cold-Carved Glass Design, Advanced ZEISS Portrait Imaging and Exceptional Battery Life &nbsp;&nbsp; TheWire.in    Vivo V80 vs Oppo F35 Pro 2026: Is the $134 Zoom Worth It? &nbsp;&nbsp; Memeburn    vivo V80 price, specifications and availability announced &nbsp;&nbsp; Camera Jabber    vivo V80 Review: Refined Elegance, Incredible Endurance, Familiar Power &nbsp;&nbsp; FoneArena.com   ",
+    "summary": " RTX Spark Ignites Global Celebration as New Windows PCs Arrive &nbsp;&nbsp; NVIDIA Blog ",
     "country": "IN",
-    "published": "2026-10-17T06:01:02+00:00",
+    "published": "2026-10-17T21:03:57+00:00",
     "engagement": 0,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
+    "saved": "2026-10-18T11:34:52.126307+00:00"
   },
   {
-    "title": "OPPO Find X10, Find X10 Pro Max India Prices Leaked; Pad Mini, Enco X4 Prices Revealed",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkhQZTQyV3k4a3hjTnpJRklHSTZFZ01mNzBUY2VLOGZRQ0VhTVkwX1hRR2RSa1dtQ1RwRGd1dlFQbzBkVjNTalhacGQ0X1A0bmNRT2l0Wm5YWGdpUmJ0UThwZEJKOVNKMENaZk00TXBudGFiQVk0UGJYUC1QX1RoYXMxdWN2bFozbWdhTHVianZqU2MtdHFHZ2R5dE13MU5CS3hMWFhTbk04OE9RZllnbjRZTHk?oc=5",
-    "source": "My Mobile India",
+    "title": "STPI, IIT BHU conclave explores AI solutions for healthcare and assistive technologies",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXV0akpMS1c2ZVJwb09EQWMyRjRRZERBVWduMmdJU0dyTGdqQnhVbEZaOE4wbkV0ZTNPRkktdGZCR3ZYUzF4bU9Qc2k5UHNBc1NHNkpfMnBJcXdjYi1Kc2FnbXFoUjdwd092dE9zM1FrZC1vbWg3VlI1NFlvd1dqV3Y2UlZQcWdjcVZEbzlNQmJZX1lWVEMwVHFmaXpqNzNLNzZWZE16S0Z3ZnRuX0lESWh2TDdiOGs?oc=5",
+    "source": "DD India",
     "kind": "news",
-    "summary": " OPPO Find X10, Find X10 Pro Max India Prices Leaked; Pad Mini, Enco X4 Prices Revealed &nbsp;&nbsp; My Mobile India ",
+    "summary": " STPI, IIT BHU conclave explores AI solutions for healthcare and assistive technologies &nbsp;&nbsp; DD India ",
     "country": "IN",
-    "published": "2026-10-17T13:45:39+00:00",
+    "published": "2026-10-18T10:37:25+00:00",
     "engagement": 0,
-    "saved": "2026-10-17T15:54:45.381314+00:00"
+    "saved": "2026-10-18T11:34:52.126307+00:00"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "country": "GLOBAL",
+    "published": "2026-10-16T19:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-18T11:34:52.126307+00:00"
+  },
+  {
+    "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+    "source": "Search Engine Journal",
+    "kind": "news",
+    "summary": " OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds &nbsp;&nbsp; Search Engine Journal ",
+    "country": "SG",
+    "published": "2026-10-18T08:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-18T11:34:52.126307+00:00"
+  },
+  {
+    "title": "UPI Payments to Remain Free for Consumers: Govt",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5",
+    "source": "News On AIR",
+    "kind": "news",
+    "summary": " UPI Payments to Remain Free for Consumers: Govt &nbsp;&nbsp; News On AIR ",
+    "country": "IN",
+    "published": "2026-10-17T22:33:19+00:00",
+    "engagement": 0,
+    "saved": "2026-10-18T11:34:52.126307+00:00"
   }
 ]
