@@ -673,15 +673,29 @@
     "late_offer": true
   },
   "2026-10-18-evening-1701": {
-    "status": "approved",
+    "status": "posting",
     "platforms": {
-      "youtube": "https://youtube.com/shorts/37XLMUezuIo"
+      "youtube": "https://youtube.com/shorts/37XLMUezuIo",
+      "facebook": "https://www.facebook.com/reel/2675586012899878"
     },
     "approved_at": "2026-10-18T13:39:18.477758+00:00",
     "ids": {
-      "youtube": "37XLMUezuIo"
+      "youtube": "37XLMUezuIo",
+      "facebook": "2675586012899878"
     },
-    "yt_scheduled_for": "2026-10-18T20:00:00+05:30"
+    "yt_scheduled_for": "2026-10-18T20:00:00+05:30",
+    "attempts": 1,
+    "last_try": "2026-10-18T14:30:02.530464+00:00",
+    "info": {
+      "title": "Scout Browser Agent Automates Web Tasks #Shorts",
+      "topic": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "category": "AI Tools You Should Know",
+      "hook": "This new open-source AI controls your browser.",
+      "seconds": 43.6,
+      "primary_keyword": "Scout browser agent",
+      "qa_passed": true,
+      "posted_at": "2026-10-18T14:31:17.639002+00:00"
+    }
   },
   "2026-10-18-evening-1801": {
     "status": "approved",
