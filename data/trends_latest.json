@@ -1,49 +1,20 @@
 {
-  "job_id": "2026-10-18-evening-2015",
-  "chosen": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-  "reason": "Nvidia's launch of new RTX AI-powered Windows PCs brings high-performance on-device AI capabilities directly to everyday users and creators.",
+  "job_id": "2026-10-18-evening-2136",
+  "chosen": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+  "reason": "It reveals a critical difference between ChatGPT and its API that directly affects developers relying on OpenAI for factual citations and RAG pipelines.",
   "candidates": [
     {
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "score": 24.58,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5",
-        "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5"
-      ]
-    },
-    {
-      "title": "UPI Payments to Remain Free for Consumers: Govt",
-      "score": 19.32,
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+      "score": 19.97,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ24yTU9RNGVfMkdqclBGaFZhVlFlREotZmItWGJ1a3BGNVBvZlQ0SjBfa0NIU1ltNFpvb3o5REJsOUdtbVJiZ01YNkctdzdFU3VlNVlacHF0OWEwaHRkZmdoekJaWDJzRXAyYnJTWGVSLTRPdWRMRGtxQVlJdVliYW1zYTNpZ2I0THpSbjZlcXhjVVU?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy F70 5G Launched in India at ₹17,999 With 50MP OIS Camera, AMOLED Display",
-      "score": 23.36,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWlnRG1rOWJDUS1fX3pCS2hYbkhpUmpfc1ZhVEYxR3ViSmVNeE9yOWoxNlhoMks5UUNOblFZbTFXSXF2OUt3b2pZQi1UYkMtNWJJZmlOMGlhTHRyazdqZGFpTnhJNG84V0pWVjJiQl9PdkNDQ2FZeGZfRVVyQl9lSGxfNTIyWmVCOGpSZ0Q0TVVpSkFyQndoOVFmd0I3LTcyWldBaXRmTmZ4bXlJRUtxQlFlRW00Smo4R2xpZWdPWndNZw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODBjRkdreHB6X1RiczhOb3pXa0ZUME9uSFNKMXVUeU5xZC14Z3owNDBRWlZCYnBxOVdXczIyZkdldS1seUJGMzZrODZXOWJYWC00MjdqbDZhVVV4VDU4ZXBMbUg3WU9rUDZHOVRKRTVKSEJRUFhXS3praW9uVmt3NHU3UFhoVHZBNWtQb2p3cjltYVotZHfSAZsBQVVfeXFMTUFaN1NsQlp0V09ZeG1aMk1NMy1VVkZVV01TcTBLMVpyeWVZWXYtdGo4ZTRESi1TWDh1QU1DWlNzUzd5Rk12MTd3azFXcjYwSzNVeW5qajV2eGlGVXR2Nm1UWGtmejR0TG5ucnI1RFZRa1dxZ2ZidnBWR1EzcW1pU0dUdHdvSGV6Q1NUbWhQbEZxc2ZrcWxlRGRWSDg?oc=5",
-        "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREhVMTlDVVhGUm9XR1pvckNLeDk3SzR6ZnoyZlZzYUtyaWtNV28tMjhfYk0wT0hYcGNPSjdoUUZrYTJCaVhiREJHb09pWXFFcHQyYUhZZVNXUXIzNHE2bnRfWEtxX0ZVcThaSGlSVEZlV1lHVmJCd19LTE93MDZiWll4czF6QzJBdFFCMzhWZUloT0tnc2w4RjNkeENCTEhfcDRhZUhYTGhhNGNLdmRGUWhVUVA2OGlXdDRfMUo0SjlaeWVGbGJBcmdaNGkwS2djNWlZZGRhRU9zTl9oUU5XMm5GX0tSek5udGVrZDdWbzVpUnhMaF9OdTg5aVVfSHJiazNmeXhtcklBM1kycGZ1NDZTQXBvQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5"
       ]
     },
     {
@@ -59,22 +30,8 @@
       ]
     },
     {
-      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
-      "score": 20.31,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5"
-      ]
-    },
-    {
       "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "score": 19.69,
+      "score": 19.43,
       "kinds": [
         "backlog",
         "news"
@@ -83,12 +40,64 @@
       "links": [
         "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
         "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcU56OTlMLVFabURtYWJQTThtUW93SExmTmF6aGFJeVdqMklyNzZTLXpsOTd2UFd0VzJSRUo4UllVcEh0QXBIZTRzakpJTGp6aU9IZlBOcjBqbm5kUXZkRUw5NzQ0TC1HYUEzVEdsdkE1eldKM2JRNlFtUG1OVVF4VTdIM2lRb2VxZXdIRkhOMkVRLWNGbFFqVjlsaDY0blVkZDE0V0d2TXRlUGhLX1N2eVl6WmdDaEQwN0dWNU5sV1JiOHdpckFOY2ZHY0lic3AtSkFyQ0FFcGNtQjltV2R5b2hoZVBTUENHemwwTFFhRU9kVVpKdHM0UXpR?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPem5maVpaUTJsb09wZmhEQUtaZVpXS0hwSWVKZTRfN2V5U0FnSFZOa00ySWoyNTNJc3I3ZFIzODVaTnFsVFVCaG9xbnkzcUZwLVZ1eHBpUmcwSzBaNW5XemtsYjgtek0tYWJYREhMUjYyMURMajQ5d1JlTTNGbDRYR1ljZkFpNkh2SzMwenI1M0NIMXFfOXI0c1U4QXRVTjFIUkdoWmFBcXlWSUpjZkl5dEVBQ2FQZXVJQ0IzeUp0ZWRsTHVX?oc=5"
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX3pIWmV2eGhRSVJCTzBoMlpQTERxMlRxQ1h0RVhCdlZMWDVNa0Z0TzlkRk1FanducmJ3aUpqTVRlTTM4bTQwem54NlhZOUhBM2JDZkdya0ZQc1Z1b1hWcGN2amtOYTlQLW9SZ3prYnhMazUzcnZaNVJqVURIYWZHYXNrRXoxYnRDMjg0M0FfNVZ5ZEprbDBZbGlsSDBQcVlpTUQtWTJGU0Z6UWN0MTZUT1dqSUs0cl9tX3lkYjRCSWZNYU1JWUpxc2dCY2J2d1JkNGZpRWNGQUJIRmlEMm40U0NBMDViZ1nSAecBQVVfeXFMT196SFpldnhoUUlSQk8waDJaUExEcTJUcUNYdEVYQnZWTFg1TWtGdE85ZEZNRWp3bnJid2lKak1UZU0zOG00MHpueDZYWTlIQTNiQ2ZHcmtGUHNWdW9YVnBjdmprTmE5UC1vUmd6a2J4TGs1M3J2WjVSalVESGFmR2Fza0V6MWJ0QzI4NDNBXzVWeWRKa2wwWWxpbEgwUHFZaU1ELVkyRlNGelFjdDE2VE9XaklLNHJfbV95ZGI0QklmTWFNSVlKcXNnQmNidndSZDRmaUVjRkFCSEZpRDJuNFNDQTA1YmdZ?oc=5"
+      ]
+    },
+    {
+      "title": "UPI Payments to Remain Free for Consumers: Govt",
+      "score": 18.98,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ24yTU9RNGVfMkdqclBGaFZhVlFlREotZmItWGJ1a3BGNVBvZlQ0SjBfa0NIU1ltNFpvb3o5REJsOUdtbVJiZ01YNkctdzdFU3VlNVlacHF0OWEwaHRkZmdoekJaWDJzRXAyYnJTWGVSLTRPdWRMRGtxQVlJdVliYW1zYTNpZ2I0THpSbjZlcXhjVVU?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YdE1jXzVwUUthTE5oamRLSi13Z04wUzc5aUxuMEJGWXNFZ2hvaHlzVjVqOFR6aXFyWlpvVDBSaFlLekNnZnk2Qm1hNkJQTnVtcm5uOXIxVDJHZzdHRmxxR0xnWXk1Z3huVkxNQ1ZZOVFIc1otWFB1d1hUVEI?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy F70 5G with 6.7″ FHD+ 90Hz AMOLED display, 5000mAh battery launched in India starting at Rs. 19999",
+      "score": 23.02,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODBjRkdreHB6X1RiczhOb3pXa0ZUME9uSFNKMXVUeU5xZC14Z3owNDBRWlZCYnBxOVdXczIyZkdldS1seUJGMzZrODZXOWJYWC00MjdqbDZhVVV4VDU4ZXBMbUg3WU9rUDZHOVRKRTVKSEJRUFhXS3praW9uVmt3NHU3UFhoVHZBNWtQb2p3cjltYVotZHfSAZsBQVVfeXFMTUFaN1NsQlp0V09ZeG1aMk1NMy1VVkZVV01TcTBLMVpyeWVZWXYtdGo4ZTRESi1TWDh1QU1DWlNzUzd5Rk12MTd3azFXcjYwSzNVeW5qajV2eGlGVXR2Nm1UWGtmejR0TG5ucnI1RFZRa1dxZ2ZidnBWR1EzcW1pU0dUdHdvSGV6Q1NUbWhQbEZxc2ZrcWxlRGRWSDg?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWlnRG1rOWJDUS1fX3pCS2hYbkhpUmpfc1ZhVEYxR3ViSmVNeE9yOWoxNlhoMks5UUNOblFZbTFXSXF2OUt3b2pZQi1UYkMtNWJJZmlOMGlhTHRyazdqZGFpTnhJNG84V0pWVjJiQl9PdkNDQ2FZeGZfRVVyQl9lSGxfNTIyWmVCOGpSZ0Q0TVVpSkFyQndoOVFmd0I3LTcyWldBaXRmTmZ4bXlJRUtxQlFlRW00Smo4R2xpZWdPWndNZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREhVMTlDVVhGUm9XR1pvckNLeDk3SzR6ZnoyZlZzYUtyaWtNV28tMjhfYk0wT0hYcGNPSjdoUUZrYTJCaVhiREJHb09pWXFFcHQyYUhZZVNXUXIzNHE2bnRfWEtxX0ZVcThaSGlSVEZlV1lHVmJCd19LTE93MDZiWll4czF6QzJBdFFCMzhWZUloT0tnc2w4RjNkeENCTEhfcDRhZUhYTGhhNGNLdmRGUWhVUVA2OGlXdDRfMUo0SjlaeWVGbGJBcmdaNGkwS2djNWlZZGRhRU9zTl9oUU5XMm5GX0tSek5udGVrZDdWbzVpUnhMaF9OdTg5aVVfSHJiazNmeXhtcklBM1kycGZ1NDZTQXBvQQ?oc=5"
+      ]
+    },
+    {
+      "title": "Nvidia Launches RTX Spark AI Laptops in Korea, Starting at 5.8 Million Won",
+      "score": 17.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wbmlhTkVocVVQd1piV0NtSHpYU242MW5KQmc5ZEd4bzBUcUxqUC1wQ0dScUhjeUNZd3Y1X1pIS21VUW9ZaE5fcEh6dHB5LV9uWUxURDA3d1I5dVlNN0NoSVNrRnMtbWM?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWEhBRk03cDdFUVJaQnJ4ZzZmTmFSQW95elh1TENaUWtFX1NKUU5hZ0E0Uko5cTJlYTZfaWdJR3QzOFpIZ21vVkJRN18zM1diYVl0ZXIzN3dPd0huMXhySDMyUEdQWGluWWFzR0YtYUROZURNbEE?oc=5"
+      ]
+    },
+    {
+      "title": "India AI Startups Land $50M of $302.85M Funding Week [2026]",
+      "score": 17.82,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qak5hTFFYX0pVa0wxc3JHb3A2a21pU0JrUUhJakNmS1diMEMxSkxaT2ZGNFdOYWJ1NVlNSWZBRXJnMGFUUTNPcl9tYVlPVnVpRUh3Q1JMaFF6V3lFWU5ydThicE84MzgwRktyYVJNejJlUWdwTDZCUVZXX1lQQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qak5hTFFYX0pVa0wxc3JHb3A2a21pU0JrUUhJakNmS1diMEMxSkxaT2ZGNFdOYWJ1NVlNSWZBRXJnMGFUUTNPcl9tYVlPVnVpRUh3Q1JMaFF6V3lFWU5ydThicE84MzgwRktyYVJNejJlUWdwTDZCUVZXX1lQQQ?oc=5"
       ]
     },
     {
       "title": "STPI, IIT BHU conclave explores AI solutions for healthcare and assistive technologies",
-      "score": 22.97,
+      "score": 22.63,
       "kinds": [
         "backlog",
         "news"
@@ -101,44 +110,48 @@
       ]
     },
     {
-      "title": "Samsung Galaxy F70 5G: India Launch Details, Camera, Display and Colours Revealed",
-      "score": 18.63,
+      "title": "Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version",
+      "score": 19.47,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2VHc2kyZ1BtYm9MS1ZUS3VQNE40cHVWYWVSbmtPUHF4a2ZWQ3BJVEowVFB3SFFiU3FBaUEtQk9YSVotR2dxeUtVZ040WFBiTnM0OWVBVnk1M1lEZnY0STVVcjZTZkVaQUtYN2tkNmtpUjFkTVBUTWVqTVVqYkgzVTQyblE0N3dtZzNsaWp3ckh5UkxETXZnUlR0ZGxKS2xHZVdwSVo3VTNxLWJaTGhGUzRDVFBPaUJWX3ZYdFZCNVNkaW1xY1BR?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2VHc2kyZ1BtYm9MS1ZUS3VQNE40cHVWYWVSbmtPUHF4a2ZWQ3BJVEowVFB3SFFiU3FBaUEtQk9YSVotR2dxeUtVZ040WFBiTnM0OWVBVnk1M1lEZnY0STVVcjZTZkVaQUtYN2tkNmtpUjFkTVBUTWVqTVVqYkgzVTQyblE0N3dtZzNsaWp3ckh5UkxETXZnUlR0ZGxKS2xHZVdwSVo3VTNxLWJaTGhGUzRDVFBPaUJWX3ZYdFZCNVNkaW1xY1BR?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2VHc2kyZ1BtYm9MS1ZUS3VQNE40cHVWYWVSbmtPUHF4a2ZWQ3BJVEowVFB3SFFiU3FBaUEtQk9YSVotR2dxeUtVZ040WFBiTnM0OWVBVnk1M1lEZnY0STVVcjZTZkVaQUtYN2tkNmtpUjFkTVBUTWVqTVVqYkgzVTQyblE0N3dtZzNsaWp3ckh5UkxETXZnUlR0ZGxKS2xHZVdwSVo3VTNxLWJaTGhGUzRDVFBPaUJWX3ZYdFZCNVNkaW1xY1BR?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy F70 5G: India Launch Details, Camera, Display and Colours Revealed",
+      "score": 20.29,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEpiSFNwemNWT1RBa29CTEpXSHdIOHhEV2RMbU1Bb0dBd1ktNHhmVGhYM2RaZVlDR0ZJTmVaSzZuNjlRTWJGeDI5bkJaekxEUjNQeGFBd0xrakhWbXZNMXRBTFo3dFBwU2U2RE1vVFU3c1d0YTEzd2FuLWJ4VjI2VTFrWVB3ZnZJelhmeGFwVG1KZElIZkFXcUZlbzZ0NDBlTlBzWEM3eWNEenJuZmprdVdRNjM?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelZvYjNmZWFSRmk4aXhBTVBrSktTWU9jZklJbXVBa1docHZfWDluRkN4aWFLcEJqV1EzaXNyek1WdWlVYVdxTkxCZmRLdHVaa2ZCa0FZMXQ2NE1lYnJ4eFVMU1c0ZXctdkFDTVc0Z1FtbHRKNF9JZzVYU2tUM1VrR3Bhd2hNYU1ka1htb3gzdF9oeGN5b0o0X1kzRGo4OW5PQmFPQjJic0RncTFsUEZEWG5JLUttczRtSlRlQ1JrX0lSaVNWSU53LUVEOVdPNzjSAdYBQVVfeXFMTXRvSW5TM2RTaE9CS0dOa2JqOG43ZDRlUnFKM1FPSm41VzNVNHh3YV9kNk1JQmdGTnRkcVNLR2gzTXNUQ0dTWWtRQjRLYTFPREtic3A0UnhHUnBucjBhdWNaMkxxdGx6WkRsN0tTLUVyZUZtMkJRWkgtcElzN2dwazIzQVhqSHdtRDI1UDlqcGg2eUtmQVgxbVROaTIxYmZwTzBod0hNbGIxdzQ4aHJvU3lTeHJpSzZnVkNWRFJIYzZNcHdIcmY1MUZtTGJiaUw3NGowR2ZYQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelZvYjNmZWFSRmk4aXhBTVBrSktTWU9jZklJbXVBa1docHZfWDluRkN4aWFLcEJqV1EzaXNyek1WdWlVYVdxTkxCZmRLdHVaa2ZCa0FZMXQ2NE1lYnJ4eFVMU1c0ZXctdkFDTVc0Z1FtbHRKNF9JZzVYU2tUM1VrR3Bhd2hNYU1ka1htb3gzdF9oeGN5b0o0X1kzRGo4OW5PQmFPQjJic0RncTFsUEZEWG5JLUttczRtSlRlQ1JrX0lSaVNWSU53LUVEOVdPNzjSAdYBQVVfeXFMTXRvSW5TM2RTaE9CS0dOa2JqOG43ZDRlUnFKM1FPSm41VzNVNHh3YV9kNk1JQmdGTnRkcVNLR2gzTXNUQ0dTWWtRQjRLYTFPREtic3A0UnhHUnBucjBhdWNaMkxxdGx6WkRsN0tTLUVyZUZtMkJRWkgtcElzN2dwazIzQVhqSHdtRDI1UDlqcGg2eUtmQVgxbVROaTIxYmZwTzBod0hNbGIxdzQ4aHJvU3lTeHJpSzZnVkNWRFJIYzZNcHdIcmY1MUZtTGJiaUw3NGowR2ZYQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEpiSFNwemNWT1RBa29CTEpXSHdIOHhEV2RMbU1Bb0dBd1ktNHhmVGhYM2RaZVlDR0ZJTmVaSzZuNjlRTWJGeDI5bkJaekxEUjNQeGFBd0xrakhWbXZNMXRBTFo3dFBwU2U2RE1vVFU3c1d0YTEzd2FuLWJ4VjI2VTFrWVB3ZnZJelhmeGFwVG1KZElIZkFXcUZlbzZ0NDBlTlBzWEM3eWNEenJuZmprdVdRNjM?oc=5"
       ]
     },
     {
-      "title": "iQOO 16 Launch in India: Check Expected Date & Time, Specs, Features, Battery, Camera & What to Expect",
-      "score": 17.52,
+      "title": "Samsung Galaxy F70 5G Price in India: Rs 19,999 [2026]",
+      "score": 19.77,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPODNqWVRNUHZ4ZEkySVZYUHJYY1J1OEpLb25fRmxiSkRzUXNnem5uN29tcm0xb3VYOWlLM0gxeUxsXy1GVE9paVhCdk9Nb1hUSTZiWVo2ZS1jTzJjZWl1ckhsSXE1cmdRVldVYTd0NGl1Y3BmN2xHMU0xcFVJVDBxVG0zMktsZkI5QWwyTTNTcUdJRjNIWFpjdE5OeFMteEJya1E2WkFtemVqcjdOZnN3Y1YyVGtyNGR3dG4zbmRRU0NoVVpDd0cyRFN3dUdNRzlWWmtieTlyTFBhVnBZallv0gHfAUFVX3lxTE84M2pZVE1QdnhkSTJJVlhQclhjUnU4Sktvbl9GbGJKRHNRc2d6bm43b21ybTFvdVg5aUszSDF5TGxfLUZUT2lpWEJ2T01vWFRJNmJZWjZlLWNPMmNlaXVySGxJcTVyZ1FWV1VhN3Q0aXVjcGY3bEcxTTFwVUlUMHFUbTMyS2xmQjlBbDJNM1NxR0lGM0hYWmN0Tk54Uy14QnJrUTZaQW16ZWpyN05mc3djVjJUa3I0ZHd0bjNuZFFTQ2hVWkN3RzJEU3d1R01HOVZaa2J5OXJMUGFWcFlqWW8?oc=5"
-      ]
-    },
-    {
-      "title": "A hybrid quantum algorithm for multi-resolution arrhythmia classification",
-      "score": 18.98,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jc3J5WjExbEwzOHZ1OFBWdE9UNlBQYmV4U196YWc1bG9VV0F2SUdBNHA2SUE1eGVTUkZoMVVCYWhJTG1NUkJEUGcyNVdDNXZud0dxb3c5cThLZTFrbnBv?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jc3J5WjExbEwzOHZ1OFBWdE9UNlBQYmV4U196YWc1bG9VV0F2SUdBNHA2SUE1eGVTUkZoMVVCYWhJTG1NUkJEUGcyNVdDNXZud0dxb3c5cThLZTFrbnBv?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jc3J5WjExbEwzOHZ1OFBWdE9UNlBQYmV4U196YWc1bG9VV0F2SUdBNHA2SUE1eGVTUkZoMVVCYWhJTG1NUkJEUGcyNVdDNXZud0dxb3c5cThLZTFrbnBv?oc=5"
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aQllnRUdBOG11SEduM3VXaHlDVjctX3hPQVF2djhYNmk5WFp4UzlzcVFpNmJfZVdTQnluYXp5TEpjY1NoLVdHUWhwNUI5X3I0a251WlBOakktZnlQSmp6Q3RDdkhTRVFxMl91ejNSd2xXVlk?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aQllnRUdBOG11SEduM3VXaHlDVjctX3hPQVF2djhYNmk5WFp4UzlzcVFpNmJfZVdTQnluYXp5TEpjY1NoLVdHUWhwNUI5X3I0a251WlBOakktZnlQSmp6Q3RDdkhTRVFxMl91ejNSd2xXVlk?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaFNhMlFJSjNnaTJJUEhDN2JRVjA5c1RoUVprdlJ2VmJaekxHb2NYMU55Z1ZPblBxRGlhYjd2RGIwX2hSTXhtellQSTRFNWFWLU9nUUtIc0Q0eTZncm00VFJyQy1NOHVfdmppX2VRNHZpdmRseVBaU0Mza29JMWhWSzdaQ1hveFlQeTdMaWNRTGFqODNZbklaaGM2RlRCY1g3cmkwQWxWM252Nm5ncXB0UTQydXh0MU4xaWFrVExsZkJnSTkzelpjODl4WlZfYVpIZXZXNldZWmRsUjV5T2puTXFQem9iNEZ40gHuAUFVX3lxTE5FRUhFNS0yemJzMEtGMndYc0oxaWRIdm5SaUtJcm0tYjBGOXpqN3lER3VFNUNGREJraGtfdkpmVlF1VlVOSEcxLVZyZkxIQWNDbVp2ZVY0THozMktFWVNEUzhROWdoSEZPOEozYUpXbDFiVWxVSWFFZTNtSGRWdzRxVVNsVk5JZXhZak5iV1JpbE13ZktqZzJCRHpRdi1rLTJBRmVJT0QzcjVzWHl5eTdCQi1NY19vRVVxM3RncEhHY1g0czliLUxHVGZVVFc4SHhDbGMxME0tazJXQ0F0SmZfQlFUTHl5QnkzdFI4amc?oc=5"
       ]
     },
     {
       "title": "Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted - GSMArena.com news",
-      "score": 18.4,
+      "score": 18.06,
       "kinds": [
         "news"
       ],
@@ -147,17 +160,6 @@
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVIxYXoybFd5NEFkRjd1TVBrU25Kejl6UzFBeE5tajF0bWVaejg2QUszT1NxUTNfLTF2RUxEYnhWZTlhYU5XaUNfaU12aUJaci1mSXFMaG1GRlZObndDeWplbXFJM1ZUSnlFWTVzQmhWaGxiSm5VeW5fekRpUkthamRVSDdTanFjNTBseEdQVDBNQ1NRSDBRYnJvV0FvT1NHZl9jVGRmaWh6N2ZtcjhXellJLU9BSFNQalJTTHRvSmgyUFlFeHExNUJn0gHGAUFVX3lxTE5Pc0Jkd0lwOTdtTjZIeWg0dVFHakc0QkxVOVlYR3daY0dMb0lQNmROdmJNbUJ2ZVVUQzJPbEtWc0dqUkJ3bExQaE5rdTIzXzNFUVlyaXIwS0lRX2lmYUpKTm5wR2l4cllJM0RiaEpvWXkxYS1qUTNneENUNjV3ckhObzdJWEZXdWo0M1FYc0ZGY2xGZ0Z6N3hrclF6WmVoUXdrM1o0ZzRnM2E3S3E2WnZqTEt3NVQtelNPSTczRUEwODFWbVNQUQ?oc=5",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVIxYXoybFd5NEFkRjd1TVBrU25Kejl6UzFBeE5tajF0bWVaejg2QUszT1NxUTNfLTF2RUxEYnhWZTlhYU5XaUNfaU12aUJaci1mSXFMaG1GRlZObndDeWplbXFJM1ZUSnlFWTVzQmhWaGxiSm5VeW5fekRpUkthamRVSDdTanFjNTBseEdQVDBNQ1NRSDBRYnJvV0FvT1NHZl9jVGRmaWh6N2ZtcjhXellJLU9BSFNQalJTTHRvSmgyUFlFeHExNUJn0gHGAUFVX3lxTE5Pc0Jkd0lwOTdtTjZIeWg0dVFHakc0QkxVOVlYR3daY0dMb0lQNmROdmJNbUJ2ZVVUQzJPbEtWc0dqUkJ3bExQaE5rdTIzXzNFUVlyaXIwS0lRX2lmYUpKTm5wR2l4cllJM0RiaEpvWXkxYS1qUTNneENUNjV3ckhObzdJWEZXdWo0M1FYc0ZGY2xGZ0Z6N3hrclF6WmVoUXdrM1o0ZzRnM2E3S3E2WnZqTEt3NVQtelNPSTczRUEwODFWbVNQUQ?oc=5",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVIxYXoybFd5NEFkRjd1TVBrU25Kejl6UzFBeE5tajF0bWVaejg2QUszT1NxUTNfLTF2RUxEYnhWZTlhYU5XaUNfaU12aUJaci1mSXFMaG1GRlZObndDeWplbXFJM1ZUSnlFWTVzQmhWaGxiSm5VeW5fekRpUkthamRVSDdTanFjNTBseEdQVDBNQ1NRSDBRYnJvV0FvT1NHZl9jVGRmaWh6N2ZtcjhXellJLU9BSFNQalJTTHRvSmgyUFlFeHExNUJn0gHGAUFVX3lxTE5Pc0Jkd0lwOTdtTjZIeWg0dVFHakc0QkxVOVlYR3daY0dMb0lQNmROdmJNbUJ2ZVVUQzJPbEtWc0dqUkJ3bExQaE5rdTIzXzNFUVlyaXIwS0lRX2lmYUpKTm5wR2l4cllJM0RiaEpvWXkxYS1qUTNneENUNjV3ckhObzdJWEZXdWo0M1FYc0ZGY2xGZ0Z6N3hrclF6WmVoUXdrM1o0ZzRnM2E3S3E2WnZqTEt3NVQtelNPSTczRUEwODFWbVNQUQ?oc=5"
-      ]
-    },
-    {
-      "title": "Moga police bust fake UPI payment scam, arrest 2 for cheating shopkeepers",
-      "score": 17.49,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWx3RXl1N2xFaURKdjJ6Yko3TWk4VVNHV3RvckR3TjNPbmo5aXdaRTlwR1daVHdUZUtWbC1kWldBeV94TEJiX1B5V2E2Q0lPRVZEb0Z4c09lSER3bDlRbVhoNWtnWmY3QnpzUm1DenlGSDctdG5vaXVqNmF3RnVSSGNmN3hrSnQ2U0s0ZHNVZFFJSWlGLXBxcEstSWZnS1ZXVGpvcDBDaktoZWxXSkJrM3NVQVXSAbgBQVVfeXFMTVdvaktaeVZnRTJZcVhIdEQ4dW9GZXdmc3gwY0dmUjBVbW1ucEROVDgxWVpDcXFzTVZEcnpkNlZ3MHBvS0dWN2RqZnJaVllzTVI3a0YyQXRaT0ZzREstWnB0WlV2VHo1dFJzQnZEaHAxa0pOeWZ6WF93djFHMUZxVGRsYkM4VlFIbmNiOUlXRW52T200ZkxMaW90UllMdWd3WVRERUlTclhIUDZ4UFcta192MXNoQXRyTQ?oc=5"
       ]
     }
   ]
