@@ -697,14 +697,28 @@
     }
   },
   "2026-10-18-evening-1801": {
-    "status": "approved",
+    "status": "posting",
     "platforms": {
-      "youtube": "https://youtube.com/shorts/NI_91Sfd_ho"
+      "youtube": "https://youtube.com/shorts/NI_91Sfd_ho",
+      "facebook": "https://www.facebook.com/reel/1694780248969073"
     },
     "approved_at": "2026-10-18T13:39:40.263045+00:00",
     "ids": {
-      "youtube": "NI_91Sfd_ho"
+      "youtube": "NI_91Sfd_ho",
+      "facebook": "1694780248969073"
     },
-    "yt_scheduled_for": "2026-10-18T21:00:00+05:30"
+    "yt_scheduled_for": "2026-10-18T21:00:00+05:30",
+    "attempts": 1,
+    "last_try": "2026-10-18T15:30:07.537779+00:00",
+    "info": {
+      "title": "Git AI Agents: Why Traditional Git Is Obsolete #Shorts",
+      "topic": "feder-cr/git-ai: Git designed for AI agents.",
+      "category": "AI Tools You Should Know",
+      "hook": "Classic Git was never built for AI agents.",
+      "seconds": 51.5,
+      "primary_keyword": "git ai agents",
+      "qa_passed": true,
+      "posted_at": "2026-10-18T15:31:24.634724+00:00"
+    }
   }
 }
