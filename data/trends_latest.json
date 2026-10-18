@@ -1,22 +1,11 @@
 {
-  "job_id": "2026-10-18-evening-1801",
-  "chosen": "feder-cr/git-ai: Git designed for AI agents.",
-  "reason": "It introduces a novel version control tool built specifically for autonomous AI coding agents, offering practical value for developers building agentic workflows.",
+  "job_id": "2026-10-18-evening-2015",
+  "chosen": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+  "reason": "Nvidia's launch of new RTX AI-powered Windows PCs brings high-performance on-device AI capabilities directly to everyday users and creators.",
   "candidates": [
     {
-      "title": "feder-cr/git-ai: Git designed for AI agents.",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/feder-cr/git-ai"
-      ]
-    },
-    {
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "score": 25.13,
+      "score": 24.58,
       "kinds": [
         "backlog",
         "news",
@@ -31,7 +20,7 @@
     },
     {
       "title": "UPI Payments to Remain Free for Consumers: Govt",
-      "score": 19.87,
+      "score": 19.32,
       "kinds": [
         "backlog",
         "news"
@@ -44,17 +33,17 @@
       ]
     },
     {
-      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
-      "score": 22.87,
+      "title": "Samsung Galaxy F70 5G Launched in India at ₹17,999 With 50MP OIS Camera, AMOLED Display",
+      "score": 23.36,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWlnRG1rOWJDUS1fX3pCS2hYbkhpUmpfc1ZhVEYxR3ViSmVNeE9yOWoxNlhoMks5UUNOblFZbTFXSXF2OUt3b2pZQi1UYkMtNWJJZmlOMGlhTHRyazdqZGFpTnhJNG84V0pWVjJiQl9PdkNDQ2FZeGZfRVVyQl9lSGxfNTIyWmVCOGpSZ0Q0TVVpSkFyQndoOVFmd0I3LTcyWldBaXRmTmZ4bXlJRUtxQlFlRW00Smo4R2xpZWdPWndNZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODBjRkdreHB6X1RiczhOb3pXa0ZUME9uSFNKMXVUeU5xZC14Z3owNDBRWlZCYnBxOVdXczIyZkdldS1seUJGMzZrODZXOWJYWC00MjdqbDZhVVV4VDU4ZXBMbUg3WU9rUDZHOVRKRTVKSEJRUFhXS3praW9uVmt3NHU3UFhoVHZBNWtQb2p3cjltYVotZHfSAZsBQVVfeXFMTUFaN1NsQlp0V09ZeG1aMk1NMy1VVkZVV01TcTBLMVpyeWVZWXYtdGo4ZTRESi1TWDh1QU1DWlNzUzd5Rk12MTd3azFXcjYwSzNVeW5qajV2eGlGVXR2Nm1UWGtmejR0TG5ucnI1RFZRa1dxZ2ZidnBWR1EzcW1pU0dUdHdvSGV6Q1NUbWhQbEZxc2ZrcWxlRGRWSDg?oc=5",
+        "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREhVMTlDVVhGUm9XR1pvckNLeDk3SzR6ZnoyZlZzYUtyaWtNV28tMjhfYk0wT0hYcGNPSjdoUUZrYTJCaVhiREJHb09pWXFFcHQyYUhZZVNXUXIzNHE2bnRfWEtxX0ZVcThaSGlSVEZlV1lHVmJCd19LTE93MDZiWll4czF6QzJBdFFCMzhWZUloT0tnc2w4RjNkeENCTEhfcDRhZUhYTGhhNGNLdmRGUWhVUVA2OGlXdDRfMUo0SjlaeWVGbGJBcmdaNGkwS2djNWlZZGRhRU9zTl9oUU5XMm5GX0tSek5udGVrZDdWbzVpUnhMaF9OdTg5aVVfSHJiazNmeXhtcklBM1kycGZ1NDZTQXBvQQ?oc=5"
       ]
     },
     {
@@ -70,8 +59,36 @@
       ]
     },
     {
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+      "score": 20.31,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+      "score": 19.69,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcU56OTlMLVFabURtYWJQTThtUW93SExmTmF6aGFJeVdqMklyNzZTLXpsOTd2UFd0VzJSRUo4UllVcEh0QXBIZTRzakpJTGp6aU9IZlBOcjBqbm5kUXZkRUw5NzQ0TC1HYUEzVEdsdkE1eldKM2JRNlFtUG1OVVF4VTdIM2lRb2VxZXdIRkhOMkVRLWNGbFFqVjlsaDY0blVkZDE0V0d2TXRlUGhLX1N2eVl6WmdDaEQwN0dWNU5sV1JiOHdpckFOY2ZHY0lic3AtSkFyQ0FFcGNtQjltV2R5b2hoZVBTUENHemwwTFFhRU9kVVpKdHM0UXpR?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPem5maVpaUTJsb09wZmhEQUtaZVpXS0hwSWVKZTRfN2V5U0FnSFZOa00ySWoyNTNJc3I3ZFIzODVaTnFsVFVCaG9xbnkzcUZwLVZ1eHBpUmcwSzBaNW5XemtsYjgtek0tYWJYREhMUjYyMURMajQ5d1JlTTNGbDRYR1ljZkFpNkh2SzMwenI1M0NIMXFfOXI0c1U4QXRVTjFIUkdoWmFBcXlWSUpjZkl5dEVBQ2FQZXVJQ0IzeUp0ZWRsTHVX?oc=5"
+      ]
+    },
+    {
       "title": "STPI, IIT BHU conclave explores AI solutions for healthcare and assistive technologies",
-      "score": 23.53,
+      "score": 22.97,
       "kinds": [
         "backlog",
         "news"
@@ -84,44 +101,31 @@
       ]
     },
     {
-      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "score": 17.91,
+      "title": "Samsung Galaxy F70 5G: India Launch Details, Camera, Display and Colours Revealed",
+      "score": 18.63,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcU56OTlMLVFabURtYWJQTThtUW93SExmTmF6aGFJeVdqMklyNzZTLXpsOTd2UFd0VzJSRUo4UllVcEh0QXBIZTRzakpJTGp6aU9IZlBOcjBqbm5kUXZkRUw5NzQ0TC1HYUEzVEdsdkE1eldKM2JRNlFtUG1OVVF4VTdIM2lRb2VxZXdIRkhOMkVRLWNGbFFqVjlsaDY0blVkZDE0V0d2TXRlUGhLX1N2eVl6WmdDaEQwN0dWNU5sV1JiOHdpckFOY2ZHY0lic3AtSkFyQ0FFcGNtQjltV2R5b2hoZVBTUENHemwwTFFhRU9kVVpKdHM0UXpR?oc=5",
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZRmNKVEVxMUt6R1RPN3hFb0tXdXk0Z1FKbDQ2RFB6ZHBMR3RXckUyT1FselNRUVVpNWptTkR3YXBtSm1YclJWUUdyamNCQkhB?oc=5"
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEpiSFNwemNWT1RBa29CTEpXSHdIOHhEV2RMbU1Bb0dBd1ktNHhmVGhYM2RaZVlDR0ZJTmVaSzZuNjlRTWJGeDI5bkJaekxEUjNQeGFBd0xrakhWbXZNMXRBTFo3dFBwU2U2RE1vVFU3c1d0YTEzd2FuLWJ4VjI2VTFrWVB3ZnZJelhmeGFwVG1KZElIZkFXcUZlbzZ0NDBlTlBzWEM3eWNEenJuZmprdVdRNjM?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelZvYjNmZWFSRmk4aXhBTVBrSktTWU9jZklJbXVBa1docHZfWDluRkN4aWFLcEJqV1EzaXNyek1WdWlVYVdxTkxCZmRLdHVaa2ZCa0FZMXQ2NE1lYnJ4eFVMU1c0ZXctdkFDTVc0Z1FtbHRKNF9JZzVYU2tUM1VrR3Bhd2hNYU1ka1htb3gzdF9oeGN5b0o0X1kzRGo4OW5PQmFPQjJic0RncTFsUEZEWG5JLUttczRtSlRlQ1JrX0lSaVNWSU53LUVEOVdPNzjSAdYBQVVfeXFMTXRvSW5TM2RTaE9CS0dOa2JqOG43ZDRlUnFKM1FPSm41VzNVNHh3YV9kNk1JQmdGTnRkcVNLR2gzTXNUQ0dTWWtRQjRLYTFPREtic3A0UnhHUnBucjBhdWNaMkxxdGx6WkRsN0tTLUVyZUZtMkJRWkgtcElzN2dwazIzQVhqSHdtRDI1UDlqcGg2eUtmQVgxbVROaTIxYmZwTzBod0hNbGIxdzQ4aHJvU3lTeHJpSzZnVkNWRFJIYzZNcHdIcmY1MUZtTGJiaUw3NGowR2ZYQQ?oc=5"
       ]
     },
     {
-      "title": "Samsung Galaxy F70 5G Launched in India at ₹17,999 With 50MP OIS Camera, AMOLED Display",
-      "score": 19.92,
+      "title": "iQOO 16 Launch in India: Check Expected Date & Time, Specs, Features, Battery, Camera & What to Expect",
+      "score": 17.52,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWlnRG1rOWJDUS1fX3pCS2hYbkhpUmpfc1ZhVEYxR3ViSmVNeE9yOWoxNlhoMks5UUNOblFZbTFXSXF2OUt3b2pZQi1UYkMtNWJJZmlOMGlhTHRyazdqZGFpTnhJNG84V0pWVjJiQl9PdkNDQ2FZeGZfRVVyQl9lSGxfNTIyWmVCOGpSZ0Q0TVVpSkFyQndoOVFmd0I3LTcyWldBaXRmTmZ4bXlJRUtxQlFlRW00Smo4R2xpZWdPWndNZw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREhVMTlDVVhGUm9XR1pvckNLeDk3SzR6ZnoyZlZzYUtyaWtNV28tMjhfYk0wT0hYcGNPSjdoUUZrYTJCaVhiREJHb09pWXFFcHQyYUhZZVNXUXIzNHE2bnRfWEtxX0ZVcThaSGlSVEZlV1lHVmJCd19LTE93MDZiWll4czF6QzJBdFFCMzhWZUloT0tnc2w4RjNkeENCTEhfcDRhZUhYTGhhNGNLdmRGUWhVUVA2OGlXdDRfMUo0SjlaeWVGbGJBcmdaNGkwS2djNWlZZGRhRU9zTl9oUU5XMm5GX0tSek5udGVrZDdWbzVpUnhMaF9OdTg5aVVfSHJiazNmeXhtcklBM1kycGZ1NDZTQXBvQQ?oc=5"
-      ]
-    },
-    {
-      "title": "TECNO SPARK 50s 5G Budget Smartphone Launched In India: Check Price, Specifications, Features",
-      "score": 17.95,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlZOc1EtLTBMUE5ZWVpNUU11d2p1WTB1LThZNmpGcTdOWl8zYzJPeHZfTXkza0VZWExhZnlFQ1JCUWhZN1JUNGdIdFpNS0g2aGoxUkJYSEtLMS1NWlRxSzZaeFN5OUVtSjVJd1VoV214c2t5QW56V0FBWlZxU2VZX3hsbU5yazFyUS13YlBHaWsyazNvR1U0b2ZFaW9yX1pabmlrN1MzWFBYNUJRMFVwajN5VDh4TERRX1RfeURJWktzazRvNTFIRk1XX1dIdnBIcXA3YXl2dkw?oc=5"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPODNqWVRNUHZ4ZEkySVZYUHJYY1J1OEpLb25fRmxiSkRzUXNnem5uN29tcm0xb3VYOWlLM0gxeUxsXy1GVE9paVhCdk9Nb1hUSTZiWVo2ZS1jTzJjZWl1ckhsSXE1cmdRVldVYTd0NGl1Y3BmN2xHMU0xcFVJVDBxVG0zMktsZkI5QWwyTTNTcUdJRjNIWFpjdE5OeFMteEJya1E2WkFtemVqcjdOZnN3Y1YyVGtyNGR3dG4zbmRRU0NoVVpDd0cyRFN3dUdNRzlWWmtieTlyTFBhVnBZallv0gHfAUFVX3lxTE84M2pZVE1QdnhkSTJJVlhQclhjUnU4Sktvbl9GbGJKRHNRc2d6bm43b21ybTFvdVg5aUszSDF5TGxfLUZUT2lpWEJ2T01vWFRJNmJZWjZlLWNPMmNlaXVySGxJcTVyZ1FWV1VhN3Q0aXVjcGY3bEcxTTFwVUlUMHFUbTMyS2xmQjlBbDJNM1NxR0lGM0hYWmN0Tk54Uy14QnJrUTZaQW16ZWpyN05mc3djVjJUa3I0ZHd0bjNuZFFTQ2hVWkN3RzJEU3d1R01HOVZaa2J5OXJMUGFWcFlqWW8?oc=5"
       ]
     },
     {
       "title": "A hybrid quantum algorithm for multi-resolution arrhythmia classification",
-      "score": 19.54,
+      "score": 18.98,
       "kinds": [
         "news"
       ],
@@ -134,7 +138,7 @@
     },
     {
       "title": "Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted - GSMArena.com news",
-      "score": 18.96,
+      "score": 18.4,
       "kinds": [
         "news"
       ],
@@ -146,16 +150,14 @@
       ]
     },
     {
-      "title": "Artificial Intelligence - ABC News",
-      "score": 27.51,
+      "title": "Moga police bust fake UPI payment scam, arrest 2 for cheating shopkeepers",
+      "score": 17.49,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDdZc1A0VEUtdW5mQ1hTM2c0bUJPZGZqVG9weDRiSk1XMGh2WEpHMDd6WVhySGo3ZVg4YWo0ODhvNFdxTXYzWW9vUkRzNnloOFdKT08yZzNJS2dzZ2NnU0RZT29qU3ZrNy1qdFJUZGlaZUhCTUhSdk8wMTZlVmtqNkc4MVJlRmR1X3ZDd1lSZlY4UnhReTN3S2VkbTBVeHVLLW5fWndWVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlRhZ3BEYkd6cWRJRER3LUNXWE9UYmVJRlNVSDdodnpQVTFZekRYM1J2aDNuSmp2bUxPb2xFck5GWXh4SUxhLVVOOGtQREMtczJhcXNNbFJ1RlJORHAzT3dxY3dXakRjcUhXLUNZOE9SVTZfZ29PdzNZMWx5XzlXRWlFQ0R4aHZ1OWZpVHJzRkVhcnBPN2o2WFl2cEhHTWFSYXRlazBWeDNZUS1OUVhVNVJmNkdTTmpkSy1lR2ZYUGJjcmxBMUczQW1B?oc=5"
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWx3RXl1N2xFaURKdjJ6Yko3TWk4VVNHV3RvckR3TjNPbmo5aXdaRTlwR1daVHdUZUtWbC1kWldBeV94TEJiX1B5V2E2Q0lPRVZEb0Z4c09lSER3bDlRbVhoNWtnWmY3QnpzUm1DenlGSDctdG5vaXVqNmF3RnVSSGNmN3hrSnQ2U0s0ZHNVZFFJSWlGLXBxcEstSWZnS1ZXVGpvcDBDaktoZWxXSkJrM3NVQVXSAbgBQVVfeXFMTVdvaktaeVZnRTJZcVhIdEQ4dW9GZXdmc3gwY0dmUjBVbW1ucEROVDgxWVpDcXFzTVZEcnpkNlZ3MHBvS0dWN2RqZnJaVllzTVI3a0YyQXRaT0ZzREstWnB0WlV2VHo1dFJzQnZEaHAxa0pOeWZ6WF93djFHMUZxVGRsYkM4VlFIbmNiOUlXRW52T200ZkxMaW90UllMdWd3WVRERUlTclhIUDZ4UFcta192MXNoQXRyTQ?oc=5"
       ]
     }
   ]
