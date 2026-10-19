@@ -1,24 +1,11 @@
 {
-  "job_id": "2026-10-19-evening-2309",
-  "chosen": "Cognizant and Google Cloud Expand Alliance to Accelerate Agentic Enterprise Transformation",
-  "reason": "Google Cloud and Cognizant's expanded push into agentic AI signals the next major shift in enterprise automation, directly impacting tech professionals across India.",
+  "job_id": "2026-10-20-morning-0020",
+  "chosen": "Samsung Galaxy F70 5G launched in India at ₹19,999 with 90Hz AMOLED, Gorilla Glass Victus, 50MP OIS camera, and Exynos 1330",
+  "reason": "The launch of a feature-packed sub-₹20,000 budget 5G smartphone in India provides immediate, actionable value for viewers looking for affordable tech upgrades.",
   "candidates": [
     {
-      "title": "Cognizant and Google Cloud Expand Alliance to Accelerate Agentic Enterprise Transformation",
-      "score": 19.86,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb21UMXB5cGM5aFFSeXNVbzZfZVNhMUl6ZEpoZ3Y1bF83a0tzWmFnODNWTlBRMkJDR1RGUjVjaUlwZlZTQ05GSU9oN2VVTGdKZTJmTlFTOHh4Z3lYQW15QV9UbDBiRTdrdWdvSkRpa0w5VUM1YUNSRHFSWFpvQXNRSEp0ZXQyeGZrb2pVY1dCVHNTY3dhXzlpdXZyRXVzdDRPUExQRk1oSkNnSEs0S3RuYmV3R3VTdVRDcldMLXBHT3BIelEyR3FB?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWpCcy1hTXBNa1ZCQ01tYTg1SEdNVElEcmR5SWdlR09oTnduTUdLS05vcmxHM3JsNVhTdVp2MTF2bzJxUmN1eEFVM1EydVdoMVRNNzMtWW9Cb2x6eW9BbE9iYnVGa1NfUk1HTnNuY05ERTh2UVNvLUFfODhBU3J3ZFNxNlozbEx3djNKaWJKR3BFUXhqNHFEUmJkODd1dlFKbkpEdUZKOE1HUldYb1RLUkJkakpiU1F0UnlKOU1sbkVRUWZr?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaDM3QnRmRFB4amhrSWg4aWI0VzV3SUxUZVdRdWJIUWNsSW4xN2ttdENnOVcySlg3UEJYVFdZX3NwS190S05CeXRMU2Nrb2htbGtfSjBLbDRRYVA5NWQySGNwOGZEcDc1UGhyYm9wUFVtbzZ4bzV0TVVxWVVqY3NoQXVoU1BUYnJ6NUlmdDE2Q2RLVEU5MFlETE0zanhoUERId0lBT0FjVmJTWVBaNF9wOEtyRkNaRG1VcWg0UHlKS04xZU1PY2RV?oc=5"
-      ]
-    },
-    {
       "title": "Samsung Galaxy F70 5G launched in India at ₹19,999 with 90Hz AMOLED, Gorilla Glass Victus, 50MP OIS camera, and Exynos 1330",
-      "score": 25.55,
+      "score": 25.25,
       "kinds": [
         "backlog",
         "news"
@@ -31,8 +18,21 @@
       ]
     },
     {
+      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "score": 20.91,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4"
+      ]
+    },
+    {
       "title": "Samsung launches Galaxy F70 5G in India: Check price, features and specifications",
-      "score": 22.57,
+      "score": 22.27,
       "kinds": [
         "backlog",
         "news"
@@ -45,22 +45,22 @@
       ]
     },
     {
-      "title": "OPPO Find X10 Series will launch globally on October 21",
-      "score": 22.06,
+      "title": "vivo V80 Lite now available nationwide, with 3 reasons to own it",
+      "score": 21.06,
       "kinds": [
-        "backlog",
+        "launch",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVN3cC1SaFdvR1IxWnN6QU9KNS12dFhMSlB4d2NnMGFoa1VnbE1nM19hTThrdjJFTFZiUUVwdEhrQ0YxRzcwSTVObUVWaWJoeGlLM1dvbXctcVo5aXROMzNadHNNNFVTR19DYm1kUFhwZ1NXYjNYc25lXzZ1TU50SEtRUDFuMWJ3YnlFaw?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObkwyaWNtR2xPU1lZejlMNksyOWNldURYbnlsSnZSX295dEFVUEZrblM5Y1diWExKWFphaHVXX3kxUlBHOVgxT0hhdURRWHBLSFJKUGp5VF9wUnZvbXRTaWFtblp2ZWRpYTlkbVRPNkQxbUk5bllGWG8yb3o4YWR2N291dkNtd01WRU9OcnZ0ZTNMZGpMWm03RzBTaGtZX3U3a1lMeUt2bDd3c0R3bElwUktTSlJwMWFIdk9VV3VrdlY2MUh6T05KRzIwc18?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVN3cC1SaFdvR1IxWnN6QU9KNS12dFhMSlB4d2NnMGFoa1VnbE1nM19hTThrdjJFTFZiUUVwdEhrQ0YxRzcwSTVObUVWaWJoeGlLM1dvbXctcVo5aXROMzNadHNNNFVTR19DYm1kUFhwZ1NXYjNYc25lXzZ1TU50SEtRUDFuMWJ3YnlFaw?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONC1OYU5yNnRSY2tMOGVWQ01vZ1VEMGNkQzlJeVZKeEVYWlJvRThYT2IxUXYwV1YxMEdtQXNaMGwtVnlXX0dxbklmRHppZ0lQTTVaOXMzWk9xcUZOTHI3aG1zVS1BQmVXS0NKM1B1bnNaVEp1NEFJREQwdGs4Mm9UZGVvNC1SNDBCYTd1UWNrcVNXc3gxWW9vSHcyVkhrUzR6VkNPWUZvb1Q?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONC1OYU5yNnRSY2tMOGVWQ01vZ1VEMGNkQzlJeVZKeEVYWlJvRThYT2IxUXYwV1YxMEdtQXNaMGwtVnlXX0dxbklmRHppZ0lQTTVaOXMzWk9xcUZOTHI3aG1zVS1BQmVXS0NKM1B1bnNaVEp1NEFJREQwdGs4Mm9UZGVvNC1SNDBCYTd1UWNrcVNXc3gxWW9vSHcyVkhrUzR6VkNPWUZvb1Q?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONC1OYU5yNnRSY2tMOGVWQ01vZ1VEMGNkQzlJeVZKeEVYWlJvRThYT2IxUXYwV1YxMEdtQXNaMGwtVnlXX0dxbklmRHppZ0lQTTVaOXMzWk9xcUZOTHI3aG1zVS1BQmVXS0NKM1B1bnNaVEp1NEFJREQwdGs4Mm9UZGVvNC1SNDBCYTd1UWNrcVNXc3gxWW9vSHcyVkhrUzR6VkNPWUZvb1Q?oc=5"
       ]
     },
     {
       "title": "Oppo Find X10 series launching in India this week: Expected price, specs, and everything we know so far",
-      "score": 22.31,
+      "score": 22.01,
       "kinds": [
         "backlog",
         "news"
@@ -73,8 +73,22 @@
       ]
     },
     {
+      "title": "OPPO Find X10 Series will launch globally on October 21",
+      "score": 21.76,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVN3cC1SaFdvR1IxWnN6QU9KNS12dFhMSlB4d2NnMGFoa1VnbE1nM19hTThrdjJFTFZiUUVwdEhrQ0YxRzcwSTVObUVWaWJoeGlLM1dvbXctcVo5aXROMzNadHNNNFVTR19DYm1kUFhwZ1NXYjNYc25lXzZ1TU50SEtRUDFuMWJ3YnlFaw?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObkwyaWNtR2xPU1lZejlMNksyOWNldURYbnlsSnZSX295dEFVUEZrblM5Y1diWExKWFphaHVXX3kxUlBHOVgxT0hhdURRWHBLSFJKUGp5VF9wUnZvbXRTaWFtblp2ZWRpYTlkbVRPNkQxbUk5bllGWG8yb3o4YWR2N291dkNtd01WRU9OcnZ0ZTNMZGpMWm03RzBTaGtZX3U3a1lMeUt2bDd3c0R3bElwUktTSlJwMWFIdk9VV3VrdlY2MUh6T05KRzIwc18?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVN3cC1SaFdvR1IxWnN6QU9KNS12dFhMSlB4d2NnMGFoa1VnbE1nM19hTThrdjJFTFZiUUVwdEhrQ0YxRzcwSTVObUVWaWJoeGlLM1dvbXctcVo5aXROMzNadHNNNFVTR19DYm1kUFhwZ1NXYjNYc25lXzZ1TU50SEtRUDFuMWJ3YnlFaw?oc=5"
+      ]
+    },
+    {
       "title": "OnePlus 16, OnePlus 16R To Launch in India Soon: Check Expected Specs, Price And More",
-      "score": 20.33,
+      "score": 20.04,
       "kinds": [
         "backlog",
         "news"
@@ -87,22 +101,10 @@
       ]
     },
     {
-      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-      "score": 21.2,
+      "title": "India’s auto tech startups raise $1.3 billion in 2026 so far, down from $2.1 billion in 2025 - CNBC TV18",
+      "score": 22.39,
       "kinds": [
         "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4"
-      ]
-    },
-    {
-      "title": "India’s auto tech startups raise $1.3 billion in 2026 so far, down from $2.1 billion in 2025 - CNBC TV18",
-      "score": 20.68,
-      "kinds": [
         "news"
       ],
       "primary": false,
@@ -114,7 +116,7 @@
     },
     {
       "title": "Apple Stock Holds Strong Amid Healthy iPhone Duo Preorders",
-      "score": 21.79,
+      "score": 21.49,
       "kinds": [
         "news"
       ],
@@ -127,22 +129,21 @@
     },
     {
       "title": "The Pant Project Raises Rs 109 Crore in Series B Funding to Expand Retail Presence",
-      "score": 22.89,
+      "score": 22.59,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEJuZlJySFg4ZUNPajdEN1pYd3ZWWjNuczhtQXV0VFhQUmlqQ0ZsN042bnNtRjdkTjZGOU1yeTQ0WVlPQXU4TXQ1bHpwNzR3YXZ0YVRNSTZ5OHV0cnFVb0lDMGJwaWlQRklRQ1prNlpKTVBDa0EwU0NGb3Z0d2VIT0ZsRDEwLWtGSmpKWGpEUW02RmxZdmVHb21RbmtVUUItVFp4ZmtFcVp1RXZaa0M3VjFjbEFJR0NyaGszSFZHcWg?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVUpadDQtS3Fkcy11bWtHdWNmX1dCYjZrRzhlN0NnSjNib09obmdtSjBWcmJWQTdpUHFHQnJzS0hlUGJLOEZUQjJDSXNwcEJ1ZzhkWW5PZkY3ZDZ1OERPY1Jtc3pCc3ZpR29ZOHBwaWs2dXIxa2ZjX1dUb1ZQSTRGb0JJTC02cFl3eWptMmVoRGR1T2pWbmh1ck8wMzJVNm1vb3hNbEp6dmtXZVVEYi1EWHY2NmMwVFZCRnlPanFhX3ljOWc2eEZOY3lRa3YyNmNhcm5oVFlqOHgzMi120gHcAUFVX3lxTE5VSlp0NC1LcWRzLXVta0d1Y2ZfV0JiNmtHOGU3Q2dKM2JvT2huZ21KMFZyYlZBN2lQcUdCcnNLSGVQYks4RlRCMkNJc3BwQnVnOGRZbk9mRjdkNnU4RE9jUm1zekJzdmlHb1k4cHBpazZ1cjFrZmNfV1RvVlBJNEZvQklMLTZwWXd5am0yZWhEZHVPalZuaHVyTzAzMlU2bW9veE1sSnp2a1dlVURiLURYdjY2YzBUVkJGeU9qcWFfeWM5ZzZ4Rk5jeVFrdjI2Y2FybmhUWWo4eDMyLXY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXdRYVdMRTNpTldGNGJHeDlFLVpYdVlOYVZRR3ZVNTVXSnV4QUY4aVhjejIwVlRvM2xpc1o2UlR5WGZCdnRqMm95bnQ0dDgxbGlOYWRIdUhTdlRsSXMzdXhodWFLVDEySXVDLWRmT0trNm9ZX2YzYTZsNmltU1dnS0ZEQi1FSXd0Vm1wNkxvRlZDNmVyV1BQMV9BR09xalBVdnhJMlI3dDlVeGxOT1FQMFZqU2JiNHVnMU96cWRhelEtTHM?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXdRYVdMRTNpTldGNGJHeDlFLVpYdVlOYVZRR3ZVNTVXSnV4QUY4aVhjejIwVlRvM2xpc1o2UlR5WGZCdnRqMm95bnQ0dDgxbGlOYWRIdUhTdlRsSXMzdXhodWFLVDEySXVDLWRmT0trNm9ZX2YzYTZsNmltU1dnS0ZEQi1FSXd0Vm1wNkxvRlZDNmVyV1BQMV9BR09xalBVdnhJMlI3dDlVeGxOT1FQMFZqU2JiNHVnMU96cWRhelEtTHM?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVUpadDQtS3Fkcy11bWtHdWNmX1dCYjZrRzhlN0NnSjNib09obmdtSjBWcmJWQTdpUHFHQnJzS0hlUGJLOEZUQjJDSXNwcEJ1ZzhkWW5PZkY3ZDZ1OERPY1Jtc3pCc3ZpR29ZOHBwaWs2dXIxa2ZjX1dUb1ZQSTRGb0JJTC02cFl3eWptMmVoRGR1T2pWbmh1ck8wMzJVNm1vb3hNbEp6dmtXZVVEYi1EWHY2NmMwVFZCRnlPanFhX3ljOWc2eEZOY3lRa3YyNmNhcm5oVFlqOHgzMi120gHcAUFVX3lxTE5VSlp0NC1LcWRzLXVta0d1Y2ZfV0JiNmtHOGU3Q2dKM2JvT2huZ21KMFZyYlZBN2lQcUdCcnNLSGVQYks4RlRCMkNJc3BwQnVnOGRZbk9mRjdkNnU4RE9jUm1zekJzdmlHb1k4cHBpazZ1cjFrZmNfV1RvVlBJNEZvQklMLTZwWXd5am0yZWhEZHVPalZuaHVyTzAzMlU2bW9veE1sSnp2a1dlVURiLURYdjY2YzBUVkJGeU9qcWFfeWM5ZzZ4Rk5jeVFrdjI2Y2FybmhUWWo4eDMyLXY?oc=5"
       ]
     },
     {
       "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-      "score": 23.8,
+      "score": 19.51,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
@@ -154,7 +155,7 @@
     },
     {
       "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-      "score": 27.94,
+      "score": 27.64,
       "kinds": [
         "news"
       ],
@@ -162,7 +163,7 @@
       "links": [
         "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcV9jZ2FTQ2NIVFpreUs4RkdncFpRckhFQmxnVEQzQkZsanZVd2gyT0NqNkRqdlNmM2FZaWVtUklXSGt0a3JndWs3U25Zeng3bUdwUWIwTDVOTGpLN1JoZE1LVUNiX0MwZS0xcm1MaW52cTRXaG5uRnZhWEpzNkFWbzh0WUZVb3dXR1dhNnZ0eFpyd2d3NXdFZE5qQkhLMHlQS2tJcHB0OFB0U0ZRTVo3clJtMFVSMkd3RjhoWEEzaV91UkNuampnNVFMX0NMQnk3TGkxZkw3TnRlUUJOWlhIMnZFbmRIOUhiR3N1UkJ3Y9IB9gFBVV95cUxObzdQUW1FdG1uNlVlQzRhRXRHSDF1UWYtbWFfNDBaeS0yWFM3cGFsZm5KRzdLSXN6RmNRbVhwM002eTM4Tjh6ekZuXzJuUnUwT25uSE5BM1lRQlFwUm1XRHJIM2dIaDlMR0RYZXJsZy10SHVlYkN0QnNybU5YM2ZNMlEwZzNVR3dmNkttak5Rb3BMaXE5dk9tajBKU2hIZl9sSzVFTzFtWXJyMUZ2YTVuZHY0dktidkd1WVJfSnFEMHBMWVNrcFVyZ2RLaVI1eEVOU0cwT1RLYmdzdmxqanhPdEFfVHJ0MkZwclI1UU9JMTA3cHhTbXc?oc=5",
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1EyODdFMHdNVDVJVW5YVW1rWE5YX042MFNLWldLeVJ1UFlydXJYQnB5YlNldDhNdURMRlRGYVZicEp3SkhEaEZ0eXQ2VUhkanA5QVhZeUIyRVg4dW4wbzhmblZvU01PX0hlUUp5YzJZZHBzT0FSemhVN2k1eXVycG1PcnR6TXBUSDZSUERsc3pEamlDR1FCUnRXZk5vaWJVZDVGd2VmNEd6MThaZ3FvcS13MXRIYlo5d1p4S2JYOA?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZV9LY2wtTGtNa3A5b2dJQmtGNlVDcElYMkJ4cFBvSGw0TUVaOWc2OU5jdWNCXzFrZ21rMVp1WWpBaFZJaGJLVWpVNUs5c3daLU9YeU4xRHd5b1Z4RnJma2RWWUpUR2ZkOFJYOXYwaUZsYXl4TTQ0QVgyNkQ4blBOMlNxTG9nNHY1TkIxTG5MQUtBWk5KeVp3Q1hYUUllc1hLQVdraUNySWUzMjJqbnlqdWd1N3VUQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZV9LY2wtTGtNa3A5b2dJQmtGNlVDcElYMkJ4cFBvSGw0TUVaOWc2OU5jdWNCXzFrZ21rMVp1WWpBaFZJaGJLVWpVNUs5c3daLU9YeU4xRHd5b1Z4RnJma2RWWUpUR2ZkOFJYOXYwaUZsYXl4TTQ0QVgyNkQ4blBOMlNxTG9nNHY1TkIxTG5MQUtBWk5KeVp3Q1hYUUllc1hLQVdraUNySWUzMjJqbnlqdWd1N3VUQdIBvgFBVV95cUxOSk93X3lmRG4tTTRKYXRIRDZIRFdQaDlPQlJpSU80VzVqaDR6ZDhjNnlDQnBoQm1ma3ZMTkdXakNOMmhYdldHQ0ZwbE1oSThqa0dMc0dscWxQYTNQWXRLNjRCXzdTcC1DbW5QRGJ5UTdrT2JKeGlBaG5XOS0zS2plaUkyLWZjU0dXSzlpeUlxU1F3RFcyVGV2d3NpcEtDRTdSOURtU0ExY1Y4SU9odmh1VjIxQzdlTGlUVWYyNEF3?oc=5"
       ]
     }
   ]
