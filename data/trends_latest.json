@@ -1,24 +1,11 @@
 {
-  "job_id": "2026-10-19-evening-1701",
-  "chosen": "Volvo Cars expands NVIDIA partnership for automated driving",
-  "reason": "Volvo's expanded partnership with NVIDIA highlights how cutting-edge AI and centralized computing are accelerating the future of autonomous driving.",
+  "job_id": "2026-10-19-evening-1801",
+  "chosen": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
+  "reason": "It highlights concrete, government-backed Indian AI initiatives focused on impactful applications in healthcare and assistive technologies for everyday citizens.",
   "candidates": [
     {
-      "title": "Volvo Cars expands NVIDIA partnership for automated driving",
-      "score": 21.81,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEVpcVEyZ2cweF9HS2RKc1pzakVqVVRoMnBtOTRFVTBUTm5WTDNkUEJDLU1WckI4b2VWTE5ZaEVMaFVPNWZDOWJUSzhlTm5WS3UtWXVFYXJ4QXJuSlVXNkNfUGJUZFNZeElhdzdxTVlINTg4b1BvWU51b3JzaGxBaEdGRGJzUi02b1ZsckxfVWI3QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODBlNWtSX1pndFc2WGExLVh0cVhuQm9vQUMxNnFnRkV5NWg0dVZhcTJSR3QtbTBxampEV3dDNXUyelBYSU92MkdidXZkWWFiLUh1WXBrRDBXSVVIMzJhLVF5UzdCRWRlM282X2RUNG91djlOWnhCQ0pHcy1XdjA5VEJhazVHLUdpN1RQbVBaVm7SAZABQVVfeXFMTTgwZTVrUl9aZ3RXNlhhMS1YdHFYbkJvb0FDMTZxZ0ZFeTVoNHVWYXEyUkd0LW0wcWpqRFd3QzV1MnpQWElPdjJHYnV2ZFlhYi1IdVlwa0QwV0lVSDMyYS1ReVM3QkVkZTNvNl9kVDRvdXY5Tlp4QkNKR3MtV3YwOVRCYWs1Ry1HaTdUUG1QWlZu?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXhzZGVMT0hSWnVxdlBvQlY4WGwtVkFRRi13MTJPd1Q3M3oyTnktajd3SHZXUGxCclozQmdheHhzUnEzRHdzdWZ6YTVWcldoLUlTbVZSVWhhbllKQmtvZFlRdGhudmVvR19KNi1PMThXT0RSYWRKUGlfUmVrZjBsbHd4UXhDRTdCTWVFc2NjTGVDcjNHWWNjZy0tRnJOdUFrX2ExS3Z5U0RHOTUtYUE?oc=5"
-      ]
-    },
-    {
       "title": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
-      "score": 23.56,
+      "score": 21.31,
       "kinds": [
         "backlog",
         "news"
@@ -27,49 +14,81 @@
       "links": [
         "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTNubDRFOTBubGRvaWc4YnB2a1ltdGZhdUFabkhNRjdBaFBHWDRST19hRURsNWM2WVFRN1NqUkdyZEFReGdxaGQ5VFZVLTBUd3piUGZldDNTWFRxWWtoaFhtRUdiNTYtTC1QQkg0V3pSVVdyb1B5M0JTRWJGZGFlVFFDc3NtUVV4aHp4RHp6aE85WHFvSHFkb3BKLUpiVVYwVXBIRzBVVGZDMy1VdkFpaXRWN09zZURQTTU3Ukhaa0NqcjcyMkRWcjNEeTNGSm5LNVB1NnA4OFA1TnN3T2pZSkN3SEY0bkdFUHRfekhR0gHyAUFVX3lxTE4wd2o4RGVYRC04TEs0N21QcnI2bEdlU3dQU3hMbnh2UlhPWk1PVTdrWmZsS1NsSlYzWDRqQnNjX0FZZWVkN1Y4MHkyU3NFSDF5eklUVVJDZy0zY295SWJDaXlNOHhTbG55OHJqYWtJeHJ1a2hCNVZwYlRiTWZER1hyS0V4VmF0Qm1uQnNtYzdoV25ZOTlBNV84VUpPTlBNU1dZUWtEZGdwSE13dVB6NTdySktzWTdweUE1UVVEN2ZsOFNWWnhuVXVMWUxDbzlfX2lhTzgtMWUxZ3hHS09RSHpWT2tpVm9tUlh5dHFaemVhdFFR?oc=5",
         "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT2N0NWFYRVRFZnhnclZlNlhYS19nS0RnWWZZancyaVhTR1ZaZ2VBU1NNU0tlNUkxREtEcWZ6aWEtaHRHLWc0VjNfcmJlS0dTcllTb2NwaVRNbXZVZUZBN2RRcjJQcURoRlFBNUNpQ3UwYnI1dDhJODkxbW9ZMXFkc0J6TU5ULVVYTHFJR0ZfdlV4UlJrckVzd19fUzR3anRPZkpxRk5zQl9KUlRiRVhuQUJsSVBlb0NybFhITFNyb0NqOXdQeC1rWFh4eWliNW9YMDQ1SEt4cW82UWhPOGlwX2ludjE2LWhBczlIS0UtMDFuM2FuUk1Dc19IUmdKSmfSAf8BQVVfeXFMT09jdDVhWEVURWZ4Z3JWZTZYWEtfZ0tEZ1lmWWp3MmlYU0dWWmdlQVNTTVNLZTVJMURLRHFmemlhLWh0Ry1nNFYzX3JiZUtHU3JZU29jcGlUTW12VWVGQTdkUXIyUHFEaEZRQTVDaUN1MGJyNXQ4STg5MW1vWTFxZHNCek1OVC1VWExxSUdGX3ZVeFJSa3JFc3dfX1M0d2p0T2ZKcUZOc0JfSlJUYkVYbkFCbElQZW9DcmxYSExTcm9Dajl3UHgta1hYeHlpYjVvWDA0NUhLeHFvNlFoTzhpcF9pbnYxNi1oQXM5SEtFLTAxbjNhblJNQ3NfSFJnSkpn?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXV0akpMS1c2ZVJwb09EQWMyRjRRZERBVWduMmdJU0dyTGdqQnhVbEZaOE4wbkV0ZTNPRkktdGZCR3ZYUzF4bU9Qc2k5UHNBc1NHNkpfMnBJcXdjYi1Kc2FnbXFoUjdwd092dE9zM1FrZC1vbWg3VlI1NFlvd1dqV3Y2UlZQcWdjcVZEbzlNQmJZX1lWVEMwVHFmaXpqNzNLNzZWZE16S0Z3ZnRuX0lESWh2TDdiOGs?oc=5"
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTNubDRFOTBubGRvaWc4YnB2a1ltdGZhdUFabkhNRjdBaFBHWDRST19hRURsNWM2WVFRN1NqUkdyZEFReGdxaGQ5VFZVLTBUd3piUGZldDNTWFRxWWtoaFhtRUdiNTYtTC1QQkg0V3pSVVdyb1B5M0JTRWJGZGFlVFFDc3NtUVV4aHp4RHp6aE85WHFvSHFkb3BKLUpiVVYwVXBIRzBVVGZDMy1VdkFpaXRWN09zZURQTTU3Ukhaa0NqcjcyMkRWcjNEeTNGSm5LNVB1NnA4OFA1TnN3T2pZSkN3SEY0bkdFUHRfekhR0gHyAUFVX3lxTE4wd2o4RGVYRC04TEs0N21QcnI2bEdlU3dQU3hMbnh2UlhPWk1PVTdrWmZsS1NsSlYzWDRqQnNjX0FZZWVkN1Y4MHkyU3NFSDF5eklUVVJDZy0zY295SWJDaXlNOHhTbG55OHJqYWtJeHJ1a2hCNVZwYlRiTWZER1hyS0V4VmF0Qm1uQnNtYzdoV25ZOTlBNV84VUpPTlBNU1dZUWtEZGdwSE13dVB6NTdySktzWTdweUE1UVVEN2ZsOFNWWnhuVXVMWUxDbzlfX2lhTzgtMWUxZ3hHS09RSHpWT2tpVm9tUlh5dHFaemVhdFFR?oc=5"
       ]
     },
     {
       "title": "Samsung Galaxy F70 5G launched in India at ₹19,999 with 90Hz AMOLED, Gorilla Glass Victus, 50MP OIS camera, and Exynos 1330",
-      "score": 29.08,
+      "score": 28.83,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VYjNJWDRQdGtDbEpqRkV1Vjg2VWJHd2R2MHdVSVlPQ0cwVlNFQUh6TkFqeDhPSk1YcEJGc3o0YWQwSFNxeTNfZVpPcnJvbGo5M0dLTGZEcF91eVN6Y1JGR28tQQ?oc=5",
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWpCUHkwVkVFSHdzQXhieUtwVGlSeHFRc1hwS2hiZUFnbUlVeWZQM2RLVU51M3ZKdkpPWGU0RF9fcWpWN09XU0FOT1BPaFVsUEZNWk4wTU9ZUU9HMkkwNWQxMWNMNXp5UEtNSnZyRU9LOUk2SHdPOFhGSXRnTjF0QlZmSkJPZTExN2NmUkJQZmJEbDMxR29R?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFNtM21EeUd5QTloM0NYSkRPdmFVWERDRUpBUHVJSkxDa29FNkNzeFVIamhNLTd6Y3Juc05TbTFSeG9mMEZvUndfV1lTQjN1RVpXMFV1cUFzal9nTFlkeUY1bFQ5S2dpdWVJTVc4Y1dPZ2x4VFo0M01YZFAtXy0xZThaRHZrLXdpNElkYjhsMXhVY2xPYnZkc3RUV080RDR4Ri13RXJTaW1hYjNfZ0l2a09HdUJkVDVBYmNqYmVuRXdkUU9sMG5nXzRTT19uelh3?oc=5"
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWszVEt4dEZnNkdEM2ZOTEhuSkowdVRBNGxqd09fdDR6eTdkRmFZWlRoYjlGbTBoQVpOaGpyTThfeUhRNjJRUW5mcm5WQUtQTW1iRVFselFnTVZVY3JSdXF2bFE1dndwMUpjT1pnTnRzSzRNaE1jQ0VvWFBxcEV2bFhoOHBZRURCM1Fwb0w3aU5xRmYxNDk2YXFRbDNsLVBJNExMcFZvQ0ZhTEJMUDBXVHhlZmt5T0F6NFppemdmRmJUcFVCa004X25reVM5d2hKa1hkTnR6Z1JXUdIB2gFBVV95cUxOTWszVEt4dEZnNkdEM2ZOTEhuSkowdVRBNGxqd09fdDR6eTdkRmFZWlRoYjlGbTBoQVpOaGpyTThfeUhRNjJRUW5mcm5WQUtQTW1iRVFselFnTVZVY3JSdXF2bFE1dndwMUpjT1pnTnRzSzRNaE1jQ0VvWFBxcEV2bFhoOHBZRURCM1Fwb0w3aU5xRmYxNDk2YXFRbDNsLVBJNExMcFZvQ0ZhTEJMUDBXVHhlZmt5T0F6NFppemdmRmJUcFVCa004X25reVM5d2hKa1hkTnR6Z1JXUQ?oc=5"
       ]
     },
     {
-      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-      "score": 20.74,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4"
-      ]
-    },
-    {
-      "title": "OPPO Find X10 Series will launch globally on October 21",
+      "title": "Oppo Find X10 series launching in India this week: Expected price, specs, and everything we know so far",
       "score": 21.59,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLXZWcW93MXp3SHgxRzBDaHEycS1GZUQ2SG5sTXpWbzVkTkthMFhVZFVOV3RnWEZleWNSRVVBRHlub2loQ1RMNnJZTEhvZGNieGcxaTk3MzFaUUFXRzlJcUhvT0tuM0VtUU9pR3JrODlPZE1BYTBJOUg3cGh6SV9GemkxV1ZkcEJTekpFT2ljbkhaTjZuRGxDc3FEWFhJTFc5UGlGWk9HR0E4OXJkQ2dSak5FYVhiZk9QbnJQTXNxbDZ1LXY4dzNzcE1RVWp0c3lJeTAyQ0ppODVHOElrU0HSAeMBQVVfeXFMTjNJcTF1UTUxZGkzZUtXeHlPdGR4ZVFKNjBXUFJJQW1EYjVlQWlrWWExMS1ndjlveFhnS2hUeEh5ZHYyZFdVTzZVWVJRdlhYTzd6VjQtcVg1QzV2dmV5bkg1NmRSQm90THE1TkxLTERuWEVyVGc1MU9UbTdKVWY0NEplTzFIS2VvejBCM2wzLTZQVjdZQnh5X3I4OHV1Qml2dER2NlB2Y3VpQ196eV8wbFBhVGJ1ckhCbWpUcjhmdkVaVlk0dzYycHZVYTQ2UlRKbjFtQ3dGRG1mU2lqZU5ZcUxCeDg?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0lxMXVRNTFkaTNlS1d4eU90ZHhlUUo2MFdQUklBbURiNWVBaWtZYTExLWd2OW94WGdLaFR4SHlkdjJkV1VPNlVZUlF2WFhPN3pWNC1xWDVDNXZ2ZXluSDU2ZFJCb3RMcTVOTEtMRG5YRXJUZzUxT1RtN0pVZjQ0SmVPMUhLZW96MEIzbDMtNlBWN1lCeHlfcjg4dXVCaXZ0RHY2UHZjdWlDX3p5XzBsUGFUYnVySEJtalRyOGZ2RVpWWTR3NjJwdlVhNDZSVEpuMW1Dd0ZEbWZTaWplTllxTEJ4ONIB4wFBVV95cUxOM0lxMXVRNTFkaTNlS1d4eU90ZHhlUUo2MFdQUklBbURiNWVBaWtZYTExLWd2OW94WGdLaFR4SHlkdjJkV1VPNlVZUlF2WFhPN3pWNC1xWDVDNXZ2ZXluSDU2ZFJCb3RMcTVOTEtMRG5YRXJUZzUxT1RtN0pVZjQ0SmVPMUhLZW96MEIzbDMtNlBWN1lCeHlfcjg4dXVCaXZ0RHY2UHZjdWlDX3p5XzBsUGFUYnVySEJtalRyOGZ2RVpWWTR3NjJwdlVhNDZSVEpuMW1Dd0ZEbWZTaWplTllxTEJ4OA?oc=5",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXBSTlIxaHpQeFZiT3hod1VmVV9pMG1SaU1QYU0zdER4ZktiVklVY25lVDdXUmZiTXl2VkVEbDhpUE9CRjIyN092a3g2YUFvNE1FSTFRNExUOEFJQzc3RnlBajZmV2t4SE55Rm5vNWo0bWlOQWVuellvTFBkNjJrb1ItNGJoT1c0RVlweElVUWZyLTk1aHNTNEpnaFNuWDBkd3NXNkRxajZwZlZoSXpsYmdTdV9vMWNiSXQ5SkREa19iY08xcmNHTnZxSTV6NnpHRjN0QjZIdVllRXNPZTdtOEtSdVNwNDR1cG1pd0R30gHzAUFVX3lxTFA4MXgyai1KQlNocE9nUFozRDdXbktBdEFPNlBzYUhkZkROdVNJRDhPSW9YY25xVTRSNV9LSXVLUkU3VFhISFcyMklFZ0M4bW5IZzV5OU9jM2pkTDRHVUpZTjBnRm8wMUpaWGhvUXFfVm5hNDlZTzZzMHBKUjhVSU8tYjRVSGczWTdDYkRZX3N6cFhHRFlDV2l0anplRDlsN21jMUp6SHhDTFpNdER4M1dldHdHU1BTd0Z3NG82TloxYTc0dG1xVW1GMl9ydVVFel9pd0M0R3BYbjVzZVQ1dUN5c3dxNG8wRnlpdVZvaHl5Q2Nrbw?oc=5"
+      ]
+    },
+    {
+      "title": "OPPO Find X10 Series will launch globally on October 21",
+      "score": 23.35,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVN3cC1SaFdvR1IxWnN6QU9KNS12dFhMSlB4d2NnMGFoa1VnbE1nM19hTThrdjJFTFZiUUVwdEhrQ0YxRzcwSTVObUVWaWJoeGlLM1dvbXctcVo5aXROMzNadHNNNFVTR19DYm1kUFhwZ1NXYjNYc25lXzZ1TU50SEtRUDFuMWJ3YnlFaw?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObkwyaWNtR2xPU1lZejlMNksyOWNldURYbnlsSnZSX295dEFVUEZrblM5Y1diWExKWFphaHVXX3kxUlBHOVgxT0hhdURRWHBLSFJKUGp5VF9wUnZvbXRTaWFtblp2ZWRpYTlkbVRPNkQxbUk5bllGWG8yb3o4YWR2N291dkNtd01WRU9OcnZ0ZTNMZGpMWm03RzBTaGtZX3U3a1lMeUt2bDd3c0R3bElwUktTSlJwMWFIdk9VV3VrdlY2MUh6T05KRzIwc18?oc=5"
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObkwyaWNtR2xPU1lZejlMNksyOWNldURYbnlsSnZSX295dEFVUEZrblM5Y1diWExKWFphaHVXX3kxUlBHOVgxT0hhdURRWHBLSFJKUGp5VF9wUnZvbXRTaWFtblp2ZWRpYTlkbVRPNkQxbUk5bllGWG8yb3o4YWR2N291dkNtd01WRU9OcnZ0ZTNMZGpMWm03RzBTaGtZX3U3a1lMeUt2bDd3c0R3bElwUktTSlJwMWFIdk9VV3VrdlY2MUh6T05KRzIwc18?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVN3cC1SaFdvR1IxWnN6QU9KNS12dFhMSlB4d2NnMGFoa1VnbE1nM19hTThrdjJFTFZiUUVwdEhrQ0YxRzcwSTVObUVWaWJoeGlLM1dvbXctcVo5aXROMzNadHNNNFVTR19DYm1kUFhwZ1NXYjNYc25lXzZ1TU50SEtRUDFuMWJ3YnlFaw?oc=5"
+      ]
+    },
+    {
+      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "score": 22.49,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+        "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4"
+      ]
+    },
+    {
+      "title": "Samsung launches Galaxy F70 5G in India: Check price, features and specifications",
+      "score": 23.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNREQ5dU5zT2dlNHBkOU1OaEhRSHVmVU1aVFNkY0tpTEY4NnRiRTZ6YUpGbnZjZVI2dWJCMlF0WFRqbVZtM3pOTURRVmRCVGJyd2JSb1RQNmtob2tSNDZWUEl0N2VLdHd6YzN5c3hTR1VhTEdtVDJ4SVJlaEF6Y2hoUXpSRnFXNlhROEwwZkdQSWFWMTRXRjFQOXFJWlBWa3UySW1tRzUyWGpjbC1SUlB5SEFQOG9GZ3RKWDluQTNyNW9lWGVYalA00gHMAUFVX3lxTE0xckN1a0JkN242VU5XTTFJT1lNR09WWEJKdGRSZlYwZVQtek5RdnpxT3JvcTNjbWF5MnpHLXN5UGtnX0t0dUxfRTM1T21PVjVBTGF5d3k4dkhnUDJVYU1udEM4Vm91c0RQVU5zZlpGN05hX3laTktudkNFYUVXcWxRS05JTFo3SU5sNWFFSG9vbEZVWlU5ZWpoY3lpZVhKekRjUjhXTG5iWkRTRjY1Sy1lU3BVRFh2QzhaVDV2VGVnd0VqVWFJYVRtamxXTw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnlWeHR4V3lVVVJWWmYtc2FsVDlRWnpzSDczRUNiUlpPcEJLdDlDelB5Y3E0cFBJMW4xWnhGdW0tZXFkNnhjMy1EamhpLTE3RllRMnBHQk9XbS1uTV9DSHVjVEZjMi02MEdPZDFjSUhYNUpweXRld0V3OVRJZUE2czFmaWFmOUVvc3ZVdGpubmlDbHZQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjJwZUZvc0d6U2JQdFJaU3RYQVh5bHZYc2VhOTk4SjlmS01hc0tCWWFVMlRxZHYyUFBUMUdRS2NCRHBHU3Z3b2R6TVBYdWJldmxKUHlvczZpMkRHMHI1NVdBcFdEcG5kMW1IVi1RblV0THQ5ME5mOHNRaWJsc2YxNEZ5QWlJWVctcFJr0gGQAUFVX3lxTE84TV93Sk0wUzVEQjdjU1VsYUhBb09lNzJqU1I0NUxLUkIxdjlmdVJWQWZxSjVybHVUazRMX0tTNlM4YVFDanVFaDI3V2hIQlJZZjRVVngxRGZMX3lVQkRIVkxPcFJkOXRQWERtUW9yeHZlYTlaTWI1d1dlcENlVzhTQ1l5UFVJaDlvdXZJeXU2eg?oc=5"
       ]
     },
     {
       "title": "OnePlus 16, OnePlus 16R To Launch in India Soon: Check Expected Specs, Price And More",
-      "score": 19.87,
+      "score": 21.62,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -81,8 +100,9 @@
     },
     {
       "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-      "score": 21.62,
+      "score": 23.37,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -93,68 +113,55 @@
       ]
     },
     {
-      "title": "Artificial Intelligence - ABC News",
-      "score": 27.74,
+      "title": "Artificial Intelligence (AI) in Crop Monitoring Market with Segment Analysis and Strategic Industry Insights",
+      "score": 19.96,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbENHR3djRzNMSl9RckQ0cTJrV1d4QVNPTExfTzZCNVp6cVdYRHRPbE1CcERyVHF3ZExHWVIyX3dvN1ZRM2ZIaUZuc2t6V195MUpVb3hYYjAxVE12U0FLOERCOHZ3cEF6akh1N200LWRDbmhPM2lCUGNtYlFySE1ieVFjc01mdEV1dUJpazlFZ1hfVW9DSEZTc3FLLUk2blYtQ2dNbEEwQjdYOThpbnloR01uUl9wZmdUc0hvOTdULVFURGFXd0dsVG5yWmI?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORkgzVGJUZDhDb1FEc2pOM1FiVUtQcGF6QloxajN1VDg5VmdyV3dFdmRPUXlUaGpWS2QtNHE5RGc2aC1qUDlNeXRPbTBBeU5JNndTTkxlRWNSYTZwanNYOThvUmZwRmtoYWxTS3ZvZndiUHJUQms0QXdQSWhaUURPY3BpczktVENVa3R5SjFmeFV2eWY1cy1IN2RGcjJPOHR0dEczenZqS2tyUUFyVEwxbnc1OERYek1JZF8wblFqa0hnQTg0TEFlMnl1Y2lnUDdZYnhoNVZLQzktQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaF9WNHFXTmtLYU5VbVBXcmFfdlpJM1ZQRlc2X0pBY0o3QTdjQTc0U3BtaTZWN3c3SFczUDdLSG52S05YZS01V3ZGTkVIS092c3JacENmd25XamhvWkxQLVZYN1hWZnJ2dHVWWWZrazJzd2g0UUp4RjdWOVlWTDhMeWtyR2hFOFltYmhKdUtHSEZRNnp3WlJ2aUtPSGpucVBUWU1rU0I2ZFB1MzFrYXhQX0hmbVh0WjFlVWlzMWxzZS1uNTZJMGZmdDVhMFFZcTVFekpfQTdrODFrdlQ2LUV0Z05nR1Z2bzN1?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFQyeGRJUjBhVDFCeG1CZXllVWg0cUVJQ2NYOHp1aFc0R3NHS1dJc0tYTjJEVENwdnRLVGU2T19ta3NSQTZKSHNOTnFzRll1VlJmX1VPWDBfWmxsckdLQ0JzNE5wb0RlMEV5WnRxeXl2cjNTNjZxVGtUYjlFYUluSEE3Z0F0QldfcDJr?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
       ]
     },
     {
-      "title": "Premium menswear brand The Pant Project raises Rs 109 crore to expand retail network across India",
-      "score": 23.92,
+      "title": "The Pant Project Raises Rs 109 Crore in Series B Funding",
+      "score": 21.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVUpadDQtS3Fkcy11bWtHdWNmX1dCYjZrRzhlN0NnSjNib09obmdtSjBWcmJWQTdpUHFHQnJzS0hlUGJLOEZUQjJDSXNwcEJ1ZzhkWW5PZkY3ZDZ1OERPY1Jtc3pCc3ZpR29ZOHBwaWs2dXIxa2ZjX1dUb1ZQSTRGb0JJTC02cFl3eWptMmVoRGR1T2pWbmh1ck8wMzJVNm1vb3hNbEp6dmtXZVVEYi1EWHY2NmMwVFZCRnlPanFhX3ljOWc2eEZOY3lRa3YyNmNhcm5oVFlqOHgzMi120gHcAUFVX3lxTE5VSlp0NC1LcWRzLXVta0d1Y2ZfV0JiNmtHOGU3Q2dKM2JvT2huZ21KMFZyYlZBN2lQcUdCcnNLSGVQYks4RlRCMkNJc3BwQnVnOGRZbk9mRjdkNnU4RE9jUm1zekJzdmlHb1k4cHBpazZ1cjFrZmNfV1RvVlBJNEZvQklMLTZwWXd5am0yZWhEZHVPalZuaHVyTzAzMlU2bW9veE1sSnp2a1dlVURiLURYdjY2YzBUVkJGeU9qcWFfeWM5ZzZ4Rk5jeVFrdjI2Y2FybmhUWWo4eDMyLXY?oc=5",
         "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXdRYVdMRTNpTldGNGJHeDlFLVpYdVlOYVZRR3ZVNTVXSnV4QUY4aVhjejIwVlRvM2xpc1o2UlR5WGZCdnRqMm95bnQ0dDgxbGlOYWRIdUhTdlRsSXMzdXhodWFLVDEySXVDLWRmT0trNm9ZX2YzYTZsNmltU1dnS0ZEQi1FSXd0Vm1wNkxvRlZDNmVyV1BQMV9BR09xalBVdnhJMlI3dDlVeGxOT1FQMFZqU2JiNHVnMU96cWRhelEtTHM?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVZJQWhySGxNbHltc1Q4QWtYVWtmVmlLLXRyLTZpZWZFRFVRWERVV2ZmbFRFcFhlS2hBc0V4RFZaRlUtNmhoWExYODN3YUFteFVSckowSDREWHI4VUpSc1MxYURDUlhFY0t3eTFuYXJITWQwWGJJUzMxSmt1NDhNbVU2eXZ3Yk5zQUpmdzRwZ1ZPaW9ERGJF?oc=5"
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVZJQWhySGxNbHltc1Q4QWtYVWtmVmlLLXRyLTZpZWZFRFVRWERVV2ZmbFRFcFhlS2hBc0V4RFZaRlUtNmhoWExYODN3YUFteFVSckowSDREWHI4VUpSc1MxYURDUlhFY0t3eTFuYXJITWQwWGJJUzMxSmt1NDhNbVU2eXZ3Yk5zQUpmdzRwZ1ZPaW9ERGJF?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVUpadDQtS3Fkcy11bWtHdWNmX1dCYjZrRzhlN0NnSjNib09obmdtSjBWcmJWQTdpUHFHQnJzS0hlUGJLOEZUQjJDSXNwcEJ1ZzhkWW5PZkY3ZDZ1OERPY1Jtc3pCc3ZpR29ZOHBwaWs2dXIxa2ZjX1dUb1ZQSTRGb0JJTC02cFl3eWptMmVoRGR1T2pWbmh1ck8wMzJVNm1vb3hNbEp6dmtXZVVEYi1EWHY2NmMwVFZCRnlPanFhX3ljOWc2eEZOY3lRa3YyNmNhcm5oVFlqOHgzMi120gHcAUFVX3lxTE5VSlp0NC1LcWRzLXVta0d1Y2ZfV0JiNmtHOGU3Q2dKM2JvT2huZ21KMFZyYlZBN2lQcUdCcnNLSGVQYks4RlRCMkNJc3BwQnVnOGRZbk9mRjdkNnU4RE9jUm1zekJzdmlHb1k4cHBpazZ1cjFrZmNfV1RvVlBJNEZvQklMLTZwWXd5am0yZWhEZHVPalZuaHVyTzAzMlU2bW9veE1sSnp2a1dlVURiLURYdjY2YzBUVkJGeU9qcWFfeWM5ZzZ4Rk5jeVFrdjI2Y2FybmhUWWo4eDMyLXY?oc=5"
       ]
     },
     {
-      "title": "Best Pokémon TCG deal: Chaos Rising Booster Bundle is 25% off at Amazon",
-      "score": 19.77,
+      "title": "ISRO ICRB admit card 2026 expected soon at isro.gov.in: Check steps to download hall tickets here",
+      "score": 19.92,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaFR2NEpEZXhtRnhRZnQzRjMyOWxmc3czZVBXSmQwZXd1QzBraU1UN3hXcW13eTlzZDdCRmZlckpOcFplQjdVWHFzQUJsT0h1S3g4eUZ4eEdJaFN5bW5qOEJZWnRHZUFZNU5RWnJBZGYyMDc0UUZwVzE5bVBfUW1RemRoRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaFR2NEpEZXhtRnhRZnQzRjMyOWxmc3czZVBXSmQwZXd1QzBraU1UN3hXcW13eTlzZDdCRmZlckpOcFplQjdVWHFzQUJsT0h1S3g4eUZ4eEdJaFN5bW5qOEJZWnRHZUFZNU5RWnJBZGYyMDc0UUZwVzE5bVBfUW1RemRoRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaFR2NEpEZXhtRnhRZnQzRjMyOWxmc3czZVBXSmQwZXd1QzBraU1UN3hXcW13eTlzZDdCRmZlckpOcFplQjdVWHFzQUJsT0h1S3g4eUZ4eEdJaFN5bW5qOEJZWnRHZUFZNU5RWnJBZGYyMDc0UUZwVzE5bVBfUW1RemRoRQ?oc=5"
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV3dvMHRHRXhOdG5qanNuTTlHLXJFckVWMm5qbHVaNmJrdzdLLW1rdGRONTZRQ3ZiZ0E5MHB1M2NVQ3JoZWpZRWVKdXlOV0h1dk9Fcm9zWU5QM0Ywd3owUy14aGtlbTA5ZkRrVmtBLTc0bjNqb002MWlMM0ZOQkpfZHJTRk5RaGpxaVMxekVvMEtpVm1fTXJUSXlTUXZWN2szNUdXdjlUV2o5cWFtUDNkSnlhNWpEZ1B5d0dsem9Jd25VNmh5cUwzc3hOeVFCcDRoMFhCQnV6MjE5OFVXX3BycWVxSXNuZmlPbkpQYlNVd0JuY19fMjhoZ1Y4aE4xMEpOQWxz0gGIAkFVX3lxTE53QS10Q2NPMmJQNUhHXzNSaGMtY1p1RV9Na0ltN0NuR2EzRGdFdVBaWUlzM180bDVQajdkVjBKVVNvWWhrSWN2OFdKU3FIVjNaRVlDenZoOTZGRVJ4UGhmdEJ1MlIyZWRRM1RzOFpFZ0NkQkVWZnJ0MURLM2xDN1BLM3h4UlEtUnFEN0lLVnlnUVdORWI0YVU3ZmNnY2ZEWDI1Q1ZpY2Ywdmd5d0tjb1lGU3JCQmF3c19oQkd4cmRnY1E2OWNOYzBNa1VrUVpoZjFrODlVc1JaVVdpM294aW53Y3dfTkR0cTRvaUxvX3ZMV1ROU2swZmdqZ2dtZmp5cGpkNG1aaFlvMA?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEpBSzFiME1ZLUhFLW1DWl9fd0FWNjl5UFlIamtWQ3NnbXBWUFNzbFN2X2xZZTVsd3RhbVdKUmtTWlI5UG5mSFppbEdra1ZPOGRvZ2FYcHZ0d1FCNl9PdS1vUGZmWlN3U1VkZ0lvaVlsemZBRVEyUktrVUpZMkxHaUhtMGVnUVVlRmZzdFBwZ0VUX1FOb2h6ai01c1JTTWJBRHkzaXhoamV4Y1lUQTJuUURiNFNVTEdUMkRoN0ctZ2VZREVuMW1BWVNGYmw?oc=5"
       ]
     },
     {
-      "title": "Today's Hurdle hints and answers for October 19, 2026",
+      "title": "Today’s Quordle Hints, Answers for October 19, 2026 (Puzzle #1729)",
       "score": 21.3,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4QkNySGI1cXYwNFhSX0NzVm43VkhqY0lrY3dmWjlaeGpSMmZkLXhqUWR6a01CZDRzQ3JLbjZjQ0lIWW1FM1hqYlRxak8ycGxkMnRuWjVseDJUMm1WZUhNUjR3NDhxVmkzTnVHemJlQUFlTFh1b0FUNi1VOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHF6Y3Q4ajFoekdSN01Gc3UxUTFZNDEtMW95cndLZkw2aTA3dHhLTU9aNzVfZWpKLUVQNzFFc2c0dWVwZkdzSWE3cXFvOGczUWI2OEFjdWtQYkVidzBYMFBJWW1hTGVNWkJNVTc0dHVqN2cwY3dmcGVqem1uSkFlWHdBNEtwSDhpRjNRSUFFMmxEdjZkd1pqekJuclVSTTczMUpzaG1Nbms5eFHSAbgBQVVfeXFMTlBWdnEyZTNwdGRsT2ZobkFTMl9NX0tlX3hxWFNJUFJfRUFhR3A5R0ZPNnFGUnZaRzc3cEZfZnVWejlVMEl6TXdSWlRDUXV6RFpjcDU2d1BNRXZZeHFpb05mMHNXZmZrOEJBRFN0dkx0WkNmM3BfUFN2Q2xZMF90d3FNa3lreTRVR3dqUC1rc01uUGlBMGtkNzM5MlZESktCTmZaZVZJRFVwUDNXaGd1S25hcDVVV05fSw?oc=5",
         "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4QkNySGI1cXYwNFhSX0NzVm43VkhqY0lrY3dmWjlaeGpSMmZkLXhqUWR6a01CZDRzQ3JLbjZjQ0lIWW1FM1hqYlRxak8ycGxkMnRuWjVseDJUMm1WZUhNUjR3NDhxVmkzTnVHemJlQUFlTFh1b0FUNi1VOA?oc=5",
         "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4QkNySGI1cXYwNFhSX0NzVm43VkhqY0lrY3dmWjlaeGpSMmZkLXhqUWR6a01CZDRzQ3JLbjZjQ0lIWW1FM1hqYlRxak8ycGxkMnRuWjVseDJUMm1WZUhNUjR3NDhxVmkzTnVHemJlQUFlTFh1b0FUNi1VOA?oc=5"
-      ]
-    },
-    {
-      "title": "Starbucks Red Cup Day 2026: When to expect your free reusable holiday cup",
-      "score": 19.96,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGNTTGVDQXNUV2otSE5WWFRLRndsd0M4Mm1QLWdORHBhWm50ajI2ZEFIbE1kR0V2eFE0emVCYnNWQ1BUa1BweGZRTzNyWHJDc2NDS3J0cm9RUzdvX1p5WHR3UmNkMnFteVNBYlpEbVlrUGxhX1dqbzBXTy1BQnM5cm0yUWhVVVBwdXAtZ0tNbk1hQ2dlVlAwSA?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGNTTGVDQXNUV2otSE5WWFRLRndsd0M4Mm1QLWdORHBhWm50ajI2ZEFIbE1kR0V2eFE0emVCYnNWQ1BUa1BweGZRTzNyWHJDc2NDS3J0cm9RUzdvX1p5WHR3UmNkMnFteVNBYlpEbVlrUGxhX1dqbzBXTy1BQnM5cm0yUWhVVVBwdXAtZ0tNbk1hQ2dlVlAwSA?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGNTTGVDQXNUV2otSE5WWFRLRndsd0M4Mm1QLWdORHBhWm50ajI2ZEFIbE1kR0V2eFE0emVCYnNWQ1BUa1BweGZRTzNyWHJDc2NDS3J0cm9RUzdvX1p5WHR3UmNkMnFteVNBYlpEbVlrUGxhX1dqbzBXTy1BQnM5cm0yUWhVVVBwdXAtZ0tNbk1hQ2dlVlAwSA?oc=5"
       ]
     }
   ]
