@@ -753,5 +753,29 @@
       "qa_passed": false,
       "posted_at": "2026-10-19T15:38:46.296733+00:00"
     }
+  },
+  "2026-10-19-evening-1801": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/WikRTOewO44",
+      "facebook": "https://www.facebook.com/reel/3648281462005561"
+    },
+    "approved_at": "2026-10-19T15:38:48.972056+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-19T15:38:50.732976+00:00",
+    "ids": {
+      "youtube": "WikRTOewO44",
+      "facebook": "3648281462005561"
+    },
+    "info": {
+      "title": "MeitY AI Conclave Focuses On Healthcare Tech #Shorts",
+      "topic": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
+      "category": "Trending Technology",
+      "hook": "India is backing AI in healthcare.",
+      "seconds": 50.1,
+      "primary_keyword": "MeitY AI conclave",
+      "qa_passed": false,
+      "posted_at": "2026-10-19T15:40:14.515461+00:00"
+    }
   }
 }
