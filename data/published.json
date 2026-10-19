@@ -737,8 +737,8 @@
       "facebook": "https://www.facebook.com/reel/1088257697346410"
     },
     "approved_at": "2026-10-19T15:37:24.116524+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-19T15:37:25.460646+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-19T15:47:33.824332+00:00",
     "ids": {
       "youtube": "MmEi4JSOIQs",
       "facebook": "1088257697346410"
@@ -750,8 +750,7 @@
       "hook": "Nvidia is powering your next car.",
       "seconds": 48.6,
       "primary_keyword": "Volvo NVIDIA automated driving",
-      "qa_passed": false,
-      "posted_at": "2026-10-19T15:38:46.296733+00:00"
+      "qa_passed": false
     }
   },
   "2026-10-19-evening-1801": {
