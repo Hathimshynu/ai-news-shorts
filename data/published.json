@@ -815,8 +815,8 @@
       "facebook": "1689242352806013"
     },
     "yt_scheduled_for": "2026-10-20T21:00:00+05:30",
-    "attempts": 1,
-    "last_try": "2026-10-20T15:30:05.041059+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-20T15:40:09.296435+00:00",
     "info": {
       "title": "Google AI Interview Process Changes Revealed #Shorts",
       "topic": "Internal docs reveal how Google is shaking up its interview process with AI",
@@ -824,8 +824,7 @@
       "hook": "Google is changing job interviews with AI.",
       "seconds": 52.9,
       "primary_keyword": "Google AI interview process",
-      "qa_passed": false,
-      "posted_at": "2026-10-20T15:31:12.758073+00:00"
+      "qa_passed": false
     }
   }
 }
