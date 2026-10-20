@@ -1,23 +1,13 @@
 {
-  "job_id": "2026-10-20-evening-1701",
-  "chosen": "DeepSeek just open-sourced its inference engine",
-  "reason": "DeepSeek open-sourcing its high-performance inference engine provides developers and AI engineers with a cost-effective, state-of-the-art framework they can deploy immediately.",
+  "job_id": "2026-10-20-evening-1801",
+  "chosen": "Internal docs reveal how Google is shaking up its interview process with AI",
+  "reason": "This story directly impacts job seekers and tech professionals across India and Asia by revealing how AI is actively reshaping hiring at top tech giants like Google.",
   "candidates": [
     {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "score": 19.33,
-      "kinds": [
-        "community"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/deepseek-ai/DeepInfer"
-      ]
-    },
-    {
       "title": "Internal docs reveal how Google is shaking up its interview process with AI",
-      "score": 19.61,
+      "score": 21.36,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -28,60 +18,79 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-      "score": 19.79,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3FzUjAwbGtKMG13MFNmZFNJT3JnU2EwNWllSWZHX2llZkRDcXVEUDh3aWFyb1lHNzFyLWxoZmhfeXVrOW04UTViOVF5TzhQMWhMeUZSRk5yRzRLbE1VZ09Ta251bm5ua04yOGFNSmdzcmZ3V3dCZlhiaEtib3U2QUU3WEZqV0ZUbjBfanZaUWpmRVhEVmFYcGNxQQ?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI seeks to raise $30 billion ahead of Anthropic IPO: Here’s why",
-      "score": 21.78,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWVGZ3BBbEkzZ0RSZWpYRHc3M1ZZZXFySXJwU1diY01DY0VsVkE1aVpJcFB6SU9RTE04aHhiMkRaMGJ1ZVVOSkl6MHoyTTQ0SVR3eDV0eG5tVm9qeElZN3hDM1RpSlQ2YnpaMk02MVlxVFpiM0M5LU5uRWxqeEJtVUk0ay1xZXBRSUZFV2R6elNDbWtoQ1ZsOGwzOU1zMVVMOG94SWJXZGMxdWpZRzA1VmU0aVdvak5Oc1HSAb8BQVVfeXFMTnRCbDRLc2dtNmRDbVp4ak1zekxxU2xnNmxndjFjX3lXbGN1Ul9oVDZGNkNFMWpTRl9JUE93UDA5QXE0bmFaWlZJWFA2SkNUZ2hQVGpNbG5LdTRoY3dSLXlpd0JxNzN1UW84RUMwUmxuQ1l5bHNyY3ppaU9lSXFNaXpUbURJc3gwRHdXSnF4RS1STzZ1aXNqMUlYR25iU2xuWG0zbWJ4N2dXNU1qWm9zZFlSbmoxOFNxQ0pabjNHTFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjaUJ3eGVobUkyVmNrdEJ2VmNzSEk3RTZTbTVXRXNYZ3o3M3RoTEhvSzNXLUJDaDRmNmZucXdiZW0wUlE0SFVFRHJFa1BHYjhvR2NXVnBMUjVidlljYkl6RUxaSk5ROTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFF4aDdTM3A2cVFpbFJYSWU2UzlJcHpUNWR2NXNyYzdJRDFiNkpKVkctbk1pSENSZzVkMWM5UDFMcy1Db0ZJMDVOM3VKTVM5SUdoNFEzcUJlVUZCTzdfck85TTF1cFI0X3d5QVBlaWJIM2NhUGFYd0N4NndNUmVlc3Z0SHJXZ2x2a3lDRzZoTlFiTk1jODc0V0FVMHQ2WG1UWF9sSDFsT3k1WDgxVEVrb3FMaDdPXzRwUi1mOEJCUV9venZEblo4eGJCaHV1VXVQeWZSMDJ6UFgza3RHZTRV0gHmAUFVX3lxTE5VbUd3X2Z6WFEwZ21jTWs2OE91czdvY0ZmOXFyTnN5ZU10MFE0UmtxWWJPaVBZbWxOeGloUjh1Y2xWRDVMUnljdlV5eFZPZlRhcGlEVlJSeWNDWTJZNG9JRklnT3h3MzUtZDNyZk5Oa3dOS183a2k2QVhiUk84aVo2ajNlSTNwUFRpZ3hBZWgyVlBUYlRCMGlnSDUzX0RiVkRXbmpRTlZNZ0pWeHBUQ2hoNWFESUJBSlRKMmdYUml3MWJyMHBHQmMxUFBmVExDYkJyc3hYeXRoeE5PUDZlMDFiXzk4YjlR?oc=5"
-      ]
-    },
-    {
       "title": "Advancing coding in low‑resource programming languages",
-      "score": 21.68,
+      "score": 23.43,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRVhFQTROZDktT3lCTEV5S3RndURZTlJISmctaThYa2t3dHJoWDNVODBSS2pFa1VrY1FGXzk4S1RncEt4b3hvU1BKbWRYdFB5U21EZmxaTGtEdGluSlpmcnRlVzUxRVdsWnY4dw?oc=5",
-        "https://openai.com/index/low-resource-programming-languages"
+        "https://openai.com/index/low-resource-programming-languages",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRVhFQTROZDktT3lCTEV5S3RndURZTlJISmctaThYa2t3dHJoWDNVODBSS2pFa1VrY1FGXzk4S1RncEt4b3hvU1BKbWRYdFB5U21EZmxaTGtEdGluSlpmcnRlVzUxRVdsWnY4dw?oc=5"
       ]
     },
     {
-      "title": "ISRO to ready LME-1100 rocket engine by mid-2027, conducts first ignition test of gas generator",
-      "score": 19.66,
+      "title": "OpenAI seeks to raise $30 billion ahead of Anthropic IPO: Here’s why",
+      "score": 23.53,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWVGZ3BBbEkzZ0RSZWpYRHc3M1ZZZXFySXJwU1diY01DY0VsVkE1aVpJcFB6SU9RTE04aHhiMkRaMGJ1ZVVOSkl6MHoyTTQ0SVR3eDV0eG5tVm9qeElZN3hDM1RpSlQ2YnpaMk02MVlxVFpiM0M5LU5uRWxqeEJtVUk0ay1xZXBRSUZFV2R6elNDbWtoQ1ZsOGwzOU1zMVVMOG94SWJXZGMxdWpZRzA1VmU0aVdvak5Oc1HSAb8BQVVfeXFMTnRCbDRLc2dtNmRDbVp4ak1zekxxU2xnNmxndjFjX3lXbGN1Ul9oVDZGNkNFMWpTRl9JUE93UDA5QXE0bmFaWlZJWFA2SkNUZ2hQVGpNbG5LdTRoY3dSLXlpd0JxNzN1UW84RUMwUmxuQ1l5bHNyY3ppaU9lSXFNaXpUbURJc3gwRHdXSnF4RS1STzZ1aXNqMUlYR25iU2xuWG0zbWJ4N2dXNU1qWm9zZFlSbmoxOFNxQ0pabjNHTFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFF4aDdTM3A2cVFpbFJYSWU2UzlJcHpUNWR2NXNyYzdJRDFiNkpKVkctbk1pSENSZzVkMWM5UDFMcy1Db0ZJMDVOM3VKTVM5SUdoNFEzcUJlVUZCTzdfck85TTF1cFI0X3d5QVBlaWJIM2NhUGFYd0N4NndNUmVlc3Z0SHJXZ2x2a3lDRzZoTlFiTk1jODc0V0FVMHQ2WG1UWF9sSDFsT3k1WDgxVEVrb3FMaDdPXzRwUi1mOEJCUV9venZEblo4eGJCaHV1VXVQeWZSMDJ6UFgza3RHZTRV0gHmAUFVX3lxTE5VbUd3X2Z6WFEwZ21jTWs2OE91czdvY0ZmOXFyTnN5ZU10MFE0UmtxWWJPaVBZbWxOeGloUjh1Y2xWRDVMUnljdlV5eFZPZlRhcGlEVlJSeWNDWTJZNG9JRklnT3h3MzUtZDNyZk5Oa3dOS183a2k2QVhiUk84aVo2ajNlSTNwUFRpZ3hBZWgyVlBUYlRCMGlnSDUzX0RiVkRXbmpRTlZNZ0pWeHBUQ2hoNWFESUJBSlRKMmdYUml3MWJyMHBHQmMxUFBmVExDYkJyc3hYeXRoeE5PUDZlMDFiXzk4YjlR?oc=5"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+      "score": 21.54,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZndOcHo5ZFNPc0pmRndPbXN5MXc2ckhJay1lLWx5RWNmTzl6YzBrbmh1SHJRcGlGOEVzcGdqSWpYX1I1UktXVllmQ21KUTMwMVlseW53NjVmS0RuVHZSRWpQT0l6Z3RncDl4MU5Oa0JMZXZVakRZdG1aU3B3NC1Jak9xeUczY0lkZWxwZHFpczBsMDJrdlI0LVo1SGdPTVhfd3lRZER0bw?oc=5"
+      ]
+    },
+    {
+      "title": "Nuclear energy to support India’s AI-driven future: Jitendra Singh",
+      "score": 19.52,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0VUTldMVGYyd29oREc2YUVjQ1o0ME5FUG1HSXZFc1JZbnhUOHdXOUdZZ1M4V2JveHVncHp5TFVFTmJ1ejBTWEMtanI5Yzg5LTlVQmxKbU9IU3JJXzl4eF93V2phWjNzbGV0Mm1HMVo3Y0Y0dzBkekF5RFViOWtLdGpnUkhudzhIQzdQcGRVUzNZM3h1NEM0QUpJTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDU4bXl2czZTT2pnMG1VNlIwc1hhM2NtV3FXc1A2ZnBTUzRydEU4aUhreTZVSkxFRl9SRmc5MjFOdWtyQ3JVbk1zMEdqcE9mUDFPcWVINFoxbkJzdjV3bl9weXBubGZMVmszNjhrTjNsWHI4YTZvRnBEcmYtX3NqaC01dGU0T0N0T0cwZ3RnODhvamRo?oc=5"
+      ]
+    },
+    {
+      "title": "ISRO to ready LME-1100 rocket engine by mid-2027, conducts first ignition test of gas generator",
+      "score": 21.41,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmpaVXlKdHBzb0RYMW93UzBKT2tBQ18zZHc3Y1JGRUVPb01xaE5xRFd2TjdKZ211cHhWdW9JdGlrQjkyZnVEeW05X2p2eUlpYjNZQWdEZjA0eWw3OWVPV0hOV1h5MzdpenVTX3MwdWRISnY0RFJCTmltYUktR19QUkh0UDBrT1dKblVacU1Tb0kyRWRQMmlGQTVIaHB6d9IBowFBVV95cUxNWWVVZVEwWHgzT04tRk9KWGVoeVlzc1I4VGFZNjdkamFJN20tbzgybFp1OWRCUnZ4bUs5clZaMkYyOWFBUEd5ZjZkV2gyY3BaeEVhckVvbkEzckZybHhEYXdlYkZMMEUyMnlRS0pqSlpwWkhTcjdEZG9tdUVvanhuMEIyTEFrT01felVwb284U0psWkVBbjdzcVo3X2lGc1ZxWDFn?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE55SUlqLWR3OUwzZThlcHdNTlZqR0VSODZzR0pmUlkzTEFndjBBai0xNU52aTU0SXJacldMeFd5bnB6Umh2RlUxTzdxWUtLd2ZzYmRWc2dOVUNKUEUzS2dvRnZNaEJFY0RHd3VJd250N1hPWnpCVHFUbUZ1V3lQemxVdWtXSVE?oc=5"
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE55SUlqLWR3OUwzZThlcHdNTlZqR0VSODZzR0pmUlkzTEFndjBBai0xNU52aTU0SXJacldMeFd5bnB6Umh2RlUxTzdxWUtLd2ZzYmRWc2dOVUNKUEUzS2dvRnZNaEJFY0RHd3VJd250N1hPWnpCVHFUbUZ1V3lQemxVdWtXSVE?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmpaVXlKdHBzb0RYMW93UzBKT2tBQ18zZHc3Y1JGRUVPb01xaE5xRFd2TjdKZ211cHhWdW9JdGlrQjkyZnVEeW05X2p2eUlpYjNZQWdEZjA0eWw3OWVPV0hOV1h5MzdpenVTX3MwdWRISnY0RFJCTmltYUktR19QUkh0UDBrT1dKblVacU1Tb0kyRWRQMmlGQTVIaHB6d9IBowFBVV95cUxNWWVVZVEwWHgzT04tRk9KWGVoeVlzc1I4VGFZNjdkamFJN20tbzgybFp1OWRCUnZ4bUs5clZaMkYyOWFBUEd5ZjZkV2gyY3BaeEVhckVvbkEzckZybHhEYXdlYkZMMEUyMnlRS0pqSlpwWkhTcjdEZG9tdUVvanhuMEIyTEFrT01felVwb284U0psWkVBbjdzcVo3X2lGc1ZxWDFn?oc=5"
       ]
     },
     {
       "title": "Indian Army’s First Dedicated Satellite GSAT-7B Scheduled for Mid-2028 Launch Amid Military Space Push",
-      "score": 23.32,
+      "score": 25.07,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -92,9 +101,23 @@
       ]
     },
     {
-      "title": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns",
-      "score": 19.73,
+      "title": "OPPO Find X10, Find X10 Pro Max India Launch: Price, Specs, Offers and More",
+      "score": 21.75,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0oyVEctX0djOV9VTFo5Y053dFExY1VtMjF0bkdjRmoxLVBGMVlvSFQ2TUdKUHJROUF2NlVIMjZjOGVMYkJFOVMxTF9XeG8tcHRLd3d2S0tPMncwbkNpRW5NMVNVbVBzekRuSWZWLWF2czcwNHRuaTVQaFZPRjk0cU9iZm9nWGxYZml3Zmc3dUhQUUVTTWxtcXRhR3hiaUFqcHdwNA?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkNWeUxtNTZEVl9oSTNVU1dxS3BjTlFxbmE5aTllNmx5TGtFeXpteFgybXV3ZnJ0NVcxVmF6NlRwalhvOUowNHZoWmRqQUwxZV96TTc4QXFsaUdIQS1SY2w5dzRsMnB4aUt1MUhmNWFnQjNBLXhSNzNUbmE5UFkyUGRUUC1XUE9kbWdlT1VlT1Baa3lycWd1a0ZiN2xwMEpXNG5adlJ5OGhQblpEOHFNZ2Z0ZEQwTUFUZkl6dS1oWWVUS2RINVg0bFRUMlBxMU5INGFsS2VR?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVW5JMlN6RUNZdmRRMHJmUjc1SEd1cDNqOUZPQnd0MHdHdi1uWXBEUE1qWmVEYjBWMl9MN1FSdzVTRllqVzJxV1dpMmNWeVBKeVgzcG9qdlN4RmFFQ1dDYXFqTHdpeU14Y3JnSVUwMnBDalBZMmg0TzFxLTBsLXk5QVB3b0ZQdjVMR1lDdHdMZzZPbm5Hd2sxNUlaY3k1Sjc0ZXZCWm9qelA0SEhtREVOM0JTdmpPcFhkdUZJdF9wOXNqeWEzRGNuTEI5dXpVQdIB1AFBVV95cUxPY3BqQ1NINmQ5S1QySjBsSWZxWU53TDNEX3Z0UWVSMTVyN1cwRzJXOW93eEFiaUw0Z0tVR2h6SHBDaUd0QmR1Yng4YUxXWGpOUlA1V3AzeHhLM2F0aEt4aG11T04wb3JnRXh6T1hYVWlLam9QN1pNbUk1V3hCaUlHOS1UY1hNOFVHZ0Z6SzdWU01JVUZrN08teUIyVU9qSjc1clVSbXByamhkWFV1WVlRSFo5Qy1yWEc5S2NvcjlJVXVveTJFWjNoYS00LVJrMTBISkN1ag?oc=5"
+      ]
+    },
+    {
+      "title": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns",
+      "score": 21.48,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -105,21 +128,8 @@
       ]
     },
     {
-      "title": "OPPO Find X10, Find X10 Pro Max India Launch: Price, Specs, Offers and More",
-      "score": 21.82,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0oyVEctX0djOV9VTFo5Y053dFExY1VtMjF0bkdjRmoxLVBGMVlvSFQ2TUdKUHJROUF2NlVIMjZjOGVMYkJFOVMxTF9XeG8tcHRLd3d2S0tPMncwbkNpRW5NMVNVbVBzekRuSWZWLWF2czcwNHRuaTVQaFZPRjk0cU9iZm9nWGxYZml3Zmc3dUhQUUVTTWxtcXRhR3hiaUFqcHdwNA?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEN4SWZ2SHBHalRnaXdHZ0ZBMUR2Yk9kUkp0eE5VWERlY3lrUURIaldDQ0dqR205ZnExNVhWZUJrZ0JGTDFnTE10aVZENFlGWEtvZS1vZWppMndpNFlydHRvblROTUc5czhXZ0hGYzhYZTBBYklpSkVTTU56SHlKUXFULUtjTElCZ3ZsVXR5aHZnb3h3cGdXLV94WQ?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVW5JMlN6RUNZdmRRMHJmUjc1SEd1cDNqOUZPQnd0MHdHdi1uWXBEUE1qWmVEYjBWMl9MN1FSdzVTRllqVzJxV1dpMmNWeVBKeVgzcG9qdlN4RmFFQ1dDYXFqTHdpeU14Y3JnSVUwMnBDalBZMmg0TzFxLTBsLXk5QVB3b0ZQdjVMR1lDdHdMZzZPbm5Hd2sxNUlaY3k1Sjc0ZXZCWm9qelA0SEhtREVOM0JTdmpPcFhkdUZJdF9wOXNqeWEzRGNuTEI5dXpVQdIB1AFBVV95cUxPY3BqQ1NINmQ5S1QySjBsSWZxWU53TDNEX3Z0UWVSMTVyN1cwRzJXOW93eEFiaUw0Z0tVR2h6SHBDaUd0QmR1Yng4YUxXWGpOUlA1V3AzeHhLM2F0aEt4aG11T04wb3JnRXh6T1hYVWlLam9QN1pNbUk1V3hCaUlHOS1UY1hNOFVHZ0Z6SzdWU01JVUZrN08teUIyVU9qSjc1clVSbXByamhkWFV1WVlRSFo5Qy1yWEc5S2NvcjlJVXVveTJFWjNoYS00LVJrMTBISkN1ag?oc=5"
-      ]
-    },
-    {
       "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "score": 25.38,
+      "score": 25.13,
       "kinds": [
         "news",
         "official"
@@ -131,30 +141,28 @@
       ]
     },
     {
-      "title": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
-      "score": 19.62,
+      "title": "India smartphone shipments fall 26% to lowest third-quarter level in a decade",
+      "score": 19.54,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHE3RV94bkpuVmt6Q3FfeVdLQUVCV0hjUVU5VTNFc29ZbXloR2FYV3AwRGM3QktST0ZKWXFfTzM3SVp1NTB0Y24yNi1KekRMNDE1cTlKVXpRYkxMVWh5al9WYnBkSW52NmZTakdLTnhZcmJGSEZWNlFrdDlRYjZtVHJ2ZFFhc1dUUVg2NkpvcHRxZGRTOHkzOWpDODNWSVVnNVB6dEV3?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHE3RV94bkpuVmt6Q3FfeVdLQUVCV0hjUVU5VTNFc29ZbXloR2FYV3AwRGM3QktST0ZKWXFfTzM3SVp1NTB0Y24yNi1KekRMNDE1cTlKVXpRYkxMVWh5al9WYnBkSW52NmZTakdLTnhZcmJGSEZWNlFrdDlRYjZtVHJ2ZFFhc1dUUVg2NkpvcHRxZGRTOHkzOWpDODNWSVVnNVB6dEV3?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHE3RV94bkpuVmt6Q3FfeVdLQUVCV0hjUVU5VTNFc29ZbXloR2FYV3AwRGM3QktST0ZKWXFfTzM3SVp1NTB0Y24yNi1KekRMNDE1cTlKVXpRYkxMVWh5al9WYnBkSW52NmZTakdLTnhZcmJGSEZWNlFrdDlRYjZtVHJ2ZFFhc1dUUVg2NkpvcHRxZGRTOHkzOWpDODNWSVVnNVB6dEV3?oc=5"
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaFpaWE9Cc2RHRkl4SWZaaGh1VHVBbUk3X1JoeEdBeDNmVk4yWlQzWVhWQkpoaDd5bVJvT2tibFhWSlE4bGZxTjBLN0JNX0V4d2s4RnRPakhMYzltbk9qbXJ0ckFFREI2aFZzNkZLZFFQX1JPdnBJRm5lMFd1aVFmc2NVTWtpRHNtVlRodWVtbFNEbzI5M21iSVN5bjhmTzZPZFlnWnR3dXRlNHJ5VUc0ODZLQXlZWUgwS0VNN0wwU0NPVXhLMS1hcWduSmc2N24zV1ZPMDJ4eUo3MXktTm0yYTFTaUJrMHFKZjMxdFV2VXpBQTJqbVdMWUYzMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGpMWWNKNllYV3Z0djlNWkJuNnhkaWFnREpEYm9YeTAwSnVuMFExTVVWeTBXN2V1N0JrU1Q2YTUzTEFidEpVaFlmRFplV1ZlX1B0OVI3bzVDekdXVk9OU1lzeE1VTkU0YmVWT3Y3NHlBT3VGazdMX2tnbHN3Z3h5dXVFckUwaXoxSERQXzdWRUFrdHV2WmxtVmlyb184Y0F1ZWpSV2tTUVNqd1g1QWRCNNIBrAFBVV95cUxPSXFHSXR6RjFhZENRVkNLS2NZRDlHUmJ6QWxjVEFwRTVWTW52OVVORXBjeDVqZXc2SmZyb04taldGSkpEOUVoZmtMQW1YdFZOaVFGc2F1X294ZUthM050VUZHU1RlT2x2d2hoRXRmVEZDdG9UdW9jMmZzMV9pZGRuNEJHMndEQzMyRUlFZWlNaGtMaGhXa2gtWVo1dVRVcUtHTzRpQ3JDbHRoemxo?oc=5"
       ]
     },
     {
-      "title": "Stella Sora's 1st Anniversary Celebration is Now Underway! 100 Free Recruits Are Here. One Starlit Year, Wishes Unfold",
-      "score": 20.92,
+      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever",
+      "score": 19.69,
       "kinds": [
-        "launch",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0psUzlNOTNWejVwWEJ0YWhSUkk1aS1TNldEZTZfV280VGYzdlFBVWxvd0V6S0w5a25GcFdyaTZONFFFQTFVTW4yMHJZUUtLUHh2bmdqTnJQakdqS0NXcTZWVWRpcE5BZklfc0Y5OTVhREhtdERrYTkydlFBSWtZUGppNUpfRVVRRXRRLW1Gd1p6ZVZCWklIVU1xVFdaNk1BRkpzXzBn?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0psUzlNOTNWejVwWEJ0YWhSUkk1aS1TNldEZTZfV280VGYzdlFBVWxvd0V6S0w5a25GcFdyaTZONFFFQTFVTW4yMHJZUUtLUHh2bmdqTnJQakdqS0NXcTZWVWRpcE5BZklfc0Y5OTVhREhtdERrYTkydlFBSWtZUGppNUpfRVVRRXRRLW1Gd1p6ZVZCWklIVU1xVFdaNk1BRkpzXzBn?oc=5",
-        "https://www.producthunt.com/products/stella-5"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjdqQ01oN2pUNHpXd0NsU1JKZEhJampaeFo5ZGhqMzBrUlFtNVB0S3prUFIyQkdiUFh0TGRlNTh0RGRreVhLNjg0OGllUVZrVDU3OU5pUGhzOUdfVE1RQ2VQV0JnVk9GUlhEWWdMWWt4Z2pTemFlYmpFaGVaVldsZHVucGthd0tUSFNfY3Q3N0FSUEl4SHFEeUljb01fNENmanNKM0FTNkl2RVNTbFNYMlVIRDczZGJrYWQyaEVscHJyTGxLd2c?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjdqQ01oN2pUNHpXd0NsU1JKZEhJampaeFo5ZGhqMzBrUlFtNVB0S3prUFIyQkdiUFh0TGRlNTh0RGRreVhLNjg0OGllUVZrVDU3OU5pUGhzOUdfVE1RQ2VQV0JnVk9GUlhEWWdMWWt4Z2pTemFlYmpFaGVaVldsZHVucGthd0tUSFNfY3Q3N0FSUEl4SHFEeUljb01fNENmanNKM0FTNkl2RVNTbFNYMlVIRDczZGJrYWQyaEVscHJyTGxLd2c?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjdqQ01oN2pUNHpXd0NsU1JKZEhJampaeFo5ZGhqMzBrUlFtNVB0S3prUFIyQkdiUFh0TGRlNTh0RGRreVhLNjg0OGllUVZrVDU3OU5pUGhzOUdfVE1RQ2VQV0JnVk9GUlhEWWdMWWt4Z2pTemFlYmpFaGVaVldsZHVucGthd0tUSFNfY3Q3N0FSUEl4SHFEeUljb01fNENmanNKM0FTNkl2RVNTbFNYMlVIRDczZGJrYWQyaEVscHJyTGxLd2c?oc=5"
       ]
     }
   ]
