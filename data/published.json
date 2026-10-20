@@ -778,5 +778,16 @@
       "qa_passed": false,
       "posted_at": "2026-10-19T15:59:39.830633+00:00"
     }
+  },
+  "2026-10-20-evening-1701": {
+    "status": "approved",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/_qNtDUnaMwY"
+    },
+    "approved_at": "2026-10-20T13:47:19.907650+00:00",
+    "ids": {
+      "youtube": "_qNtDUnaMwY"
+    },
+    "yt_scheduled_for": "2026-10-20T20:00:00+05:30"
   }
 }
