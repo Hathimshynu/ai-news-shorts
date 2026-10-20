@@ -1,25 +1,22 @@
 {
-  "job_id": "2026-10-20-evening-1801",
-  "chosen": "Internal docs reveal how Google is shaking up its interview process with AI",
-  "reason": "This story directly impacts job seekers and tech professionals across India and Asia by revealing how AI is actively reshaping hiring at top tech giants like Google.",
+  "job_id": "2026-10-20-evening-2115",
+  "chosen": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "reason": "This breakdown shows AI builders how smart memory architectures can outperform expensive frontier models on complex customer service tasks at a fraction of the cost.",
   "candidates": [
     {
-      "title": "Internal docs reveal how Google is shaking up its interview process with AI",
-      "score": 21.36,
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "score": 20.89,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEl4UEg2Ui1MUXh1WFpYcXU4Tnp1MWV5Tk43S1czMlJiOVh4YWpjanZrMGlzVlBfc202c3R4dTQwSWtQZVcwUWlicWs5SFpiUTBkQ3Y1X2U1U3BONHg4SnZMUVhHZXRIeTQ1bnZHWXV3dTBSbm1YVjVWS3ZvNW1PV3QtRzNrZUw0MlBQSTkxSlQtbHRESWZsRzBzUTNNR3JSbTJvX294LVkzX0RfeHphU3BwQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEl4UEg2Ui1MUXh1WFpYcXU4Tnp1MWV5Tk43S1czMlJiOVh4YWpjanZrMGlzVlBfc202c3R4dTQwSWtQZVcwUWlicWs5SFpiUTBkQ3Y1X2U1U3BONHg4SnZMUVhHZXRIeTQ1bnZHWXV3dTBSbm1YVjVWS3ZvNW1PV3QtRzNrZUw0MlBQSTkxSlQtbHRESWZsRzBzUTNNR3JSbTJvX294LVkzX0RfeHphU3BwQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEl4UEg2Ui1MUXh1WFpYcXU4Tnp1MWV5Tk43S1czMlJiOVh4YWpjanZrMGlzVlBfc202c3R4dTQwSWtQZVcwUWlicWs5SFpiUTBkQ3Y1X2U1U3BONHg4SnZMUVhHZXRIeTQ1bnZHWXV3dTBSbm1YVjVWS3ZvNW1PV3QtRzNrZUw0MlBQSTkxSlQtbHRESWZsRzBzUTNNR3JSbTJvX294LVkzX0RfeHphU3BwQQ?oc=5"
+        "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
       ]
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
-      "score": 23.43,
+      "score": 22.62,
       "kinds": [
         "backlog",
         "news",
@@ -33,8 +30,84 @@
       ]
     },
     {
+      "title": "NVIDIA DGX Spark 64GB’s Low Price-Point Aims To Accelerate Local AI Inference",
+      "score": 19.84,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5"
+      ]
+    },
+    {
+      "title": "Nuclear energy to support India’s AI-driven future: Jitendra Singh",
+      "score": 20.71,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0VUTldMVGYyd29oREc2YUVjQ1o0ME5FUG1HSXZFc1JZbnhUOHdXOUdZZ1M4V2JveHVncHp5TFVFTmJ1ejBTWEMtanI5Yzg5LTlVQmxKbU9IU3JJXzl4eF93V2phWjNzbGV0Mm1HMVo3Y0Y0dzBkekF5RFViOWtLdGpnUkhudzhIQzdQcGRVUzNZM3h1NEM0QUpJTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDU4bXl2czZTT2pnMG1VNlIwc1hhM2NtV3FXc1A2ZnBTUzRydEU4aUhreTZVSkxFRl9SRmc5MjFOdWtyQ3JVbk1zMEdqcE9mUDFPcWVINFoxbkJzdjV3bl9weXBubGZMVmszNjhrTjNsWHI4YTZvRnBEcmYtX3NqaC01dGU0T0N0T0cwZ3RnODhvamRo?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0VUTldMVGYyd29oREc2YUVjQ1o0ME5FUG1HSXZFc1JZbnhUOHdXOUdZZ1M4V2JveHVncHp5TFVFTmJ1ejBTWEMtanI5Yzg5LTlVQmxKbU9IU3JJXzl4eF93V2phWjNzbGV0Mm1HMVo3Y0Y0dzBkekF5RFViOWtLdGpnUkhudzhIQzdQcGRVUzNZM3h1NEM0QUpJTQ?oc=5"
+      ]
+    },
+    {
+      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "score": 24.33,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUV6dnhiZG1YWllFT0ZZZncxd2xWVURzWE9pUWtZLUpYSDJUTWhsbVNKTUNpUnBlVWFsMjl1akNXV3FnSG56elFuNEQ3MlAyMC0zcnBQTk1fZjdNaWg1RlBIaGdrLTRLdnNoNVpfS0l3T1B4STdQNWxkMUVtbm8ydWl4QQ?oc=5",
+        "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/"
+      ]
+    },
+    {
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "score": 20.53,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4"
+      ]
+    },
+    {
+      "title": "Indian students fear AI may be weakening deep learning, survey finds",
+      "score": 19.67,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFdJbnNPMDFhZHFaWFltc2RnbU5DeUcwYXhVVllGQ3ZhOEFIeUdOaFdHRVNoRExKT09qOFJ4X3RpTmp5ZXRpbUVxT2NiSzhNNTcwaVgxb1B5Um5JTGZaZkw3cGY0WkZ5UGQ1VkZIa3loX3pXTmhtd1gxZnZJTXl3emVVWHcwRWxSLUdRa0NIQUpJeV9tbUZuS0RqVV9ScnNKM01XVzdfV1V5WTkyZkwyeHo0SkM4WWJPWkHSAccBQVVfeXFMTzhWR09iaVFHbjVxR190bmo0eDVNdFBodlJmcGNOUm1UNVByWVBpT01FZjA4cndnNVlVRFMxYkQ0b2lOcHIzQVJzRVhBWHVRQ3pMeXhiS2tvaXk1dFRiY1ozSnFMQVlmOHNjR0hPdkNvd1BuTy1yQVgzaHc5UzlOWkV3Z2dCb1pZZkV5cFpqMUp4bk9PbFlpczJ5czVDcmN2MDdmS0R0RmVTS1cydVRQcGpPUHltQ1RqelpxcTRGbmNZY09palZyRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWpvbEtQUVFuaDRaZGQxSmdZbkpSOEw5NURsZF9vU0ktdmpSODNrYmJHek16TDJiQ0VrbVFNckh0YW5uWG9VQlVLWkQ3b3lJaGx1RmptcVZ6cDd0QW1nNS0xRnFKODlnalpjSVJnVzRwRzdTLUlqZW96SzlTUC1IaUlVZkYwaGtxMUNLem5jT3pINzhiN2tuT2hVYm8tcGZQOWhnN3hxTjBaSkFRZ3fSAbABQVVfeXFMTlVNRkYzbndGbHg1anNsR3ZibmpueFhhb2FWQ3hTOWZzc0JOTFMwMXNqcF8wVGZ2ekU4cGhnOWRyTGFoUU9YZ0dBWlZmSC1xX2NiMjlMYWswaTE4UFdRSHRmMTUtd19EM2lZWVFybnNzR0ZBelRtQUFjVmRkV2VTRE4ybC1mSUJvZE1RRkNpcmJ4cVhYODdzMFliNzc5ZnhZdE1uY1dlVzFsRUxZTVZBeVA?oc=5"
+      ]
+    },
+    {
+      "title": "Chinese tech giants order $35 billion in Nvidia AI chips",
+      "score": 19.86,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFpEaWxTbDVkVmVja3VfajdNeU9NaC03Q3JrbmNYeFprS2l4UnVnVjZ3NWNHNlh3ZTFzVjFXTEg3d1dsdDk3ajRTbHpmVlM5dUpMOWEyUW1wR1M5SHB3SFNJUEU3VmduNUNmMHBfSnRUVlpCWFFEcVU3azVXd2Q3eWhwLUd1VkZ2Ujd4ZnNpZlBoTWJ0MWlMSGdlWWlNNFMydi1kVndZVk1aX1dUSm0yYWhrYkVDY0YydTY5V0R3X0FYZlE0cjFLb1dobWZrNmvSAdMBQVVfeXFMUE9iRWhCWV92N3FUT20wTDN6WFpra2pZdVRZZ29EYThHN3FBMk1OaGprX29mZ1NWLWI5TzVSYWJacG1mcUZvRWZvOEZrZ1hqbG5YQVNHcjJ3X1htT1VwRjBQcTh1SVVKR182eEZPcjgxckI3ZC1wQ2xXUWxZbnhLQ0VteEJkZ2w3QzM0MkpLbEY4OVFiaTBld1pZNlBMNmwyc0RTdkpyV29XMlVjajBTR0FVX2NUZ1o1MlI0QVktZnJPUFlrSm8zb0RBR0Y5QXY0eWFnWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDdkellKUlRzVEMxcGhUYXNjaXdGY1VxYkFEb25rTlZzUjZtWlFsZnB1cVJ1V3pLNXdjUWw2TjJQdnluQUtRRUxsdWtRYWpwU2NxdEY0WU52dFlKeHN5RFBfbHZodVFzM2pHN0l2blQwYUJScmZZVVdWVFdneWlKNURmanllOGJNc2JaWFdudw?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmNaZnlTQUlRaGhyMGxwX09SQWpYMFoyTmt5ZFMzSkd3R2x5ZGlFRFdfN1ZudkZUX1BEVjZ4UkhNT1JwcjVQY0RENEhHQUdNQThhWkFnNF8xcVB6N2NJMDVPUzE3d3JtV2c5WXJ6Z1plOElMa0JjRDJHVlB3b2t0aDl5T1Rjc292OGhvVFhiaVluR3h5ZmtHVENOSVY4UEFDMDVRNFJZa3UwbWtHWXZyZmU5MkQ4bzdQZS00V9IBxAFBVV95cUxOaWhkV0tsbDhnRTFfOE54YUpPM0V2NXotRER3aHlOOUh3QWNCTWdRRmV0T01rTW5tY0xfOWVDbUYwdkdJNGNwekZyaVBhbER0Ynp0LWtfNEtMOEsyX2RkZ0VMMVFHeUtlWE1BZjNqdlBpSDFBX2dnR0dDbzJpVWFxcUF3R1A0QUpyMGZnV1B4SExWRi1yQ2Z5dUVtcXpFYkFNQzRwaUg2X3BEX1JLYUdoQWtWU1c5ektnbDhsbXdYeEFYbjlG?oc=5"
+      ]
+    },
+    {
       "title": "OpenAI seeks to raise $30 billion ahead of Anthropic IPO: Here’s why",
-      "score": 23.53,
+      "score": 20.73,
       "kinds": [
         "backlog",
         "news"
@@ -42,53 +115,13 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWVGZ3BBbEkzZ0RSZWpYRHc3M1ZZZXFySXJwU1diY01DY0VsVkE1aVpJcFB6SU9RTE04aHhiMkRaMGJ1ZVVOSkl6MHoyTTQ0SVR3eDV0eG5tVm9qeElZN3hDM1RpSlQ2YnpaMk02MVlxVFpiM0M5LU5uRWxqeEJtVUk0ay1xZXBRSUZFV2R6elNDbWtoQ1ZsOGwzOU1zMVVMOG94SWJXZGMxdWpZRzA1VmU0aVdvak5Oc1HSAb8BQVVfeXFMTnRCbDRLc2dtNmRDbVp4ak1zekxxU2xnNmxndjFjX3lXbGN1Ul9oVDZGNkNFMWpTRl9JUE93UDA5QXE0bmFaWlZJWFA2SkNUZ2hQVGpNbG5LdTRoY3dSLXlpd0JxNzN1UW84RUMwUmxuQ1l5bHNyY3ppaU9lSXFNaXpUbURJc3gwRHdXSnF4RS1STzZ1aXNqMUlYR25iU2xuWG0zbWJ4N2dXNU1qWm9zZFlSbmoxOFNxQ0pabjNHTFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFF4aDdTM3A2cVFpbFJYSWU2UzlJcHpUNWR2NXNyYzdJRDFiNkpKVkctbk1pSENSZzVkMWM5UDFMcy1Db0ZJMDVOM3VKTVM5SUdoNFEzcUJlVUZCTzdfck85TTF1cFI0X3d5QVBlaWJIM2NhUGFYd0N4NndNUmVlc3Z0SHJXZ2x2a3lDRzZoTlFiTk1jODc0V0FVMHQ2WG1UWF9sSDFsT3k1WDgxVEVrb3FMaDdPXzRwUi1mOEJCUV9venZEblo4eGJCaHV1VXVQeWZSMDJ6UFgza3RHZTRV0gHmAUFVX3lxTE5VbUd3X2Z6WFEwZ21jTWs2OE91czdvY0ZmOXFyTnN5ZU10MFE0UmtxWWJPaVBZbWxOeGloUjh1Y2xWRDVMUnljdlV5eFZPZlRhcGlEVlJSeWNDWTJZNG9JRklnT3h3MzUtZDNyZk5Oa3dOS183a2k2QVhiUk84aVo2ajNlSTNwUFRpZ3hBZWgyVlBUYlRCMGlnSDUzX0RiVkRXbmpRTlZNZ0pWeHBUQ2hoNWFESUJBSlRKMmdYUml3MWJyMHBHQmMxUFBmVExDYkJyc3hYeXRoeE5PUDZlMDFiXzk4YjlR?oc=5"
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-      "score": 21.54,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZndOcHo5ZFNPc0pmRndPbXN5MXc2ckhJay1lLWx5RWNmTzl6YzBrbmh1SHJRcGlGOEVzcGdqSWpYX1I1UktXVllmQ21KUTMwMVlseW53NjVmS0RuVHZSRWpQT0l6Z3RncDl4MU5Oa0JMZXZVakRZdG1aU3B3NC1Jak9xeUczY0lkZWxwZHFpczBsMDJrdlI0LVo1SGdPTVhfd3lRZER0bw?oc=5"
-      ]
-    },
-    {
-      "title": "Nuclear energy to support India’s AI-driven future: Jitendra Singh",
-      "score": 19.52,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0VUTldMVGYyd29oREc2YUVjQ1o0ME5FUG1HSXZFc1JZbnhUOHdXOUdZZ1M4V2JveHVncHp5TFVFTmJ1ejBTWEMtanI5Yzg5LTlVQmxKbU9IU3JJXzl4eF93V2phWjNzbGV0Mm1HMVo3Y0Y0dzBkekF5RFViOWtLdGpnUkhudzhIQzdQcGRVUzNZM3h1NEM0QUpJTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDU4bXl2czZTT2pnMG1VNlIwc1hhM2NtV3FXc1A2ZnBTUzRydEU4aUhreTZVSkxFRl9SRmc5MjFOdWtyQ3JVbk1zMEdqcE9mUDFPcWVINFoxbkJzdjV3bl9weXBubGZMVmszNjhrTjNsWHI4YTZvRnBEcmYtX3NqaC01dGU0T0N0T0cwZ3RnODhvamRo?oc=5"
-      ]
-    },
-    {
-      "title": "ISRO to ready LME-1100 rocket engine by mid-2027, conducts first ignition test of gas generator",
-      "score": 21.41,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmpaVXlKdHBzb0RYMW93UzBKT2tBQ18zZHc3Y1JGRUVPb01xaE5xRFd2TjdKZ211cHhWdW9JdGlrQjkyZnVEeW05X2p2eUlpYjNZQWdEZjA0eWw3OWVPV0hOV1h5MzdpenVTX3MwdWRISnY0RFJCTmltYUktR19QUkh0UDBrT1dKblVacU1Tb0kyRWRQMmlGQTVIaHB6d9IBowFBVV95cUxNWWVVZVEwWHgzT04tRk9KWGVoeVlzc1I4VGFZNjdkamFJN20tbzgybFp1OWRCUnZ4bUs5clZaMkYyOWFBUEd5ZjZkV2gyY3BaeEVhckVvbkEzckZybHhEYXdlYkZMMEUyMnlRS0pqSlpwWkhTcjdEZG9tdUVvanhuMEIyTEFrT01felVwb284U0psWkVBbjdzcVo3X2lGc1ZxWDFn?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE55SUlqLWR3OUwzZThlcHdNTlZqR0VSODZzR0pmUlkzTEFndjBBai0xNU52aTU0SXJacldMeFd5bnB6Umh2RlUxTzdxWUtLd2ZzYmRWc2dOVUNKUEUzS2dvRnZNaEJFY0RHd3VJd250N1hPWnpCVHFUbUZ1V3lQemxVdWtXSVE?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmpaVXlKdHBzb0RYMW93UzBKT2tBQ18zZHc3Y1JGRUVPb01xaE5xRFd2TjdKZ211cHhWdW9JdGlrQjkyZnVEeW05X2p2eUlpYjNZQWdEZjA0eWw3OWVPV0hOV1h5MzdpenVTX3MwdWRISnY0RFJCTmltYUktR19QUkh0UDBrT1dKblVacU1Tb0kyRWRQMmlGQTVIaHB6d9IBowFBVV95cUxNWWVVZVEwWHgzT04tRk9KWGVoeVlzc1I4VGFZNjdkamFJN20tbzgybFp1OWRCUnZ4bUs5clZaMkYyOWFBUEd5ZjZkV2gyY3BaeEVhckVvbkEzckZybHhEYXdlYkZMMEUyMnlRS0pqSlpwWkhTcjdEZG9tdUVvanhuMEIyTEFrT01felVwb284U0psWkVBbjdzcVo3X2lGc1ZxWDFn?oc=5"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFF4aDdTM3A2cVFpbFJYSWU2UzlJcHpUNWR2NXNyYzdJRDFiNkpKVkctbk1pSENSZzVkMWM5UDFMcy1Db0ZJMDVOM3VKTVM5SUdoNFEzcUJlVUZCTzdfck85TTF1cFI0X3d5QVBlaWJIM2NhUGFYd0N4NndNUmVlc3Z0SHJXZ2x2a3lDRzZoTlFiTk1jODc0V0FVMHQ2WG1UWF9sSDFsT3k1WDgxVEVrb3FMaDdPXzRwUi1mOEJCUV9venZEblo4eGJCaHV1VXVQeWZSMDJ6UFgza3RHZTRV0gHmAUFVX3lxTE5VbUd3X2Z6WFEwZ21jTWs2OE91czdvY0ZmOXFyTnN5ZU10MFE0UmtxWWJPaVBZbWxOeGloUjh1Y2xWRDVMUnljdlV5eFZPZlRhcGlEVlJSeWNDWTJZNG9JRklnT3h3MzUtZDNyZk5Oa3dOS183a2k2QVhiUk84aVo2ajNlSTNwUFRpZ3hBZWgyVlBUYlRCMGlnSDUzX0RiVkRXbmpRTlZNZ0pWeHBUQ2hoNWFESUJBSlRKMmdYUml3MWJyMHBHQmMxUFBmVExDYkJyc3hYeXRoeE5PUDZlMDFiXzk4YjlR?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5"
       ]
     },
     {
       "title": "Indian Army’s First Dedicated Satellite GSAT-7B Scheduled for Mid-2028 Launch Amid Military Space Push",
-      "score": 25.07,
+      "score": 24.26,
       "kinds": [
         "backlog",
         "news"
@@ -102,8 +135,9 @@
     },
     {
       "title": "OPPO Find X10, Find X10 Pro Max India Launch: Price, Specs, Offers and More",
-      "score": 21.75,
+      "score": 22.95,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -114,55 +148,15 @@
       ]
     },
     {
-      "title": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns",
-      "score": 21.48,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzRsbHNxYW1Ka0NjaWxGQnhleFRfLTE3Slc4QzJEeEo3Ujh4RHNReVNkaG90c2VTTkFRLVFiTFFwNkFWYVA1OUJhNmszcDY0WHk5QVVzcWtNQmpZb1ZMMmdGMWRHRHpMY1hPelROel85bndoMmRucXdEZ3lYd2I0Uml3T3BjWVpMalF1OVhsZXFsV1U1QzRIUmlQdE9sRUlrdk1NWGIzTVJqV1pnUjFqOXREQ3djRjc3bHVsbmpIWHFzaVVSQWZMMkZZdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzRsbHNxYW1Ka0NjaWxGQnhleFRfLTE3Slc4QzJEeEo3Ujh4RHNReVNkaG90c2VTTkFRLVFiTFFwNkFWYVA1OUJhNmszcDY0WHk5QVVzcWtNQmpZb1ZMMmdGMWRHRHpMY1hPelROel85bndoMmRucXdEZ3lYd2I0Uml3T3BjWVpMalF1OVhsZXFsV1U1QzRIUmlQdE9sRUlrdk1NWGIzTVJqV1pnUjFqOXREQ3djRjc3bHVsbmpIWHFzaVVSQWZMMkZZdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzRsbHNxYW1Ka0NjaWxGQnhleFRfLTE3Slc4QzJEeEo3Ujh4RHNReVNkaG90c2VTTkFRLVFiTFFwNkFWYVA1OUJhNmszcDY0WHk5QVVzcWtNQmpZb1ZMMmdGMWRHRHpMY1hPelROel85bndoMmRucXdEZ3lYd2I0Uml3T3BjWVpMalF1OVhsZXFsV1U1QzRIUmlQdE9sRUlrdk1NWGIzTVJqV1pnUjFqOXREQ3djRjc3bHVsbmpIWHFzaVVSQWZMMkZZdw?oc=5"
-      ]
-    },
-    {
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "score": 25.13,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUV6dnhiZG1YWllFT0ZZZncxd2xWVURzWE9pUWtZLUpYSDJUTWhsbVNKTUNpUnBlVWFsMjl1akNXV3FnSG56elFuNEQ3MlAyMC0zcnBQTk1fZjdNaWg1RlBIaGdrLTRLdnNoNVpfS0l3T1B4STdQNWxkMUVtbm8ydWl4QQ?oc=5",
-        "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/"
-      ]
-    },
-    {
-      "title": "India smartphone shipments fall 26% to lowest third-quarter level in a decade",
-      "score": 19.54,
+      "title": "Air India Express flight suffers bird strike, lands safely in Bengaluru",
+      "score": 19.36,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaFpaWE9Cc2RHRkl4SWZaaGh1VHVBbUk3X1JoeEdBeDNmVk4yWlQzWVhWQkpoaDd5bVJvT2tibFhWSlE4bGZxTjBLN0JNX0V4d2s4RnRPakhMYzltbk9qbXJ0ckFFREI2aFZzNkZLZFFQX1JPdnBJRm5lMFd1aVFmc2NVTWtpRHNtVlRodWVtbFNEbzI5M21iSVN5bjhmTzZPZFlnWnR3dXRlNHJ5VUc0ODZLQXlZWUgwS0VNN0wwU0NPVXhLMS1hcWduSmc2N24zV1ZPMDJ4eUo3MXktTm0yYTFTaUJrMHFKZjMxdFV2VXpBQTJqbVdMWUYzMA?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGpMWWNKNllYV3Z0djlNWkJuNnhkaWFnREpEYm9YeTAwSnVuMFExTVVWeTBXN2V1N0JrU1Q2YTUzTEFidEpVaFlmRFplV1ZlX1B0OVI3bzVDekdXVk9OU1lzeE1VTkU0YmVWT3Y3NHlBT3VGazdMX2tnbHN3Z3h5dXVFckUwaXoxSERQXzdWRUFrdHV2WmxtVmlyb184Y0F1ZWpSV2tTUVNqd1g1QWRCNNIBrAFBVV95cUxPSXFHSXR6RjFhZENRVkNLS2NZRDlHUmJ6QWxjVEFwRTVWTW52OVVORXBjeDVqZXc2SmZyb04taldGSkpEOUVoZmtMQW1YdFZOaVFGc2F1X294ZUthM050VUZHU1RlT2x2d2hoRXRmVEZDdG9UdW9jMmZzMV9pZGRuNEJHMndEQzMyRUlFZWlNaGtMaGhXa2gtWVo1dVRVcUtHTzRpQ3JDbHRoemxo?oc=5"
-      ]
-    },
-    {
-      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever",
-      "score": 19.69,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjdqQ01oN2pUNHpXd0NsU1JKZEhJampaeFo5ZGhqMzBrUlFtNVB0S3prUFIyQkdiUFh0TGRlNTh0RGRreVhLNjg0OGllUVZrVDU3OU5pUGhzOUdfVE1RQ2VQV0JnVk9GUlhEWWdMWWt4Z2pTemFlYmpFaGVaVldsZHVucGthd0tUSFNfY3Q3N0FSUEl4SHFEeUljb01fNENmanNKM0FTNkl2RVNTbFNYMlVIRDczZGJrYWQyaEVscHJyTGxLd2c?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjdqQ01oN2pUNHpXd0NsU1JKZEhJampaeFo5ZGhqMzBrUlFtNVB0S3prUFIyQkdiUFh0TGRlNTh0RGRreVhLNjg0OGllUVZrVDU3OU5pUGhzOUdfVE1RQ2VQV0JnVk9GUlhEWWdMWWt4Z2pTemFlYmpFaGVaVldsZHVucGthd0tUSFNfY3Q3N0FSUEl4SHFEeUljb01fNENmanNKM0FTNkl2RVNTbFNYMlVIRDczZGJrYWQyaEVscHJyTGxLd2c?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjdqQ01oN2pUNHpXd0NsU1JKZEhJampaeFo5ZGhqMzBrUlFtNVB0S3prUFIyQkdiUFh0TGRlNTh0RGRreVhLNjg0OGllUVZrVDU3OU5pUGhzOUdfVE1RQ2VQV0JnVk9GUlhEWWdMWWt4Z2pTemFlYmpFaGVaVldsZHVucGthd0tUSFNfY3Q3N0FSUEl4SHFEeUljb01fNENmanNKM0FTNkl2RVNTbFNYMlVIRDczZGJrYWQyaEVscHJyTGxLd2c?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVBqZXo2MDR3Vy1LZkU5bmNwOG51NUZEazZ0MVdBb0NQaEFqRS13Rkd1Qng5WldxVmtVZTBIa3ZlbGFfSFUtZkpRRkNmd1haUktqUDRFRGFCQmI3VWlHTzlIVVE0aXE4OU5BMUZ4aDk3bHh2QS1HTi1GX2RKN19EQm9Cc2xyS2dJSzVSZW1ZcXoySHYwdzFDaUM3QkRRaWdCME5tclZidVFfLVZ6LUtaTUlnRFBGcXdhamtpUm5OQVgtQ3B4eDM2RGNpeGRLZmltYmcySdIB2gFBVV95cUxQa1QtbmF0UXc5UkdXVzVEZUtQV3ZJR3FNSi1kaXpJY2tEeGxpTHRCQXowTV9PazZ3WVBmSUxqdFNrOEpaMmdUaTZKeGVabWJYRk53RmdBcFpqQWZScHU3NlpQRDFhbXZFMklFaVdWWFhURVI0U0ZISGNPTDRGci1MMnprNVl2Mm42R3ZFbkFnSmdUMEVCTVh3WTczLTJSUGtLaDdydVc1LUk5bWl5d2tKa1kxWHh5Mlh5bVRFMTU2MTBEeEV6OC03TWdmRUota1gyS3pvVUJzYzhIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hyN2p3Y1pKNGREazA3SzhPeEZYOHd2U0ljd21ybTU3UFRFblJDNjJpN2FXLXo0QUpFOTUtVXdnTWFaMTNuam1Sa0F1LVBzeWFPV2M2TVUwSkUweld1WEVJbUg2YkV5Wk8wLVJQOE1MeUhtZElpX0VaTzdsQ0JlQXFuMFN4elFuX1RNZnkxLXpkd29QWldVMndrOEZJZndhVUJfX09WaTlmdk5DSHlON182a3dLUFJPbXRIb1VDZEh2amUwbExONmJKTWVpUnZ3Y3pTSlhZaC3SAd4BQVVfeXFMTWRPUmJmc2FDdUFteUxVMGw0S3JjNjQxVlhUS2s5RFVCMnlhb1hfbkxqbGx4bWNoUFdtaGNZdUFqd0E2Vk9EaUtwZXJEaTlpWTFEY1l5cVpTT25QalZmY2QydFplUEZ1Yl93Q2dQek1BaVFENGNabGNCN2tCYXBqblZkMUpZNDJYbmtGSHZGS2dqWTczZWR2X3paX3Y1Y2FwR3Nhbl9Vd0l5M2NwbHcza1Aydmx3S2V3MEZEa2xpSjFCanN0eldDZThmRVVwTDdPc2dqaXdLY3ZyeUlMbTZ3?oc=5"
       ]
     }
   ]
