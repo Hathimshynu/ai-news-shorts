@@ -1,22 +1,38 @@
 {
-  "job_id": "2026-10-20-evening-2115",
-  "chosen": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-  "reason": "This breakdown shows AI builders how smart memory architectures can outperform expensive frontier models on complex customer service tasks at a fraction of the cost.",
+  "job_id": "2026-10-20-evening-2259",
+  "chosen": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "reason": "It demonstrates a practical ChatGPT automation workflow that dramatically reduces manual finance work, giving viewers concrete ideas on how to use AI for real-world business productivity.",
   "candidates": [
     {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "score": 20.89,
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "score": 24.87,
       "kinds": [
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHNjhtdzByVVBoVlhtcE5tVHpJU3c3QWlVRlM0bTZ6eVo3Mkd2Z214TjBlb1pxZ2Q5bWE1WUFRcjJEa2IxN1puWTlUaHM3Y2VFcFI4cERfLUJCZDQ?oc=5",
+        "https://openai.com/index/ted-taylor-restaurant"
+      ]
+    },
+    {
+      "title": "NVIDIA DGX Spark 64GB’s Low Price-Point Aims To Accelerate Local AI Inference",
+      "score": 21.41,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5"
       ]
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
-      "score": 22.62,
+      "score": 22.19,
       "kinds": [
         "backlog",
         "news",
@@ -30,21 +46,22 @@
       ]
     },
     {
-      "title": "NVIDIA DGX Spark 64GB’s Low Price-Point Aims To Accelerate Local AI Inference",
-      "score": 19.84,
+      "title": "Indian students fear AI may be weakening deep learning, survey finds",
+      "score": 21.23,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYeXJCekFXcHR5UzlJMWpCcmMxaUYyVGl1Q05WbE5KVTNuN211aHR3QVBqQ1JMN2hxUlRzemE1cjhIX21aMXR0c21Gb1JMdlJ3MlFGTWVpeUt5NVBlVUJRMHlrUFVyVVZMNmdqZm9MNXFzdmpXWldjLUtOWW12TEMwbGxJRlhIdmxOME5vTFdCMEZGNmcwNHJUTExiTGdqT3pWajZjN0lhSXFNWlRKMA?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFdJbnNPMDFhZHFaWFltc2RnbU5DeUcwYXhVVllGQ3ZhOEFIeUdOaFdHRVNoRExKT09qOFJ4X3RpTmp5ZXRpbUVxT2NiSzhNNTcwaVgxb1B5Um5JTGZaZkw3cGY0WkZ5UGQ1VkZIa3loX3pXTmhtd1gxZnZJTXl3emVVWHcwRWxSLUdRa0NIQUpJeV9tbUZuS0RqVV9ScnNKM01XVzdfV1V5WTkyZkwyeHo0SkM4WWJPWkHSAccBQVVfeXFMTzhWR09iaVFHbjVxR190bmo0eDVNdFBodlJmcGNOUm1UNVByWVBpT01FZjA4cndnNVlVRFMxYkQ0b2lOcHIzQVJzRVhBWHVRQ3pMeXhiS2tvaXk1dFRiY1ozSnFMQVlmOHNjR0hPdkNvd1BuTy1yQVgzaHc5UzlOWkV3Z2dCb1pZZkV5cFpqMUp4bk9PbFlpczJ5czVDcmN2MDdmS0R0RmVTS1cydVRQcGpPUHltQ1RqelpxcTRGbmNZY09palZyRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFdJbnNPMDFhZHFaWFltc2RnbU5DeUcwYXhVVllGQ3ZhOEFIeUdOaFdHRVNoRExKT09qOFJ4X3RpTmp5ZXRpbUVxT2NiSzhNNTcwaVgxb1B5Um5JTGZaZkw3cGY0WkZ5UGQ1VkZIa3loX3pXTmhtd1gxZnZJTXl3emVVWHcwRWxSLUdRa0NIQUpJeV9tbUZuS0RqVV9ScnNKM01XVzdfV1V5WTkyZkwyeHo0SkM4WWJPWkHSAccBQVVfeXFMTzhWR09iaVFHbjVxR190bmo0eDVNdFBodlJmcGNOUm1UNVByWVBpT01FZjA4cndnNVlVRFMxYkQ0b2lOcHIzQVJzRVhBWHVRQ3pMeXhiS2tvaXk1dFRiY1ozSnFMQVlmOHNjR0hPdkNvd1BuTy1yQVgzaHc5UzlOWkV3Z2dCb1pZZkV5cFpqMUp4bk9PbFlpczJ5czVDcmN2MDdmS0R0RmVTS1cydVRQcGpPUHltQ1RqelpxcTRGbmNZY09palZyRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWpvbEtQUVFuaDRaZGQxSmdZbkpSOEw5NURsZF9vU0ktdmpSODNrYmJHek16TDJiQ0VrbVFNckh0YW5uWG9VQlVLWkQ3b3lJaGx1RmptcVZ6cDd0QW1nNS0xRnFKODlnalpjSVJnVzRwRzdTLUlqZW96SzlTUC1IaUlVZkYwaGtxMUNLem5jT3pINzhiN2tuT2hVYm8tcGZQOWhnN3hxTjBaSkFRZ3fSAbABQVVfeXFMTlVNRkYzbndGbHg1anNsR3ZibmpueFhhb2FWQ3hTOWZzc0JOTFMwMXNqcF8wVGZ2ekU4cGhnOWRyTGFoUU9YZ0dBWlZmSC1xX2NiMjlMYWswaTE4UFdRSHRmMTUtd19EM2lZWVFybnNzR0ZBelRtQUFjVmRkV2VTRE4ybC1mSUJvZE1RRkNpcmJ4cVhYODdzMFliNzc5ZnhZdE1uY1dlVzFsRUxZTVZBeVA?oc=5"
       ]
     },
     {
       "title": "Nuclear energy to support India’s AI-driven future: Jitendra Singh",
-      "score": 20.71,
+      "score": 20.28,
       "kinds": [
         "backlog",
         "news"
@@ -58,44 +75,48 @@
     },
     {
       "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "score": 24.33,
+      "score": 25.89,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUV6dnhiZG1YWllFT0ZZZncxd2xWVURzWE9pUWtZLUpYSDJUTWhsbVNKTUNpUnBlVWFsMjl1akNXV3FnSG56elFuNEQ3MlAyMC0zcnBQTk1fZjdNaWg1RlBIaGdrLTRLdnNoNVpfS0l3T1B4STdQNWxkMUVtbm8ydWl4QQ?oc=5",
-        "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/"
+        "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUV6dnhiZG1YWllFT0ZZZncxd2xWVURzWE9pUWtZLUpYSDJUTWhsbVNKTUNpUnBlVWFsMjl1akNXV3FnSG56elFuNEQ3MlAyMC0zcnBQTk1fZjdNaWg1RlBIaGdrLTRLdnNoNVpfS0l3T1B4STdQNWxkMUVtbm8ydWl4QQ?oc=5"
       ]
     },
     {
-      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
-      "score": 20.53,
+      "title": "GitHub package firewall in public preview",
+      "score": 20.68,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
+        "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview"
+      ]
+    },
+    {
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "score": 22.1,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
         "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4"
       ]
     },
     {
-      "title": "Indian students fear AI may be weakening deep learning, survey finds",
-      "score": 19.67,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFdJbnNPMDFhZHFaWFltc2RnbU5DeUcwYXhVVllGQ3ZhOEFIeUdOaFdHRVNoRExKT09qOFJ4X3RpTmp5ZXRpbUVxT2NiSzhNNTcwaVgxb1B5Um5JTGZaZkw3cGY0WkZ5UGQ1VkZIa3loX3pXTmhtd1gxZnZJTXl3emVVWHcwRWxSLUdRa0NIQUpJeV9tbUZuS0RqVV9ScnNKM01XVzdfV1V5WTkyZkwyeHo0SkM4WWJPWkHSAccBQVVfeXFMTzhWR09iaVFHbjVxR190bmo0eDVNdFBodlJmcGNOUm1UNVByWVBpT01FZjA4cndnNVlVRFMxYkQ0b2lOcHIzQVJzRVhBWHVRQ3pMeXhiS2tvaXk1dFRiY1ozSnFMQVlmOHNjR0hPdkNvd1BuTy1yQVgzaHc5UzlOWkV3Z2dCb1pZZkV5cFpqMUp4bk9PbFlpczJ5czVDcmN2MDdmS0R0RmVTS1cydVRQcGpPUHltQ1RqelpxcTRGbmNZY09palZyRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWpvbEtQUVFuaDRaZGQxSmdZbkpSOEw5NURsZF9vU0ktdmpSODNrYmJHek16TDJiQ0VrbVFNckh0YW5uWG9VQlVLWkQ3b3lJaGx1RmptcVZ6cDd0QW1nNS0xRnFKODlnalpjSVJnVzRwRzdTLUlqZW96SzlTUC1IaUlVZkYwaGtxMUNLem5jT3pINzhiN2tuT2hVYm8tcGZQOWhnN3hxTjBaSkFRZ3fSAbABQVVfeXFMTlVNRkYzbndGbHg1anNsR3ZibmpueFhhb2FWQ3hTOWZzc0JOTFMwMXNqcF8wVGZ2ekU4cGhnOWRyTGFoUU9YZ0dBWlZmSC1xX2NiMjlMYWswaTE4UFdRSHRmMTUtd19EM2lZWVFybnNzR0ZBelRtQUFjVmRkV2VTRE4ybC1mSUJvZE1RRkNpcmJ4cVhYODdzMFliNzc5ZnhZdE1uY1dlVzFsRUxZTVZBeVA?oc=5"
-      ]
-    },
-    {
       "title": "Chinese tech giants order $35 billion in Nvidia AI chips",
-      "score": 19.86,
+      "score": 21.37,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -106,38 +127,20 @@
       ]
     },
     {
-      "title": "OpenAI seeks to raise $30 billion ahead of Anthropic IPO: Here’s why",
-      "score": 20.73,
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "score": 20.67,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWVGZ3BBbEkzZ0RSZWpYRHc3M1ZZZXFySXJwU1diY01DY0VsVkE1aVpJcFB6SU9RTE04aHhiMkRaMGJ1ZVVOSkl6MHoyTTQ0SVR3eDV0eG5tVm9qeElZN3hDM1RpSlQ2YnpaMk02MVlxVFpiM0M5LU5uRWxqeEJtVUk0ay1xZXBRSUZFV2R6elNDbWtoQ1ZsOGwzOU1zMVVMOG94SWJXZGMxdWpZRzA1VmU0aVdvak5Oc1HSAb8BQVVfeXFMTnRCbDRLc2dtNmRDbVp4ak1zekxxU2xnNmxndjFjX3lXbGN1Ul9oVDZGNkNFMWpTRl9JUE93UDA5QXE0bmFaWlZJWFA2SkNUZ2hQVGpNbG5LdTRoY3dSLXlpd0JxNzN1UW84RUMwUmxuQ1l5bHNyY3ppaU9lSXFNaXpUbURJc3gwRHdXSnF4RS1STzZ1aXNqMUlYR25iU2xuWG0zbWJ4N2dXNU1qWm9zZFlSbmoxOFNxQ0pabjNHTFE?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFF4aDdTM3A2cVFpbFJYSWU2UzlJcHpUNWR2NXNyYzdJRDFiNkpKVkctbk1pSENSZzVkMWM5UDFMcy1Db0ZJMDVOM3VKTVM5SUdoNFEzcUJlVUZCTzdfck85TTF1cFI0X3d5QVBlaWJIM2NhUGFYd0N4NndNUmVlc3Z0SHJXZ2x2a3lDRzZoTlFiTk1jODc0V0FVMHQ2WG1UWF9sSDFsT3k1WDgxVEVrb3FMaDdPXzRwUi1mOEJCUV9venZEblo4eGJCaHV1VXVQeWZSMDJ6UFgza3RHZTRV0gHmAUFVX3lxTE5VbUd3X2Z6WFEwZ21jTWs2OE91czdvY0ZmOXFyTnN5ZU10MFE0UmtxWWJPaVBZbWxOeGloUjh1Y2xWRDVMUnljdlV5eFZPZlRhcGlEVlJSeWNDWTJZNG9JRklnT3h3MzUtZDNyZk5Oa3dOS183a2k2QVhiUk84aVo2ajNlSTNwUFRpZ3hBZWgyVlBUYlRCMGlnSDUzX0RiVkRXbmpRTlZNZ0pWeHBUQ2hoNWFESUJBSlRKMmdYUml3MWJyMHBHQmMxUFBmVExDYkJyc3hYeXRoeE5PUDZlMDFiXzk4YjlR?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5"
-      ]
-    },
-    {
-      "title": "Indian Army’s First Dedicated Satellite GSAT-7B Scheduled for Mid-2028 Launch Amid Military Space Push",
-      "score": 24.26,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1psXzB4WTZxME5YSm9TMUZCa1A5ZXdFUExBRUItM2hpZFc1RUhvajZud1loUTFpZDJnajItZFA1VDN5SFN2QXh3cEtBSld5bm5QQld6TnlfOWVDRi16ajVhZHkzbkMzQVVPS0k5Ym1ZNmlVRndWa21IZTVlYzZYdjJNRnBGSVJ0Z2sxYV9JN0hrQUdJalFLNUxOQjB3R0xIcTh4WDdlR1hRQkNlR0cxaWlXVU1Cb1g3dU85TG0yR0VVQ2ZoTEFlZXpmOEV4YjR5V3Nyb3FOSGFmVFFQcFE?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3J3RkdvaWxPWTlaSkdFTmppWDBaT1BydEgzV1o2UXdzMU9XZWRLN2N1eUZDNXZSN1NlR19udEZseHZ5NDNfTkhhTGp2LXVoRzFrRU1hWW1ua2x3YW5zQWZmUjBUUTBPanpkSk5USlBsaUQ4NThSWG84c2Y4WFBseWxzblJnMXhVNmg1c0lMRlVHbDVYc0gtUnFRenlRVkx1MkJrWHphcFc5bnRlQ1VGR2RlTzVld0YyRzd3MG13?oc=5",
-        "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5fWjFuVVY1UWFEVmpCamZRYVp0NlVGb18wZk5LaEExT0RpZmMyMDM5ZldOSjNyZlItXzNJ?oc=5"
+        "https://huggingface.co/blog/allenai/fairstress"
       ]
     },
     {
       "title": "OPPO Find X10, Find X10 Pro Max India Launch: Price, Specs, Offers and More",
-      "score": 22.95,
+      "score": 20.52,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
@@ -148,15 +151,15 @@
       ]
     },
     {
-      "title": "Air India Express flight suffers bird strike, lands safely in Bengaluru",
-      "score": 19.36,
+      "title": "India’s nuclear programme is dedicated to peaceful purposes: Dr Jitendra Singh",
+      "score": 19.61,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVBqZXo2MDR3Vy1LZkU5bmNwOG51NUZEazZ0MVdBb0NQaEFqRS13Rkd1Qng5WldxVmtVZTBIa3ZlbGFfSFUtZkpRRkNmd1haUktqUDRFRGFCQmI3VWlHTzlIVVE0aXE4OU5BMUZ4aDk3bHh2QS1HTi1GX2RKN19EQm9Cc2xyS2dJSzVSZW1ZcXoySHYwdzFDaUM3QkRRaWdCME5tclZidVFfLVZ6LUtaTUlnRFBGcXdhamtpUm5OQVgtQ3B4eDM2RGNpeGRLZmltYmcySdIB2gFBVV95cUxQa1QtbmF0UXc5UkdXVzVEZUtQV3ZJR3FNSi1kaXpJY2tEeGxpTHRCQXowTV9PazZ3WVBmSUxqdFNrOEpaMmdUaTZKeGVabWJYRk53RmdBcFpqQWZScHU3NlpQRDFhbXZFMklFaVdWWFhURVI0U0ZISGNPTDRGci1MMnprNVl2Mm42R3ZFbkFnSmdUMEVCTVh3WTczLTJSUGtLaDdydVc1LUk5bWl5d2tKa1kxWHh5Mlh5bVRFMTU2MTBEeEV6OC03TWdmRUota1gyS3pvVUJzYzhIdw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0hyN2p3Y1pKNGREazA3SzhPeEZYOHd2U0ljd21ybTU3UFRFblJDNjJpN2FXLXo0QUpFOTUtVXdnTWFaMTNuam1Sa0F1LVBzeWFPV2M2TVUwSkUweld1WEVJbUg2YkV5Wk8wLVJQOE1MeUhtZElpX0VaTzdsQ0JlQXFuMFN4elFuX1RNZnkxLXpkd29QWldVMndrOEZJZndhVUJfX09WaTlmdk5DSHlON182a3dLUFJPbXRIb1VDZEh2amUwbExONmJKTWVpUnZ3Y3pTSlhZaC3SAd4BQVVfeXFMTWRPUmJmc2FDdUFteUxVMGw0S3JjNjQxVlhUS2s5RFVCMnlhb1hfbkxqbGx4bWNoUFdtaGNZdUFqd0E2Vk9EaUtwZXJEaTlpWTFEY1l5cVpTT25QalZmY2QydFplUEZ1Yl93Q2dQek1BaVFENGNabGNCN2tCYXBqblZkMUpZNDJYbmtGSHZGS2dqWTczZWR2X3paX3Y1Y2FwR3Nhbl9Vd0l5M2NwbHcza1Aydmx3S2V3MEZEa2xpSjFCanN0eldDZThmRVVwTDdPc2dqaXdLY3ZyeUlMbTZ3?oc=5"
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGc3dWlLOE55SDZ1RHlkOWVTN25ES1k1WUpzdW51aVVRN1Y2TGNwcFp0V1JtMktELUY3Vm9kcmd3U1Z0MGVUVERUM1VlTmhfcTRqUlFnZ19adTR5RGdnRUN0aWNUNWNic3hGbF9HemNXaE9yaHZOSlg1Zlh1VlBtYzBXTVdxVTM5OGRyTGF4WVl3WS1nSmVqNDVvNEJsN2o2a2VhMw?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQREhpd3hBaTFuZ004bHZvVXIybTRLN3BjYUlMZFdXNWlTSjJOUWhxMlZlOU1jejZwNnRrWEh2Znotb0RNUGxOUExrYmVpNUVxbjVwSGhaZDF2T1JiTEhMOXZPUHZPeDJWdnluUHdkZTJfcHlZQ3Z3ejFra3hvN2taOExBcGdPVE0yUnRGUWVIdUVmN25Gbkh2R0tOSDBzTWY4YnpJNG5MZWdsdXAxdEsyYkJkVzVRbTEybmRWNWY3aTZySWxMT0pyYkI5d9IB0AFBVV95cUxPUDJWSHBDUG1rb2U3T0tXaVdWeXgxd1lUUW5UWWZBZzRCc01nd09vOXFVeVFXdHVrd2FDWkJDWHV0U1pNQU5CV0cydnNrOHFLRlhSR2h6SWUtUFBxSjBnblFWbzVjWmduT296OWJsNlYwN1VmUmF6VklCMEFiRVl0VmVabGlmZW9QOWxlazE0RDlVX0dmX2N0SkRsdnpoZHd3ajY5OUFwRUY4Sk1MRW1RQ19qR24wM2tSY19kRHVyTlhCaWxLYTRTbUVUQ2JZTDNI?oc=5"
       ]
     }
   ]
