@@ -780,15 +780,29 @@
     }
   },
   "2026-10-20-evening-1701": {
-    "status": "approved",
+    "status": "posting",
     "platforms": {
-      "youtube": "https://youtube.com/shorts/_qNtDUnaMwY"
+      "youtube": "https://youtube.com/shorts/_qNtDUnaMwY",
+      "facebook": "https://www.facebook.com/reel/1695163018609767"
     },
     "approved_at": "2026-10-20T13:47:19.907650+00:00",
     "ids": {
-      "youtube": "_qNtDUnaMwY"
+      "youtube": "_qNtDUnaMwY",
+      "facebook": "1695163018609767"
     },
-    "yt_scheduled_for": "2026-10-20T20:00:00+05:30"
+    "yt_scheduled_for": "2026-10-20T20:00:00+05:30",
+    "attempts": 1,
+    "last_try": "2026-10-20T14:30:06.707559+00:00",
+    "info": {
+      "title": "DeepInfer Open Source: Fast Offline AI Inference Engine #Shorts",
+      "topic": "DeepSeek just open-sourced its inference engine",
+      "category": "AI Tools You Should Know",
+      "hook": "Open source inference engine just dropped",
+      "seconds": 51.1,
+      "primary_keyword": "DeepInfer open source",
+      "qa_passed": false,
+      "posted_at": "2026-10-20T14:31:24.143159+00:00"
+    }
   },
   "2026-10-20-evening-1801": {
     "status": "approved",
