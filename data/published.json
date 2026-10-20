@@ -804,7 +804,7 @@
     }
   },
   "2026-10-20-evening-1801": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/5iwBMAcczYw",
       "facebook": "https://www.facebook.com/reel/1689242352806013"
@@ -815,8 +815,8 @@
       "facebook": "1689242352806013"
     },
     "yt_scheduled_for": "2026-10-20T21:00:00+05:30",
-    "attempts": 2,
-    "last_try": "2026-10-20T15:40:09.296435+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-20T15:50:10.726544+00:00",
     "info": {
       "title": "Google AI Interview Process Changes Revealed #Shorts",
       "topic": "Internal docs reveal how Google is shaking up its interview process with AI",
