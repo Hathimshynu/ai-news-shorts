@@ -1,14 +1,36 @@
 [
   {
+    "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5",
+    "source": "NVIDIA Blog",
+    "kind": "news",
+    "summary": " GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote &nbsp;&nbsp; NVIDIA Blog ",
+    "country": "IN",
+    "published": "2026-10-21T11:44:31+00:00",
+    "engagement": 0,
+    "saved": "2026-10-21T17:40:49.655997+00:00"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Patch the Planet: global response coordination as agents uncover critical vulnerabilities &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-21T16:56:20+00:00",
+    "engagement": 0,
+    "saved": "2026-10-21T17:40:49.655997+00:00"
+  },
+  {
     "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
     "source": "OpenAI",
     "kind": "news",
     "summary": " ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-21T13:08:10+00:00",
+    "published": "2026-10-20T19:55:18+00:00",
     "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
+    "saved": "2026-10-21T17:40:49.655997+00:00"
   },
   {
     "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -19,61 +41,39 @@
     "country": "IN",
     "published": "2026-10-21T04:09:26+00:00",
     "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
+    "saved": "2026-10-21T17:40:49.655997+00:00"
   },
   {
-    "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk4xMkliaExITndYa1ZydFRveE9CaGRTZkFOdkI0NFVBZHcybTdiS1VPRGtNYjFlTmFaSXUwUnB5UkVKaXAzb3prTWJrSFNMak16YVl1Uy1nN05vWW1feVZUVndzNFo2eFFCUkd0ZnlKSmxyNHR4T3pia2RUcWU5SVVObXZ3dzh6NXJfUF9qUjlNUnJmTW83RWhGTFlHNXU2MVBrcmZNOHZZcDhW?oc=5",
-    "source": "India IPO",
-    "kind": "news",
-    "summary": " AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs &nbsp;&nbsp; India IPO ",
-    "country": "IN",
-    "published": "2026-10-21T10:37:16+00:00",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-21T17:35:36+00:00",
     "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
+    "saved": "2026-10-21T17:40:49.655997+00:00"
   },
   {
-    "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5",
-    "source": "NVIDIA Blog",
-    "kind": "news",
-    "summary": " GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote &nbsp;&nbsp; NVIDIA Blog ",
-    "country": "IN",
-    "published": "2026-10-21T11:44:31+00:00",
+    "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+    "link": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a&#8230; \n The post  GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-21T16:43:23+00:00",
     "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
+    "saved": "2026-10-21T17:40:49.655997+00:00"
   },
   {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
-    "source": "OpenAI",
+    "title": "Indian AI Startups Could Add USD 100 Billion To Market Cap",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkFSd2ZiVlJfaHJmRFhRSTk2dEI2X3A0ZUcwTlh2RTZIU01XZlk2NGpuZ2lVUVR5MV9aR1FmZVdaT0V4OHdFckNuQU8tRUNhTWtadklsR2lya1Vpc1l3RFNMN3lZTXQzODBuOVZDX2licnNoN0sxZ1RoUTRxMzZWNU5qNGlScEJqdzNOM2QtUWVfRUpqQ2VVZ2JMUUtkMUJCTm9UVEU0TlN5WUZ0elg2NGhpWdIBtgFBVV95cUxNeEFoUV8tbG0xUU5wQjZVMzgtLUR1N3pPU19lVkRGeTZ4ZWx1WlpsbU9ockMtQ2xkQVBON3JudnVHdWszcU9aeDl3MUF2MWhtNl8yZTZ0WUdVS2NQMEFDS3czc0xFUl9odFZHMjNnVUlkZ0ItVmxjTXBoTTdNc3VKOHhzU0xETVpFc25fMmk3VGdreklBdnRXdVg1TXFxa1dlQlNpa1I0ZUczN2JFdXV6SkJ5akVudw?oc=5",
+    "source": "Rediff",
     "kind": "news",
-    "summary": " Using thousands of AI agents to uncover new leads in biological data &nbsp;&nbsp; OpenAI ",
+    "summary": " Indian AI Startups Could Add USD 100 Billion To Market Cap &nbsp;&nbsp; Rediff ",
     "country": "IN",
-    "published": "2026-10-21T13:10:52+00:00",
+    "published": "2026-10-21T16:30:52+00:00",
     "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
-  },
-  {
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Patch the Planet: global response coordination as agents uncover critical vulnerabilities &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-21T14:11:57+00:00",
-    "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
-  },
-  {
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQm5JWm5CbVR5MmhCdFhnN0RJeFNpdWM3d0hLektncHVmaXhCWnEtTDVRODdKUlJWODY2SW9MWnNCRmVXRWN3eEpGZE8?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Terminal X matches senior investor judgment 88.6% with GPT-6.1 &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-21T00:07:27+00:00",
-    "engagement": 0,
-    "saved": "2026-10-21T16:05:22.388335+00:00"
+    "saved": "2026-10-21T17:40:49.655997+00:00"
   }
 ]

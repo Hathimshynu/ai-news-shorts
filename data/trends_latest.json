@@ -1,67 +1,27 @@
 {
-  "job_id": "2026-10-21-evening-2132",
-  "chosen": "OpenAI models are coming to Google Cloud",
-  "reason": "OpenAI bringing its industry-leading models directly to Google Cloud is a massive shift that directly impacts enterprise developers, startups, and tech professionals across India and Asia.",
+  "job_id": "2026-10-21-evening-2307",
+  "chosen": "Using thousands of AI agents to uncover new leads in biological data",
+  "reason": "Thousands of AI agents are being deployed to mine biological data, showing how large‑scale AI can accelerate research and open new opportunities for Indian biotech startups.",
   "candidates": [
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "score": 30.61,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFFsdzRKaWF5b0syQTJoaHAwSGZwSnk3OVZmYUtWekZJUlAzQkNTeURnRURjVlFXdVRVM0VHbWNLSjlnZUx3TXdnUzU4SUV0ajR1WGU1X2g0UzNqUndOcEtkVE1RWnpmei05TFpmdEdPd3FhRjJieTlNbWNqdkwxelp3azhUdl9QdnN6YU1TNFhFNUZCY2E1eVNmOGlORHl1SjVZV0Vnb1ZjZVBKdU9F?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9EWG9QTDRBLU5tUVpFUXNUVW8wU2s3WVNTY2RnQUd0SEZfaXRyVmhpTFg4dGhuZ1RlN3JpOGVSNmY4VDNOUzFSNG9OVnZGTm1oXzk1VTFjakdIOVcyMm9qN2tPMEVJYjl1TzdtdkpCZjNSRlRZdFVGR3JFSC1mX3prVEJOYWI3aUdBbWx1WW40bUhSZmxJMV9kS01RMHBVc3huVWszcE5MTTA3M2RKTGZyMmpNczhpU3ZRcm5fMFA?oc=5"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "score": 24.27,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
-        "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-      ]
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "score": 26.03,
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "score": 31.06,
       "kinds": [
         "backlog",
+        "community",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5",
-        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5"
-      ]
-    },
-    {
-      "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
-      "score": 22.64,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk4xMkliaExITndYa1ZydFRveE9CaGRTZkFOdkI0NFVBZHcybTdiS1VPRGtNYjFlTmFaSXUwUnB5UkVKaXAzb3prTWJrSFNMak16YVl1Uy1nN05vWW1feVZUVndzNFo2eFFCUkd0ZnlKSmxyNHR4T3pia2RUcWU5SVVObXZ3dzh6NXJfUF9qUjlNUnJmTW83RWhGTFlHNXU2MVBrcmZNOHZZcDhW?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkMxc0s2MV9UdVBGQlhVWER3a2J3bGx0MkYxVjlVSUVzR0kyajd5M0U2d3BzcEJsbkxrMXB5dnFxVzZGajU0QWY2RU4wRFhCTmxXR3B0VHdxQ3RCN3R3a2luRlhZamM1MkxiQzVUenVTTmFRZHJuODQ5am1aeVpzdkJiTmo5NW02Qnhqel9uNmpNQlBCdVl5SXdnc1JVak1US25LV1FaY9IBpwFBVV95cUxORkMxc0s2MV9UdVBGQlhVWER3a2J3bGx0MkYxVjlVSUVzR0kyajd5M0U2d3BzcEJsbkxrMXB5dnFxVzZGajU0QWY2RU4wRFhCTmxXR3B0VHdxQ3RCN3R3a2luRlhZamM1MkxiQzVUenVTTmFRZHJuODQ5am1aeVpzdkJiTmo5NW02Qnhqel9uNmpNQlBCdVl5SXdnc1JVak1US25LV1FaYw?oc=5"
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
+        "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
       ]
     },
     {
       "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "score": 27.92,
+      "score": 27.53,
       "kinds": [
         "backlog",
         "news",
@@ -75,36 +35,23 @@
       ]
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "score": 28.61,
-      "kinds": [
-        "community",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5",
-        "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-        "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
-      ]
-    },
-    {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "score": 24.54,
+      "score": 26.83,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
-        "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+        "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5"
       ]
     },
     {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "score": 23.02,
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "score": 25.88,
       "kinds": [
         "backlog",
         "news",
@@ -112,54 +59,64 @@
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQm5JWm5CbVR5MmhCdFhnN0RJeFNpdWM3d0hLektncHVmaXhCWnEtTDVRODdKUlJWODY2SW9MWnNCRmVXRWN3eEpGZE8?oc=5",
-        "https://openai.com/index/terminal-x",
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQm5JWm5CbVR5MmhCdFhnN0RJeFNpdWM3d0hLektncHVmaXhCWnEtTDVRODdKUlJWODY2SW9MWnNCRmVXRWN3eEpGZE8?oc=5"
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
+        "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5"
       ]
     },
     {
-      "title": "Glance partners with Google to bring AI-powered shopping to Android TVs",
-      "score": 21.44,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdlVmamt5bjRJNkFxRkU1U25PRkpIS3h0RFdQQUFVTEF6WDF0VUZ1dlhyU2lpV2NYS0tsZEszY2RHMUo1OUJpNTY2cnI1bktodktIcG9pbnhUeUVfSmxCRHY0MHhRcklmSGVrTUs5Wm5XOGh3RTBIc1hKMDVETmQ1dVpRM25udmhXWjM0UU92eHVlZ3ZwWm5iWncwOEpaWFBnbkpvTzRINl94VXVjSUQ4N2N5WGVvN2VTOWpRdWp2Q1dJRmVjSkttQnROa9IBywFBVV95cUxPdlVmamt5bjRJNkFxRkU1U25PRkpIS3h0RFdQQUFVTEF6WDF0VUZ1dlhyU2lpV2NYS0tsZEszY2RHMUo1OUJpNTY2cnI1bktodktIcG9pbnhUeUVfSmxCRHY0MHhRcklmSGVrTUs5Wm5XOGh3RTBIc1hKMDVETmQ1dVpRM25udmhXWjM0UU92eHVlZ3ZwWm5iWncwOEpaWFBnbkpvTzRINl94VXVjSUQ4N2N5WGVvN2VTOWpRdWp2Q1dJRmVjSkttQnROaw?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTNIWkt3Y2pJSlYxT2ZyMmNFSzhGUERxN2ZDWE5ITzJya0xiTVhhS2xpUXUxMDAwUjBUYkJIUjQ5d0RzTmhUSWo4QWxocERLamZpTG1ZZFZjdmRtS1l0RV9HdE1SOTZZN0RWVTZyendWazFpcy1SUW5EVzhzSFRDa1JTQXhiY1RpYjVnSFI0S21rX0pfRzYwVUJ3?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkNIZnFRRDdyREs0R2RZVlh2TzVHSXBZQlRLbTdNajI4Wm04X210TGhzTElOSDVpM04xTjJTaGc1bERlMVdmMjJHdTJBMjhoNi1XbG1xNlRHaGZEMVh4T29PNXo3cko4TFlnMDB5d19xcGVqN05rU3lNWkdxNXlkcU9YWXpZR05pSGF2eHFSTzdFNXFkcnJ0ZXo3enQ1Vnd5ZkVzRThiX0JvMXctQ3k2UVVFeGJqUlpoeEUwdGxxX0lJTFNraGfSAcoBQVVfeXFMTUxIZWVwUm51bmVnb0pEbHNvQTJLSm5mSHJrWVQzeWlPNk5sNVFaX3kxU3J4SkpubGJtYjYwNE50SEQxMDhZSVJ0bUhCbUxSd0xYRDQ2T1NpM3l6NzZZeFJhTm9xVE9acEp3S0ZSZjhFXzMyQ0ExOEEweUlXUkR5M1Y2c0hZSUp4aF9wZUQ1VWRoRXhkek1CUEN3ZElERGc4b09kMzVjYTlFejdkZXRWT1hQb09NYlZNTlBUcklZVHN3RVVQRkdDMFpBdw?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI Says Its AI Agents Weakened Parts Of An Internal Monitoring System",
-      "score": 21.48,
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "score": 25.63,
       "kinds": [
         "backlog",
-        "news"
+        "news",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYW1OMlFRdl9ra1otbUtNeXNMamZkc0x5dzJKVXlHYmJyaElSUjR1TzUyc1BPT3BGZWhSTm1sekZKajYtdW96RlZpZ05KaVNxUUNtcl9rbklFMjFqel9zaHIweXFwaWFFdERjR0ZreU92QXdlX0hiS1RKaVJYX1NRU2NnRzFZbXpZSy1qVFgtSUdTekFJcGNnREU2YkMtdk5IRDFPbzBWVHpsR21xNi1rYjFPdFR6MURLSndPMXBvY3lfaUdSbUHSAc4BQVVfeXFMUE9RX0xhNjBnV1REUXgtMWFwaW1SeE9qM0VHQ0NHT3dYdU9IYkNwRkgtMERjeTlXcE9uNGlZeVRaOUxJdTNlUzhWOW5lc25yM2hYUVoxM0x3UGg5UkFpRGFoUzdaZnZZUDcwWl9QdjFJWVhrTjlwWHFBdGtMSi04S3plY1N4Mi1ITjZab05mZFRuUEVTTDIzbkpTcXZpWm1TM1lkcXg3UzRXWldPRVl4WjF2SmRCc1d0ME9yZUIwLXZzMUIzbWw0S0RLSU9rMnc?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdi1HQW0xZHZaX0hWNFozWVlZSGZUUGN4X1JVc1JScDgxOTJFRFRnUXZXY3ZqRkNLNnh2OWQxbjdnQi1nRk9ycEhHWm1QdllBek1EYkRJWUIzRWhWNXBSUGI4dzBScVRTZDF2dVFFeVpBOFo3RUNsSzNzUDVJZVpTd3c5YTJKY044cktRU1V4VFZBWUlVMFJncjU5MU5oQW15b2RkN3NxR3N2aEswLTg1NGxTMG82OTAxOTlsZDRiT2hnOGJHc004OGkyVkNFdVdFTS1XVnRld1AtQlZjanJvZlcwQ3lLdi1XdGg0TEFwN0pXQdIB9wFBVV95cUxPeXVVczVhblJQZTBwN1h3bmtvLXJMYUwwMHBhSkNLOEVhLThQSXZGSVBBWUNjRGlCV1N3TTBtM29HTnF4TVNReFBWQjZkcEhWendKTzFYbENOakJURFZGd3c2VDc2UGgyMmtxc2t5RG5QSUZsdHZ5Vk5FVFZCTTk5M0F5bG5ZUlVNclAzZzhsdjd2dWZ2dlMwdklDcllIUTdNM1lyYi04dE5DeE9zV0VYMDY3dlBvbjRjWXVOTnJCQmtwVWU5cW5sTHFYRnY5bTRSeW9admM4dndBSmhWR1BBb2xmc0VkWi1NZkFIUVF3Yy1UcmxOODNj?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdi1HQW0xZHZaX0hWNFozWVlZSGZUUGN4X1JVc1JScDgxOTJFRFRnUXZXY3ZqRkNLNnh2OWQxbjdnQi1nRk9ycEhHWm1QdllBek1EYkRJWUIzRWhWNXBSUGI4dzBScVRTZDF2dVFFeVpBOFo3RUNsSzNzUDVJZVpTd3c5YTJKY044cktRU1V4VFZBWUlVMFJncjU5MU5oQW15b2RkN3NxR3N2aEswLTg1NGxTMG82OTAxOTlsZDRiT2hnOGJHc004OGkyVkNFdVdFTS1XVnRld1AtQlZjanJvZlcwQ3lLdi1XdGg0TEFwN0pXQdIB9wFBVV95cUxPeXVVczVhblJQZTBwN1h3bmtvLXJMYUwwMHBhSkNLOEVhLThQSXZGSVBBWUNjRGlCV1N3TTBtM29HTnF4TVNReFBWQjZkcEhWendKTzFYbENOakJURFZGd3c2VDc2UGgyMmtxc2t5RG5QSUZsdHZ5Vk5FVFZCTTk5M0F5bG5ZUlVNclAzZzhsdjd2dWZ2dlMwdklDcllIUTdNM1lyYi04dE5DeE9zV0VYMDY3dlBvbjRjWXVOTnJCQmtwVWU5cW5sTHFYRnY5bTRSeW9admM4dndBSmhWR1BBb2xmc0VkWi1NZkFIUVF3Yy1UcmxOODNj?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5",
+        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5"
       ]
     },
     {
-      "title": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
-      "score": 21.74,
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "score": 20.99,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+      ]
+    },
+    {
+      "title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "score": 20.77,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens"
+      ]
+    },
+    {
+      "title": "Indian AI Startups Could Add USD 100 Billion To Market Cap",
+      "score": 23.72,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFERURfRDhCWENqMGowemlERzBvaU00S3pBbmRwNDFpcGNpWjZ6cFJIak1WTnVMN3NOemFlUE1nNVkweGk3V3NnNFlHa29UYUFjRVYzRGhGUjlWSEh4b09UWnEyN1V4bzJ6UmVBUkVRWkhHQVh1S1Z2MWdzTHlpUHJGWTlnNVd0dHNJekZfQk9PUWxCa1IwUFI0LTdnQUVhZGJ0eFpkUnlDclN3b3hFUWpzajF3MHFjZnREdVln?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXp5VE0tcGotMGM1UUhLb20tMVNEbWpHN2Q0MFJINjBNWGN4TWZxTzB2ei1GN1lrdzVxTk41VlhmMGNRU0pQcEtxQnBnYmxmc0FkSnRWVWgyTklMdnBLZE1GSkU2QTJOVkRNS3l4alpQN3FORExrZEo5d01BdjM0OW1vakMtbzk1R2QxZDZpeElCdk5iczdEQm1oeXo5UjZ0aEFaZjNmRlFCZm5DZWxUU2JKdE5kVFJQeWQzZmU1UVQzcEYtT0tOcEdiZi1rd9IB0wFBVV95cUxPVm1zOUgtS0lNS1N3LTRJM1ZjN09yWXFHeDdVbVV3enRLWjdobmx2SWtROG5CVUQ2eHRocEpiVzNDeHlPUFdTSUdIdDdHYjNwcFhVcFUtenpNVkRzeF91WjlOX0tKNjZVdmJHWjR0cF9lWTA2bzBIUnFiaGxRXzh3dS1SUVR4R245UlVGczJHb3F5dk1VbTN2cFNFMnhObTc4YXM2VE13RGNTdm9WcV9rYXdleVh4enZ1bVAyUGdDNWVkOTdLdHM4MGJ0SFVwdzZTaGhJ?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zT2hqbHpJQWlRY2M5SElrcVpHc3BHM3dWdks0R0hhbWM4NFlmQkItUFhPUW9zSXhyaG1NWjNjV3U1eERDOGE2WVI0eF8zX0JjeURXR0NBTGlLbm1YZERsVkhsLWUtRm4xSl8tcHQ4NkFGWDZxN1hV0gF8QVVfeXFMTndoM0pabVhEX0Z2Xzc0aWI2QVZINmpJdEs3RjdqemVxUlNfVFJLczRhN0d1RTJZd19zTUN3dEc0R25OZXZvZmVnWDB5dkxtRHZhUVpyNEpfUVpNUUp5S0NCcGQ0MU9FQW1fTzJWYkdFZ3Z5VENGMXZtOVJfbQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkFSd2ZiVlJfaHJmRFhRSTk2dEI2X3A0ZUcwTlh2RTZIU01XZlk2NGpuZ2lVUVR5MV9aR1FmZVdaT0V4OHdFckNuQU8tRUNhTWtadklsR2lya1Vpc1l3RFNMN3lZTXQzODBuOVZDX2licnNoN0sxZ1RoUTRxMzZWNU5qNGlScEJqdzNOM2QtUWVfRUpqQ2VVZ2JMUUtkMUJCTm9UVEU0TlN5WUZ0elg2NGhpWdIBtgFBVV95cUxNeEFoUV8tbG0xUU5wQjZVMzgtLUR1N3pPU19lVkRGeTZ4ZWx1WlpsbU9ockMtQ2xkQVBON3JudnVHdWszcU9aeDl3MUF2MWhtNl8yZTZ0WUdVS2NQMEFDS3czc0xFUl9odFZHMjNnVUlkZ0ItVmxjTXBoTTdNc3VKOHhzU0xETVpFc25fMmk3VGdreklBdnRXdVg1TXFxa1dlQlNpa1I0ZUczN2JFdXV6SkJ5akVudw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2xzZWxQREhTc1kyRXVmVUxQSXBHQXN4OWI1TF9XQXMxS0JhYUxRUlU0OWViMXNkN3h3MnRReDZhQlhwWDNfdGgwdm5qNDdzRVhsNnlmQ1BrM2Fxem01cFZxYXZrRTc3TzlLeHdseGt1alZTczJxZnRNc2ZJaVZJaTY4eHNWUDUzbmZ3emYxVnRfREVaaEptd3ozU2xfU0pkOEVacXg0UkhELWxvdHdtVDA4TE9rLW9wbmRfbEtlRzPSAcYBQVVfeXFMTzl0UlMtbWJzdFdDb2ptWm9GOXRIR1VYcndoY1FPOHhNWmtydXhOaWFEY3Ytdi0yWEUxWExLZF93ZW9GRXB3emx0R2FkZzVmWHBvdTRVNHktZzJEcUhkTGF2WjZkekNIbUhhTzBseTJmSDZ6NGJweDFLSGJrekVjV2hJOEswbGZPYkRXTF9KQnozNXBIZjNnODFiV05kR0xGVWdXY3RfZy1QTHU4clgzcG1paFpaWHRBeS1SVmo4S0loVXZ0UjBR?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkFSd2ZiVlJfaHJmRFhRSTk2dEI2X3A0ZUcwTlh2RTZIU01XZlk2NGpuZ2lVUVR5MV9aR1FmZVdaT0V4OHdFckNuQU8tRUNhTWtadklsR2lya1Vpc1l3RFNMN3lZTXQzODBuOVZDX2licnNoN0sxZ1RoUTRxMzZWNU5qNGlScEJqdzNOM2QtUWVfRUpqQ2VVZ2JMUUtkMUJCTm9UVEU0TlN5WUZ0elg2NGhpWdIBtgFBVV95cUxNeEFoUV8tbG0xUU5wQjZVMzgtLUR1N3pPU19lVkRGeTZ4ZWx1WlpsbU9ockMtQ2xkQVBON3JudnVHdWszcU9aeDl3MUF2MWhtNl8yZTZ0WUdVS2NQMEFDS3czc0xFUl9odFZHMjNnVUlkZ0ItVmxjTXBoTTdNc3VKOHhzU0xETVpFc25fMmk3VGdreklBdnRXdVg1TXFxa1dlQlNpa1I0ZUczN2JFdXV6SkJ5akVudw?oc=5"
       ]
     },
     {
       "title": "ISRO Recruitment 2026: 97 Vacancies at Sriharikota, Apply Online by November 9",
-      "score": 22.69,
+      "score": 22.3,
       "kinds": [
         "news"
       ],
@@ -168,6 +125,46 @@
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2lzVmRubmdxcUFPcUlHV3l3MzZPbm1qMU1Va1puZk5NSkNQb082Y3B3eHc1c3R6YzhhWWxXV0hMMHR6cnJRb1prQjdzbkxqRVZFQTBlOXRaRmxUYzdscjFKZmI0S0hjbTJSNlIxY29nS1BKMzRHR05jTTlOMzJoNlpqQkc2SWx5MHRlVWpHTUUxdFVzNmY5Sm5JcWczcGJsLVFjV0ZGUE9jM0Y0WUFud3BHbFdNb0hGWTRtQQ?oc=5",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3VYUXJkekJDaXBPUjZKN20zWEdwMElKWi1TcHlzYkZNeVZzOXRaS1ltOGJkWDBKTWlpTDZIRFBLNnlaM1MtVkNpd3laSmp2V25feUgzQk00MTNvMTV6Zm5QejhRbmtKVS1SMGo3RlNzNkJuYXhVcm5LX0llNWVoR3VhZnZzeUN4bUtxeXc1LXQ0MDZpaV9zZC1kY0xiSnQyaUNlQ213UU91bTVSWEpOakxjeEpTWU1UcnRSb2cwVkpyYXdmQkhGenRB?oc=5",
         "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzFRWmo4c0djTWY0WjVvYTdqT3VwMkZTSnZjOVZ0bjAzWnN0ZXpGYnl5SldDQkQwU3RmczBEQzRNZUtWT2FWQml5UTl0eE1KRF9fVnd4UXJHZWRRWllwQnd5czdfeXZxSkJONmdVTmFCWDZ0WnlrRHJfNC01U3hZQnhfTFN1S1NlRk1ENU9oQUsza0R2UTB5ZzBZR05BRkRaR0VNSGJjelNZT09sNHVHTlVuVEZ2bTFFNUw5RnctVVdBZDYtNmV0MVRkaGFOUWpJeXEzTVRn0gHbAUFVX3lxTE55bVotRDlkcnZaS0h0anZjcDFlTy1IY2JFVEoyX2IxUG9GYklQTWdhZjlPY09oWWZHVVVnQWxVRk1YZzVTd3dtN09zZm9lU3FwcDROQTlJb0dpWEdFWjM3a1NRbkJxanRNS1VzWFVNTHI1WlpLeFcwU081SG92eGlMZFU3UE90blRHNF9weGRLWlZnQmEyMnhvRjc1SEtKT2JsN3oxdG9QYzdhWkNWYWxEeUN2M3RCSk1QdXViVDVfcnpwSG5KVWU0SXZjVUpXN1V1SEFjX0x0WDVPbw?oc=5"
+      ]
+    },
+    {
+      "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
+      "score": 22.25,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk4xMkliaExITndYa1ZydFRveE9CaGRTZkFOdkI0NFVBZHcybTdiS1VPRGtNYjFlTmFaSXUwUnB5UkVKaXAzb3prTWJrSFNMak16YVl1Uy1nN05vWW1feVZUVndzNFo2eFFCUkd0ZnlKSmxyNHR4T3pia2RUcWU5SVVObXZ3dzh6NXJfUF9qUjlNUnJmTW83RWhGTFlHNXU2MVBrcmZNOHZZcDhW?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdy1DMHdvS1dEcmM0X1MwVlVnYjNrME1obmVlckdGUERFZmlvcExMUm1KZEpUOWstWVRJOTJFNjVHaHNCbXlBQWNkRkVBbGJXT05FRWtNdWRvM2tXbUdXU2h1WGg2MXdzallGU2Rob2NBa3RaRm5IQ2hsenZTRWVrbWs2M09DN3pVMy1FMnNxckZudlVGQ1RqQVh3eUJwY2x2TGRkVGhPajJCN1piV21tWmVveUE5Tk5Rd0tMbnNUOXNYdVZSUndPNFhHa0NtRHlOb0lpeWExYXF3NXF6S2fSAd4BQVVfeXFMUHctQzB3b0tXRHJjNF9TMFZVZ2IzazBNaG5lZXJHRlBERWZpb3BMTFJtSmRKVDlrLVlUSTkyRTY1R2hzQm15QUFjZEZFQWxiV09ORUVrTXVkbzNrV21HV1NodVhoNjF3c2pZRlNkaG9jQWt0WkZuSENobHp2U0Vla21rNjNPQzd6VTMtRTJzcXJGbnZVRkNUakFYd3lCcGNsdkxkZFRoT2oyQjdaYldtbVplb3lBOU5OUXdLTG5zVDlzWHVWUlJ3TzRYR2tDbUR5Tm9JaXlhMWFxdzVxektn?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
+      "score": 21.86,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFERURfRDhCWENqMGowemlERzBvaU00S3pBbmRwNDFpcGNpWjZ6cFJIak1WTnVMN3NOemFlUE1nNVkweGk3V3NnNFlHa29UYUFjRVYzRGhGUjlWSEh4b09UWnEyN1V4bzJ6UmVBUkVRWkhHQVh1S1Z2MWdzTHlpUHJGWTlnNVd0dHNJekZfQk9PUWxCa1IwUFI0LTdnQUVhZGJ0eFpkUnlDclN3b3hFUWpzajF3MHFjZnREdVln?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMXJJQXFTdmgwRDVXcXlQdXNQRWVKSTZNTk91WE94bGloR1hZNFdEVFdJWHVjVGdlSjczYUpEeVVoYUFCSGlybDA4WG9jQl9rZTdpRXU5bm1KOTBNNTFvSllFdG1SQXFLcGJpYmxMRmJ4eHM1TnpieHFZcGVnc0d3TkRCMG93bGRLNEtneHBIalM3TDAyVGVMZmJSNEhyRlZ5MnFxeVA3OEhtMlZERWt1MUlfREhJZ3NFS0F6eDg1aDFXUHFZX0HSAcsBQVVfeXFMUDh0aWNEUXpuWEZ4UjAzRy04LUxuS21RTTZlUjZxaENwWloyOWxoRENQbUlMbUJSeUhQeHkwSHZyQTM4dTZxVFVSZzFiZHZsSmhZMWpyZm8xVHpIM1dmUXRxMUwxUlFTQjQ2WUxpdzVrbEZTQkpkTGd3enY1SVVVTENrMm9OTXB1TlpReWxvUTdiQnZiaElsQ0VoT1FfQWdpZDYyQll1emkyQl9yLUNQRTMxeGh5VElwUjRWdDRBcWpxQzlVbVJDSzB5MDA?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXp5VE0tcGotMGM1UUhLb20tMVNEbWpHN2Q0MFJINjBNWGN4TWZxTzB2ei1GN1lrdzVxTk41VlhmMGNRU0pQcEtxQnBnYmxmc0FkSnRWVWgyTklMdnBLZE1GSkU2QTJOVkRNS3l4alpQN3FORExrZEo5d01BdjM0OW1vakMtbzk1R2QxZDZpeElCdk5iczdEQm1oeXo5UjZ0aEFaZjNmRlFCZm5DZWxUU2JKdE5kVFJQeWQzZmU1UVQzcEYtT0tOcEdiZi1rd9IB0wFBVV95cUxPVm1zOUgtS0lNS1N3LTRJM1ZjN09yWXFHeDdVbVV3enRLWjdobmx2SWtROG5CVUQ2eHRocEpiVzNDeHlPUFdTSUdIdDdHYjNwcFhVcFUtenpNVkRzeF91WjlOX0tKNjZVdmJHWjR0cF9lWTA2bzBIUnFiaGxRXzh3dS1SUVR4R245UlVGczJHb3F5dk1VbTN2cFNFMnhObTc4YXM2VE13RGNTdm9WcV9rYXdleVh4enZ1bVAyUGdDNWVkOTdLdHM4MGJ0SFVwdzZTaGhJ?oc=5"
+      ]
+    },
+    {
+      "title": "OPPO Find X10 India Launch Tomorrow: Expected Price, Specifications and More",
+      "score": 20.8,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXlfWWtRSHRReTY5ekFEU05UM19nTHpYa3RiMVBXWV8tNE1jclk1SGhyb0Z3Y2FQN2JWNWtHSWFSc0N5ejA1akM3cWdSUUZYdHkyd2haTHBVMXZ6SjhJZWp1TUVndUdHVi1fU0NwMlpCSmpsZ0diT1BTYUxrZHdHaFpHU00?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2V5alplQ2NsQi1MYndnaHNMcEg1aThoX0taWmU5UlF6X0FSbjNQWk1abUtSQXRUdVhCN3M5eFAyN19vUy1TZ3Q4SzZWR2Nrc2J5NnRmZ0M2X2wtMWtvbFZsQ2t4cmptNnlRS3AwTEdRaHpYeXJjYWQ1bVVPQWJWX3Q1aVBuTkRZMEFrTVlB?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbko2dWhzSlE4c0RMNlp2SDBEVFNDbnhveThYeEs2S0czV2tDdXdIcUU3OERZaVh4N2VNX2QtM21pZm80cWMyT0hZYVlIMmdORUhPYkNQa21oR2FUc3lqVThDSEtPN0ZRVFlfVVNndnZ0R1kyN01ISnJkQ2JmS25JZ2RqQmpkZmp0N3N6dGZudUMyNDVyUE91VnJvcEFSV1BLbXFKRGdPR1hVYUIyVEhQYlFLdjNfYkRheEhB?oc=5"
       ]
     }
   ]
