@@ -838,15 +838,15 @@
     "late_offer": true
   },
   "2026-10-20-evening-2259": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/U2xoS3bOTTo",
       "facebook": "https://www.facebook.com/reel/1128393853222639"
     },
     "late": true,
     "approved_at": "2026-10-21T15:49:47.482408+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-21T15:59:51.214809+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-21T16:09:51.928792+00:00",
     "ids": {
       "youtube": "U2xoS3bOTTo",
       "facebook": "1128393853222639"
