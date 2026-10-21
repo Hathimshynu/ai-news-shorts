@@ -1,104 +1,43 @@
 {
-  "job_id": "2026-10-21-evening-1701",
-  "chosen": "OpenAI acquires Orchestra Bio",
-  "reason": "OpenAI's major acquisition of Orchestra Bio signals a key strategic expansion into AI-powered healthcare, giving viewers a compelling look into the future of biotech and AI.",
+  "job_id": "2026-10-21-evening-1802",
+  "chosen": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+  "reason": "NVIDIA is rolling out new open models powering sovereign AI infrastructure, giving developers and enterprises powerful open-weight alternatives to proprietary systems.",
   "candidates": [
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "score": 30.8,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlpDUXcyZy1XdnRKVUpjU01yLTVqdFU2Z1pLVEF1RjdSVjVKS1VkdVJzQkU3ZVNkWjBzREhBcGxudmdWcXZpdFZ6aHBtN2FiRTJiQXNFOUJyYldrMGpPSmRfb1BVbDlSUDU1UlM4ODZ4TDEyOElPeGM4WXhybnBWUGxXbFJjVzR2cTlDNjJtRU9ISTVUZUJIY2F1STc2VDBGTlZDLTBDZGJEODlqQUVwc2Vjb3hNc3RvY2FPT0FmZ0PSAccBQVVfeXFMUDYzSHk5MlY1eWltZC1rLVl4ZktmdmtLMkt3WFVvc3RGWVBUei1jOEh5XzR5RFExYmdZOGFZdU5LZHZYVEp3ODQ3dVNLUG4wUzJBUWtHaVlQS1BvR2Fxc29hdVUydHlCXzVKRzc0ODVBLVJYYmNVMWhCQ1otMVBYczUyeUVVazk2aEFZN0JycnRRNHB6ODFBcnItdXlyUnV4MlBQOUVBRGd6TExiYXVwTnIwUTBLN29IZm53V2Yzc2p0WnFjd3lDVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLTEwekRHeTVxUHlybl9yVjdEYmZ4cmdhUFdWVUtrRldtODBZcVRmbjlRdTNmdTh0OTZiZ0lkb1JwaWxCVHRwNHBqdUNMM3FNeVBJZVc0OVJwWU03YkhIbzFrNEpOR21yYm5VNi1TMFNPZkw3Uk1saU9HVzRORXBHTS1ua0tTVVFiZnFMdDNhckVuQkk2YWNqVlp4ZzNtX0U0SkRQX3N3Ymtjb3pKVmtPZl9hM1ZnOFhURXJSVmZPcHFTYy1JaFphQjl4VlpCVV9MVjZJQTY3NmpEME9Rd29nM2hDUk4yMW53dm4waDVJM3JuQjZaWjBqVzExeU51S0E?oc=5"
-      ]
-    },
-    {
-      "title": "India's listed AI market could gain USD 100 billion from IPOs over next 5 years: Goldman Sachs",
-      "score": 23.81,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxPc0kxOEhKS3FZbmVSZlp0dnZfcENrVFRnVEJZVXZrMWNCU0NoQ0oxR2l3SEgxMXRDdXc5S0txZkNoZEoyNG10VFgwaWF0MWhuRFpjQi1DdzJBRnNndGNCQTh6YkZNdURrR3laeWdKTkVRdXIzMjVJVjVHa3hSc0ZrbHUtRC1aeHYwWlZqX0VkYTcwYWxGdVdRczJtQ0xSX0o0OUYzR1pfUHNfaHppZXRGTUR4d0hfQWJZX2tWa1hHa0dva0VaSEpWUVVablk2WWwwLUEtZ09iRVhXTXBjMVFtWDVpZUxzUXpxb3d5RlpITXNfNnpfY29aYWJINGlVVVJrazFzMGdR0gGLAkFVX3lxTE5wUzR0d1BydDJTbEthWU02WWd5LWozbDRXR0tobFQwTHd6T29mcEliSmx4UVhyNEgwaUNqcTlXUUhkZ01XeHN4cDlQLTl1Umhtb2VyMll0YXE3M1B6Y0FMcEhfMGhWa3lTV0RYVjQ4ZnRqQUtCT0MtM2pyNzhvVFJMNHJINm9uc0tIbnZObXFvb2pab1RiQnNXa2lCU1FxcVB2UENmQUlQbS1OeDlCODFsRHJ1ajZjMGlVQVliM1gxMUJfS3RObklsVzJ2cDhPTmVjZWZSTXR5bzI4UXlDbHVSd2dLMXZEWXg4ZkRGRW55dDhMTVp5SnM3Q1VhOU5DN3J2cWgzN1BqTEJJVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQm03U1FnRTNWYzc1NThXdTVOem1YeHlDWTlkc1pxWkhyczNiZ2swZnFOcFd5bjEyS1R3SFFMdDNVODJweV9wRlhrRFpZQmViQmRzbGEyODl6dHNGWC14TE5tSmtIellvdGoxOEpjZVkxeGNSNUlTUE5iaVk2bDVKa1MtSEk0ZXZpd3FhYmVzVFAwbGltTFFrcExhMlVKdl9oelk4b0ctcFp4OFFvR1pEWUU0UWJNOWx0RlRzbWRpa3VLUE5EaXFWVldJMzZFSy04SmZ2akhEdnl3cVU?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWVSVjc3c0w5dG1yOVRaZnExM096MmN6Ymd0NmFEajU0TGVGUGVPUGtBd2FuaFRBTlYwTnpDR29oM3c2U2VEVHc0VFFjYnotbUczREtzUVgya2xMUTVhMnhoeEpic3RTNFpUV2tmbFIzUVgtOEZtaTFkRmVSV1dDbHFqd3M0bUVhYmVyV2JwRHJaaXhnZnhkcEhZOG12SlB3ckpNNFdjbE1NWTl3bWJHeHBiUHFzUjhNckHSAb4BQVVfeXFMTlVVQVBoYnZGdHFXMnhGZXViZ1ZFMVpCMU5aODIxUmZjS0lnQ2p2RDM0Q3dkZXBPMnE1eHgxMnNITHdTR3U3QXRuQ3ZNM1FkemRzUGJxVWg4Z1dwY2txYWNRNGlqanBwUFItdGtobFlvSGhlQ2YtSDhhRm0zQmpwYVFFSnBvTmtkR0VPaHRTaTNiLUhySXNXc1FGaGYtdUpmZ0hWeEl6eHVDUXV4eXJwUWZ2d2R6dEM0U0tsX09fdw?oc=5"
-      ]
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "score": 25.16,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5",
-        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
-      ]
-    },
-    {
-      "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
-      "score": 21.77,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk4xMkliaExITndYa1ZydFRveE9CaGRTZkFOdkI0NFVBZHcybTdiS1VPRGtNYjFlTmFaSXUwUnB5UkVKaXAzb3prTWJrSFNMak16YVl1Uy1nN05vWW1feVZUVndzNFo2eFFCUkd0ZnlKSmxyNHR4T3pia2RUcWU5SVVObXZ3dzh6NXJfUF9qUjlNUnJmTW83RWhGTFlHNXU2MVBrcmZNOHZZcDhW?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5"
-      ]
-    },
-    {
-      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "score": 26.53,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5",
-        "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
-      ]
-    },
-    {
       "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-      "score": 26.65,
+      "score": 28.4,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZklzeGxaemZwSzRIeFFEUG1UU2hybHh2V0FOWVZlajBOQm0xVzZBNEFWbXNxaV9YaGFFQ0dla3BrRkZRQmJPREhIYmtiZlc4ckFhY0ZWTFJZa29keXZqY2tvanNyOE54SUE?oc=5",
-        "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+        "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZklzeGxaemZwSzRIeFFEUG1UU2hybHh2V0FOWVZlajBOQm0xVzZBNEFWbXNxaV9YaGFFQ0dla3BrRkZRQmJPREhIYmtiZlc4ckFhY0ZWTFJZa29keXZqY2tvanNyOE54SUE?oc=5"
       ]
     },
     {
-      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-      "score": 26.95,
+      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "score": 28.28,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWU1MdmtIaFVyYU56aXRGWk1JTk9QSXhVcWtUSlB6MDJUdlhvY0ZzajdQR2pGNE1UWmEwcWlIYVZ5X1hCTzRFQ00yY0NCUDhrdjc3ZGljWHJuLXZiT0FWMU1wUV8tY1kyNmpDYk5JWDgwZG5BekpzOENFYWxOUmdHSFc2UXR3dWNDZXc?oc=5",
-        "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/"
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5",
+        "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5"
       ]
     },
     {
       "title": "OpenAI Says Its AI Agents Weakened Parts Of An Internal Monitoring System",
-      "score": 23.62,
+      "score": 25.37,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -109,21 +48,50 @@
       ]
     },
     {
-      "title": "OPPO Find X10 India Launch Tomorrow: Expected Price, Specifications and More",
-      "score": 21.43,
+      "title": "Karmayogi Bharat, OpenAI Partner to Train Indian Civil Servants in Artificial Intelligence",
+      "score": 19.45,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXlfWWtRSHRReTY5ekFEU05UM19nTHpYa3RiMVBXWV8tNE1jclk1SGhyb0Z3Y2FQN2JWNWtHSWFSc0N5ejA1akM3cWdSUUZYdHkyd2haTHBVMXZ6SjhJZWp1TUVndUdHVi1fU0NwMlpCSmpsZ0diT1BTYUxrZHdHaFpHU00?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2V5alplQ2NsQi1MYndnaHNMcEg1aThoX0taWmU5UlF6X0FSbjNQWk1abUtSQXRUdVhCN3M5eFAyN19vUy1TZ3Q4SzZWR2Nrc2J5NnRmZ0M2X2wtMWtvbFZsQ2t4cmptNnlRS3AwTEdRaHpYeXJjYWQ1bVVPQWJWX3Q1aVBuTkRZMEFrTVlB?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbzBBSldlQUV3dE5KLUVvR3FuWDltQUpBTjdFX0hfQ2pXTkQwTDFMWFRRb3FiM1poYndjSWk0QzBtRVoyMlJ6ZXNoLWtQOURnNFYzc3kwSG9FUnJ1a0FIQld4VG9lVFJYY2NtYl9mVjQwV3BLV3diNTFSZUM4ODlLdzkzOWNFNWVZbEtBLTNGVUVKTFdxRldHVWtwTjY5OVYtNHl1TVMzT1l4LUgzdzkyLWRobldrTDhiZ1NfRTZDalNZRFFoNkJwdG9rNFVhcldSSXI2ZkJ2Zk9lR3RxQVFuV19rVExBN243encxaXEwY21tVm1BQ0HSAfYBQVVfeXFMT28wQUpXZUFFd3ROSi1Fb0dxblg5bUFKQU43RV9IX0NqV05EMEwxTFhUUW9xYjNaaGJ3Y0lpNEMwbUVaMjJSemVzaC1rUDlEZzRWM3N5MEhvRVJydWtBSEJXeFRvZVRSWGNjbWJfZlY0MFdwS1d3YjUxUmVDODg5S3c5MzljRTVlWWxLQS0zRlVFSkxXcUZXR1VrcE42OTlWLTR5dU1TM09ZeC1IM3c5Mi1kaG5Xa0w4YmdTX0U2Q2pTWURRaDZCcHRvazRVYXJXUklyNmZCdmZPZUd0cUFRbldfa1RMQTduN3p3MWlxMGNtbVZtQUNB?oc=5"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkxxdHZlczZuNDJCWkJsT0hZZzZLTUhVM3lOUC1EZlZXOXVvX3dNMm56czQ1NFM5TzRzOWsyRDNjVnliWUlOV1JOS1huMFJZYlZSWDdDQ0h1VjJLQWpZdHR6dkpQczdHMzQ1WFc3bEl6elY3YjVDSExBQlNpSENpYVhnOHl5SzR0bFc1VEtn?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMURoOGFIWXlmVzVMaVk4NmFrb1Y2NnloNnF6Q3ZyWmRoWEp6TV9xMnlfWnJUYWJETkxXMnZDLW5sUWkwbUI0ckdTQUI0cENaajhXTGkxY2hoUDdDVHI5ZWNvcTlaSE9VbnRqWS1PbWVBRmZmaXE3eFJtT2c3MTNnTXFWM19rV29YLTdDQjRmQlcwUF94UmRSdENIVUQyMDdIZzZoVnZYMjVOMnQwYzF1MnI1QmN2VU5QZmh4VXYyRXBybWNSUWw3cnlkUE5IdTVXNVczN3pCQ0tmeEMx0gHiAUFVX3lxTE5NcWdVRzNTampFcHdvSENpTkh3V0k4U0p1OWg0Qkxoc2oxSEdFbVU4VWNld2hTbU5teVlsNDBVYUx0dks1a3ViZkt0cUMtZmFWY2NWSng1amQxemdETDJEd1V5SkJFc3VkM0JwcmpJT3BrV2ZCWjdwX3lUZGtBNXNCMGNTb1lzeFlmNWVob2NWZ1dLT1ZkMWRFZkROMU9tSVB5WnJIVVlaNU9qX0xUSko1T3NJT0VwWDJsU2k2NlRVTmpObnlnRW0tSC14ZDlqdTRLRUVKclhpYjU2bnYteGNZZWc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMURoOGFIWXlmVzVMaVk4NmFrb1Y2NnloNnF6Q3ZyWmRoWEp6TV9xMnlfWnJUYWJETkxXMnZDLW5sUWkwbUI0ckdTQUI0cENaajhXTGkxY2hoUDdDVHI5ZWNvcTlaSE9VbnRqWS1PbWVBRmZmaXE3eFJtT2c3MTNnTXFWM19rV29YLTdDQjRmQlcwUF94UmRSdENIVUQyMDdIZzZoVnZYMjVOMnQwYzF1MnI1QmN2VU5QZmh4VXYyRXBybWNSUWw3cnlkUE5IdTVXNVczN3pCQ0tmeEMx0gHiAUFVX3lxTE5NcWdVRzNTampFcHdvSENpTkh3V0k4U0p1OWg0Qkxoc2oxSEdFbVU4VWNld2hTbU5teVlsNDBVYUx0dks1a3ViZkt0cUMtZmFWY2NWSng1amQxemdETDJEd1V5SkJFc3VkM0JwcmpJT3BrV2ZCWjdwX3lUZGtBNXNCMGNTb1lzeFlmNWVob2NWZ1dLT1ZkMWRFZkROMU9tSVB5WnJIVVlaNU9qX0xUSko1T3NJT0VwWDJsU2k2NlRVTmpObnlnRW0tSC14ZDlqdTRLRUVKclhpYjU2bnYteGNZZWc?oc=5"
+      ]
+    },
+    {
+      "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
+      "score": 25.52,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk4xMkliaExITndYa1ZydFRveE9CaGRTZkFOdkI0NFVBZHcybTdiS1VPRGtNYjFlTmFaSXUwUnB5UkVKaXAzb3prTWJrSFNMak16YVl1Uy1nN05vWW1feVZUVndzNFo2eFFCUkd0ZnlKSmxyNHR4T3pia2RUcWU5SVVObXZ3dzh6NXJfUF9qUjlNUnJmTW83RWhGTFlHNXU2MVBrcmZNOHZZcDhW?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXZ4TUNfUkFjQkZFajdtcEh1cU9pY3dSZzc5bFVrOWZwaG1wMGpEZGJleXFJZHhRLTlLdmw0ZWFxMFd1T2Y3VkJVWlhaOUZmWXdXaW9KZG1RTUgxbVBYNlE5bmxPMmJmdjM3aHVRWmk4RVZ2dHhzM1RGc2hfVW5BTjRWV2lwcTM5T3M4QU5aWGo1clFUZUVUYkF3VGFPU2pFN0ttZDc3VUltTkNLZjRCdmpOZS1qRTlFTjNjNlZjNUNKUUJTbHhqWld6aXd6RkFsZHowTmt2SdIB3AFBVV95cUxNemY1cnJYaUYzQmFLRlV1RklHR3NXaTdobTZJM1h5cWpyWDB4RUpJcjFsMjMwWEtpQ3pkeldtMjN6di1icmVpWUIwaHlZN3p2WG8yRldEZ1NBUzhfTHR3VUFNTHVWTmVCZUl6RjQwUzh4bU5WUWVld1lzMEcxMkNVc2VYbjNlUjZlYkVyWU9ieUtXRHZZSERQaDM2WVNJS1BaMnQtdnluWUZZUzZjLVY5WGk1NGxHUVlTdWlrbkozZGdCOUE3UTdzRzRzM0xFVG9SMXdTaGM0QmtSSW5l?oc=5"
+      ]
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "score": 26.9,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5",
+        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5"
       ]
     },
     {
       "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "score": 22.15,
+      "score": 21.9,
       "kinds": [
         "news",
         "official"
@@ -135,8 +103,33 @@
       ]
     },
     {
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "score": 26.7,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWU1MdmtIaFVyYU56aXRGWk1JTk9QSXhVcWtUSlB6MDJUdlhvY0ZzajdQR2pGNE1UWmEwcWlIYVZ5X1hCTzRFQ00yY0NCUDhrdjc3ZGljWHJuLXZiT0FWMU1wUV8tY1kyNmpDYk5JWDgwZG5BekpzOENFYWxOUmdHSFc2UXR3dWNDZXc?oc=5"
+      ]
+    },
+    {
+      "title": "GrowthCap Ventures Backs LogiXair To Build India's Autonomous Aerial Cargo Network",
+      "score": 19.76,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYUlYTjdISFo1dVJudzZxUjRTNm5zdFZsR2FOdzVKNmFzaFJDeF9IUVFxaFk1cUdaUm80VW1YRjlsYWx5T0F0SjNjOGRXQUFUOUluMTJuOUVsejhEeXdNNEp3aUR4MVpuR3pEV2hValJYY19hd1hPZWI0RV9JVXZ1Q0QtbUI5Zy1Ua1NoSlprdEcxdDRWWXF2akhCcS1MWUNWNGFYaWt6Mkd2VWZnUWRkV3RjRHFRNVVHUVZXMHdIYnpZQTNBX0V1ZGVxTdIB2AFBVV95cUxQUlhPdG9HRk5ZOGc2d3NtV0tVMHNQcDhwQVdwR3dtaVM0TEdHRmZjYTQ4RTk4NTZPTEc4RnhENnFZdV80ME5RVUVpbnJac1pWNnZnbW9RREs2VlZFUXFyYmZQQ1dTaGZ4ZDhEc0RWREQwVVJvWWpMZFlISmxlZHU2Y29hOEdyLUU3MklLRjRUR3pwN25LV1NKSmp1bFNHNVNEa19heDdRQ0RvS0FJYXVTckpxa2NqUWZDWGtYYVlja3l0XzZSRnFnVmZTMTB0cUh0YnFVNFhXenY?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYTlsQ1Q5TEl2aGFmUkZuMmQyeVJ2YjJ3NlNSTEJFX2tNSzU5U0l4NU1VcktwSTROc0ROS2FnVU1lQnVhN2ZMN3ppZENNTlVDdEUxbGVlRWxjbGFReGx2Y01RajNDbkFUN2QxZ3VLWktHeXZ1LWFiUHE2Z0dDZmlxNnBMSnI0UU9WZUd2TF9FQ0pRN3RWRGt2M09TeWo5Qk5uTjdqNG5ETm80cTl6ZjVLRkI1eTBlaXJna3lrMklBSGdRN0RKNk9ISml2elJMblF1N0tVRjFtY0Y3TlgzRzcwUTBlVHFmOE5S0gHoAUFVX3lxTFBhOWxDVDlMSXZoYWZSRm4yZDJ5UnZiMnc2U1JMQkVfa01LNTlTSXg1TVVyS3BJNE5zRE5LYWdVTWVCdWE3Zkw3emlkQ01OVUN0RTFsZWVFbGNsYVF4bHZjTVFqM0NuQVQ3ZDFndUtaS0d5dnUtYWJQcTZnR0NmaXE2cExKcjRRT1ZlR3ZMX0VDSlE3dFZEa3YzT1N5ajlCTm5ON2o0bkRObzRxOXpmNUtGQjV5MGVpcmdreWsySUFIZ1E3REo2T0hKaXZ6UkxuUXU3S1VGMW1jRjdOWDNHNzBRMGVUcWY4TlI?oc=5"
+      ]
+    },
+    {
       "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "score": 20.83,
+      "score": 20.58,
       "kinds": [
         "official"
       ],
@@ -146,16 +139,29 @@
       ]
     },
     {
-      "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "score": 21.0,
+      "title": "India's listed AI market could gain USD 100 billion from IPOs over next 5 years: Goldman Sachs",
+      "score": 23.56,
       "kinds": [
         "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUV6dnhiZG1YWllFT0ZZZncxd2xWVURzWE9pUWtZLUpYSDJUTWhsbVNKTUNpUnBlVWFsMjl1akNXV3FnSG56elFuNEQ3MlAyMC0zcnBQTk1fZjdNaWg1RlBIaGdrLTRLdnNoNVpfS0l3T1B4STdQNWxkMUVtbm8ydWl4QQ?oc=5"
+        "https://news.google.com/rss/articles/CBMihgJBVV95cUxPc0kxOEhKS3FZbmVSZlp0dnZfcENrVFRnVEJZVXZrMWNCU0NoQ0oxR2l3SEgxMXRDdXc5S0txZkNoZEoyNG10VFgwaWF0MWhuRFpjQi1DdzJBRnNndGNCQTh6YkZNdURrR3laeWdKTkVRdXIzMjVJVjVHa3hSc0ZrbHUtRC1aeHYwWlZqX0VkYTcwYWxGdVdRczJtQ0xSX0o0OUYzR1pfUHNfaHppZXRGTUR4d0hfQWJZX2tWa1hHa0dva0VaSEpWUVVablk2WWwwLUEtZ09iRVhXTXBjMVFtWDVpZUxzUXpxb3d5RlpITXNfNnpfY29aYWJINGlVVVJrazFzMGdR0gGLAkFVX3lxTE5wUzR0d1BydDJTbEthWU02WWd5LWozbDRXR0tobFQwTHd6T29mcEliSmx4UVhyNEgwaUNqcTlXUUhkZ01XeHN4cDlQLTl1Umhtb2VyMll0YXE3M1B6Y0FMcEhfMGhWa3lTV0RYVjQ4ZnRqQUtCT0MtM2pyNzhvVFJMNHJINm9uc0tIbnZObXFvb2pab1RiQnNXa2lCU1FxcVB2UENmQUlQbS1OeDlCODFsRHJ1ajZjMGlVQVliM1gxMUJfS3RObklsVzJ2cDhPTmVjZWZSTXR5bzI4UXlDbHVSd2dLMXZEWXg4ZkRGRW55dDhMTVp5SnM3Q1VhOU5DN3J2cWgzN1BqTEJJVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQm03U1FnRTNWYzc1NThXdTVOem1YeHlDWTlkc1pxWkhyczNiZ2swZnFOcFd5bjEyS1R3SFFMdDNVODJweV9wRlhrRFpZQmViQmRzbGEyODl6dHNGWC14TE5tSmtIellvdGoxOEpjZVkxeGNSNUlTUE5iaVk2bDVKa1MtSEk0ZXZpd3FhYmVzVFAwbGltTFFrcExhMlVKdl9oelk4b0ctcFp4OFFvR1pEWUU0UWJNOWx0RlRzbWRpa3VLUE5EaXFWVldJMzZFSy04SmZ2akhEdnl3cVU?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWVSVjc3c0w5dG1yOVRaZnExM096MmN6Ymd0NmFEajU0TGVGUGVPUGtBd2FuaFRBTlYwTnpDR29oM3c2U2VEVHc0VFFjYnotbUczREtzUVgya2xMUTVhMnhoeEpic3RTNFpUV2tmbFIzUVgtOEZtaTFkRmVSV1dDbHFqd3M0bUVhYmVyV2JwRHJaaXhnZnhkcEhZOG12SlB3ckpNNFdjbE1NWTl3bWJHeHBiUHFzUjhNckHSAb4BQVVfeXFMTlVVQVBoYnZGdHFXMnhGZXViZ1ZFMVpCMU5aODIxUmZjS0lnQ2p2RDM0Q3dkZXBPMnE1eHgxMnNITHdTR3U3QXRuQ3ZNM1FkemRzUGJxVWg4Z1dwY2txYWNRNGlqanBwUFItdGtobFlvSGhlQ2YtSDhhRm0zQmpwYVFFSnBvTmtkR0VPaHRTaTNiLUhySXNXc1FGaGYtdUpmZ0hWeEl6eHVDUXV4eXJwUWZ2d2R6dEM0U0tsX09fdw?oc=5"
+      ]
+    },
+    {
+      "title": "ISRO recruitment 2026: 97 vacancies announced at SDSC SHAR, apply by November 9",
+      "score": 19.57,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3VYUXJkekJDaXBPUjZKN20zWEdwMElKWi1TcHlzYkZNeVZzOXRaS1ltOGJkWDBKTWlpTDZIRFBLNnlaM1MtVkNpd3laSmp2V25feUgzQk00MTNvMTV6Zm5QejhRbmtKVS1SMGo3RlNzNkJuYXhVcm5LX0llNWVoR3VhZnZzeUN4bUtxeXc1LXQ0MDZpaV9zZC1kY0xiSnQyaUNlQ213UU91bTVSWEpOakxjeEpTWU1UcnRSb2cwVkpyYXdmQkhGenRB?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzFRWmo4c0djTWY0WjVvYTdqT3VwMkZTSnZjOVZ0bjAzWnN0ZXpGYnl5SldDQkQwU3RmczBEQzRNZUtWT2FWQml5UTl0eE1KRF9fVnd4UXJHZWRRWllwQnd5czdfeXZxSkJONmdVTmFCWDZ0WnlrRHJfNC01U3hZQnhfTFN1S1NlRk1ENU9oQUsza0R2UTB5ZzBZR05BRkRaR0VNSGJjelNZT09sNHVHTlVuVEZ2bTFFNUw5RnctVVdBZDYtNmV0MVRkaGFOUWpJeXEzTVRn0gHbAUFVX3lxTE55bVotRDlkcnZaS0h0anZjcDFlTy1IY2JFVEoyX2IxUG9GYklQTWdhZjlPY09oWWZHVVVnQWxVRk1YZzVTd3dtN09zZm9lU3FwcDROQTlJb0dpWEdFWjM3a1NRbkJxanRNS1VzWFVNTHI1WlpLeFcwU081SG92eGlMZFU3UE90blRHNF9weGRLWlZnQmEyMnhvRjc1SEtKT2JsN3oxdG9QYzdhWkNWYWxEeUN2M3RCSk1QdXViVDVfcnpwSG5KVWU0SXZjVUpXN1V1SEFjX0x0WDVPbw?oc=5"
       ]
     }
   ]
