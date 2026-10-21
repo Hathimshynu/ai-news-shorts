@@ -899,8 +899,8 @@
     },
     "late": true,
     "approved_at": "2026-10-21T15:51:08.066201+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-21T15:51:09.248818+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-21T16:01:11.573306+00:00",
     "ids": {
       "youtube": "WWqQgv93s2I",
       "facebook": "1964905741582230"
@@ -912,8 +912,7 @@
       "hook": "NVIDIA is releasing open models for everything now.",
       "seconds": 49.2,
       "primary_keyword": "nvidia open models",
-      "qa_passed": true,
-      "posted_at": "2026-10-21T15:52:37.003967+00:00"
+      "qa_passed": true
     }
   }
 }
