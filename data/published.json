@@ -837,6 +837,31 @@
     "platforms": {},
     "late_offer": true
   },
+  "2026-10-20-evening-2259": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/U2xoS3bOTTo",
+      "facebook": "https://www.facebook.com/reel/1128393853222639"
+    },
+    "late": true,
+    "approved_at": "2026-10-21T15:49:47.482408+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-21T15:49:48.906176+00:00",
+    "ids": {
+      "youtube": "U2xoS3bOTTo",
+      "facebook": "1128393853222639"
+    },
+    "info": {
+      "title": "ChatGPT Work Cuts Cash Reconciliation Time by 94% #Shorts",
+      "topic": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "category": "AI Automation Tutorials",
+      "hook": "Cut cash reconciliation time by ninety‑four percent",
+      "seconds": 46.4,
+      "primary_keyword": "ChatGPT Work cash reconciliation",
+      "qa_passed": true,
+      "posted_at": "2026-10-21T15:51:05.416131+00:00"
+    }
+  },
   "2026-10-20-morning-0020": {
     "status": "expired",
     "platforms": {},
