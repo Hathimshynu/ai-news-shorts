@@ -874,8 +874,8 @@
     },
     "late": true,
     "approved_at": "2026-10-21T15:51:08.067722+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-21T15:52:39.578932+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-21T16:02:40.859970+00:00",
     "ids": {
       "youtube": "9e4EuoUJwJQ",
       "facebook": "1984940815508333"
@@ -887,8 +887,7 @@
       "hook": "OpenAI is officially stepping into medicine.",
       "seconds": 50.3,
       "primary_keyword": "OpenAI acquires Orchestra Bio",
-      "qa_passed": true,
-      "posted_at": "2026-10-21T15:54:07.255998+00:00"
+      "qa_passed": true
     }
   },
   "2026-10-21-evening-1802": {
