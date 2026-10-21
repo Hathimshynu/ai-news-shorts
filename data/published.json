@@ -866,5 +866,36 @@
     "status": "expired",
     "platforms": {},
     "late_offer": true
+  },
+  "2026-10-21-evening-1701": {
+    "status": "approved",
+    "platforms": {},
+    "late": true,
+    "approved_at": "2026-10-21T15:51:08.067722+00:00"
+  },
+  "2026-10-21-evening-1802": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/WWqQgv93s2I",
+      "facebook": "https://www.facebook.com/reel/1964905741582230"
+    },
+    "late": true,
+    "approved_at": "2026-10-21T15:51:08.066201+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-21T15:51:09.248818+00:00",
+    "ids": {
+      "youtube": "WWqQgv93s2I",
+      "facebook": "1964905741582230"
+    },
+    "info": {
+      "title": "NVIDIA Open Models Launch for Robotics and Business #Shorts",
+      "topic": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "category": "New AI Models",
+      "hook": "NVIDIA is releasing open models for everything now.",
+      "seconds": 49.2,
+      "primary_keyword": "nvidia open models",
+      "qa_passed": true,
+      "posted_at": "2026-10-21T15:52:37.003967+00:00"
+    }
   }
 }
