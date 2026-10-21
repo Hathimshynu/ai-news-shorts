@@ -913,5 +913,10 @@
       "primary_keyword": "nvidia open models",
       "qa_passed": true
     }
+  },
+  "2026-10-21-evening-2132": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
