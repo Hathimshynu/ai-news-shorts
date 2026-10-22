@@ -943,5 +943,30 @@
       "qa_passed": false,
       "posted_at": "2026-10-22T16:03:47.779301+00:00"
     }
+  },
+  "2026-10-22-evening-1802": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/lho0V2r-xwc",
+      "facebook": "https://www.facebook.com/reel/1546564894159571"
+    },
+    "late": true,
+    "approved_at": "2026-10-22T16:03:50.953236+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-22T16:03:52.504004+00:00",
+    "ids": {
+      "youtube": "lho0V2r-xwc",
+      "facebook": "1546564894159571"
+    },
+    "info": {
+      "title": "Cloudflare OpenAI Security Fixes Web Threats #Shorts",
+      "topic": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "category": "Trending Technology",
+      "hook": "What if AI patched bugs automatically?",
+      "seconds": 50.1,
+      "primary_keyword": "cloudflare openai security",
+      "qa_passed": false,
+      "posted_at": "2026-10-22T16:05:14.700113+00:00"
+    }
   }
 }
