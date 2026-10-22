@@ -1,105 +1,26 @@
 {
-  "job_id": "2026-10-22-evening-1719",
-  "chosen": "Anthropic launches Claude Duet AI agent to manage work in the background: Challenges OpenAI and Meta",
-  "reason": "Claude Duet lets users offload routine tasks to an AI agent, showing how AI can boost productivity right now.",
+  "job_id": "2026-10-22-evening-1802",
+  "chosen": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "reason": "Cloudflare and OpenAI teaming up to deploy autonomous AI agents that automatically discover and patch security vulnerabilities marks a massive leap in how software defense is automated.",
   "candidates": [
     {
-      "title": "Anthropic launches Claude Duet AI agent to manage work in the background: Challenges OpenAI and Meta",
-      "score": 26.38,
-      "kinds": [
-        "community",
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ3h1SWcwOFl6U0R4OHEtZGN1TmZxQ29wb0J5alVSVzVDUmF6YjVNcGNtVW9ZeXlDU2EwMmhhVFFwMUtCVnJNTG9GNDcwSmFfT202RTJFTUktTE1rWl9Nc2JmZUNobzJuOUdHalNnUWxKQ3VJV09zN1JVcGsxYXE1bW1IX0pMNEphb3dYZEk2cG5UYWlVOG1VaTh0QUlGdk9ENFh6cG45NWFoYmpYemlHUk1rZEdpUFhtMzVpOFFSQ0YxVHdCdGR5RUNQYldpT2FUMkIzQ3F0OHZZXzJCUEdNLXc5NkoxQkJkQlJlWFFUSUppTV9jOXM4dXVVMHbSAYICQVVfeXFMUHNBVE1LeFdJeDBLaVV1YTRlVmZBYTJiVnZFSkhjZEdJT0tnMEF0OWliRHJSaE1RVkk5aUNUa1o0VjZRTkJ5Q2Itd2s2VVp4LS03ckZLNTczeWJfSXNxYllrX0daUjJhZ3JSSFF6cUtPZVJKMnZDVnB3eGpfWW9rbklGc3dSVUZzOW54bUc4UVlUQlY1bjVDc3RMTDlxMEdxWnE1ZjNBSGM5Qkt3WHFOVDJtY2h0d0Y5VlF5R3VFUlYzVmhrR05HUHluaGhuTldoM0FvMm12ejA4clFqZmVoRlMxSWpUdER2RFdDdmc5LTNaVzBfSEttZTFzSlJLX1Vzb05B?oc=5",
-        "https://claude.com/product/claude-duet",
-        "https://www.producthunt.com/products/claude"
-      ]
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "score": 20.01,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "score": 21.33,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
-        "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5"
-      ]
-    },
-    {
-      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "score": 21.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5"
-      ]
-    },
-    {
       "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "score": 22.07,
+      "score": 23.9,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04R0x5NV9XLU4tY2h5cmE2M3hQYldSSUFYeDRKdU9XWmRlWlVQSTFqQW1LMWt3YUlhUTFaUWhvRUVNWml6Ulczd2hfTEJOYXF1eXBLWA?oc=5",
-        "https://openai.com/index/cloudflare-cyber"
-      ]
-    },
-    {
-      "title": "Decades-old flaw in PHP discovered by Google, OpenAI AI tools forces government and public websites to go",
-      "score": 22.36,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowJBVV95cUxOWi00OEVhbWFNOEZFZGRRY3ZTbWlMaUVBV09seklyTzAzQVA3dVRqLXY1QnpKNU9tbkR0QmpIcGJ1RWFZWEhNT0hFTGtzSDlpbWxZWXhUN3hfMHc1RnkwRWlTeDBlU1B5Ql83SG1VTWlhZ2F2TS1oZkpiYnoxZENuNEJJM0R5VEpRVXBhLV9aOWczQzZjendHdW1tdGxlbHRnYS1LNmZuOGgwa09scFNhTXI0T04xUWxsWUNTOEVqNjhqVTRPR2htUFVvWnFnUnpUY0dWMEdIQlJHbGF5SEtHTDdnMTZJTGprX2w2dkpPUlZaSGZ3OWtLOWo5NHFpb0hOZzViMlBITG04Qm1YQUZxcENoZjBrN2lpY1FrTFhjSGtwRVHSAagCQVVfeXFMTzhvemRxXzRnSWMxYkdhNlEzTlduVF9zcU53X25xZ21tRHdGeUxhc1lDSEY3TGJiMmYxYm1xSXE4a0ZiTnlQdVZ1c3pUcXRHRVF3UlFseFdlNkpZclFxOEFNS1VINy1oWDIxR3oxZ3RIQkFxcFdFSk51aW14SmVBd180OGY0NTZsMjVsNDBTdnpSUlM1dkRQbGQ2NFVfV0tfZ0ZfQlhlWkxkT29jT1d3WmE2UzFMcmR1V1F4Mi1tQUVGMzEwUk0tY2FPbzBZdkZ2aXpndjFwSGFQNVFWTnV1ZDJGMlJ2N2RiaElNMzNkZkI0eTJuQjl3M2dheUY5YjlIb3ZtdTRBNl9sSjA3VXM1Tk95UUpUVE4yX3FRR25OSElZMVNCbHlNVWE?oc=5",
-        "https://news.google.com/rss/articles/CBMiowJBVV95cUxOWi00OEVhbWFNOEZFZGRRY3ZTbWlMaUVBV09seklyTzAzQVA3dVRqLXY1QnpKNU9tbkR0QmpIcGJ1RWFZWEhNT0hFTGtzSDlpbWxZWXhUN3hfMHc1RnkwRWlTeDBlU1B5Ql83SG1VTWlhZ2F2TS1oZkpiYnoxZENuNEJJM0R5VEpRVXBhLV9aOWczQzZjendHdW1tdGxlbHRnYS1LNmZuOGgwa09scFNhTXI0T04xUWxsWUNTOEVqNjhqVTRPR2htUFVvWnFnUnpUY0dWMEdIQlJHbGF5SEtHTDdnMTZJTGprX2w2dkpPUlZaSGZ3OWtLOWo5NHFpb0hOZzViMlBITG04Qm1YQUZxcENoZjBrN2lpY1FrTFhjSGtwRVHSAagCQVVfeXFMTzhvemRxXzRnSWMxYkdhNlEzTlduVF9zcU53X25xZ21tRHdGeUxhc1lDSEY3TGJiMmYxYm1xSXE4a0ZiTnlQdVZ1c3pUcXRHRVF3UlFseFdlNkpZclFxOEFNS1VINy1oWDIxR3oxZ3RIQkFxcFdFSk51aW14SmVBd180OGY0NTZsMjVsNDBTdnpSUlM1dkRQbGQ2NFVfV0tfZ0ZfQlhlWkxkT29jT1d3WmE2UzFMcmR1V1F4Mi1tQUVGMzEwUk0tY2FPbzBZdkZ2aXpndjFwSGFQNVFWTnV1ZDJGMlJ2N2RiaElNMzNkZkI0eTJuQjl3M2dheUY5YjlIb3ZtdTRBNl9sSjA3VXM1Tk95UUpUVE4yX3FRR25OSElZMVNCbHlNVWE?oc=5",
-        "https://github.com/openai/openai-cli"
-      ]
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "score": 21.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU002QmNaRFNDMzNVb0xEQ3BJWU50RllXME1nRlMxblNYZWZzV1hTVUxtS2FOZ01ERG5JVElTX2JiOXBOc1RaQlRoM3hjOXFqbER1Q1dzb2JQT0szZF9CSFA0dmlKTXk5V3lZd19ZYVc4UG13cXpzLUEtTXJpQmZEQ2xaQVVXUWhzYkpTVFN1LU1jUlpJUk4wWjRpdlBNc19wUThV?oc=5"
+        "https://openai.com/index/cloudflare-cyber",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04R0x5NV9XLU4tY2h5cmE2M3hQYldSSUFYeDRKdU9XWmRlWlVQSTFqQW1LMWt3YUlhUTFaUWhvRUVNWml6Ulczd2hfTEJOYXF1eXBLWA?oc=5"
       ]
     },
     {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "score": 22.28,
+      "score": 22.1,
       "kinds": [
         "backlog",
         "news",
@@ -113,8 +34,74 @@
       ]
     },
     {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "score": 21.15,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5",
+        "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5"
+      ]
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "score": 21.83,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+      ]
+    },
+    {
+      "title": "Pine Labs and WEBXPAY bring UPI to Sri Lanka merchants",
+      "score": 19.71,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTVqYUhOeXBfQ0owcHVwTkVtWjN4SUFuaU1oeHJnMlcxY3hLWjFnRnVRbndjUlNLTkY4aFVybmJsV2k0QUFqaW9EX0lHMThMVTlFVV9QWWV1OUtJTUJWYktEVlE1UEpmMHdNQlFJVHVkVTF5ckhyWmlmeko5QTN5Zk5NYThQeS1Fa0twTnl4VlFmQVV0Wl8yYXdPSlgycW9TYmFZMk8taTJvUkk?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSldxTUF5eGxuc1A3V2lQRlR6MFEyQjlsZHRCZExmLXJyUHVLRUVtblVHTUVpLXY0aXFjbXQ5SzcybVBkeG1Tb3VNZXNZSnhaeDRBZm5tNEtDOEhsUGhBcy11NlF1QUhyM1FYTVpmTWRWeF9PYTk4N2Q1ZVdDcWluMmRuc180RUlTemhOYmE3TG5PV1ExeUp3Rkx4MGsxdGpqVXA0YnRCcEdHUmxMTHRhS2FlRkJVN0FFQ1o2V2M3Qi12RGNlZ3o3NlpVR0lzd0J00gHWAUFVX3lxTE1QN0Q1TGZzRmZZc2JEOTFmaE5JSE5NcjVoLVRjbWNHSnlPTzV0N1hZWkx2Q2ZtNHJWV3J0SHkzQXhGT3J4Z3I4YWJwU0NQN0Q5MFZmVXh6emdmOEZMR3JMbncweFQtVmdYVHZTZkFTYnk5SXNWTTVVZF9RWXRZSzRScjh3OU5wQnV0azhLNUQxemRzZFVDT3FPTUNjX0pQZGpwanZxeU1YdGJ4ck1lV0s1SnNhT3lLSDVySDU0OXVsWm1OUVRhazdNajZmbU5aS1BCbEpDVWc?oc=5"
+      ]
+    },
+    {
+      "title": "GitHub Copilot models deprecated on October 19, 2026",
+      "score": 25.55,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaEFyVl9DTnVVZTVVZDVIOUZWM2Rabm9rNFduaVRWZDlULWVvUFZvQzRKQmF3YnRLQ3oydTA2Nk1SQW9vV2Nvd213RFB4cjFjTDB6WlhiZ1JhWUhhU1JXZXYtOGlsUlRfenpfcHI1UmJTVkQxZktoU2N4SEpUdmN1RGxfcUFRSVpqRDVEWnktYmRTWkpYaHc?oc=5",
+        "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026"
+      ]
+    },
+    {
+      "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30",
+      "score": 21.32,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGVrWGlCX0hVYlN6VWlMSGNQeVBNVTFsUHNva0lpQlVuUEtaUWtOZDd0ZmR4c3gzSHp1RGZVU0pXVVliTXhWNHhLTGRoSl9WenJrb0l5aTNITGNaMm14bnhqV1ZSdUFUWDJpcXhKTTcxV3poUVJxM1BOOHpqTVM3OElGTkVyWFk?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQckI0WGNoRXk5WE1BQzZXZHc3dkkySm82QmdlQTBXc0E2WFh0cTNxNGl1MFdZeFBzYVQtUVZESlJPSkQxeFNsVHNjS0xnNzlFUjNQTE5qbmdfR0RCLVk0b2puNmV0Si1lOGNabmIyTXJrM1FoN1h6aGVnWjJxX2hiSzBCZUVuTG16UlhIR29GcC13X3B5X1RFb2RodXhjdw?oc=5"
+      ]
+    },
+    {
       "title": "Broad access through consistent standards",
-      "score": 21.49,
+      "score": 21.31,
       "kinds": [
         "news",
         "official"
@@ -126,21 +113,8 @@
       ]
     },
     {
-      "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30",
-      "score": 21.48,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGVrWGlCX0hVYlN6VWlMSGNQeVBNVTFsUHNva0lpQlVuUEtaUWtOZDd0ZmR4c3gzSHp1RGZVU0pXVVliTXhWNHhLTGRoSl9WenJrb0l5aTNITGNaMm14bnhqV1ZSdUFUWDJpcXhKTTcxV3poUVJxM1BOOHpqTVM3OElGTkVyWFk?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWhYMjRQdmI0anJsaVJqN20xT0FMMWc3UF9uUWNMUXZjSFp1dUs4djNWUDMzN1lwcFFFbTZ5UXVuRGdjQWw5VVZWbG1Ob2V2ZTIxZ0JRU3RkUUlLSy1DTURJT015N2dYSjhnV0JrVFc5WS02VEpQRndQekFKZjdIdGYzblNEUHdWY0VFWjdGUVFYc1ExbkxvQUZid2pBMlprUUNF?oc=5"
-      ]
-    },
-    {
       "title": "CureBay raises ₹100 crore to expand rural healthcare network",
-      "score": 21.74,
+      "score": 21.56,
       "kinds": [
         "news"
       ],
@@ -153,7 +127,7 @@
     },
     {
       "title": "Oppo K14 Plus Price Hiked by Up to Rs. 5,000 in India Within Weeks of Launch",
-      "score": 21.54,
+      "score": 21.36,
       "kinds": [
         "news"
       ],
@@ -162,6 +136,31 @@
         "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWxqY3Z4azBJb2Nua0dxY2NKaG1vWno5cTBBOWc4aWFLeEp6dVZFWW5KZ003UGQyVmxOdGdSUUtZSFozMzEyc0J1SU9CMkVxS19sVWkzSVhvSkZ1ZTVZM2lBNENaUXFiVk96WEZQVUF2UW5DR0F1UXdLMjlULUh5VzQzR1pTczFRcHd2dDY2b0VHNk50bEZsaEZaSXVmOFMzdGtxbkg4VHR6cHU3NWV0WUhMYmduQTJTT09mYlJ3Y1JwbXVz0gHKAUFVX3lxTE03d3phbWtrYUlfdFN3T242Z2dzS29OSFhvanJMNm9MWVI4elQwQWxpd3ZOWnRYM2RBb3BHUW5MUTBBOGJKdVNiOC05N3AtNzZ2ajZrR095M01pcmFOV3VabElsVWF6bXF3eGtDWFRfSGE0NVJrNDQzVVF5N1JCZUZRWmczejRSMnB4M2VCWDl0ZlBob0JhRWZ5bHd1MW1rRlJfRWE1ZXlyRXdsbS02ZTNjSU9GOS1RWWxrWmVqUGVaX19yRkp0Qk5lN1E?oc=5",
         "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UVzlsb3ZPM2tBR19YbkowbEQyUWhWUTZaQzlSLTdmVm5MbXJCcVJWaWk4WllhdEpKVGtkVTZWbTBoaE1TMTNEdjRUV3J2TmNkZkNXdjNEVXo0SGNxVUxMekZmN0xDTlYzbENkczl5aUpnWUxNWkh3?oc=5",
         "https://news.google.com/rss/articles/CBMingJBVV95cUxQM2ZONWJ3WWNHUzlvcWRTN2VCS2lsdF9UbExONGdnd1dkeFRBU1YtcE80czlKYTFvSEhNLW5qOWs3QTR6RHE0WnVtQ01iRzJtWExLUU0xa004WG1rZmd0a2RzX1hDbzZ3cWJwNVdFN043bVh3UkxnMk5oWkxFRzBVVFM0N0hzdzdZaHBWTWsxaEpnNjJaWlFvcVdBdVIzbjNrMFlJcXR6b08tRkZaVkhWbmwwbHc4TlNHZVpNR2dVN0RyVDhLaS1uVWR1alFtMkhlc2JPMXJYbTBIMUFoQW5fTjJNOEZPLUI5akNPMzhJSDhfZDhkQmNNa1dLUVI5WG1KTFRGdlM1MkZtSXp4QjVJQk15TUs4RTlwbEhjdmZB0gGjAkFVX3lxTE5CTVFYZnFkWHd0SGFhSGNNcldSN0N2dFdwb2t5dXp6TjFmNmlvcEdqZVdla2JTUE5RRmlfa0NhZ3dTQjVIR2dCUXNkWlh4MG8wR2JSS2xBSExiVjItbXRsV1luNVRRdHJNclA3UlEzM2ZLQmFHZmdqbXhaTi1Dc3VFY184UU5WaHVnR0lBa015WVJ2UFFrNk51S3NvSVpqdGZ0ZUxodXVBeFp6WHlXYkV1Z1VqQ1ViTXhDRTZzc1dwMmdWSjVpQUZ4d3JXY21WUFFJVXVSUWVtVnlidGliX2R6NmVEdUZVMTlsUl9BWXBQZ19seVEtQXZrM3dQQ2psdjdtX3JST3RWNlB4QzRUMHdaT01adXRZQUFrSkN5NGhVai1kOA?oc=5"
+      ]
+    },
+    {
+      "title": "Unicorn India Ventures launches US operations, appoints ex-Google executive",
+      "score": 19.74,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRjQzRHVGdjI4bDhkd3BDdHo0SXdwR2RneW16d1ZDSFNCVUtWYjVVbFY4NV9xbWNFVFhFZkpUWlF0X1ZBTUl1MkJQb2tNcXNTeUZ1MXNGa29sT0V3dk5fZ0dmbUFxcTlWMnBYRjZyc01Zcjd6ZXFYMm1ZTEQ2M2k0dzZ5dkFLbmJsdXBSaXB6VHQtYzduU3J5NEZWMmVIczFYbzBLSEhXTDlTelVaZjBELTdVSUQ2dEdJV2RfMjN3UjRVTVBFdlJOc29kSDJVYmpPUzlFSV9ZUjhnb05GZFFrZDRn0gHnAUFVX3lxTE1aSFh0RVh2eTJueG8yeWhaSDQxR2Rhdi1hX2o4UHNScnEzNUhuOGxsZE14a1ZzNU42eHAtZE5iVVNRc3ZhVGZYWEFnQUZodU5zYUtOSXQ1YzIzbU1jR1dZdTV4cmJmQV84eV9kVk10R2tUQ3FRLXFiYy1RbmpnandwUzFsTE9MSmZ3TDlFWnBTa2FFU1lxQjBKeHVqMXhXYWZrTmRnRHNvNGxWQnQ0X2RLZjVpbktDRHcwZkhLdTVwdGxVSTFiNHEwbGw3OWctZmUzQi15NHlSaXhadlB4cXl1cjFsODNHbw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZGdjcnlHOVF1Zzk4MC1YLVY1aHFQcWY5SVJoUEd2b0VTYmR1YjF6bmFJTnJNeFR3bWREVmwteS1INUhkQ0FNQ2NNRjFGVDg0VWlfNHVJVVdXWFZGeThua3g4cmNDVVMtei15WmtPQlYtX2QwZnRkdnB6cGdXam1fTWlGS0tiVnpKeUQ0Z2J6TkJPc1U3SktMamg1M0dqSlQyRTVUY3lmRVQ3a3c2NUtObUhPNFNFTXI3Y3J4T01YRmRDR2VZX1V1MUdBOHpJU3Q5Sk93WGJTcGhvME9LMy1XY1dOVkIxRW9IdXJnWXhWQlBWTV9CbHlhNFNEMW5wMUxLa2dqazMyWV9OX1lZVkkyQ2l5Qk11d0RPcVlGN2cxZFRlbEJudERULXN3?oc=5"
+      ]
+    },
+    {
+      "title": "EA to layoff roughly 400 people amid BioWare studio shutdown",
+      "score": 19.63,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlBVU2N1aHllY2dKOGoyclRROF9ra2EwQ3pXTlo1RnFoN2Z5VmU2bjRvcVMwYXNIeXNYblJoS3lHaGpIOUxsSHVKYjc2OUp4eERfNWM0NGg4N0pfbnZEYWpzZEx0bldKZzVjSkV4dk0wTkFCNF85Ym5WNWFtTjlJWUJZNXVFM0tqX21rQW1zREFiSUZXVldxYmhB?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlBVU2N1aHllY2dKOGoyclRROF9ra2EwQ3pXTlo1RnFoN2Z5VmU2bjRvcVMwYXNIeXNYblJoS3lHaGpIOUxsSHVKYjc2OUp4eERfNWM0NGg4N0pfbnZEYWpzZEx0bldKZzVjSkV4dk0wTkFCNF85Ym5WNWFtTjlJWUJZNXVFM0tqX21rQW1zREFiSUZXVldxYmhB?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlBVU2N1aHllY2dKOGoyclRROF9ra2EwQ3pXTlo1RnFoN2Z5VmU2bjRvcVMwYXNIeXNYblJoS3lHaGpIOUxsSHVKYjc2OUp4eERfNWM0NGg4N0pfbnZEYWpzZEx0bldKZzVjSkV4dk0wTkFCNF85Ym5WNWFtTjlJWUJZNXVFM0tqX21rQW1zREFiSUZXVldxYmhB?oc=5"
       ]
     }
   ]
