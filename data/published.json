@@ -971,5 +971,30 @@
       "primary_keyword": "cloudflare openai security",
       "qa_passed": false
     }
+  },
+  "2026-10-22-evening-2207": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/8KRNmdiFXqQ",
+      "facebook": "https://www.facebook.com/reel/1109893668589851"
+    },
+    "late": true,
+    "approved_at": "2026-10-23T17:03:16.230715+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-23T17:03:17.890788+00:00",
+    "ids": {
+      "youtube": "8KRNmdiFXqQ",
+      "facebook": "1109893668589851"
+    },
+    "info": {
+      "title": "ChatGPT Ads Expansion: Now in 89 Countries Worldwide #Shorts",
+      "topic": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "category": "Breaking AI News",
+      "hook": "ChatGPT Ads now in 89 countries!",
+      "seconds": 46.2,
+      "primary_keyword": "ChatGPT Ads expansion",
+      "qa_passed": true,
+      "posted_at": "2026-10-23T17:04:44.415255+00:00"
+    }
   }
 }
