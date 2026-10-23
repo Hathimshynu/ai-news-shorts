@@ -1,168 +1,163 @@
 {
-  "job_id": "2026-10-22-evening-2207",
-  "chosen": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-  "reason": "The expansion of ads on ChatGPT is a massive shift in how the world's leading AI platform operates, sparking huge viewer interest, discussion, and practical implications for businesses across Asia.",
+  "job_id": "2026-10-23-evening-1701",
+  "chosen": "Cortex DC advances plans to develop 2 GW of AI-ready data centre capacity across India",
+  "reason": "This massive 2 GW data center expansion across India highlights the rapid buildup of local AI infrastructure needed to power next-generation workloads.",
   "candidates": [
     {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "score": 27.82,
+      "title": "Cortex DC advances plans to develop 2 GW of AI-ready data centre capacity across India",
+      "score": 20.47,
       "kinds": [
         "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlUyVWlILTlod3NKTkMwaS1yMDdBX3YtU1JFTjhlOUkxekxvbzBockNnOXhzM2h0aFI2X1BxYktNN2ZSbGptejlQb2tlWFQzSnlIQWphMmx2WGZSYTNWQ3QycURoZ3RncUk4ZmR4ZWd1a1AxbHFfTmJkOGJzZEFUWm9tT3NFNXRl0gGIAUFVX3lxTFBiVTJVaUgtOWh3c0pOQzBpLXIwN0Ffdi1TUkVOOGU5STF6TG9vMGhyQ2c5eHMzaHRoUjZfUHFiS003ZlJsam16OVBva2VYVDNKeUhBamEybHZYZlJhM1ZDdDJxRGhndGdxSThmZHhlZ3VrUDFscV9OYmQ4YnNkQVRab21Pc0U1dGU?oc=5",
-        "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE83VjdWNHJPeklSZjF5NURic2NYOUVlVDlDeFVLb3ZuODJqQV9lWk5EVjJNSi1sWDlIUGRNNlYtQTRTcHJ5S1ZpLUJETVB3ZENseXhFY2hvY2ZsWFhsb2RYMXFYREFULUVHNndOQmRubw?oc=5"
-      ]
-    },
-    {
-      "title": "Cortex DC to develop 2 GW of AI-ready data centre capacity in India",
-      "score": 21.26,
-      "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3lvVnViOThGcFRnbVRuV2NGNnJCVzBtM1VHV3JGY3VBeVIyU0pJUXJuc3ZQMjYtR0l2S0h0alFDMjNsOWZsd2xLUG40eG95MFJrekwtbGVtWUx2VEJ2dVFnOWp6SVJYOHVqSUNBUWpXRFV0UGYwUlppbTJrQkR4cE5ZLXVYZ0pZMmV3bVFKcy11ajl4Vlh3cWNsUkZiZ25EYldGUjBhOHhjWUJ4X0JTbHhZVF9CUkNFTmRXQm13QkN1QmVWdjJTM1NvU0c2R18zekJPaEd1VWhtU1hmdkRONE5fMNIB5wFBVV95cUxOWFQ2NmcyeEFFNlJmRkw5TUkzbVY4Wm9FS3dvTklSQ2RDTzBDS3U5TDJ1X0FuRUdhZ1N5OUo1N3UzemVVcWtDRkM4MllJc0FhU01tckFBOGE4bXdSOTFQc0VFMzRnR0Y2X2N3dFVrNlB3YW90U25TSWlZdGxSOUp4aHhkZzh2OU5OeHRmN01Sd0dtcE1wRDRDWlp2TEczQjRWQlA2WjlMdzctZ2hfZEltQlVxcEZNOGFfejhKeXhYdl9rWVBObTNqX0plRTQ5NUpLWnNQX1kyeGQtREY3ZVdtT0lqa0M1a2c?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzNKWlpUWER6UFd3QTlxRDVTYlJSa2h2ZGhLZlN3Sl96MmRSQkJtbXhsdWRIaXVzRWtLTllxUm9YUlNhRGhRWUU5SndEeENOVjFTUUhMVl9XX3ZHSmZ0YXROY0wwSkRXZ3FOblE5bkRCQnphOVpFdW11XzlySl85aV9QZjdJeFBVVjZUSm9JdXBLbXFVTnVIMzk3U08xN3F4RW55Xy1NSFhvMGRRcnJz0gGvAUFVX3lxTFBnM0paWlRYRHpQV3dBOXFENVNiUlJraHZkaEtmU3dKX3oyZFJCQm1teGx1ZEhpdXNFa0tOWXFSb1hSU2FEaFFZRTlKd0R4Q05WMVNRSExWX1dfdkdKZnRhdE5jTDBKRFdncU5uUTluREJCemE5WkV1bXVfOXJKXzlpX1BmN0l4UFVWNlRKb0l1cEttcVVOdUgzOTdTTzE3cXhFbnlfLU1IWG8wZFFycnM?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlZTbGtpQk52M3ExQTFCTk5fc2o2WjE4eERleUdoRzRwQnlxTFdKWlpxcDVqNTA1RG1oQTE0aTdLNlFRWjBrMjdScVVrZG14QkExTHhQNmNnZml0NlIxOUUtYlRUaUJFYzFwOUthRVJXM3pMTVozMmpXcVYybVEtTXZHY21BOVQySHNBak5ONEx1ckl2cEQzZEFwRkkzN0wtWDZpQkJnZ204c3NRY1VLc3Y2elgwQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3lrWWZjMncwSlNNcXllZWx2aVVzamRMS2pEWF9FVjdMczhHMWQ4TEhlT3VNOVpZVGtSTGZQZUR4NHQtSmpGQWR6OFdXQTA1OHdzZV93Y09ybGVXUmo0Y04yU2hCYW1MNzd2WUFOZkZqbGFTMXBZNUU5V3hzQUxJQXh3aDhlZWlzaWtNZURqaHA3UjdULUFrSFRSOUs4elMycDVGenAyT3ZUaDNEWVVRMVl5RnhoUWRYTFduczhHUGZqLWpsb3BBYg?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3lvVnViOThGcFRnbVRuV2NGNnJCVzBtM1VHV3JGY3VBeVIyU0pJUXJuc3ZQMjYtR0l2S0h0alFDMjNsOWZsd2xLUG40eG95MFJrekwtbGVtWUx2VEJ2dVFnOWp6SVJYOHVqSUNBUWpXRFV0UGYwUlppbTJrQkR4cE5ZLXVYZ0pZMmV3bVFKcy11ajl4Vlh3cWNsUkZiZ25EYldGUjBhOHhjWUJ4X0JTbHhZVF9CUkNFTmRXQm13QkN1QmVWdjJTM1NvU0c2R18zekJPaEd1VWhtU1hmdkRONE5fMNIB5wFBVV95cUxOWFQ2NmcyeEFFNlJmRkw5TUkzbVY4Wm9FS3dvTklSQ2RDTzBDS3U5TDJ1X0FuRUdhZ1N5OUo1N3UzemVVcWtDRkM4MllJc0FhU01tckFBOGE4bXdSOTFQc0VFMzRnR0Y2X2N3dFVrNlB3YW90U25TSWlZdGxSOUp4aHhkZzh2OU5OeHRmN01Sd0dtcE1wRDRDWlp2TEczQjRWQlA2WjlMdzctZ2hfZEltQlVxcEZNOGFfejhKeXhYdl9rWVBObTNqX0plRTQ5NUpLWnNQX1kyeGQtREY3ZVdtT0lqa0M1a2c?oc=5"
       ]
     },
     {
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "score": 21.08,
+      "score": 19.0,
       "kinds": [
         "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5"
       ]
     },
     {
-      "title": "GitHub Copilot models deprecated on October 19, 2026",
-      "score": 24.53,
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "score": 25.97,
       "kinds": [
-        "backlog",
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaEFyVl9DTnVVZTVVZDVIOUZWM2Rabm9rNFduaVRWZDlULWVvUFZvQzRKQmF3YnRLQ3oydTA2Nk1SQW9vV2Nvd213RFB4cjFjTDB6WlhiZ1JhWUhhU1JXZXYtOGlsUlRfenpfcHI1UmJTVkQxZktoU2N4SEpUdmN1RGxfcUFRSVpqRDVEWnktYmRTWkpYaHc?oc=5"
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5",
+        "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/"
       ]
     },
     {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "score": 20.89,
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "score": 25.72,
       "kinds": [
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5"
+      ]
+    },
+    {
+      "title": "New 'Scentronic' technology can detect and transmit aromas remotely",
+      "score": 21.64,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1dHSzRQZGNFSmh5bF9USmswODJWdko0WmRXYllkWTNrWU85eWxTUVFHRjRtRlFYTF8wc2tOQ1lVS1cxalZWV29VMzI1bEpma211UzFHZFIxT1FSeG9YU25fck1LcGtIRFZSWXl4N0F0bGljQ3I3NWdKdElBSFdhM2U3UUlNTXl4bFNxd1RYZ1pxNnBxeDc3bEdIOHJheTZOUkkwQnBGbTladFhZYVVYazA2dmo?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5"
       ]
     },
     {
       "title": "What FDE means at OpenAI",
-      "score": 24.22,
+      "score": 21.51,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
-        "https://openai.com/index/forward-deployed-engineering-means"
+        "https://openai.com/index/forward-deployed-engineering-means",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5"
       ]
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "score": 20.81,
+      "title": "Build more responsive apps with the Decisions API",
+      "score": 21.03,
       "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-        "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-      ]
-    },
-    {
-      "title": "Pine Labs and WEBXPAY bring UPI to Sri Lanka merchants",
-      "score": 20.69,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTVqYUhOeXBfQ0owcHVwTkVtWjN4SUFuaU1oeHJnMlcxY3hLWjFnRnVRbndjUlNLTkY4aFVybmJsV2k0QUFqaW9EX0lHMThMVTlFVV9QWWV1OUtJTUJWYktEVlE1UEpmMHdNQlFJVHVkVTF5ckhyWmlmeko5QTN5Zk5NYThQeS1Fa0twTnl4VlFmQVV0Wl8yYXdPSlgycW9TYmFZMk8taTJvUkk?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSldxTUF5eGxuc1A3V2lQRlR6MFEyQjlsZHRCZExmLXJyUHVLRUVtblVHTUVpLXY0aXFjbXQ5SzcybVBkeG1Tb3VNZXNZSnhaeDRBZm5tNEtDOEhsUGhBcy11NlF1QUhyM1FYTVpmTWRWeF9PYTk4N2Q1ZVdDcWluMmRuc180RUlTemhOYmE3TG5PV1ExeUp3Rkx4MGsxdGpqVXA0YnRCcEdHUmxMTHRhS2FlRkJVN0FFQ1o2V2M3Qi12RGNlZ3o3NlpVR0lzd0J00gHWAUFVX3lxTE1QN0Q1TGZzRmZZc2JEOTFmaE5JSE5NcjVoLVRjbWNHSnlPTzV0N1hZWkx2Q2ZtNHJWV3J0SHkzQXhGT3J4Z3I4YWJwU0NQN0Q5MFZmVXh6emdmOEZMR3JMbncweFQtVmdYVHZTZkFTYnk5SXNWTTVVZF9RWXRZSzRScjh3OU5wQnV0azhLNUQxemRzZFVDT3FPTUNjX0pQZGpwanZxeU1YdGJ4ck1lV0s1SnNhT3lLSDVySDU0OXVsWm1OUVRhazdNajZmbU5aS1BCbEpDVWc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTVqYUhOeXBfQ0owcHVwTkVtWjN4SUFuaU1oeHJnMlcxY3hLWjFnRnVRbndjUlNLTkY4aFVybmJsV2k0QUFqaW9EX0lHMThMVTlFVV9QWWV1OUtJTUJWYktEVlE1UEpmMHdNQlFJVHVkVTF5ckhyWmlmeko5QTN5Zk5NYThQeS1Fa0twTnl4VlFmQVV0Wl8yYXdPSlgycW9TYmFZMk8taTJvUkk?oc=5"
-      ]
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "score": 22.29,
-      "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5",
-        "https://openai.com/index/broad-access-through-consistent-standards",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZbmliRnNKTFhtVU93U2NHcUZCY2JUdW1QZ0o2RzdmTnpPMVdmOG9Sd1N4aWZCRzEyVUE4YzVmamJqYXdJWWJUWnpsM2tJNWdubU13VHQzNUtNSHJIUTZaUHk0TVViMUVtMUlHUTVEOEJyVlo3VHc?oc=5"
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+        "https://openai.com/index/decisions-api"
       ]
     },
     {
-      "title": "Isro to launch much-delayed indigenous navigation satellite NVS-03 on Oct 30",
-      "score": 22.3,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamQ3VVRfOVc2WjJKZ05sX2NrQmVrWldYQWt1d0RnOW8yUmpYQks3ZVk0a2ozd2FzYVI2MFIxakFibkd1V1owLXlxVDFnWVpJS3ZUeU1IaFlGMlFTaW1hVDN1aUEzem1PanY2OXJpWlpSMmQyTGxzOFpVbUo1N3hJdHZnTGpyYm40b3puTjA4cEVwZTZOdDN5R3VB0gGgAUFVX3lxTFA0Q3hja2FNZkk5VzNKOXl3bDM0a0V0WHpTVHFFS2xVYV9yT0JqeTBKYi1xQjhVNlZLSEF6SG11cDNyVExNdDNtRGxKRk1rX0NxcGJVV3pvSlRxaURURElfRWZ3US0wRmo5QkZSNUtUaFQ0X3hUOE9BNGEtaHlXTDNkSXNoYkZDLUFhUDRXeks0aHpMbnpiTzlXRGtPZEJ6WE4?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGVrWGlCX0hVYlN6VWlMSGNQeVBNVTFsUHNva0lpQlVuUEtaUWtOZDd0ZmR4c3gzSHp1RGZVU0pXVVliTXhWNHhLTGRoSl9WenJrb0l5aTNITGNaMm14bnhqV1ZSdUFUWDJpcXhKTTcxV3poUVJxM1BOOHpqTVM3OElGTkVyWFk?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQckI0WGNoRXk5WE1BQzZXZHc3dkkySm82QmdlQTBXc0E2WFh0cTNxNGl1MFdZeFBzYVQtUVZESlJPSkQxeFNsVHNjS0xnNzlFUjNQTE5qbmdfR0RCLVk0b2puNmV0Si1lOGNabmIyTXJrM1FoN1h6aGVnWjJxX2hiSzBCZUVuTG16UlhIR29GcC13X3B5X1RFb2RodXhjdw?oc=5"
-      ]
-    },
-    {
-      "title": "CureBay raises ₹100 crore to expand rural healthcare network",
-      "score": 22.54,
+      "title": "Oppo launches Find X10 Pro Max, Find X10, Pad Mini and Enco X4 in India",
+      "score": 19.42,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2dVVW9LVFB5djA1c0FOcllOb0xEcTR6RVZIM0ZKb2daSVVCVlpWT1MtM0ZuYTBGOEZONEc3c1N3OGFQY2ZLQkZlbFZnNFhRa0FTSWoxaFIzZVNvR1VNdTNlOHRCWkFmbVMwcXBvcTR5YVdfanZBWWJHZ0V5d191OXFhXzdXSUVldldERzlOeXktTi04cEdBVlhTYngyZ9IBowFBVV95cUxPeTZhTnJjOUFXZDFidzZKU000UmdMeUhGNlQxLS11LVBrVjNuMnAwNVl4SU1ncG50UXo2TXVaNVduRGFiSGFnaFIwTUNJTUhRcHRJZ3UwcjczNWNJcTNnak5Hb1A0Q2dqRkloejlOcnRqM2R0TU5icUhsV25mcFR6ak9TZHM1UFVKaDNTUnZmWWRaSllGQmRTZElGSldYaXV5QXlv?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUN0SGd6d0NMaGFUN3VYWkVzLW92ZVZjUXNNRmo4U0x2NkJFT3BnTmZRY2F2OUlYSlhFVTdzT3Y3V2JKQVhWbXNwR2pOVmlnSlFWNm5kMDU1eURrNjZ4SklGN2ZhdlJEQmJYcWtNZ1lsUWtqTHhIM0k0bzY5SERqV1U2SlVCWTZFNFNzLVNrRHh6NFhpaUdSS2dn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblJzeHItRVVwcHZzUUlhU3N0X2dybDlVMU83VldpTTMxbG1hVlhadDNybmE0ekhBczJ5S2k0QWx5ZTVCQTBuXzVNTDFKVm9oYS0zQ3lCd3MxSkNhUGNBYXNFRTdHd0FFbFdobHVJM2Qzcmh2NHJJX2U0T3pBUTRIMkhQUVlfWXF2NklFTlRtR1laTUlnTkNmSmk4cnFVcjZ4VmNUTW0zbTZiMlXSAasBQVVfeXFMT25Sc3hyLUVVcHB2c1FJYVNzdF9ncmw5VTFPN1ZXaU0zMWxtYVZYWnQzcm5hNHpIQXMyeUtpNEFseWU1QkEwbl81TUwxSlZvaGEtM0N5QndzMUpDYVBjQWFzRUU3R3dBRWxXaGx1STNkM3JodjRySV9lNE96QVE0SDJIUFFZX1lxdjZJRU5UbUdZWk1JZ05DZkppOHJxVXI2eFZjVE1tM202YjJV?oc=5"
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmFPS21pRUd2WDB1YVRZS2lTX00tZGZ6TmNRa2F6aUcyaTdMM080c0Vxd1JaeUR0bnQ1MmtBT3M5UThhWDVJOTRqUnZLVnpHX1FjanVhT1dwVEdZUHdCREM4TWF2YldzXzRtTXNtNllOQy1ObzNqV3k4S0pXbklJSzU3cU5udTlybTBJZDhHTEhvUzVMRF90dDhZdnVqT29FSEJ0dFg5ZW5NbTNiRGwzLTJXMFdGNUdfVjljc2lLRWpyWjBnOFd2UDBZN3FLbmc3ZjhHMmNScXJmQdIB4AFBVV95cUxPelRxVXNnNFRJTW54UW9obDA0RUtpNUszMmRaZG41d0w5bVRfVGRVX0xIS21aeXBidFVNQXdmWHlxc3VmNXFEaUxsRlQxaG8yTm5BaV9QVVFIbXBiLWxtSV9IUUhrcVRhU3BJUTdfX1dCR0sycVY0VE1ZdVRwQmRNWVMyWmp4dzdQcFJINVpnYkxzR2dyTms5Z2YxcW1KRl9kWGZuVG92bldhVm9pbUFkc0tueW14bVphMUhuWFc3U0h3a0VZSTlCVkFYMWFjU1EyN2FyMENkYzM2NTRqR05EcQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVJ1UDV5RGM4WUZoVjVvb3JvRmRqbkFZa2dfdnFqcGdGbUNsZkNMMEx2b2dGNkhhaVB0TG1fTE0zRWpHRi1XdlJ5cUZXUkR6dkxvR2JHTHRhV1JnTVlqcHJ6MmxkTjROTHJkRjhCRGpWWlRvX3hPcVYxdVJBUy1ZTEdYbTFWc2VGVWZfSE5Gak1IR2FMYWZsYzI2aGpGcWFQWnfSAacBQVVfeXFMUGg2WkxuMEtMWE00UzBnTVp5UTZzbXBqVHFxVlgzcE9pUDZsYTUtdS1mMU1GZnBiSG1pbXBjQi0zY1JSTkJRQ2RNNE4wSzFGakFwQ0RZZDZhcU1mZzBwOTEzR0lWNnJBdmswaExZV2ZrbnhOa2VWQzJVaF81T0QwT010MHdCWDNvVk9OUUhQWUNOZi0zeE1Rc3RmYmozU2dJZDdRWmp6NTA?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdZb0pOZl9pSndJV1BrTlB5UXcyM0U4RDljYzVLUmppUkU2RXM4b3pLcXdZdTFaUlhuVnVoWlJrWFVOQmtrNHRHRHBNWE93VlRWTjVSaHREdDBkNzMwU1l4aHQtTkc0VmdLZEZjMnJyUk5Gam1lWHN0c2YzYUdTaXFyN3B6Q2k5cVJwZG1NQm5nUmZaWHVjbTlVZUxVbTdpcjBJUHVXbm9OTXpuaXczOS1HZWE1cEs3cC00Q3JFbnN3MFZfUnRSM0pUd0gxZ9IB1AFBVV95cUxOZFdYTFlFWndWTTlwNjVkeTBCeWlENmFwU1VRYk9SNVo0NjZqUXl4X2ltamRWb1Rucy1lSkQ5U1U0aVZSbHZlcVVKaGIyYTh0QUd3b205N1NtV2Jkdm1ra0hIRkJHVXgwM0JtZWhVNzBVTjNVN0xWRTMzUTJ4ekw1NW1OUUZybjFFZlIxM3NaVHJMbGppVTBxOC1sRVBvbnhieXJ2YlF0VnJjRGM4TFp0ZjhhYWVsN2FiSUtEOE1HZHI2LUhYMEs5WVc2Yms1QklEakJjcQ?oc=5"
       ]
     },
     {
-      "title": "ISRO ICRB Admit Card 2026 OUT: Direct Download Link",
-      "score": 23.52,
+      "title": "Mental Healthcare Startup Amaha’s ₹100 Crore Funding Plan Includes ₹10 Crore Debt for Expansion",
+      "score": 18.42,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBicHJVZ1lxSWVNWUlqdGFJNGdKYUhLcThHM1gzQVFWTWxzLXBhbU1oSlNRYWl3cG9vM1I4ZXhvOWhvUTFnZEd0NnBzc3pjd3dnS0pCZHcwZElTUElTUk00?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE80enBJNkJrcVFNQ294UGxrTnVnSm5vZUVxQ1VHejBlRTZMdHdUV2FEQ0ZEcFNPT1pCMVQ3UmpNNEl1d2FVb0Vza3NXdHo4RmpQNWJYekdXV3U3blhMSEJBbmpJWEtoOGhJMmc?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OX0VnTm5od3lsYXJodjI1dmRBdklJSExiVzVDRjVHNXc2c0NtN3RVMTJyVi14aFpXUE5UQkNWbDBRbmxWNnFXelhETDZIakUtQjlhNnA4clc4YldLQ0VVaTdjbUg?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2QtQTZlMnhHZHRyQzZWRVRPS3FwY0xSWEtPdlRLZTlncnV2OHhRQndfQXYtbDZnTkxRaVJaSmZUMUc2N1M0a3E0WU50Z3p5WldMWmlleXhPdDc5X01Ea0gyS3FZdTV1SHZwU1pnU3psVHk2UUVwOGdtUXN2YWJXLVZWSHM2eGpweTJzaUdLLXVlWlFBdEN3bXBMaWJzVGNnV1NN?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnNsbWhyY212UzNrLS1kanF1WjlaTkI3SGxheEs4OVViSkt2Y21YMEFheE5kbEE4aU43SWE5dUpTX0ZMRVVqT3ZaYkY0NW8wQU5FZ2VlNFZsLUliQ0hld1lWeXBDcVlBZnVRSW9PcFJZSDduYTN0aFpmaG1Fblhsd0ZGa1FjZw?oc=5"
+      ]
+    },
+    {
+      "title": "Apple Launches Foldable iPhone in Japan",
+      "score": 22.83,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tbXRNTlotam9iX2VwaEtOM0oxX2hHckpOTDFBTDhBektTeTNZSmRtbjZpN1dzQnFWbVdmcFlaLVhQSDBpMkJBNi1NWXIyc2xaNUJPOUt4aFNpd2xH?oc=5",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tbXRNTlotam9iX2VwaEtOM0oxX2hHckpOTDFBTDhBektTeTNZSmRtbjZpN1dzQnFWbVdmcFlaLVhQSDBpMkJBNi1NWXIyc2xaNUJPOUt4aFNpd2xH?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUl6Z082TEk3VV91Ry1TZ21vdGpzemZmcllxc1MtYmFUTTFpVW5yejlOTDl0ZVkybF9Ual9KRUx6OFJ4OEdPcllzTVg1S0t3SXZFVDl3MjhkVHp5dmVhejMzWUd1MjNUbl90THRuMV9RUl80dHhPN3ZzVm1LN1BWSm5MWGVHM1FrdDRmS0g0bmdRZ1VWMHVLZTV4SjVncmVOcFhoa0VtYzJHSm5fTHJUS1BzanFiaVRzeTBHQkVOTWwtSnlIcjJhSFo2QmpBT1dHaVBJ0gHYAUFVX3lxTFBZcVgtd0ZsSmVCVlViTllFdlpvdFA2d2Q0NGpLSlpSSUVXSkVHME5IV1lreXJwcmhJSEZLb0ZPUldyaV9LbjB2RGU2UlBWY0NzeFVCN0M4c2pMYlJZLVVIcVcyZmRzUG1LcTNDRGg3NlpIbkhHVWhVcV9NSzVIRFRnMExKSmtUQzh4MldvbFpMVGc4V3k4dUJrdzVSdUl1cm05bkhHZnFVaXl0RTlwOXd2bk9HQXM2ZDAzTTdKM3FNVm9Wby1uTXM0MUhwVlVnWFZkRU5UdG83Tg?oc=5"
+      ]
+    },
+    {
+      "title": "'Call of Duty' seeks to win back fans with warfare spectacle",
+      "score": 21.72,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDh4dll4S2M0MndRd0l1alVRZFJGZktvSTRLQmhjYTZlTjdKeVdiY2NPOTFrcjlvNjRsc1hJOWpNQ1JpZnZBdVQ5ZHBJdXgzT0dMeGNGdzNrQXcxOFoxRXJlMUtWZXlJQm5hbEw3VXlHUlJGNmM1TnAtTVBzMjdqQnFJcVVTMXBQYUk4Q2xUTGJmem9sdjFzRmY1YlRFWmJ4TlFLVWpWWHk?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTZacFFScEdRV2FnV2w4c3ZWRzI0Q0szbXVpNkJEWVpUMjR3UnhsdDhCdnltTkFZdTZTTnJocnNWVkRGM3dmaTgtODhBeDZfMTNVSUhpaGdmVHlQZFF1SkMybFpuUWZ6T21rbEhWWGpwbGZwRjlkVkF1TVZGNHA0eGR3YnRrOWpJRTN5eFpmLXFGaFg0Q0pNRTVJSDNfSldWRTFuWk5WN0pkSFlsWldFZ1hjTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDh4dll4S2M0MndRd0l1alVRZFJGZktvSTRLQmhjYTZlTjdKeVdiY2NPOTFrcjlvNjRsc1hJOWpNQ1JpZnZBdVQ5ZHBJdXgzT0dMeGNGdzNrQXcxOFoxRXJlMUtWZXlJQm5hbEw3VXlHUlJGNmM1TnAtTVBzMjdqQnFJcVVTMXBQYUk4Q2xUTGJmem9sdjFzRmY1YlRFWmJ4TlFLVWpWWHk?oc=5"
+      ]
+    },
+    {
+      "title": "ISRO Nursing Officer Recruitment 2026 Notification (Out), Apply Online Link Active Till 9 Nov",
+      "score": 19.18,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mR0JuVWdCWTgzRHdzLWtadW1BcVREdktidTlkOU52clQ2UnJuOWFTRXhudTBuZjg3VnRFQ3lJeG0wUXM0RXpUTlBrWW5YX1RMMTNrcW1naGJjX3pSWjdhQndTVHNxV3E0MEM5TEZIUHVBMUk4elJFak92RQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWtObHB0UC1iLXU2Nl9rLVJESEZNWFBGNW5ObDRfdGRWSmJ5ME9hM3BRWWxwdThweUxHSGtxS1BIVzNpMGFqa0V1cXJPOGhaLVQ4QU16MzNiTEltV1VlME9JNGFmd18teGhBQ0lGMm5scm5KdEhhQThVWUFCZmMzS2hXSGF1ZXpLaE5DRllmU3M5ckNGRVlFSnN2TFNSQWU3ZnpfQmQ2UGVNTHhrZ1E?oc=5"
       ]
     }
   ]

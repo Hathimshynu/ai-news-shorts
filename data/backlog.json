@@ -1,47 +1,47 @@
 [
   {
-    "title": "Cortex DC to develop 2 GW of AI-ready data centre capacity in India",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3lvVnViOThGcFRnbVRuV2NGNnJCVzBtM1VHV3JGY3VBeVIyU0pJUXJuc3ZQMjYtR0l2S0h0alFDMjNsOWZsd2xLUG40eG95MFJrekwtbGVtWUx2VEJ2dVFnOWp6SVJYOHVqSUNBUWpXRFV0UGYwUlppbTJrQkR4cE5ZLXVYZ0pZMmV3bVFKcy11ajl4Vlh3cWNsUkZiZ25EYldGUjBhOHhjWUJ4X0JTbHhZVF9CUkNFTmRXQm13QkN1QmVWdjJTM1NvU0c2R18zekJPaEd1VWhtU1hmdkRONE5fMNIB5wFBVV95cUxOWFQ2NmcyeEFFNlJmRkw5TUkzbVY4Wm9FS3dvTklSQ2RDTzBDS3U5TDJ1X0FuRUdhZ1N5OUo1N3UzemVVcWtDRkM4MllJc0FhU01tckFBOGE4bXdSOTFQc0VFMzRnR0Y2X2N3dFVrNlB3YW90U25TSWlZdGxSOUp4aHhkZzh2OU5OeHRmN01Sd0dtcE1wRDRDWlp2TEczQjRWQlA2WjlMdzctZ2hfZEltQlVxcEZNOGFfejhKeXhYdl9rWVBObTNqX0plRTQ5NUpLWnNQX1kyeGQtREY3ZVdtT0lqa0M1a2c?oc=5",
-    "source": "ET Datacenters",
-    "kind": "news",
-    "summary": " Cortex DC to develop 2 GW of AI-ready data centre capacity in India &nbsp;&nbsp; ET Datacenters ",
-    "country": "IN",
-    "published": "2026-10-22T13:38:53+00:00",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "country": "GLOBAL",
+    "published": "2026-10-21T07:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
+    "saved": "2026-10-23T11:37:05.343800+00:00"
   },
   {
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXI4MDQ5UDdXZDNuUUpwYkVwY3RYM05lZzhqcFhlb0NfeDVacEFfYkNQWkRuNDZPM05pRndYcjZ2QXBxeHA1ZnpaSVZjNEhXRnZvdkhTZTR3aFppbVlxUXJpeHRhSXRvV0R1VFRuUmhNeTdmdkJ5ZVNmSGFmWlNPbjZ3?oc=5",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5",
+    "source": "NVIDIA Blog",
+    "kind": "news",
+    "summary": " Kazakhstan Expands Compute for Its AI Future &nbsp;&nbsp; NVIDIA Blog ",
+    "country": "IN",
+    "published": "2026-10-23T07:24:12+00:00",
+    "engagement": 0,
+    "saved": "2026-10-23T11:37:05.343800+00:00"
+  },
+  {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " Patch the Planet: global response coordination as agents uncover critical vulnerabilities &nbsp;&nbsp; OpenAI ",
+    "summary": " OpenAI and Poland’s NASK partner to advance AI safety and security &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-21T16:56:20+00:00",
+    "published": "2026-10-23T05:11:03+00:00",
     "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
+    "saved": "2026-10-23T11:37:05.343800+00:00"
   },
   {
-    "title": "GitHub Copilot models deprecated on October 19, 2026",
-    "link": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These&#8230; \n The post  GitHub Copilot models deprecated on October 19, 2026  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-19T21:27:10+00:00",
+    "title": "New 'Scentronic' technology can detect and transmit aromas remotely",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5",
+    "source": "Reuters",
+    "kind": "news",
+    "summary": "   New 'Scentronic' technology can detect and transmit aromas remotely &nbsp;&nbsp; Reuters    Something smells different as scientists send aromas over the internet &nbsp;&nbsp; Tech Xplore    New ‘Scentronic’ technology can detect and transmit aromas remotely &nbsp;&nbsp; The Mighty 790 KFGO    Ohio State Makes a Stink by Digitally Sending Scents &nbsp;&nbsp; CNET    Digital scents could add a new dimension to virtual worlds &nbsp;&nbsp; New Scientist   ",
+    "country": "IN",
+    "published": "2026-10-23T10:05:08+00:00",
     "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
-  },
-  {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-22T16:11:31+00:00",
-    "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
+    "saved": "2026-10-23T11:37:05.343800+00:00"
   },
   {
     "title": "What FDE means at OpenAI",
@@ -50,30 +50,30 @@
     "kind": "news",
     "summary": " What FDE means at OpenAI &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-22T13:30:00+00:00",
+    "published": "2026-10-22T13:34:38+00:00",
     "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
+    "saved": "2026-10-23T11:37:05.343800+00:00"
   },
   {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-22T07:51:31+00:00",
-    "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
-  },
-  {
-    "title": "Pine Labs and WEBXPAY bring UPI to Sri Lanka merchants",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTVqYUhOeXBfQ0owcHVwTkVtWjN4SUFuaU1oeHJnMlcxY3hLWjFnRnVRbndjUlNLTkY4aFVybmJsV2k0QUFqaW9EX0lHMThMVTlFVV9QWWV1OUtJTUJWYktEVlE1UEpmMHdNQlFJVHVkVTF5ckhyWmlmeko5QTN5Zk5NYThQeS1Fa0twTnl4VlFmQVV0Wl8yYXdPSlgycW9TYmFZMk8taTJvUkk?oc=5",
-    "source": "The Paypers",
+    "title": "Build more responsive apps with the Decisions API",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": " Pine Labs and WEBXPAY bring UPI to Sri Lanka merchants &nbsp;&nbsp; The Paypers ",
+    "summary": " Build more responsive apps with the Decisions API &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-22T11:22:06+00:00",
+    "published": "2026-10-22T19:38:27+00:00",
     "engagement": 0,
-    "saved": "2026-10-22T16:38:11.353298+00:00"
+    "saved": "2026-10-23T11:37:05.343800+00:00"
+  },
+  {
+    "title": "Oppo launches Find X10 Pro Max, Find X10, Pad Mini and Enco X4 in India",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmFPS21pRUd2WDB1YVRZS2lTX00tZGZ6TmNRa2F6aUcyaTdMM080c0Vxd1JaeUR0bnQ1MmtBT3M5UThhWDVJOTRqUnZLVnpHX1FjanVhT1dwVEdZUHdCREM4TWF2YldzXzRtTXNtNllOQy1ObzNqV3k4S0pXbklJSzU3cU5udTlybTBJZDhHTEhvUzVMRF90dDhZdnVqT29FSEJ0dFg5ZW5NbTNiRGwzLTJXMFdGNUdfVjljc2lLRWpyWjBnOFd2UDBZN3FLbmc3ZjhHMmNScXJmQdIB4AFBVV95cUxPelRxVXNnNFRJTW54UW9obDA0RUtpNUszMmRaZG41d0w5bVRfVGRVX0xIS21aeXBidFVNQXdmWHlxc3VmNXFEaUxsRlQxaG8yTm5BaV9QVVFIbXBiLWxtSV9IUUhrcVRhU3BJUTdfX1dCR0sycVY0VE1ZdVRwQmRNWVMyWmp4dzdQcFJINVpnYkxzR2dyTms5Z2YxcW1KRl9kWGZuVG92bldhVm9pbUFkc0tueW14bVphMUhuWFc3U0h3a0VZSTlCVkFYMWFjU1EyN2FyMENkYzM2NTRqR05EcQ?oc=5",
+    "source": "The Hindu",
+    "kind": "news",
+    "summary": "   Oppo launches Find X10 Pro Max, Find X10, Pad Mini and Enco X4 in India &nbsp;&nbsp; The Hindu    Oppo Find X10, Find X10 Pro Max launched with 200MP cameras, 8,000mAh battery &nbsp;&nbsp; The Times of India    OPPO captures life’s unplanned moments in new Find X10 campaign &nbsp;&nbsp; afaqs!    OPPO Find X10 vs Find X9 comparison: how much has changed? &nbsp;&nbsp; 91Mobiles    Oppo Find X 10 Pro Max | Unboxing ASMR | TechPulse &nbsp;&nbsp; The Economic Times   ",
+    "country": "IN",
+    "published": "2026-10-22T13:08:50+00:00",
+    "engagement": 0,
+    "saved": "2026-10-23T11:37:05.343800+00:00"
   }
 ]
