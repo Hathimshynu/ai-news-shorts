@@ -996,5 +996,42 @@
       "qa_passed": true,
       "posted_at": "2026-10-23T17:04:44.415255+00:00"
     }
+  },
+  "2026-10-23-evening-1701": {
+    "status": "approved",
+    "platforms": {},
+    "late": true,
+    "approved_at": "2026-10-23T17:04:47.435633+00:00"
+  },
+  "2026-10-23-evening-1802": {
+    "status": "approved",
+    "platforms": {},
+    "late": true,
+    "approved_at": "2026-10-23T17:04:47.434007+00:00"
+  },
+  "2026-10-23-evening-2200": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/vkU7dD7B4Ek",
+      "facebook": "https://www.facebook.com/reel/2538045733328215"
+    },
+    "late": true,
+    "approved_at": "2026-10-23T17:04:47.432382+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-23T17:04:48.670354+00:00",
+    "ids": {
+      "youtube": "vkU7dD7B4Ek",
+      "facebook": "2538045733328215"
+    },
+    "info": {
+      "title": "OpenAI Habitat Scaling: 500 Petabytes for Over a Billion Users #Shorts",
+      "topic": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "category": "AI Automation Tutorials",
+      "hook": "How OpenAI stores a billion chats",
+      "seconds": 52.3,
+      "primary_keyword": "OpenAI Habitat scaling",
+      "qa_passed": true,
+      "posted_at": "2026-10-23T17:06:12.186877+00:00"
+    }
   }
 }
