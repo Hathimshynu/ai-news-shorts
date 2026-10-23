@@ -1056,8 +1056,8 @@
     },
     "late": true,
     "approved_at": "2026-10-23T17:04:47.432382+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-23T17:04:48.670354+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-23T17:14:59.031759+00:00",
     "ids": {
       "youtube": "vkU7dD7B4Ek",
       "facebook": "2538045733328215"
@@ -1069,8 +1069,7 @@
       "hook": "How OpenAI stores a billion chats",
       "seconds": 52.3,
       "primary_keyword": "OpenAI Habitat scaling",
-      "qa_passed": true,
-      "posted_at": "2026-10-23T17:06:12.186877+00:00"
+      "qa_passed": true
     }
   }
 }
