@@ -1004,8 +1004,8 @@
     },
     "late": true,
     "approved_at": "2026-10-23T17:04:47.435633+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-23T17:07:46.255819+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-23T17:17:52.340150+00:00",
     "ids": {
       "youtube": "I_HBTRx5j6Q",
       "facebook": "2151702088771204"
@@ -1017,8 +1017,7 @@
       "hook": "2 GW AI data centre coming to India",
       "seconds": 41.9,
       "primary_keyword": "Cortex DC AI data centre India",
-      "qa_passed": false,
-      "posted_at": "2026-10-23T17:09:07.355184+00:00"
+      "qa_passed": false
     }
   },
   "2026-10-23-evening-1802": {
