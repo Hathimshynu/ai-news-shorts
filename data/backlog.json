@@ -1,47 +1,14 @@
 [
   {
-    "title": "Build more responsive apps with the Decisions API",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Build more responsive apps with the Decisions API &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-22T19:38:27+00:00",
-    "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
-  },
-  {
     "title": "Kazakhstan Expands Compute for Its AI Future",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5",
     "source": "NVIDIA Blog",
     "kind": "news",
     "summary": " Kazakhstan Expands Compute for Its AI Future &nbsp;&nbsp; NVIDIA Blog ",
     "country": "IN",
-    "published": "2026-10-23T07:24:12+00:00",
+    "published": "2026-10-23T10:48:22+00:00",
     "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
-  },
-  {
-    "title": "What FDE means at OpenAI",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " What FDE means at OpenAI &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-22T13:34:38+00:00",
-    "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
-  },
-  {
-    "title": "GCCs in India to add 1-1.4M jobs by 2031: Embark report",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHhzcE5zSlJKMW5Bc3ZUWlVGSW1sT1pHeU5tNWh1Tnk2TDJ5NF9JenBaRXdOOGgwSDBlY0Jjd2VjUGFqR1FNel9UR1RfWmVpalczMlppQkk2ci13OXNUY0tLbDJXenRHUS1fc3M2TlNWUGxOSFVfSVU5emNVRW4wZ3RhZHp4bFFraWI3T2V3U3g5UU1sbmZOTmljektnWE5KZ2FuM2tkWmNBRXc?oc=5",
-    "source": "YourStory.com",
-    "kind": "news",
-    "summary": " GCCs in India to add 1-1.4M jobs by 2031: Embark report &nbsp;&nbsp; YourStory.com ",
-    "country": "IN",
-    "published": "2026-10-23T11:33:01+00:00",
-    "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
+    "saved": "2026-10-23T16:43:42.887146+00:00"
   },
   {
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -52,28 +19,61 @@
     "country": "IN",
     "published": "2026-10-23T05:11:03+00:00",
     "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
+    "saved": "2026-10-23T16:43:42.887146+00:00"
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Build more responsive apps with the Decisions API &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-22T19:38:27+00:00",
+    "engagement": 0,
+    "saved": "2026-10-23T16:43:42.887146+00:00"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-23T16:15:50+00:00",
+    "engagement": 0,
+    "saved": "2026-10-23T16:43:42.887146+00:00"
+  },
+  {
+    "title": "Enterprise installations for GitHub Apps generally available",
+    "link": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API&#8230; \n The post  Enterprise installations for GitHub Apps generally available  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-23T15:03:30+00:00",
+    "engagement": 0,
+    "saved": "2026-10-23T16:43:42.887146+00:00"
   },
   {
     "title": "New 'Scentronic' technology can detect and transmit aromas remotely",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5",
-    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1dHSzRQZGNFSmh5bF9USmswODJWdko0WmRXYllkWTNrWU85eWxTUVFHRjRtRlFYTF8wc2tOQ1lVS1cxalZWV29VMzI1bEpma211UzFHZFIxT1FSeG9YU25fck1LcGtIRFZSWXl4N0F0bGljQ3I3NWdKdElBSFdhM2U3UUlNTXl4bFNxd1RYZ1pxNnBxeDc3bEdIOHJheTZOUkkwQnBGbTladFhZYVVYazA2dmo?oc=5",
+    "source": "CNA",
     "kind": "news",
-    "summary": "   New 'Scentronic' technology can detect and transmit aromas remotely &nbsp;&nbsp; Reuters    Something smells different as scientists send aromas over the internet &nbsp;&nbsp; Tech Xplore    New ‘Scentronic’ technology can detect and transmit aromas remotely &nbsp;&nbsp; The Mighty 790 KFGO    Digital scents could add a new dimension to virtual worlds &nbsp;&nbsp; New Scientist    Ohio State Makes a Stink by Digitally Sending Scents &nbsp;&nbsp; CNET   ",
-    "country": "IN",
-    "published": "2026-10-23T10:05:08+00:00",
+    "summary": "   New 'Scentronic' technology can detect and transmit aromas remotely &nbsp;&nbsp; CNA    Something smells different as scientists send aromas over the internet &nbsp;&nbsp; Tech Xplore    Digital scents could add a new dimension to virtual worlds &nbsp;&nbsp; New Scientist    Scientists have figured out how to send smells over the internet, and coffee is just the beginning &nbsp;&nbsp; Digital Trends    Ohio State Makes a Stink by Digitally Sending Scents &nbsp;&nbsp; CNET   ",
+    "country": "SG",
+    "published": "2026-10-23T10:03:23+00:00",
     "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
+    "saved": "2026-10-23T16:43:42.887146+00:00"
   },
   {
     "title": "OPPO India raises the bar for premium flagship smartphones with the All-New OPPO Find X10 Series",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnZSclVUZWZqZ093NTU4a2FMeU9IOUdyT2hSV0tkekhGUzdiU2ZNNGp4Z1VJUG1ObXhQNUQydzhXcVg1dzdGRUd0NWtpLW52STh5VW1RR1YzM3JaNk9yRHl5SjRKMWQ0SDhqa2FEZ01TU0NmWlB2T3JLYU9TQkxpNGFvN0lsZ2hQeGctTmJSZEFlVWprNVRteTliV1pRVDFJazZySWs1c2ZQMHgyQjNtZGV1Nl9GbkZKcF9DRUFoLWhYOW5ldjJza3ZVUkhYS0s1TjJvNkhLNDRLV0hLcFZYbzZB?oc=5",
     "source": "ANI News",
     "kind": "news",
-    "summary": "   OPPO India raises the bar for premium flagship smartphones with the All-New OPPO Find X10 Series &nbsp;&nbsp; ANI News    Oppo Find X10, Find X10 Pro Max launched with 200MP cameras, 8,000mAh battery &nbsp;&nbsp; The Times of India    Oppo launches Find X10 Pro Max, Find X10, Pad Mini and Enco X4 in India &nbsp;&nbsp; The Hindu    OPPO captures life’s unplanned moments in new Find X10 campaign &nbsp;&nbsp; afaqs!    Oppo Find X 10 Pro Max | Unboxing ASMR | TechPulse &nbsp;&nbsp; The Economic Times   ",
+    "summary": "   OPPO India raises the bar for premium flagship smartphones with the All-New OPPO Find X10 Series &nbsp;&nbsp; ANI News    Oppo launches Find X10 Pro Max, Find X10, Pad Mini and Enco X4 in India &nbsp;&nbsp; The Hindu    Oppo Find X10, Find X10 Pro Max launched with 200MP cameras, 8,000mAh battery &nbsp;&nbsp; The Times of India    OPPO captures life’s unplanned moments in new Find X10 campaign &nbsp;&nbsp; afaqs!    Oppo Find X10 Series Launches Globally: What Buyers Should Check &nbsp;&nbsp; TechRepublic   ",
     "country": "IN",
     "published": "2026-10-23T09:49:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-23T12:38:54.578819+00:00"
+    "saved": "2026-10-23T16:43:42.887146+00:00"
   }
 ]
