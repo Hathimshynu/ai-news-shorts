@@ -1072,18 +1072,20 @@
     }
   },
   "2026-10-24-evening-1702": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/iK1k1VKEA0k",
-      "facebook": "https://www.facebook.com/reel/29370682062566061"
+      "facebook": "https://www.facebook.com/reel/29370682062566061",
+      "instagram": "https://www.instagram.com/reel/De4cP8KjvFh/"
     },
     "late": true,
     "approved_at": "2026-10-24T15:00:34.955118+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-24T15:10:38.485352+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-24T15:20:45.810044+00:00",
     "ids": {
       "youtube": "iK1k1VKEA0k",
-      "facebook": "29370682062566061"
+      "facebook": "29370682062566061",
+      "instagram": "18131684815871500"
     },
     "info": {
       "title": "NCERT AI Module Launched for Classes 9 to 12 #Shorts",
@@ -1092,7 +1094,8 @@
       "hook": "AI is officially coming to Indian schools.",
       "seconds": 43.5,
       "primary_keyword": "NCERT AI module",
-      "qa_passed": false
+      "qa_passed": false,
+      "posted_at": "2026-10-24T15:21:29.549269+00:00"
     }
   },
   "2026-10-24-evening-1802": {
