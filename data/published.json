@@ -1145,5 +1145,10 @@
       "primary_keyword": "openai offline ai training",
       "qa_passed": false
     }
+  },
+  "2026-10-24-evening-2142": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
