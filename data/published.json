@@ -1070,5 +1070,30 @@
       "primary_keyword": "OpenAI Habitat scaling",
       "qa_passed": true
     }
+  },
+  "2026-10-24-evening-1702": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/iK1k1VKEA0k",
+      "facebook": "https://www.facebook.com/reel/29370682062566061"
+    },
+    "late": true,
+    "approved_at": "2026-10-24T15:00:34.955118+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-24T15:00:37.041004+00:00",
+    "ids": {
+      "youtube": "iK1k1VKEA0k",
+      "facebook": "29370682062566061"
+    },
+    "info": {
+      "title": "NCERT AI Module Launched for Classes 9 to 12 #Shorts",
+      "topic": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12",
+      "category": "Breaking AI News",
+      "hook": "AI is officially coming to Indian schools.",
+      "seconds": 43.5,
+      "primary_keyword": "NCERT AI module",
+      "qa_passed": false,
+      "posted_at": "2026-10-24T15:02:24.334734+00:00"
+    }
   }
 }
