@@ -1099,15 +1099,15 @@
     }
   },
   "2026-10-24-evening-1802": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/JxiceJCm-yw",
       "facebook": "https://www.facebook.com/reel/2034923673889653"
     },
     "late": true,
     "approved_at": "2026-10-24T15:02:27.156349+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-24T15:14:00.189157+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-24T15:24:06.243553+00:00",
     "ids": {
       "youtube": "JxiceJCm-yw",
       "facebook": "2034923673889653"
