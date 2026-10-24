@@ -1,38 +1,28 @@
 {
-  "job_id": "2026-10-24-evening-1702",
-  "chosen": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12",
-  "reason": "NCERT introducing AI and computational thinking modules for grades 9-12 directly impacts millions of Indian students and parents, making it highly relevant and shareable.",
+  "job_id": "2026-10-24-evening-1802",
+  "chosen": "Securing our frontier model training environment",
+  "reason": "OpenAI has officially revealed how it is overhauling its infrastructure and cutting live internet access to safely train its next-generation frontier AI models.",
   "candidates": [
     {
-      "title": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12",
-      "score": 19.99,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0o4bGR2emJQcUYxSWtJblZETVJGUlBjX3otNEpUZjJEUTdQYkxRaEdZWE9zZk1WejdRSzhTaXRzWjFCMDFDVGdyQWlIendhbjN2SzFjOFo4eEY5cUtBbjYwTUZWYnEzV3dGZUhLT3FEeTIwdktaRDFSRTczRHhsdEdhRUFrVjJtUTV3TXBMc0VOaWQ2UUNJc3NuOThhZnEyX3BYTEN5OUpVUXhjaXh3TlFoNDZGejRsWWJiX0hZTmdTTUZvT2d6a1FnVXgxNVJVbmdncWRWSFZwaFZO0gHqAUFVX3lxTFBrTGE4Rlc3Zkx6WFBiZ1JBSlFhMjFLM0ljelMwNE9jZ21TZk5majNDblRhd2lpRGlKU1BDRjhhSmpwbVJIX1NVaElKb3hOUFVxRjhFV01UNEVTQTJlLV9MbUE3RV9fdUN3VHhGVEx1UjM5R3pvYUs5X24wVXBSUktNakY4Qmc2eWYtcjNUdjRNRXpiQTBtbFFpOFlhZUp6TmlDYjNfYU9abDdHYmFVRUlyWWlmWjRGcHJpbTF5UDU4Y1RybDQ0cVhZNkR6YWl4SXYteUpqSVM1YWtJeUFnYlJjWnppT0Q0c05nZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmZNMWFJMDA5NXFpUWVYOXlEU0JPem00V2o1cDhvakpWYmdBeHg1MWRkR2J6UVdLVHFpc0ViYW5hRGdneENUSFFzQ1NYdVZMT3F6LU5VaEt3ZHBXTy1QbjU4azRTT2kyc29TNVJTVERqaTVyRnpJZnlJeUZ5eHhoajFXYnIxMU03YWFzTktQOFRoY2FBUGdWVzdYXzNRWkt3ZjVvbE1rLXFuWmFZa1FreklRMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDRON0FsenB0c2RvYWdZV1gxcGI1RmhMSnRQREpKTlYyU0Z5YWdJdlF6X2xYT0Rhc2NEanRhZDJoMnhCVTJrSW55dVptY2hrOUlGckQxM2pxaUZJX2g4X280MzhUblRKQjV4N3FMbTRGNk9pRnV6b3VndnlrMFNnbDg0dXprUW52QlY5Mk9GUGhUWUVWenloanpTdHZlN1A1QWJR0gGoAUFVX3lxTE5ZWDhuVUhnenFaMGVKSDdvcG5KNDBTSzk5NFRfVzlDTHpUNnZ4eE1uZzRWU1JRU2VudXBoUk1lREVNNzlobHVoTXg2bjdJWUJ3MEUzUFYtMUppekFFOWZkMXAtaG5PY28wY0hNcU5MaTBVSUhfT1BpVjl1VXMzcjhvVXF1a3dJdUNkT2xtdjdyWVNrblBtRE0zMkUzSXh0UzFGcm5mb1VMcQ?oc=5"
-      ]
-    },
-    {
       "title": "Securing our frontier model training environment",
-      "score": 20.77,
+      "score": 22.52,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
-        "https://openai.com/index/securing-our-frontier-model-training-environment"
+        "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5"
       ]
     },
     {
       "title": "OpenAI to train advanced AI models without live internet access",
-      "score": 25.57,
+      "score": 27.32,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -43,9 +33,23 @@
       ]
     },
     {
-      "title": "Commerce Ministry identifying AI-proof professions, sectors where India can take global lead: Goyal",
-      "score": 21.28,
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "score": 21.55,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPelhXRXpBYkQwR3hGYkN1eXpDOHlsdGRnQW44V1NKcnJWNXhLZ29Hd3Jiclg3X3d0aVdobVEzRDRmSzNRWWxZbGtiS0tWSXdMeTFWaVhmRjBQWk9JeEhMdS1FRjFaTmtNUXdUMzVMejNxRFl1SEtLTHRqd0JkZjhNUjBCRFdaekNqQU1jeGJfM1FTa29WMHZtYzRpY3d1QTFtZjVkWFVmZzAyeUd3TzVLTUJTZlhNdXdSelBTeUZ3SVNxb1RzQ0h5bXZCNFdyV1lza3NDMERoVWFMd1pydXFwMXhsS1RpWTRFQmxzUDZzelA3VzVUTzgzUFNCOUMzSU12d21v0gGIAkFVX3lxTE9iVF9pZnQ5N2FpVkR0VjhXc21WemJUbDJCQThHZ2V1cXc1SFlYV1BSVHJiZUx6eVcwNEcyTWJJbmdzX3dBNUNhX3BQUjBDX0l5cjR0eHhNUnZOakRoQ3ZlNzlRM21Janp3YUlQaXY5NFR1dHB1dlZTRFowVlF5cW80a2VqTlFGQWFRMWxfek14bUJjd0VTRFBiUERrYXVwX2RCSGpobm5CM2tJS0IzM1Qxakg0a1N6UTBSUURBbHllWFFnaEFjRXQ3dlJnSUZlRTI1WGVSaHRpY0NkVUdKam1zTnpKWXFXNHdudGFJVkFTVHkxY1BRWWN5VUc5aWZpLXhSZDd2dGNGaw?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWZ6UHdaa2ZxYWdhaDRUektnTDJlYzhSbWhJY2hRcjYxWV9PSUJtMmU3cW9tMTBkUDVuTzdkTGVLZFExRjdvcVEwejZtWDhyTHgzWUNoMU1Cb3JlSTF1REFhaVAxNjJsNVI3WEFlUGdSbGxLanVVSmszV01IMHVfT1pLblVTd2RHSi1vMHdCVTREcGtUOW1BSXNwQjRlRllVOVg3RWhreTh4YVVMQnlON1ZSVE9VUTMwY2R1eDlDV1VCcjhoa1lnaThocmo4WEU?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNekxaMXVIa2NuMHJ1QnQtdDJJWGRPUGYzMXB1RHRocVV3X2FqaWV1OS1qWlV0ejFKcy1ocDREWWZPV0g1S3lQUVlRZU0yTU5FSF9lQ2twaUZuMFJEblo1R2NGaTRGTlY0SlVsVjlmczd5N0xGUEk4Vi1MQlQ2X2kxTkI0cUY1R05LOTZheERWU0l6ellEbTRzVnQtRmFUWHJPc3hUc2lwaVRnb2U4QXEydW1CV09oVXdBUmlFS19vN182TnNHWlFYTFk0QkdyaEQ3S1RIcS05QdIB1wFBVV95cUxNekxaMXVIa2NuMHJ1QnQtdDJJWGRPUGYzMXB1RHRocVV3X2FqaWV1OS1qWlV0ejFKcy1ocDREWWZPV0g1S3lQUVlRZU0yTU5FSF9lQ2twaUZuMFJEblo1R2NGaTRGTlY0SlVsVjlmczd5N0xGUEk4Vi1MQlQ2X2kxTkI0cUY1R05LOTZheERWU0l6ellEbTRzVnQtRmFUWHJPc3hUc2lwaVRnb2U4QXEydW1CV09oVXdBUmlFS19vN182TnNHWlFYTFk0QkdyaEQ3S1RIcS05QQ?oc=5"
+      ]
+    },
+    {
+      "title": "Commerce Ministry identifying AI-proof professions, sectors where India can take global lead: Goyal",
+      "score": 23.03,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -56,72 +60,82 @@
       ]
     },
     {
-      "title": "Build more responsive apps with the Decisions API",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/decisions-api",
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5"
-      ]
-    },
-    {
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "score": 21.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5"
-      ]
-    },
-    {
-      "title": "ISRO NVS-03 Launch Oct. 30 to Revive NavIC [2026]",
-      "score": 19.73,
+      "title": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world's first Nvidia RTX Spark-powered 2-in-1 laptop",
+      "score": 18.2,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMW1HdmRYLWc1RVB5TjZSX3RBSmZpaC0xSzg0TUQzUUQ1ajJZRk8wU1ZzSEtkTFh4WnlJSWhNd1NPN3FFTVJFQ0U2VlRIa2xsZGpHSno1UWU3Q2FEcmE2ZzIwbEdVd0pRNi14MlNiWXhwaFFqS1V1Z293cE1YWEU?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDlDVlVpYVpkaF9KYlpLM1BsYUZuV25XbG1ZWndyZ0VyMFFkWURaLXJHWTBnZ3ZVNXVla0lyR29mLWFpY3RJR3ZaUUlXNDZMSEJPLXgtOUljNEhIbi1aaVlTeEhxbkFLTnpjTUVuX2ZjQjJoejlTY0xudEV1LUh2amRIcmVLUDZ6VGFVdHRvc0diSzJLYjJaTnFqX29EUEVLY1g1OV9LeWtTam5ZQURsQzJpSS1PZlE1VnZHSHI3aw?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHZLRm9HT29TTnJBcVpkanZKdEZxU1RmRDlWa3R4YjJVYUluVXA3Y080aFZnU0UxcThwd2FrS1NrU0QyU1F3Mk5JdERPQjNzYlpmbE10N1NicUdETlJYOS1EUU9SVWhwY0M2VlZzRGZtY0oxOFpYcFRDMFl1ODdZQ2JvR2lYcVk?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHZLRm9HT29TTnJBcVpkanZKdEZxU1RmRDlWa3R4YjJVYUluVXA3Y080aFZnU0UxcThwd2FrS1NrU0QyU1F3Mk5JdERPQjNzYlpmbE10N1NicUdETlJYOS1EUU9SVWhwY0M2VlZzRGZtY0oxOFpYcFRDMFl1ODdZQ2JvR2lYcVk?oc=5"
+      ]
+    },
+    {
+      "title": "Delhi's decades-long battle against air pollution: From dusty skies to AI-powered monitoring",
+      "score": 17.89,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEt0RTdWYTNmU0dWOXFkdkMxalNwbHdTNnItVmlMRU1xRmJZYzY4dHI4RUZIdlRGMU1mdTJkRUpMSktqdC1MUTNPVV9ITDRLSG5aQjZVS29oN0R1dk9KZ1hOZ0RjNHdTMXZHcExWR1JxcDBVeVlSUlVEcnZFU3psOENvVjVTQWtmUm0yb01XcE9sWUNKQmNOLWpjaVZ1emhxbGY3eXN4NllyMVRxUDh5WXUzLVRpT2RNX0o3dVZEQmU1SG9GdVpqUE53ZExkRlhnTEt5VzJBek5VcERCRVJoWTVyWTRIdHJNSGdr0gHwAUFVX3lxTFBCSzR3QlR6THlzYmFXX3VQNmtFS3F2aVlNWTNaNVhyU1NPTHJXdHl5dkxKVkVqVnF1LVY5M2tuWnllRUt4TDBDUk5GOGI4dnRrbGR1ay1rV19BNGpiYUdFZ3hHUWVEMmVnc3FyWmhXNmhZamxnS1V3OUFrazZYbEZEblFwQWkwMl9STU9NUlBXRHl0VUZVZGJZNC1yU0RiQ0VIMXRVWDdJR3FKZHNEeGRCaHUwd1F4LWdHYUlUd3pZWFZjLUgyY3VNT2t6aVJFaGtDMTN1OEkyV0dwUDd2c3RfVml3cFd5eENBRnNIZDEyVA?oc=5"
+      ]
+    },
+    {
+      "title": "PM Modi To Visit Odisha On Sunday, Inaugurate RBI's Data Centre And Cybersecurity Training Institute In Bhubaneswar",
+      "score": 21.75,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm5kSTBnOVRyNms2aHZjY3ZneXREMWZNOE5kOWExd1pkNnlaTFFUdktqLVVsTFZfM1g5ZGZVR2NrbWxjS0tpRjhzYW9VaEhJN0lEWUJKS1lOQ1VDc0hRLUJkcE5DZE1vQllGT0NGWGJWRkRUTlJodFhfUDliVFBJZU5nU1o5UDNvZ2FkQWoyeGdkTWppY2ZaRWRwRWpoenk0MmhiNi1aOVNicmhlMUN0RFpYVUdGVnRpQVppa2RZam56czhQZ0VfdVJNdXhlZ2V5M2h5TmlPTTVsakw2WFVCRWFSRGZTZl91Zy11Z2lweXU0RjM0ZjlB0gH8AUFVX3lxTE00M0tSd3JUWURaeXR3RDlpd2J6b0NPNGg1M3l3WkEzQnZLVG1kMHc5a3h6c293NS1zTGJZaFkxajlGTVEwbnY2Mnp5dHA3a1JHbGdybmpDZkdRSXlBRm1YU1FHdDVaOUZoM1VZcm1wbFRWR1ZwVGtFV0p4cFJDQTdydlZWY1g0MVZOU05OdkYwWGJQOFpZQ0N6dmp0S1ozRVJTZm1OSGlrNjl4cnVDLTgyMS16cFpacktCY0RBM0lVQXVsVDVPOVdmQlhKaHowQnVOaFBDazFMTlFqX1VMZ2diVkx1YU92R1N4bDJ0ajgyakNSNVV5SEoyRmJ6cQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUk1UTjgxVV9lSWhFWk1yOGFiU3Rua1ViOHB5SW5BdG8ycFVxa00yQUlhRXd4Ri1aQ2VxUG5faW5pU1FXaDc2Z0laZmFIY3JGODBkdHdja01xU09HY013a21mU3MyZ3JfMFN0a1Bxei1uVkRueUg2dFJNX0NZUDl6WDN5UUFSYmZHZE1TRkI4MVpBZUhFMmMtN1dHOWJUQ0Vva19WNnhCWDR6ekxNY2lOZzN0WkNadDlwTDBJRl9BRndzSy03bmFCckRnS05TVXhYMWJF0gHjAUFVX3lxTE9NaEVvdlFTdDg1cGg5X2lhN2owRDkyb3huVTR2VGRYTWcxUWRDQjQxc2RQU1JhZXJCV1hqSXJJQlljUlp1ZWZwenRBbTd3bVd0Q19yMUJycURmM3VxZDFVV0ZvU1lrSjdIeXdTNEJyZ2hJY2xRa2pTbVlUam52R2ZETVlBNmZHLTdlX1pRLWh0dm5zb1JJelBQbmV3OENmMFZiSi1VZWh6aXhfYkl1ejlFWDZVVHNGbkhwWjJaVDdVSUtjZzI2aWdiNVRyX25EVl9palRINTBqX3V6Nno0RHVnUVMw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWpabmpoWmJpeTdJaE1kTl84UUdBQnJRSmJiOXN4aXBCdFQ5VHprZ3BVMzJfWHRYRVI2Zk5YOHBGcVhEWW5EMEpfbjBQZnFzbktHUkQwT3JUY19NMnR1RlcydnBXMTFVQUliRzdTQUNCVlB2V2cwTUdIbTNsNzFEM01PYWtRUkx3eFB3WllBU2VpVTFlaHV4dVptaVFuMWdIYnc?oc=5"
+      ]
+    },
+    {
+      "title": "Isro likely to launch NVS-03 on GSLV on October 30. Why its critical",
+      "score": 18.29,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckR2d21PVnJNZXlfdkd6QmFObEs3c2oxdldqdjFxWXZxMm9UVjBSMllDUktiZm1PUTJPc1NFT0hvSzZJd1FOT2FxYmk1bTBhY0RZdE9fQWxWR1llQk91b3ppaHk3YVRWYzhOaUNaRUtIV3FORklpMGg0Z0ZQQnRjZTZhWktxb2VlOUk2LS1Zb1VEdEhaSzVJdWZ3cHBlTEhmNXVyV2NONzFyOFhkZWJmallrdmdsMmkxc2hHbUdVUG1OZnItc0xB0gHMAUFVX3lxTE9fMmRpVlI5SHZaOVBiSFE4OGFlODQyS2M3Q0pEc201cFhZQkowV010b0FBSEFvTldGRzRjanJIWUVFUGgxMElPeXlsU1FYWlJZN1NLUDA4WW5FVUNtb1NTSWIwcGgwR2ZOdUxfM0Z4TFJ1QW9PZk1WcFI0cjJiQVVVYVRSeGxSM1pWYXFPVXpJY1RlLWxuRGdaWkN2R29KZU44LWtwdkFiUUZaSzVCRVFQZlpfcFlFYVJ1R1pLZnJlNHZHVUxyMVF0N1Zkag?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXZfVEh6bTJXbmZQRHRnNmNjNWI2VnZJVHVOQm00Y3BDMXpucmR2bmlzWWN3UEhMcGc3TGJmRFZpdTd5SWx4Skk4QXVNVEhIeVpDRFpiU1lkSGRiY25RZnItNnEzLWhtMFBTZ1RlMkhEUXl4RDJtSGtYQ2hReHRhTFRmQkc1RTloQzdYbjJqajhGNThhS0xFSkFaSDlxQkhUYjZR?oc=5"
+      ]
+    },
+    {
+      "title": "The NVS-03 Satellite",
+      "score": 19.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE5HS2pjdElmM1o0VmtId0dYSFozVzNRY2FYZVpqTUp4T2YyZlpDZEpzVkMyVjQ0Q3I1U2tvVkRLZ0FrcEtMZ3FTQV9UVTVoYnBGMFpJVHZkRlc0anBNZnBnV2NPbTd5RnoxYlVHR2NKU2lvdw?oc=5",
         "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnNfdlpZenVVeTB6R3ZYdnRWaGYwMnowUWJoX013ajF0TVF3eFRQaDg5RC1LNzdPNEFnNXNJaEQ5RjhHdEM0dkppeGxRQlllRm5HVl9pUlZUYzNmQUNydldILU9HMVBySjNmQ3ExTTZWOWdwcFJ4cEVGczV6U3Zwa0VDb3lCYzlZenZUVmhWUlNORGhFRTNQVUdQTUZwVS1jc0pfOTJmUUU4cmE3ZzJVbXAybDFvT1drZENwSlhHX3BaZVFjbjhXT0ZoZUlqV1lweHExMEVTZFNCT0E2WXRHb2JOTdIB8AFBVV95cUxNWk5YdWpMN0EyM2dSSHFmOF9zQzZpejlTRnNiYktMd3EzYUtPNEczdlE3dzdna1huMHRaejFmR2hyUnFNdUJ0ZTduSFgzS0lNVUxPVGx2Q2lHaWxNT19qbE1UWk1kODE5MXN4YXk3WDhOZDIxZzVLbElFRXl0WEVsUjJ1dmZESHJHRUhRUjU0d0k4VGVTd3p1VzRQZG5WNVRyMzZxeS1FQVdlRGVrZTkxRE5oX0lyc0xPS3ozWUUxNkhUeERrQkVJSHdpMVZwX05GeDFVM3hUbl9mOXlSZFZtQXZURVJRcFpEQmdsaUZ3Mkk?oc=5"
       ]
     },
     {
-      "title": "SpaDex satellites have re-entered Earth's atmosphere: ISRO",
-      "score": 19.7,
+      "title": "Apple's iPhone Duo goes on sale in Mexico",
+      "score": 20.82,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnB3T283QlA2M2NfbHk2V0oya3NLWUxOdXR0N0NYUXVCUGJzMUU3Y3F0ZURsRk5SZ2VnSGhOOGdBeEppcHNrMm5pak1KVm84YVdLbTJRSlJhQjRVdGs5dWtJbjREek1uRWtXdl94aHA4blQyWjZSc3p0RVhsckJTWGtwQVpnMldOWXJrUUJ3cTlNVTAtZGo2NGZHbWhEeGpxZTlFU1BRbHkyMVFiZ0l1am9RNXhuVmd6M0HSAb8BQVVfeXFMTTQxb3FxU3NQd2RCZVFLWTZvSkJ0eHlFS1hSZzlvTzdSYl9sS3o4UzV3ZE9mQXBMWHNDRURUM25ObURscVR0YmhLWXN5aElTcUtZOTJDNER3NWppcDA1bGViN2dGM1F3dzVQZVVIeW9rMU9CMVBULTB5cTNYUGd6UkQ2M1A5RVZQNGxocXZCbEVqeDloa29zSG9Fc3NiOUJHaXc4THg4SWZHNmxrcDcweUlRYU05RUJDR3FoWXdFSkk?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3lOaDRBZDc5WVNzcTY1ZFgxRFozY3NHVGJsNFd2aVJkWi1kaV9NS0pGWElJekhSSENpYURQUzRiM2VJNWl1bjNoZmg0cjJjeFZIanpqbE9fVzhEcWRLTjdzRG9yMnFZM05xSVhMc0FnenpaN0tZNjRnSnFvWTl5RHd1aG50QkFDbUdEY1hnYmpQbnFJRzdDOHZVVGIycFlLenFFbXVWMG9Wd3czaWVPQnRYLWRBMUZIMFNQRTVCallFSUdxeGlIVDlMVGZjdnQ4ZEppZNIB2gFBVV95cUxNNnhsWUZ1OGQ3ZWlCdWw5YVR2a1ZKNHhOUXN5ZFBTNDFITlhfQTMya1dSeEk4VFhudDhXOW9IVHZfd1JCRlQ4LWdyM0dnajhmRHdzcDRIY3g4elhxeXlZVzZzVDdTZ010UERfYnB1emVzRmFIV0VtY1N3YzY1V1ltT2c1X21qaTlTTWxod1VONWlDd0ZCZUp3U0d2bWtxaS1fQ00yVEhOTHlRQk50OWdYM0EzM2RkeDNVYV9lZjlrbm1nXzhDMlZHTGpkc3d1SFdncmJSRG55SVhCZw?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWNNdVhhTm42dXNQU2NBZlpNU3F4Ry1NbmV5QldjNzZvc3lnNGozVHcyN2RLTWVxNS1XOEZJNl85MGFKMHlNenVlWVo2RHpwOEFFNjNBYnYwak0xX0NQSkpKOW5jNlRCMy1KeGEwVUNETGxZQjRBTGpBeXMyRGFCaEhwcUIyU2ZQQmpxUndWdDhBNTlIV2ZiRF9RLTRlTTA?oc=5"
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PaHRwekEtekxEM2pSTGVTb05iVmhnUFEtaVlGNHMwVEd5bmRKamxZeUsxYk1SMkJXa0E1dndMbTlERnJ6RFZBZ1RkSjRYVERwd0EwLThLOXM0ODV5VFZTV1hablB2Q3FKWFFCSFo4UG9EUEo4REhZUGhCcks?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PaHRwekEtekxEM2pSTGVTb05iVmhnUFEtaVlGNHMwVEd5bmRKamxZeUsxYk1SMkJXa0E1dndMbTlERnJ6RFZBZ1RkSjRYVERwd0EwLThLOXM0ODV5VFZTV1hablB2Q3FKWFFCSFo4UG9EUEo4REhZUGhCcks?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHlkZkdGVW14X1ExaW1JbERLczJQVXJOZHdqV1FheTZLOEdMakpXWlBHU3Y3NFlrdGJ4a3UxN2piQ0sweTQ0VWhHWFFoUmhDbXJIRTZCTVJHVWZvNXE5M2VBX3lmczBzd2NGNTVScVA5REh2bXZveGxTTUZoSUhZTkJ0TE96SlU5THNRWExiRWUtaEk3SU5XWks4ZmpvbFR6SlJwNmg4RW9VMldLc2tpR2lzLVl0NmFzSThOSUR3VdIBvwFBVV95cUxPbHlkZkdGVW14X1ExaW1JbERLczJQVXJOZHdqV1FheTZLOEdMakpXWlBHU3Y3NFlrdGJ4a3UxN2piQ0sweTQ0VWhHWFFoUmhDbXJIRTZCTVJHVWZvNXE5M2VBX3lmczBzd2NGNTVScVA5REh2bXZveGxTTUZoSUhZTkJ0TE96SlU5THNRWExiRWUtaEk3SU5XWks4ZmpvbFR6SlJwNmg4RW9VMldLc2tpR2lzLVl0NmFzSThOSUR3VQ?oc=5"
       ]
     },
     {
       "title": "Apple’s First Foldable iPhone Hits India",
-      "score": 20.85,
+      "score": 20.6,
       "kinds": [
         "news"
       ],
@@ -133,28 +147,14 @@
       ]
     },
     {
-      "title": "iOS 27.1: Apple iPhone Duo Needs The Newest Update: Here’s How To Get It",
-      "score": 19.45,
+      "title": "KTR urges youth to embrace AI; calls for investor-friendly ecosystem to make Hyderabad global hub",
+      "score": 17.94,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnQm9femNyamRUcld4MWN3U05BUWZlenYtcnRSNnpRRmw5ejlxY2VYc0pCVzNKZ0Z1ak0xTW5vSlNpYUFHY2tKOXhJMERyZGpEYkJadzJXSy1BeGdDMEQ5OVFvUk9BTnVQemJib1FvQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXFVWVU5T1dORnk4MFRTZDVndWlzbTFCcnhkREpNQTg3OHpPeGxjRnp5WVltdlF0WGRRRkRPSWlyR2Q2VlVMQ2FXU1Z1R1B0QWtHR3BxVVFLZnhUNGNyTXRHRnkzbEh4REFJLW5WdG1QNzVZZ2lzRDl0cElLcG9zaHZtVkxKbkhzV0dCUnJjMV82RXFwa3kxY3RIblVHV1Z3R1FXWTh1NlJlMjZ4YUtLVHVEbnlJSkFzeW5UaXB3?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXFVWVU5T1dORnk4MFRTZDVndWlzbTFCcnhkREpNQTg3OHpPeGxjRnp5WVltdlF0WGRRRkRPSWlyR2Q2VlVMQ2FXU1Z1R1B0QWtHR3BxVVFLZnhUNGNyTXRHRnkzbEh4REFJLW5WdG1QNzVZZ2lzRDl0cElLcG9zaHZtVkxKbkhzV0dCUnJjMV82RXFwa3kxY3RIblVHV1Z3R1FXWTh1NlJlMjZ4YUtLVHVEbnlJSkFzeW5UaXB3?oc=5"
-      ]
-    },
-    {
-      "title": "Apple's iPhone Duo goes on sale in Mexico",
-      "score": 19.07,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PaHRwekEtekxEM2pSTGVTb05iVmhnUFEtaVlGNHMwVEd5bmRKamxZeUsxYk1SMkJXa0E1dndMbTlERnJ6RFZBZ1RkSjRYVERwd0EwLThLOXM0ODV5VFZTV1hablB2Q3FKWFFCSFo4UG9EUEo4REhZUGhCcks?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0N0R2JrNm9VQl9sRENHaEwtVVJZcUxRT3VxaEd1UFUyaC0wQUVWaTU2LWRtTkFSbXVkSTN2andubEU4SlZsVFZEYmIwRnF0S09wbVE1a1VDZktPbjhndWRzeVBqMmhfWnd2VjJEdnBhTjhTdXQyY0oyRzdCUDJFLXN2V2phdS1BdGZ6QzlzMDl0bWI4b1p3OXRBcGRuUDBzY3VlRWVBRENSOGc3RnlobHFQN2w?oc=5"
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZEw2dzlYSVVzZnVHek1kandZY1VJcExTeXN1eHZ5bkZwLTJnbmRGSE1GMmRZVDVEMWItcEZETHpDS0NnRFJkZi1ISG5pbXRlNEVuS1NBQmtBNi1BaXdKRE5VN2U5dUYzbmxiQnpVWUR5SjBCVlVrdVNDRHhWVHpkWUhTQnpNbmpFTlFuNnVlR0dTaXRGY09PQ3VxclAtQ2Y2ZzZTdXc4WkpaNjJ4dUEwQXR4QW02WGk5VDVFX2FlVUNhRXpBWFBMNkFkNGhsa1cwbFM1LXZYcW1Pei1TWXNweHlaS0JNZnVDNWk1NEdtTUJiQQ?oc=5"
       ]
     }
   ]
