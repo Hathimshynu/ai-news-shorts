@@ -1,163 +1,160 @@
 {
-  "job_id": "2026-10-23-evening-2200",
-  "chosen": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-  "reason": "It shows how OpenAI is scaling storage to serve over a billion ChatGPT users, revealing the massive infrastructure behind the AI service that millions in India rely on.",
+  "job_id": "2026-10-24-evening-1702",
+  "chosen": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12",
+  "reason": "NCERT introducing AI and computational thinking modules for grades 9-12 directly impacts millions of Indian students and parents, making it highly relevant and shareable.",
   "candidates": [
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "score": 21.12,
+      "title": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12",
+      "score": 19.99,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0o4bGR2emJQcUYxSWtJblZETVJGUlBjX3otNEpUZjJEUTdQYkxRaEdZWE9zZk1WejdRSzhTaXRzWjFCMDFDVGdyQWlIendhbjN2SzFjOFo4eEY5cUtBbjYwTUZWYnEzV3dGZUhLT3FEeTIwdktaRDFSRTczRHhsdEdhRUFrVjJtUTV3TXBMc0VOaWQ2UUNJc3NuOThhZnEyX3BYTEN5OUpVUXhjaXh3TlFoNDZGejRsWWJiX0hZTmdTTUZvT2d6a1FnVXgxNVJVbmdncWRWSFZwaFZO0gHqAUFVX3lxTFBrTGE4Rlc3Zkx6WFBiZ1JBSlFhMjFLM0ljelMwNE9jZ21TZk5majNDblRhd2lpRGlKU1BDRjhhSmpwbVJIX1NVaElKb3hOUFVxRjhFV01UNEVTQTJlLV9MbUE3RV9fdUN3VHhGVEx1UjM5R3pvYUs5X24wVXBSUktNakY4Qmc2eWYtcjNUdjRNRXpiQTBtbFFpOFlhZUp6TmlDYjNfYU9abDdHYmFVRUlyWWlmWjRGcHJpbTF5UDU4Y1RybDQ0cVhZNkR6YWl4SXYteUpqSVM1YWtJeUFnYlJjWnppT0Q0c05nZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmZNMWFJMDA5NXFpUWVYOXlEU0JPem00V2o1cDhvakpWYmdBeHg1MWRkR2J6UVdLVHFpc0ViYW5hRGdneENUSFFzQ1NYdVZMT3F6LU5VaEt3ZHBXTy1QbjU4azRTT2kyc29TNVJTVERqaTVyRnpJZnlJeUZ5eHhoajFXYnIxMU03YWFzTktQOFRoY2FBUGdWVzdYXzNRWkt3ZjVvbE1rLXFuWmFZa1FreklRMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDRON0FsenB0c2RvYWdZV1gxcGI1RmhMSnRQREpKTlYyU0Z5YWdJdlF6X2xYT0Rhc2NEanRhZDJoMnhCVTJrSW55dVptY2hrOUlGckQxM2pxaUZJX2g4X280MzhUblRKQjV4N3FMbTRGNk9pRnV6b3VndnlrMFNnbDg0dXprUW52QlY5Mk9GUGhUWUVWenloanpTdHZlN1A1QWJR0gGoAUFVX3lxTE5ZWDhuVUhnenFaMGVKSDdvcG5KNDBTSzk5NFRfVzlDTHpUNnZ4eE1uZzRWU1JRU2VudXBoUk1lREVNNzlobHVoTXg2bjdJWUJ3MEUzUFYtMUppekFFOWZkMXAtaG5PY28wY0hNcU5MaTBVSUhfT1BpVjl1VXMzcjhvVXF1a3dJdUNkT2xtdjdyWVNrblBtRE0zMkUzSXh0UzFGcm5mb1VMcQ?oc=5"
       ]
     },
     {
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "score": 27.57,
+      "title": "Securing our frontier model training environment",
+      "score": 20.77,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5",
-        "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
+        "https://openai.com/index/securing-our-frontier-model-training-environment"
       ]
     },
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "score": 24.17,
+      "title": "OpenAI to train advanced AI models without live internet access",
+      "score": 25.57,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5",
-        "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFZMXzBlN1NuVlRHc0RWTTdWdGxKNEVPX1FnOHRDQnQxcjZxMEhiaWdmaEZocUpudWZRTVdjUXRramlreUVKOTctSGNnbGJsUTNuR3c4NEZqQXV6Rk80WU1XTlFKem16RFBrMk40THprY09MS0g5aF8zRkNkLXZVNG5CWEMtR3BpaHV3cjFfUHg1aEl1?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQYk50dlpIYVZCQk1ZVDBVTU41bml6NUxERnk4RzNYWmpOb3hKUHVuSGZVNmF1ZkhtVVFsRWVjdnFxMzVNeHg1QXBHWDlsTkdDZFF5dHJNSmlCalo3Z3pJU2tzNlJQZnZBc1VzWDhYdWcwUlhaMUp1eU5IdUpmRlNibnVoZ1gwSWM3T0dxV3lwdG41SWRGd2dpd3lDSkdFdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUdNMFNkdW9LNFZHdDI1UTZJSC1YdDJHY1k4eHgwSWpIRUpDZUQ5N00xdFJvbmpGZEhPUm5vVlZtQnE5aW9FMlk4SGllaFduMWVnRW1fT1pDeGxsS3NMWWZTaTlvRWljUl9vYjRfMTJWUU5aRU41VFNQdm45RWhHZlBaR25MV1dWMVZ0WkN5M3BqelZjZGFRU3AxVzRUUTBIRnllMXB2VVR4Qi1sazhMTVhhakcyRXJfTXfSAb8BQVVfeXFMTXQxQzJMb3hMZ2dudUJYTUJxTlVNZ3FyVV9tNXFQNW95Nml0V2RkSHZDSUlLaTd6UWJpQzFjMUI3cVBueGVVMlo4ZFcyN25JY2JrakttdkE3UVp4Y3RibVNET1JqZzU1Z0NXVDhUckpBbXZfUmI2WlBLV29LWFFab1cwRXR0elJsVHRwMmpYRDRoU2l1eEQybnd6MmhCdHRPWUt1Nm0yUGhqV1djRkJZbWtIZnk5ck9iVWNBamVpNkE?oc=5"
+      ]
+    },
+    {
+      "title": "Commerce Ministry identifying AI-proof professions, sectors where India can take global lead: Goyal",
+      "score": 21.28,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWl9sa2liUXZ2UE1YNUtscjdHQWhoOUJsVHMwYlRNN2x0dWp2STEyN1FsSnBvU3BCcXlrS3ZCb3dWdlRzakI1WF9KQkptU19qcEVqeW8xbnI0U216MThpTlBLM3BaNXlKQTl0VWk2Mm51SG9PWG5CTWFKMFJ5Tm11NU1id2JudkhFMndhaloxRmRCWGdxd3B2MklLYUZ5X2ZPR2pJVldvZHdYNXRTT1JSZXkyTmxtMjJKRHcxQVJSbm84VVBmcTZxelFEU1V5RmhsaDEzNWw1dTV3YWp0clV6a1FxUFdRbnk2ZWxsaVhqelNUQk3SAfMBQVVfeXFMTVpfbGtpYlF2dlBNWDVLbHI3R0FoaDlCbFRzMGJUTTdsdHVqdkkxMjdRbEpwb1NwQnF5a0t2Qm93VnZUc2pCNVhfSkJKbVNfanBFanlvMW5yNFNtejE4aU5QSzNwWjV5SkE5dFVpNjJudUhvT1huQk1hSjBSeU5tdTVNYndibnZIRTJ3YWpaMUZkQlhncXdwdjJJS2FGeV9mT0dqSVZXb2R3WDV0U09SUmV5Mk5sbTIySkR3MUFSUm5vOFVQZnE2cXpRRFNVeUZobGgxMzVsNXU1d2FqdHJVemtRcVBXUW55NmVsbGlYanpTVEJN?oc=5",
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEoyVzBaU3RXd2pKX1FrT0ZhOU02ekhBaVdsdWstTC1zX1RqNS1hNTMtSGdLV3pnY21wMFgtb0M1SFhWWFVueXhuR1laYlVXanVwWEM3YXdkTGd6ODdTY0FnS1cxdmRqRjJFM29YRWJjcjg2aGYtVWJQbXhDM1EwcTN5MnRlZmtlMmw0NTFaNTk3UGlCN1l5VXhZaVlDaXZFNDVKZ0loUVJJQ0lnSmR5MDBWZ3d2Yy14Wjd2SVptV1haRWE1T09SVWJxTi1tU3hjRGVqc2VuQjlYS2VnSmlGUE1YbXpUaTZwakl6dtIB8wFBVV95cUxNWl9sa2liUXZ2UE1YNUtscjdHQWhoOUJsVHMwYlRNN2x0dWp2STEyN1FsSnBvU3BCcXlrS3ZCb3dWdlRzakI1WF9KQkptU19qcEVqeW8xbnI0U216MThpTlBLM3BaNXlKQTl0VWk2Mm51SG9PWG5CTWFKMFJ5Tm11NU1id2JudkhFMndhaloxRmRCWGdxd3B2MklLYUZ5X2ZPR2pJVldvZHdYNXRTT1JSZXkyTmxtMjJKRHcxQVJSbm84VVBmcTZxelFEU1V5RmhsaDEzNWw1dTV3YWp0clV6a1FxUFdRbnk2ZWxsaVhqelNUQk0?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcW5zSXZ1QTNWVXJUZkY2SUY4b2lWM0x4Sy12Nkl6YVc3aHN3Z21oVkhSWm0zSU1HQk9qSlV5SUdQOEh1MnZydmtWYnVlN0hoajVDRkxKSW1LWGhOT29WakRqdUNsdVB6S1RWZk5GMUdSQjRvWXh1MFd1cXM1YS1haEZPMng0TEtrUGwwNGhyM2lnalVrZ0lBS1FmeFp1V2JSVmZNNnpRRWR5TlA1TlhxUktXdnU1QjFCeUhRVTdXUzJLR204cE1LYUtLZnNLY21YWHFtaUo4ZkRtZ3lBZmg5QjF5Wm12RnlwSU9PdHRkT0J1czQ?oc=5"
       ]
     },
     {
       "title": "Build more responsive apps with the Decisions API",
-      "score": 21.78,
+      "score": 19.0,
       "kinds": [
         "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
         "https://openai.com/index/decisions-api",
         "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5"
       ]
     },
     {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "score": 20.94,
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "score": 19.0,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://huggingface.co/blog/allenai/litpivot"
+        "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYWs0QVF6WTJBcXgyLUdwRndIbUhWZjNjTXRsc0xLOE9LMkZXNXZVQnlPaTU1ZF9lYUxuV2g3cjFjV1ZlNWcxeUFIajR3MVZXb0E1S2FvWVJXb0lWSHY1STdwUENWVUpXNmVKc3pUVWE2NzJSQWh3?oc=5"
       ]
     },
     {
-      "title": "Enterprise installations for GitHub Apps generally available",
-      "score": 20.64,
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "score": 21.0,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available"
+        "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA?oc=5"
       ]
     },
     {
-      "title": "New 'Scentronic' technology can detect and transmit aromas remotely",
-      "score": 20.39,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1dHSzRQZGNFSmh5bF9USmswODJWdko0WmRXYllkWTNrWU85eWxTUVFHRjRtRlFYTF8wc2tOQ1lVS1cxalZWV29VMzI1bEpma211UzFHZFIxT1FSeG9YU25fck1LcGtIRFZSWXl4N0F0bGljQ3I3NWdKdElBSFdhM2U3UUlNTXl4bFNxd1RYZ1pxNnBxeDc3bEdIOHJheTZOUkkwQnBGbTladFhZYVVYazA2dmo?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5"
-      ]
-    },
-    {
-      "title": "OPPO India raises the bar for premium flagship smartphones with the All-New OPPO Find X10 Series",
-      "score": 20.56,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnZSclVUZWZqZ093NTU4a2FMeU9IOUdyT2hSV0tkekhGUzdiU2ZNNGp4Z1VJUG1ObXhQNUQydzhXcVg1dzdGRUd0NWtpLW52STh5VW1RR1YzM3JaNk9yRHl5SjRKMWQ0SDhqa2FEZ01TU0NmWlB2T3JLYU9TQkxpNGFvN0lsZ2hQeGctTmJSZEFlVWprNVRteTliV1pRVDFJazZySWs1c2ZQMHgyQjNtZGV1Nl9GbkZKcF9DRUFoLWhYOW5ldjJza3ZVUkhYS0s1TjJvNkhLNDRLV0hLcFZYbzZB?oc=5",
-        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX3FyVHdUOU5faTE2ZUljLTUtdVl2Wkp6Q3ppUUVNRG5UVHJxOFlyQktDempPbVFLS3JWTl9BWTlyUWpBeDFmTVVpbURwWWFZcURZYTFTcmdpNmJ3WW9WbndLQVpGVHVZNEFHcTljNG5xRmxiZ3QwNWtXQmZ3NWJxb2lyT1RkVGVBZXl4VklVeVM0b3FzcTFEcWowWW5rY2w2N05YRU5KcHU5MnBUWWhJS241UHVxUVRsZGtyWWlpNEk5MENEOVBmTks3N1QwVHBHblRMXzRFLTVuVUVsaU85MDFScmpLcXZObXNrVUtmeGsxeFY0UzlwMDJHSU1PMDZBTmljdy1jX2RMNDk2OHfSAY4CQVVfeXFMTV9xclR3VDlOX2kxNmVJYy01LXVZdlpKekN6aVFFTURuVFRycThZckJLQ3pqT21RS0tyVk5fQVk5clFqQXgxZk1VaW1EcFlhWXFEWWExU3JnaTZid1lvVm53S0FaRlR1WTRBR3E5YzRucUZsYmd0MDVrV0JmdzVicW9pck9UZFRlQWV5eFZJVXlTNG9xc3ExRHFqMFlua2NsNjdOWEVOSnB1OTJwVFloSUtuNVB1cVFUbGRrcllpaTRJOTBDRDlQZk5LNzdUMFRwR25UTF80RS01blVFbGlPOTAxUnJqS3F2Tm1za1VLZnhrMXhWNFM5cDAyR0lNTzA2QU5pY3ctY19kTDQ5Njh3?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnZSclVUZWZqZ093NTU4a2FMeU9IOUdyT2hSV0tkekhGUzdiU2ZNNGp4Z1VJUG1ObXhQNUQydzhXcVg1dzdGRUd0NWtpLW52STh5VW1RR1YzM3JaNk9yRHl5SjRKMWQ0SDhqa2FEZ01TU0NmWlB2T3JLYU9TQkxpNGFvN0lsZ2hQeGctTmJSZEFlVWprNVRteTliV1pRVDFJazZySWs1c2ZQMHgyQjNtZGV1Nl9GbkZKcF9DRUFoLWhYOW5ldjJza3ZVUkhYS0s1TjJvNkhLNDRLV0hLcFZYbzZB?oc=5"
-      ]
-    },
-    {
-      "title": "Apple’s Rs 3 lakh foldable iPhone sells out on Blinkit in 5 minutes",
-      "score": 23.73,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWC11X1NWWVBuc2MzdGo2LXA2UEJReWhZLW5vanZkTGtsN0MwbGNrY21weDU0R2dwRFhpTWFXOV9INVNGUUxWRHlpWEhlZ0xzRTBxS2VsQ1ZIaTc2NUpWY2RvZGZ6X0dtZ1J1R3N1cVlpSlJHVXRaRWtEekQ4V1lIcGxTblVsUXNxWnhyWmF2eTQzUEHSAZgBQVVfeXFMTW9xbnV0cy1rdndpSVI5c2JvM3JjUm02RGdacl9QMXNMMmZydUJUZU5IYVB1S0wxZ2s5bnFLMkgtYjVJU0RncV9IQXhGdmVubFJkTmhKMjZzd1dNamdCU01CV0RpanRMY2NPa3c2U1R3M0lFSm14bm1QM2JGcGd5QWpoN3pQZkVRUjVQTlFZRGdWM2xDc0p3OWo?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaN2w1TWdzdVNfNGFVeVZJdUNUa1ZlRTg0bXFUV3N5ZUJGQmNOQ3JmbjFuMFE1aWppSFhyMkxZMTVaZVBxSGFBOVJHVWtOQWlVMU90ZkxERDNaSEtsaWpnRFBSTF9ObFpqUkx0VzNuVVp2VGd5YzZVXzlIM282Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV3VPWVVTYm5DYVdpcWdVd3hSWTRvbjZidlZjd2hESGpFbFQyU3NmNmZyRjRDbXdtcjBpc3RoQ2g0Um5mSW1CU1V4R0FZdW9iOV9OdnpyR2EwclpaZGFleEROc2szSGtWVENyUmQ1eUtndXBraG1BTW9nRXA2LXFBeFRUSk1uR1o5ZWJGbTFyaHNwbUNTMU9nU1JId3hSVXQ4M1BKUnVjRQ?oc=5"
-      ]
-    },
-    {
-      "title": "Apple Launches Foldable iPhone in Japan",
-      "score": 27.31,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tbXRNTlotam9iX2VwaEtOM0oxX2hHckpOTDFBTDhBektTeTNZSmRtbjZpN1dzQnFWbVdmcFlaLVhQSDBpMkJBNi1NWXIyc2xaNUJPOUt4aFNpd2xH?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tbXRNTlotam9iX2VwaEtOM0oxX2hHckpOTDFBTDhBektTeTNZSmRtbjZpN1dzQnFWbVdmcFlaLVhQSDBpMkJBNi1NWXIyc2xaNUJPOUt4aFNpd2xH?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZUhUODZfZ1BkMkFLQkgyYy1udGFzdTNzRktNLVBneExUbzFIckxveUFEU3owUUZsOER6bW5FNVlZZVk0SnMwcFhMOEtIU29GLUVDR18zeFM4MFJlb29NMHdJT1hxV0FCaGhQZmkyeG9DR19uZkFDY0tmSjBEZnlvbEI4LWE1a2lHQWM2d0lIUnlxT2h5clpjcHlmQVhKT1N6ZTVRUFFUeEU3Mm1iMk4wMnRYMmpBLWxHR29od3BiNmphQXB0UWZF?oc=5"
-      ]
-    },
-    {
-      "title": "SpaDex satellites have re-entered Earth's atmosphere: ISRO",
+      "title": "ISRO NVS-03 Launch Oct. 30 to Revive NavIC [2026]",
       "score": 19.73,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDFvcXFTc1B3ZEJlUUtZNm9KQnR4eUVLWFJnOW9PN1JiX2xLejhTNXdkT2ZBcExYc0NFRFQzbk5tRGxxVHRiaEtZc3loSVNxS1k5MkM0RHc1amlwMDVsZWI3Z0YzUXd3NVBlVUh5b2sxT0IxUFQtMHlxM1hQZ3pSRDYzUDlFVlA0bGhxdkJsRWp4OWhrb3NIb0Vzc2I5QkdpdzhMeDhJZkc2bGtwNzB5SVFhTTlFQkNHcWhZd0VKSdIBvwFBVV95cUxNNDFvcXFTc1B3ZEJlUUtZNm9KQnR4eUVLWFJnOW9PN1JiX2xLejhTNXdkT2ZBcExYc0NFRFQzbk5tRGxxVHRiaEtZc3loSVNxS1k5MkM0RHc1amlwMDVsZWI3Z0YzUXd3NVBlVUh5b2sxT0IxUFQtMHlxM1hQZ3pSRDYzUDlFVlA0bGhxdkJsRWp4OWhrb3NIb0Vzc2I5QkdpdzhMeDhJZkc2bGtwNzB5SVFhTTlFQkNHcWhZd0VKSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3B3RlkxbUhPRUdKcVY5R2tXbjNjVnhmT25zclhFVmFSX2lOUzNieXNfZHN3b19rUU01dzIyVDh4bDFWYk4zN3JkSkVQMmNMaklMcHF0emM1TmRWbzFfblcyMjQtS2xfbGFFQTNERU5Md3dHZkZCUUF5U3F6SExsTDRiUENSNG1fc21NVVc2NS12NzU0MHAxYkpPS0dXdVhETGdFM0lpb2E2N25MTl9GTHg2MW4?oc=5"
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMW1HdmRYLWc1RVB5TjZSX3RBSmZpaC0xSzg0TUQzUUQ1ajJZRk8wU1ZzSEtkTFh4WnlJSWhNd1NPN3FFTVJFQ0U2VlRIa2xsZGpHSno1UWU3Q2FEcmE2ZzIwbEdVd0pRNi14MlNiWXhwaFFqS1V1Z293cE1YWEU?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnNfdlpZenVVeTB6R3ZYdnRWaGYwMnowUWJoX013ajF0TVF3eFRQaDg5RC1LNzdPNEFnNXNJaEQ5RjhHdEM0dkppeGxRQlllRm5HVl9pUlZUYzNmQUNydldILU9HMVBySjNmQ3ExTTZWOWdwcFJ4cEVGczV6U3Zwa0VDb3lCYzlZenZUVmhWUlNORGhFRTNQVUdQTUZwVS1jc0pfOTJmUUU4cmE3ZzJVbXAybDFvT1drZENwSlhHX3BaZVFjbjhXT0ZoZUlqV1lweHExMEVTZFNCT0E2WXRHb2JOTdIB8AFBVV95cUxNWk5YdWpMN0EyM2dSSHFmOF9zQzZpejlTRnNiYktMd3EzYUtPNEczdlE3dzdna1huMHRaejFmR2hyUnFNdUJ0ZTduSFgzS0lNVUxPVGx2Q2lHaWxNT19qbE1UWk1kODE5MXN4YXk3WDhOZDIxZzVLbElFRXl0WEVsUjJ1dmZESHJHRUhRUjU0d0k4VGVTd3p1VzRQZG5WNVRyMzZxeS1FQVdlRGVrZTkxRE5oX0lyc0xPS3ozWUUxNkhUeERrQkVJSHdpMVZwX05GeDFVM3hUbl9mOXlSZFZtQXZURVJRcFpEQmdsaUZ3Mkk?oc=5"
       ]
     },
     {
-      "title": "'Threat Is Very Real To India': Microsoft AI Expert Nicholas Butts At NDTV World Summit",
-      "score": 19.51,
+      "title": "SpaDex satellites have re-entered Earth's atmosphere: ISRO",
+      "score": 19.7,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHBFajZwU1gyQlZ3OTJpTTBiQWNKN2QwbVV3SHMxQ0RtT3ctWm90dC1SNXI1YU1WNEdMSldhMHpMblNqU3YyVFJfaUtXUFZCMjhCeDBlUF9sOHU3eUhaTVlzQTNVbHJReEliOE9rdTRPMzlnMDd6R3c5QVlReHdpTHQ5WGRRaEVGNmhkR1BvaHZHZmZTNVBERjlxUnUwT1hUUXZWeTNJMkNQanIzbUd3WGRxOV8zQnpRVFhjNkxBUU5xQTjSAcsBQVVfeXFMTW9OdlZjU1cxTGdhR0ZraUtBU2ViN0tCOVUwVThtakJyaFhOSEN1RHdwWkNCZXJKcEFnVGJPaXliYlFtQVlLbDRBMndwS1NkT3NIMms1Vlk0bktMUDNMdy0yV0FGdzdDc1NKNmVjZUhVR2VtLXVvdVFHc1NUYkhuNHFQSUNFdnU0SlZzbkJ4N3Y3N0lXR1hIc3lCOE1UcFNKa2NEXzVZNVpURVdoQmpWc3g3QUxldkFuM3UzZ29vYzI4RkVwUi1jeW5HckU?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEctNGhldWtfekZ3eXBCamNmdjNRZFd6cENSYTJhNHBzLXcwcFFvNG0wY2JRZlJlX2h1WXdnRDJRNkw5YmJMeERYbUwtLUJYNFcxSnExX2ZaT21Sb1hCdk5YaHFZSkZKeGNtZ2xVNXhWU05iTnpJcEZaMDZlV2xlRWRVY0xEU3BzeFF3dU5mbmxIVlNiZ0FGLS1DSUFBNUVxTGkxQWpwaEFzalduVllrUHVHUDFEeERndUlmWFFiOGVUWmpWSm1vek9aSEdxRkRTc1FnVkp4X3JmS05rcVdHUHE1TkRaUdIBywFBVV95cUxNb052VmNTVzFMZ2FHRmtpS0FTZWI3S0I5VTBVOG1qQnJoWE5IQ3VEd3BaQ0JlckpwQWdUYk9peWJiUW1BWUtsNEEyd3BLU2RPc0gyazVWWTRuS0xQM0x3LTJXQUZ3N0NzU0o2ZWNlSFVHZW0tdW91UUdzU1RiSG40cVBJQ0V2dTRKVnNuQng3djc3SVdHWEhzeUI4TVRwU0prY0RfNVk1WlRFV2hCalZzeDdBTGV2QW4zdTNnb29jMjhGRXBSLWN5bkdyRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbzdjWnBfcjhaN045b0JfYmlrVV9UX0NzNTV4MllXOUpSZnV2QkxRZmFxcnE1blRja1BfMThSR2wzaWstdW9ORkRLNHZsQWZfbUYwbTdiUnE5bUJFbzJSSnBqOUNJQnBhcGViaU9ZNWw0MWVHZ1YyNW01eE9WODFmZDRmUEpjNmt3aTg3Q0R5a0lvRFFHa2ZzdHZjVnZ4el9IdU92YlhxNTBoMFFUcVYySFpqMnhKc3BYQ1hnMERaTWRMT29pbFdKNUZoLW84bkJ1bEItZlIwRzlSN1ZHdHFwYmNQb2tlbmFvNWfSAfIBQVVfeXFMTm1CSGZiVjBHOEV0Ul83M2VaUDNVTVZTekZDZ2JIN1JiRGZ1d0RMVy1TVC12Z0YzRUFHOXVqeWFRbGpPSzRDaUFYRjUyRlBZQ1VhMVpFRmNMbzdSOThpRUs4MjY1UFRpTDRnQTVaSGVLVmJkTXZXVy0zaDl4ZHRodzhYLXFwZnFtQ3h3R0Rta1picjdGTXdnOGg0UUJnRWJlNWREeEVoU2pvNXV0RXEyWFM2S1dQblFsTUlzdHlkcm9yaTQ3dU9HNWo5bDlhZTRqU1BLMFVPWUxpSWZ3dWxLMTdMbHhpTEp4cUZfckU1Z3k4aGc?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnB3T283QlA2M2NfbHk2V0oya3NLWUxOdXR0N0NYUXVCUGJzMUU3Y3F0ZURsRk5SZ2VnSGhOOGdBeEppcHNrMm5pak1KVm84YVdLbTJRSlJhQjRVdGs5dWtJbjREek1uRWtXdl94aHA4blQyWjZSc3p0RVhsckJTWGtwQVpnMldOWXJrUUJ3cTlNVTAtZGo2NGZHbWhEeGpxZTlFU1BRbHkyMVFiZ0l1am9RNXhuVmd6M0HSAb8BQVVfeXFMTTQxb3FxU3NQd2RCZVFLWTZvSkJ0eHlFS1hSZzlvTzdSYl9sS3o4UzV3ZE9mQXBMWHNDRURUM25ObURscVR0YmhLWXN5aElTcUtZOTJDNER3NWppcDA1bGViN2dGM1F3dzVQZVVIeW9rMU9CMVBULTB5cTNYUGd6UkQ2M1A5RVZQNGxocXZCbEVqeDloa29zSG9Fc3NiOUJHaXc4THg4SWZHNmxrcDcweUlRYU05RUJDR3FoWXdFSkk?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3lOaDRBZDc5WVNzcTY1ZFgxRFozY3NHVGJsNFd2aVJkWi1kaV9NS0pGWElJekhSSENpYURQUzRiM2VJNWl1bjNoZmg0cjJjeFZIanpqbE9fVzhEcWRLTjdzRG9yMnFZM05xSVhMc0FnenpaN0tZNjRnSnFvWTl5RHd1aG50QkFDbUdEY1hnYmpQbnFJRzdDOHZVVGIycFlLenFFbXVWMG9Wd3czaWVPQnRYLWRBMUZIMFNQRTVCallFSUdxeGlIVDlMVGZjdnQ4ZEppZNIB2gFBVV95cUxNNnhsWUZ1OGQ3ZWlCdWw5YVR2a1ZKNHhOUXN5ZFBTNDFITlhfQTMya1dSeEk4VFhudDhXOW9IVHZfd1JCRlQ4LWdyM0dnajhmRHdzcDRIY3g4elhxeXlZVzZzVDdTZ010UERfYnB1emVzRmFIV0VtY1N3YzY1V1ltT2c1X21qaTlTTWxod1VONWlDd0ZCZUp3U0d2bWtxaS1fQ00yVEhOTHlRQk50OWdYM0EzM2RkeDNVYV9lZjlrbm1nXzhDMlZHTGpkc3d1SFdncmJSRG55SVhCZw?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWNNdVhhTm42dXNQU2NBZlpNU3F4Ry1NbmV5QldjNzZvc3lnNGozVHcyN2RLTWVxNS1XOEZJNl85MGFKMHlNenVlWVo2RHpwOEFFNjNBYnYwak0xX0NQSkpKOW5jNlRCMy1KeGEwVUNETGxZQjRBTGpBeXMyRGFCaEhwcUIyU2ZQQmpxUndWdDhBNTlIV2ZiRF9RLTRlTTA?oc=5"
+      ]
+    },
+    {
+      "title": "Apple’s First Foldable iPhone Hits India",
+      "score": 20.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaN2w1TWdzdVNfNGFVeVZJdUNUa1ZlRTg0bXFUV3N5ZUJGQmNOQ3JmbjFuMFE1aWppSFhyMkxZMTVaZVBxSGFBOVJHVWtOQWlVMU90ZkxERDNaSEtsaWpnRFBSTF9ObFpqUkx0VzNuVVp2VGd5YzZVXzlIM282Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUVPSUFMeEo0eDM3ckRna2ZqOVFMd0plamoyU0hkcU5HNWVmM0FTN2JCd2pHMjItS0dyV0pMeGhTT0syRVpKSXpzdWlYcWx5TklPUGVFZEhGWUxFQkRSa3RrSDlfYmhZVTV4MUczMUFqQkRaSWFYRFU1NVNQT2JHcUQ4MUFySk9oeUNfOUlnNGNrdkhCc254ek02T3hnaURPc3hoUDVHdkRibW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXFoS2ZwaDAxM1ozSjNWTjZQRWt6SHMyc2gzYmRqUS1xb1Y0TXQ0a0J4QS1sSTNfT1p1V1hSVHl2MUtkMnMzeEk5ZzdYcGtKN0hjMGFHX2lOYUN4R0t5TUtVRHJJLUk5MXNwazJGbE1RVldWT042MlJfUDI0VHplRWxEUkVxYnUydVIwOGdnb1N6NjJjNzFVLVMybi1BV2JObTQ1QldsdXR4RUXSAasBQVVfeXFMT1lxaEtmcGgwMTNaM0ozVk42UEVrekhzMnNoM2JkalEtcW9WNE10NGtCeEEtbEkzX09adVdYUlR5djFLZDJzM3hJOWc3WHBrSjdIYzBhR19pTmFDeEdLeU1LVURySS1JOTFzcGsyRmxNUVZXVk9ONjJSX1AyNFR6ZUVsRFJFcWJ1MnVSMDhnZ29TejYyYzcxVS1TMm4tQVdiTm00NUJXbHV0eEVF?oc=5"
+      ]
+    },
+    {
+      "title": "iOS 27.1: Apple iPhone Duo Needs The Newest Update: Here’s How To Get It",
+      "score": 19.45,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnQm9femNyamRUcld4MWN3U05BUWZlenYtcnRSNnpRRmw5ejlxY2VYc0pCVzNKZ0Z1ak0xTW5vSlNpYUFHY2tKOXhJMERyZGpEYkJadzJXSy1BeGdDMEQ5OVFvUk9BTnVQemJib1FvQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXFVWVU5T1dORnk4MFRTZDVndWlzbTFCcnhkREpNQTg3OHpPeGxjRnp5WVltdlF0WGRRRkRPSWlyR2Q2VlVMQ2FXU1Z1R1B0QWtHR3BxVVFLZnhUNGNyTXRHRnkzbEh4REFJLW5WdG1QNzVZZ2lzRDl0cElLcG9zaHZtVkxKbkhzV0dCUnJjMV82RXFwa3kxY3RIblVHV1Z3R1FXWTh1NlJlMjZ4YUtLVHVEbnlJSkFzeW5UaXB3?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXFVWVU5T1dORnk4MFRTZDVndWlzbTFCcnhkREpNQTg3OHpPeGxjRnp5WVltdlF0WGRRRkRPSWlyR2Q2VlVMQ2FXU1Z1R1B0QWtHR3BxVVFLZnhUNGNyTXRHRnkzbEh4REFJLW5WdG1QNzVZZ2lzRDl0cElLcG9zaHZtVkxKbkhzV0dCUnJjMV82RXFwa3kxY3RIblVHV1Z3R1FXWTh1NlJlMjZ4YUtLVHVEbnlJSkFzeW5UaXB3?oc=5"
+      ]
+    },
+    {
+      "title": "Apple's iPhone Duo goes on sale in Mexico",
+      "score": 19.07,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PaHRwekEtekxEM2pSTGVTb05iVmhnUFEtaVlGNHMwVEd5bmRKamxZeUsxYk1SMkJXa0E1dndMbTlERnJ6RFZBZ1RkSjRYVERwd0EwLThLOXM0ODV5VFZTV1hablB2Q3FKWFFCSFo4UG9EUEo4REhZUGhCcks?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0N0R2JrNm9VQl9sRENHaEwtVVJZcUxRT3VxaEd1UFUyaC0wQUVWaTU2LWRtTkFSbXVkSTN2andubEU4SlZsVFZEYmIwRnF0S09wbVE1a1VDZktPbjhndWRzeVBqMmhfWnd2VjJEdnBhTjhTdXQyY0oyRzdCUDJFLXN2V2phdS1BdGZ6QzlzMDl0bWI4b1p3OXRBcGRuUDBzY3VlRWVBRENSOGc3RnlobHFQN2w?oc=5"
       ]
     }
   ]
