@@ -1179,8 +1179,8 @@
     },
     "late": true,
     "approved_at": "2026-10-25T14:21:41.761703+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-25T14:23:16.945210+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-25T14:33:19.423022+00:00",
     "ids": {
       "youtube": "vgORYSELacY",
       "facebook": "1922416402500849"
@@ -1192,8 +1192,7 @@
       "hook": "You can now turn Teams messages into GitHub code!",
       "seconds": 47.1,
       "primary_keyword": "GitHub Copilot in Teams",
-      "qa_passed": true,
-      "posted_at": "2026-10-25T14:24:50.144615+00:00"
+      "qa_passed": true
     }
   },
   "2026-10-25-evening-1801": {
