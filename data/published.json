@@ -1204,8 +1204,8 @@
     },
     "late": true,
     "approved_at": "2026-10-25T14:21:41.760168+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-25T14:21:43.109574+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-25T14:31:48.164488+00:00",
     "ids": {
       "youtube": "fWKaWYfooRg",
       "facebook": "1167476422470237"
@@ -1217,8 +1217,7 @@
       "hook": "Your phone gets hot using CarPlay?",
       "seconds": 39.9,
       "primary_keyword": "Apple CarPlay phone heating",
-      "qa_passed": false,
-      "posted_at": "2026-10-25T14:23:14.123670+00:00"
+      "qa_passed": false
     }
   }
 }
