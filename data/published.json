@@ -1196,18 +1196,20 @@
     }
   },
   "2026-10-25-evening-1801": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/fWKaWYfooRg",
-      "facebook": "https://www.facebook.com/reel/1167476422470237"
+      "facebook": "https://www.facebook.com/reel/1167476422470237",
+      "instagram": "https://www.instagram.com/reel/De68m4OCkW3/"
     },
     "late": true,
     "approved_at": "2026-10-25T14:21:41.760168+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-25T14:31:48.164488+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-25T14:41:57.885215+00:00",
     "ids": {
       "youtube": "fWKaWYfooRg",
-      "facebook": "1167476422470237"
+      "facebook": "1167476422470237",
+      "instagram": "18109429526223691"
     },
     "info": {
       "title": "Apple CarPlay Phone Heating: What You Need To Know #Shorts",
@@ -1216,7 +1218,8 @@
       "hook": "Your phone gets hot using CarPlay?",
       "seconds": 39.9,
       "primary_keyword": "Apple CarPlay phone heating",
-      "qa_passed": false
+      "qa_passed": false,
+      "posted_at": "2026-10-25T14:42:44.101558+00:00"
     }
   }
 }
