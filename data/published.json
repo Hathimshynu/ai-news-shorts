@@ -1147,7 +1147,7 @@
     }
   },
   "2026-10-24-evening-2142": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/DXoDq4cU2aU",
       "facebook": "https://www.facebook.com/reel/1617830913214805"
@@ -1155,8 +1155,8 @@
     "late_offer": true,
     "late": true,
     "approved_at": "2026-10-25T14:20:04.665707+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-25T14:30:06.861102+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-25T14:40:14.541108+00:00",
     "ids": {
       "youtube": "DXoDq4cU2aU",
       "facebook": "1617830913214805"
