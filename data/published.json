@@ -1172,15 +1172,15 @@
     }
   },
   "2026-10-25-evening-1701": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/vgORYSELacY",
       "facebook": "https://www.facebook.com/reel/1922416402500849"
     },
     "late": true,
     "approved_at": "2026-10-25T14:21:41.761703+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-25T14:33:19.423022+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-25T14:43:28.838725+00:00",
     "ids": {
       "youtube": "vgORYSELacY",
       "facebook": "1922416402500849"
