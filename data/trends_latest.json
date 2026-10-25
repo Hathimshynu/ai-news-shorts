@@ -1,64 +1,39 @@
 {
-  "job_id": "2026-10-25-evening-1701",
-  "chosen": "Turn notifications into code with GitHub Copilot in Teams",
-  "reason": "GitHub Copilot's new integration with Microsoft Teams allows developers to seamlessly transform team messages and notifications into actionable code, introducing a valuable AI workflow.",
+  "job_id": "2026-10-25-evening-1801",
+  "chosen": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+  "reason": "It offers practical, actionable solutions to a common everyday frustration faced by smartphone users, making it highly useful, saveable, and shareable.",
   "candidates": [
     {
-      "title": "Turn notifications into code with GitHub Copilot in Teams",
-      "score": 25.53,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHktd3dId3RnNUhGbzdiM2dXaWVEQ3VKUzVXeVppRmkxLXBPVU9BdjNuRkJVWFR4a1ZPeWN3a3pXcnYwcDJ0TFdqZHVydTlRc3NDbHJhakxSWjJKSTNLRlAwVEFpUEJ5VGcyMHhsVmhhYW1SVWExZjRXQzl6YnFSVEtQOEY2MUF1OENSdEdNbzcyRklHeW52bWEzUkIxdE9NTWhzeFdDN1RlQlnSAbgBQVVfeXFMUDlTLXVrd2tPbWRuZlNQTm45SVd1YXQzd2VYM2EtZGxiVWJ5aXVoTEl1THBQLVNQTUVNMkJScEphRTVXTVR0OFdMb3VHbGVzT3dtWDNVMnJKOE9BRm1YN0xOZW9sUjBEM1hXR3JheTVuODZheXBNZVREdGh0LU5sLUZLQVlWOEIzN1ZyZkNZOThYYk51WXRFWDRvZXBpQjZwT0h2Q0dBcjFJaVBwWmFVd3FvaWJJR2hSeg?oc=5",
-        "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams"
-      ]
-    },
-    {
-      "title": "ISRO to have four launch pads by 2029, says Narayanan",
-      "score": 31.87,
+      "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+      "score": 19.43,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDEwMml5MDc5cDllWmVfSTQ0MnFiN3YyWjdyTUticGltR2FSRTUtbVdiVmNLSFVZQmpLU2l2SjhnWWQwTWVyeXpCTV9KYWQ0QjlwWWFzd0kyWWRNOW1pUk9TbVoySHBxeEktaTdvUy1UellUVTRQLTEwdHI5N3lCY2ViVHlrcnBlWVkxNkYzTkJSV2IxbTlocXk1Y9IBogFBVV95cUxNQjhoMjFNWEhEV1p1eFIyQmVSbk9WbmtJenhTN1pXdVhKRkxKdjM1Zkh6S2RLanlWVGtnYUN1X05WLXU4bGQwS2dyTXFjVFJzVEJZd21hOFdybWxDcHZ3WkJGZ2dFNC1XQkh1ZnRaT2hwLVJVZGRTQm11Q0lRLXJkcFJOZ0poYkxVUThtNVAzaExkOVh1ZUtQVXdjUjRla0JFREE?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YZ2xGQW95ZU12SVhPUWpZNzRTNl95alhtR0lqaTNXazVuQWQzTDM2cmROVHNIemdFZHRVVEZfTmpVWUpHRXVrOEI5WTZVaWVIdGpmNk13R2xaMGRKX3JNVU5aOUdHRGZyLW11aDhKaEF5MUV5V2VJ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzd1FPUWJQYXplU2dGME9jTVVDZzhFdDczTDNJVjdPanEzcGpCcmVGWmNqXzVpbTBlS0hxOGpPX05MOFJCbFhOU3BnYWp0a01pXzZ2SWRTQldzRGtvM29oOGN3NEl1LWhKaW9BekFFTnROTmNZYl81WGlRWQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE1GUVR4dVprdUl2akVKWXlyZWl2a29hZ2pvdmZ2d0NlOC1XWEtob0pKcl9GSENLZnByc1FJQVFZYUgwckZ3amlkblZINDNERXlZTGlFSkxEV1NBQWlIeUtLMlFDdW5xRTVWZVFXajFYWTNsLTdVRERacVJqa3lGU0NrM01tb3dYaGRBNEdTZGpVVk5EX29JaHNCMkhuc2h3YzlzOElBX3o?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE1GUVR4dVprdUl2akVKWXlyZWl2a29hZ2pvdmZ2d0NlOC1XWEtob0pKcl9GSENLZnByc1FJQVFZYUgwckZ3amlkblZINDNERXlZTGlFSkxEV1NBQWlIeUtLMlFDdW5xRTVWZVFXajFYWTNsLTdVRERacVJqa3lGU0NrM01tb3dYaGRBNEdTZGpVVk5EX29JaHNCMkhuc2h3YzlzOElBX3o?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE1GUVR4dVprdUl2akVKWXlyZWl2a29hZ2pvdmZ2d0NlOC1XWEtob0pKcl9GSENLZnByc1FJQVFZYUgwckZ3amlkblZINDNERXlZTGlFSkxEV1NBQWlIeUtLMlFDdW5xRTVWZVFXajFYWTNsLTdVRERacVJqa3lGU0NrM01tb3dYaGRBNEdTZGpVVk5EX29JaHNCMkhuc2h3YzlzOElBX3o?oc=5"
       ]
     },
     {
-      "title": "Researchers Fix Quantum-Code Failures With Improved Decoders",
-      "score": 19.84,
+      "title": "Meta’s Pricier Camera-Free Ray-Bans Won’t Make Sense to Techies",
+      "score": 19.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnRQZlZXMjNLczJkaU44ZzZCb1BoT0RyZHlfWjlTQy1xZVNMYW1haTg3TEU2SVlwSG9USlY3aFl4QkVBZVVyRDhvSUE1M0g2VzF0WDNUbmtnaFU2NEw4N1dKc2pEUlEzYXBtVUt5LUx3bllHb2NHY1ZTU3ZpQ01Za3MzSlRhUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnRQZlZXMjNLczJkaU44ZzZCb1BoT0RyZHlfWjlTQy1xZVNMYW1haTg3TEU2SVlwSG9USlY3aFl4QkVBZVVyRDhvSUE1M0g2VzF0WDNUbmtnaFU2NEw4N1dKc2pEUlEzYXBtVUt5LUx3bllHb2NHY1ZTU3ZpQ01Za3MzSlRhUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnRQZlZXMjNLczJkaU44ZzZCb1BoT0RyZHlfWjlTQy1xZVNMYW1haTg3TEU2SVlwSG9USlY3aFl4QkVBZVVyRDhvSUE1M0g2VzF0WDNUbmtnaFU2NEw4N1dKc2pEUlEzYXBtVUt5LUx3bllHb2NHY1ZTU3ZpQ01Za3MzSlRhUQ?oc=5"
-      ]
-    },
-    {
-      "title": "Prime Minister Modi to inaugurate RBI’s Data Centre and Cybersecurity Training Institute in Odisha today",
-      "score": 26.99,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZzZYdmVsX3dFSG5XZmVRXzcwVzBXUnBVWWx5WUZqMUFWYXFRNVNQLWxoVXRFLVM3Q1g2Ry10UUxBVzdEeWZXOUVSbURHdjhTTXUxMmU3TmNkelc1VTNJWXRsbVlwcXJFZWNBQTRObjJOa3FqOFFwYVJRRFMtdXR1TmZ6RVVzckp6T3pGRkpOcWJPeE4xdk1jMEU2a1VtekdOQ3V6UzhPX0pZWnVWbHhhUUFlVG1MMkNCLVV1NVRiZ1h3VzBXLXpGWg?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjRxcktzRjFnamU1ZGQ1TzBYaEhNWkFGWDVXR1RGaURablVzdmNLUHFWTFA3Z1RyVGIzZmZlSUZ2RGRGMnU5S042c0FfRV9HWG1OTkhRRDJyWGM1VjE1X0NzMjZRMGQ0LVF3QllSVnNMTTFkMzlFSVdITmh4cXh5ZGNtUFRhYjNUU1FOMWhxejQxYlNhQ2l5RTNCM3lpZmZUUnpHOUxGc01YempFaGRUSW01RHE0UG1zeXNaWk84SnVNM1pXN0VIZ9IB1gFBVV95cUxQWFZraVZTWFJhQ1I3aG5IOTdRZU9oNy1XOHJlc21ueXFtRWVCQlZjeC1hVS1Lb3ZpZ3pkaUZHa085M3V4T3R2OGlfcXRpREp0UnF0Uk5hY29ya0dBdjdIMzlfLVdqQjJoc2JDN2ptd0VEZmQycXBqcDYwWkVkS0RJbGxFUWtVemNLSXlVbEJnNU81SElqNDM2bFNBME9fMW5XUUZBanl0Y29zdE10SEVRR1NHaXp5NDdxWURId3pVbzI2VjhPZmotb0RGU0FWQjh3WHFxOW5n?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEg5NWJsTmFKLVBuVEp4VGVFQXo0UElEMGdoWUtraDZJMVZ3eEl6c1FfcndoU2NDZ05LRDF1a0ZtVzIwVFNPdFZDellENllTRVE2RFdmaFNqRVk0ME5YYlROaGwyRGZwTFVwMEFadXhtZU5jUG1tMnVXS1pIaHpYZnZhemRzZWRKRFlTZDJTTWNZNVY2QUdVcGtTRXJKSmpNRS1NaTJEVWJ3aTg3QmZSdkd6Yi00djZWbTRQYkM5VzIxWGNlMFVz0gHMAUFVX3lxTFB4N0NEZ2hhSE81RGluWFJrV1N4andlOTRRMzUwTGVJeW9aQmRKcnU0ejc5SkRMcmhkbXU3UmUxRHBZOC1GSVQ2N3Q0VXp6OUREMUdUQkpoNkhnOC00cDFiX1lmRmRpN3JKZXlrN1h3M2pNbkt3aGs0c0xvREdUcHBfa2g4MUNYMUhxMzQ5RExCdU5sVi1TeXRENGVLY3ltMjhWbWFLdVUxdmhmVURTNVlOZmp5T204Nzh2Tm1iSWhVbjU3T1BlQ19BVk1OZQ?oc=5"
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzhaai1Ldl9hQS1Wc19WejdmMjVLRkpBMkNNWnhrODdNVjlOWXdaVjZFZUUtSWNOYkFGNk0tYVZ6Y2RWQnBLQlFPd05jSUpqdWV3bGhnOVBscTFiSGtiZkRUY0RtRGkzanBNVHcxMkNXYmVqaVE0bktaMHZiMDlUSTdmekI2SGV6S2FNMDhMTHRJN3RIU0pJSEs2Mld3VllEb0syUWQ2OXgxUzBRZDdVQ3dTMXlUNXVkRTJXZVd0ejRpN05n?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzhaai1Ldl9hQS1Wc19WejdmMjVLRkpBMkNNWnhrODdNVjlOWXdaVjZFZUUtSWNOYkFGNk0tYVZ6Y2RWQnBLQlFPd05jSUpqdWV3bGhnOVBscTFiSGtiZkRUY0RtRGkzanBNVHcxMkNXYmVqaVE0bktaMHZiMDlUSTdmekI2SGV6S2FNMDhMTHRJN3RIU0pJSEs2Mld3VllEb0syUWQ2OXgxUzBRZDdVQ3dTMXlUNXVkRTJXZVd0ejRpN05n?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzhaai1Ldl9hQS1Wc19WejdmMjVLRkpBMkNNWnhrODdNVjlOWXdaVjZFZUUtSWNOYkFGNk0tYVZ6Y2RWQnBLQlFPd05jSUpqdWV3bGhnOVBscTFiSGtiZkRUY0RtRGkzanBNVHcxMkNXYmVqaVE0bktaMHZiMDlUSTdmekI2SGV6S2FNMDhMTHRJN3RIU0pJSEs2Mld3VllEb0syUWQ2OXgxUzBRZDdVQ3dTMXlUNXVkRTJXZVd0ejRpN05n?oc=5"
       ]
     },
     {
       "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
-      "score": 19.87,
+      "score": 21.62,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -69,60 +44,62 @@
       ]
     },
     {
-      "title": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max? - GSMArena.com news",
-      "score": 20.62,
+      "title": "PM Modi Inaugurates RBI Data Centre and Cybersecurity Training Institute in Odisha",
+      "score": 31.99,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGJPZTRHclc5Z3lULXkzMDRNdTlDY2FrVzFEWmI3eE1qdVFJTktQUUw3TUZZS1I4TDdPRUJJSlczS0l3TEhCMnFvWlFrQjJVeUpZMVE1RGIxb3VQN0hEZXExVHJjc0UyeFNEU2JxbnBXU2ZJYlREOWRvdzlZRWx0SG9OTV9kQjBQaG1ZdlNHSmhmVjR5aldYOFduRWxULWFVN2ZSZk9vbHhUN1I4RDc2T0I3dWtreU1ya0tHM9IBuAFBVV95cUxPYU44blRBOWtQZFVDUXN3b1BCZ3lWQkI3dGU1OGFLZndkYWNjVm1nN2Ffd1FJcUczNnhTWDFTalVoc3RvMFlYRnJHeXdCMWJDMWRIaExlVTEtdDRYak1IX2N5Unh6Mnl0ak1WZUJQX0E0OGhmOVhpdlJLdDhrQ0RfYWZPdExCYXpDeDNVbmswbnoxZGl6UFozVk9VNWdqdVZjU2JBZTVoTUFHSnd0VHNHaTl0ZF9Vb1VN?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGJPZTRHclc5Z3lULXkzMDRNdTlDY2FrVzFEWmI3eE1qdVFJTktQUUw3TUZZS1I4TDdPRUJJSlczS0l3TEhCMnFvWlFrQjJVeUpZMVE1RGIxb3VQN0hEZXExVHJjc0UyeFNEU2JxbnBXU2ZJYlREOWRvdzlZRWx0SG9OTV9kQjBQaG1ZdlNHSmhmVjR5aldYOFduRWxULWFVN2ZSZk9vbHhUN1I4RDc2T0I3dWtreU1ya0tHM9IBuAFBVV95cUxPYU44blRBOWtQZFVDUXN3b1BCZ3lWQkI3dGU1OGFLZndkYWNjVm1nN2Ffd1FJcUczNnhTWDFTalVoc3RvMFlYRnJHeXdCMWJDMWRIaExlVTEtdDRYak1IX2N5Unh6Mnl0ak1WZUJQX0E0OGhmOVhpdlJLdDhrQ0RfYWZPdExCYXpDeDNVbmswbnoxZGl6UFozVk9VNWdqdVZjU2JBZTVoTUFHSnd0VHNHaTl0ZF9Vb1VN?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGJPZTRHclc5Z3lULXkzMDRNdTlDY2FrVzFEWmI3eE1qdVFJTktQUUw3TUZZS1I4TDdPRUJJSlczS0l3TEhCMnFvWlFrQjJVeUpZMVE1RGIxb3VQN0hEZXExVHJjc0UyeFNEU2JxbnBXU2ZJYlREOWRvdzlZRWx0SG9OTV9kQjBQaG1ZdlNHSmhmVjR5aldYOFduRWxULWFVN2ZSZk9vbHhUN1I4RDc2T0I3dWtreU1ya0tHM9IBuAFBVV95cUxPYU44blRBOWtQZFVDUXN3b1BCZ3lWQkI3dGU1OGFLZndkYWNjVm1nN2Ffd1FJcUczNnhTWDFTalVoc3RvMFlYRnJHeXdCMWJDMWRIaExlVTEtdDRYak1IX2N5Unh6Mnl0ak1WZUJQX0E0OGhmOVhpdlJLdDhrQ0RfYWZPdExCYXpDeDNVbmswbnoxZGl6UFozVk9VNWdqdVZjU2JBZTVoTUFHSnd0VHNHaTl0ZF9Vb1VN?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDFzaGo0eXI5THY1Smk0T05xdHZ5MVFJNW9XTW83LXlvOFRxbTRDM0RyQUw0d3Jkbmg1a0tJd3AtNEFYUkprQzBkWjQ4NmFCNzBNQ2ZPWXNHWVhKOWRtVkwzbGFaekt5aF9GSzBKczFVeXdIREtvZDlCYktuVFplX2ZVTzZia2lyYmdWX3R4QnZjUjVCVzdRdFZMUml2QUlLVUVCRWRMaUpwSmd5?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUEREbmJFbWp4eV9fMWp4UEZ2NlByaUhvY3ItWnpXZEwzTTRkRy1SX2pzdUZKM1J4TGpYOTl3a1RmWnhQbXNGSFFFR2dsQlpQNTVfazRleTY5LUgwb3oyZkcxN0NvRERTTUpmcEo0QkstOExLcndxM3ZGVGtiOHJHRERhSDFMaUVFN216VjJ3bnJaSTJvaU5wd2NhVF9XRWxBcnBFb1RaUmI2VWdzNTVpS0NjNnBINzVsRktRM3dWSWtSekFHSDRSdUMyc1RQZ0hLM0k5UVRPdG9qMHVreDJZOTZ0Y2xtZ9IB6wFBVV95cUxQRXktYmRxcWZxV1BoZWYwN1VORThjd3RqVVhiQzBoS0hxWWpCZi0tWWNMTEk0Y1oyMUl1XzhYQkN0MU9hTWdNUXlSaW5DSU9qY0ZwRW83RWxfa09hdFg0RFhQQl9KUV9FNURCdHhaUU5hcmFZQkl3cklJQjc5UWlPQW91QVpOcmRtWVJLbmRGS3QyR3hmYngtdVFjeDl1cUFXeXZ2S1hVeDhFc1A5LW1iZTczd3AxeFg0QTFHRTZodmFsOTJCSVVELTl2bkpaMGhzZklrYV9VTkowSXlqZzNhUlZSWnEzWVo0LTE4?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb3gyQlRMT3lsdU11ZVEweUNuZkd3OEdjc1VzajBKZkdRSktpbFhmMW8zcUY3cDBtREhnaFNxNFNJNFloS1A2TGRHOWNHZGs2TXJhNVFLZlhHdWJheDhQaG11T2R3RXN2SEtYb3c5Ym5ucEtkTVJDR2RVMTh6b3VBUE0wS0xpb3llRmJ6c1A4NHZFUlF3Zzg0VllmZ0VOekU2N0tiT2pDUGNybTdtYnZmUzBKajA5eDRFcHpNV1hLN2N2eW5sSEVIZExLSThfUnNzQTgzaXI2RHRtNHk2Sjhsb3ZFNGRIMEtuRnfSAe8BQVVfeXFMTTc3eXZIeE0zU2FWVkp2NkNlZEUzMzllWHFoUlU5OXdpOEcydTFnWjZ5czZLR2JESWRHUlpsX0c2R2RidFdoV3BMQmN4cnp1X0Y3ODBRcHhabno5MGxLX2pmMHBtRTVMdEI0MmJwVmc5Vk1HUzREOGc3T2lPbVFuV3pFLUVYLW9maTBBdkcxQ0duX1pvUWFoTjl4NWpIcUstY2pCMnRCalp6ZkNFbDE5dFVTSGdCQ3poU3RyMlRwQVRRakRwTENQNDJUUnVuZkJ6Y2s0ckh4U2tucjBLb3VjRUxPMWtaSTBpemgtNG4xcDg?oc=5"
       ]
     },
     {
-      "title": "ISRO Recruitment 2026 Result Out: Skill Test Scheduled For November 1",
-      "score": 20.25,
+      "title": "ISRO to have four launch pads by 2029, says Narayanan",
+      "score": 33.62,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzg0V1Q4RUJId0NvQUtfcm41TW9icy1uUVBwLTJCaGd3ckFLODloRC1BLXFFNTExeC1OMEZTWUtwQVJrRkJEZGRfWjdOU2Y3QXg3SlZmSlNNVndhcnlFeVhzT2NaeE1CRGMxWFpzRC1iQVo2am5jUVZOc1hSNlpELUVBYmh0SDJnY19LRnNFdmNYZWIwMmNRcVl3dzBEallVdjFfOGlMeFZpVmlQ0gG0AUFVX3lxTE5DY0JNZ3NRWC15bEtuR3FoWlg0cE1QNDJ0X0tWeUZjeU1kckl5YkNRbzRxVnNtbTE1aERaTUw4TERodmVhbjBqLVJNYkNZZWVmbU5NbDJINHhFVndyWkRuVHZDQmIwSkJUWjBSWXZJbWdvZFFHcHhzcTFLcEt5TGxEYkw2SUwxSU9DdkFkQzM0ZHd0Tm0zdmo2QUNDSDU1Z0tGemxNRlZCcTUwbWxBZVVIa3NjWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUxPVHRrU2FlcDI2YTVVTy1nZkF4c2EybFFmcXR1OVdsbFZIZnRGaWFBUXA1WEpveVdKby1lVFo5aTlOVzFpNmNaMUhjeGRXSW9LODlHUS0wNXdMSnAtcElPSExJejdwLVJpOU04ZnN2SG45ZnhnQWpFcjM2NGduTjZxcWpVNGZxU0hBZFpfYUZVekpWYUlnQm4wakVkYi1Bd3l1YkNwbWM2SldhS3FCNTNJZlo3b0VjSm9vMFhMb2tlSWJ4V3o2TmpZYV9QRVNic0HSAdcBQVVfeXFMTkZKUDVyWXE5NXFxcHlFZ0xyRFJFNHFPelh4OC16VEQ3SGxVWE9ZMGtEQTNlTGdzRkVlUTdpQlY0NUZEdlpBZG9ZRDFNVy1UX0pUNE5CanhyY29maXJlTGpSVTctLWo3MzBhbWlqRmp4eDdUNmxaTDJMX0ZraHlIZzU4MFVPZnFHVWN5bFZ3aFFuYUVJQXdLclhZclRuZ0t2WjVBbUVEUmI0cDQyN3pyS2t0NEZZWUNHU1dJTk5hQ3kyclBPcjJMUmpUN0JYaWw0d1E4Y3c3djQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlVGZ3N6LUxkb3FzX3h3ZllUVldEMFdnNzFLd2ZVaGhkcy1PcUxUT29BZ1NNWTRUUDRzN1J4NWhjUXdxRWJ6SENmZ0FrdDJXeEo3R1UwZ21nWW1fZVJmWjdpMnM0Szg2eUM3S2NQZldoQWN6a0tIbnZvNjZlQ2JxMzBOV2cxU1V5bER5dFNGT0FjRzFjZVBFajA3T0E0VEJBWXhDR2hmaUliSXI0TkFIdE5R?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDEwMml5MDc5cDllWmVfSTQ0MnFiN3YyWjdyTUticGltR2FSRTUtbVdiVmNLSFVZQmpLU2l2SjhnWWQwTWVyeXpCTV9KYWQ0QjlwWWFzd0kyWWRNOW1pUk9TbVoySHBxeEktaTdvUy1UellUVTRQLTEwdHI5N3lCY2ViVHlrcnBlWVkxNkYzTkJSV2IxbTlocXk1Y9IBogFBVV95cUxNQjhoMjFNWEhEV1p1eFIyQmVSbk9WbmtJenhTN1pXdVhKRkxKdjM1Zkh6S2RLanlWVGtnYUN1X05WLXU4bGQwS2dyTXFjVFJzVEJZd21hOFdybWxDcHZ3WkJGZ2dFNC1XQkh1ZnRaT2hwLVJVZGRTQm11Q0lRLXJkcFJOZ0poYkxVUThtNVAzaExkOVh1ZUtQVXdjUjRla0JFREE?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YZ2xGQW95ZU12SVhPUWpZNzRTNl95alhtR0lqaTNXazVuQWQzTDM2cmROVHNIemdFZHRVVEZfTmpVWUpHRXVrOEI5WTZVaWVIdGpmNk13R2xaMGRKX3JNVU5aOUdHRGZyLW11aDhKaEF5MUV5V2VJ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUxMbmtTcjdKMFRHZ0NTQzBrWEtwRzhOSG9JLXFFOEJ3UGJkbGpqX2JjSDdYU3JfbXFhMHZ1Q19IRE5lUUpWdU42WTFlZ3MydDBJaG53Tm01UWtDampDaUlJRXo0cWRoTzQxT0pJbER4Vndrb1dqMGtQRFdRb0ZKUDd2bTdkMVZmd2diMjh1OUJWVWZwMVB6MTQ0MXBFYldvdk9iYWQwME82a2F30gG8AUFVX3lxTE1BNFlJQXBqTjBSTU1VR3dGMG5QZkljSlREcVRxOEVuaUxGRVNYVWNvZXZOV0hjTTA3eWE5TWdlNVEwcVZlZHNRX2pNM2dMeWNkenBoWi1nN0pPQ2dZS01qLTlWcjlLR1lYZ1B1ckdldFByaFhGMm14cG1tazU3TXVBN2pfNTQ0ZE04WVM2NXZIcFZ6dWxmSFNIbmlNXzFBTjFXZkd3TENiOGNsZlR4NUVUdUNEMEhSQmRhVGRi?oc=5"
       ]
     },
     {
-      "title": "Air India and AI Express cancel Riyadh, Dammam flights till Nov 7",
-      "score": 24.69,
+      "title": "Researchers Fix Quantum-Code Failures With Improved Decoders",
+      "score": 21.59,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE94dUQtbnh5TkNvdmc4dG5qalNPYnZubjJVXzB4T05udmFNUXppRGhacHpib2lVQnlzdk0xSy1EdFVyUWQxLUxiTXBYNnkyTnlmd1k5M2dBMXM1YnBSUGd6QWhITnVHRWoyX2QwTEV6NVNqbjZTR05OYlJHYWY4N29MZDBQNk1aNERoa0NRS05GZU9pQXVMR3dTUU5ReTVyNU5Ec01yMGVlaUkwdGRJTENsU0VrZDhFbjZncm85S0JXR1MtcjdsYWQ4MXdKZnRyT1FnbGh30gHcAUFVX3lxTE5pSEdGU3NJOFBvTXNNdnVxOFNzT3BnTl9SV0owUDJOU1phcjB3RVd2aWdSYzd5NWdUd3BSTDFBQWE0akxIOUVqOFB1N2lRVVZCWFBTUUJfdVBoSXdWOFAxRXNUVFNSZ0xFMGtZNDJJWVoyS0VJNHFwaUVpRkhrc1FEaXMzZzJPUWtnaXFIM1VRd3BJTFdKNnVfdFI3d3N6MzNSOWRoOWJaaWIwZmVyRnBNR0RJUlExYnJiVVJXNm9obzdQQVpieWRNa0J1VVp2TVNzYnJFaUktTnkybkY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY29JaFpQZWMySmtIdlNxUGEzOE9mU1JCREJ1U2FhOUswUlpjcE1QWFBNOWZ1UHk5OGNtNWJSa2lLMkMzaHJxYmVsTlJjVU1MRGpwS2dJdGZqVGliSWhYek9HdzFLcXJkWEY4bVhIbjE5Q3ZpdEtURVdQME43WXBfN29BcHJqc09OQXljOHNhaS1OUUtNNHZCaUZvdUMyZmtZWXhOMFc5UHhaNUhwSUl3bU90dlM3eTFTY0dIay1NVzjSAcYBQVVfeXFMUGJfUmR4ZFJySl9NLV9yT2NlaVBabE5mZ2E1R1hGbEJEV01MMENQNkZJbDJXNjVmWmxDOE44SVVFNHJLRXdhbkRabDBrZGgxNEVzV3ZUdGgwUGxSdHhxUGt6TnFBcFhwbHI5R2VxSE95ZzBqWDE3NWNNLWQzX3hLa2ptcE5qaUlBU0NnYVozaG9tSndtdzBpdnNCWmEybGlkS3dMd0VfZzY2dlpvejJzUXVYYlVvMXVQNGVfcm5vR0Vzc3NtVW93?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEVGclJnblJvVXh5RFpsQmQzUGZMOWs5RjhCVjMtdnVMaS0xcDl4b3Fwa0VfajRRWU9aM1p6TWp0cDdpbHpBdEVzZUh5VFdCSnFWa2oyal94UWstMFFCMnZNY01MdmRYQ0d3US10N0dUaFBrTkZkb0hmZFJPdzVEWkpNNkVRLU5GRHQ2LXU1d0dyS3dEdVFLbzVJVFdYaGt2cEw5dVVlTGR3V1FpV3I1Q3VZWU7SAcIBQVVfeXFMTjZvekVrQVVmTmstajNDRzEzQ3NjeEx3OUkyVVloVU9nU3hzRThTc2FJa1Y3M0hjUTNKaWpINGFlUi1PRW5tNFpCckc4V2ZzcHZfdG1MSmRXVk0tRWEwZngzcUJKMC1URkk3VWR1LVE4LVlFcXBPaTlvcWFaNkRYajN5ckc5RUg5SXdBeXVhN3dCSjJvbk5vN3JaQW1mRldZNERzYV8yakpsam5lbHUyYkJvOFhsVk0yeEx6TXNXd1ZXY2c?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnRQZlZXMjNLczJkaU44ZzZCb1BoT0RyZHlfWjlTQy1xZVNMYW1haTg3TEU2SVlwSG9USlY3aFl4QkVBZVVyRDhvSUE1M0g2VzF0WDNUbmtnaFU2NEw4N1dKc2pEUlEzYXBtVUt5LUx3bllHb2NHY1ZTU3ZpQ01Za3MzSlRhUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnRQZlZXMjNLczJkaU44ZzZCb1BoT0RyZHlfWjlTQy1xZVNMYW1haTg3TEU2SVlwSG9USlY3aFl4QkVBZVVyRDhvSUE1M0g2VzF0WDNUbmtnaFU2NEw4N1dKc2pEUlEzYXBtVUt5LUx3bllHb2NHY1ZTU3ZpQ01Za3MzSlRhUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnRQZlZXMjNLczJkaU44ZzZCb1BoT0RyZHlfWjlTQy1xZVNMYW1haTg3TEU2SVlwSG9USlY3aFl4QkVBZVVyRDhvSUE1M0g2VzF0WDNUbmtnaFU2NEw4N1dKc2pEUlEzYXBtVUt5LUx3bllHb2NHY1ZTU3ZpQ01Za3MzSlRhUQ?oc=5"
       ]
     },
     {
-      "title": "IndiGo, Air India Express to shift flights to Navi Mumbai airport from December",
-      "score": 21.95,
+      "title": "HONOR unveils Pad X10 Mini",
+      "score": 21.4,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaDRZZ2haVVBjNXoyR2c0djlmUDZVYTF4Qk04RFJCMnd5MHZpZkEweUZRSjhvSXFKdXRxWmFVem8tbFdFbWVlYzJYY0pCdXNna1UwX2FjMDdvZzdoZjRLdklYTmxoOE42QXREdHNncThnaC1TLWloalpIUHZ5WTVtV3ZJcFBxMVNTWUhjdHFzWllTQllFTVFJLXk2d0I0clN0ZW5wMFlpRU9VV2dmWENpUFNnLWpSczJWQi1FazQ4VWg2Y0djTnFWR1RGdzRxbEhCV3J4aExOYTNuNFBzTkFKZXYyOXLSAeoBQVVfeXFMTlBXYVRmQUl4LUJoZE1yWjNfcFNOSmM4LWh3ZWppSlhpYmNwV1d4cDYxbmg1R01xWlc1cDFuQmJ5RC1FWnVVNFJBLUFXRlF0Wlowd0VxS0hRQnpXWThDRDF2ODVpV2NTbUljS2IzaFVBUVlreXRCN3RtZ0hSSXpXNzFHMG1jTC1UamJDQ3ZqWVhwNmYyd1BKNGl1ZVdkeGI4dV9FTC1UeDV5NkFFZlNRc3h5aVRSdHI1Q1ZoU0RiTGRKTGNpQ09KeG5iZzNuYXM2ZmVPcndVUlNmcnRQZHZHTUh2ZGE5LWpjcndB?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzNoSy1JdXMzQTViQWNaZWxacE5zeTRNZFlQVWhaVHc4dmdpUXBTb3hDU2Q2ZHZxLUdPTDdxM1RGd3lmbXJTUWd3T3R4VmhxOWdOemJJbTVrdVk1ZmdXcnFPYjZDTXUySUtJR2FGVHBZS21GenF5Y1QyNjFlUmNFaUJhWnNySUp1SFhlUDZqNzYwVWZDSFFFUGN1UFJySTRkRVgtdy15R1lQNGU3QnNNOQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXl1d2ZDakVsbXhZc09QbVE2Q21XSVY5MjFhdjdET0ZjOGJzM1R0d01SaWJIWmdKcVFyREo1NmNEQW5qY0NxZjBYR1g0YWpfa3hLS25tUkJQdkY1U0Z1MlpWOVVPMW1IQzVud1Zabk5fTVMtbnllMzBVbUp3VVVqUXViTkg2emVaTHAzOXB2RlpxQXNTYmZoN3pTVWl4SGszb3lQVVVxU3pxcHdlTHpPNUpMcmtDeDJKOUltazF0WTl5MTk0dlF6NVZpVFNWZmIydHhpUnJ4aHRlVWNBbnJTakY1T3pFVk56M3NfT3MtcEZCY09YSGREZkRYTVrSAYICQVVfeXFMTnVqVVJ0djRLczhJdG1BYUY5bUpfOGtOZkVMVWhTamFxUVRfRHlJT2dpMGtWaGlkSWJqV0U2c0lZRXFzUGQtWmVBdkF4MU5WU2dhdTJobmhiWjNBOURkblBXMk5JUndTWUdNeWY0SUZDNUQyN2JVQm5Lb1VwY1VQNGdWNnpqZ1V2YWR4OHdsUWN2QkxqNTVlNlNWUnBUWVQ4Y1NuRkY1MTNmM1ozdUtHcUNBbVZrYlNnRDNDNWhKMjZaLVJsblR0SGZVSW9ZcW51Y18xbkIwNXdoQ1lDV2wwQkE0YXhRZ1VLNGFRV2dUNnVlQ0pXaG16cVY3b3JiRm13WFJB?oc=5"
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sTGZERE1hQ3haNHR4U1ZZTUhUN3pMeVM1cFZfRUxvRVZnYktJOVNfSXp0TVdkc2ZQWE5BMUtnbmwtUWMxaTJpSWVjc0RPRms2a0dLOWJpUlBMY05RcHRVLWVkNDRrSHN6?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRW4xS09ZWUdGZWVkQW5hNURDMG1LTTF6VVd1R09yNkNzSnlnRVdubmNHTlZWOEstbUVvcmVhenhJWVZGa2REU2hfUHNUNUdfS09nc25XcXVaRW1aUGZua0NwOGRkVW8wSmZEWWtuUVpUREhFSDBZVWpKaWRJZkl6YW1rbnI4aUtqZ0FfSkdjVEdEd1ItMGgwaWUtcWhEdUw1ZW9zTG8xU0Vva1Q5QUwtZHpjblpTUWFSWjFtd3pmOUlVQ0NieTBZNEJKblFfUQ?oc=5"
       ]
     },
     {
       "title": "'Call of Duty' North Korea invasion edition tops sales charts in South",
-      "score": 26.74,
+      "score": 24.49,
       "kinds": [
         "news"
       ],
@@ -134,8 +111,49 @@
       ]
     },
     {
+      "title": "ISRO Recruitment 2026 Result Out: Skill Test Scheduled For November 1",
+      "score": 22.0,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzg0V1Q4RUJId0NvQUtfcm41TW9icy1uUVBwLTJCaGd3ckFLODloRC1BLXFFNTExeC1OMEZTWUtwQVJrRkJEZGRfWjdOU2Y3QXg3SlZmSlNNVndhcnlFeVhzT2NaeE1CRGMxWFpzRC1iQVo2am5jUVZOc1hSNlpELUVBYmh0SDJnY19LRnNFdmNYZWIwMmNRcVl3dzBEallVdjFfOGlMeFZpVmlQ0gG0AUFVX3lxTE5DY0JNZ3NRWC15bEtuR3FoWlg0cE1QNDJ0X0tWeUZjeU1kckl5YkNRbzRxVnNtbTE1aERaTUw4TERodmVhbjBqLVJNYkNZZWVmbU5NbDJINHhFVndyWkRuVHZDQmIwSkJUWjBSWXZJbWdvZFFHcHhzcTFLcEt5TGxEYkw2SUwxSU9DdkFkQzM0ZHd0Tm0zdmo2QUNDSDU1Z0tGemxNRlZCcTUwbWxBZVVIa3NjWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUxPVHRrU2FlcDI2YTVVTy1nZkF4c2EybFFmcXR1OVdsbFZIZnRGaWFBUXA1WEpveVdKby1lVFo5aTlOVzFpNmNaMUhjeGRXSW9LODlHUS0wNXdMSnAtcElPSExJejdwLVJpOU04ZnN2SG45ZnhnQWpFcjM2NGduTjZxcWpVNGZxU0hBZFpfYUZVekpWYUlnQm4wakVkYi1Bd3l1YkNwbWM2SldhS3FCNTNJZlo3b0VjSm9vMFhMb2tlSWJ4V3o2TmpZYV9QRVNic0HSAdcBQVVfeXFMTkZKUDVyWXE5NXFxcHlFZ0xyRFJFNHFPelh4OC16VEQ3SGxVWE9ZMGtEQTNlTGdzRkVlUTdpQlY0NUZEdlpBZG9ZRDFNVy1UX0pUNE5CanhyY29maXJlTGpSVTctLWo3MzBhbWlqRmp4eDdUNmxaTDJMX0ZraHlIZzU4MFVPZnFHVWN5bFZ3aFFuYUVJQXdLclhZclRuZ0t2WjVBbUVEUmI0cDQyN3pyS2t0NEZZWUNHU1dJTk5hQ3kyclBPcjJMUmpUN0JYaWw0d1E4Y3c3djQ?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlVGZ3N6LUxkb3FzX3h3ZllUVldEMFdnNzFLd2ZVaGhkcy1PcUxUT29BZ1NNWTRUUDRzN1J4NWhjUXdxRWJ6SENmZ0FrdDJXeEo3R1UwZ21nWW1fZVJmWjdpMnM0Szg2eUM3S2NQZldoQWN6a0tIbnZvNjZlQ2JxMzBOV2cxU1V5bER5dFNGT0FjRzFjZVBFajA3T0E0VEJBWXhDR2hmaUliSXI0TkFIdE5R?oc=5"
+      ]
+    },
+    {
+      "title": "IndiGo, Air India to Shift Some Flights to New Mumbai Airport",
+      "score": 23.79,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzNoSy1JdXMzQTViQWNaZWxacE5zeTRNZFlQVWhaVHc4dmdpUXBTb3hDU2Q2ZHZxLUdPTDdxM1RGd3lmbXJTUWd3T3R4VmhxOWdOemJJbTVrdVk1ZmdXcnFPYjZDTXUySUtJR2FGVHBZS21GenF5Y1QyNjFlUmNFaUJhWnNySUp1SFhlUDZqNzYwVWZDSFFFUGN1UFJySTRkRVgtdy15R1lQNGU3QnNNOQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaDRZZ2haVVBjNXoyR2c0djlmUDZVYTF4Qk04RFJCMnd5MHZpZkEweUZRSjhvSXFKdXRxWmFVem8tbFdFbWVlYzJYY0pCdXNna1UwX2FjMDdvZzdoZjRLdklYTmxoOE42QXREdHNncThnaC1TLWloalpIUHZ5WTVtV3ZJcFBxMVNTWUhjdHFzWllTQllFTVFJLXk2d0I0clN0ZW5wMFlpRU9VV2dmWENpUFNnLWpSczJWQi1FazQ4VWg2Y0djTnFWR1RGdzRxbEhCV3J4aExOYTNuNFBzTkFKZXYyOXLSAeoBQVVfeXFMTlBXYVRmQUl4LUJoZE1yWjNfcFNOSmM4LWh3ZWppSlhpYmNwV1d4cDYxbmg1R01xWlc1cDFuQmJ5RC1FWnVVNFJBLUFXRlF0Wlowd0VxS0hRQnpXWThDRDF2ODVpV2NTbUljS2IzaFVBUVlreXRCN3RtZ0hSSXpXNzFHMG1jTC1UamJDQ3ZqWVhwNmYyd1BKNGl1ZVdkeGI4dV9FTC1UeDV5NkFFZlNRc3h5aVRSdHI1Q1ZoU0RiTGRKTGNpQ09KeG5iZzNuYXM2ZmVPcndVUlNmcnRQZHZHTUh2ZGE5LWpjcndB?oc=5",
+        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXl1d2ZDakVsbXhZc09QbVE2Q21XSVY5MjFhdjdET0ZjOGJzM1R0d01SaWJIWmdKcVFyREo1NmNEQW5qY0NxZjBYR1g0YWpfa3hLS25tUkJQdkY1U0Z1MlpWOVVPMW1IQzVud1Zabk5fTVMtbnllMzBVbUp3VVVqUXViTkg2emVaTHAzOXB2RlpxQXNTYmZoN3pTVWl4SGszb3lQVVVxU3pxcHdlTHpPNUpMcmtDeDJKOUltazF0WTl5MTk0dlF6NVZpVFNWZmIydHhpUnJ4aHRlVWNBbnJTakY1T3pFVk56M3NfT3MtcEZCY09YSGREZkRYTVrSAYICQVVfeXFMTnVqVVJ0djRLczhJdG1BYUY5bUpfOGtOZkVMVWhTamFxUVRfRHlJT2dpMGtWaGlkSWJqV0U2c0lZRXFzUGQtWmVBdkF4MU5WU2dhdTJobmhiWjNBOURkblBXMk5JUndTWUdNeWY0SUZDNUQyN2JVQm5Lb1VwY1VQNGdWNnpqZ1V2YWR4OHdsUWN2QkxqNTVlNlNWUnBUWVQ4Y1NuRkY1MTNmM1ozdUtHcUNBbVZrYlNnRDNDNWhKMjZaLVJsblR0SGZVSW9ZcW51Y18xbkIwNXdoQ1lDV2wwQkE0YXhRZ1VLNGFRV2dUNnVlQ0pXaG16cVY3b3JiRm13WFJB?oc=5"
+      ]
+    },
+    {
+      "title": "Air India and AI Express cancel Riyadh, Dammam flights till Nov 7",
+      "score": 26.69,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE94dUQtbnh5TkNvdmc4dG5qalNPYnZubjJVXzB4T05udmFNUXppRGhacHpib2lVQnlzdk0xSy1EdFVyUWQxLUxiTXBYNnkyTnlmd1k5M2dBMXM1YnBSUGd6QWhITnVHRWoyX2QwTEV6NVNqbjZTR05OYlJHYWY4N29MZDBQNk1aNERoa0NRS05GZU9pQXVMR3dTUU5ReTVyNU5Ec01yMGVlaUkwdGRJTENsU0VrZDhFbjZncm85S0JXR1MtcjdsYWQ4MXdKZnRyT1FnbGh30gHcAUFVX3lxTE5pSEdGU3NJOFBvTXNNdnVxOFNzT3BnTl9SV0owUDJOU1phcjB3RVd2aWdSYzd5NWdUd3BSTDFBQWE0akxIOUVqOFB1N2lRVVZCWFBTUUJfdVBoSXdWOFAxRXNUVFNSZ0xFMGtZNDJJWVoyS0VJNHFwaUVpRkhrc1FEaXMzZzJPUWtnaXFIM1VRd3BJTFdKNnVfdFI3d3N6MzNSOWRoOWJaaWIwZmVyRnBNR0RJUlExYnJiVVJXNm9obzdQQVpieWRNa0J1VVp2TVNzYnJFaUktTnkybkY?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEVGclJnblJvVXh5RFpsQmQzUGZMOWs5RjhCVjMtdnVMaS0xcDl4b3Fwa0VfajRRWU9aM1p6TWp0cDdpbHpBdEVzZUh5VFdCSnFWa2oyal94UWstMFFCMnZNY01MdmRYQ0d3US10N0dUaFBrTkZkb0hmZFJPdzVEWkpNNkVRLU5GRHQ2LXU1d0dyS3dEdVFLbzVJVFdYaGt2cEw5dVVlTGR3V1FpV3I1Q3VZWU7SAcIBQVVfeXFMTjZvekVrQVVmTmstajNDRzEzQ3NjeEx3OUkyVVloVU9nU3hzRThTc2FJa1Y3M0hjUTNKaWpINGFlUi1PRW5tNFpCckc4V2ZzcHZfdG1MSmRXVk0tRWEwZngzcUJKMC1URkk3VWR1LVE4LVlFcXBPaTlvcWFaNkRYajN5ckc5RUg5SXdBeXVhN3dCSjJvbk5vN3JaQW1mRldZNERzYV8yakpsam5lbHUyYkJvOFhsVk0yeEx6TXNXd1ZXY2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY29JaFpQZWMySmtIdlNxUGEzOE9mU1JCREJ1U2FhOUswUlpjcE1QWFBNOWZ1UHk5OGNtNWJSa2lLMkMzaHJxYmVsTlJjVU1MRGpwS2dJdGZqVGliSWhYek9HdzFLcXJkWEY4bVhIbjE5Q3ZpdEtURVdQME43WXBfN29BcHJqc09OQXljOHNhaS1OUUtNNHZCaUZvdUMyZmtZWXhOMFc5UHhaNUhwSUl3bU90dlM3eTFTY0dIay1NVzjSAcYBQVVfeXFMUGJfUmR4ZFJySl9NLV9yT2NlaVBabE5mZ2E1R1hGbEJEV01MMENQNkZJbDJXNjVmWmxDOE44SVVFNHJLRXdhbkRabDBrZGgxNEVzV3ZUdGgwUGxSdHhxUGt6TnFBcFhwbHI5R2VxSE95ZzBqWDE3NWNNLWQzX3hLa2ptcE5qaUlBU0NnYVozaG9tSndtdzBpdnNCWmEybGlkS3dMd0VfZzY2dlpvejJzUXVYYlVvMXVQNGVfcm5vR0Vzc3NtVW93?oc=5"
+      ]
+    },
+    {
       "title": "Invasive Infection Associated With Probiotics in Adults: Does the Pathogen Originate From the Product or the Host Intestine?",
-      "score": 19.51,
+      "score": 19.26,
       "kinds": [
         "news"
       ],
@@ -144,19 +162,6 @@
         "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMDJaZlBIQlY2RjdsT2tBMVQ1YmdMWDNMTXdxeC16MGxQQXViTTctcGZROWN1OGx2S05zVm5PSTJRQzlyRm92blllR1BfMFNUdEUtc2NOWVQ2Q2lfQVNNeVpnUUNmWW1kMW9FbEdPTGJlMm52SnR1dHpsejBXN0dacGhrdVRneWlDX3VqNlBhRVUwZ0t5N1U2M0FTT1UwSVUxcEotWmdZeGZlQzZmWF9ZbUZLUUw0WXJjLWpmbGU1U3BfbHFUaDNpS3poMzNZa2pmUVpGUzlqd21sV19yQ1Exb1U2TlloZ0s4VlNOQXhWVl9mcmc?oc=5",
         "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMDJaZlBIQlY2RjdsT2tBMVQ1YmdMWDNMTXdxeC16MGxQQXViTTctcGZROWN1OGx2S05zVm5PSTJRQzlyRm92blllR1BfMFNUdEUtc2NOWVQ2Q2lfQVNNeVpnUUNmWW1kMW9FbEdPTGJlMm52SnR1dHpsejBXN0dacGhrdVRneWlDX3VqNlBhRVUwZ0t5N1U2M0FTT1UwSVUxcEotWmdZeGZlQzZmWF9ZbUZLUUw0WXJjLWpmbGU1U3BfbHFUaDNpS3poMzNZa2pmUVpGUzlqd21sV19yQ1Exb1U2TlloZ0s4VlNOQXhWVl9mcmc?oc=5",
         "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMDJaZlBIQlY2RjdsT2tBMVQ1YmdMWDNMTXdxeC16MGxQQXViTTctcGZROWN1OGx2S05zVm5PSTJRQzlyRm92blllR1BfMFNUdEUtc2NOWVQ2Q2lfQVNNeVpnUUNmWW1kMW9FbEdPTGJlMm52SnR1dHpsejBXN0dacGhrdVRneWlDX3VqNlBhRVUwZ0t5N1U2M0FTT1UwSVUxcEotWmdZeGZlQzZmWF9ZbUZLUUw0WXJjLWpmbGU1U3BfbHFUaDNpS3poMzNZa2pmUVpGUzlqd21sV19yQ1Exb1U2TlloZ0s4VlNOQXhWVl9mcmc?oc=5"
-      ]
-    },
-    {
-      "title": "Quordle hints and answers for Sunday, October 25 (game #1735)",
-      "score": 18.37,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTVVTUZlYW8tMVpSMk1MTWdSQTQzNlk3YmxpU3BMRUVzSzltc3o5YVdWYWliRHJjbjV1NktyYzlYeUwxZU9yZDd1ZHdwa09wSjZnaG9acHY2SXhRNkJWMm9oWDB1cnJsb1ZFREkyMFNDbUZDSmFFM0xFcFNuTFZheDBHYVRTaWJfdDI4alh1Qk5uaHpuNExQOQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcFJJajZuRzRCcDB0a2xqNThCSlFCRENVbDN5WEQ0R2ZDWUZzbnZMa2Y3dGFXZHpBMEZmaHFCclloRDlwZVVuS2cybTBCSVhneTJpVjF6d3lVZnFXQmFLay1BOUtUXzBIaGthM29WN200WFFHSlBuMThYSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcFJJajZuRzRCcDB0a2xqNThCSlFCRENVbDN5WEQ0R2ZDWUZzbnZMa2Y3dGFXZHpBMEZmaHFCclloRDlwZVVuS2cybTBCSVhneTJpVjF6d3lVZnFXQmFLay1BOUtUXzBIaGthM29WN200WFFHSlBuMThYSQ?oc=5"
       ]
     }
   ]
