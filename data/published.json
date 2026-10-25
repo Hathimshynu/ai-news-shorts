@@ -1155,8 +1155,8 @@
     "late_offer": true,
     "late": true,
     "approved_at": "2026-10-25T14:20:04.665707+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-25T14:20:06.675034+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-25T14:30:06.861102+00:00",
     "ids": {
       "youtube": "DXoDq4cU2aU",
       "facebook": "1617830913214805"
@@ -1168,8 +1168,7 @@
       "hook": "OpenAI paused AI training for eleven days.",
       "seconds": 47.2,
       "primary_keyword": "openai resumes training",
-      "qa_passed": false,
-      "posted_at": "2026-10-25T14:21:38.513102+00:00"
+      "qa_passed": false
     }
   },
   "2026-10-25-evening-1701": {
