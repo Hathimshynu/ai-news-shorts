@@ -60,6 +60,10 @@
       {
         "date": "2026-10-24",
         "views": 1
+      },
+      {
+        "date": "2026-10-25",
+        "views": 1
       }
     ],
     "info": {
@@ -97,7 +101,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-10-evening-1400": {
     "history": [
@@ -160,6 +164,10 @@
       {
         "date": "2026-10-24",
         "views": 6
+      },
+      {
+        "date": "2026-10-25",
+        "views": 6
       }
     ],
     "info": {
@@ -197,7 +205,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-10-evening-1501": {
     "history": [
@@ -260,6 +268,10 @@
       {
         "date": "2026-10-24",
         "views": 9
+      },
+      {
+        "date": "2026-10-25",
+        "views": 9
       }
     ],
     "info": {
@@ -297,7 +309,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-10-evening-1918": {
     "history": [
@@ -360,6 +372,10 @@
       {
         "date": "2026-10-24",
         "views": 77
+      },
+      {
+        "date": "2026-10-25",
+        "views": 77
       }
     ],
     "info": {
@@ -397,7 +413,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-10-evening-2001": {
     "history": [
@@ -460,6 +476,10 @@
       {
         "date": "2026-10-24",
         "views": 5
+      },
+      {
+        "date": "2026-10-25",
+        "views": 5
       }
     ],
     "info": {
@@ -497,7 +517,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-10-evening-2102": {
     "history": [
@@ -560,6 +580,10 @@
       {
         "date": "2026-10-24",
         "views": 127
+      },
+      {
+        "date": "2026-10-25",
+        "views": 127
       }
     ],
     "info": {
@@ -597,7 +621,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-10-morning-1146": {
     "history": [
@@ -660,6 +684,10 @@
       {
         "date": "2026-10-24",
         "views": 55
+      },
+      {
+        "date": "2026-10-25",
+        "views": 55
       }
     ],
     "info": {
@@ -697,7 +725,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-11-evening-2002": {
     "history": [
@@ -756,6 +784,10 @@
       {
         "date": "2026-10-24",
         "views": 83
+      },
+      {
+        "date": "2026-10-25",
+        "views": 83
       }
     ],
     "info": {
@@ -785,7 +817,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-11-evening-2101": {
     "history": [
@@ -844,6 +876,10 @@
       {
         "date": "2026-10-24",
         "views": 5
+      },
+      {
+        "date": "2026-10-25",
+        "views": 5
       }
     ],
     "info": {
@@ -873,7 +909,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-11-morning-1146": {
     "history": [
@@ -932,6 +968,10 @@
       {
         "date": "2026-10-24",
         "views": 5
+      },
+      {
+        "date": "2026-10-25",
+        "views": 5
       }
     ],
     "info": {
@@ -969,7 +1009,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-12-evening-1333": {
     "history": [
@@ -1024,6 +1064,10 @@
       {
         "date": "2026-10-24",
         "views": 12
+      },
+      {
+        "date": "2026-10-25",
+        "views": 12
       }
     ],
     "info": {
@@ -1061,7 +1105,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-12-evening-2001": {
     "history": [
@@ -1116,6 +1160,10 @@
       {
         "date": "2026-10-24",
         "views": 10
+      },
+      {
+        "date": "2026-10-25",
+        "views": 10
       }
     ],
     "info": {
@@ -1153,7 +1201,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-13-evening-1231": {
     "history": [
@@ -1204,6 +1252,10 @@
       {
         "date": "2026-10-24",
         "views": 8
+      },
+      {
+        "date": "2026-10-25",
+        "views": 8
       }
     ],
     "info": {
@@ -1241,7 +1293,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-13-evening-2001": {
     "history": [
@@ -1292,6 +1344,10 @@
       {
         "date": "2026-10-24",
         "views": 34
+      },
+      {
+        "date": "2026-10-25",
+        "views": 34
       }
     ],
     "info": {
@@ -1329,7 +1385,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-13-evening-2101": {
     "history": [
@@ -1380,6 +1436,10 @@
       {
         "date": "2026-10-24",
         "views": 26
+      },
+      {
+        "date": "2026-10-25",
+        "views": 26
       }
     ],
     "info": {
@@ -1417,7 +1477,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-14-evening-1801": {
     "history": [
@@ -1464,6 +1524,10 @@
       {
         "date": "2026-10-24",
         "views": 0
+      },
+      {
+        "date": "2026-10-25",
+        "views": 0
       }
     ],
     "info": {
@@ -1501,7 +1565,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-14-morning-1046": {
     "history": [
@@ -1548,6 +1612,10 @@
       {
         "date": "2026-10-24",
         "views": 0
+      },
+      {
+        "date": "2026-10-25",
+        "views": 0
       }
     ],
     "info": {
@@ -1577,7 +1645,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-14-evening-2303": {
     "history": [
@@ -1620,6 +1688,10 @@
       {
         "date": "2026-10-24",
         "views": 7
+      },
+      {
+        "date": "2026-10-25",
+        "views": 7
       }
     ],
     "info": {
@@ -1657,7 +1729,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-15-evening-1702": {
     "history": [
@@ -1700,6 +1772,10 @@
       {
         "date": "2026-10-24",
         "views": 28
+      },
+      {
+        "date": "2026-10-25",
+        "views": 28
       }
     ],
     "info": {
@@ -1737,7 +1813,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-15-evening-1801": {
     "history": [
@@ -1780,6 +1856,10 @@
       {
         "date": "2026-10-24",
         "views": 45
+      },
+      {
+        "date": "2026-10-25",
+        "views": 45
       }
     ],
     "info": {
@@ -1809,7 +1889,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-16-evening-1701": {
     "history": [
@@ -1848,6 +1928,10 @@
       {
         "date": "2026-10-24",
         "views": 17
+      },
+      {
+        "date": "2026-10-25",
+        "views": 17
       }
     ],
     "info": {
@@ -1877,7 +1961,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-16-evening-1801": {
     "history": [
@@ -1916,6 +2000,10 @@
       {
         "date": "2026-10-24",
         "views": 34
+      },
+      {
+        "date": "2026-10-25",
+        "views": 34
       }
     ],
     "info": {
@@ -1953,7 +2041,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-17-evening-1701": {
     "history": [
@@ -1987,6 +2075,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 80
+      },
+      {
+        "date": "2026-10-25",
         "views": 80
       }
     ],
@@ -2025,7 +2117,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-17-evening-1950": {
     "history": [
@@ -2060,6 +2152,10 @@
       {
         "date": "2026-10-24",
         "views": 17
+      },
+      {
+        "date": "2026-10-25",
+        "views": 17
       }
     ],
     "info": {
@@ -2089,7 +2185,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-18-evening-1701": {
     "history": [
@@ -2120,6 +2216,10 @@
       {
         "date": "2026-10-24",
         "views": 15
+      },
+      {
+        "date": "2026-10-25",
+        "views": 15
       }
     ],
     "info": {
@@ -2149,7 +2249,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-18-evening-1801": {
     "history": [
@@ -2180,6 +2280,10 @@
       {
         "date": "2026-10-24",
         "views": 17
+      },
+      {
+        "date": "2026-10-25",
+        "views": 17
       }
     ],
     "info": {
@@ -2209,7 +2313,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-19-evening-1701": {
     "history": [
@@ -2235,6 +2339,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 8
+      },
+      {
+        "date": "2026-10-25",
         "views": 8
       }
     ],
@@ -2265,7 +2373,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-19-evening-1801": {
     "history": [
@@ -2291,6 +2399,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 3
+      },
+      {
+        "date": "2026-10-25",
         "views": 3
       }
     ],
@@ -2329,7 +2441,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-20-evening-1701": {
     "history": [
@@ -2351,6 +2463,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 20
+      },
+      {
+        "date": "2026-10-25",
         "views": 20
       }
     ],
@@ -2381,7 +2497,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-20-evening-1801": {
     "history": [
@@ -2403,6 +2519,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 29
+      },
+      {
+        "date": "2026-10-25",
         "views": 29
       }
     ],
@@ -2433,7 +2553,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-20-evening-2259": {
     "history": [
@@ -2451,6 +2571,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 4
+      },
+      {
+        "date": "2026-10-25",
         "views": 4
       }
     ],
@@ -2481,7 +2605,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-21-evening-1701": {
     "history": [
@@ -2499,6 +2623,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 22
+      },
+      {
+        "date": "2026-10-25",
         "views": 22
       }
     ],
@@ -2529,7 +2657,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-21-evening-1802": {
     "history": [
@@ -2547,6 +2675,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 12
+      },
+      {
+        "date": "2026-10-25",
         "views": 12
       }
     ],
@@ -2577,7 +2709,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-22-evening-1719": {
     "history": [
@@ -2591,6 +2723,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 30
+      },
+      {
+        "date": "2026-10-25",
         "views": 30
       }
     ],
@@ -2621,7 +2757,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-22-evening-1802": {
     "history": [
@@ -2635,6 +2771,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 29
+      },
+      {
+        "date": "2026-10-25",
         "views": 29
       }
     ],
@@ -2665,7 +2805,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-22-evening-2207": {
     "history": [
@@ -2676,6 +2816,10 @@
       {
         "date": "2026-10-24",
         "views": 22
+      },
+      {
+        "date": "2026-10-25",
+        "views": 24
       }
     ],
     "info": {
@@ -2693,7 +2837,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 22,
+        "views": 24,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -2705,7 +2849,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-23-evening-1701": {
     "history": [
@@ -2716,6 +2860,10 @@
       {
         "date": "2026-10-24",
         "views": 11
+      },
+      {
+        "date": "2026-10-25",
+        "views": 12
       }
     ],
     "info": {
@@ -2733,7 +2881,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 11,
+        "views": 12,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -2745,7 +2893,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-23-evening-1802": {
     "history": [
@@ -2755,6 +2903,10 @@
       },
       {
         "date": "2026-10-24",
+        "views": 10
+      },
+      {
+        "date": "2026-10-25",
         "views": 10
       }
     ],
@@ -2781,7 +2933,7 @@
         "engagement_rate": 10.0
       },
       "instagram": {
-        "likes": 0,
+        "likes": 1,
         "comments": 0,
         "note": "insights unavailable: (#10) Application does not have permission for this action",
         "engagement_rate": null
@@ -2793,7 +2945,7 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-23-evening-2200": {
     "history": [
@@ -2804,6 +2956,10 @@
       {
         "date": "2026-10-24",
         "views": 10
+      },
+      {
+        "date": "2026-10-25",
+        "views": 16
       }
     ],
     "info": {
@@ -2821,7 +2977,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 10,
+        "views": 16,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -2833,13 +2989,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-24-evening-1702": {
     "history": [
       {
         "date": "2026-10-24",
         "views": 0
+      },
+      {
+        "date": "2026-10-25",
+        "views": 31
       }
     ],
     "info": {
@@ -2859,13 +3019,13 @@
     },
     "platforms": {
       "youtube": {
-        "views": 0,
-        "likes": 0,
+        "views": 31,
+        "likes": 1,
         "comments": 0,
-        "engagement_rate": null
+        "engagement_rate": 3.23
       },
       "instagram": {
-        "likes": 2,
+        "likes": 3,
         "comments": 0,
         "note": "insights unavailable: (#10) Application does not have permission for this action",
         "engagement_rate": null
@@ -2877,13 +3037,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-24-evening-1802": {
     "history": [
       {
         "date": "2026-10-24",
         "views": 32
+      },
+      {
+        "date": "2026-10-25",
+        "views": 82
       }
     ],
     "info": {
@@ -2901,7 +3065,7 @@
     },
     "platforms": {
       "youtube": {
-        "views": 32,
+        "views": 82,
         "likes": 0,
         "comments": 0,
         "engagement_rate": 0.0
@@ -2913,13 +3077,17 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   },
   "2026-10-24-evening-2015": {
     "history": [
       {
         "date": "2026-10-24",
         "views": 18
+      },
+      {
+        "date": "2026-10-25",
+        "views": 30
       }
     ],
     "info": {
@@ -2937,10 +3105,10 @@
     },
     "platforms": {
       "youtube": {
-        "views": 18,
+        "views": 30,
         "likes": 1,
         "comments": 0,
-        "engagement_rate": 5.56
+        "engagement_rate": 3.33
       },
       "facebook": {
         "likes": 0,
@@ -2949,6 +3117,122 @@
         "engagement_rate": null
       }
     },
-    "fetched": "2026-10-24T19:00:50.990902+00:00"
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
+  },
+  "2026-10-24-evening-2142": {
+    "history": [
+      {
+        "date": "2026-10-25",
+        "views": 12
+      }
+    ],
+    "info": {
+      "title": "OpenAI Resumes Training After 11 Day Pause #Shorts",
+      "topic": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "category": "Breaking AI News",
+      "hook": "OpenAI paused AI training for eleven days.",
+      "seconds": 47.2,
+      "primary_keyword": "openai resumes training",
+      "qa_passed": false
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/DXoDq4cU2aU",
+      "facebook": "https://www.facebook.com/reel/1617830913214805"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 12,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
+  },
+  "2026-10-25-evening-1701": {
+    "history": [
+      {
+        "date": "2026-10-25",
+        "views": 20
+      }
+    ],
+    "info": {
+      "title": "GitHub Copilot in Teams: Turn Bugs Into Code #Shorts",
+      "topic": "Turn notifications into code with GitHub Copilot in Teams",
+      "category": "New AI Features",
+      "hook": "You can now turn Teams messages into GitHub code!",
+      "seconds": 47.1,
+      "primary_keyword": "GitHub Copilot in Teams",
+      "qa_passed": true
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/vgORYSELacY",
+      "facebook": "https://www.facebook.com/reel/1922416402500849"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 20,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
+  },
+  "2026-10-25-evening-1801": {
+    "history": [
+      {
+        "date": "2026-10-25",
+        "views": 21
+      }
+    ],
+    "info": {
+      "title": "Apple CarPlay Phone Heating: What You Need To Know #Shorts",
+      "topic": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+      "category": "Trending Technology",
+      "hook": "Your phone gets hot using CarPlay?",
+      "seconds": 39.9,
+      "primary_keyword": "Apple CarPlay phone heating",
+      "qa_passed": false,
+      "posted_at": "2026-10-25T14:42:44.101558+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/fWKaWYfooRg",
+      "facebook": "https://www.facebook.com/reel/1167476422470237",
+      "instagram": "https://www.instagram.com/reel/De68m4OCkW3/"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 21,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "instagram": {
+        "likes": 1,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-10-25T19:16:25.380756+00:00"
   }
 }
