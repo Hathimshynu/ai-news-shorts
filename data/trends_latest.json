@@ -1,63 +1,52 @@
 {
-  "job_id": "2026-10-26-evening-1705",
-  "chosen": "Paar Autonomy Raises Rs 10 Crore to Scale AI Camera Systems and GPS-Free Drone Navigation",
-  "reason": "Paar Autonomy’s AI‑powered camera and GPS‑free drone navigation platform shows how Indian startups are bringing cutting‑edge computer‑vision to everyday automation, a game‑changer for creators and businesses.",
+  "job_id": "2026-10-26-evening-1801",
+  "chosen": "Tata Communications is building a fiber network for India's AI hubs costing up to $450 million",
+  "reason": "Tata Communications' $450 million investment to build high-speed fiber networks highlights the massive infrastructure push to power India's expanding AI hubs.",
   "candidates": [
     {
-      "title": "Paar Autonomy Raises Rs 10 Crore to Scale AI Camera Systems and GPS-Free Drone Navigation",
-      "score": 21.67,
+      "title": "Tata Communications is building a fiber network for India's AI hubs costing up to $450 million",
+      "score": 31.9,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkFuUnU2c3NmR3dIWU5iWlJCbE5Wd2tJUlBERHJKM2kxLWxqNEdNQm54bUhPMkJjS0J0dm9oMUcyNUtPZkhBejlwbjQtN3ZtTDdBWHZvd0JZczFMa1Z3ZnBXSllxWjVUSldOQkNvRWVyQldZVUtEdkxxeEQxSEUxTXREQWdmc21zZXBWTFJYZ0tROFgwTVVBR2p3?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRldaVURPTExWdUFjVVV4SVJUUy1Wc1NtQ0h1UXRWVlJIeUhNT25rWDlRNHUxTXRickJWM1FGVHFwNXZvNVIxTDJjbTFnZVN2cEdkb2pHNG1nUUk4a0hUcHEwTnpiLWk2ZEduRkJlb0NUZHI3Q1JCcGVscWxqSDI3RkhkZ1VEVkRhT0U1end6Y18za2NIZ0xqSHNtd2ppOERiUFBmOE91aS1teGRsNHFQRGxwX1hqOUNhc1h1THllR0MwOEh2aGNaUUktRmxVcFMtSWF3RUNxNnZyeEZhM1E?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVlrYVQ0OVJmWmNlQ0NraDhRWk5sTTRPWkgwT2lOelFZaDFHUWJTVWJnNEhpNWhFTGEtajlUV1d6endWdERRbnUwNmZZNGp2b1g5OHNkdUZaa1FQdWdXY2xDTDlXdkU0b25kOVJueE5uT29aOFltSzJmVlR4U0pFNWZ1WVNhRFc3cElxQk5RRWxqSk5YUDQ0SUVFcW04RFk?oc=5"
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE8wRHZwdF9XaTJFOVBWN0dDbnpJMjZEb1htOHk0STAtcmljd3F5WDFaT19xSHBYU1IxNjJ0M1hDSzB6UElKYnlmSkMzYUFjZG83WkJjaHlpSkxpSXVYbmFqVEc5NnQzcTdteG9PVG51MFlDUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRElyYTFrWERsRDQ1R3ltdnZtdUFONjRLbHBTOUs2RENZX0JPcFpTeDRYa28xZUc3YmRseUc1NHNLRzdqZW9uSGpwWXRKN29TVUdhQThfODE4VVpicTF1TXg5cXR4X1ZydmVrbE9iZHBwUElQd0dIVTVvdGxUajd5bXhzbm9WVnNpdnYycjRrQnMyRUxuMWNFRlhVVm1rVUR5VE9ERDc4ZUE0eTJNeWtreVRqYWpFdFJEblRpSkkweGphY2VPdVlDcmo4WQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXlkVVMzN0Z6MDZwZ05FaFd6UzA5dXV0MWVLQ3Q5RklBWjhPX2ozTjMtUlFXLVMyalE0elNET0QzNF9fbzJ3b1plMnA1ODl0TktfckxKTjNGeU5ibFB3SjBnYXJFNXJZUm9YY0wwYkVfNWZaa18ya1EtUDlydnE4ZmswaHdyM1M4N3VTT0lrX1hQZ2FuZlVQV3Fta09jak5sdlpJaEVQcm5JVmJJQ0gtdURwbGttRXpfQ25BQTBwc0xTM01ENVpPRG9NN2Z2b0l3T1E?oc=5"
       ]
     },
     {
-      "title": "Tata Communications to spend $450M on AI fibre network across India",
-      "score": 21.47,
+      "title": "Google’s privacy policy now lets Gmail and Photos content shape your ads",
+      "score": 21.34,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0c1TU04QXVEMTB0M1JQdXd4QzlFWktlSVFOdmg2RzhtSDJUNVphUF9YMkNzbUhTYU9Gcy1oMXlKWUZBWjNwdzhDUVRIenNqU2RxWlpHWk9GSTdFbDk0VXZMbElzR3VtZXhIRGgyVlE4MkdPaTRsclZnOVBCYy1GUg?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONkhjcnI3WXJQQXBkaUZBNkZxYjFiNmV0WHRVU2x2T0pFbHUtUUlPaDgzX0lld2syalBaRUFOVDN2U1NoTVM3MFA0cFl6MmtxZzdNWEJNbjhYdExfcXZTTGlQc0lCY0tCSS1SWUlCbW1uMUFVMmJzTDhrcllQSzVhX1NybUY3OHZ4anBLU1pIWUJiR1hzUmN6OGoxSTY5RGJzSmhSY0ZRUkI5eWtSQUpuUkl4QVBzOTlURkUyUlpYa3Z1cUUyT0xrcnBXVHNDLUxsSGNBOUdTekzSAdgBQVVfeXFMTjZIY3JyN1lyUEFwZGlGQTZGcWIxYjZldFh0VVNsdk9KRWx1LVFJT2g4M19JZXdrMmpQWkVBTlQzdlNTaE1TNzBQNHBZejJrcWc3TVhCTW44WHRMX3F2U0xpUHNJQmNLQkktUllJQm1tbjFBVTJic0w4a3JZUEs1YV9Tcm1GNzh2eGpwS1NaSFlCYkdYc1JjejhqMUk2OURic0poUmNGUVJCOXlrUkFKblJJeEFQczk5VEZFMlJaWGt2dXFFMk9Ma3JwV1RzQy1MbEhjQTlHU3pM?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVEhUT0hscF9TWnlEOFgzazFWc003a3FYUzIwMEZEdkxsR041Rlh5RDY5MUIzWkpzanptYV9BaFN0VkJwSXUyRnpLTnlFZVRSQ19oUHZqbDJQdjgzMFRQUUphZkZ5ajFDc25DMy1DZkRRT21tT1RGcHVlYm5jdFkxM29LSENZNTlCUks4bUoyQmhmUzFVV3NNUXVZNE1rSHZ5N1hzRnFldkh6bTgzVUFQNWdIeVlrdUxsWUtDYjJIYUs1MjRfbmI1dlJZWHNhdzTSAdQBQVVfeXFMTkhCOWZpdWt3RTFFT2psNlV5OWRNak5MbERpdFZMTW5RREpsRjRBT2JpVzQ0UE1ZaGxOYnJzQzhGNFFtdUZxS1EteVB1YVkzVE9VTHpyaklhMVA3dTJhR0RiN1BGSDhHRnhpY3ppaVJXZXlCNUJtVmJfUkFkZURxNE9wbC1xaXp1VGFLbmk5Nmt6VURNT2h6OHR3dFlTQkxYd3FPaEZWMG5RdDFKTGhpdVNvelgteEp1dWxOZXNmdnpid3M4Z1BoMWRDODNoa0VjTldtTTg?oc=5"
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnU0bE1XbGpJZzZCdzg1bWdUTFBCOTRhMndLYTZUZ0NEMGx1VkVJcXIxUXlSZi05ZVQxejBCcEN3aFRxckw2R0NKNXEyLU9ZMG9mdFhFcmx0Y3J2VmVYMV9FbmlQVmVCVWZ3RXEzcU9qRTZqelR2U01ONjNsalB0Rld3OWZZczN3S2VGQzVHSHlkUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnU0bE1XbGpJZzZCdzg1bWdUTFBCOTRhMndLYTZUZ0NEMGx1VkVJcXIxUXlSZi05ZVQxejBCcEN3aFRxckw2R0NKNXEyLU9ZMG9mdFhFcmx0Y3J2VmVYMV9FbmlQVmVCVWZ3RXEzcU9qRTZqelR2U01ONjNsalB0Rld3OWZZczN3S2VGQzVHSHlkUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnU0bE1XbGpJZzZCdzg1bWdUTFBCOTRhMndLYTZUZ0NEMGx1VkVJcXIxUXlSZi05ZVQxejBCcEN3aFRxckw2R0NKNXEyLU9ZMG9mdFhFcmx0Y3J2VmVYMV9FbmlQVmVCVWZ3RXEzcU9qRTZqelR2U01ONjNsalB0Rld3OWZZczN3S2VGQzVHSHlkUQ?oc=5"
       ]
     },
     {
       "title": "India's daily multimodal AI use to nearly double by 2030: Ericsson report",
-      "score": 23.93,
+      "score": 27.97,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU0F3MWhIWGxiUVZBdmEtT2FWUDZUTEFjZE9VbElldE5LRWN4bDBvOU4tQUV0UnZxYll1NGVuR2ViRVJpenFWbTRFQnZ0TUczT2xZYU1XM0Z2R1dBLTYxdGVSSmRqU1k0cXVuVE5WaVBSeEFfTTNQSEVLNW9iMnBUU3Zud3ExWG5MbGJqU1RiRUI1d0ExbzJuSHM0cTFXVUhKa3RKc2V1U1duVGRMZFotQnczQUZmZTFUMzd4b0pCTVRKc3BNYXNnVjRGVjFJRXRRNnZpTV9Mdng5QXZfTFJwaHk3TGs5Q0F4VlpFNHFiUVY1M0nSAfgBQVVfeXFMT3J4NFh6UFc4bDFaVkxkLXFEOERYWk14UXhWSlBuQXpFSGZFVHRPU21NX2NaNmQ4X0VzWDlYYWVKa0VZcHR2dnQtT0lrVEdxcEl0NXB3RkRwdHRVdW5kWm9wbjJfM0NNVHBOZU01X2ZuU1dkOU9FSUI4dS1KN2kwM1JVSzMxeVRkOEtpNzBsNEJvc1I1NmFMRTI5R0htdVpCd2paRFM1em9QRnM1QnhUQlNHbFlvT0pteW5LY08zb29uUG1wV0kzb0c2ZUJfblU3YkJELWtIVEZMZHc3eGtoYXNQWVcyQWllZjN0S1RrTGFXcm1tRVNReWk?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWklXRmRDbWJqN19DNmpFeURuQm1uc19JNllEODVPbHNab1N0T1laYlNFeVFyQUJPTDhVekR0bFczNmpJRmpUSTRlaV93SFI5MVI4LUhoUXk3VmNENEZpemhYYnphYTBVS2xqYW53R2VSOXdfWEY1RkNCMmhCYWxGOF9ueGo5S3lTOUFkTmNieE9qWXhyXzJIbWhCTzBpZFlvWms1SElUTERVNEZoR1JnMjlyM1Y1MHVzaFRqUEdrSnVMWmNoeHB6ai1sN25VaUViUWFwRWJ4cnFENndRSmlOcDVjUFFMVm1HZjVwb0NSM2U3QdIB9wFBVV95cUxPNFR4eUdzem53LXY2ZmplV1BKMWpKVm9ob0x4bnJxSkNNdmd1WkRBSWs1ZVBacXN5MldySWtaUERDbzhpOVpfUFpCTGphcWdjem1fS1pkX0NmV3F5MlZocGdCS05XSFB0Q0hjNVJpVzhHbzBvcnozMU5naTVES09sM25jOE9WYkFyellIZHhkTHBLbEk1dVdmNURLSkxMSDYyZDBOZEtfd0oxeUFnR3hrUWdVVjJRbzBIUHFpOTJiOE5IVzhnR21UbjN6V2NRZkdtZzBLOVV5VmpUMUc3RmVyT01LOXRROHV6R3EwLW5ETUM4Mmlia2ZV?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaEVmY052bVY4N2lZN3lHVnBtRWdOVUdlOGg0MHl5RWNJSmQyeGJsTkV4MkFZclhUU2NKbmpGV0FybXhHWFRxUHZyWWs0Xzc5Qk5lQ2VfQ01abVNDNkZmempneGVJQXdzYWxLQ0ttYlJMNmU5NHBzNC05QkRoZE1iWFdNWkk4NEhEQmxQR2YyRHAwNVJWMDE4bXRvaDRqU1laak0wdE5ZVXVvc2hHTUdySzg4M3dRMFdORnBrT29CWlUzRXlvT3A5Umw3bjNaWlctUWQwOUhfSkVNa3o3NDZCQWVBUDRaR2vSAewBQVVfeXFMUHctQjItMFpUcF9YQ2xqS3o2cktadVp2VTdBLUNMZEh0b3BIQ09pcm0tX2xoNnRuY0VJRWhFNnJqaWZiaWdXRzZoX3BNSnk0ZmtqaXg0aldnOFQ1Vk1HcWNyRU5nNzBpSklWNGpYNDF1QUVINnpoRlAtcVVwVnozWm5WQzNMaE9YN3Q2WWJZM3NrU1o3bV9qX19Gck5MWXducVc0Wl90bnBNSFJiSlJHaEJZUjFJd0NpRmwzbWl0em50RG5xa2R1eS0yZldVX1ljRGNZZVIxVF93eE1wa09aUHdPQ3VZOExJd09RZ0Y?oc=5"
-      ]
-    },
-    {
-      "title": "HPE to send Spaceborne Computer-4 to the Moon",
-      "score": 19.67,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnd2d0h1VzBqQTFNNHRjTF9IRUpsdzFsRlBaOUhFTE1Kd1VQQm1kSmVielZJd1Z0bTFFMEZRNnJGaXJaUnBYUloxdkxIZHY4SUVMdjEyMUFxb0JDc0xKU09kc1FjS2duWi1NbWtCaC1pb1RTUEtSQ0Noc2hyRks3RXhmTjdhM2M0dXRGR1RZRXB5THc?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnd2d0h1VzBqQTFNNHRjTF9IRUpsdzFsRlBaOUhFTE1Kd1VQQm1kSmVielZJd1Z0bTFFMEZRNnJGaXJaUnBYUloxdkxIZHY4SUVMdjEyMUFxb0JDc0xKU09kc1FjS2duWi1NbWtCaC1pb1RTUEtSQ0Noc2hyRks3RXhmTjdhM2M0dXRGR1RZRXB5THc?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnd2d0h1VzBqQTFNNHRjTF9IRUpsdzFsRlBaOUhFTE1Kd1VQQm1kSmVielZJd1Z0bTFFMEZRNnJGaXJaUnBYUloxdkxIZHY4SUVMdjEyMUFxb0JDc0xKU09kc1FjS2duWi1NbWtCaC1pb1RTUEtSQ0Noc2hyRks3RXhmTjdhM2M0dXRGR1RZRXB5THc?oc=5"
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVdLV1V2dzhackpWaVZodlViSHpFd0FydjJVX0FzWFpxdHpIcUNKZXRMaXlrNTZqX2JHNjNNY05ubnFPaURNU3hMWkJlWXFNN1B4YU9WTk1BdWR3eVgxX3pyRkczM00yWm9sOGtwdnA4Y0RNdjhmcmt4RDFMRF8xR3N5ZUlxNWZSazRRWndLVW5jMURSTkItWkMyVVlwNWdnOEJCd1BkbjA3d0pkdHVoSjZGZld3M0xGa3lfVXFkUXVTZHg5YXFjYjN2eEszZ9IB2wFBVV95cUxQLTNld19uWXo1bDNmUFFHOGV0dzdabTRLSlZuZWtJbk9VZVd1M1MxNmtXelk1a1c2UzVpYTRXa2tiOEQxODNCNlYxMEdRZm5jNFZYU1Nxd1c4ckpBbC14c3ZqZldKaDBCQ2xYd1JkVjdrQjJLN3RNNUdvVTBlQkhNc1IyY184VXIwTS14aG9zdVJsMHZUek41ZVp6ckhWTDRxY0Mwa3YzczVSQ0FvUDBUd2k3ZG12NVdETUkzUUhYc0hNUzNyT0tPb0hxeW1nTllmOWQ1OWRjQnJVbWs?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVdLV1V2dzhackpWaVZodlViSHpFd0FydjJVX0FzWFpxdHpIcUNKZXRMaXlrNTZqX2JHNjNNY05ubnFPaURNU3hMWkJlWXFNN1B4YU9WTk1BdWR3eVgxX3pyRkczM00yWm9sOGtwdnA4Y0RNdjhmcmt4RDFMRF8xR3N5ZUlxNWZSazRRWndLVW5jMURSTkItWkMyVVlwNWdnOEJCd1BkbjA3d0pkdHVoSjZGZld3M0xGa3lfVXFkUXVTZHg5YXFjYjN2eEszZ9IB2wFBVV95cUxQLTNld19uWXo1bDNmUFFHOGV0dzdabTRLSlZuZWtJbk9VZVd1M1MxNmtXelk1a1c2UzVpYTRXa2tiOEQxODNCNlYxMEdRZm5jNFZYU1Nxd1c4ckpBbC14c3ZqZldKaDBCQ2xYd1JkVjdrQjJLN3RNNUdvVTBlQkhNc1IyY184VXIwTS14aG9zdVJsMHZUek41ZVp6ckhWTDRxY0Mwa3YzczVSQ0FvUDBUd2k3ZG12NVdETUkzUUhYc0hNUzNyT0tPb0hxeW1nTllmOWQ1OWRjQnJVbWs?oc=5"
       ]
     },
     {
       "title": "ISRO Plans Four Functional Launch Pads by 2029",
-      "score": 45.97,
+      "score": 41.74,
       "kinds": [
         "backlog",
         "news"
@@ -65,14 +54,15 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjJ2LTNxN3UyRXF1SmFUSDA1Y1JJdExrNWNPakRjVFRFbkphYk0wM21MTGZZZU1XOExHeGdBejNjM0xVWDduOVprQ0hHb0M1LXQ2enFxaTlBendrcnlfemNJcW5CZUFZOERFeUpZTmNqSFJneDlfa1Z2NmJQTHV4bldrSlVjVV82MWItbVp2RHJfaU14eXRzM3lEV29TU3VDNUd1RVNtTDF4bDBFeEZDZDhJRFQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFR3MWY5STFRNDZUbjRBaEZNS1hCOFo2N3NaeXpiTV9TdFlxNHpyTDNJMDZiQ2VmRzROQjZXN2s3RUNFVm1FWjBZSGhKdGs3NThvR3ZnVW5LVnRsMWxFU1l0bTZmczdRQ1BYWmdnVGNiY2FydDlwblRGcjFpNGZFR3hNcV94M2VwRjR6OUtxQzBXY0NkLWpfaDhJRnFRREg3?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxNejlmYmMzSVFpa2s3a2o0V0FheWIyYTFnUWx6YVVPbW1sNmFnbEF1YTE5Mk55c09nd0Zub0lmTmh5WlFYMkZVN1NLWEhYd29tQUdWNnh0bmxTTXQ1MVFxSXVqb2ZVeTJRV1NObkVMSHdIZVNPQnVTTHlNTERHVzdraHVOaTlSWk1TRm15ZjBacEFIRUVYZUFqUWdXbTc0NkVZdWktelhXWFJ4RFM0MlhOM2FVdDFnVzFHM1JoMG1jTWpkcWxuR05TeFg5ZDB2QVJ0TFAyaFZ2d1BnN1NvcHRIME4zNlduYUJsc3NVcHlkQUxVRHY3TW5CVXkybmxpbldGQzhvZ1ZWdEVJV182TW5rT1BxWFXSAZsCQVVfeXFMUFpJNHQyQ08tZmVKV1QyWWh6T2hOU1FVNmlLSVoyemJTWFlST3hRTVpheEt4U0lHMTJ1Skl6S1F3UXYzdE9BVENHVlllSnRWOFJveTdMWDh5UEVCQnkyY1VWZUkyZmFmZ3ZvMEJIQl9FeFlkNlVwVkZHeDZva2dnZmc2RU9STEZqUEpvLWYyYjd2WGd4YWkxUC1tSkJwTnlxT1l2OWtZbUhobl9yaG9IUDRGSzVxS010WWc4bG1pd21waS1yc2JNRDBTRGtFa1dUbjNYMl9QY1NEX3hodEFfY0RsU01ULWU2dW9VYjZpSXVQQ01Qcl9IdWRIMjNna1JTcTQyU2RMRHN1QnFteHV1dTR2eHRkWDE2NWJmZw?oc=5"
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxNejlmYmMzSVFpa2s3a2o0V0FheWIyYTFnUWx6YVVPbW1sNmFnbEF1YTE5Mk55c09nd0Zub0lmTmh5WlFYMkZVN1NLWEhYd29tQUdWNnh0bmxTTXQ1MVFxSXVqb2ZVeTJRV1NObkVMSHdIZVNPQnVTTHlNTERHVzdraHVOaTlSWk1TRm15ZjBacEFIRUVYZUFqUWdXbTc0NkVZdWktelhXWFJ4RFM0MlhOM2FVdDFnVzFHM1JoMG1jTWpkcWxuR05TeFg5ZDB2QVJ0TFAyaFZ2d1BnN1NvcHRIME4zNlduYUJsc3NVcHlkQUxVRHY3TW5CVXkybmxpbldGQzhvZ1ZWdEVJV182TW5rT1BxWFXSAZsCQVVfeXFMUFpJNHQyQ08tZmVKV1QyWWh6T2hOU1FVNmlLSVoyemJTWFlST3hRTVpheEt4U0lHMTJ1Skl6S1F3UXYzdE9BVENHVlllSnRWOFJveTdMWDh5UEVCQnkyY1VWZUkyZmFmZ3ZvMEJIQl9FeFlkNlVwVkZHeDZva2dnZmc2RU9STEZqUEpvLWYyYjd2WGd4YWkxUC1tSkJwTnlxT1l2OWtZbUhobl9yaG9IUDRGSzVxS010WWc4bG1pd21waS1yc2JNRDBTRGtFa1dUbjNYMl9QY1NEX3hodEFfY0RsU01ULWU2dW9VYjZpSXVQQ01Qcl9IdWRIMjNna1JTcTQyU2RMRHN1QnFteHV1dTR2eHRkWDE2NWJmZw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFR3MWY5STFRNDZUbjRBaEZNS1hCOFo2N3NaeXpiTV9TdFlxNHpyTDNJMDZiQ2VmRzROQjZXN2s3RUNFVm1FWjBZSGhKdGs3NThvR3ZnVW5LVnRsMWxFU1l0bTZmczdRQ1BYWmdnVGNiY2FydDlwblRGcjFpNGZFR3hNcV94M2VwRjR6OUtxQzBXY0NkLWpfaDhJRnFRREg3?oc=5"
       ]
     },
     {
       "title": "4 launch pads by 2029: ISRO lays out India’s next big space expansion plan",
-      "score": 23.74,
+      "score": 25.5,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -83,9 +73,90 @@
       ]
     },
     {
-      "title": "Bucketlistt.com Secures ₹7.6 Crore Seed Funding to Expand Travel Experiences and Booking Technology in India",
-      "score": 21.68,
+      "title": "HPE to send Spaceborne Computer-4 to the Moon",
+      "score": 21.43,
       "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnd2d0h1VzBqQTFNNHRjTF9IRUpsdzFsRlBaOUhFTE1Kd1VQQm1kSmVielZJd1Z0bTFFMEZRNnJGaXJaUnBYUloxdkxIZHY4SUVMdjEyMUFxb0JDc0xKU09kc1FjS2duWi1NbWtCaC1pb1RTUEtSQ0Noc2hyRks3RXhmTjdhM2M0dXRGR1RZRXB5THc?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnd2d0h1VzBqQTFNNHRjTF9IRUpsdzFsRlBaOUhFTE1Kd1VQQm1kSmVielZJd1Z0bTFFMEZRNnJGaXJaUnBYUloxdkxIZHY4SUVMdjEyMUFxb0JDc0xKU09kc1FjS2duWi1NbWtCaC1pb1RTUEtSQ0Noc2hyRks3RXhmTjdhM2M0dXRGR1RZRXB5THc?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnd2d0h1VzBqQTFNNHRjTF9IRUpsdzFsRlBaOUhFTE1Kd1VQQm1kSmVielZJd1Z0bTFFMEZRNnJGaXJaUnBYUloxdkxIZHY4SUVMdjEyMUFxb0JDc0xKU09kc1FjS2duWi1NbWtCaC1pb1RTUEtSQ0Noc2hyRks3RXhmTjdhM2M0dXRGR1RZRXB5THc?oc=5"
+      ]
+    },
+    {
+      "title": "vivo Y600 is official with a 10,000mAh battery and 6.83-inch display - GSMArena.com news",
+      "score": 21.14,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1mRDUxTndLTDdUS0xJdmpqWEduREYzTUhIbW1KZWhYSUhjMUVlbkxMLXhnaVhab2xsTk81eUNpcGVVajFhVU15QURfM3dpY0dxaWNmQ204R2QtU0dJMUNuRnRKZ2Q4NXZmTGVFc05JZDBIeG5Nb1BwRHktd1pVU1BHSE1PWFNYcGt1TE82VmwyekJ3UHUyODI3UkVQSEV6di1vaUFTY3DSAaQBQVVfeXFMUGxfU2ZvLWlDbThSbngwVmtOc3J3UjZIMFgwa3BwWTFLV1ItUEZRbHAzOUgyQ0ZHaGIxcVVvOWtlbWw4UkRhMV96dHY0cUdIQVljdjB1enE3SmNoOG5OYTlvdDhGcWlLcXRod3lPekt0aWVOVDRWT2VlaFN2UDg0WHhDbGVWeUV3UEJWM2JRUnpReEx0TUQzcTJRa192VjBVU2ZqZzA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1mRDUxTndLTDdUS0xJdmpqWEduREYzTUhIbW1KZWhYSUhjMUVlbkxMLXhnaVhab2xsTk81eUNpcGVVajFhVU15QURfM3dpY0dxaWNmQ204R2QtU0dJMUNuRnRKZ2Q4NXZmTGVFc05JZDBIeG5Nb1BwRHktd1pVU1BHSE1PWFNYcGt1TE82VmwyekJ3UHUyODI3UkVQSEV6di1vaUFTY3DSAaQBQVVfeXFMUGxfU2ZvLWlDbThSbngwVmtOc3J3UjZIMFgwa3BwWTFLV1ItUEZRbHAzOUgyQ0ZHaGIxcVVvOWtlbWw4UkRhMV96dHY0cUdIQVljdjB1enE3SmNoOG5OYTlvdDhGcWlLcXRod3lPekt0aWVOVDRWT2VlaFN2UDg0WHhDbGVWeUV3UEJWM2JRUnpReEx0TUQzcTJRa192VjBVU2ZqZzA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1mRDUxTndLTDdUS0xJdmpqWEduREYzTUhIbW1KZWhYSUhjMUVlbkxMLXhnaVhab2xsTk81eUNpcGVVajFhVU15QURfM3dpY0dxaWNmQ204R2QtU0dJMUNuRnRKZ2Q4NXZmTGVFc05JZDBIeG5Nb1BwRHktd1pVU1BHSE1PWFNYcGt1TE82VmwyekJ3UHUyODI3UkVQSEV6di1vaUFTY3DSAaQBQVVfeXFMUGxfU2ZvLWlDbThSbngwVmtOc3J3UjZIMFgwa3BwWTFLV1ItUEZRbHAzOUgyQ0ZHaGIxcVVvOWtlbWw4UkRhMV96dHY0cUdIQVljdjB1enE3SmNoOG5OYTlvdDhGcWlLcXRod3lPekt0aWVOVDRWT2VlaFN2UDg0WHhDbGVWeUV3UEJWM2JRUnpReEx0TUQzcTJRa192VjBVU2ZqZzA?oc=5"
+      ]
+    },
+    {
+      "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
+      "score": 23.55,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXRTbWxla1c3aXQyZUtHVTlVSWtLOHJHMG5LaFJXVGt5akJTOGRES253c2xQRURUR2E0dGI0b09iWWhaMTdZbjR0NEZac1dCT3FoM1BlMFk2UjRSelFiTDZvMlA5WXpGSFZ4d3puOHFtaHN3SzdUWDVpazR5STZIMjhfMmhEeFFwcnRHS2VQZkZsRU01VmEtdHNDWkIzRjdVRmd6eVp3NGdkOU9DakZYcS1VVDBhd0JZWnVYYlBRMXBlQi1fNVZNV2JoWThGSXJZX2M1Vg?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU5wSndoY2gycXFSMHRwQWlaSkpmMDhDRzdQdVk1T1BQVHo1d0MzYmI2Ukd5X1I2UjRvQWlDQWpyWWdFQzR4eHBuVVdCaVBVOVVjSG15ZGlCXzZuRG4zaGdCTEZ4RzBHaWlEbDRoY1Z2cXJZel81Y1ZfM0RVZUtlSjkyV2g3SF9PZ1RtRDM4Y2E5UW4wLWZJ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXFWa2dDYjVqdFlqNHZtM3I4elJxSkM1NlB6QmtxaUdzZ25BTHJvWEJkdGtFSXpobmZZWDhqall3d0JOcU5LVEVQOEhCamgyeERxQVhHQWxkUUxsaW0wN1JQMjVxVDZQZU1MRDZ0OEdKb2ZoTHB4dFhLSTQtMFV0Vms4My04TTEwU2h6b2dKZnRrSVpkWnIwUFBSeW90azlCcmExblRVWWxvZDhVc3hXUFlnYXdQU3FCQUVQSnF2cE5mZGl0M2RXdF9RVWFYLUtjd2sw?oc=5"
+      ]
+    },
+    {
+      "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws critcism",
+      "score": 19.88,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTFxQTM3V2ZWbjQ3Q2I5ZVV0bHluS2RsWnJmRzU3THpuYTktaXkwUGFFWWJCcnAwdDJKcmlGNDB1ZjFrbUtIS2hzSkxFclBIUlFhbjZpaTFKeTMtM1NTYkRzc3ZDODljZ2Itd1JHQUVWei1COUZmdGdwaHBHYk1OeFhIeDhRXzJPWTVMeUZHZ2MycHh4bktn?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTFxQTM3V2ZWbjQ3Q2I5ZVV0bHluS2RsWnJmRzU3THpuYTktaXkwUGFFWWJCcnAwdDJKcmlGNDB1ZjFrbUtIS2hzSkxFclBIUlFhbjZpaTFKeTMtM1NTYkRzc3ZDODljZ2Itd1JHQUVWei1COUZmdGdwaHBHYk1OeFhIeDhRXzJPWTVMeUZHZ2MycHh4bktn?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTFxQTM3V2ZWbjQ3Q2I5ZVV0bHluS2RsWnJmRzU3THpuYTktaXkwUGFFWWJCcnAwdDJKcmlGNDB1ZjFrbUtIS2hzSkxFclBIUlFhbjZpaTFKeTMtM1NTYkRzc3ZDODljZ2Itd1JHQUVWei1COUZmdGdwaHBHYk1OeFhIeDhRXzJPWTVMeUZHZ2MycHh4bktn?oc=5"
+      ]
+    },
+    {
+      "title": "More Reels, fewer taps: Instagram rolls out Apple TV app in Malaysia",
+      "score": 19.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmZ3dGlySFZhVXN4ZDRFMDZ0UjA5RkdpdXExRGVxTzN5VDJ0MmZiUEtDOXU2QnpYWV9XUEtLbmJfSTNYUnRzVjlRWmR1c1ZnaFpKZEhrOW5WUi1Ic2lFZmFNdW0wNVJRWU1vWlZxNmN6cFJaeUFDQkJ6NF82WVgxdll3U18?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNU1IV3ZfaTkzUUFZc0stU0dNSFZpb1VTTndGTzB3c0xTUUE4NkZSVEVWSU9qVHBxN3BIc01nVjUtdjhzTjUxTXVnekpJZVdybkxBSXdPZzVZcE1pdllubEVDS0F0OFducWdVek83elN6eC1FTENxRUZMdzR0Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNU1IV3ZfaTkzUUFZc0stU0dNSFZpb1VTTndGTzB3c0xTUUE4NkZSVEVWSU9qVHBxN3BIc01nVjUtdjhzTjUxTXVnekpJZVdybkxBSXdPZzVZcE1pdllubEVDS0F0OFducWdVek83elN6eC1FTENxRUZMdzR0Zw?oc=5"
+      ]
+    },
+    {
+      "title": "PM Modi Inaugurates RBI Data Centre and Cybersecurity Training Institute in Bhubaneswar",
+      "score": 27.21,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTNyMkktem0zVk5wTU9rTGZOeW9rdS1pOVRpeXZkajhqT3pBcF9iS0gtMHFYblk4MVk1YjBMcTdydEVDM2RWYmlpVzlPX2dXM2RHZy1zZ0dLZ2llRTQtWWlTMUVKN3dTeXF6SzdrTVFrdHQ1NmJpQVRLVkcwUGpBOFVZUVBTLXhRZ05ZVzVPR0tEM0VOYm9oOWM5c0p1NW5TQy05dGNPWmczWFFTNzluSExoTzhVNW1DQTVMSDFSSEdKMXQwMjhQWVNuQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUWtzU09oZ0dCR2Z1NllRa1luZkJ4NDBRXy1hZ3pzekVEUEFFS3BqOVNZUS1zbEZ5aFRxUTVxbFB4QmNOTURvY3FOMG5fTGduQ0xySldfLXhzS1RmYzd0MTVSN0ltcFJ4eG1pVUI3a0ZWNnIxVHB6LUNJcnd2UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0Y4QkRhbDB5WUo3UGE0b3VyVlg0UEV3X2FuQmY2a05WM2F3UnNLNjBMN18yenhMQ0I5ZlFDSENCR3dKVWw0UnR1MXpSdHkzdkw3Q3J4MVFaeWo4WHY3SXpUNHI0bS1VUEtWWHZGMUc0QzljRTM2WWdXSmVGLVZqa05qVUZtdzdZclh5Qlc5TGlmWGZDemozeVVNRUVza2xVU19adHdyNWRYSUlzR1h1bW9nYjg0V3BCbTlGemZ4SWNyaEF3NGRYRjdpYy1ySHVNWmRFTmMyRGxVMG9jNFZmenlWOXgxUjg?oc=5"
+      ]
+    },
+    {
+      "title": "Bucketlistt.com Secures ₹7.6 Crore Seed Funding to Expand Travel Experiences and Booking Technology in India",
+      "score": 23.45,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -93,71 +164,6 @@
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxObC1RQ3VnNXdUckl6a3hmS2lIWUZWU1dpVVUzWWcteXJFUWx1clpzcVdTdnduUUxFNVhubTZGbEFEb1ZlR3lieTlSWWE3aFpYeW5qZFN2dDItNWxSdDVUWGRlZ29GOTRxWV9XUWsyQTZ6UVg4UkIydUNyRGFyNjdSU1FmVll4VlVraDJIUUhuVFQ2UE5obWFFUFQwUGs?oc=5",
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVR2SV9mQ2hoMDdaaG9Sel9vMWdmX3hZOFMyQlJqVFRvb1B5U3dzOGtqUHVFTHZEbmRqaXMzU0tZTjZ5bnRRX2hJcC1wdTNOYXdMeFdrVHBkVU11dFBJVHl1QW5fWjhRSndqRHZNTUs4NUt5VTh6TzFad1BOT1NTVUl3RmQ4WENtbklHejd2U044aGpfUXJDbGw5bXZiNU45UE5DdHlKSFFSWGJOWFR0NHdlUzVCWWdoS1E?oc=5",
         "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXd5NE5EcHlLR05pRk5vN2gxRDVXcm5HTlBNeXNrYk0zVC1aT2kxYzRRc1V5ZTc1VWRLczIxMWtuQUhsN0VMV0doOWU1U1hiMGlpcWlETXItd3I1OHFkRkZycTdQLXQ1MGpKWTYtRGRhdjBsUnFLLTVqVFJDLW85TjEzNXpLb00tUFVJX0JoOVRLUG1EUm5FemYzNUlhMXJYSFZFbzFnby1PU2l3OHR6ajZxc3JkVWtKWXkzR3Jfd0JZU1dOT29QMnBzMVF4a2wxVGRmOERTUlZKWl9KWXZ5cmdNMUZ4cWItUGp3?oc=5"
-      ]
-    },
-    {
-      "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report By Investing.com",
-      "score": 22.69,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWXFWa2dDYjVqdFlqNHZtM3I4elJxSkM1NlB6QmtxaUdzZ25BTHJvWEJkdGtFSXpobmZZWDhqall3d0JOcU5LVEVQOEhCamgyeERxQVhHQWxkUUxsaW0wN1JQMjVxVDZQZU1MRDZ0OEdKb2ZoTHB4dFhLSTQtMFV0Vms4My04TTEwU2h6b2dKZnRrSVpkWnIwUFBSeW90azlCcmExblRVWWxvZDhVc3hXUFlnYXdQU3FCQUVQSnF2cE5mZGl0M2RXdF9RVWFYLUtjd2sw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXRTbWxla1c3aXQyZUtHVTlVSWtLOHJHMG5LaFJXVGt5akJTOGRES253c2xQRURUR2E0dGI0b09iWWhaMTdZbjR0NEZac1dCT3FoM1BlMFk2UjRSelFiTDZvMlA5WXpGSFZ4d3puOHFtaHN3SzdUWDVpazR5STZIMjhfMmhEeFFwcnRHS2VQZkZsRU01VmEtdHNDWkIzRjdVRmd6eVp3NGdkOU9DakZYcS1VVDBhd0JZWnVYYlBRMXBlQi1fNVZNV2JoWThGSXJZX2M1Vg?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU5wSndoY2gycXFSMHRwQWlaSkpmMDhDRzdQdVk1T1BQVHo1d0MzYmI2Ukd5X1I2UjRvQWlDQWpyWWdFQzR4eHBuVVdCaVBVOVVjSG15ZGlCXzZuRG4zaGdCTEZ4RzBHaWlEbDRoY1Z2cXJZel81Y1ZfM0RVZUtlSjkyV2g3SF9PZ1RtRDM4Y2E5UW4wLWZJ?oc=5"
-      ]
-    },
-    {
-      "title": "Firefox brings back meme royalty for an internet throwback",
-      "score": 20.94,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUVfdmtaMm94R3Y0VkNkV0JHODE2d3huT2lHZ3NtMGwwak5OdFB1UE9aRzR3WHhpeVlIeUlzNFlCRU1sYlRVNVdkZ2ktbnRvbWZtdGt0aGExakhabnY1cF9ydHRIdnJoS0hJRExuZ2tveEV1bjBOSXJlc1VtaXpUcWxZcGlvbm5oZE01RlZtWGFMWDM2a0JOSTJyOUM?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUVfdmtaMm94R3Y0VkNkV0JHODE2d3huT2lHZ3NtMGwwak5OdFB1UE9aRzR3WHhpeVlIeUlzNFlCRU1sYlRVNVdkZ2ktbnRvbWZtdGt0aGExakhabnY1cF9ydHRIdnJoS0hJRExuZ2tveEV1bjBOSXJlc1VtaXpUcWxZcGlvbm5oZE01RlZtWGFMWDM2a0JOSTJyOUM?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUVfdmtaMm94R3Y0VkNkV0JHODE2d3huT2lHZ3NtMGwwak5OdFB1UE9aRzR3WHhpeVlIeUlzNFlCRU1sYlRVNVdkZ2ktbnRvbWZtdGt0aGExakhabnY1cF9ydHRIdnJoS0hJRExuZ2tveEV1bjBOSXJlc1VtaXpUcWxZcGlvbm5oZE01RlZtWGFMWDM2a0JOSTJyOUM?oc=5"
-      ]
-    },
-    {
-      "title": "More Reels, fewer taps: Instagram rolls out Apple TV app in Malaysia",
-      "score": 19.77,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmZ3dGlySFZhVXN4ZDRFMDZ0UjA5RkdpdXExRGVxTzN5VDJ0MmZiUEtDOXU2QnpYWV9XUEtLbmJfSTNYUnRzVjlRWmR1c1ZnaFpKZEhrOW5WUi1Ic2lFZmFNdW0wNVJRWU1vWlZxNmN6cFJaeUFDQkJ6NF82WVgxdll3U18?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUG1TcWozSktENkJHR21NYkR5bHNObFp0Ri15RHc0eWFON2dKSDN1b0dJeDZEdk1vX0pmNGNaMUQ1c1dJcTdUY0ZwTnFKTUs0QTRVdlBGMDFPQm9TS3RqekRrc1JkQ201bjZxUVkxYTY4U2NrZjJDaUJxbEJPUUJoeENmZklTWUU?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUG1TcWozSktENkJHR21NYkR5bHNObFp0Ri15RHc0eWFON2dKSDN1b0dJeDZEdk1vX0pmNGNaMUQ1c1dJcTdUY0ZwTnFKTUs0QTRVdlBGMDFPQm9TS3RqekRrc1JkQ201bjZxUVkxYTY4U2NrZjJDaUJxbEJPUUJoeENmZklTWUU?oc=5"
-      ]
-    },
-    {
-      "title": "Air India Group to shift select flights to NMIA",
-      "score": 19.69,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG9lSW9xdDRTbzB4ME05YnpFeFluSzhjaU91WlVXc2NlYWZPUGRVU0lONVN0YV9OWlJHLTJvY0ktRWlpTDdqaDRYSW1MMGl1VGs2MGpSNUVrNUJiek5lUThLdi1uZ282djE1cXVYVlppcUNhZWhFTEctMWZ1TU4yZWdJV3p6bzJ1S1E?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1N1VTh5bTBiajhyY3ROeExkT0V4bWV2cGZKd2t6V0cwXzZIdlFjUl9MeDJRbTc4amZBVktfLWx3UF9lNzNsTkJaV05ZSnIyUVJRazdRNXJ6bV9jNEdmS2x6TE5PSFdEVDRyYVBZOW5GcUtQY1pEWWdDUVpxNWFLNmJlOGNmcEptRE1wNWZMaDJYZ25rb2J2WTZqY1NZS2RjT2F4SUtqWFJ6cU1fdENWWXZ2V25YaTUzNVp2S3FnckE2cWla?oc=5"
-      ]
-    },
-    {
-      "title": "PM Modi Inaugurates RBI Data Centre and Cybersecurity Training Institute in Bhubaneswar",
-      "score": 33.44,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTNyMkktem0zVk5wTU9rTGZOeW9rdS1pOVRpeXZkajhqT3pBcF9iS0gtMHFYblk4MVk1YjBMcTdydEVDM2RWYmlpVzlPX2dXM2RHZy1zZ0dLZ2llRTQtWWlTMUVKN3dTeXF6SzdrTVFrdHQ1NmJpQVRLVkcwUGpBOFVZUVBTLXhRZ05ZVzVPR0tEM0VOYm9oOWM5c0p1NW5TQy05dGNPWmczWFFTNzluSExoTzhVNW1DQTVMSDFSSEdKMXQwMjhQWVNuQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0Y4QkRhbDB5WUo3UGE0b3VyVlg0UEV3X2FuQmY2a05WM2F3UnNLNjBMN18yenhMQ0I5ZlFDSENCR3dKVWw0UnR1MXpSdHkzdkw3Q3J4MVFaeWo4WHY3SXpUNHI0bS1VUEtWWHZGMUc0QzljRTM2WWdXSmVGLVZqa05qVUZtdzdZclh5Qlc5TGlmWGZDemozeVVNRUVza2xVU19adHdyNWRYSUlzR1h1bW9nYjg0V3BCbTlGemZ4SWNyaEF3NGRYRjdpYy1ySHVNWmRFTmMyRGxVMG9jNFZmenlWOXgxUjg?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUWtzU09oZ0dCR2Z1NllRa1luZkJ4NDBRXy1hZ3pzekVEUEFFS3BqOVNZUS1zbEZ5aFRxUTVxbFB4QmNOTURvY3FOMG5fTGduQ0xySldfLXhzS1RmYzd0MTVSN0ltcFJ4eG1pVUI3a0ZWNnIxVHB6LUNJcnd2UQ?oc=5"
       ]
     }
   ]
