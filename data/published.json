@@ -1247,5 +1247,44 @@
       "qa_passed": false,
       "posted_at": "2026-10-26T14:50:19.663503+00:00"
     }
+  },
+  "2026-10-25-evening-2214": {
+    "status": "approved",
+    "platforms": {},
+    "late": true,
+    "approved_at": "2026-10-26T14:50:22.434795+00:00"
+  },
+  "2026-10-26-evening-1705": {
+    "status": "approved",
+    "platforms": {},
+    "late": true,
+    "approved_at": "2026-10-26T14:50:22.432853+00:00"
+  },
+  "2026-10-26-evening-1801": {
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/TSgFAwpSi1A",
+      "instagram": "https://www.instagram.com/reel/De9iYQBDE91/",
+      "facebook": "https://www.facebook.com/reel/1884723759356187"
+    },
+    "late": true,
+    "approved_at": "2026-10-26T14:50:22.430895+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-26T14:50:23.621341+00:00",
+    "ids": {
+      "youtube": "TSgFAwpSi1A",
+      "instagram": "18137681065638206",
+      "facebook": "1884723759356187"
+    },
+    "info": {
+      "title": "Tata Communications AI Fiber Network for India #Shorts",
+      "topic": "Tata Communications is building a fiber network for India's AI hubs costing up to $450 million",
+      "category": "Breaking AI News",
+      "hook": "India is getting a massive AI fiber network.",
+      "seconds": 44.6,
+      "primary_keyword": "Tata Communications AI fiber",
+      "qa_passed": false,
+      "posted_at": "2026-10-26T14:51:40.485333+00:00"
+    }
   }
 }
