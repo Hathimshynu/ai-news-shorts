@@ -1248,18 +1248,20 @@
     }
   },
   "2026-10-25-evening-2214": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/1XC_sVKttts",
-      "facebook": "https://www.facebook.com/reel/1153495650535707"
+      "facebook": "https://www.facebook.com/reel/1153495650535707",
+      "instagram": "https://www.instagram.com/reel/De9j0GsFMUS/"
     },
     "late": true,
     "approved_at": "2026-10-26T14:51:43.570898+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-26T14:53:05.114998+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-26T15:03:06.653799+00:00",
     "ids": {
       "youtube": "1XC_sVKttts",
-      "facebook": "1153495650535707"
+      "facebook": "1153495650535707",
+      "instagram": "17962666137011259"
     },
     "info": {
       "title": "Apple Touchscreen MacBook Pro Rumors: Event on Oct 28 #Shorts",
@@ -1269,7 +1271,7 @@
       "seconds": 39.4,
       "primary_keyword": "Apple touchscreen MacBook Pro",
       "qa_passed": false,
-      "posted_at": "2026-10-26T14:54:14.735930+00:00"
+      "posted_at": "2026-10-26T15:03:44.918227+00:00"
     }
   },
   "2026-10-26-evening-1705": {
