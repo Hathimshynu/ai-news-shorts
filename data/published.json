@@ -1280,8 +1280,8 @@
     },
     "late": true,
     "approved_at": "2026-10-26T14:51:43.568921+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-26T14:51:44.845426+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-26T15:01:49.064482+00:00",
     "ids": {
       "youtube": "8nfZphEVjxY",
       "facebook": "1646102223828806"
@@ -1293,8 +1293,7 @@
       "hook": "AI startup lands ten crore funding",
       "seconds": 45.6,
       "primary_keyword": "Paar Autonomy funding",
-      "qa_passed": false,
-      "posted_at": "2026-10-26T14:53:02.330620+00:00"
+      "qa_passed": false
     }
   },
   "2026-10-26-evening-1801": {
