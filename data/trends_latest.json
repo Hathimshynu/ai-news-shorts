@@ -1,161 +1,162 @@
 {
-  "job_id": "2026-10-26-evening-2335",
-  "chosen": "Our newest AI Quest: Mapping the human brain",
-  "reason": "Google DeepMind's official milestone on mapping the human brain with AI represents a major science breakthrough that shows viewers the incredible potential of next-generation AI models.",
+  "job_id": "2026-10-27-evening-1701",
+  "chosen": "IIT Kharagpur Announces India's First School for Physical AI - Check Courses, Curriculum Details",
+  "reason": "IIT Kharagpur launching India's first school for Physical AI is a major educational milestone that gives Indian students and engineers a clear roadmap into the future of robotics and embodied AI.",
   "candidates": [
     {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "score": 26.51,
+      "title": "IIT Kharagpur Announces India's First School for Physical AI - Check Courses, Curriculum Details",
+      "score": 21.24,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb0llTjA3SV9RU0JLNGpUc0JwMWs2Y3pLMmdaVEFfcC1YRmZUUDk0MHd4cVZMWXJwd1AzUHdEUG9DMy14UW1lTEg5NkJqZ1Z0NjU4V3N5c2x3M1BNbWQ4dVlCU3pBSWdaLVFoRTJZVE5iMzNvcFZVREFYTWFBVGVVZ0NHMDd5LWZmVUd6N3pLQkJuaGNvQjF0bE5jYzlQdlFWcWluUTFKQUZxWXpJWW56Q29RcTN4aXZ6Z2ZqOWV1TFlfeHRIdnVvbm80LVcwM01ibGkzRy1Ga0NSdXVKOGdDMzY2Zmg3QdIB5gFBVV95cUxPb0llTjA3SV9RU0JLNGpUc0JwMWs2Y3pLMmdaVEFfcC1YRmZUUDk0MHd4cVZMWXJwd1AzUHdEUG9DMy14UW1lTEg5NkJqZ1Z0NjU4V3N5c2x3M1BNbWQ4dVlCU3pBSWdaLVFoRTJZVE5iMzNvcFZVREFYTWFBVGVVZ0NHMDd5LWZmVUd6N3pLQkJuaGNvQjF0bE5jYzlQdlFWcWluUTFKQUZxWXpJWW56Q29RcTN4aXZ6Z2ZqOWV1TFlfeHRIdnVvbm80LVcwM01ibGkzRy1Ga0NSdXVKOGdDMzY2Zmg3QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFdUbUxONFF2ak9DRlRoQUM5X3lDSkFmRzl4MTk0YUZGQUxlOHFxSUZucmxwMDFMbU16NXRuc2hYNDBZaHFoNlZaTVZPT1VIUktjellqeU1qbEtVdmlaME5pMlUtM2FLZlF2dExjY09EZ19QMmRoS2JPZHZJM25Yd3FtSGJwYkVZakZ6U0FOWEhwQmljcHFJSXVkYWJwMmxKdlpHRll4aFYyZE1oUkRnZ09B0gG6AUFVX3lxTFBwWFd6Q2V0UjByTVVySTF2MWRad1UyMGtvekZ1ZVhSbXBWakRwNWk2aXNINDZ3VXBRN2lReC1DR2twTmZUMC1iN0otZDNMbXJlX2VfX0xpTVo1SXI4MVNNT09XdDZoOTJsdXBfSjVIbUtOQm9ORVVKdW5TTmdNZnIyMmQ1RjZwT0ZXV2txcjBMS0dYYWctaUlpM01JZnRFdDFCbVhEZmlfTms4M2pOZWQwT1lUYW1hWW90Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVk96eDJoTjlwc1FXdWQ3cHdBcnlRNzR4ZXhGUnRiQURzdURFWThRNEdIeHNKSTBzMi1EdVVwZ2ZwMF93YmtkcEc5ejk0Ull5aUhZYlRTNG16ekdsWmlSZjloTkFpUUlhY1RlQzBxNXA1TWs1cTRUQTR0MklzM3Vmcmd5WFM4bUdwbjRaVkREOWxEaTU3SFg4QnlZOEpqNmVvbXY5TA?oc=5"
+      ]
+    },
+    {
+      "title": "Sarvam Inks 5-Year Pact With Defence Ministry For AI Projects Across Armed Forces",
+      "score": 23.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUZoRTJON1VMNXlWTnZRcEhhZURFWS1Sam42NE1YXzFHM2R4ZTBNdENfM2VnSnJjYUVlY0Y3QTV5WVVkQVU5emFRem96UWpsNkNIeG5aZG5RRW1wT1RtYnRRMXZGZS1kOWVuWEVLekVsRl9zeXRfcjlsbDlhb2thdVdiWlZ2Ymg2T3V0MUV3aHl4WUtRdFJCR0xQN3ZyYmtXTkxNY3Z5Z2ZZRW45clZlWnVuR1VaUmpldllZVFRMbWYtdE5weWxCcTdJbWpjdjhVMk1ZTUFoSFlaQ1FFRUHSAeMBQVVfeXFMTmNvODlGaFg5U19CZ0EydlZiZHlQeHQ5alNheXBFbGF4LTh0QW1xVkF3RmNjUGctQjhuZlZPa2wxVC1KOEtvVUhadGNrNWZ5R3BYWWp5Q0xGb09xWXNITm5CTzQzLWJyelhYczVmUWVkTWY1eXRNRnJDejIyWGwxMHl4UFNGX0wwVUNISFlpb1I5SUJNWjhPN25vRTAybDE1OER0Mnpsamw1Qk9VWFY0bG1pY3FyTmVRYkRDcDNRRjRZT1VUVUJMUlJJTVJuQ0plNlM5QnRyOTJJZGJqSmszeUViZDg?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOckNrWVRwVlM2cEVsYWRNOXVZZEhZaDhiamFlaEJFVUFha2puSVRlVVhjR1NkeUtpZm1JX3RQZEZ4OGk5RXNHV1RHa1dMRGJzaVQ4aXpYMXBUamZpczN6dnl6dGktNHFfMll3RHh6RHMybDRPNVhaei01ekRsNWtQM3o1NWlwRURVM00wb0FFRDBlOVZ2MGZjNDVENDJXZHBJNkZvRE1SNmpWMmZUUWd1OHJsSWlvTnBRWDlsUFJTVnBoSWxEVWRmMFlQR2twZ1FHeTA2NGljSW96a0lrUlNMYw?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3YxSkU5YVdycm05QUVLekdCN3NOT2hSRDZfVDM4b3pNazlLaU1nZWFEZV8za2tXN2M4OFphUkhvQlhTUTJLd2gtdVRpM3pvVXZPSGhYaTI1Z0gxbGJEbUo5MkJLVE5HNDVnTEF6S1BuN3ZOdG5tZkwtVUtnWHVNZWlwZnM3QjljYzBIUEx3ZkRaTGF4UmpVaVpnYXU0bnBzNV9PeUhBRDBQNWRVWXg3bzhUMkMtMFhRTDVGcGw2b0NnZmdLVllB0gHMAUFVX3lxTE5qLV9vWThJRFRoVWpEX3hjb1dXMUJZQkNFRXNzZTNnenVPcGFsaV9RUVo1RVlsc050WWlTN0ZQdzczVngyV1FQSTZvS3dQOWE3MmlSUkRQVzJPYjFkOHRCaVowaEFqdnNfTTdqWnotV3daY1RvNURzTE52U085NU5HLUUxREdqQkwtQXpLXzdrVVQybEhuZHlJRktDRXJkckhfMjdFbHpEMlVXQk5UcDUtUmRfWVY5b3lFRWFzYVgtUUIzWVo3Vy0zZ1VVVw?oc=5"
+      ]
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "score": 21.64,
       "kinds": [
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWtaclp0U1ItbzJsazQyNHNpd2RSY09zV1hDTFZsT1RvSjJEREZwYTB2UmRxbHBnbzdudjl4NklIbGV0WlgtcTd6NXhQUHRPUWZBamFhUVlEWUFJV3FCRkZETTZJbkx3MVRTUzZOTF9NamsxUnVZVFF3RkwzdnR0YUkwYnp1LVpCTlJGdg?oc=5",
-        "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
+        "https://openai.com/index/greptile-code-review-codex-astra"
       ]
     },
     {
-      "title": "IIT Kharagpur to set up India's first dedicated academic school focused on Physical AI",
-      "score": 19.8,
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "score": 21.56,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5",
+        "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      ]
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "score": 20.85,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NZVQ2WVFsSTFYMUtGcm1VSXZLT0VUSGphTmNlNWtpZ2RiN3lfU0dtVjZKU05acWd4UzN3NTIxdEU5bWxvZlB2Z1VPMGFJTUlmYm04bWhxa1NacU55dVNPTTMxODZJRktLXzRB?oc=5",
+        "https://openai.com/index/openai-cut-incident-investigation"
+      ]
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "score": 21.55,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
+        "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+      ]
+    },
+    {
+      "title": "India to launch NVS-03 satellite to bolster NAVIC",
+      "score": 23.7,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSUFPMFQ4Mm9KUTlQZWRua2hodkdnNmVoR21ibElhRkJNbkF6MVVXTHFKeUd5eHpPWEpHdUhFcFNCNzlFcEZWc2Fib25RMUJoZ1Y0bFNvTmNhZlZmeXhUdzFfcmF5cHMyMG5hVkhtUVJxQ1FpWklxRVhBcmlwZDNOUzB2LTcxb3RWa0J1ZFMyLWlZeFNlZmZrRnY2cGFocUJtaGZrWl9tNnJ1MVZ2VGdFUzNFOU5TWUp2b1Y3YjlNT3o4MWhQTVVKOUR0TGc5cjJMN1lBMW5SOEXSAd4BQVVfeXFMTzYxdzNFV2J3S2VWNVJTVTRCV2pXYUVRN1IyYlJ0VktxT1ViaDY1MVdJQmplQURLMm9KcWhaSGNIUks4Mm0yd2x3akVBaHY3WGNPUW9KXzJERVlfamJMY2RneXpaSFNrRDhIY1NpMnZ1Tk1pb1dqYkpDZXpiVURoYjdzODFwUHlPaGRYYTctbFlucnZWWlpOaTZwV200ZG10c3RSaU56OHRiVTdYQmRNV0R2ZEJaSzkxNlVCZVVPSV9JRWo1bE5wbExSaFJsLUtBUlYzdm9XZHZCUlJWQl9R?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcktVSWdqWW5JV0NwREFLNlhFdEthYldtLThtbmNNalNMWWRPTExPa2h5dTVZR3VHQUVjZVpKc1BuZWVkZlhBLXB0YVNwX3pmWXBwZXMxNWc4LVpMUTFuMk41NU1JU2ZBeEp6S09jSFZwbDB4c1A0X1ZWX2dkcUhsbVFkS0YxbXdoaEFIUEN1NDhuYV9Va050SDZ0TEtwM2Y3STdyM0Vmb205MFZoNk5ZSUdrY2N1SWY3UU1xbFlyODJ0cTJkdVVpWlZTeVNEM0JEZEtiLdIB2gFBVV95cUxPYnMxN0hnMXVlY2stSDRHSjRaT1A4WFZoOG5XTms0WjU2UTFUeGF2TTlYSDJCNGhzQTdySDlrSEZjeTliQmVrTE1oV3Q4Z0RJd3c0N21ia0NMc21OZ3RSdXdraW0tUENQVk02LUFwNUowa3F0b0g1WWRFYUREMkpFeVpvMFNsRC1veWlEWXQwOVVMNzhBYW5ldFNtQld0VXIycDBPWkZWMG9hbzRwNHQ5bmxBWFkxdGFGb1FQdE5YM3BfTENnMmczY2ZtTE5mTVpOZVVsX0ZFQUx3dw?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZl9qbmg2NzdoNnQybW1jZ3BjYmlmUURaSGhVdUZSRUZheEY2UFlDVWRTWHZWWmY1ZXo4RjlocUwxdXU0OFFEWGxoRTJ1eHNnMkF2Wm1lQTFSYlpRb1lfNnZZZjlFQV8wVWJfTllQdzU3R2ctSzVxczBZRl9jTzhqQ2h6ZG40Z9IBiwFBVV95cUxPaE9UclBkQWxlV000TlFhS3pUUVFkZEF5XzQ0MEVLT19YLTZwV0JjYXgyWUdoYTlZcnp5YUtGaHV5a25yRm9FRndIU1dHXy1VV0ppU3V4dWtYYjBzVDFpaE43TVhab0RIV3FVcS1zT2EzMlRnZi1xTkpCMFNaUUdZZ0tNTXVjeHJoQ25j?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3QxNVBMNnh0XzBxM1JKQlFfR1R4T05sZjVWNm1vTVdxcjZ4WEdtT1pOcFNzYVo4dkhQOXZDMEdqYndxQUhKTE9TT2NEYUNkNVkwTnN3ZVlaUngteHhCcEpZSEc2R1BZTTVyLVZXT0JpSlhjeS1xejRoa1d4Wl9kcmpWM0pIQWlIUlQ2bVQtUkdxS1FqTlp6TWpvWjdUREZEMmtyU1dJQWMxd0luNVp4MlBEM1djRUk4S3d3ell6YTZoQ24tSFFJOHRLNNIB0AFBVV95cUxNZHQyNVg1WkV4MzRfOXdWcWRxTGF0ei1ZbnBrVGJLMVVSbmlMSHZfQkJuNnEzMmlWNHZlcWZBVkttSHZfcnNKZWhDai1hZEY0R1FlTWRWSlZ5eGlELXJkeWVHNzhsVjRDQXh5aUJlZFdvVXVTdjh5VUlsVkNlUVZZRkhvTnRxV2VmYVVkZEVyMHRFUkNyQWZhbDdnOGZ5TXV4WXRSMmFBY3Q3ejRuUElxZnh3VkRJQmpmOE5sbXB1QWZSOVEtSjU5cVFqQVBzZzd4?oc=5"
       ]
     },
     {
-      "title": "Springer Nature and Google DeepMind to build ‘peer review assistant’",
-      "score": 19.21,
+      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+      "score": 35.91,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdlQxdFEySHFaZHhYekFleFJOa25mcl9CbFRPTWtMNjNTMUt2cFJiWFp3YTk4SUs2eGQ1eXZuRHlQb1NaU0lHdloyQ0piV2FheVRTSG9KUVd0N2JtM0ItZVkzTXhUQVh5d2xDR3BxTlg4ZjhfSmZYM2RFU1NfVlNjd3lwVURwVklwQVNiRExNeUZfZm5XTHBVZkRUV0haTUtPVlVyanZTaGJ2ZFNNRXM1M1Z2WXV2ekx0T0Nnemx1aWhKdHdVdGlnZTRR?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjFjOFh5UnpOUXlfc1VoOGhyXy1ZNDJVZHhDM2VwR2hLaU1tb2FCbWpWVGZuTFRlNm9RV1FHbk5KNk02bEtFbGNlaTNlX3BvazZ4ZUY0a1N3RlFUb29KWVJtSGJXUXZYajRBQkpmQlRxSUg2OTJYZnVpWTlmV2dlRFpmbWhVdmpRYkg1Y0d3aDlTU2FpZVJkejFGajJFc2lGVENHZGpGTGRtVFRmNjFPYWxNSmk?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVJEd293OHJCNjhnUE5jLWp1QWRwME9iclRSTlhVcTBsdEpTX3JwOGFyTlhtR1lRQmVlQnY2dWFVUHNLdE9HRTBiUTRDSUlvZ1AwVFMtdUV2MERGWUZ1cVR4SEUzNkZDREloeEVvXzF3TnJ2MTI5b0FLZTEyWmtVUGpLeXVZRkxsWGNkbVdZaDFZa1o2dmYtWjdCLXVfRXFsV2otOHI2SQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZw?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndWcnBMUndQT1F4bU8zeXdiQmdFYTIwX3gxSVlYaGQ3UU1HY2FpSDg2VVd4Ui1GTjNnVkRPZzdDMGg3TFF1VGVxVVNPLThFZFppZEVZMlEtSGt6NlVDaVgweGJ2NUIxMnVURW5MVDNlN0NBTndiVXlwSW5qRURBSzU3cXpBMGtWRms2X04tSXM4ZUxRZmhkN1Y5Q3lsU3V6SVV3QXlvY9IBrwFBVV95cUxPbjZnNmlhOFR0eTB2cHA3dEd4NmF0TEpQWVUwc2lQcWVqSmNQNk1icHhIc0lZbFhjbzdmZzhoazUwUm9tTXRrZDE1ZGU3WllOUkV0d1M4X3pTTzI1SG5Ja283ZzdPSXRjS0FfMU5kNFlkYXBQak5qMmFUbEU0Umt5RmNrSDhfbzlPUEFGR0ZZZ2ltSG5hQlk3dnBuMlJONDBCbVM3ejZmYjZ1Y1RJLWN3?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5"
       ]
     },
     {
-      "title": "India to expand its space operations with four functional launch pads by 2029, says ISRO Chairman",
-      "score": 42.67,
+      "title": "Anthropic S-1 filing decoded: Soaring revenue, voting structure, existential risks, and more",
+      "score": 24.35,
       "kinds": [
-        "backlog",
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE5xNTdBVVNFOXl2RkNobFU4S05hek1lZFdEQUFRdkhWS3VKVXpYWFZWRlBNbTNLaXotWHRmYUV2WXk3NUhTaTkzLVM0T1k5eklwRy1Dbk1EdFAzOGlPVmtKRnJoSDVlcTRpdVRFOTAxRU0xQ3hiWndxSERvOE5yVGtoUmZPWlJtdUNZUTYwc2FtbUEteEpLYTZrMUxhV3BiNkZQRDJoWGtUcVhLU3I4NWYyNTNUNk5hUUpCXzhxVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFR3MWY5STFRNDZUbjRBaEZNS1hCOFo2N3NaeXpiTV9TdFlxNHpyTDNJMDZiQ2VmRzROQjZXN2s3RUNFVm1FWjBZSGhKdGs3NThvR3ZnVW5LVnRsMWxFU1l0bTZmczdRQ1BYWmdnVGNiY2FydDlwblRGcjFpNGZFR3hNcV94M2VwRjR6OUtxQzBXY0NkLWpfaDhJRnFRREg3?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjJ2LTNxN3UyRXF1SmFUSDA1Y1JJdExrNWNPakRjVFRFbkphYk0wM21MTGZZZU1XOExHeGdBejNjM0xVWDduOVprQ0hHb0M1LXQ2enFxaTlBendrcnlfemNJcW5CZUFZOERFeUpZTmNqSFJneDlfa1Z2NmJQTHV4bldrSlVjVV82MWItbVp2RHJfaU14eXRzM3lEV29TU3VDNUd1RVNtTDF4bDBFeEZDZDhJRFQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYURZaVRjdDdhaXlzSDh1LWR3REFzWElWNGt5clZvRGNxOVFOY1oydzZidWhQQ01reVdCcVZBa3BpcXFLWUs0dXVnMG00MlNCSVJ0c0ZJUUZqdkNydFRGRkhFT3Z2RXJCNXBwV3NIOXg3UzJtcGx4aEFHYmNGaE5Obl9ScmNIaFBGU0tKUEhBOGhFYTllajV0M3JoVHcwbzVZNVA5TGs0dGJNY3N4T2RIcGFmNTllOTd1cWdIMjZqYklKQ2hkNFg2cjhfSTI1MWZmdFpON3RuOWJiNVpfdU5ObjBqR3I2MUxLV19odHFvbE91YVFWaFHSAfsBQVVfeXFMTy1sanhMM05XRlBBVmh1dWVVWHRPVDVhSDhrWTQwMENBOEFINDItWXVmcnowQjluU1ZKcEloSkJWVzJENVBwU0JkOVRWdkpiVmFRRDI0dGw4RGVZT3dXYUM3ejRiY0s3YlFhYzRkRkUzY2tJcGVaNU1xMUJWYklnaS1jWTE2LUwyMHdKWUJuVUhEV3RMX2QwSVVlUk90QzZ3TUVBSW1JZnFsVjJpQndaU21SZm95Zm80NkJSVzV3TXBLbUlCRERGa1VNd3NhUkpxcDA2a2JJQU5CVVdaSnVsaWhpRVpJVFNtU2V6MXJQcXpRa0p1M1JDdlVJVEE?oc=5",
+        "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
       ]
     },
     {
-      "title": "India's daily multimodal AI use to nearly double by 2030: Ericsson report",
-      "score": 24.58,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU0F3MWhIWGxiUVZBdmEtT2FWUDZUTEFjZE9VbElldE5LRWN4bDBvOU4tQUV0UnZxYll1NGVuR2ViRVJpenFWbTRFQnZ0TUczT2xZYU1XM0Z2R1dBLTYxdGVSSmRqU1k0cXVuVE5WaVBSeEFfTTNQSEVLNW9iMnBUU3Zud3ExWG5MbGJqU1RiRUI1d0ExbzJuSHM0cTFXVUhKa3RKc2V1U1duVGRMZFotQnczQUZmZTFUMzd4b0pCTVRKc3BNYXNnVjRGVjFJRXRRNnZpTV9Mdng5QXZfTFJwaHk3TGs5Q0F4VlpFNHFiUVY1M0nSAfgBQVVfeXFMT3J4NFh6UFc4bDFaVkxkLXFEOERYWk14UXhWSlBuQXpFSGZFVHRPU21NX2NaNmQ4X0VzWDlYYWVKa0VZcHR2dnQtT0lrVEdxcEl0NXB3RkRwdHRVdW5kWm9wbjJfM0NNVHBOZU01X2ZuU1dkOU9FSUI4dS1KN2kwM1JVSzMxeVRkOEtpNzBsNEJvc1I1NmFMRTI5R0htdVpCd2paRFM1em9QRnM1QnhUQlNHbFlvT0pteW5LY08zb29uUG1wV0kzb0c2ZUJfblU3YkJELWtIVEZMZHc3eGtoYXNQWVcyQWllZjN0S1RrTGFXcm1tRVNReWk?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVdLV1V2dzhackpWaVZodlViSHpFd0FydjJVX0FzWFpxdHpIcUNKZXRMaXlrNTZqX2JHNjNNY05ubnFPaURNU3hMWkJlWXFNN1B4YU9WTk1BdWR3eVgxX3pyRkczM00yWm9sOGtwdnA4Y0RNdjhmcmt4RDFMRF8xR3N5ZUlxNWZSazRRWndLVW5jMURSTkItWkMyVVlwNWdnOEJCd1BkbjA3d0pkdHVoSjZGZld3M0xGa3lfVXFkUXVTZHg5YXFjYjN2eEszZ9IB2wFBVV95cUxQLTNld19uWXo1bDNmUFFHOGV0dzdabTRLSlZuZWtJbk9VZVd1M1MxNmtXelk1a1c2UzVpYTRXa2tiOEQxODNCNlYxMEdRZm5jNFZYU1Nxd1c4ckpBbC14c3ZqZldKaDBCQ2xYd1JkVjdrQjJLN3RNNUdvVTBlQkhNc1IyY184VXIwTS14aG9zdVJsMHZUek41ZVp6ckhWTDRxY0Mwa3YzczVSQ0FvUDBUd2k3ZG12NVdETUkzUUhYc0hNUzNyT0tPb0hxeW1nTllmOWQ1OWRjQnJVbWs?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjFKU1A5WDR0WjFxb0hncFdEc3pzQXpCcjU4VWxLM3gwNGljWjMyZ0JWb2g4V3RZN3BKbUtObmdJTm1yckFKUzAxUGl5cVJfSmhISTF6bTdaNzB5QmpNaTZsSmtucDFjMWhScWxqemIzTk1rbFhrLWlQMGVZLUdSMzNmRkZNeW9SRmJqSmVBVnEwUnJqWmxVa1dYT2JrUndKeWtRSTFrOWFncjNFN25aNThZTlB1NUkwaEZlamhUTTRncFNEZ2NxSDctREHSAcwBQVVfeXFMT0oxSlNQOVg0dFoxcW9IZ3BXRHN6c0F6QnI1OFVsSzN4MDRpY1ozMmdCVm9oOFd0WTdwSm1LTm5nSU5tcnJBSlMwMVBpeXFSX0poSEkxem03WjcweUJqTWk2bEprbnAxYzFoUnFsanpiM05Na2xYay1pUDBlWS1HUjMzZkZGTXlvUkZiakplQVZxMFJyalpsVWtXWE9ia1J3SnlrUUkxazlhZ3IzRTduWjU4WU5QdTVJMGhGZWpoVE00Z3BTRGdjcUg3LURB?oc=5"
-      ]
-    },
-    {
-      "title": "electronic fibers weave touchscreen into sleeve that survives machine washing",
-      "score": 21.54,
+      "title": "Infinix GT 50 Pro Launched In India With Shoulder Triggers & Dedicated Gaming Accessories: Price, Features",
+      "score": 23.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa0tJbmZ4RFJHRTNwcFRtMldnZVpqLXVkLWpWcVotUzRXQUJidFBpTTBDbi1yMFBzYzlPYXIzSFBWOUg2NGlzR2FNY2FxU190SnYwVERKcm43bFRrelFWUU8wYzNKSTdaVXFyTkQtZmRsQlBwbDFLOXZkSjBybWsyMWgyRV91U0xNUmpXMTZFRlNobTczWk5tb1NGb3JMekl2dEdrc0x4WWtvelltaExEeVZhLWxvMlllWUFZU0c4Q2ZaUXQ3cGlIbHNEaXQxbXg4SFVnWlNGbw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa0tJbmZ4RFJHRTNwcFRtMldnZVpqLXVkLWpWcVotUzRXQUJidFBpTTBDbi1yMFBzYzlPYXIzSFBWOUg2NGlzR2FNY2FxU190SnYwVERKcm43bFRrelFWUU8wYzNKSTdaVXFyTkQtZmRsQlBwbDFLOXZkSjBybWsyMWgyRV91U0xNUmpXMTZFRlNobTczWk5tb1NGb3JMekl2dEdrc0x4WWtvelltaExEeVZhLWxvMlllWUFZU0c4Q2ZaUXQ3cGlIbHNEaXQxbXg4SFVnWlNGbw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa0tJbmZ4RFJHRTNwcFRtMldnZVpqLXVkLWpWcVotUzRXQUJidFBpTTBDbi1yMFBzYzlPYXIzSFBWOUg2NGlzR2FNY2FxU190SnYwVERKcm43bFRrelFWUU8wYzNKSTdaVXFyTkQtZmRsQlBwbDFLOXZkSjBybWsyMWgyRV91U0xNUmpXMTZFRlNobTczWk5tb1NGb3JMekl2dEdrc0x4WWtvelltaExEeVZhLWxvMlllWUFZU0c4Q2ZaUXQ3cGlIbHNEaXQxbXg4SFVnWlNGbw?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJaWEYzZHkxWElpeUFVVXhUOEVRN2NQdUxQcXZ6VjFOR3pORmFlR0ItSms2bzVYMmRIYUM1cTlzVm0zYXpFbTlSTVBKeE81T01NaDJWWWlHUi1vZGFuOEtSeGp1cG5wZkd5aEMyX25hbHNHZFdUWjBWRHlNWGM2UXZ2S1UyVW04Tm9MZFVMSUdoSHN4R3VZVF9FMnJVQWY0bXF0clktclQ0alRNdkt5V3lmd1VMS01UeDFHU0tHQzBzR3PSAcgBQVVfeXFMUF9kajhlSXZYczJmN2lEdFZEbkZiQjdRUUZ4TFN1Yl9XY1pLeUJSZ19JejZLQ2ItNHg4SmdOM3ZEaloxd29mWTFlOXpiU0JVRTdkS3lWOVN0UW1SQ3loa0xQNm5ReWNTY1VMVS1weWdyRXQzMkpBcHVMdlhVM0NOcEtmaGRPY2NDNWxLbnluLVZ0UzZHX2ZOTFhIYVhkNmtMSEZma3pvWDZUeEgtdkg3Rjh6ZWhiNmUxMW9HRURpb2k3bllGbGlLQjg?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXhnVWJlR2wxUFFpaWJicTJDUFF3SFNaeFYxUnViNDlFak1TLXBXVW1jenRyZjhfQlN4a0VWZTBMakU4YWN3bHNhNzVVTXl6SWd1VzVyZHFsWmVRVDI2U1hhZkRwRFdNUjlZRTdTNlowWU1wTjFyQ2Q4WmktOWdURV91NzF6Q2JybDdSbHZwRWUzRmdWN3ZONF9PV0o1MlZRc1pBbjFBUVhnYVZfejVFVlhB?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObnk4el9pdnNnWWNOYnhRQWVKcUtEXzZXMTlzZ2Q1eDVnc0h2RjF1VFd2bWVrMjBJU0JMaWxSQTZRTkRYNWVjVUhtd0tLZkhKcFZqUWNSczVvRW45QnlJTFdKUm5qdmhfZmtqMHVQNEhrUUxNYWpzS0ZwcHNYUlJyQlhadktnR21kNlYtSGZjQ3RUNktndlNJbHVKVC04b29RZnJXbkdSWEJqQUR5cWF0ZkdNeTVYbGQxMGZOM1hsMmxyQmZkS204NzlERWItZHhGOXVxVXBmR2FpTU9Bd1HSAd4BQVVfeXFMTm55OHpfaXZzZ1ljTmJ4UUFlSnFLRF82VzE5c2dkNXg1Z3NIdkYxdVRXdm1lazIwSVNCTGlsUkE2UU5EWDVlY1VIbXdLS2ZISnBWalFjUnM1b0VuOUJ5SUxXSlJuanZoX2ZrajB1UDRIa1FMTWFqc0tGcHBzWFJSckJYWnZLZ0dtZDZWLUhmY0N0VDZLZ3ZTSWx1SlQtOG9vUWZyV25HUlhCakFEeXFhdGZHTXk1WGxkMTBmTjNYbDJsckJmZEttODc5REViLWR4Rjl1cVVwZkdhaU1PQXdR?oc=5"
       ]
     },
     {
-      "title": "NVS-03 Satellite Launch Set for October 30, 2026",
-      "score": 19.3,
+      "title": "Initial global sales of iPhone 18 Pro higher than 17 series: Counterpoint Research",
+      "score": 23.39,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQclNHQ1ZIakRKbzdGdHJiVWN4WURJUWUwdUtiaGpTMVU0R1lwaGZ4Rko4ejZMYU0tclZqOU1PRU9Ucjc1Ri1OZkpYNWRXaDEwRzZ1TkhOVGpHcjFDSFAwYkR3T2dMRU1xb2hFMVoxVW1EQTVWcnlLRVd4ZUstUkxNa0tGaVFxdWs5NWFrd2I3Y3JDVGtVNnNhNlByT2R4Q3N2U05CUnpiTVJpYlVfUmpzTjFOdlR0S3ZVUGlzRjhDNkFKZkx4WkdCeGxwaGh4ZTdPWVgwaE4tcWZHdkRCQjdzM1hOQW42dkk4amdmNktjS0lRanRHNjN4Tmo5OWJCQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUhjM0doMmNzOUtKVUtCTVQ0T1k4bjRDMnZySWxyeFJJaHUzcVNSWXdLa2pmTEdWNHlWS2h4U3Y4d3RPSXhfR3F1ZjREclpNdXlHRVVtS0RmVWlZMG02MWNhYzJRcTlFcllxcUR0SDl0ZmFoLUpNUUtrU3F0SkJIdF9sOUxRaDhUYWZBVVI0MnhnaGhsSFpOc3IzelpwcDhNQWfSAacBQVVfeXFMTTdaU3VVdl84MHdxVmRaeG1lY2dFX25BdFM4WFJkYVFwbUFjOWU5bFN5WWJMem9ZY1BHRzVHWXIzMUI1bWxtNUVOWFlPdG1PY3JNYzY3ODJwTWJXRlZhd1NES28zWHdGeVg1NW5PVU1tR2ZnREZPMEd6eDQ1UGNjYUFwa0tVMlFXTnRJUENTYV9RQVpxWUxvcXVGM2xybmtzN1ZVTnp0bVE?oc=5"
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNGNObnhnQnk4d0lFZ0doN1RmU1A1TnJWMDBIR1JuTUtOVzVFTldBR1hPQXpCU0dicktzd013bkJ5UkNlZWZPc2ZzdjhKLTlvNElNRV9iOWJxd210OEs0VzVwVXJ4NUJxNkJQMEVhVFJGT3NJMFhPM182X0N4Y2RWUDZBV2ZkNGhSQU5HTWFCWVoyNDYyRUV2TkozWi0zblBSZ19FNjNZSVA0VE5Wc0hpNW5OWEVxX0I4ZFJCS1ptaVQyX0pVSkk2bUVWczdnQy10bmdCcXFrcjgtSXdQWnFySEJMMU15bmRIX09xMUdselk3ek94N3Br0gH-AUFVX3lxTE5RSW9tU1RuM1huZU5uUnl2YldySzJmTmE2S1VLVGlreWZWaVk2ZXI3T3MyaVh6ZjkzeG1NNXFFRTc2MjBzMkhOMXhOaGhvNHFhaDFZNHVXTXJ4X0JKQ0YtWGJLMzdUU05DcG0wNG9JbjA1dTg0aHRLZ25jT0NucTRLa1VSRzJ0MjQ5alhMXzlCQkNkcXFYa2hNNzI3Z2E5dllMQ2Vod0Mzbm9vckRtZHVxZ2dRbWdZZEJWVV9qQ1NRdVpQdVg3ZjN0Z21qWnMtSk8zcXJfNmkwR0tHOGdXY0hDOXNMZGt5U3NaNVVhNkx2Rk55TDU4Z28wTUhPUElR?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWllY1ZkSDY3SkIyUGxuNVZSSlhMc09XeS00Y2k2Mkg3WDh3UVQ2aVZOQ0xaUnNwcy1xUi1qYVpnZWJCd2ZOSnpUeURoLUZpb1d2WGZKS0E3ZTZxUU16QThYYUh1bEc1aGstb0V1OTF5MVI2TEN2Y2h4MGYwQ0IzT01meGtuMGpubk1CVGtDbXZHbTFoVDh6eHdBdHFYNGpjUFRHZnVXNTZEeFdkb0QxM2FLSFdlVTDSAbwBQVVfeXFMUDRBSXJxUm80SG9fbXV4d1BNcEUyQzRNcHFEdkxJMGpFM28wTHpFVUh3RDgyazJCNF9YSVo1Z3R4ZE45Mkpkc3NlejRwMXhHUU1TRGZqWGx3bDNaU1RPbEp5UzJNOUFtYlFWMlJ0ZlN2Uko5b3hxd2NpNkwxcDRXR0FpZzFmeXdrdEU1UGZVSEgyWDRPaUhXRXBYSXVXVHRybi1DRnJYdmJmbFR4MGFrelRXdnBqZHhRVXNEZ2M?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQW1QdE1ZTHBvdnFENHNJZTJEMDJ1eldPZ0FOQWJlcURGNFNoMk9TQXQzOUdWazBTZHFpaEEtMHpGa3RqZnpxcmRVMjJrT0hsc1FiYXp0Uko1RFhoajYteDRPdkdWb2p6dXVlazdIaE14dzZDT05wRE9qdVN4NTR3QmM1Z2lSbzk0c002cy0tYXpaLTByYkRGV0dJSnJicW5DYXcwRHppQmw2TUtfdlNoR2dxVjVHWWpVTEc0US1tOUQ1b1ZtRjBWUTBzYU5HTUl5VmRfUjBDbE9DanlaTlppTw?oc=5"
       ]
     },
     {
-      "title": "vivo Y600 is official with a 10,000mAh battery and 6.83-inch display - GSMArena.com news",
-      "score": 19.75,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1mRDUxTndLTDdUS0xJdmpqWEduREYzTUhIbW1KZWhYSUhjMUVlbkxMLXhnaVhab2xsTk81eUNpcGVVajFhVU15QURfM3dpY0dxaWNmQ204R2QtU0dJMUNuRnRKZ2Q4NXZmTGVFc05JZDBIeG5Nb1BwRHktd1pVU1BHSE1PWFNYcGt1TE82VmwyekJ3UHUyODI3UkVQSEV6di1vaUFTY3DSAaQBQVVfeXFMUGxfU2ZvLWlDbThSbngwVmtOc3J3UjZIMFgwa3BwWTFLV1ItUEZRbHAzOUgyQ0ZHaGIxcVVvOWtlbWw4UkRhMV96dHY0cUdIQVljdjB1enE3SmNoOG5OYTlvdDhGcWlLcXRod3lPekt0aWVOVDRWT2VlaFN2UDg0WHhDbGVWeUV3UEJWM2JRUnpReEx0TUQzcTJRa192VjBVU2ZqZzA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1mRDUxTndLTDdUS0xJdmpqWEduREYzTUhIbW1KZWhYSUhjMUVlbkxMLXhnaVhab2xsTk81eUNpcGVVajFhVU15QURfM3dpY0dxaWNmQ204R2QtU0dJMUNuRnRKZ2Q4NXZmTGVFc05JZDBIeG5Nb1BwRHktd1pVU1BHSE1PWFNYcGt1TE82VmwyekJ3UHUyODI3UkVQSEV6di1vaUFTY3DSAaQBQVVfeXFMUGxfU2ZvLWlDbThSbngwVmtOc3J3UjZIMFgwa3BwWTFLV1ItUEZRbHAzOUgyQ0ZHaGIxcVVvOWtlbWw4UkRhMV96dHY0cUdIQVljdjB1enE3SmNoOG5OYTlvdDhGcWlLcXRod3lPekt0aWVOVDRWT2VlaFN2UDg0WHhDbGVWeUV3UEJWM2JRUnpReEx0TUQzcTJRa192VjBVU2ZqZzA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU1mRDUxTndLTDdUS0xJdmpqWEduREYzTUhIbW1KZWhYSUhjMUVlbkxMLXhnaVhab2xsTk81eUNpcGVVajFhVU15QURfM3dpY0dxaWNmQ204R2QtU0dJMUNuRnRKZ2Q4NXZmTGVFc05JZDBIeG5Nb1BwRHktd1pVU1BHSE1PWFNYcGt1TE82VmwyekJ3UHUyODI3UkVQSEV6di1vaUFTY3DSAaQBQVVfeXFMUGxfU2ZvLWlDbThSbngwVmtOc3J3UjZIMFgwa3BwWTFLV1ItUEZRbHAzOUgyQ0ZHaGIxcVVvOWtlbWw4UkRhMV96dHY0cUdIQVljdjB1enE3SmNoOG5OYTlvdDhGcWlLcXRod3lPekt0aWVOVDRWT2VlaFN2UDg0WHhDbGVWeUV3UEJWM2JRUnpReEx0TUQzcTJRa192VjBVU2ZqZzA?oc=5"
-      ]
-    },
-    {
-      "title": "Infinix GT 50 Pro India Launches Tomorrow",
-      "score": 19.49,
+      "title": "Xiaomi 18 Pro and 18 Pro Max get listed by European retailer before their global launch - GSMArena.com news",
+      "score": 21.2,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHpkaHhIUWNGOW5vR1RzSVFiWVpUYUZ0bXBqWlF1dmFoNlN2dTJNNGUyVU96MGZWNnFIYkJyYVZpVW5scmY3TmpVMzVLQUx4NnpZQkVrZ0pDOW52c2tZcWJMSTV5R3BpMGs5VktKSEIzclhZb2VkQVF2LW54eV91QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEpmazdnclJUcTBWQ3liYUo2VFlxT2t1NXlTRld3RFllYlB4X2hId0FRS09pRk5NMldkNzRBVnJNRmJzQ1BPWHFpX0RzLS1iRHNfUVNmYkNjSzc2d0tucTc3YUpJZmx4RXJrVENSTWdBb3FqblIwNE5yNGxHU1ZhRnhVQV9meTJoalV1bGNWWlBEd1V1M0Y1c1FqdjRMYzlnUDNacW1MNEp5YWlkUTVJR0M2OWIwWkpVUkV4dm1mWnNmWmdKNDY2NDhla2FEbWxfRl9UajVlQVZXUF8zcXRrbdIB4AFBVV95cUxNVEpmazdnclJUcTBWQ3liYUo2VFlxT2t1NXlTRld3RFllYlB4X2hId0FRS09pRk5NMldkNzRBVnJNRmJzQ1BPWHFpX0RzLS1iRHNfUVNmYkNjSzc2d0tucTc3YUpJZmx4RXJrVENSTWdBb3FqblIwNE5yNGxHU1ZhRnhVQV9meTJoalV1bGNWWlBEd1V1M0Y1c1FqdjRMYzlnUDNacW1MNEp5YWlkUTVJR0M2OWIwWkpVUkV4dm1mWnNmWmdKNDY2NDhla2FEbWxfRl9UajVlQVZXUF8zcXRrbQ?oc=5"
-      ]
-    },
-    {
-      "title": "IndiGo, Air India to shift flights to Navi Mumbai from December",
-      "score": 19.3,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa09lTUVxTDE4S0dsU2R2VEpITGEtOFRxNHAwNmN6LURaME9oSkpHNmVldUR3MWZiR0MtUnJENjRXYlllN3diZUk0cmNRd0VmUDlvYjRGaGZKRlNUME1UcmdFVEhBb3kwZ1pTNk00ckN0NmdzNmI3Q3FmWEt0NUR3UjB2Z0h5QVdlUGlwcm9PTXdzSUlMUUhBaA?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHF6d2cwdTJ0RnVHZnJkVk1sTjVJWXB1VUxlcXppdENUTFB2M1AtczBBaFRvOXhxTTE0c0d3QkpwNzMxMUpZRUdMSXl4eUEzb21oQ3E4d2FqdVgtT2haZkszSkV6ZlE0bnRWVVhXZFM2TFZVR29oNDlYYzZURE5EOUlZaGlYc1FQVG90eEljUHgwUkZiYTRJY0VGOVQ?oc=5"
-      ]
-    },
-    {
-      "title": "Bucketlistt.com Secures ₹7.6 Crore Seed Funding to Expand Travel Experiences and Booking Technology in India",
-      "score": 20.06,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxObC1RQ3VnNXdUckl6a3hmS2lIWUZWU1dpVVUzWWcteXJFUWx1clpzcVdTdnduUUxFNVhubTZGbEFEb1ZlR3lieTlSWWE3aFpYeW5qZFN2dDItNWxSdDVUWGRlZ29GOTRxWV9XUWsyQTZ6UVg4UkIydUNyRGFyNjdSU1FmVll4VlVraDJIUUhuVFQ2UE5obWFFUFQwUGs?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVR2SV9mQ2hoMDdaaG9Sel9vMWdmX3hZOFMyQlJqVFRvb1B5U3dzOGtqUHVFTHZEbmRqaXMzU0tZTjZ5bnRRX2hJcC1wdTNOYXdMeFdrVHBkVU11dFBJVHl1QW5fWjhRSndqRHZNTUs4NUt5VTh6TzFad1BOT1NTVUl3RmQ4WENtbklHejd2U044aGpfUXJDbGw5bXZiNU45UE5DdHlKSFFSWGJOWFR0NHdlUzVCWWdoS1E?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXd5NE5EcHlLR05pRk5vN2gxRDVXcm5HTlBNeXNrYk0zVC1aT2kxYzRRc1V5ZTc1VWRLczIxMWtuQUhsN0VMV0doOWU1U1hiMGlpcWlETXItd3I1OHFkRkZycTdQLXQ1MGpKWTYtRGRhdjBsUnFLLTVqVFJDLW85TjEzNXpLb00tUFVJX0JoOVRLUG1EUm5FemYzNUlhMXJYSFZFbzFnby1PU2l3OHR6ajZxc3JkVWtKWXkzR3Jfd0JZU1dOT29QMnBzMVF4a2wxVGRmOERTUlZKWl9KWXZ5cmdNMUZ4cWItUGp3?oc=5"
-      ]
-    },
-    {
-      "title": "Weakened chromosome anchors may help explain age-related declines in egg quality",
-      "score": 19.89,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWgwR0JFeUUtQVNDbEVCeVR5ekZqeFJfcVVkWW40NnA2dnRXWFphaGE3SG1nZGdwWFB5T2tMQUxOWEMtYWQwSGVNdzRKZVNCZWwyS0tUajZjZmw0MC15NzlCSm5uWnhmS1RYZTZoNEVRZ0psWjNpcUczSWxiRzctRjdZZFJHa29DLTRiRg?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWgwR0JFeUUtQVNDbEVCeVR5ekZqeFJfcVVkWW40NnA2dnRXWFphaGE3SG1nZGdwWFB5T2tMQUxOWEMtYWQwSGVNdzRKZVNCZWwyS0tUajZjZmw0MC15NzlCSm5uWnhmS1RYZTZoNEVRZ0psWjNpcUczSWxiRzctRjdZZFJHa29DLTRiRg?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWgwR0JFeUUtQVNDbEVCeVR5ekZqeFJfcVVkWW40NnA2dnRXWFphaGE3SG1nZGdwWFB5T2tMQUxOWEMtYWQwSGVNdzRKZVNCZWwyS0tUajZjZmw0MC15NzlCSm5uWnhmS1RYZTZoNEVRZ0psWjNpcUczSWxiRzctRjdZZFJHa29DLTRiRg?oc=5"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRy1DS1FKOTdtNGhlSW14VmJxX0hMTDlpbWN6MTMwU2NpYXdvX3k2R21iVG93dm9STER2a1labmRXeldvUy1HaDlBYnV3cFZFLW9DNHp3aldTb2liRDBKZHB4Nnh6ejByd1ZtVkpQZjdOS0VsLVJNUXRxV3U3ZTBKbXUwNTJTYjM3WmlnSUxjUTNSQ1M4SG81SExaMTUzY2JwZDlKQXFXQ0wwTkpUV2FHdDNaQmotS2FQVWlUZTJKam1mR3B3bEHSAcIBQVVfeXFMTlhObzdPczE2X0pXSGc2T29wS09HN29QYjFOc01zblJHNFV4bEhadHhYdk5CcVpfYjJLYWtPZ0wtMlFyTFllSUhXbmdPOVRrNTUwdEZNaFFXa2Z5UlVyMDVTLW9QU2g1QWI5cVQzalUtd1RUYzNaX3F0YnF0NHNCN3IwU3FiNnNxTVJvaWFLM2tWNTZuUU0wV1J1T0V5bzNXSk53OXRucFlXSExqUVhMUC12b19IYllITTRDRmNXSnZFanc?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRy1DS1FKOTdtNGhlSW14VmJxX0hMTDlpbWN6MTMwU2NpYXdvX3k2R21iVG93dm9STER2a1labmRXeldvUy1HaDlBYnV3cFZFLW9DNHp3aldTb2liRDBKZHB4Nnh6ejByd1ZtVkpQZjdOS0VsLVJNUXRxV3U3ZTBKbXUwNTJTYjM3WmlnSUxjUTNSQ1M4SG81SExaMTUzY2JwZDlKQXFXQ0wwTkpUV2FHdDNaQmotS2FQVWlUZTJKam1mR3B3bEHSAcIBQVVfeXFMTlhObzdPczE2X0pXSGc2T29wS09HN29QYjFOc01zblJHNFV4bEhadHhYdk5CcVpfYjJLYWtPZ0wtMlFyTFllSUhXbmdPOVRrNTUwdEZNaFFXa2Z5UlVyMDVTLW9QU2g1QWI5cVQzalUtd1RUYzNaX3F0YnF0NHNCN3IwU3FiNnNxTVJvaWFLM2tWNTZuUU0wV1J1T0V5bzNXSk53OXRucFlXSExqUVhMUC12b19IYllITTRDRmNXSnZFanc?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRy1DS1FKOTdtNGhlSW14VmJxX0hMTDlpbWN6MTMwU2NpYXdvX3k2R21iVG93dm9STER2a1labmRXeldvUy1HaDlBYnV3cFZFLW9DNHp3aldTb2liRDBKZHB4Nnh6ejByd1ZtVkpQZjdOS0VsLVJNUXRxV3U3ZTBKbXUwNTJTYjM3WmlnSUxjUTNSQ1M4SG81SExaMTUzY2JwZDlKQXFXQ0wwTkpUV2FHdDNaQmotS2FQVWlUZTJKam1mR3B3bEHSAcIBQVVfeXFMTlhObzdPczE2X0pXSGc2T29wS09HN29QYjFOc01zblJHNFV4bEhadHhYdk5CcVpfYjJLYWtPZ0wtMlFyTFllSUhXbmdPOVRrNTUwdEZNaFFXa2Z5UlVyMDVTLW9QU2g1QWI5cVQzalUtd1RUYzNaX3F0YnF0NHNCN3IwU3FiNnNxTVJvaWFLM2tWNTZuUU0wV1J1T0V5bzNXSk53OXRucFlXSExqUVhMUC12b19IYllITTRDRmNXSnZFanc?oc=5"
       ]
     }
   ]
