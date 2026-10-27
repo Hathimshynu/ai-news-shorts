@@ -1324,5 +1324,32 @@
       "qa_passed": false,
       "posted_at": "2026-10-26T14:51:40.485333+00:00"
     }
+  },
+  "2026-10-27-evening-1701": {
+    "status": "published",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/Kllk_NKV4pQ",
+      "instagram": "https://www.instagram.com/reel/DfAPTl-jZHR/",
+      "facebook": "https://www.facebook.com/reel/1476973237581949"
+    },
+    "late": true,
+    "approved_at": "2026-10-27T16:01:21.865801+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-27T16:01:23.709199+00:00",
+    "ids": {
+      "youtube": "Kllk_NKV4pQ",
+      "instagram": "18130854481870330",
+      "facebook": "1476973237581949"
+    },
+    "info": {
+      "title": "IIT Kharagpur Physical AI School Announced #Shorts",
+      "topic": "IIT Kharagpur Announces India's First School for Physical AI - Check Courses, Curriculum Details",
+      "category": "Future of Technology",
+      "hook": "India is getting its first Physical AI school",
+      "seconds": 48.1,
+      "primary_keyword": "iit kharagpur physical ai school",
+      "qa_passed": false,
+      "posted_at": "2026-10-27T16:02:57.182911+00:00"
+    }
   }
 }
