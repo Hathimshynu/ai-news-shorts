@@ -1,52 +1,62 @@
 {
-  "job_id": "2026-10-27-evening-1801",
-  "chosen": "Sarvam Inks 5-Year Pact With Defence Ministry For AI Projects Across Armed Forces",
-  "reason": "This strategic partnership between Indian AI startup Sarvam and the Defence Ministry showcases the rising real-world impact and adoption of sovereign AI technologies in India.",
+  "job_id": "2026-10-27-evening-2218",
+  "chosen": "Genie 4: A new generation of world simulation",
+  "reason": "Google DeepMind's Genie 4 world model enables AI to generate interactive, real-time virtual environments, offering a fascinating glimpse into the future of AI gaming and robotics simulation.",
   "candidates": [
     {
-      "title": "Sarvam Inks 5-Year Pact With Defence Ministry For AI Projects Across Armed Forces",
-      "score": 23.68,
+      "title": "Genie 4: A new generation of world simulation",
+      "score": 20.8,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      ]
+    },
+    {
+      "title": "Google Upgrades AI World Model That Rattled Video Game Stocks",
+      "score": 19.8,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx6Z0xYcXpVWEdaSGswN0tVc3hOdmFXZmNpLWxreG5sallSc0RnbHlQcVpXWGZwRzZfZW5JM19nTkYzRVlyLWVGRktZbG4waVlPajJnVEp1aXJ2TEVMM29sbEJYTFlvY2Q4M2Nna3VLeHNTOEhiN1ZYalplUWRWN0xfbE16RlpfMjdSaFd4Ym1qU1kxWmFKNWl0djluT3VOM3JMN1lycDhPQ1N3UHFaRnln?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx6Z0xYcXpVWEdaSGswN0tVc3hOdmFXZmNpLWxreG5sallSc0RnbHlQcVpXWGZwRzZfZW5JM19nTkYzRVlyLWVGRktZbG4waVlPajJnVEp1aXJ2TEVMM29sbEJYTFlvY2Q4M2Nna3VLeHNTOEhiN1ZYalplUWRWN0xfbE16RlpfMjdSaFd4Ym1qU1kxWmFKNWl0djluT3VOM3JMN1lycDhPQ1N3UHFaRnln?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx6Z0xYcXpVWEdaSGswN0tVc3hOdmFXZmNpLWxreG5sallSc0RnbHlQcVpXWGZwRzZfZW5JM19nTkYzRVlyLWVGRktZbG4waVlPajJnVEp1aXJ2TEVMM29sbEJYTFlvY2Q4M2Nna3VLeHNTOEhiN1ZYalplUWRWN0xfbE16RlpfMjdSaFd4Ym1qU1kxWmFKNWl0djluT3VOM3JMN1lycDhPQ1N3UHFaRnln?oc=5"
+      ]
+    },
+    {
+      "title": "India to launch NVS-03 satellite to bolster NAVIC",
+      "score": 20.38,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUZoRTJON1VMNXlWTnZRcEhhZURFWS1Sam42NE1YXzFHM2R4ZTBNdENfM2VnSnJjYUVlY0Y3QTV5WVVkQVU5emFRem96UWpsNkNIeG5aZG5RRW1wT1RtYnRRMXZGZS1kOWVuWEVLekVsRl9zeXRfcjlsbDlhb2thdVdiWlZ2Ymg2T3V0MUV3aHl4WUtRdFJCR0xQN3ZyYmtXTkxNY3Z5Z2ZZRW45clZlWnVuR1VaUmpldllZVFRMbWYtdE5weWxCcTdJbWpjdjhVMk1ZTUFoSFlaQ1FFRUHSAeMBQVVfeXFMTmNvODlGaFg5U19CZ0EydlZiZHlQeHQ5alNheXBFbGF4LTh0QW1xVkF3RmNjUGctQjhuZlZPa2wxVC1KOEtvVUhadGNrNWZ5R3BYWWp5Q0xGb09xWXNITm5CTzQzLWJyelhYczVmUWVkTWY1eXRNRnJDejIyWGwxMHl4UFNGX0wwVUNISFlpb1I5SUJNWjhPN25vRTAybDE1OER0Mnpsamw1Qk9VWFY0bG1pY3FyTmVRYkRDcDNRRjRZT1VUVUJMUlJJTVJuQ0plNlM5QnRyOTJJZGJqSmszeUViZDg?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOckNrWVRwVlM2cEVsYWRNOXVZZEhZaDhiamFlaEJFVUFha2puSVRlVVhjR1NkeUtpZm1JX3RQZEZ4OGk5RXNHV1RHa1dMRGJzaVQ4aXpYMXBUamZpczN6dnl6dGktNHFfMll3RHh6RHMybDRPNVhaei01ekRsNWtQM3o1NWlwRURVM00wb0FFRDBlOVZ2MGZjNDVENDJXZHBJNkZvRE1SNmpWMmZUUWd1OHJsSWlvTnBRWDlsUFJTVnBoSWxEVWRmMFlQR2twZ1FHeTA2NGljSW96a0lrUlNMYw?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3YxSkU5YVdycm05QUVLekdCN3NOT2hSRDZfVDM4b3pNazlLaU1nZWFEZV8za2tXN2M4OFphUkhvQlhTUTJLd2gtdVRpM3pvVXZPSGhYaTI1Z0gxbGJEbUo5MkJLVE5HNDVnTEF6S1BuN3ZOdG5tZkwtVUtnWHVNZWlwZnM3QjljYzBIUEx3ZkRaTGF4UmpVaVpnYXU0bnBzNV9PeUhBRDBQNWRVWXg3bzhUMkMtMFhRTDVGcGw2b0NnZmdLVllB0gHMAUFVX3lxTE5qLV9vWThJRFRoVWpEX3hjb1dXMUJZQkNFRXNzZTNnenVPcGFsaV9RUVo1RVlsc050WWlTN0ZQdzczVngyV1FQSTZvS3dQOWE3MmlSUkRQVzJPYjFkOHRCaVowaEFqdnNfTTdqWnotV3daY1RvNURzTE52U085NU5HLUUxREdqQkwtQXpLXzdrVVQybEhuZHlJRktDRXJkckhfMjdFbHpEMlVXQk5UcDUtUmRfWVY5b3lFRWFzYVgtUUIzWVo3Vy0zZ1VVVw?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjNBaUtXMHZUX1ljSWhZZms3aUF4OVduUHdNRlFmZ1gtaV96ejRrVjI3VU1tUDUxR2lIMU5qRV9qb0t4NlhuNE9oR2JZUUo0dTl5djF6RXlYVHJDeGRILTFWZDlxY1g1ajJ1SjBFZWVLOU4teE5MdFVONEdUY2lTYmlJT3U2Qk5Gc0dXOTRiVWF3Y1dGSGFfMXBQNVlvQ2FOZUNmeW96OTVKMDdIQkpkcUQ3R2RBaUo2SEx1REZIX2NQNWh0Y2RJeQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5"
       ]
     },
     {
-      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
-      "score": 45.89,
+      "title": "OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens",
+      "score": 19.98,
       "kinds": [
-        "backlog",
+        "launch",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
-        "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRmZtaEIwUi0zMGNVeDNMM3VONW5LQWo3TzFyM3VheVJoc09LeTFhUHlPb1lBa2NjVy1RN1VRbHJBbGRwZTdzaGVkck9xYWJPT0ZtV1Z3alpQcVdPcWdNdFVlWnQxZndOc3p3c3puSmJxWTluQm9YbUZ0YTZUbDhaR2cwRGlPQWl6ZWhJZDdQM2M2RjNVLWtkUzI2VFJPckZ4eENGcTk5aGZ0bk9QQ1dHNEstTmJDVlJORmlYQVFCRVphX0t0ZWxJNDhnWUQ1YndiRGlMTFRiX2tFaFpCdURpNmxudXpfNUljMVBFRlBCd3VnQlRQX1BEY24zcktJSy1lbUNTYVltd2lUZGdFbTJyM3FmSdIBmAJBVV95cUxQOXRIbm9uQ1h5Zmg1eEZSTHdLSjhxYnRSV2t1aXV3eGJLU0l1b0pmVlJ4ckR6T0o4UVZBVFc3eWpNNnhWQjcwaVNaYm1vSklpdTM3Vi1NYk1MZEJtUFRJTEtDYXROZ2lSQWd3NHI0VWJENGc1SEo0ZDFHVnR1dElwbVhoT2E0ZFQ5MTdkc2JCNENUNnM0eWZTU3p6UDN6N0hpWEMtX2NITThpbXhTekRqSDlJTVpvUkRZT3ROdnRyanl0bl9uMXo3cThOSXJNZ1pHSkUxTGlxNTVBVFFoMzR4STd6RExlN1VtVTJsYWVuWmQ2SHZGTDZkMWs5eFdEQ09CNDVCLTVlTU9zbkY2VXdmZFN2MnI5LXRN?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQal9rVzYtbC1od195SGJtcTk0Z2JKYV9xUDRjN2ZHQ3dqUG50UDZFcFlGX1NiRFpteXR5aV9sdnNLdG1zcXBYYVZEOEIyWUg1endMaEYtSXN3Zk5kWUdXQlQwNUVRZ0tIN3BSamZJX24xdXV2QjI1aGotbDNsc3loV3JodVZwTzVNNVB0U0VPTVpnRTN3QUFHd1JYX2dpTVdSeXfSAaoBQVVfeXFMUF9YYVg2ODJvLUprc1RveS10a2dIZXNHWWlQcGpFV0J6MkxtUHhYZF9hdUh2Y2JvZE9LUWdSeEJ5Vkh2OU1CYnA0VkMzbWs3Rjctd01OZlpnRTQtekNBN2RTUmQ0TEhqLTU4RG45Z3QyUHdWME13SEk5cHhnV0tDSW9JaFBKRkdvUmNWZDZRa0hlRzhFSENXOXZoVHVuR1BWTzZOdWhNTGFwWFE?oc=5"
-      ]
-    },
-    {
-      "title": "DeepSeek AI model shows safety gaps in independent tests",
-      "score": 21.69,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN210RENFam9QYVVoNHZhZXl1Y0FVUURHUFZBZVpkZThRNGY0MWcwM2sycmUyakNFTU1uWWVRTHVRLU1Ob0hnNDBfRmE4VTBCa1ZlVFVGOFlCNkdEc3lpVjdoZ1RaMGJRQThsMVpBZlROUVpubmVrcFp2R2FvUkkwYmJvWHZlSVlwemhsVDd5VnVvbUxlbnVfWFpmaEx0V3hidmc?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDJJbkc0RDc4TTV1anNjV3NFWFg2MzE1Z1VuVWppZTJCWllza3RZVUJkWWNvaEM1czdHZGlnMG9WRURDVmMwMVIxRGVhYkZzTDBkRFZ4a3VRTlRXMExZWTVMSldSRk5zRGlGRFdnT013TG5VWWZKOHNFTDdmMEVVamlYVHh5TUx6Nzdr?oc=5",
+        "https://www.producthunt.com/products/openai"
       ]
     },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "score": 23.39,
+      "score": 22.32,
       "kinds": [
         "backlog",
         "news",
@@ -61,7 +71,7 @@
     },
     {
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "score": 23.31,
+      "score": 22.24,
       "kinds": [
         "backlog",
         "news",
@@ -75,99 +85,79 @@
       ]
     },
     {
-      "title": "India to launch NVS-03 satellite to bolster NAVIC",
-      "score": 23.45,
+      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+      "score": 22.99,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZl9qbmg2NzdoNnQybW1jZ3BjYmlmUURaSGhVdUZSRUZheEY2UFlDVWRTWHZWWmY1ZXo4RjlocUwxdXU0OFFEWGxoRTJ1eHNnMkF2Wm1lQTFSYlpRb1lfNnZZZjlFQV8wVWJfTllQdzU3R2ctSzVxczBZRl9jTzhqQ2h6ZG40Z9IBiwFBVV95cUxPaE9UclBkQWxlV000TlFhS3pUUVFkZEF5XzQ0MEVLT19YLTZwV0JjYXgyWUdoYTlZcnp5YUtGaHV5a25yRm9FRndIU1dHXy1VV0ppU3V4dWtYYjBzVDFpaE43TVhab0RIV3FVcS1zT2EzMlRnZi1xTkpCMFNaUUdZZ0tNTXVjeHJoQ25j?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjNBaUtXMHZUX1ljSWhZZms3aUF4OVduUHdNRlFmZ1gtaV96ejRrVjI3VU1tUDUxR2lIMU5qRV9qb0t4NlhuNE9oR2JZUUo0dTl5djF6RXlYVHJDeGRILTFWZDlxY1g1ajJ1SjBFZWVLOU4teE5MdFVONEdUY2lTYmlJT3U2Qk5Gc0dXOTRiVWF3Y1dGSGFfMXBQNVlvQ2FOZUNmeW96OTVKMDdIQkpkcUQ3R2RBaUo2SEx1REZIX2NQNWh0Y2RJeQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVRfUms0dnhOazBLNTJnYlYwX21qZnUtUTFkM0xzNU9FV25qRkR5TFdUN1JhSy1obm5MZzNLcll3OC1idl8wcU0tNlV0V3I2dVhTLUd3ckVZdFZRbERSYW44bkp4WWtFRC1faDN4d2wwUVdXNmswX3pFX0lTUGlIQm53bjZ1endPbTFCMGowTUl2X1Q2VkF5ZXA4ejVYYjBmajJqWEVyZEZWTWt1cF9QekRB0gGyAUFVX3lxTE8tVF9SazR2eE5rMEs1MmdiVjBfbWpmdS1RMWQzTHM1T0VXbmpGRHlMV1Q3UmFLLWhubkxnM0tyWXc4LWJ2XzBxTS02VXRXcjZ1WFMtR3dyRVl0VlFsRFJhbjhuSnhZa0VELV9oM3h3bDBRV1c2azBfekVfSVNQaUhCbnduNnV6d09tMUIwajBNSXZfVDZWQXllcDh6NVhiMGZqMmpYRXJkRlZNa3VwX1B6REE?oc=5"
       ]
     },
     {
-      "title": "Anthropic S-1 filing decoded: Soaring revenue, voting structure, existential risks, and more",
-      "score": 24.1,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYURZaVRjdDdhaXlzSDh1LWR3REFzWElWNGt5clZvRGNxOVFOY1oydzZidWhQQ01reVdCcVZBa3BpcXFLWUs0dXVnMG00MlNCSVJ0c0ZJUUZqdkNydFRGRkhFT3Z2RXJCNXBwV3NIOXg3UzJtcGx4aEFHYmNGaE5Obl9ScmNIaFBGU0tKUEhBOGhFYTllajV0M3JoVHcwbzVZNVA5TGs0dGJNY3N4T2RIcGFmNTllOTd1cWdIMjZqYklKQ2hkNFg2cjhfSTI1MWZmdFpON3RuOWJiNVpfdU5ObjBqR3I2MUxLV19odHFvbE91YVFWaFHSAfsBQVVfeXFMTy1sanhMM05XRlBBVmh1dWVVWHRPVDVhSDhrWTQwMENBOEFINDItWXVmcnowQjluU1ZKcEloSkJWVzJENVBwU0JkOVRWdkpiVmFRRDI0dGw4RGVZT3dXYUM3ejRiY0s3YlFhYzRkRkUzY2tJcGVaNU1xMUJWYklnaS1jWTE2LUwyMHdKWUJuVUhEV3RMX2QwSVVlUk90QzZ3TUVBSW1JZnFsVjJpQndaU21SZm95Zm80NkJSVzV3TXBLbUlCRERGa1VNd3NhUkpxcDA2a2JJQU5CVVdaSnVsaWhpRVpJVFNtU2V6MXJQcXpRa0p1M1JDdlVJVEE?oc=5",
-        "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
-      ]
-    },
-    {
-      "title": "Infinix GT 50 Pro Launched In India With Shoulder Triggers & Dedicated Gaming Accessories: Price, Features",
-      "score": 23.62,
+      "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+      "score": 19.92,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJaWEYzZHkxWElpeUFVVXhUOEVRN2NQdUxQcXZ6VjFOR3pORmFlR0ItSms2bzVYMmRIYUM1cTlzVm0zYXpFbTlSTVBKeE81T01NaDJWWWlHUi1vZGFuOEtSeGp1cG5wZkd5aEMyX25hbHNHZFdUWjBWRHlNWGM2UXZ2S1UyVW04Tm9MZFVMSUdoSHN4R3VZVF9FMnJVQWY0bXF0clktclQ0alRNdkt5V3lmd1VMS01UeDFHU0tHQzBzR3PSAcgBQVVfeXFMUF9kajhlSXZYczJmN2lEdFZEbkZiQjdRUUZ4TFN1Yl9XY1pLeUJSZ19JejZLQ2ItNHg4SmdOM3ZEaloxd29mWTFlOXpiU0JVRTdkS3lWOVN0UW1SQ3loa0xQNm5ReWNTY1VMVS1weWdyRXQzMkpBcHVMdlhVM0NOcEtmaGRPY2NDNWxLbnluLVZ0UzZHX2ZOTFhIYVhkNmtMSEZma3pvWDZUeEgtdkg3Rjh6ZWhiNmUxMW9HRURpb2k3bllGbGlLQjg?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXhnVWJlR2wxUFFpaWJicTJDUFF3SFNaeFYxUnViNDlFak1TLXBXVW1jenRyZjhfQlN4a0VWZTBMakU4YWN3bHNhNzVVTXl6SWd1VzVyZHFsWmVRVDI2U1hhZkRwRFdNUjlZRTdTNlowWU1wTjFyQ2Q4WmktOWdURV91NzF6Q2JybDdSbHZwRWUzRmdWN3ZONF9PV0o1MlZRc1pBbjFBUVhnYVZfejVFVlhB?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSklyZnhDLWkxbEpVSW50QXk5MVUyWjFQT1NPdnljTEhFcnpjbGdjdTFhNThlM2lDSHBVdDRnZHVVb3VLN3JlZTVUcjViZlRETkJlZHRZSnhkQzhVNW5zTjQ4TXFZajhzd19IN2RvMkpLNzJrNFVmTGo1Tk9CUV9JTEY3OVJPZ1hLREpRR9IBkgFBVV95cUxObmRhVGhuVnp0a1lPaWcyODNIQlcyalFCanFab2FVb1pZcXZhdVFudFdnVzdLR0RUaW1RckR0WkRWZEtmOXprQXJyaENzb1lMenFfaGJxckxEbjdUSW8wZVhJX0d6RUxkYmtYLUJyY2Iwei05d0tpSEdjYUZjZEJoam1jRzZzNkx6ZTdGOHd3c1ZaQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUlplTWs3ZWN2a19QcFRzenR5alVVejBueUtiUWU0ZmpCMWVldFhsdWNXejNtdmRMRGZWUkVhLUd5RkY5MzJYTjQtMWNKRXFHMktkOXJzTFBmS3JtNTRJQ1JITlFKdnQ5YWRfX0ZwU1g4NWpXMkZ4OTJyOG5IbmdTejhhNkc3OG94V3VLUDZOMDZvVFNkc3dQaTRwSzNxVEg0cWh4cmQzc3JyOEwyNUphRnJWSTZXZTlzdmMwY0tjZ25YT3RUSF9LWkpDVFNiYU5Hbm1PVjE0a3h4bUtCQ0RVYnJn0gHnAUFVX3lxTE1NUEV0TFdJbVl0NE13SWJTUWhwUVV5SmVxN0FrQUpuZGVvcDJyVmlkMG5ONEpXUjE0M2VRVFRBc3JacWRoYld2cmxaVzlsaTVIRXRDQ1d5Z202ejQ4NVF6LWNYNjZwd1puUlFsN3h0QUprMkY0NS1ua2g0bXJ2bFJyb2ZmV0dWZnVXaDhRZmhoUnNsdkYyQ1dReTR2VzdULUREd0NNaVBFcldNNFZ4S1BydlZhVk40SlhPT0E1RU1ab2FHMjVlVkxzc19zb3VGcGFOUzlRRzg4Rk1PSlVOeGFpMElBQTg2NA?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1lIQmc0OGtOZHloTUZPTkIwcHdHM1hyZWZDbUZaOFI4N2hFRG9wVW1RLW9JVFJyOGlSc005NXozeEdnODZ4TGxaci1ubzRudkE0WmVvQjJPZzRKZGNLWGJoeGM3WU9XXzVRcTVLd1ZXRi02dndGUnI4Sk04LTEzWjlTaXBlblEyWFZ1OHpiYUZ5OHJuNG80YXZfbE51UXJJVVhFRG1yQzZ1R0tSempBRDRWanY?oc=5"
       ]
     },
     {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "score": 22.6,
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "score": 20.55,
       "kinds": [
-        "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NZVQ2WVFsSTFYMUtGcm1VSXZLT0VUSGphTmNlNWtpZ2RiN3lfU0dtVjZKU05acWd4UzN3NTIxdEU5bWxvZlB2Z1VPMGFJTUlmYm04bWhxa1NacU55dVNPTTMxODZJRktLXzRB?oc=5",
-        "https://openai.com/index/openai-cut-incident-investigation",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NZVQ2WVFsSTFYMUtGcm1VSXZLT0VUSGphTmNlNWtpZ2RiN3lfU0dtVjZKU05acWd4UzN3NTIxdEU5bWxvZlB2Z1VPMGFJTUlmYm04bWhxa1NacU55dVNPTTMxODZJRktLXzRB?oc=5"
+        "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
       ]
     },
     {
-      "title": "Apple’s foldable iPhone Duo draws early complaints of the screen cracking",
-      "score": 19.91,
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "score": 20.85,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkNBVk1sX01UMzBuZWx3NG9WS3lfMzd2Mk56ZE5WVk9yUTlhUzJtMjVXN1hPVWtTNGx0eTVfM2NYZ1dWQ3F5SlM0UTdTYWVjcERzUVhDVGthQjZRUTlKQXphcC1EU21fMTJncVUzU0ExOGgxcDRYRGFjZTdHWF9HUXhZYWx5eVhpbVV5elhpSVNDT0JseF9BdG9PZXVkcS1rNDRRNXljY3hYVy1H?oc=5",
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03bG1jbEU2SE5raFgtLXFoaDdpSVdSa3FxWG91YXNGdUh1cGd4Y3drdjdZdWdlTWpvLWVrZ1FyLVFJZTNvQkViMEtVUGR0SjZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3OEhXWU8tV25pMVJGa3ZrUlFzVGFNaERSRFVySmhoRVhLYXJ4RFFJdWN6WHNFY3hjTkFsSnJlSGxJbDltMXloVXhjYzZsSjVtLVRZUEZ0NXRFc3ZRdVBXLUVSTEZ5Wms4NXpvTVhUTGtGcUI0UndwRjRaNkQ?oc=5"
+        "https://huggingface.co/blog/allenai/novelty-bench"
       ]
     },
     {
       "title": "Working with academic communities to build scientific understanding",
-      "score": 23.3,
+      "score": 20.23,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
-        "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5"
+        "https://openai.com/index/building-scientific-understanding-with-academic-communities"
       ]
     },
     {
-      "title": "Maasi Raises ₹6 Crore in Pre-Seed Funding",
-      "score": 21.4,
+      "title": "Infinix GT 50 Pro Launched In India With Shoulder Triggers & Dedicated Gaming Accessories: Price, Features",
+      "score": 29.09,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdElQcERsM2lDY3RuOEJyd1ViTXBsSVpVaGlNVW1YRkdXdXAwNGFOSzhkYTJEQXBSZmtBVVBDVVF0YzdmdWFkUHNVWjZscGZqSjduWC1QREpjblN3VTYtUUpLLURBWXM0clV4VEV1c1VKOFlBdnZFc2EtX0ttcW9peHU4TkxINnBrSmpGNW1QdWNSczNhLVhJNTJjdFQ3TG1uQzBRNWJId0kxRUdqNEZ3Q05qeUJxMDFCMWZwMHhPeXVwSHFTTnNLRDZQdTRQQWJ2NVlFODdrS0tJWjQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUtna1RKUVZMeWtKX1lPVW9SdVVNOGhmN0k2Nm5ic25hazYtNHMzVk1EckNPUHhYcm90ZEc4dUhzLTFNYi1BckMwRjFQT0xISHBtdHRPTjF5V2lPU19HY3dxVWQwR05kZFpmZmxBOWVYcVV6NDVSazVtaF82VC1HeDVmb19GLXhOUkFDN0dhYUJ0dW52bl9aMHd3U2M3UktieEJtNnU5TUhRbVUtTE0xS2RYUURuZ3FSYUQw?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWHlpNWhRZnlYMW1FMktLTHdYQnBTOElWeWlUS1RuSGxpZHhqbDEtUGY0NFVGZXhWV0xMSmluOVRoVUUxOThGZEFRZ3BPeHhzTUdPTVF5OXlFdkFGSldWb1hocVV4WGJPc1hrZGhicHY5RkxLRnR4bzN1WmxIcUMyWGI0SjJYa3hmSjRkNzV3d3pmalc2b0xmOWtTRWhmSmg0Z0s4eHQzSHExdi0ybkkyYktYMTU0ZnhUWC1J?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJaWEYzZHkxWElpeUFVVXhUOEVRN2NQdUxQcXZ6VjFOR3pORmFlR0ItSms2bzVYMmRIYUM1cTlzVm0zYXpFbTlSTVBKeE81T01NaDJWWWlHUi1vZGFuOEtSeGp1cG5wZkd5aEMyX25hbHNHZFdUWjBWRHlNWGM2UXZ2S1UyVW04Tm9MZFVMSUdoSHN4R3VZVF9FMnJVQWY0bXF0clktclQ0alRNdkt5V3lmd1VMS01UeDFHU0tHQzBzR3PSAcgBQVVfeXFMUF9kajhlSXZYczJmN2lEdFZEbkZiQjdRUUZ4TFN1Yl9XY1pLeUJSZ19JejZLQ2ItNHg4SmdOM3ZEaloxd29mWTFlOXpiU0JVRTdkS3lWOVN0UW1SQ3loa0xQNm5ReWNTY1VMVS1weWdyRXQzMkpBcHVMdlhVM0NOcEtmaGRPY2NDNWxLbnluLVZ0UzZHX2ZOTFhIYVhkNmtMSEZma3pvWDZUeEgtdkg3Rjh6ZWhiNmUxMW9HRURpb2k3bllGbGlLQjg?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMkVZbjBEMGFnR0NiTzJXbThXWjJ3VlotSnNfcDNnWDdCb29tQnU2Z1Z4VWNhcE0wTEhxS3dQc1VLdDJVXzlhbkZYcDA1X3dPTGc1bU5lNTVNanl2NGlTY1BNdWhzMEZkdmVjOHFfTzRLbng5T1VXckxMZDdnMTFDQnh4ZjFVX0ZpOFp4dWJOeTU3NjI4SWZMejc5YXFBUnR5VTZnLV84Y1JwandUb05oRlRqMnJhOHBESFFMRmpVVHBjMDdMcldoYmJfdUtWTmExd01DTnVZZTNZMjRXNGfSAd4BQVVfeXFMUDJFWW4wRDBhZ0dDYk8yV204V1oyd1ZaLUpzX3AzZ1g3Qm9vbUJ1NmdWeFVjYXBNMExIcUt3UHNVS3QyVV85YW5GWHAwNV93T0xnNW1OZTU1TWp5djRpU2NQTXVoczBGZHZlYzhxX080S254OU9VV3JMTGQ3ZzExQ0J4eGYxVV9GaThaeHViTnk1NzYyOElmTHo3OWFxQVJ0eVU2Zy1fOGNScGp3VG9OaEZUajJyYThwREhRTEZqVVRwYzA3THJXaGJiX3VLVk5hMXdNQ051WWUzWTI0VzRn?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSklyZnhDLWkxbEpVSW50QXk5MVUyWjFQT1NPdnljTEhFcnpjbGdjdTFhNThlM2lDSHBVdDRnZHVVb3VLN3JlZTVUcjViZlRETkJlZHRZSnhkQzhVNW5zTjQ4TXFZajhzd19IN2RvMkpLNzJrNFVmTGo1Tk9CUV9JTEY3OVJPZ1hLREpRR9IBkgFBVV95cUxObmRhVGhuVnp0a1lPaWcyODNIQlcyalFCanFab2FVb1pZcXZhdVFudFdnVzdLR0RUaW1RckR0WkRWZEtmOXprQXJyaENzb1lMenFfaGJxckxEbjdUSW8wZVhJX0d6RUxkYmtYLUJyY2Iwei05d0tpSEdjYUZjZEJoam1jRzZzNkx6ZTdGOHd3c1ZaQQ?oc=5"
       ]
     }
   ]
