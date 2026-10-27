@@ -1360,8 +1360,8 @@
     },
     "late": true,
     "approved_at": "2026-10-27T16:03:00.636114+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-27T16:03:03.440186+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-27T16:13:08.725944+00:00",
     "ids": {
       "youtube": "BSYmQW18FKk",
       "facebook": "2779399235812736"
@@ -1373,8 +1373,7 @@
       "hook": "Indian armed forces are getting a major AI upgrade.",
       "seconds": 49.4,
       "primary_keyword": "sarvam ai defence ministry",
-      "qa_passed": false,
-      "posted_at": "2026-10-27T16:04:32.624383+00:00"
+      "qa_passed": false
     }
   }
 }
