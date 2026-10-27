@@ -1,38 +1,5 @@
 [
   {
-    "title": "Google Upgrades AI World Model That Rattled Video Game Stocks",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx6Z0xYcXpVWEdaSGswN0tVc3hOdmFXZmNpLWxreG5sallSc0RnbHlQcVpXWGZwRzZfZW5JM19nTkYzRVlyLWVGRktZbG4waVlPajJnVEp1aXJ2TEVMM29sbEJYTFlvY2Q4M2Nna3VLeHNTOEhiN1ZYalplUWRWN0xfbE16RlpfMjdSaFd4Ym1qU1kxWmFKNWl0djluT3VOM3JMN1lycDhPQ1N3UHFaRnln?oc=5",
-    "source": "Bloomberg.com",
-    "kind": "news",
-    "summary": " Google Upgrades AI World Model That Rattled Video Game Stocks &nbsp;&nbsp; Bloomberg.com   See more headlines and perspectives on Google News  ",
-    "country": "IN",
-    "published": "2026-10-27T16:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
-  },
-  {
-    "title": "India to launch NVS-03 satellite to bolster NAVIC",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5",
-    "source": "GPS World",
-    "kind": "news",
-    "summary": " India to launch NVS-03 satellite to bolster NAVIC &nbsp;&nbsp; GPS World ",
-    "country": "IN",
-    "published": "2026-10-27T02:54:26+00:00",
-    "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
-  },
-  {
-    "title": "OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDJJbkc0RDc4TTV1anNjV3NFWFg2MzE1Z1VuVWppZTJCWllza3RZVUJkWWNvaEM1czdHZGlnMG9WRURDVmMwMVIxRGVhYkZzTDBkRFZ4a3VRTlRXMExZWTVMSldSRk5zRGlGRFdnT013TG5VWWZKOHNFTDdmMEVVamlYVHh5TUx6Nzdr?oc=5",
-    "source": "AI Magazine",
-    "kind": "news",
-    "summary": " OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens &nbsp;&nbsp; AI Magazine ",
-    "country": "IN",
-    "published": "2026-10-27T16:44:15+00:00",
-    "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
-  },
-  {
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
     "source": "OpenAI",
@@ -41,7 +8,7 @@
     "country": "IN",
     "published": "2026-10-26T22:05:13+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
+    "saved": "2026-10-27T18:13:57.769450+00:00"
   },
   {
     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -52,7 +19,40 @@
     "country": "IN",
     "published": "2026-10-26T21:46:26+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
+    "saved": "2026-10-27T18:13:57.769450+00:00"
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-27T17:16:52+00:00",
+    "engagement": 0,
+    "saved": "2026-10-27T18:13:57.769450+00:00"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-10-27T16:12:42+00:00",
+    "engagement": 0,
+    "saved": "2026-10-27T18:13:57.769450+00:00"
+  },
+  {
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.  The Consortium for Biomedical Research and AI in [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-10-27T15:00:20+00:00",
+    "engagement": 0,
+    "saved": "2026-10-27T18:13:57.769450+00:00"
   },
   {
     "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
@@ -63,17 +63,17 @@
     "country": "IN",
     "published": "2026-10-27T08:40:53+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
+    "saved": "2026-10-27T18:13:57.769450+00:00"
   },
   {
-    "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUlplTWs3ZWN2a19QcFRzenR5alVVejBueUtiUWU0ZmpCMWVldFhsdWNXejNtdmRMRGZWUkVhLUd5RkY5MzJYTjQtMWNKRXFHMktkOXJzTFBmS3JtNTRJQ1JITlFKdnQ5YWRfX0ZwU1g4NWpXMkZ4OTJyOG5IbmdTejhhNkc3OG94V3VLUDZOMDZvVFNkc3dQaTRwSzNxVEg0cWh4cmQzc3JyOEwyNUphRnJWSTZXZTlzdmMwY0tjZ25YT3RUSF9LWkpDVFNiYU5Hbm1PVjE0a3h4bUtCQ0RVYnJn0gHnAUFVX3lxTE1NUEV0TFdJbVl0NE13SWJTUWhwUVV5SmVxN0FrQUpuZGVvcDJyVmlkMG5ONEpXUjE0M2VRVFRBc3JacWRoYld2cmxaVzlsaTVIRXRDQ1d5Z202ejQ4NVF6LWNYNjZwd1puUlFsN3h0QUprMkY0NS1ua2g0bXJ2bFJyb2ZmV0dWZnVXaDhRZmhoUnNsdkYyQ1dReTR2VzdULUREd0NNaVBFcldNNFZ4S1BydlZhVk40SlhPT0E1RU1ab2FHMjVlVkxzc19zb3VGcGFOUzlRRzg4Rk1PSlVOeGFpMElBQTg2NA?oc=5",
-    "source": "The Economic Times",
+    "title": "OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDJJbkc0RDc4TTV1anNjV3NFWFg2MzE1Z1VuVWppZTJCWllza3RZVUJkWWNvaEM1czdHZGlnMG9WRURDVmMwMVIxRGVhYkZzTDBkRFZ4a3VRTlRXMExZWTVMSldSRk5zRGlGRFdnT013TG5VWWZKOHNFTDdmMEVVamlYVHh5TUx6Nzdr?oc=5",
+    "source": "AI Magazine",
     "kind": "news",
-    "summary": " Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings &nbsp;&nbsp; The Economic Times ",
+    "summary": " OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens &nbsp;&nbsp; AI Magazine ",
     "country": "IN",
-    "published": "2026-10-27T16:05:32+00:00",
+    "published": "2026-10-27T16:44:12+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T16:49:40.018603+00:00"
+    "saved": "2026-10-27T18:13:57.769450+00:00"
   }
 ]
