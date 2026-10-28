@@ -1,89 +1,123 @@
 {
-  "job_id": "2026-10-28-evening-1701",
-  "chosen": "OpenAI plans to buy Google's AI chips, The Information reports",
-  "reason": "OpenAI's strategic move to buy Google's AI chips highlights how compute demands are driving surprising new dynamics and alliances among major AI players.",
+  "job_id": "2026-10-28-evening-1801",
+  "chosen": "Legora is building the agentic operating system for legal work",
+  "reason": "Legora highlights how specialized AI agents are revolutionizing professional legal workflows, offering viewers a concrete look into the next wave of AI automation tools.",
   "candidates": [
     {
-      "title": "OpenAI plans to buy Google's AI chips, The Information reports",
-      "score": 27.78,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa24wUk53cGtNX1Z6MHhYUTlnaUs2RlBGN0ZpOHJOdkRYV001b19QR1JVRVZpLVBhY1RIdDZOLS1HdmJiQlBEbU5GUE5vcGN3XzdZUWxhZDFLekswXy1OallwZExKUlB4ckNrM0VZV1U3Wlk2eUUwTk5XTHROVk1GSklhUWZKVFZqZ3ZIQ2M2b2xsQ291OUxzWXFHSjBYTVhQanNrbzVQWXM3SG5EU1RFVDJCd21wM1l5?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcVE0bWNXSG9scy02QmgzZGlTdVk0T0hsMFlWR0dsUXZDc0lhMW5LRUdKUkg4MHBnVmJkc2Z0TVRTMUFwQ0YwVTZsNHBuTWRDMlZjbjFnOThUWUc0OUJrRQ?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI plans to buy chips from Google as part of its AI build-out",
-      "score": 23.75,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR1hpckloVjY3U0IzcmFSUzRLT0llUmg2a3dYejdyNTFaR0pqcGFORFBBaTlNbU9uRGowRUtraHh2TFFJNUkxeDdoeHlZUmo2LThNTDlDdTE3WHVHNDRQWDV4QnhtdkNTOEZMREF1Wkt1QlhDbF9TWmNteTZUMnlaZFhFYzJGS3FHSWxTNFFhOFNVVFBwdWRfZUdpTFh2ZGlUN0N0d29OQzUyNFJYVGVTRnAtZVhCR0F5ZzVPb1ZXOUs2WjRHVTBsczRPOGc4cDdSWjJFX0tmZjVweDRsV1dNRHZPQ2Fhb0JpRkHSAe8BQVVfeXFMTlFyQW16X3VWRl9WYmN3RW96bUdRV0FJS1FadHRMekxmYkg2eEFmeTl2cXJJTDJaY2ZONG5KdTZOSk1MUnhTMHRaci1kcXFtM2VOcjhIczV3cUZFQjFJOVBqMTF1UWw3NlZISFpxUVNNbjZ0b1dBSFpuSG4zWjNzU203dTJiT2F3TDdONzhLU3k4Y0xPS3Ffb2JFQ1RCOGx6bFVKal9DR3Y5LWVLLTFCaUxWTVFpUnlISGw2XzNzaFNpM01fbWQzWUN6cklpMEFrUWdTSWtrczhaMU5tTEk5VUg0MTFpdFhPN0pzTDQxazA?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUpoX1Z5aGt6YlZydHVadVU4VWdsTElsd0dWZUE5X2NhY3h6SkpxemtMdllLbGUyRnZLVVZ5b3B0b0FpN3VaMDU3enYwSm02Z0V2RUJoVzhMdGl0UDd0LVhPNklPVEFnbUZkSm1ZTTZUZ1Exemh3NHZuVjNjNHpFODk5ejhtejZ1VDVwR1RtQ2xtUXVVRlFlOFpiX2hhaVJQSTBIX1hzTXFtZEtDU1Q1ajJhMzA5WFVt0gG-AUFVX3lxTE5zVDB3MDJ3VlhxblZDZUEzWlJIdXZxYjhnTUExeWNiMHI1bHhpWEUta2lSNnZfYVdiRm9oNWVHLUZxaVBvbHpDX2RZN2g1MmVZTlFScWV5NGJHelBmazJ3OVRWNjFwZFBIcVFxVk5fNXdQNHVjSWJ1eWlBRm0zVXo2QVJqQURFQVE4ZG41QXFpOWMyTTBUNmVfYXZ0M2hwbE1PQ3hPTU10VF9XWVNaQ25XU2VMXzZjUHhyZjgyRlE?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEpmdVROdmhkd0RpU0tZbEF2bkstVmxlcjRTZUJYNWV4VlFNU21tcmRaNW1ZUjdkT0N1b1JlMzA1NF9WUHR6WGpvS3BObGRQUm5Rc3Q1NjNpMkNpZzNoWWJGczJlWGVOQWpsZ0MwcEJrWHBBV3JrZHY0ZWREZngtRklId3lXbV9jLUM0a3JvRy1yUFV4SlpSOGo2VUlxWW04cTJIZlhuaWdnWDd1dExxSkJKVQ?oc=5"
-      ]
-    },
-    {
-      "title": "SEBI explores domestic AI model for securities market supervision",
-      "score": 19.73,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3BsYUpOMFRySDhMcXRjc1R5Q09MLUVtQmwyaU9ONWVURTMtc2tFLUlwbktic193TGFGUlMzTWlaQVlGdFlTbW1fRExhQ3A4a2g4OW1CMEMwa0pjS1oyR0pSTjVCWjFsemhreS15SFdTYnBCSnNxbHg1ZmNfbzNZdGFIVnlRMDQyS1QwNDFtVjduSHg1VThyTHRUd0s1ekxoZ1oxTFJySDRXLU96bUk1N2ZBU2RGN3dDT3pxLXJvS0EyU0RlZUdaVG1XMFZ1Z9IB1AFBVV95cUxPdzJpZThKWF9aSWMtWTJfenlzc0VEb2NhT3YwRmRMWmZhZjMxMm9kNzN6amJPbEVnZmxHWkt5clBFejlUSHJEUE9lZFZfWDJ6S3ZpU0pRUHlQaUNPbXlSWWVGaU9DMWJycld0SkJiNkR5ei1Dclp1YmRfbTdET1QzQndKZS1CS3pwR3ltR2czQnRGUHZlNlNQVUlFTFEzRzZLcURDMV9Dd3FlTC14c2k4RWZNeExIVF82dnBvZ3FtMVpyNkdBNDY5aUNhRWtIdVlLdG5LZA?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2JEekxlSmh1YmxVNE1wcGhWSkFRa09rejBmZlBaUE9vSW9HZ2pSUC1yX2FpNDEtRlFNbjRYS3M2NGtqUk1kdHd6blI0ZVpPNXdZVWxmb1RTU0VzSTYtVUpPQzFISmRKTFQ4RXZPeGJfWHRhcTRHZDhLd2poUXBvNUVGRlNzazNGMFNaTzMyRFRIOXVKN2thcVQzaUNET0JSVUNjRkk3S2FLMVdnSzVieXQ0NVFYNFJSZnNHMFhTSFRQS1ljaFZFUnl4c2YwWWJvMldnb29pS29VYmd0YUxuStIB5gFBVV95cUxQVFRLZUxNMlVjc2t0R0ZzVS1uaW5pcTctWnBSeDZobUNTQ08xNUpfZkQ0M2xsZU0tdEQ5UGttVkJQN09VTEFYS09YZmpUcXlGVHhObXFycWJXY202aVdZUFR6VDJYbGltY1VaVEl2Sm1jRFh4V2Y0eGdqRzZObnVKVjZWU1h0VTFlcVp6bkhOTE5rdG9KeEV4MTZuTEJKNG9VV095bktNRjd2U0g1U0pUVEZROVRNejdPWk02ZUY5cjEyMVhLQVhYak5hQ1FHbXFvOWdqTEdMWWo2N2RrV0xGRkNnTWxiUQ?oc=5"
-      ]
-    },
-    {
       "title": "Legora is building the agentic operating system for legal work",
-      "score": 24.55,
+      "score": 26.3,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
-        "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+        "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5"
+      ]
+    },
+    {
+      "title": "India's markets regulator Sebi weighs domestic AI model for securities trading, chairman says",
+      "score": 23.48,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNREhJcWtsX2lOdFhGdEI0ckp0ckVzTnVpVG1mRTZxS0xIa0hVVXB6eWMyekpJYjRYWkoybmdMOElxbXhSalBzdjNDWkxXUUxYUi01VFo0SFBOT3dFQTltbUJFX0s0UE5GNVk2M1JKV0NEVG1RajNjVWM5VFhiRENxc0FTY3AxdUlOeTUzS1NaaUtTTS1iclZVVXdILTVKd2tqVEtpVlVPTWlfeWszUWtBdFRNd1lDZWx0SU5jMXVadWVJMFBmWXk1cmVBdXA2WHV4V2ZtWGJ0aHJ2QWkyVUxmLVVpOGZ5VUhlOXBtZDNnTk1HN0dJSlFMM1hUWUhWeVZSSFFqU0p3ZWxmejJCb2h0cA?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeC15UkxZUTBlZFI5LThfdVA0SEZUVHh6dWdfbms3YXVCNGxtbkJkOFlXNGtSb0hRZ3k4ekozd194UmVCQnl4VkF4dlY2R1RfMkI4MG9BTHdIc2ZrZHVzeGE3ellGQWdJeHluVmZKM3JuZXg5MmZ2Zk5iaEhSX29CaUpxQWpsc0RBQXZ6OTZPWHJuaXYtTXBKS0Z2ZzhDcFd2VHBsSkhYcW1OWkVYTW55ci1iWHNHcmpQQjJzd0plSEgxOTFMT3hVZXZ0cWhuM09XVUJmWWRPQWlQVHBfd3hhV3NhaURVeS1BQWNV?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3BsYUpOMFRySDhMcXRjc1R5Q09MLUVtQmwyaU9ONWVURTMtc2tFLUlwbktic193TGFGUlMzTWlaQVlGdFlTbW1fRExhQ3A4a2g4OW1CMEMwa0pjS1oyR0pSTjVCWjFsemhreS15SFdTYnBCSnNxbHg1ZmNfbzNZdGFIVnlRMDQyS1QwNDFtVjduSHg1VThyTHRUd0s1ekxoZ1oxTFJySDRXLU96bUk1N2ZBU2RGN3dDT3pxLXJvS0EyU0RlZUdaVG1XMFZ1Z9IB1AFBVV95cUxPdzJpZThKWF9aSWMtWTJfenlzc0VEb2NhT3YwRmRMWmZhZjMxMm9kNzN6amJPbEVnZmxHWkt5clBFejlUSHJEUE9lZFZfWDJ6S3ZpU0pRUHlQaUNPbXlSWWVGaU9DMWJycld0SkJiNkR5ei1Dclp1YmRfbTdET1QzQndKZS1CS3pwR3ltR2czQnRGUHZlNlNQVUlFTFEzRzZLcURDMV9Dd3FlTC14c2k4RWZNeExIVF82dnBvZ3FtMVpyNkdBNDY5aUNhRWtIdVlLdG5LZA?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI cuts GPT-6.1 Terra token prices as AI model competition intensifies",
+      "score": 19.92,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2FxcnlMX19ONjBIN0tEbDhGTW5vVUhXTUxqdkFYZjE5M2hBRkRtQUxyWDN4RVN3NDRRLXA5bGlkT1FVZDVUbGRHSHExQlpJVldqV1Q5NlU0c0k1cnpsN2JKQW9DaGJDb0RpSUxuUmtSc3JZdUJURzFfR0hLcnJ0a3BEd1ZkRzFmeDkyaXk4UVhtX2hK?oc=5",
+        "https://www.producthunt.com/products/openai"
       ]
     },
     {
       "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "score": 20.9,
+      "score": 22.65,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
-        "https://openai.com/index/check-point-daybreak"
+        "https://openai.com/index/check-point-daybreak",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5"
       ]
     },
     {
-      "title": "Samsung Galaxy A08 launched in India with a 6,000mAh battery - GSMArena.com news",
-      "score": 29.65,
+      "title": "Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame",
+      "score": 19.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Joins Cuff-Shaped Earbuds Trend With $229 Galaxy Buds On",
+      "score": 19.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung TVs May Hack Connected Speakers' Mics to Detect Sounds",
+      "score": 19.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy A08 Launched with 6,000mAh Battery: Price in India Starts at ₹18,499",
+      "score": 25.4,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmQzU01KZkh1UFpJbGhMa0daR2VhTVRLeUNjQ0JWbUlkX0tYdDNpV2tCeFdhM3VWVjI0eTZxNTFzU1QxMmVNVnZ6VlBpSjIzNHpOTlQ4RFVqX2JaVTNmWC1saThaVVNxbGRUWFBRU0U0MlJ4bXBGY3VvMzJhWVhoUnJB0gGHAUFVX3lxTE9YcGJsRnM3Z0xWdFpGYzN5SlFyblZSV3BNYlZYMzV1MktTR1Y0b0NqT3UtanMxLTU4S1RiZUVXQ3Q5eUhzN2RqMXY4dGNGWnVUSG82dXBpY0dlWEFOQmVONkZSbGZ4MEhFaUttVnVibFFqVkN1ZFhlVHlFbTlEODVOWFRrS1Fzbw?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WYUtwWHBENGhsNUFnXzk5UGppMUJMYVhnMTRGX2lYbGpmVXRxOFBmOGFJTFQ1dkNSUTgtcC14aU1Xa01TZ19Ca2J6eXdMa1FsMVk2RGwxbEFaRlFRcHZjOHRZNWhEcG5nTU5lQ0Zpd3IxTEU?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZV9sR1FJcF8xOHB0LWY5aTM5c3E0ckQ4bjlXcmFBXzFkMWMtdE5KTWpodkVRZ3RBem5qVW1WQ0JaNXVZOUduWEhYRFc5b3lPVDJicTlXenFSZDhCZU5ZcmM0S1o5MlVOdjJWdjNHVXpwVng1U1Z4LVNCNkVPWXBUVVlUREtWTHdvVV9WT3IxQ3VadnIyVDI1dDcybnN1V004UXRDVkE3VzMwNDFkTFZ6TzFwZDUzMTd2QjlRSm5qUFZaYk10bDZrQWM4T1FZa0NxdnlsZnREWEhqdGtoVExF?oc=5"
       ]
     },
     {
       "title": "Galaxy A08 India Launch Revealed: Specs, Prices and Features",
-      "score": 21.49,
+      "score": 23.24,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -95,65 +129,42 @@
     },
     {
       "title": "Motorola Signature 27 confirmed to launch in India this November: here’s what to expect",
-      "score": 19.79,
+      "score": 21.53,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0djNlpxUTRCcWMxU0RzbGMzUjNQeVd6WkNSd1BBSXNYLXBmM0RqUmdkaWVuY2pKTWhsSjdBamZkUEFtOTF4b09qTUhVWllLT2N5ZE5mT3lOcGFJRXJfdUNkeExBUEUxY3lYMmQwWUZKaVdxYXhMdmlqd2hGbUxUbkZuUE9ubk5VWUtYYdIBkgFBVV95cUxONGYzSFBybGRLX0VkU0FtSnc4ZndrNDhSd3Z5MWRtZlVFOGx3QkM4R0hkRWNmRmt1MHd1b29xWlZqT2MxbWxYU0s0SmRIaFR4YjdDazNIR0ZUdDB5N0hub2xlc3p1YUNUZG5YT2ZfLVRwOXNkWWxTSjN5RnczLTFQSEFtY08wdWE2MTlzbG13N3JvUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SWkNZQjNkc01WQ0NpSFJQT0F1YV9DdmRuTFVLSkV2SlIwUHdBVzQyNThwSGRJeGpncVlVdHZuellDZ3RDaXZ3eXpkLUhIZnVCbVBfNTFsR1RWcmhnaHFOTTBJM3gwNVlRS3J2a3FJS0QzalU?oc=5"
-      ]
-    },
-    {
-      "title": "Apple expected to show first touchscreen laptops amid product blitz",
-      "score": 21.93,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclFtX1dwb1dfVDktVFFucVh1RERQeWpiVFhNQ2NrRkVsZHJjcWJGYXRCYXo0cnpCckVNM3c5V1lJVmxORVg0WFF0YkZvWHE3bmpCcE1BSjdYZHpibUdmRXUtdTV3cHVSckZrelhGdXJNeDlBVHNoUFBuUnF4cGZ5RUNOelh1THI0bzZZLUlUcjhmNnhrTDJ3a1lOd3ZaQkJKbHRQT1YwRmNKUEtQOWMweWFyMA?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnV5WWJIazFEMmFQM1ZHT25XYTZOVGl6ODZMRjVhNHBkeWxXa04xRWdrcnpVWWFUdWZ2clg3alQ2eG50cWdkVXpSTkViZ0F0VmZraHh1NVdkS1pSdnJzLWV5M2E1QWJkb3BLc3JrUS1UTVpTRVJ4NnVUSnZjTlQybG1UYXhVNWRZaVFpU0lCMWpIT3dtaWZoMllKUmxEUjJ0Mk94NGdrd19WMWtqOGFtSENWdG55Q1RueEZsVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc?oc=5"
-      ]
-    },
-    {
-      "title": "India aims to expand space economy from USD 8.4 billion to USD 44 billion amid rising private participatio",
-      "score": 19.58,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZmxOYVRLMjhYSTdyUkJFRFNWS2NYdFdXdHpXVHNUUmpqZmEtVG4zMGU3bFFIM0Fjd05XbHI4akpZME9PSGtaSDJ3ejNpYXJ2NEc5cF80VzNXLXktRTJFTV9rVGNFSWFjNlJZaXZPT3oyNDlVQWlycUlHNUd3NldSTDNURXpmRFZscGN0YnI2UG1OQUZLam9KWmMtRGtTeWV4Sjlnc1JMSnRUM25ySXljd3RTX2pUTnNrWXJreU1VOU1sWjNYN3JWTW1fSjFzY2ZOd3JCOXhfSFFUS2tmVXp2YjQ1dmdsTnFuQTU0OWtTem9FRE1NcnFWdWxXUjhQZHNWWXhPZ3JxSVlKYVlEd09RNjd0Q20xUdIBmwJBVV95cUxPclVxcUhGempSNFpYZk44QzhYNzNjSlMtbng4T1EyVjdpY0VVUmtlSXRSZnBIOTZxYmsyWHd1bVBCRDhHMjNIMEhsMnBzVDFXSHNoTmdqNEZuaU9LOUZzMDZkNzN5cUtFRjNObnJxdk4zazF2cl90WnUwVVdBMDB4YkdwNHRIbllQaWRWblZpZ19ZWEF3eDh4ZjhadmdBcmh0Z2VER3poMXMxdVFJakFBSkVmM3lKNlpLRWk0MVlJUTRPWlhVcXg0akFObkFoWTNoVGU1bnBwdTZBU2dpU1VUVzlJMzh4bWVKaEFTX1I5ZjhscDhlcHlRX3hGTFVGOVZWcTFJLWxVWFRPcUtvZy1oWDBnYzFnTU1OYlQ0?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlRWTmpaQ0lCaS1yeDNhMFFnaG9nUjhZaGFvNkZPS29XWFh6Z3lGeVhGSWhGakI4ZnYtR3BWN0xIdWUyOF9hdktaMHRUSl9jY0tmeXJzZ2NyekZxSGpfVVAyZVZZQVRpRmk4TGIxcGVxV3kxOXFTUldzeGVuYkVBY3hHMXl6UUo5aUVfNVpYeHYwZEwyTG9yUUQ4ZWV5d1V0elp5Si1zR2dzcEFfRTRj?oc=5"
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SWkNZQjNkc01WQ0NpSFJQT0F1YV9DdmRuTFVLSkV2SlIwUHdBVzQyNThwSGRJeGpncVlVdHZuellDZ3RDaXZ3eXpkLUhIZnVCbVBfNTFsR1RWcmhnaHFOTTBJM3gwNVlRS3J2a3FJS0QzalU?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0djNlpxUTRCcWMxU0RzbGMzUjNQeVd6WkNSd1BBSXNYLXBmM0RqUmdkaWVuY2pKTWhsSjdBamZkUEFtOTF4b09qTUhVWllLT2N5ZE5mT3lOcGFJRXJfdUNkeExBUEUxY3lYMmQwWUZKaVdxYXhMdmlqd2hGbUxUbkZuUE9ubk5VWUtYYdIBkgFBVV95cUxONGYzSFBybGRLX0VkU0FtSnc4ZndrNDhSd3Z5MWRtZlVFOGx3QkM4R0hkRWNmRmt1MHd1b29xWlZqT2MxbWxYU0s0SmRIaFR4YjdDazNIR0ZUdDB5N0hub2xlc3p1YUNUZG5YT2ZfLVRwOXNkWWxTSjN5RnczLTFQSEFtY08wdWE2MTlzbG13N3JvUQ?oc=5"
       ]
     },
     {
       "title": "ISRO Recruitment 2026: 61 Vacancies Announced For Technician And Other Roles",
-      "score": 23.16,
+      "score": 20.91,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0dKcno1UTcweTExYjZGY1lfc1lfNmM3UnVlbGp1MlJGLU50RzFpdGYyME1KOW84ZTdjX2U2cUw2Nkk4QzVyQUEyc1hmZkVnQV9aZ0I0akhjMXJPZFFmSTJRUGpMSFhUNzFrUF9YME9xY2ROZDdzNzNRRU5NUlprQlNnNXBhbWpXZ0QzTlBlTW8wS1lMcmZKRVJkTDJQSFluRDBPQndXSW1kQnlETkVLRnZqUThzZ9IBvgFBVV95cUxNbWpINXo4UnJqX1RaQ24tbUFEMmVYYlQyT05BMVhsc0ZQeTZYUTlkQ0tVNEtiZDRmdVQ4X2IydUVoSDVORTh4VW96cUlOZjY1cHJNMTl3eG14TWdZYXY0R1ZRY0JoYkZ6VmFTNEZXcURhQ3NNY24ya25wUDBfNTlkQ3NQRm1aRGRORW03V2xpQlJ4ZlQ1aDhYTGd3eVlzc2JaeEN5dm5RNm9LN29udEpXdzhFYlZjMGJCRWRudk5n?oc=5",
-        "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNG9KUlBjbVYtMU1tSTAwcUlUMmpaclNUak5hbGdENE9qOEJSTGJ3SFFzdExhX254Y1hPNTNaVFNUVFU4OUpXS3hlZTVPOWRTUHRsTmM4VlNyT2g5bFlxYVg5SGs1Mnd6aXEzdVcwMnFBMm8tQ2RETktZODdmWk80ZUFhakV5LTVwSTQtNjlVSHRvMkFoajFSMFItNDIyQkFUbUZ6dkpGRXpPYnRJVXJfa0pSdFYtVU5sVW9sbE96aUtJX1ZHeXZsUWs3ZU5yb2RYNkliOXhYaGRRNmNyVVVETXZEU19FVGwyY0M0ZHJQcEhkMGRtU0c1YlZIVUU3c19iUmfSAYcCQVVfeXFMTjdhWmlFVFItT3lJbXMwOExNTWdjNkY0SWtRVklUNEJGcmM0c2hxTGJySnBIS25vcThkWmZRU3NuVWJ0TTlSSW92UDJkbHJlYl91UnZEcy1nbG80UEd5N1pJVF9DS090NHh6aDRtSDdyNmlHR2JEY3FQTVpLWkM1aVlKd0pvZlpQZkFLNEFxcGMwS1g0Mm1BMkpWXzl3c3lGTzI4Qkh5aXZDbFF1OEZrM2RhSlZucXRTbFJxTjRBRTQxcnFwVXJGWW9DN1Z4U3l1S3BScXFGME1SYXd4TWsyaWRHX0RfLWNCaDd4cFlLVTE5S00xSDZVWXlRVk9EOXBod19fMjM1UXM?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXY0TXFFMUpqZVRkZ0lveVRoaFppRXVlTlF4NlM5Wm9XSFY4em9YeGg2bE10RHNyVkdBR3RIb0pmdXUzOThzdEpWeUZXclpMX095bVVraUNJVlRLeHIyUkJ0QnFBYks1VWpMMVNRSFllTW9GRlRneGVvR3R1b1R5SmppVi1jclF5Ums0SlBYMXR4UnVPT3FTTkNwUWE?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXY0TXFFMUpqZVRkZ0lveVRoaFppRXVlTlF4NlM5Wm9XSFY4em9YeGg2bE10RHNyVkdBR3RIb0pmdXUzOThzdEpWeUZXclpMX095bVVraUNJVlRLeHIyUkJ0QnFBYks1VWpMMVNRSFllTW9GRlRneGVvR3R1b1R5SmppVi1jclF5Ums0SlBYMXR4UnVPT3FTTkNwUWE?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmtGWGhLQmVkZExQb211NDFncXJnVm9SOFlnVVFLakdTZFdZQmJ0QlBLRXd4TmtzMXlVN3pZalB5d0RxTTJEZk51c01iS2otS0dJTUxlZ05ER2R6UWxUSlRNOWRkZjgzOXV5SWd0UHNFaklKbW9TMmZKSkhqQldUSk9iYTFERDllR2pTVlJ0bVV0M01TZzBjNXlhVjlkNkdjeVhiYXI2b1lRejZobGMtY0dQVmVHOTlqNGNiajl4eWxOdTlGM3owQjItSmp0SE1xZWfSAdcBQVVfeXFMUFhHemhVRi10R1JYOFhPLXRhMENqRVJBM3ZTb3lNbndYRTZCME41X3N4ZndHbEVLQ2hpclpWT2hhX1VKRmxjMkJJdWl2aGVBNmNlMXNRLUVPNUpObUhXMjJRdG1FVzhsUTNhYUZ1RHQwLXBzVEhCN3NWbXNKN2JRaG5mYkxZNXFxazlzNk80SVBPbmw1em9peWtuTnYwTGcwWXdSNm51dTR0a1djdWQ1cHlTcS1udW1vMU9sRWxTUGRWbEVQNDlzcEN2Sm9fNGtvVDRnU3paLTQ?oc=5"
       ]
     },
     {
-      "title": "Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Oct. 28, #969",
-      "score": 21.87,
+      "title": "Wardogs leads Newzoo's September PC revenue charts",
+      "score": 19.84,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV9SNE9nSnV4Y1hFSGl6aURJUXpIaTNkR2I4TmNUbnFOMjRPbmNfNGVmQU1xYVdIREFxZ29jaGZTOXZZdlZWM1lZRFlNM050bzJ6SmRSSUU2VF9KeUdOOWtoX0R1Z0tLYjhEaklEZkRKbEY1eWFnV3dmbW1KLThXVUM0LVlUb0g4ZXhtcnVyYVhYaWplcnc4bGxMcGtSYlVpVXY3V0VkQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV9SNE9nSnV4Y1hFSGl6aURJUXpIaTNkR2I4TmNUbnFOMjRPbmNfNGVmQU1xYVdIREFxZ29jaGZTOXZZdlZWM1lZRFlNM050bzJ6SmRSSUU2VF9KeUdOOWtoX0R1Z0tLYjhEaklEZkRKbEY1eWFnV3dmbW1KLThXVUM0LVlUb0g4ZXhtcnVyYVhYaWplcnc4bGxMcGtSYlVpVXY3V0VkQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVF5Q2RGLXN1cVVoNmdkSHdjWjhvRTFRX0ZFcjZESUFWVzNDMnZyMmJiZk81N25PMEJIdkQzSlItWFI4UXJrX1UzVEVMYnVBejhrbEwyQ2pBN2hRNjVvMWxEVG9KZ3ZJSElERmQ1VE9Mb0Q0N3lDcDZfdTlqUmFYZGlJYk5TT2JWV2RyTDRuOW9XdUYtZVgw0gGcAUFVX3lxTE8xR3RHWVFid3UtczdHbjFUNUVraGg0OUl3U2k0TzRjajNBYzh3OTZabEtsTG5jUkZmWHBPRm95aEVUZjFMeC1oekVBdUxiZlA0UUdIYW9MTjlXLWpxMlVxSnBMeVEyNmktWDRFamRvRF80VDROY0lFMTlpWlVIcV9IcG8teDVMUDlDSVhqcEtMZkYzMDllX0tUZmlHcw?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC1qOXVZZXdJOGdLd2c2MU5JOThjdG92bmpsOWJ6ZmhPeWV0WFpXRnRtMnVsdk16dnNsLWRSaUppM0llZEcwV0x6QTFQOUhKWTIzTC1GamxjR1g4YTZndUVJN196RTFHSWJIYUItanI3aXRTT2RoS1dJZTlNd193Ym9RbXlGdw?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC1qOXVZZXdJOGdLd2c2MU5JOThjdG92bmpsOWJ6ZmhPeWV0WFpXRnRtMnVsdk16dnNsLWRSaUppM0llZEcwV0x6QTFQOUhKWTIzTC1GamxjR1g4YTZndUVJN196RTFHSWJIYUItanI3aXRTT2RoS1dJZTlNd193Ym9RbXlGdw?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC1qOXVZZXdJOGdLd2c2MU5JOThjdG92bmpsOWJ6ZmhPeWV0WFpXRnRtMnVsdk16dnNsLWRSaUppM0llZEcwV0x6QTFQOUhKWTIzTC1GamxjR1g4YTZndUVJN196RTFHSWJIYUItanI3aXRTT2RoS1dJZTlNd193Ym9RbXlGdw?oc=5"
       ]
     }
   ]
