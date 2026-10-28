@@ -1385,18 +1385,20 @@
     }
   },
   "2026-10-28-evening-1701": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/fCJodWS7BHc",
-      "facebook": "https://www.facebook.com/reel/1108534138713505"
+      "facebook": "https://www.facebook.com/reel/1108534138713505",
+      "instagram": "https://www.instagram.com/reel/DfC12gcEtpo/"
     },
     "late": true,
     "approved_at": "2026-10-28T15:56:37.718075+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-28T16:06:45.788582+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-28T16:16:53.633067+00:00",
     "ids": {
       "youtube": "fCJodWS7BHc",
-      "facebook": "1108534138713505"
+      "facebook": "1108534138713505",
+      "instagram": "18069894188780923"
     },
     "info": {
       "title": "OpenAI Buys Google Chips To Expand Compute #Shorts",
@@ -1405,7 +1407,8 @@
       "hook": "OpenAI is buying chips from Google?",
       "seconds": 51.4,
       "primary_keyword": "OpenAI buys Google chips",
-      "qa_passed": false
+      "qa_passed": false,
+      "posted_at": "2026-10-28T16:17:36.708154+00:00"
     }
   }
 }
