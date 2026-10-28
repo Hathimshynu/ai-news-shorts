@@ -1,79 +1,79 @@
 [
   {
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
+    "title": "SEBI explores domestic AI model for securities market supervision",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3BsYUpOMFRySDhMcXRjc1R5Q09MLUVtQmwyaU9ONWVURTMtc2tFLUlwbktic193TGFGUlMzTWlaQVlGdFlTbW1fRExhQ3A4a2g4OW1CMEMwa0pjS1oyR0pSTjVCWjFsemhreS15SFdTYnBCSnNxbHg1ZmNfbzNZdGFIVnlRMDQyS1QwNDFtVjduSHg1VThyTHRUd0s1ekxoZ1oxTFJySDRXLU96bUk1N2ZBU2RGN3dDT3pxLXJvS0EyU0RlZUdaVG1XMFZ1Z9IB1AFBVV95cUxPdzJpZThKWF9aSWMtWTJfenlzc0VEb2NhT3YwRmRMWmZhZjMxMm9kNzN6amJPbEVnZmxHWkt5clBFejlUSHJEUE9lZFZfWDJ6S3ZpU0pRUHlQaUNPbXlSWWVGaU9DMWJycld0SkJiNkR5ei1Dclp1YmRfbTdET1QzQndKZS1CS3pwR3ltR2czQnRGUHZlNlNQVUlFTFEzRzZLcURDMV9Dd3FlTC14c2k4RWZNeExIVF82dnBvZ3FtMVpyNkdBNDY5aUNhRWtIdVlLdG5LZA?oc=5",
+    "source": "BusinessLine",
+    "kind": "news",
+    "summary": " SEBI explores domestic AI model for securities market supervision &nbsp;&nbsp; BusinessLine ",
+    "country": "IN",
+    "published": "2026-10-28T10:27:05+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T11:40:18.217865+00:00"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " Greptile takes bug detection beyond code review with GPT-6 Astra &nbsp;&nbsp; OpenAI ",
+    "summary": " Legora is building the agentic operating system for legal work &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-26T22:05:13+00:00",
+    "published": "2026-10-28T09:44:42+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
+    "saved": "2026-10-28T11:40:18.217865+00:00"
   },
   {
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases &nbsp;&nbsp; OpenAI ",
+    "summary": " How Check Point accelerates vulnerability research with Daybreak &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-10-26T21:46:26+00:00",
+    "published": "2026-10-27T19:07:27+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
+    "saved": "2026-10-28T11:40:18.217865+00:00"
   },
   {
-    "title": "Build specialized multimodal models with LFM3",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-27T17:16:52+00:00",
-    "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
-  },
-  {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-10-27T16:12:42+00:00",
-    "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
-  },
-  {
-    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-    "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-    "source": "NVIDIA",
-    "kind": "official",
-    "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.  The Consortium for Biomedical Research and AI in [&#8230;]",
-    "country": "GLOBAL",
-    "published": "2026-10-27T15:00:20+00:00",
-    "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
-  },
-  {
-    "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
-    "source": "CNBC",
+    "title": "Samsung Galaxy A08 launched in India with a 6,000mAh battery - GSMArena.com news",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
+    "source": "GSMArena.com",
     "kind": "news",
-    "summary": " Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership &nbsp;&nbsp; CNBC ",
+    "summary": "   Samsung Galaxy A08 launched in India with a 6,000mAh battery - GSMArena.com news &nbsp;&nbsp; GSMArena.com    Samsung Galaxy A08 with 6.7″ 90Hz display, 6000mAh battery launched in India &nbsp;&nbsp; FoneArena.com    The Samsung Galaxy A08: A Budget-Friendly Performer for Everyday Productivity and Photography &nbsp;&nbsp; samsung.com    Samsung refreshes Galaxy A series phones &nbsp;&nbsp; BusinessWorld Online    Samsung Galaxy A08 arrives in the Philippines, starts at Php 11,990 &nbsp;&nbsp; Unbox PH   ",
     "country": "IN",
-    "published": "2026-10-27T08:40:53+00:00",
+    "published": "2026-10-28T06:05:02+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
+    "saved": "2026-10-28T11:40:18.217865+00:00"
   },
   {
-    "title": "OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDJJbkc0RDc4TTV1anNjV3NFWFg2MzE1Z1VuVWppZTJCWllza3RZVUJkWWNvaEM1czdHZGlnMG9WRURDVmMwMVIxRGVhYkZzTDBkRFZ4a3VRTlRXMExZWTVMSldSRk5zRGlGRFdnT013TG5VWWZKOHNFTDdmMEVVamlYVHh5TUx6Nzdr?oc=5",
-    "source": "AI Magazine",
+    "title": "Galaxy A08 India Launch Revealed: Specs, Prices and Features",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBvNFB5aEF5ejFyQVhzOWV0WXRjdzd1bk5SbG9mWlVXUmJIa2E2ZjA0TkluVlBwcTBySm1tMzZUS1NKbVFOSmdTVW95UWYxS3VIdlVvMU9KaXlCRmgyX0tidWI4aTllSzVwdTZMTGFDbF9CeDZ3eVRxQlZqamJOY0RfZkhDQ3psVVFlRDJ5OHI5SWxMZ1YzTHVsazdOR1NxdUcxVndLY1d6d3ZE?oc=5",
+    "source": "Nokiamob",
     "kind": "news",
-    "summary": " OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens &nbsp;&nbsp; AI Magazine ",
+    "summary": " Galaxy A08 India Launch Revealed: Specs, Prices and Features &nbsp;&nbsp; Nokiamob ",
     "country": "IN",
-    "published": "2026-10-27T16:44:12+00:00",
+    "published": "2026-10-28T07:01:36+00:00",
     "engagement": 0,
-    "saved": "2026-10-27T18:13:57.769450+00:00"
+    "saved": "2026-10-28T11:40:18.217865+00:00"
+  },
+  {
+    "title": "Motorola Signature 27 confirmed to launch in India this November: here’s what to expect",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0djNlpxUTRCcWMxU0RzbGMzUjNQeVd6WkNSd1BBSXNYLXBmM0RqUmdkaWVuY2pKTWhsSjdBamZkUEFtOTF4b09qTUhVWllLT2N5ZE5mT3lOcGFJRXJfdUNkeExBUEUxY3lYMmQwWUZKaVdxYXhMdmlqd2hGbUxUbkZuUE9ubk5VWUtYYdIBkgFBVV95cUxONGYzSFBybGRLX0VkU0FtSnc4ZndrNDhSd3Z5MWRtZlVFOGx3QkM4R0hkRWNmRmt1MHd1b29xWlZqT2MxbWxYU0s0SmRIaFR4YjdDazNIR0ZUdDB5N0hub2xlc3p1YUNUZG5YT2ZfLVRwOXNkWWxTSjN5RnczLTFQSEFtY08wdWE2MTlzbG13N3JvUQ?oc=5",
+    "source": "91Mobiles",
+    "kind": "news",
+    "summary": " Motorola Signature 27 confirmed to launch in India this November: here’s what to expect &nbsp;&nbsp; 91Mobiles ",
+    "country": "IN",
+    "published": "2026-10-28T10:40:22+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T11:40:18.217865+00:00"
+  },
+  {
+    "title": "Apple expected to show first touchscreen laptops amid product blitz",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclFtX1dwb1dfVDktVFFucVh1RERQeWpiVFhNQ2NrRkVsZHJjcWJGYXRCYXo0cnpCckVNM3c5V1lJVmxORVg0WFF0YkZvWHE3bmpCcE1BSjdYZHpibUdmRXUtdTV3cHVSckZrelhGdXJNeDlBVHNoUFBuUnF4cGZ5RUNOelh1THI0bzZZLUlUcjhmNnhrTDJ3a1lOd3ZaQkJKbHRQT1YwRmNKUEtQOWMweWFyMA?oc=5",
+    "source": "CNA",
+    "kind": "news",
+    "summary": "   Apple expected to show first touchscreen laptops amid product blitz &nbsp;&nbsp; CNA    Apple Bets MacBook Pro Buyers Will Pay More for Touch Screens &nbsp;&nbsp; Bloomberg.com    Apple launches M6 iMac, entry-level MacBook Pro ahead of touchscreen laptop &nbsp;&nbsp; The Straits Times    Apple introduces the new 14-inch MacBook Pro with M6 &nbsp;&nbsp; Apple    Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip &nbsp;&nbsp; Ars Technica   ",
+    "country": "SG",
+    "published": "2026-10-28T11:07:13+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T11:40:18.217865+00:00"
   }
 ]

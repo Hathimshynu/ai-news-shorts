@@ -1,166 +1,159 @@
 {
-  "job_id": "2026-10-27-evening-2342",
-  "chosen": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-  "reason": "It shows how OpenAI’s partnership with Oracle will bring ChatGPT‑powered apps to Indian enterprises, unlocking new AI workflows.",
+  "job_id": "2026-10-28-evening-1701",
+  "chosen": "OpenAI plans to buy Google's AI chips, The Information reports",
+  "reason": "OpenAI's strategic move to buy Google's AI chips highlights how compute demands are driving surprising new dynamics and alliances among major AI players.",
   "candidates": [
     {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "score": 26.61,
+      "title": "OpenAI plans to buy Google's AI chips, The Information reports",
+      "score": 27.78,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa24wUk53cGtNX1Z6MHhYUTlnaUs2RlBGN0ZpOHJOdkRYV001b19QR1JVRVZpLVBhY1RIdDZOLS1HdmJiQlBEbU5GUE5vcGN3XzdZUWxhZDFLekswXy1OallwZExKUlB4ckNrM0VZV1U3Wlk2eUUwTk5XTHROVk1GSklhUWZKVFZqZ3ZIQ2M2b2xsQ291OUxzWXFHSjBYTVhQanNrbzVQWXM3SG5EU1RFVDJCd21wM1l5?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcVE0bWNXSG9scy02QmgzZGlTdVk0T0hsMFlWR0dsUXZDc0lhMW5LRUdKUkg4MHBnVmJkc2Z0TVRTMUFwQ0YwVTZsNHBuTWRDMlZjbjFnOThUWUc0OUJrRQ?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI plans to buy chips from Google as part of its AI build-out",
+      "score": 23.75,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR1hpckloVjY3U0IzcmFSUzRLT0llUmg2a3dYejdyNTFaR0pqcGFORFBBaTlNbU9uRGowRUtraHh2TFFJNUkxeDdoeHlZUmo2LThNTDlDdTE3WHVHNDRQWDV4QnhtdkNTOEZMREF1Wkt1QlhDbF9TWmNteTZUMnlaZFhFYzJGS3FHSWxTNFFhOFNVVFBwdWRfZUdpTFh2ZGlUN0N0d29OQzUyNFJYVGVTRnAtZVhCR0F5ZzVPb1ZXOUs2WjRHVTBsczRPOGc4cDdSWjJFX0tmZjVweDRsV1dNRHZPQ2Fhb0JpRkHSAe8BQVVfeXFMTlFyQW16X3VWRl9WYmN3RW96bUdRV0FJS1FadHRMekxmYkg2eEFmeTl2cXJJTDJaY2ZONG5KdTZOSk1MUnhTMHRaci1kcXFtM2VOcjhIczV3cUZFQjFJOVBqMTF1UWw3NlZISFpxUVNNbjZ0b1dBSFpuSG4zWjNzU203dTJiT2F3TDdONzhLU3k4Y0xPS3Ffb2JFQ1RCOGx6bFVKal9DR3Y5LWVLLTFCaUxWTVFpUnlISGw2XzNzaFNpM01fbWQzWUN6cklpMEFrUWdTSWtrczhaMU5tTEk5VUg0MTFpdFhPN0pzTDQxazA?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUpoX1Z5aGt6YlZydHVadVU4VWdsTElsd0dWZUE5X2NhY3h6SkpxemtMdllLbGUyRnZLVVZ5b3B0b0FpN3VaMDU3enYwSm02Z0V2RUJoVzhMdGl0UDd0LVhPNklPVEFnbUZkSm1ZTTZUZ1Exemh3NHZuVjNjNHpFODk5ejhtejZ1VDVwR1RtQ2xtUXVVRlFlOFpiX2hhaVJQSTBIX1hzTXFtZEtDU1Q1ajJhMzA5WFVt0gG-AUFVX3lxTE5zVDB3MDJ3VlhxblZDZUEzWlJIdXZxYjhnTUExeWNiMHI1bHhpWEUta2lSNnZfYVdiRm9oNWVHLUZxaVBvbHpDX2RZN2g1MmVZTlFScWV5NGJHelBmazJ3OVRWNjFwZFBIcVFxVk5fNXdQNHVjSWJ1eWlBRm0zVXo2QVJqQURFQVE4ZG41QXFpOWMyTTBUNmVfYXZ0M2hwbE1PQ3hPTU10VF9XWVNaQ25XU2VMXzZjUHhyZjgyRlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEpmdVROdmhkd0RpU0tZbEF2bkstVmxlcjRTZUJYNWV4VlFNU21tcmRaNW1ZUjdkT0N1b1JlMzA1NF9WUHR6WGpvS3BObGRQUm5Rc3Q1NjNpMkNpZzNoWWJGczJlWGVOQWpsZ0MwcEJrWHBBV3JrZHY0ZWREZngtRklId3lXbV9jLUM0a3JvRy1yUFV4SlpSOGo2VUlxWW04cTJIZlhuaWdnWDd1dExxSkJKVQ?oc=5"
+      ]
+    },
+    {
+      "title": "SEBI explores domestic AI model for securities market supervision",
+      "score": 19.73,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3BsYUpOMFRySDhMcXRjc1R5Q09MLUVtQmwyaU9ONWVURTMtc2tFLUlwbktic193TGFGUlMzTWlaQVlGdFlTbW1fRExhQ3A4a2g4OW1CMEMwa0pjS1oyR0pSTjVCWjFsemhreS15SFdTYnBCSnNxbHg1ZmNfbzNZdGFIVnlRMDQyS1QwNDFtVjduSHg1VThyTHRUd0s1ekxoZ1oxTFJySDRXLU96bUk1N2ZBU2RGN3dDT3pxLXJvS0EyU0RlZUdaVG1XMFZ1Z9IB1AFBVV95cUxPdzJpZThKWF9aSWMtWTJfenlzc0VEb2NhT3YwRmRMWmZhZjMxMm9kNzN6amJPbEVnZmxHWkt5clBFejlUSHJEUE9lZFZfWDJ6S3ZpU0pRUHlQaUNPbXlSWWVGaU9DMWJycld0SkJiNkR5ei1Dclp1YmRfbTdET1QzQndKZS1CS3pwR3ltR2czQnRGUHZlNlNQVUlFTFEzRzZLcURDMV9Dd3FlTC14c2k4RWZNeExIVF82dnBvZ3FtMVpyNkdBNDY5aUNhRWtIdVlLdG5LZA?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2JEekxlSmh1YmxVNE1wcGhWSkFRa09rejBmZlBaUE9vSW9HZ2pSUC1yX2FpNDEtRlFNbjRYS3M2NGtqUk1kdHd6blI0ZVpPNXdZVWxmb1RTU0VzSTYtVUpPQzFISmRKTFQ4RXZPeGJfWHRhcTRHZDhLd2poUXBvNUVGRlNzazNGMFNaTzMyRFRIOXVKN2thcVQzaUNET0JSVUNjRkk3S2FLMVdnSzVieXQ0NVFYNFJSZnNHMFhTSFRQS1ljaFZFUnl4c2YwWWJvMldnb29pS29VYmd0YUxuStIB5gFBVV95cUxQVFRLZUxNMlVjc2t0R0ZzVS1uaW5pcTctWnBSeDZobUNTQ08xNUpfZkQ0M2xsZU0tdEQ5UGttVkJQN09VTEFYS09YZmpUcXlGVHhObXFycWJXY202aVdZUFR6VDJYbGltY1VaVEl2Sm1jRFh4V2Y0eGdqRzZObnVKVjZWU1h0VTFlcVp6bkhOTE5rdG9KeEV4MTZuTEJKNG9VV095bktNRjd2U0g1U0pUVEZROVRNejdPWk02ZUY5cjEyMVhLQVhYak5hQ1FHbXFvOWdqTEdMWWo2N2RrV0xGRkNnTWxiUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "score": 24.55,
       "kinds": [
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSEZJVy14S2pWNDF5YkZJNTNRTjRYNHphYW0xVVBYTGo1UHhRc3phUy1GQzZQWlE4RkNFbGc1NUxhYVNNYk5SVnVucm8tSXVCcVdiaDhFRW84NzhSOVZyZmNuS2ZPSWxfdDh0ZEU2cVVtdG84OXFTUEFldmJycWM?oc=5",
-        "https://openai.com/index/oracle-apps-in-chatgpt"
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
+        "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
       ]
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "score": 21.97,
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "score": 20.9,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
-        "https://openai.com/index/greptile-code-review-codex-astra",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5"
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
+        "https://openai.com/index/check-point-daybreak"
       ]
     },
     {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "score": 21.89,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5",
-        "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5"
-      ]
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "score": 20.76,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/LiquidAI/lfm3"
-      ]
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "score": 20.5,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/allenai/novelty-bench"
-      ]
-    },
-    {
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "score": 20.2,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
-      ]
-    },
-    {
-      "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
-      "score": 21.65,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1lIQmc0OGtOZHloTUZPTkIwcHdHM1hyZWZDbUZaOFI4N2hFRG9wVW1RLW9JVFJyOGlSc005NXozeEdnODZ4TGxaci1ubzRudkE0WmVvQjJPZzRKZGNLWGJoeGM3WU9XXzVRcTVLd1ZXRi02dndGUnI4Sk04LTEzWjlTaXBlblEyWFZ1OHpiYUZ5OHJuNG80YXZfbE51UXJJVVhFRG1yQzZ1R0tSempBRDRWanY?oc=5"
-      ]
-    },
-    {
-      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "score": 21.6,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSm5UR0RoZlhwTWF0MEIxWmgzTEc3TXpjVnUwd2F1c2JON21PNldDb3NXV0RiS2l0TlpWRTBfQ29lam1UT2dCc1RCLWFQdnZDMzhBWUY2RXhzMzRJMjNaaUtZRVMyWnFGNmNsRjZrb1gzT2RGSGoyZDVpcWs0d0lZd29KRWd0SVdiWTJRNWY3UkJJS1dUTDhB?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI’s GPT-6.1 Terra Enters Orbit with 50% Cheaper Tokens",
-      "score": 21.63,
-      "kinds": [
-        "backlog",
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDJJbkc0RDc4TTV1anNjV3NFWFg2MzE1Z1VuVWppZTJCWllza3RZVUJkWWNvaEM1czdHZGlnMG9WRURDVmMwMVIxRGVhYkZzTDBkRFZ4a3VRTlRXMExZWTVMSldSRk5zRGlGRFdnT013TG5VWWZKOHNFTDdmMEVVamlYVHh5TUx6Nzdr?oc=5",
-        "https://www.producthunt.com/products/openai",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDJJbkc0RDc4TTV1anNjV3NFWFg2MzE1Z1VuVWppZTJCWllza3RZVUJkWWNvaEM1czdHZGlnMG9WRURDVmMwMVIxRGVhYkZzTDBkRFZ4a3VRTlRXMExZWTVMSldSRk5zRGlGRFdnT013TG5VWWZKOHNFTDdmMEVVamlYVHh5TUx6Nzdr?oc=5"
-      ]
-    },
-    {
-      "title": "Business News",
-      "score": 35.81,
+      "title": "Samsung Galaxy A08 launched in India with a 6,000mAh battery - GSMArena.com news",
+      "score": 29.65,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimAJBVV95cUxNX0E4cXlpLW9QbWROTjJtX0hHbllMc3JMYWJvUk55aUZpMmNLVnZfTmVrZnJrQm0yVkM0YktTcldCd2I1M0I4anpuUENUbHFKdllyeG5LOFYzMWZKd1NFWFhCQ3NtSHBfS2hRS3dRWWlpNlMtclEtWDNPOUhYalZSNVNvUl9ydFNtS2hNNDVoUWNhbjdjZmVOUEZ2MWJWVk1tRFJZTXlQTkZ0T0QzSzVDWjVIYXFFaDFSNlpBT28waGVhVkM3TGY3ZzByY0pHaW1SZTdjeXVrMmMwTEJDM0JoT3hYejBaSnJrM1BMVlhfMXR5V0NKQzRyQ1p3T1NmT2NCRGdzbmNoNDFaa1ZydE14bkpwUWw3d3VG0gGeAkFVX3lxTE03VTFjM1RiWFlMR2tIcTBQSjVBUGp6RU9DcWJUSmZudXlVYTFoLWZJSTJxVTFmVTllUWxSS002bHVmdXJQYVZjbkZObkFTTWhIb2NBVXg3QmhFN1JkNWMyNDhaUWR5UnB6UU4wckF0UUJ2Ym1fX293WFNPSW96WHVFOFFUc3ZUM29MVTl2WTlfRkVGeUhJMGw1UjlwUzFvWW1jaGQ1dVVDejNwbl9fcGdKUFZMTGlYM3JFQ2wwNVMyOUtSRUVKOGJmalUwaVB0WlY0d0drVURWQTdvWXN1NEFDdWNjcmZycVl5UHFYMGUweWxPYVJPUnRCUmhDdGgyeUZEZkJXOG1tYkVCZFpuR3VFN2tkWW5rTUFlTmZ6ZXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0NSWmJvQ0dGZkhKTVlBSV91MEd2Qlc4SGF2dExmdmFlYmNJcHdTWmoyVW4tcTFnYzFHcWVBeUVTUWtQdUIxWWJFU1lsTHMxZm1HQzJhVTVqaEVuX2ZtdEZlSV9WN3hMMjJWblV2QXJLeDdmT1BjVTlmT2cyZHBBY1hPaXp3NERjUlh3MFo3ei1JV1RzaFdPbUpzbHJEMFozdndOZWJEYWN6enFHcHZiVWppSkVTOGJuc29B?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS29xZGNUaVFlVGR5OFMwWnpNMlJWSGlGZE9lVHpmV0Y1R1gtUVRXemRSMUhmRG5wTVBvSTNiSDhoWWNVTEtHdnYtMXhsZGF5RzRwNnZTNE9LOC1hZ3k1c3VaMEFGWHo3U0FlSDZ2RUFiU0FlaFA1OUE4VTg3UXotcFc5MzMwQVNBZzkzcmJLS09HRFg3VDlfZG9wb3JRbkpXSlZTS1F3?oc=5"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5"
       ]
     },
     {
-      "title": "Infinix GT 50 Pro Launched In India With Shoulder Triggers & Dedicated Gaming Accessories: Price, Features",
-      "score": 24.74,
+      "title": "Galaxy A08 India Launch Revealed: Specs, Prices and Features",
+      "score": 21.49,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJaWEYzZHkxWElpeUFVVXhUOEVRN2NQdUxQcXZ6VjFOR3pORmFlR0ItSms2bzVYMmRIYUM1cTlzVm0zYXpFbTlSTVBKeE81T01NaDJWWWlHUi1vZGFuOEtSeGp1cG5wZkd5aEMyX25hbHNHZFdUWjBWRHlNWGM2UXZ2S1UyVW04Tm9MZFVMSUdoSHN4R3VZVF9FMnJVQWY0bXF0clktclQ0alRNdkt5V3lmd1VMS01UeDFHU0tHQzBzR3PSAcgBQVVfeXFMUF9kajhlSXZYczJmN2lEdFZEbkZiQjdRUUZ4TFN1Yl9XY1pLeUJSZ19JejZLQ2ItNHg4SmdOM3ZEaloxd29mWTFlOXpiU0JVRTdkS3lWOVN0UW1SQ3loa0xQNm5ReWNTY1VMVS1weWdyRXQzMkpBcHVMdlhVM0NOcEtmaGRPY2NDNWxLbnluLVZ0UzZHX2ZOTFhIYVhkNmtMSEZma3pvWDZUeEgtdkg3Rjh6ZWhiNmUxMW9HRURpb2k3bllGbGlLQjg?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMkVZbjBEMGFnR0NiTzJXbThXWjJ3VlotSnNfcDNnWDdCb29tQnU2Z1Z4VWNhcE0wTEhxS3dQc1VLdDJVXzlhbkZYcDA1X3dPTGc1bU5lNTVNanl2NGlTY1BNdWhzMEZkdmVjOHFfTzRLbng5T1VXckxMZDdnMTFDQnh4ZjFVX0ZpOFp4dWJOeTU3NjI4SWZMejc5YXFBUnR5VTZnLV84Y1JwandUb05oRlRqMnJhOHBESFFMRmpVVHBjMDdMcldoYmJfdUtWTmExd01DTnVZZTNZMjRXNGfSAd4BQVVfeXFMUDJFWW4wRDBhZ0dDYk8yV204V1oyd1ZaLUpzX3AzZ1g3Qm9vbUJ1NmdWeFVjYXBNMExIcUt3UHNVS3QyVV85YW5GWHAwNV93T0xnNW1OZTU1TWp5djRpU2NQTXVoczBGZHZlYzhxX080S254OU9VV3JMTGQ3ZzExQ0J4eGYxVV9GaThaeHViTnk1NzYyOElmTHo3OWFxQVJ0eVU2Zy1fOGNScGp3VG9OaEZUajJyYThwREhRTEZqVVRwYzA3THJXaGJiX3VLVk5hMXdNQ051WWUzWTI0VzRn?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXhnVWJlR2wxUFFpaWJicTJDUFF3SFNaeFYxUnViNDlFak1TLXBXVW1jenRyZjhfQlN4a0VWZTBMakU4YWN3bHNhNzVVTXl6SWd1VzVyZHFsWmVRVDI2U1hhZkRwRFdNUjlZRTdTNlowWU1wTjFyQ2Q4WmktOWdURV91NzF6Q2JybDdSbHZwRWUzRmdWN3ZONF9PV0o1MlZRc1pBbjFBUVhnYVZfejVFVlhB?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBvNFB5aEF5ejFyQVhzOWV0WXRjdzd1bk5SbG9mWlVXUmJIa2E2ZjA0TkluVlBwcTBySm1tMzZUS1NKbVFOSmdTVW95UWYxS3VIdlVvMU9KaXlCRmgyX0tidWI4aTllSzVwdTZMTGFDbF9CeDZ3eVRxQlZqamJOY0RfZkhDQ3psVVFlRDJ5OHI5SWxMZ1YzTHVsazdOR1NxdUcxVndLY1d6d3ZE?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1JTdTN5WUFCWWFYNDYyT19CeWdyajNTZ0Y2WjBUVWstc0NsbXcxYUo2ejBLYVJHZDl6ekZ3ZFJiOFc5LTU1VmdhTXVsajhJZHpBU3pIMC1XRU5mVG5xMmxYV1A0cFhGWi15c0ZIamt1cEZscFhKWmstME9jZHo1NGpiUl9NQmhxUmU3SW1iQzJ5dk5STW9aWHlCTTnSAaoBQVVfeXFMTnRDem83bkxZR09Qdy1SMTM0d1hSUVhUVEZoaldYWVltdC1icmNaOGoxMThIQWlCaDBKeU5CWWtSQlhkTThuZ3JyUVc1TlBXYmZDUXZqcm14ajhyYzJHMWpJNzFIcmVmWWtvcVFoazRENGpDWTlUbUZ2Mk5zSzB0LUdBZkJiSXplSWFmNkpMcjFhdjVfNk8tU2RjT3pXdUswSThSQW93S3NyYkE?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFZXZFZGT2l6M2l5T1MyejRkTkx2c3JZSy10eEJMclBtOGlKNlIyZE95bEhpYmJZV3VxV0RwejdaaXFRcGJpcHhKMnhlRUxKaV9QcWRJa0FsVEpRN2lVV0dvb1E4bkQtWGdqNlVOekV3Q2s1S3RzeXhuUkd1dEFyRC1OQmQ3aXZRak4wODNNNlNlZHJqN3JYZGFXb2JGdHpmT1JXeDk1YVhydWZVQThMcy1YTEwyS0o2bTJr0gHAAUFVX3lxTE80bVhCbTNkY2xZcmtXa3ZjMlBlR3RSLVhMbXNDSFJqenJpSjd1TnhQRVpqN1ZSWE5tMjNta2lEcWJNcEozd1ZqZUh1WFFHMVFSU1ltNXM5T3d3cFNrRk1DOFo5X1JqT0RRU0JKeTRPc1M2NldFSFVXVlpRZGJUM3kwRVUzdHhLZ19TbFk5eDlIX3FlSnlCdGV4aUlYdTQ0MVpNM2pkRGhhUWp6SDBBc2g2LTMzYWU1Nzl6U0NHUDNGcg?oc=5"
       ]
     },
     {
-      "title": "India to launch NVS-03 satellite to bolster NAVIC",
-      "score": 20.02,
+      "title": "Motorola Signature 27 confirmed to launch in India this November: here’s what to expect",
+      "score": 19.79,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjNBaUtXMHZUX1ljSWhZZms3aUF4OVduUHdNRlFmZ1gtaV96ejRrVjI3VU1tUDUxR2lIMU5qRV9qb0t4NlhuNE9oR2JZUUo0dTl5djF6RXlYVHJDeGRILTFWZDlxY1g1ajJ1SjBFZWVLOU4teE5MdFVONEdUY2lTYmlJT3U2Qk5Gc0dXOTRiVWF3Y1dGSGFfMXBQNVlvQ2FOZUNmeW96OTVKMDdIQkpkcUQ3R2RBaUo2SEx1REZIX2NQNWh0Y2RJeQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjU2S1g0aDBydWFvUm4wTHFrcjdmcm1FcW1BaEFzUXdSSEw1dEJodW8zV1J6enVHcy1vRXJIcEgwb0NmQ3RoRkJZM0g3cEEtSnp0TTBrZ0hFWWc3bWNlcnJLWGIyanR6Umc4S1lKd1FXNnZoRGFSS1g0TDFhc2tGWg?oc=5"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0djNlpxUTRCcWMxU0RzbGMzUjNQeVd6WkNSd1BBSXNYLXBmM0RqUmdkaWVuY2pKTWhsSjdBamZkUEFtOTF4b09qTUhVWllLT2N5ZE5mT3lOcGFJRXJfdUNkeExBUEUxY3lYMmQwWUZKaVdxYXhMdmlqd2hGbUxUbkZuUE9ubk5VWUtYYdIBkgFBVV95cUxONGYzSFBybGRLX0VkU0FtSnc4ZndrNDhSd3Z5MWRtZlVFOGx3QkM4R0hkRWNmRmt1MHd1b29xWlZqT2MxbWxYU0s0SmRIaFR4YjdDazNIR0ZUdDB5N0hub2xlc3p1YUNUZG5YT2ZfLVRwOXNkWWxTSjN5RnczLTFQSEFtY08wdWE2MTlzbG13N3JvUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SWkNZQjNkc01WQ0NpSFJQT0F1YV9DdmRuTFVLSkV2SlIwUHdBVzQyNThwSGRJeGpncVlVdHZuellDZ3RDaXZ3eXpkLUhIZnVCbVBfNTFsR1RWcmhnaHFOTTBJM3gwNVlRS3J2a3FJS0QzalU?oc=5"
+      ]
+    },
+    {
+      "title": "Apple expected to show first touchscreen laptops amid product blitz",
+      "score": 21.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclFtX1dwb1dfVDktVFFucVh1RERQeWpiVFhNQ2NrRkVsZHJjcWJGYXRCYXo0cnpCckVNM3c5V1lJVmxORVg0WFF0YkZvWHE3bmpCcE1BSjdYZHpibUdmRXUtdTV3cHVSckZrelhGdXJNeDlBVHNoUFBuUnF4cGZ5RUNOelh1THI0bzZZLUlUcjhmNnhrTDJ3a1lOd3ZaQkJKbHRQT1YwRmNKUEtQOWMweWFyMA?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnV5WWJIazFEMmFQM1ZHT25XYTZOVGl6ODZMRjVhNHBkeWxXa04xRWdrcnpVWWFUdWZ2clg3alQ2eG50cWdkVXpSTkViZ0F0VmZraHh1NVdkS1pSdnJzLWV5M2E1QWJkb3BLc3JrUS1UTVpTRVJ4NnVUSnZjTlQybG1UYXhVNWRZaVFpU0lCMWpIT3dtaWZoMllKUmxEUjJ0Mk94NGdrd19WMWtqOGFtSENWdG55Q1RueEZsVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG5iWVZIc0l0UF9OcVhkbnIyenJRX1J1OV8yMWQ4c0VsYlpZOXRCQUVkYzRxU25ZcVBrdTdZd0V1SGEteUpwU2Q0a3VOX2hkaDV1aUhnT1owMWV4VktZY1FHQkxNWHRWZnZlR0pkak9mQTZsdHgwLWlrMm1TdkNDNW00VS1GRFliWTZXcm1sQ1BYSGVONGVXMGNQdEVvNFFvTkN4QUQtQi15SW5VSnJEb1JwYjVJRmVZd0NFbG1tcFdDbXc?oc=5"
+      ]
+    },
+    {
+      "title": "India aims to expand space economy from USD 8.4 billion to USD 44 billion amid rising private participatio",
+      "score": 19.58,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZmxOYVRLMjhYSTdyUkJFRFNWS2NYdFdXdHpXVHNUUmpqZmEtVG4zMGU3bFFIM0Fjd05XbHI4akpZME9PSGtaSDJ3ejNpYXJ2NEc5cF80VzNXLXktRTJFTV9rVGNFSWFjNlJZaXZPT3oyNDlVQWlycUlHNUd3NldSTDNURXpmRFZscGN0YnI2UG1OQUZLam9KWmMtRGtTeWV4Sjlnc1JMSnRUM25ySXljd3RTX2pUTnNrWXJreU1VOU1sWjNYN3JWTW1fSjFzY2ZOd3JCOXhfSFFUS2tmVXp2YjQ1dmdsTnFuQTU0OWtTem9FRE1NcnFWdWxXUjhQZHNWWXhPZ3JxSVlKYVlEd09RNjd0Q20xUdIBmwJBVV95cUxPclVxcUhGempSNFpYZk44QzhYNzNjSlMtbng4T1EyVjdpY0VVUmtlSXRSZnBIOTZxYmsyWHd1bVBCRDhHMjNIMEhsMnBzVDFXSHNoTmdqNEZuaU9LOUZzMDZkNzN5cUtFRjNObnJxdk4zazF2cl90WnUwVVdBMDB4YkdwNHRIbllQaWRWblZpZ19ZWEF3eDh4ZjhadmdBcmh0Z2VER3poMXMxdVFJakFBSkVmM3lKNlpLRWk0MVlJUTRPWlhVcXg0akFObkFoWTNoVGU1bnBwdTZBU2dpU1VUVzlJMzh4bWVKaEFTX1I5ZjhscDhlcHlRX3hGTFVGOVZWcTFJLWxVWFRPcUtvZy1oWDBnYzFnTU1OYlQ0?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlRWTmpaQ0lCaS1yeDNhMFFnaG9nUjhZaGFvNkZPS29XWFh6Z3lGeVhGSWhGakI4ZnYtR3BWN0xIdWUyOF9hdktaMHRUSl9jY0tmeXJzZ2NyekZxSGpfVVAyZVZZQVRpRmk4TGIxcGVxV3kxOXFTUldzeGVuYkVBY3hHMXl6UUo5aUVfNVpYeHYwZEwyTG9yUUQ4ZWV5d1V0elp5Si1zR2dzcEFfRTRj?oc=5"
+      ]
+    },
+    {
+      "title": "ISRO Recruitment 2026: 61 Vacancies Announced For Technician And Other Roles",
+      "score": 23.16,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0dKcno1UTcweTExYjZGY1lfc1lfNmM3UnVlbGp1MlJGLU50RzFpdGYyME1KOW84ZTdjX2U2cUw2Nkk4QzVyQUEyc1hmZkVnQV9aZ0I0akhjMXJPZFFmSTJRUGpMSFhUNzFrUF9YME9xY2ROZDdzNzNRRU5NUlprQlNnNXBhbWpXZ0QzTlBlTW8wS1lMcmZKRVJkTDJQSFluRDBPQndXSW1kQnlETkVLRnZqUThzZ9IBvgFBVV95cUxNbWpINXo4UnJqX1RaQ24tbUFEMmVYYlQyT05BMVhsc0ZQeTZYUTlkQ0tVNEtiZDRmdVQ4X2IydUVoSDVORTh4VW96cUlOZjY1cHJNMTl3eG14TWdZYXY0R1ZRY0JoYkZ6VmFTNEZXcURhQ3NNY24ya25wUDBfNTlkQ3NQRm1aRGRORW03V2xpQlJ4ZlQ1aDhYTGd3eVlzc2JaeEN5dm5RNm9LN29udEpXdzhFYlZjMGJCRWRudk5n?oc=5",
+        "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNG9KUlBjbVYtMU1tSTAwcUlUMmpaclNUak5hbGdENE9qOEJSTGJ3SFFzdExhX254Y1hPNTNaVFNUVFU4OUpXS3hlZTVPOWRTUHRsTmM4VlNyT2g5bFlxYVg5SGs1Mnd6aXEzdVcwMnFBMm8tQ2RETktZODdmWk80ZUFhakV5LTVwSTQtNjlVSHRvMkFoajFSMFItNDIyQkFUbUZ6dkpGRXpPYnRJVXJfa0pSdFYtVU5sVW9sbE96aUtJX1ZHeXZsUWs3ZU5yb2RYNkliOXhYaGRRNmNyVVVETXZEU19FVGwyY0M0ZHJQcEhkMGRtU0c1YlZIVUU3c19iUmfSAYcCQVVfeXFMTjdhWmlFVFItT3lJbXMwOExNTWdjNkY0SWtRVklUNEJGcmM0c2hxTGJySnBIS25vcThkWmZRU3NuVWJ0TTlSSW92UDJkbHJlYl91UnZEcy1nbG80UEd5N1pJVF9DS090NHh6aDRtSDdyNmlHR2JEY3FQTVpLWkM1aVlKd0pvZlpQZkFLNEFxcGMwS1g0Mm1BMkpWXzl3c3lGTzI4Qkh5aXZDbFF1OEZrM2RhSlZucXRTbFJxTjRBRTQxcnFwVXJGWW9DN1Z4U3l1S3BScXFGME1SYXd4TWsyaWRHX0RfLWNCaDd4cFlLVTE5S00xSDZVWXlRVk9EOXBod19fMjM1UXM?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXY0TXFFMUpqZVRkZ0lveVRoaFppRXVlTlF4NlM5Wm9XSFY4em9YeGg2bE10RHNyVkdBR3RIb0pmdXUzOThzdEpWeUZXclpMX095bVVraUNJVlRLeHIyUkJ0QnFBYks1VWpMMVNRSFllTW9GRlRneGVvR3R1b1R5SmppVi1jclF5Ums0SlBYMXR4UnVPT3FTTkNwUWE?oc=5"
+      ]
+    },
+    {
+      "title": "Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Oct. 28, #969",
+      "score": 21.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV9SNE9nSnV4Y1hFSGl6aURJUXpIaTNkR2I4TmNUbnFOMjRPbmNfNGVmQU1xYVdIREFxZ29jaGZTOXZZdlZWM1lZRFlNM050bzJ6SmRSSUU2VF9KeUdOOWtoX0R1Z0tLYjhEaklEZkRKbEY1eWFnV3dmbW1KLThXVUM0LVlUb0g4ZXhtcnVyYVhYaWplcnc4bGxMcGtSYlVpVXY3V0VkQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV9SNE9nSnV4Y1hFSGl6aURJUXpIaTNkR2I4TmNUbnFOMjRPbmNfNGVmQU1xYVdIREFxZ29jaGZTOXZZdlZWM1lZRFlNM050bzJ6SmRSSUU2VF9KeUdOOWtoX0R1Z0tLYjhEaklEZkRKbEY1eWFnV3dmbW1KLThXVUM0LVlUb0g4ZXhtcnVyYVhYaWplcnc4bGxMcGtSYlVpVXY3V0VkQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVF5Q2RGLXN1cVVoNmdkSHdjWjhvRTFRX0ZFcjZESUFWVzNDMnZyMmJiZk81N25PMEJIdkQzSlItWFI4UXJrX1UzVEVMYnVBejhrbEwyQ2pBN2hRNjVvMWxEVG9KZ3ZJSElERmQ1VE9Mb0Q0N3lDcDZfdTlqUmFYZGlJYk5TT2JWV2RyTDRuOW9XdUYtZVgw0gGcAUFVX3lxTE8xR3RHWVFid3UtczdHbjFUNUVraGg0OUl3U2k0TzRjajNBYzh3OTZabEtsTG5jUkZmWHBPRm95aEVUZjFMeC1oekVBdUxiZlA0UUdIYW9MTjlXLWpxMlVxSnBMeVEyNmktWDRFamRvRF80VDROY0lFMTlpWlVIcV9IcG8teDVMUDlDSVhqcEtMZkYzMDllX0tUZmlHcw?oc=5"
       ]
     }
   ]
