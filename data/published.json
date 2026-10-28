@@ -1384,6 +1384,11 @@
       "posted_at": "2026-10-27T16:23:46.199976+00:00"
     }
   },
+  "2026-10-27-evening-2342": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
   "2026-10-28-evening-1701": {
     "status": "published",
     "platforms": {
@@ -1410,5 +1415,10 @@
       "qa_passed": false,
       "posted_at": "2026-10-28T16:17:36.708154+00:00"
     }
+  },
+  "2026-10-28-evening-1801": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
