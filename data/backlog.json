@@ -1,25 +1,36 @@
 [
   {
-    "title": "GitHub Copilot app, Universe releases",
-    "link": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+    "title": "Build shared workflows for your team with Copilot Automations",
+    "link": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
     "source": "GitHub Changelog",
     "kind": "official",
-    "summary": " Work doesn&#8217;t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository&#8230; \n The post  GitHub Copilot app, Universe releases  appeared first on  The GitHub Blog . ",
+    "summary": " Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the&#8230; \n The post  Build shared workflows for your team with Copilot Automations  appeared first on  The GitHub Blog . ",
     "country": "GLOBAL",
-    "published": "2026-10-28T15:55:00+00:00",
+    "published": "2026-10-28T15:35:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
+    "saved": "2026-10-28T18:33:20.692964+00:00"
   },
   {
-    "title": "GitHub intelligence puts your code, context, and history to work",
-    "link": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+    "title": "Generate and edit images directly in Copilot",
+    "link": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
     "source": "GitHub Changelog",
     "kind": "official",
-    "summary": " Agents should understand more than your codebase&#8212;they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in&#8230; \n The post  GitHub intelligence puts your code, context, and history to work  appeared first on  The GitHub Blog . ",
+    "summary": " You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by&#8230; \n The post  Generate and edit images directly in Copilot  appeared first on  The GitHub Blog . ",
     "country": "GLOBAL",
-    "published": "2026-10-28T15:40:00+00:00",
+    "published": "2026-10-28T15:30:55+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
+    "saved": "2026-10-28T18:33:20.692964+00:00"
+  },
+  {
+    "title": "GitHub Copilot Fusion now supports selection of local models",
+    "link": "https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Today we are shipping intelligent routing for local models into experimental preview. GitHub Copilot Fusion can now choose between supported on-device models and cloud models, enabling intelligent local model routing&#8230; \n The post  GitHub Copilot Fusion now supports selection of local models  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-28T15:30:42+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T18:33:20.692964+00:00"
   },
   {
     "title": "GitHub Enterprise now includes access to GitHub Copilot",
@@ -30,7 +41,18 @@
     "country": "GLOBAL",
     "published": "2026-10-28T15:50:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
+    "saved": "2026-10-28T18:33:20.692964+00:00"
+  },
+  {
+    "title": "GitHub intelligence puts your code, context, and history to work",
+    "link": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Agents should understand more than your codebase&#8212;they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in&#8230; \n The post  GitHub intelligence puts your code, context, and history to work  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-28T15:40:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T18:33:20.692964+00:00"
   },
   {
     "title": "Security extension for the GitHub Copilot app",
@@ -41,29 +63,7 @@
     "country": "GLOBAL",
     "published": "2026-10-28T15:45:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
-  },
-  {
-    "title": "Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1Z5bzJBd1BYUjJHUDIwZlFabWQwNGQ0MEhmaTJ5ci00X09JbDBxbVF2M0xVSlFQWnJpUm5HR1RxNDF4Q0h1TUVWM3RGYkJ4dVNSaWZ6UjRBcHM0Z0Z2eUVqb0c1QkZ3RVl3ellLamNWZ3dfc0czRE5Lc1hIUVBXc24yTkNlOUE3SzVSTUV4al9wNUM5Nll1RTNTbzdJUFhSXzBTU3B4QVZBYjVTUnpIMU9nZ3ZXaHVXSDBmcktoRDQ?oc=5",
-    "source": "Investing.com India",
-    "kind": "news",
-    "summary": " Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com &nbsp;&nbsp; Investing.com India ",
-    "country": "IN",
-    "published": "2026-10-28T17:13:11+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
-  },
-  {
-    "title": "ISRO to launch NVS-03 navigation satellite on Oct 30",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDN6bGhsX2tJaTdmWHItMFlYdXd5U2JyWHdHcjJ1RjFoRmV4alNvRm82T0JvenZuaDZGU3dKay1fb2tIaURyMldNazFDRFB1TUliOWhQQnJRM2d5R1h4ZTJRVmh6MjdfOXFTU012bFBiTElNZXgwTnhKc0RxTURwbDdhZlpGb3lLUlJpT2phbW_SAZYBQVVfeXFMUE41Q29qY0lDelBfY2JMbnVjOGVXZGFjSUU2Y0wzZ3FWR0VTWFZ3Mnp2a1FjSHhsYXhmalRkUXlYbTJaWFRKWEtyYUtvV3U4N2EwWXI4XzdXcUpTQ0dBNVV3WWVTSlBZQmZfTXVBN2RtdmRaTkxyOHFxQmV1emlWZTl0b3BSemFoUzBDRjJzdGJOaUdnekVB?oc=5",
-    "source": "ThePrint",
-    "kind": "news",
-    "summary": " ISRO to launch NVS-03 navigation satellite on Oct 30 &nbsp;&nbsp; ThePrint ",
-    "country": "IN",
-    "published": "2026-10-28T14:49:25+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
+    "saved": "2026-10-28T18:33:20.692964+00:00"
   },
   {
     "title": "How Check Point accelerates vulnerability research with Daybreak",
@@ -74,6 +74,6 @@
     "country": "IN",
     "published": "2026-10-27T19:07:27+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T17:19:05.614540+00:00"
+    "saved": "2026-10-28T18:33:20.692964+00:00"
   }
 ]

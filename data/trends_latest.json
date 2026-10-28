@@ -1,94 +1,98 @@
 {
-  "job_id": "2026-10-28-evening-2246",
-  "chosen": "Google Cloud brings production-ready AI to India's small and mid-sized businesses",
-  "reason": "It highlights Google Cloud's expansion of enterprise-grade AI tools tailored for Indian SMBs, giving local entrepreneurs and developers actionable solutions to build and automate workflows.",
+  "job_id": "2026-10-28-evening-2359",
+  "chosen": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+  "reason": "Google's announcement of a specialized Gemini 4 Carbon model focuses on cybersecurity, offering immense practical value and high interest for AI developers and tech professionals in Asia.",
   "candidates": [
     {
-      "title": "Google Cloud brings production-ready AI to India's small and mid-sized businesses",
-      "score": 23.34,
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+      "score": 33.33,
       "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVpjejNTcXdzYTBDamtqRklTQUtxSnZtX01LVnlpbktqWGgyTmhJZGREeXNoaFIxcThZSUlVazZrYmtiUlFndjFmZHQxQmlJZmxBWHhNbV92NWctdkdlNnpIS2MyTTJFSkdGcTdqZnZzZXhiVzRWaTJRXzZhcC1Ibm9Ob0g1VGV2UElfTDBqaGNzbHVOakFnMWFIb1NoZXk4VW8wWldobjl4OFVxOXk5b0hfOU9fX0I4V0Fsd1dPQXd6am13Z1IwY1FnMGZJbVhqWVhmVjN1dG15X1J6aDFyMC1pWktBYzAyNG9yOVdZYXI3UdIB9wFBVV95cUxORU1hU1J1MVllZk1OaUM3eVR3YVNsTFIta1RHLTI1UFhFZUZ5NGNCYUlBSzVUaENyZTBJckNSR09uZzMxZGFhODAzd2xwWm5HdGVVVmJOX20ybllieHdZZU1XWUt4RFp6eHJySjIzMlVXenJHWGFYNl9XcDk2elJwLW1SMFN5bXo3dU1nbm5NUnREaXJzVHRoWTR6cThTaVo2cGJhQVNqMzZWUU56UFE2YWk3ek5hOGRTenFCVFZqSGVOaHNmYjFpdnNHMlFWRktMY0l2ajBNeHBVOGtFRkpIX3ZlelVJNnhqa2xaTTVsR05iNFl1eHFJ?oc=5",
-        "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVzE1TDN3ZzN5dFJWR3BnZ3ZoYXFIcmRRd3VHd3BwY21YdXlpS2p3QWVfUV9RWGlXei1pR05PS1BDUFpXSXRRMGs2eUgtelhlN2FsRV84eEVIVlk3QjV0SkVIQm1TaTI1dS1JOWxnakVxXzNBNEFFQURkbS1SeVRXVE90cGE4cWpFOUJVcWRiM2xSVWdhTUMzZWpGcHdvb2lmaTMtQURfOE9raUZxbk1wVElCeGtPaDhHUDlYU0pMazhYNVVJSV81a3ZQQWhuMG5RYXU2UmNjZG1CdjNPeWRZZTYzR1ZxYlJ5RHlzWnpGQkRkUkhtWGRsLVBfeFVIS0ZaS2VqMDBpUGhKNjFEZnl0cG130gGXAkFVX3lxTFAxa2VrbWF6UzdVcjljamlxR2JHTnM4NlJsOXFKRng3akFnUmtzcllTamI3ZFVXME5UU1RsU21DdWQ3alkyOXFNZ2FXLVhkTllMLUZocUZ5VUJoOGYzZGZ0aWxmeTBmNlR0aUtodlFjSnhBcnNxUGppdDc2aW5pWXZDZzFRTFNjcmpMamlJVHhUcGdqQVcxSUZxQVlLREdZcXRNbFVURlp1a3JDcTl1VU5MZ2xKazduSnlreHV3VTVkekhTS2pmTTNjaHZpcC1BMkVXX0h4OFFsQUR6UEwwaE16NVg2eFZ3VHRudEpUcmNXbjI1MWlyTXhUTHFISXBDRHlBdW9Qdl9VbmV3N0FsMlcxel9aall0cw?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVpjejNTcXdzYTBDamtqRklTQUtxSnZtX01LVnlpbktqWGgyTmhJZGREeXNoaFIxcThZSUlVazZrYmtiUlFndjFmZHQxQmlJZmxBWHhNbV92NWctdkdlNnpIS2MyTTJFSkdGcTdqZnZzZXhiVzRWaTJRXzZhcC1Ibm9Ob0g1VGV2UElfTDBqaGNzbHVOakFnMWFIb1NoZXk4VW8wWldobjl4OFVxOXk5b0hfOU9fX0I4V0Fsd1dPQXd6am13Z1IwY1FnMGZJbVhqWVhmVjN1dG15X1J6aDFyMC1pWktBYzAyNG9yOVdZYXI3UdIB9wFBVV95cUxORU1hU1J1MVllZk1OaUM3eVR3YVNsTFIta1RHLTI1UFhFZUZ5NGNCYUlBSzVUaENyZTBJckNSR09uZzMxZGFhODAzd2xwWm5HdGVVVmJOX20ybllieHdZZU1XWUt4RFp6eHJySjIzMlVXenJHWGFYNl9XcDk2elJwLW1SMFN5bXo3dU1nbm5NUnREaXJzVHRoWTR6cThTaVo2cGJhQVNqMzZWUU56UFE2YWk3ek5hOGRTenFCVFZqSGVOaHNmYjFpdnNHMlFWRktMY0l2ajBNeHBVOGtFRkpIX3ZlelVJNnhqa2xaTTVsR05iNFl1eHFJ?oc=5"
-      ]
-    },
-    {
-      "title": "GitHub Copilot app, Universe releases",
-      "score": 20.66,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases"
-      ]
-    },
-    {
-      "title": "GitHub intelligence puts your code, context, and history to work",
-      "score": 20.6,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work"
-      ]
-    },
-    {
-      "title": "GitHub Enterprise now includes access to GitHub Copilot",
-      "score": 20.64,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot"
-      ]
-    },
-    {
-      "title": "Security extension for the GitHub Copilot app",
-      "score": 20.62,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app"
-      ]
-    },
-    {
-      "title": "Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com",
-      "score": 23.41,
-      "kinds": [
+        "backlog",
         "community",
         "news"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1Z5bzJBd1BYUjJHUDIwZlFabWQwNGQ0MEhmaTJ5ci00X09JbDBxbVF2M0xVSlFQWnJpUm5HR1RxNDF4Q0h1TUVWM3RGYkJ4dVNSaWZ6UjRBcHM0Z0Z2eUVqb0c1QkZ3RVl3ellLamNWZ3dfc0czRE5Lc1hIUVBXc24yTkNlOUE3SzVSTUV4al9wNUM5Nll1RTNTbzdJUFhSXzBTU3B4QVZBYjVTUnpIMU9nZ3ZXaHVXSDBmcktoRDQ?oc=5",
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUItdXRWNnlWZERkOWxpSjBMemMweHZ3LTB3NjFlQkNPTWwyZkZBdW1LTW5rbFZVUnJuWHh5cFlRemRLWnB5LXBOWjlnQmhUUHpVZWY0c1BBb1psNVlpMEZtZWE3aFBNaUJRbjVjYm5Va3NSTkZmY2V6XzNZa0dLZEMyZFdlQTZyTWZCV2pyX0tfY3J3MG55TFFOZ2ZmMllLUFgtQmJsajBsYl85dTllUmdQZi1uM2hiTl9oZWVySnVfM1JCMll2OFp6eFdnQ2x1?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVlfdG15UDdXX0U0M2lIaW8wOW9JbXpjLXBjekhYSTFQY2szOEZIT3hKVWRlX1F2QUM1VHpZYy1mMkVJcHBENWwwTEJodndHbXZaVTc0WjdlbXJjdTNoR01OSEhJYUhlMkdxVXMxcjlPRmdPNk56ZTNEZUMyMXhRdzV4a2pNVHZFQy1jem9CWkp0cmE2aVdyWWtPTTAxVEdTaGU0YUowRXdlcTVIaVhHakJRRXIxNVk0Rl9ZUmNFZnFVdw?oc=5"
       ]
     },
     {
-      "title": "ISRO to launch NVS-03 navigation satellite on Oct 30",
-      "score": 27.98,
+      "title": "Build shared workflows for your team with Copilot Automations",
+      "score": 20.27,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDN6bGhsX2tJaTdmWHItMFlYdXd5U2JyWHdHcjJ1RjFoRmV4alNvRm82T0JvenZuaDZGU3dKay1fb2tIaURyMldNazFDRFB1TUliOWhQQnJRM2d5R1h4ZTJRVmh6MjdfOXFTU012bFBiTElNZXgwTnhKc0RxTURwbDdhZlpGb3lLUlJpT2phbW_SAZYBQVVfeXFMUE41Q29qY0lDelBfY2JMbnVjOGVXZGFjSUU2Y0wzZ3FWR0VTWFZ3Mnp2a1FjSHhsYXhmalRkUXlYbTJaWFRKWEtyYUtvV3U4N2EwWXI4XzdXcUpTQ0dBNVV3WWVTSlBZQmZfTXVBN2RtdmRaTkxyOHFxQmV1emlWZTl0b3BSemFoUzBDRjJzdGJOaUdnekVB?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgzSEJwYUFSX3oyRldNNlExYV9YUXVJbXlvbnJLc2p3TThCSGl5aW54eC11Y1E2NDh3c1pZTWNKMXl3RlV1QS15MXRxOUdrOEdyN0N0NGhVajZCMktfdzhxd0RWS1BaM0FWNFJpQV9JTHVEOEJuVk9vR2FGd1dWTHpxUlpYYmhwSklpRGxpUWZWWVdrYTRyUGI1MVdCRVJVZUp5YXcxZFJnNFpZNktCd0s5NG5fNWhwQnlF0gG7AUFVX3lxTE4teDNIQnBhQVJfejJGV002UTFhX1hRdUlteW9ucktzandNOEJIaXlpbnh4LXVjUTY0OHdzWllNY0oxeXdGVXVBLXkxdHE5R2s4R3I3Q3Q0aFVqNkIyS193OHF3RFZLUFozQVY0UmlBX0lMdUQ4Qm5WT29HYUZ3V1ZMenFSWlhiaHBKSWlEbGlRZlZZV2thNHJQYjUxV0JFUlVlSnlhdzFkUmc0Wlk2S0J3Szk0bl81aHBCeUU?oc=5",
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeDhqcHN2LXJuMWYwQ1VnMFJpRUpSOG1ZNDlMUVNJWDZQelpXandsb0lNTnc5bHBON0wxeU1OcHFBQVdFdGZRS2VOckcwMFZBZ1FwYUNRLWhUUDZPMXlQeXhwOU9tRjJfV3V4dzFDVUdzQmZSSEZuNnlCMWdwU2tBaVp5cHBXWjl4Zi1FRV9jN2o2RF9JRjVNSFkzNnBpUG5lZnJTY09jZWI2UmN1d1N2UVZVVFRpMXpnNmJBZWRsMjZCZlJ5RkRsXzdsZC1BOVFsN2dZeW42OXJmQ0NLRjIxVWFoQnZxT25qQWdOSGpOeXUyT03SAfgBQVVfeXFMUDhXNjBsUV9YWFBvdDRfNm51RUU2Ty1meDUzeTVnYUFac2JwV0k4TG1Sa0ZXeExKWmh0X0FWTXFiY0tVSzNHSUZ3YTV1cmk5Q1cxeC0za2h3Tm9ZU0ZZTDVSci1EQ0x0Q2NnenV2VS1NUWF2RnJnd2RoVUlTX1ZEVGVlMC03YlpHMUd3OWY4eTl5eVdMR1BxM3dVOU9QdWRiY3QtQi13YmpnaDVab0doY2dpOG5UNVpWTzBRdjV2cFowSEFiNHRYTElTX0ZGNFJfTWplSHppaWFvT28xN1dWTHg4ajVQWnhZRVBxSWZDQTlXNkFVbVBBR24?oc=5"
+        "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations"
+      ]
+    },
+    {
+      "title": "Generate and edit images directly in Copilot",
+      "score": 20.25,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot"
+      ]
+    },
+    {
+      "title": "GitHub Copilot Fusion now supports selection of local models",
+      "score": 20.25,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models"
+      ]
+    },
+    {
+      "title": "GitHub Enterprise now includes access to GitHub Copilot",
+      "score": 22.33,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+        "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot"
+      ]
+    },
+    {
+      "title": "GitHub intelligence puts your code, context, and history to work",
+      "score": 22.29,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+        "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work"
+      ]
+    },
+    {
+      "title": "Security extension for the GitHub Copilot app",
+      "score": 22.31,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+        "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app"
       ]
     },
     {
       "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "score": 21.46,
+      "score": 21.16,
       "kinds": [
         "backlog",
         "news",
@@ -102,35 +106,49 @@
       ]
     },
     {
-      "title": "Samsung Galaxy A08 Launched with 6,000mAh Battery: Price in India Starts at ₹18,499",
-      "score": 22.22,
+      "title": "ISRO to launch NVS-03 navigation satellite on Oct 30",
+      "score": 29.67,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmQzU01KZkh1UFpJbGhMa0daR2VhTVRLeUNjQ0JWbUlkX0tYdDNpV2tCeFdhM3VWVjI0eTZxNTFzU1QxMmVNVnZ6VlBpSjIzNHpOTlQ4RFVqX2JaVTNmWC1saThaVVNxbGRUWFBRU0U0MlJ4bXBGY3VvMzJhWVhoUnJB0gGHAUFVX3lxTE9YcGJsRnM3Z0xWdFpGYzN5SlFyblZSV3BNYlZYMzV1MktTR1Y0b0NqT3UtanMxLTU4S1RiZUVXQ3Q5eUhzN2RqMXY4dGNGWnVUSG82dXBpY0dlWEFOQmVONkZSbGZ4MEhFaUttVnVibFFqVkN1ZFhlVHlFbTlEODVOWFRrS1Fzbw?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WYUtwWHBENGhsNUFnXzk5UGppMUJMYVhnMTRGX2lYbGpmVXRxOFBmOGFJTFQ1dkNSUTgtcC14aU1Xa01TZ19Ca2J6eXdMa1FsMVk2RGwxbEFaRlFRcHZjOHRZNWhEcG5nTU5lQ0Zpd3IxTEU?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZV9sR1FJcF8xOHB0LWY5aTM5c3E0ckQ4bjlXcmFBXzFkMWMtdE5KTWpodkVRZ3RBem5qVW1WQ0JaNXVZOUduWEhYRFc5b3lPVDJicTlXenFSZDhCZU5ZcmM0S1o5MlVOdjJWdjNHVXpwVng1U1Z4LVNCNkVPWXBUVVlUREtWTHdvVV9WT3IxQ3VadnIyVDI1dDcybnN1V004UXRDVkE3VzMwNDFkTFZ6TzFwZDUzMTd2QjlRSm5qUFZaYk10bDZrQWM4T1FZa0NxdnlsZnREWEhqdGtoVExF?oc=5"
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDN6bGhsX2tJaTdmWHItMFlYdXd5U2JyWHdHcjJ1RjFoRmV4alNvRm82T0JvenZuaDZGU3dKay1fb2tIaURyMldNazFDRFB1TUliOWhQQnJRM2d5R1h4ZTJRVmh6MjdfOXFTU012bFBiTElNZXgwTnhKc0RxTURwbDdhZlpGb3lLUlJpT2phbW_SAZYBQVVfeXFMUE41Q29qY0lDelBfY2JMbnVjOGVXZGFjSUU2Y0wzZ3FWR0VTWFZ3Mnp2a1FjSHhsYXhmalRkUXlYbTJaWFRKWEtyYUtvV3U4N2EwWXI4XzdXcUpTQ0dBNVV3WWVTSlBZQmZfTXVBN2RtdmRaTkxyOHFxQmV1emlWZTl0b3BSemFoUzBDRjJzdGJOaUdnekVB?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgzSEJwYUFSX3oyRldNNlExYV9YUXVJbXlvbnJLc2p3TThCSGl5aW54eC11Y1E2NDh3c1pZTWNKMXl3RlV1QS15MXRxOUdrOEdyN0N0NGhVajZCMktfdzhxd0RWS1BaM0FWNFJpQV9JTHVEOEJuVk9vR2FGd1dWTHpxUlpYYmhwSklpRGxpUWZWWVdrYTRyUGI1MVdCRVJVZUp5YXcxZFJnNFpZNktCd0s5NG5fNWhwQnlF0gG7AUFVX3lxTE4teDNIQnBhQVJfejJGV002UTFhX1hRdUlteW9ucktzandNOEJIaXlpbnh4LXVjUTY0OHdzWllNY0oxeXdGVXVBLXkxdHE5R2s4R3I3Q3Q0aFVqNkIyS193OHF3RFZLUFozQVY0UmlBX0lMdUQ4Qm5WT29HYUZ3V1ZMenFSWlhiaHBKSWlEbGlRZlZZV2thNHJQYjUxV0JFUlVlSnlhdzFkUmc0Wlk2S0J3Szk0bl81aHBCeUU?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeDhqcHN2LXJuMWYwQ1VnMFJpRUpSOG1ZNDlMUVNJWDZQelpXandsb0lNTnc5bHBON0wxeU1OcHFBQVdFdGZRS2VOckcwMFZBZ1FwYUNRLWhUUDZPMXlQeXhwOU9tRjJfV3V4dzFDVUdzQmZSSEZuNnlCMWdwU2tBaVp5cHBXWjl4Zi1FRV9jN2o2RF9JRjVNSFkzNnBpUG5lZnJTY09jZWI2UmN1d1N2UVZVVFRpMXpnNmJBZWRsMjZCZlJ5RkRsXzdsZC1BOVFsN2dZeW42OXJmQ0NLRjIxVWFoQnZxT25qQWdOSGpOeXUyT03SAfgBQVVfeXFMUDhXNjBsUV9YWFBvdDRfNm51RUU2Ty1meDUzeTVnYUFac2JwV0k4TG1Sa0ZXeExKWmh0X0FWTXFiY0tVSzNHSUZ3YTV1cmk5Q1cxeC0za2h3Tm9ZU0ZZTDVSci1EQ0x0Q2NnenV2VS1NUWF2RnJnd2RoVUlTX1ZEVGVlMC03YlpHMUd3OWY4eTl5eVdMR1BxM3dVOU9QdWRiY3QtQi13YmpnaDVab0doY2dpOG5UNVpWTzBRdjV2cFowSEFiNHRYTElTX0ZGNFJfTWplSHppaWFvT28xN1dWTHg4ajVQWnhZRVBxSWZDQTlXNkFVbVBBR24?oc=5"
       ]
     },
     {
-      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-      "score": 23.1,
+      "title": "The future of the firm",
+      "score": 26.68,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHhoWTNGUmExLUN0c2w4SkJ5cUllajMta0Q1VEFlakdvOVMwVjV4TE0xNGoweFQxc28wSFV6THByeUVGcFZQWW5HXzkzUFdXTXJjU3Y4ems3MzZDWUNudHFwcWwxNnFSSUtSNGdYclQyc3VMM3VOVDJIeVVLd2VNYllkN0YyaGR6ZnAtTUUxenJPTUZQWDhVTGt3OWlxVHNYX1RmYS1TQjlNYXI4ZFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+        "https://openai.com/index/the-future-of-the-firm"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy A08 launched in India with a 6,000mAh battery - GSMArena.com news",
+      "score": 23.91,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFlOX3plNjRGc181dVhSeFczQ2pzM2pwc0o2QkxxNW5FOUh1MEo1WnNEQkhxeXdXQjdsRUE0OEZ0WmlTbUZkN3ZnbGszM2R6UV8tSUdTRDJjTHVNLXhza0pVWUw2Y1h5b2xoUkdsVDI5Z2dmbTJpeFNkUndCS3Y0TUk1anBreVBfeVg2WlNERENrdzhINTBJYlc3QkxpRURYZHBpLVA0UksxNXhHUGFaS21JeW1kcUpVVi1n?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFlOX3plNjRGc181dVhSeFczQ2pzM2pwc0o2QkxxNW5FOUh1MEo1WnNEQkhxeXdXQjdsRUE0OEZ0WmlTbUZkN3ZnbGszM2R6UV8tSUdTRDJjTHVNLXhza0pVWUw2Y1h5b2xoUkdsVDI5Z2dmbTJpeFNkUndCS3Y0TUk1anBreVBfeVg2WlNERENrdzhINTBJYlc3QkxpRURYZHBpLVA0UksxNXhHUGFaS21JeW1kcUpVVi1n?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFlOX3plNjRGc181dVhSeFczQ2pzM2pwc0o2QkxxNW5FOUh1MEo1WnNEQkhxeXdXQjdsRUE0OEZ0WmlTbUZkN3ZnbGszM2R6UV8tSUdTRDJjTHVNLXhza0pVWUw2Y1h5b2xoUkdsVDI5Z2dmbTJpeFNkUndCS3Y0TUk1anBreVBfeVg2WlNERENrdzhINTBJYlc3QkxpRURYZHBpLVA0UksxNXhHUGFaS21JeW1kcUpVVi1n?oc=5"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ6UVlIcExnZEp5Yl9DcTJZU0l2SjFfWmtFUm9WWm5zTl9vUThabzFPcFFiRndrUmxrUk5PVk91QWl1ODJ5SUNxYU9uWEluUDJxOVpaQkpLSVZxdFl0ZW9QQXFLQ0VjMVJOc05sUy1vQTZkcWVQRlY1SnhWQlBNLVhFYUw3TE83OHRpdHdtT1RhMnhXeHlRdFV6YUVOdWRk0gGcAUFVX3lxTFBlbTJ6VFlXMk5TZ2EyZTJrcEdKNmZRdGZGd09HMGs0T2hSUzh5OVpaeFN6dV9aR2FFd2tZc1ZWVUpDU000ZWt0ZFROZTFBQzFOQ3V3UmRjZzdvZW56enNYZUh6bjhVUDQtbnhDYXFvQVVERUt0UFdTQTlVR3RlSlhzbFJlRXhCMWh0ZVdGY0EwUUxOWTA0TE1fdGtqZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmQzU01KZkh1UFpJbGhMa0daR2VhTVRLeUNjQ0JWbUlkX0tYdDNpV2tCeFdhM3VWVjI0eTZxNTFzU1QxMmVNVnZ6VlBpSjIzNHpOTlQ4RFVqX2JaVTNmWC1saThaVVNxbGRUWFBRU0U0MlJ4bXBGY3VvMzJhWVhoUnJB0gGHAUFVX3lxTE9YcGJsRnM3Z0xWdFpGYzN5SlFyblZSV3BNYlZYMzV1MktTR1Y0b0NqT3UtanMxLTU4S1RiZUVXQ3Q5eUhzN2RqMXY4dGNGWnVUSG82dXBpY0dlWEFOQmVONkZSbGZ4MEhFaUttVnVibFFqVkN1ZFhlVHlFbTlEODVOWFRrS1Fzbw?oc=5"
       ]
     },
     {
       "title": "Free Fire India launched: How to download, gameplay features, characters and more",
-      "score": 21.35,
+      "score": 21.04,
       "kinds": [
         "news"
       ],
@@ -139,19 +157,6 @@
         "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzZYN2ZGNWdyYkdUMWdUS1ZIZ21TcHBjaThiNG5qOXFvMUpyZVpsZElvc3BJUkRON2hxUTlQZjJKTnFnSDNlN1FvTjBqV05fYUdkWVJpX2dKVmpqODVtOFR4dHNodzhFem91MWdFNUx3MEpINjd2QXJPTllqOFpubDROR0lfaEYwQlQ5S0p1eHhDUFM3WkN1ZEhMYkpSc1JpRlMtdVRON0xta3hLb05hOEJBYm5fVXBQWG9nMzFCQnJRNjB4YW5kX2N3SHNIWWpuQThOc08tONIB3AFBVV95cUxNa2pzRFB5OUlfOHNrWGFzNVYxLXFiRVo0UVpLUVpuSnFNTjhTSjl1Nzh3YTZRX0NqYXkyYjdTOTBhR0xrYmFIODZ6b1ZDSjNzOTFCTTl2S0pzWHI5WWRLbWl3aURqR1daMElBall4X1lUQmxUSEhWcHRmSzF3VmJ5VGl4X1dEZzEtdzBrX2p3aTU3VXN5RFdfWVZNQXJuVmVubHR2ZXJMX3VNX3duVFM4OUhSUm9HQWgwdlRBTTU0OTYzYmg3WFEwSzJlN3Q3MGNtU2NrU3d5bVlQQUJD?oc=5",
         "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1VtYU5jTFYwbER0NVd3SEVlb2sxU0xGQmtWZDQ3UkFfLThiWlNfXzdvMXEyU21yUkF5VGQ1Vk9jNUo1UGFlS0pQSTU5QVRJLWJsU1g4azZLUm45VUhsMFVjSGEydXZndnM1bHpwNmZGcS1SVjkxZUlTLWVrZ2JqTmZhVUw4dFpJZDlNRExtY2tSaTFEUWtmUEVrTGxUVUdabElZSkNXbDlPU3FLQkxXZzVGQmxaamRsdElVYWZYRGZ5SnZ5eGVtcnlXQVhDWnlMSERMamc2NTRHdF9NN05J0gHkAUFVX3lxTE5YV2hBQzhITGxYMGk3VTl6bUVFY08tYVhoRU84bUI4MzFnSU5nSm9QRjEtUjNsWl9XaC16WGh1VHNCUC1SdnZsMmNwaFkzQjR2bDlELVFUU0dkeHFIUlZtOW5nbEtpQ0FsdF9tTWI0SmFjcVVkQ19KZ0FqSlhLc19uNk1yYzZWLVo2X0l3cTZFamdyNjJvVWZJZUlLT1QtSzBxcV8yTVpuMUVHWk85bDJnX1VaUjEzdTRVSU9fX0ZqMzRHTlZwM3ppQzFlNEJpd1ZSdHA0akNTY2Z4aEttbDJ6czlYNQ?oc=5",
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1NCSEtFNG5KMWx5SjMwN2V3LUwxSmw2NUR0eUNaS01mUUsyRXFYaXpzT0lMMC1PV0lNa0dlVW5xTGZMcHota2FsMjdBQlViU0Vma09LYm5HNjR6QzNZSklBNGZ4WDJDSkJ3bnJPaWYxa19tbjhFM205MkZtckxrM0plZ1ExNFBDMFQ3QTZBSG5zODZXdjNmQWFhTlo0RzNKcGVrYVNUX0k5b2xMY2tIakdOTFB3WkIyWXfSAcIBQVVfeXFMTUg4eDhjRDJHMFh6WHFfUml6SjlnVkJzTnFTZGMxNUdqVjlYV2Q5MjZUbTdLeG10OWw2aXlMMW1HQndZOFdQTGJZWU56QmRlbmVpT09NOFNUR2ZhWkw1dGVQbndoa0N6WDVfbm9FZlFYZkxkQWZodEVjaGEtM1ZFQTM4ajVCbTQxWlVFMDlLRmNuYlI3a19NMVZfZ0E2VExzd1lIUlk3LXk5U1dhYUdmMXczWU9DQzNlYVV0Tjh1bzQ5Nmc?oc=5"
-      ]
-    },
-    {
-      "title": "South Korean families demand removal of alleged Itaewon disaster footage in Call Of Duty game",
-      "score": 21.47,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3VqT2l3YkxVbVMwWEVmU3ZDb1ZUUl92akdLZXJmTlpPSXk2NThfcFRnam1kOEFnM3RmRFUwa2tJWjY3OG1IeXlCQUota3NXTlR4YV9PaWFlY0Q2amU4QWxFVWpza0lWTFhrU0lMT2dHcUlabUJublAwQ0lxLVZCUjlCeEU4SzlUUkZ6VlU3S2VwZndQRUtGYVJxMDFSN3JZTTVMNjB0bjQ5XzZvSFp4TXExcTlFcFRKNExUU3ppOUU4b2xMSDhCSVhOS3h4NmVndkpj?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3VqT2l3YkxVbVMwWEVmU3ZDb1ZUUl92akdLZXJmTlpPSXk2NThfcFRnam1kOEFnM3RmRFUwa2tJWjY3OG1IeXlCQUota3NXTlR4YV9PaWFlY0Q2amU4QWxFVWpza0lWTFhrU0lMT2dHcUlabUJublAwQ0lxLVZCUjlCeEU4SzlUUkZ6VlU3S2VwZndQRUtGYVJxMDFSN3JZTTVMNjB0bjQ5XzZvSFp4TXExcTlFcFRKNExUU3ppOUU4b2xMSDhCSVhOS3h4NmVndkpj?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3VqT2l3YkxVbVMwWEVmU3ZDb1ZUUl92akdLZXJmTlpPSXk2NThfcFRnam1kOEFnM3RmRFUwa2tJWjY3OG1IeXlCQUota3NXTlR4YV9PaWFlY0Q2amU4QWxFVWpza0lWTFhrU0lMT2dHcUlabUJublAwQ0lxLVZCUjlCeEU4SzlUUkZ6VlU3S2VwZndQRUtGYVJxMDFSN3JZTTVMNjB0bjQ5XzZvSFp4TXExcTlFcFRKNExUU3ppOUU4b2xMSDhCSVhOS3h4NmVndkpj?oc=5"
       ]
     }
   ]
