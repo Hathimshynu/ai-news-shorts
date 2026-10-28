@@ -1,53 +1,94 @@
 {
-  "job_id": "2026-10-28-evening-1801",
-  "chosen": "Legora is building the agentic operating system for legal work",
-  "reason": "Legora highlights how specialized AI agents are revolutionizing professional legal workflows, offering viewers a concrete look into the next wave of AI automation tools.",
+  "job_id": "2026-10-28-evening-2246",
+  "chosen": "Google Cloud brings production-ready AI to India's small and mid-sized businesses",
+  "reason": "It highlights Google Cloud's expansion of enterprise-grade AI tools tailored for Indian SMBs, giving local entrepreneurs and developers actionable solutions to build and automate workflows.",
   "candidates": [
     {
-      "title": "Legora is building the agentic operating system for legal work",
-      "score": 26.3,
+      "title": "Google Cloud brings production-ready AI to India's small and mid-sized businesses",
+      "score": 23.34,
       "kinds": [
-        "backlog",
-        "news",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVpjejNTcXdzYTBDamtqRklTQUtxSnZtX01LVnlpbktqWGgyTmhJZGREeXNoaFIxcThZSUlVazZrYmtiUlFndjFmZHQxQmlJZmxBWHhNbV92NWctdkdlNnpIS2MyTTJFSkdGcTdqZnZzZXhiVzRWaTJRXzZhcC1Ibm9Ob0g1VGV2UElfTDBqaGNzbHVOakFnMWFIb1NoZXk4VW8wWldobjl4OFVxOXk5b0hfOU9fX0I4V0Fsd1dPQXd6am13Z1IwY1FnMGZJbVhqWVhmVjN1dG15X1J6aDFyMC1pWktBYzAyNG9yOVdZYXI3UdIB9wFBVV95cUxORU1hU1J1MVllZk1OaUM3eVR3YVNsTFIta1RHLTI1UFhFZUZ5NGNCYUlBSzVUaENyZTBJckNSR09uZzMxZGFhODAzd2xwWm5HdGVVVmJOX20ybllieHdZZU1XWUt4RFp6eHJySjIzMlVXenJHWGFYNl9XcDk2elJwLW1SMFN5bXo3dU1nbm5NUnREaXJzVHRoWTR6cThTaVo2cGJhQVNqMzZWUU56UFE2YWk3ek5hOGRTenFCVFZqSGVOaHNmYjFpdnNHMlFWRktMY0l2ajBNeHBVOGtFRkpIX3ZlelVJNnhqa2xaTTVsR05iNFl1eHFJ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVzE1TDN3ZzN5dFJWR3BnZ3ZoYXFIcmRRd3VHd3BwY21YdXlpS2p3QWVfUV9RWGlXei1pR05PS1BDUFpXSXRRMGs2eUgtelhlN2FsRV84eEVIVlk3QjV0SkVIQm1TaTI1dS1JOWxnakVxXzNBNEFFQURkbS1SeVRXVE90cGE4cWpFOUJVcWRiM2xSVWdhTUMzZWpGcHdvb2lmaTMtQURfOE9raUZxbk1wVElCeGtPaDhHUDlYU0pMazhYNVVJSV81a3ZQQWhuMG5RYXU2UmNjZG1CdjNPeWRZZTYzR1ZxYlJ5RHlzWnpGQkRkUkhtWGRsLVBfeFVIS0ZaS2VqMDBpUGhKNjFEZnl0cG130gGXAkFVX3lxTFAxa2VrbWF6UzdVcjljamlxR2JHTnM4NlJsOXFKRng3akFnUmtzcllTamI3ZFVXME5UU1RsU21DdWQ3alkyOXFNZ2FXLVhkTllMLUZocUZ5VUJoOGYzZGZ0aWxmeTBmNlR0aUtodlFjSnhBcnNxUGppdDc2aW5pWXZDZzFRTFNjcmpMamlJVHhUcGdqQVcxSUZxQVlLREdZcXRNbFVURlp1a3JDcTl1VU5MZ2xKazduSnlreHV3VTVkekhTS2pmTTNjaHZpcC1BMkVXX0h4OFFsQUR6UEwwaE16NVg2eFZ3VHRudEpUcmNXbjI1MWlyTXhUTHFISXBDRHlBdW9Qdl9VbmV3N0FsMlcxel9aall0cw?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVpjejNTcXdzYTBDamtqRklTQUtxSnZtX01LVnlpbktqWGgyTmhJZGREeXNoaFIxcThZSUlVazZrYmtiUlFndjFmZHQxQmlJZmxBWHhNbV92NWctdkdlNnpIS2MyTTJFSkdGcTdqZnZzZXhiVzRWaTJRXzZhcC1Ibm9Ob0g1VGV2UElfTDBqaGNzbHVOakFnMWFIb1NoZXk4VW8wWldobjl4OFVxOXk5b0hfOU9fX0I4V0Fsd1dPQXd6am13Z1IwY1FnMGZJbVhqWVhmVjN1dG15X1J6aDFyMC1pWktBYzAyNG9yOVdZYXI3UdIB9wFBVV95cUxORU1hU1J1MVllZk1OaUM3eVR3YVNsTFIta1RHLTI1UFhFZUZ5NGNCYUlBSzVUaENyZTBJckNSR09uZzMxZGFhODAzd2xwWm5HdGVVVmJOX20ybllieHdZZU1XWUt4RFp6eHJySjIzMlVXenJHWGFYNl9XcDk2elJwLW1SMFN5bXo3dU1nbm5NUnREaXJzVHRoWTR6cThTaVo2cGJhQVNqMzZWUU56UFE2YWk3ek5hOGRTenFCVFZqSGVOaHNmYjFpdnNHMlFWRktMY0l2ajBNeHBVOGtFRkpIX3ZlelVJNnhqa2xaTTVsR05iNFl1eHFJ?oc=5"
+      ]
+    },
+    {
+      "title": "GitHub Copilot app, Universe releases",
+      "score": 20.66,
+      "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
-        "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5"
+        "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases"
       ]
     },
     {
-      "title": "India's markets regulator Sebi weighs domestic AI model for securities trading, chairman says",
-      "score": 23.48,
+      "title": "GitHub intelligence puts your code, context, and history to work",
+      "score": 20.6,
       "kinds": [
-        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work"
+      ]
+    },
+    {
+      "title": "GitHub Enterprise now includes access to GitHub Copilot",
+      "score": 20.64,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot"
+      ]
+    },
+    {
+      "title": "Security extension for the GitHub Copilot app",
+      "score": 20.62,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app"
+      ]
+    },
+    {
+      "title": "Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com",
+      "score": 23.41,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1Z5bzJBd1BYUjJHUDIwZlFabWQwNGQ0MEhmaTJ5ci00X09JbDBxbVF2M0xVSlFQWnJpUm5HR1RxNDF4Q0h1TUVWM3RGYkJ4dVNSaWZ6UjRBcHM0Z0Z2eUVqb0c1QkZ3RVl3ellLamNWZ3dfc0czRE5Lc1hIUVBXc24yTkNlOUE3SzVSTUV4al9wNUM5Nll1RTNTbzdJUFhSXzBTU3B4QVZBYjVTUnpIMU9nZ3ZXaHVXSDBmcktoRDQ?oc=5",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      ]
+    },
+    {
+      "title": "ISRO to launch NVS-03 navigation satellite on Oct 30",
+      "score": 27.98,
+      "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNREhJcWtsX2lOdFhGdEI0ckp0ckVzTnVpVG1mRTZxS0xIa0hVVXB6eWMyekpJYjRYWkoybmdMOElxbXhSalBzdjNDWkxXUUxYUi01VFo0SFBOT3dFQTltbUJFX0s0UE5GNVk2M1JKV0NEVG1RajNjVWM5VFhiRENxc0FTY3AxdUlOeTUzS1NaaUtTTS1iclZVVXdILTVKd2tqVEtpVlVPTWlfeWszUWtBdFRNd1lDZWx0SU5jMXVadWVJMFBmWXk1cmVBdXA2WHV4V2ZtWGJ0aHJ2QWkyVUxmLVVpOGZ5VUhlOXBtZDNnTk1HN0dJSlFMM1hUWUhWeVZSSFFqU0p3ZWxmejJCb2h0cA?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeC15UkxZUTBlZFI5LThfdVA0SEZUVHh6dWdfbms3YXVCNGxtbkJkOFlXNGtSb0hRZ3k4ekozd194UmVCQnl4VkF4dlY2R1RfMkI4MG9BTHdIc2ZrZHVzeGE3ellGQWdJeHluVmZKM3JuZXg5MmZ2Zk5iaEhSX29CaUpxQWpsc0RBQXZ6OTZPWHJuaXYtTXBKS0Z2ZzhDcFd2VHBsSkhYcW1OWkVYTW55ci1iWHNHcmpQQjJzd0plSEgxOTFMT3hVZXZ0cWhuM09XVUJmWWRPQWlQVHBfd3hhV3NhaURVeS1BQWNV?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3BsYUpOMFRySDhMcXRjc1R5Q09MLUVtQmwyaU9ONWVURTMtc2tFLUlwbktic193TGFGUlMzTWlaQVlGdFlTbW1fRExhQ3A4a2g4OW1CMEMwa0pjS1oyR0pSTjVCWjFsemhreS15SFdTYnBCSnNxbHg1ZmNfbzNZdGFIVnlRMDQyS1QwNDFtVjduSHg1VThyTHRUd0s1ekxoZ1oxTFJySDRXLU96bUk1N2ZBU2RGN3dDT3pxLXJvS0EyU0RlZUdaVG1XMFZ1Z9IB1AFBVV95cUxPdzJpZThKWF9aSWMtWTJfenlzc0VEb2NhT3YwRmRMWmZhZjMxMm9kNzN6amJPbEVnZmxHWkt5clBFejlUSHJEUE9lZFZfWDJ6S3ZpU0pRUHlQaUNPbXlSWWVGaU9DMWJycld0SkJiNkR5ei1Dclp1YmRfbTdET1QzQndKZS1CS3pwR3ltR2czQnRGUHZlNlNQVUlFTFEzRzZLcURDMV9Dd3FlTC14c2k4RWZNeExIVF82dnBvZ3FtMVpyNkdBNDY5aUNhRWtIdVlLdG5LZA?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI cuts GPT-6.1 Terra token prices as AI model competition intensifies",
-      "score": 19.92,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2FxcnlMX19ONjBIN0tEbDhGTW5vVUhXTUxqdkFYZjE5M2hBRkRtQUxyWDN4RVN3NDRRLXA5bGlkT1FVZDVUbGRHSHExQlpJVldqV1Q5NlU0c0k1cnpsN2JKQW9DaGJDb0RpSUxuUmtSc3JZdUJURzFfR0hLcnJ0a3BEd1ZkRzFmeDkyaXk4UVhtX2hK?oc=5",
-        "https://www.producthunt.com/products/openai"
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDN6bGhsX2tJaTdmWHItMFlYdXd5U2JyWHdHcjJ1RjFoRmV4alNvRm82T0JvenZuaDZGU3dKay1fb2tIaURyMldNazFDRFB1TUliOWhQQnJRM2d5R1h4ZTJRVmh6MjdfOXFTU012bFBiTElNZXgwTnhKc0RxTURwbDdhZlpGb3lLUlJpT2phbW_SAZYBQVVfeXFMUE41Q29qY0lDelBfY2JMbnVjOGVXZGFjSUU2Y0wzZ3FWR0VTWFZ3Mnp2a1FjSHhsYXhmalRkUXlYbTJaWFRKWEtyYUtvV3U4N2EwWXI4XzdXcUpTQ0dBNVV3WWVTSlBZQmZfTXVBN2RtdmRaTkxyOHFxQmV1emlWZTl0b3BSemFoUzBDRjJzdGJOaUdnekVB?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgzSEJwYUFSX3oyRldNNlExYV9YUXVJbXlvbnJLc2p3TThCSGl5aW54eC11Y1E2NDh3c1pZTWNKMXl3RlV1QS15MXRxOUdrOEdyN0N0NGhVajZCMktfdzhxd0RWS1BaM0FWNFJpQV9JTHVEOEJuVk9vR2FGd1dWTHpxUlpYYmhwSklpRGxpUWZWWVdrYTRyUGI1MVdCRVJVZUp5YXcxZFJnNFpZNktCd0s5NG5fNWhwQnlF0gG7AUFVX3lxTE4teDNIQnBhQVJfejJGV002UTFhX1hRdUlteW9ucktzandNOEJIaXlpbnh4LXVjUTY0OHdzWllNY0oxeXdGVXVBLXkxdHE5R2s4R3I3Q3Q0aFVqNkIyS193OHF3RFZLUFozQVY0UmlBX0lMdUQ4Qm5WT29HYUZ3V1ZMenFSWlhiaHBKSWlEbGlRZlZZV2thNHJQYjUxV0JFUlVlSnlhdzFkUmc0Wlk2S0J3Szk0bl81aHBCeUU?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeDhqcHN2LXJuMWYwQ1VnMFJpRUpSOG1ZNDlMUVNJWDZQelpXandsb0lNTnc5bHBON0wxeU1OcHFBQVdFdGZRS2VOckcwMFZBZ1FwYUNRLWhUUDZPMXlQeXhwOU9tRjJfV3V4dzFDVUdzQmZSSEZuNnlCMWdwU2tBaVp5cHBXWjl4Zi1FRV9jN2o2RF9JRjVNSFkzNnBpUG5lZnJTY09jZWI2UmN1d1N2UVZVVFRpMXpnNmJBZWRsMjZCZlJ5RkRsXzdsZC1BOVFsN2dZeW42OXJmQ0NLRjIxVWFoQnZxT25qQWdOSGpOeXUyT03SAfgBQVVfeXFMUDhXNjBsUV9YWFBvdDRfNm51RUU2Ty1meDUzeTVnYUFac2JwV0k4TG1Sa0ZXeExKWmh0X0FWTXFiY0tVSzNHSUZ3YTV1cmk5Q1cxeC0za2h3Tm9ZU0ZZTDVSci1EQ0x0Q2NnenV2VS1NUWF2RnJnd2RoVUlTX1ZEVGVlMC03YlpHMUd3OWY4eTl5eVdMR1BxM3dVOU9QdWRiY3QtQi13YmpnaDVab0doY2dpOG5UNVpWTzBRdjV2cFowSEFiNHRYTElTX0ZGNFJfTWplSHppaWFvT28xN1dWTHg4ajVQWnhZRVBxSWZDQTlXNkFVbVBBR24?oc=5"
       ]
     },
     {
       "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "score": 22.65,
+      "score": 21.46,
       "kinds": [
         "backlog",
         "news",
@@ -61,47 +102,8 @@
       ]
     },
     {
-      "title": "Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame",
-      "score": 19.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5"
-      ]
-    },
-    {
-      "title": "Samsung Joins Cuff-Shaped Earbuds Trend With $229 Galaxy Buds On",
-      "score": 19.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5"
-      ]
-    },
-    {
-      "title": "Samsung TVs May Hack Connected Speakers' Mics to Detect Sounds",
-      "score": 19.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5"
-      ]
-    },
-    {
       "title": "Samsung Galaxy A08 Launched with 6,000mAh Battery: Price in India Starts at ₹18,499",
-      "score": 25.4,
+      "score": 22.22,
       "kinds": [
         "backlog",
         "news"
@@ -114,57 +116,42 @@
       ]
     },
     {
-      "title": "Galaxy A08 India Launch Revealed: Specs, Prices and Features",
-      "score": 23.24,
+      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+      "score": 23.1,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVBvNFB5aEF5ejFyQVhzOWV0WXRjdzd1bk5SbG9mWlVXUmJIa2E2ZjA0TkluVlBwcTBySm1tMzZUS1NKbVFOSmdTVW95UWYxS3VIdlVvMU9KaXlCRmgyX0tidWI4aTllSzVwdTZMTGFDbF9CeDZ3eVRxQlZqamJOY0RfZkhDQ3psVVFlRDJ5OHI5SWxMZ1YzTHVsazdOR1NxdUcxVndLY1d6d3ZE?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1JTdTN5WUFCWWFYNDYyT19CeWdyajNTZ0Y2WjBUVWstc0NsbXcxYUo2ejBLYVJHZDl6ekZ3ZFJiOFc5LTU1VmdhTXVsajhJZHpBU3pIMC1XRU5mVG5xMmxYV1A0cFhGWi15c0ZIamt1cEZscFhKWmstME9jZHo1NGpiUl9NQmhxUmU3SW1iQzJ5dk5STW9aWHlCTTnSAaoBQVVfeXFMTnRDem83bkxZR09Qdy1SMTM0d1hSUVhUVEZoaldYWVltdC1icmNaOGoxMThIQWlCaDBKeU5CWWtSQlhkTThuZ3JyUVc1TlBXYmZDUXZqcm14ajhyYzJHMWpJNzFIcmVmWWtvcVFoazRENGpDWTlUbUZ2Mk5zSzB0LUdBZkJiSXplSWFmNkpMcjFhdjVfNk8tU2RjT3pXdUswSThSQW93S3NyYkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFZXZFZGT2l6M2l5T1MyejRkTkx2c3JZSy10eEJMclBtOGlKNlIyZE95bEhpYmJZV3VxV0RwejdaaXFRcGJpcHhKMnhlRUxKaV9QcWRJa0FsVEpRN2lVV0dvb1E4bkQtWGdqNlVOekV3Q2s1S3RzeXhuUkd1dEFyRC1OQmQ3aXZRak4wODNNNlNlZHJqN3JYZGFXb2JGdHpmT1JXeDk1YVhydWZVQThMcy1YTEwyS0o2bTJr0gHAAUFVX3lxTE80bVhCbTNkY2xZcmtXa3ZjMlBlR3RSLVhMbXNDSFJqenJpSjd1TnhQRVpqN1ZSWE5tMjNta2lEcWJNcEozd1ZqZUh1WFFHMVFSU1ltNXM5T3d3cFNrRk1DOFo5X1JqT0RRU0JKeTRPc1M2NldFSFVXVlpRZGJUM3kwRVUzdHhLZ19TbFk5eDlIX3FlSnlCdGV4aUlYdTQ0MVpNM2pkRGhhUWp6SDBBc2g2LTMzYWU1Nzl6U0NHUDNGcg?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFlOX3plNjRGc181dVhSeFczQ2pzM2pwc0o2QkxxNW5FOUh1MEo1WnNEQkhxeXdXQjdsRUE0OEZ0WmlTbUZkN3ZnbGszM2R6UV8tSUdTRDJjTHVNLXhza0pVWUw2Y1h5b2xoUkdsVDI5Z2dmbTJpeFNkUndCS3Y0TUk1anBreVBfeVg2WlNERENrdzhINTBJYlc3QkxpRURYZHBpLVA0UksxNXhHUGFaS21JeW1kcUpVVi1n?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFlOX3plNjRGc181dVhSeFczQ2pzM2pwc0o2QkxxNW5FOUh1MEo1WnNEQkhxeXdXQjdsRUE0OEZ0WmlTbUZkN3ZnbGszM2R6UV8tSUdTRDJjTHVNLXhza0pVWUw2Y1h5b2xoUkdsVDI5Z2dmbTJpeFNkUndCS3Y0TUk1anBreVBfeVg2WlNERENrdzhINTBJYlc3QkxpRURYZHBpLVA0UksxNXhHUGFaS21JeW1kcUpVVi1n?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFlOX3plNjRGc181dVhSeFczQ2pzM2pwc0o2QkxxNW5FOUh1MEo1WnNEQkhxeXdXQjdsRUE0OEZ0WmlTbUZkN3ZnbGszM2R6UV8tSUdTRDJjTHVNLXhza0pVWUw2Y1h5b2xoUkdsVDI5Z2dmbTJpeFNkUndCS3Y0TUk1anBreVBfeVg2WlNERENrdzhINTBJYlc3QkxpRURYZHBpLVA0UksxNXhHUGFaS21JeW1kcUpVVi1n?oc=5"
       ]
     },
     {
-      "title": "Motorola Signature 27 confirmed to launch in India this November: here’s what to expect",
-      "score": 21.53,
+      "title": "Free Fire India launched: How to download, gameplay features, characters and more",
+      "score": 21.35,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0djNlpxUTRCcWMxU0RzbGMzUjNQeVd6WkNSd1BBSXNYLXBmM0RqUmdkaWVuY2pKTWhsSjdBamZkUEFtOTF4b09qTUhVWllLT2N5ZE5mT3lOcGFJRXJfdUNkeExBUEUxY3lYMmQwWUZKaVdxYXhMdmlqd2hGbUxUbkZuUE9ubk5VWUtYYdIBkgFBVV95cUxONGYzSFBybGRLX0VkU0FtSnc4ZndrNDhSd3Z5MWRtZlVFOGx3QkM4R0hkRWNmRmt1MHd1b29xWlZqT2MxbWxYU0s0SmRIaFR4YjdDazNIR0ZUdDB5N0hub2xlc3p1YUNUZG5YT2ZfLVRwOXNkWWxTSjN5RnczLTFQSEFtY08wdWE2MTlzbG13N3JvUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SWkNZQjNkc01WQ0NpSFJQT0F1YV9DdmRuTFVLSkV2SlIwUHdBVzQyNThwSGRJeGpncVlVdHZuellDZ3RDaXZ3eXpkLUhIZnVCbVBfNTFsR1RWcmhnaHFOTTBJM3gwNVlRS3J2a3FJS0QzalU?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0djNlpxUTRCcWMxU0RzbGMzUjNQeVd6WkNSd1BBSXNYLXBmM0RqUmdkaWVuY2pKTWhsSjdBamZkUEFtOTF4b09qTUhVWllLT2N5ZE5mT3lOcGFJRXJfdUNkeExBUEUxY3lYMmQwWUZKaVdxYXhMdmlqd2hGbUxUbkZuUE9ubk5VWUtYYdIBkgFBVV95cUxONGYzSFBybGRLX0VkU0FtSnc4ZndrNDhSd3Z5MWRtZlVFOGx3QkM4R0hkRWNmRmt1MHd1b29xWlZqT2MxbWxYU0s0SmRIaFR4YjdDazNIR0ZUdDB5N0hub2xlc3p1YUNUZG5YT2ZfLVRwOXNkWWxTSjN5RnczLTFQSEFtY08wdWE2MTlzbG13N3JvUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzZYN2ZGNWdyYkdUMWdUS1ZIZ21TcHBjaThiNG5qOXFvMUpyZVpsZElvc3BJUkRON2hxUTlQZjJKTnFnSDNlN1FvTjBqV05fYUdkWVJpX2dKVmpqODVtOFR4dHNodzhFem91MWdFNUx3MEpINjd2QXJPTllqOFpubDROR0lfaEYwQlQ5S0p1eHhDUFM3WkN1ZEhMYkpSc1JpRlMtdVRON0xta3hLb05hOEJBYm5fVXBQWG9nMzFCQnJRNjB4YW5kX2N3SHNIWWpuQThOc08tONIB3AFBVV95cUxNa2pzRFB5OUlfOHNrWGFzNVYxLXFiRVo0UVpLUVpuSnFNTjhTSjl1Nzh3YTZRX0NqYXkyYjdTOTBhR0xrYmFIODZ6b1ZDSjNzOTFCTTl2S0pzWHI5WWRLbWl3aURqR1daMElBall4X1lUQmxUSEhWcHRmSzF3VmJ5VGl4X1dEZzEtdzBrX2p3aTU3VXN5RFdfWVZNQXJuVmVubHR2ZXJMX3VNX3duVFM4OUhSUm9HQWgwdlRBTTU0OTYzYmg3WFEwSzJlN3Q3MGNtU2NrU3d5bVlQQUJD?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1VtYU5jTFYwbER0NVd3SEVlb2sxU0xGQmtWZDQ3UkFfLThiWlNfXzdvMXEyU21yUkF5VGQ1Vk9jNUo1UGFlS0pQSTU5QVRJLWJsU1g4azZLUm45VUhsMFVjSGEydXZndnM1bHpwNmZGcS1SVjkxZUlTLWVrZ2JqTmZhVUw4dFpJZDlNRExtY2tSaTFEUWtmUEVrTGxUVUdabElZSkNXbDlPU3FLQkxXZzVGQmxaamRsdElVYWZYRGZ5SnZ5eGVtcnlXQVhDWnlMSERMamc2NTRHdF9NN05J0gHkAUFVX3lxTE5YV2hBQzhITGxYMGk3VTl6bUVFY08tYVhoRU84bUI4MzFnSU5nSm9QRjEtUjNsWl9XaC16WGh1VHNCUC1SdnZsMmNwaFkzQjR2bDlELVFUU0dkeHFIUlZtOW5nbEtpQ0FsdF9tTWI0SmFjcVVkQ19KZ0FqSlhLc19uNk1yYzZWLVo2X0l3cTZFamdyNjJvVWZJZUlLT1QtSzBxcV8yTVpuMUVHWk85bDJnX1VaUjEzdTRVSU9fX0ZqMzRHTlZwM3ppQzFlNEJpd1ZSdHA0akNTY2Z4aEttbDJ6czlYNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1NCSEtFNG5KMWx5SjMwN2V3LUwxSmw2NUR0eUNaS01mUUsyRXFYaXpzT0lMMC1PV0lNa0dlVW5xTGZMcHota2FsMjdBQlViU0Vma09LYm5HNjR6QzNZSklBNGZ4WDJDSkJ3bnJPaWYxa19tbjhFM205MkZtckxrM0plZ1ExNFBDMFQ3QTZBSG5zODZXdjNmQWFhTlo0RzNKcGVrYVNUX0k5b2xMY2tIakdOTFB3WkIyWXfSAcIBQVVfeXFMTUg4eDhjRDJHMFh6WHFfUml6SjlnVkJzTnFTZGMxNUdqVjlYV2Q5MjZUbTdLeG10OWw2aXlMMW1HQndZOFdQTGJZWU56QmRlbmVpT09NOFNUR2ZhWkw1dGVQbndoa0N6WDVfbm9FZlFYZkxkQWZodEVjaGEtM1ZFQTM4ajVCbTQxWlVFMDlLRmNuYlI3a19NMVZfZ0E2VExzd1lIUlk3LXk5U1dhYUdmMXczWU9DQzNlYVV0Tjh1bzQ5Nmc?oc=5"
       ]
     },
     {
-      "title": "ISRO Recruitment 2026: 61 Vacancies Announced For Technician And Other Roles",
-      "score": 20.91,
+      "title": "South Korean families demand removal of alleged Itaewon disaster footage in Call Of Duty game",
+      "score": 21.47,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0dKcno1UTcweTExYjZGY1lfc1lfNmM3UnVlbGp1MlJGLU50RzFpdGYyME1KOW84ZTdjX2U2cUw2Nkk4QzVyQUEyc1hmZkVnQV9aZ0I0akhjMXJPZFFmSTJRUGpMSFhUNzFrUF9YME9xY2ROZDdzNzNRRU5NUlprQlNnNXBhbWpXZ0QzTlBlTW8wS1lMcmZKRVJkTDJQSFluRDBPQndXSW1kQnlETkVLRnZqUThzZ9IBvgFBVV95cUxNbWpINXo4UnJqX1RaQ24tbUFEMmVYYlQyT05BMVhsc0ZQeTZYUTlkQ0tVNEtiZDRmdVQ4X2IydUVoSDVORTh4VW96cUlOZjY1cHJNMTl3eG14TWdZYXY0R1ZRY0JoYkZ6VmFTNEZXcURhQ3NNY24ya25wUDBfNTlkQ3NQRm1aRGRORW03V2xpQlJ4ZlQ1aDhYTGd3eVlzc2JaeEN5dm5RNm9LN29udEpXdzhFYlZjMGJCRWRudk5n?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXY0TXFFMUpqZVRkZ0lveVRoaFppRXVlTlF4NlM5Wm9XSFY4em9YeGg2bE10RHNyVkdBR3RIb0pmdXUzOThzdEpWeUZXclpMX095bVVraUNJVlRLeHIyUkJ0QnFBYks1VWpMMVNRSFllTW9GRlRneGVvR3R1b1R5SmppVi1jclF5Ums0SlBYMXR4UnVPT3FTTkNwUWE?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmtGWGhLQmVkZExQb211NDFncXJnVm9SOFlnVVFLakdTZFdZQmJ0QlBLRXd4TmtzMXlVN3pZalB5d0RxTTJEZk51c01iS2otS0dJTUxlZ05ER2R6UWxUSlRNOWRkZjgzOXV5SWd0UHNFaklKbW9TMmZKSkhqQldUSk9iYTFERDllR2pTVlJ0bVV0M01TZzBjNXlhVjlkNkdjeVhiYXI2b1lRejZobGMtY0dQVmVHOTlqNGNiajl4eWxOdTlGM3owQjItSmp0SE1xZWfSAdcBQVVfeXFMUFhHemhVRi10R1JYOFhPLXRhMENqRVJBM3ZTb3lNbndYRTZCME41X3N4ZndHbEVLQ2hpclpWT2hhX1VKRmxjMkJJdWl2aGVBNmNlMXNRLUVPNUpObUhXMjJRdG1FVzhsUTNhYUZ1RHQwLXBzVEhCN3NWbXNKN2JRaG5mYkxZNXFxazlzNk80SVBPbmw1em9peWtuTnYwTGcwWXdSNm51dTR0a1djdWQ1cHlTcS1udW1vMU9sRWxTUGRWbEVQNDlzcEN2Sm9fNGtvVDRnU3paLTQ?oc=5"
-      ]
-    },
-    {
-      "title": "Wardogs leads Newzoo's September PC revenue charts",
-      "score": 19.84,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC1qOXVZZXdJOGdLd2c2MU5JOThjdG92bmpsOWJ6ZmhPeWV0WFpXRnRtMnVsdk16dnNsLWRSaUppM0llZEcwV0x6QTFQOUhKWTIzTC1GamxjR1g4YTZndUVJN196RTFHSWJIYUItanI3aXRTT2RoS1dJZTlNd193Ym9RbXlGdw?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC1qOXVZZXdJOGdLd2c2MU5JOThjdG92bmpsOWJ6ZmhPeWV0WFpXRnRtMnVsdk16dnNsLWRSaUppM0llZEcwV0x6QTFQOUhKWTIzTC1GamxjR1g4YTZndUVJN196RTFHSWJIYUItanI3aXRTT2RoS1dJZTlNd193Ym9RbXlGdw?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC1qOXVZZXdJOGdLd2c2MU5JOThjdG92bmpsOWJ6ZmhPeWV0WFpXRnRtMnVsdk16dnNsLWRSaUppM0llZEcwV0x6QTFQOUhKWTIzTC1GamxjR1g4YTZndUVJN196RTFHSWJIYUItanI3aXRTT2RoS1dJZTlNd193Ym9RbXlGdw?oc=5"
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3VqT2l3YkxVbVMwWEVmU3ZDb1ZUUl92akdLZXJmTlpPSXk2NThfcFRnam1kOEFnM3RmRFUwa2tJWjY3OG1IeXlCQUota3NXTlR4YV9PaWFlY0Q2amU4QWxFVWpza0lWTFhrU0lMT2dHcUlabUJublAwQ0lxLVZCUjlCeEU4SzlUUkZ6VlU3S2VwZndQRUtGYVJxMDFSN3JZTTVMNjB0bjQ5XzZvSFp4TXExcTlFcFRKNExUU3ppOUU4b2xMSDhCSVhOS3h4NmVndkpj?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3VqT2l3YkxVbVMwWEVmU3ZDb1ZUUl92akdLZXJmTlpPSXk2NThfcFRnam1kOEFnM3RmRFUwa2tJWjY3OG1IeXlCQUota3NXTlR4YV9PaWFlY0Q2amU4QWxFVWpza0lWTFhrU0lMT2dHcUlabUJublAwQ0lxLVZCUjlCeEU4SzlUUkZ6VlU3S2VwZndQRUtGYVJxMDFSN3JZTTVMNjB0bjQ5XzZvSFp4TXExcTlFcFRKNExUU3ppOUU4b2xMSDhCSVhOS3h4NmVndkpj?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3VqT2l3YkxVbVMwWEVmU3ZDb1ZUUl92akdLZXJmTlpPSXk2NThfcFRnam1kOEFnM3RmRFUwa2tJWjY3OG1IeXlCQUota3NXTlR4YV9PaWFlY0Q2amU4QWxFVWpza0lWTFhrU0lMT2dHcUlabUJublAwQ0lxLVZCUjlCeEU4SzlUUkZ6VlU3S2VwZndQRUtGYVJxMDFSN3JZTTVMNjB0bjQ5XzZvSFp4TXExcTlFcFRKNExUU3ppOUU4b2xMSDhCSVhOS3h4NmVndkpj?oc=5"
       ]
     }
   ]

@@ -1,25 +1,69 @@
 [
   {
-    "title": "India's markets regulator Sebi weighs domestic AI model for securities trading, chairman says",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNREhJcWtsX2lOdFhGdEI0ckp0ckVzTnVpVG1mRTZxS0xIa0hVVXB6eWMyekpJYjRYWkoybmdMOElxbXhSalBzdjNDWkxXUUxYUi01VFo0SFBOT3dFQTltbUJFX0s0UE5GNVk2M1JKV0NEVG1RajNjVWM5VFhiRENxc0FTY3AxdUlOeTUzS1NaaUtTTS1iclZVVXdILTVKd2tqVEtpVlVPTWlfeWszUWtBdFRNd1lDZWx0SU5jMXVadWVJMFBmWXk1cmVBdXA2WHV4V2ZtWGJ0aHJ2QWkyVUxmLVVpOGZ5VUhlOXBtZDNnTk1HN0dJSlFMM1hUWUhWeVZSSFFqU0p3ZWxmejJCb2h0cA?oc=5",
-    "source": "The Economic Times",
-    "kind": "news",
-    "summary": " India's markets regulator Sebi weighs domestic AI model for securities trading, chairman says &nbsp;&nbsp; The Economic Times ",
-    "country": "IN",
-    "published": "2026-10-28T09:53:18+00:00",
+    "title": "GitHub Copilot app, Universe releases",
+    "link": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Work doesn&#8217;t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository&#8230; \n The post  GitHub Copilot app, Universe releases  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-28T15:55:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
+    "saved": "2026-10-28T17:19:05.614540+00:00"
   },
   {
-    "title": "OpenAI cuts GPT-6.1 Terra token prices as AI model competition intensifies",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2FxcnlMX19ONjBIN0tEbDhGTW5vVUhXTUxqdkFYZjE5M2hBRkRtQUxyWDN4RVN3NDRRLXA5bGlkT1FVZDVUbGRHSHExQlpJVldqV1Q5NlU0c0k1cnpsN2JKQW9DaGJDb0RpSUxuUmtSc3JZdUJURzFfR0hLcnJ0a3BEd1ZkRzFmeDkyaXk4UVhtX2hK?oc=5",
-    "source": "Traders Union",
-    "kind": "news",
-    "summary": " OpenAI cuts GPT-6.1 Terra token prices as AI model competition intensifies &nbsp;&nbsp; Traders Union ",
-    "country": "IN",
-    "published": "2026-10-28T12:13:27+00:00",
+    "title": "GitHub intelligence puts your code, context, and history to work",
+    "link": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Agents should understand more than your codebase&#8212;they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in&#8230; \n The post  GitHub intelligence puts your code, context, and history to work  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-28T15:40:00+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
+    "saved": "2026-10-28T17:19:05.614540+00:00"
+  },
+  {
+    "title": "GitHub Enterprise now includes access to GitHub Copilot",
+    "link": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many&#8230; \n The post  GitHub Enterprise now includes access to GitHub Copilot  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-28T15:50:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T17:19:05.614540+00:00"
+  },
+  {
+    "title": "Security extension for the GitHub Copilot app",
+    "link": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now work through your repository&#8217;s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the&#8230; \n The post  Security extension for the GitHub Copilot app  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-10-28T15:45:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T17:19:05.614540+00:00"
+  },
+  {
+    "title": "Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1Z5bzJBd1BYUjJHUDIwZlFabWQwNGQ0MEhmaTJ5ci00X09JbDBxbVF2M0xVSlFQWnJpUm5HR1RxNDF4Q0h1TUVWM3RGYkJ4dVNSaWZ6UjRBcHM0Z0Z2eUVqb0c1QkZ3RVl3ellLamNWZ3dfc0czRE5Lc1hIUVBXc24yTkNlOUE3SzVSTUV4al9wNUM5Nll1RTNTbzdJUFhSXzBTU3B4QVZBYjVTUnpIMU9nZ3ZXaHVXSDBmcktoRDQ?oc=5",
+    "source": "Investing.com India",
+    "kind": "news",
+    "summary": " Google unveils Gemini 4 Carbon with advanced cybersecurity features By Investing.com &nbsp;&nbsp; Investing.com India ",
+    "country": "IN",
+    "published": "2026-10-28T17:13:11+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T17:19:05.614540+00:00"
+  },
+  {
+    "title": "ISRO to launch NVS-03 navigation satellite on Oct 30",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDN6bGhsX2tJaTdmWHItMFlYdXd5U2JyWHdHcjJ1RjFoRmV4alNvRm82T0JvenZuaDZGU3dKay1fb2tIaURyMldNazFDRFB1TUliOWhQQnJRM2d5R1h4ZTJRVmh6MjdfOXFTU012bFBiTElNZXgwTnhKc0RxTURwbDdhZlpGb3lLUlJpT2phbW_SAZYBQVVfeXFMUE41Q29qY0lDelBfY2JMbnVjOGVXZGFjSUU2Y0wzZ3FWR0VTWFZ3Mnp2a1FjSHhsYXhmalRkUXlYbTJaWFRKWEtyYUtvV3U4N2EwWXI4XzdXcUpTQ0dBNVV3WWVTSlBZQmZfTXVBN2RtdmRaTkxyOHFxQmV1emlWZTl0b3BSemFoUzBDRjJzdGJOaUdnekVB?oc=5",
+    "source": "ThePrint",
+    "kind": "news",
+    "summary": " ISRO to launch NVS-03 navigation satellite on Oct 30 &nbsp;&nbsp; ThePrint ",
+    "country": "IN",
+    "published": "2026-10-28T14:49:25+00:00",
+    "engagement": 0,
+    "saved": "2026-10-28T17:19:05.614540+00:00"
   },
   {
     "title": "How Check Point accelerates vulnerability research with Daybreak",
@@ -30,50 +74,6 @@
     "country": "IN",
     "published": "2026-10-27T19:07:27+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
-  },
-  {
-    "title": "Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5",
-    "source": "Bloomberg.com",
-    "kind": "news",
-    "summary": "   Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame &nbsp;&nbsp; Bloomberg.com    Amazon announces new smart home devices, including a new Echo Dot &nbsp;&nbsp; Mashable    Everything announced at Amazon’s October 2026 hardware launch &nbsp;&nbsp; The Verge    Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family &nbsp;&nbsp; WIRED    Amazon introduces Echo Time, a smarter way to start and end your day &nbsp;&nbsp; About Amazon   ",
-    "country": "IN",
-    "published": "2026-10-28T12:00:11+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
-  },
-  {
-    "title": "Samsung Joins Cuff-Shaped Earbuds Trend With $229 Galaxy Buds On",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpSZjZDNmJCY25aUkVNbkU0V0xHUU5UVVlXNU1kSlNTc3VIMVRXNkNIazlReFh6WFh1dVJ0NnJDQnczQ0ZheDFoQzlxcDl2cHBzMzdXQ0NXZmlqZFJoUnRVWW0xMlhtcmppMnBlMlp5em9McHBtQWZnOXFFYUdrWG15bS1kTUtWSmhJX3dFUmdQOWd4OGJkWWxBUWpjdUVZYzFqODJYQy0?oc=5",
-    "source": "Bloomberg.com",
-    "kind": "news",
-    "summary": "   Samsung Joins Cuff-Shaped Earbuds Trend With $229 Galaxy Buds On &nbsp;&nbsp; Bloomberg.com    Samsung's first open-ear earbuds, Galaxy Buds On, arrive with Gemini Live &nbsp;&nbsp; Neowin    Samsung launches the Galaxy Buds On clip-on earbuds in the US, here's the price - GSMArena.com news &nbsp;&nbsp; GSMArena.com    Galaxy Buds On Europe Launch Timeline and Pricing Leak via Retailers &nbsp;&nbsp; SammyGuru    Galaxy Buds On are ambidextrous and can sense your left or right ear &nbsp;&nbsp; SamMobile   ",
-    "country": "IN",
-    "published": "2026-10-28T12:00:09+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
-  },
-  {
-    "title": "Samsung TVs May Hack Connected Speakers' Mics to Detect Sounds",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTIwcTlyc2FJNm8xUHRQZ1dkd0RrejNPY3dBQ1JydEFXWk5vQ3k4T2pUZG1oTDNIY3p3Rk8wV1Jxc1pISUoyMXVVNDVjTnUtLTRwR29KZzhocmM2TE9TekRaZl9PN0ZvbngxR1FTc2xlNDV0WF9CMFRPUkNRTDhzdmptb1c3bXJVcjhmNUZpdlI0X1U1dzZ6UEFld25xSXVNVWs0?oc=5",
-    "source": "ExtremeTech",
-    "kind": "news",
-    "summary": "   Samsung TVs May Hack Connected Speakers' Mics to Detect Sounds &nbsp;&nbsp; ExtremeTech    Samsung TVs might use the mics of connected devices to listen to you, researcher says &nbsp;&nbsp; Mashable    Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads — 'Finally found a company that truly listens to its customers,' says hacker &nbsp;&nbsp; Tom's Hardware    Is Your Television Tracking Your Habits? Smart TVs Face Privacy Concerns &nbsp;&nbsp; StratNews Global    Samsung TVs collect data on owners for personalized ads, researcher says &nbsp;&nbsp; med",
-    "country": "IN",
-    "published": "2026-10-28T12:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
-  },
-  {
-    "title": "Samsung Galaxy A08 Launched with 6,000mAh Battery: Price in India Starts at ₹18,499",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmQzU01KZkh1UFpJbGhMa0daR2VhTVRLeUNjQ0JWbUlkX0tYdDNpV2tCeFdhM3VWVjI0eTZxNTFzU1QxMmVNVnZ6VlBpSjIzNHpOTlQ4RFVqX2JaVTNmWC1saThaVVNxbGRUWFBRU0U0MlJ4bXBGY3VvMzJhWVhoUnJB0gGHAUFVX3lxTE9YcGJsRnM3Z0xWdFpGYzN5SlFyblZSV3BNYlZYMzV1MktTR1Y0b0NqT3UtanMxLTU4S1RiZUVXQ3Q5eUhzN2RqMXY4dGNGWnVUSG82dXBpY0dlWEFOQmVONkZSbGZ4MEhFaUttVnVibFFqVkN1ZFhlVHlFbTlEODVOWFRrS1Fzbw?oc=5",
-    "source": "PaidFreeDroid",
-    "kind": "news",
-    "summary": " Samsung Galaxy A08 Launched with 6,000mAh Battery: Price in India Starts at ₹18,499 &nbsp;&nbsp; PaidFreeDroid ",
-    "country": "IN",
-    "published": "2026-10-27T21:54:14+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T12:39:30.192538+00:00"
+    "saved": "2026-10-28T17:19:05.614540+00:00"
   }
 ]
