@@ -1,79 +1,79 @@
 [
   {
-    "title": "Build shared workflows for your team with Copilot Automations",
-    "link": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the&#8230; \n The post  Build shared workflows for your team with Copilot Automations  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-28T15:35:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
-  },
-  {
-    "title": "Generate and edit images directly in Copilot",
-    "link": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by&#8230; \n The post  Generate and edit images directly in Copilot  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-28T15:30:55+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
-  },
-  {
-    "title": "GitHub Copilot Fusion now supports selection of local models",
-    "link": "https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " Today we are shipping intelligent routing for local models into experimental preview. GitHub Copilot Fusion can now choose between supported on-device models and cloud models, enabling intelligent local model routing&#8230; \n The post  GitHub Copilot Fusion now supports selection of local models  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-28T15:30:42+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
-  },
-  {
-    "title": "GitHub Enterprise now includes access to GitHub Copilot",
-    "link": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many&#8230; \n The post  GitHub Enterprise now includes access to GitHub Copilot  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-28T15:50:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
-  },
-  {
-    "title": "GitHub intelligence puts your code, context, and history to work",
-    "link": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " Agents should understand more than your codebase&#8212;they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in&#8230; \n The post  GitHub intelligence puts your code, context, and history to work  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-28T15:40:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
-  },
-  {
-    "title": "Security extension for the GitHub Copilot app",
-    "link": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " You can now work through your repository&#8217;s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the&#8230; \n The post  Security extension for the GitHub Copilot app  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-10-28T15:45:00+00:00",
-    "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
-  },
-  {
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
-    "source": "OpenAI",
+    "title": "Sarvam Secures 87% of Indic AI Funding in 2026, Tracxn Reports",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHBXZ3l0MW1lOVhQMW1Hd3YzRGhtSDhLa2RBLVlDV1YxcTQ5VWctSnpQLUZldzZ2dFY3bS1hZUVTaWNqR3VMZkNGR3o4Ti05eGlJUW1Bbkt4Z2dGY2FxSkh4dUsxaGN1aTdaU2Y5WGdPTko4eFYxLUZxZVM3Qkd0SnJfQ29kdzlLd1IzRkp3OWVCTG1Qa2JLZkhWQlZLRVFPbnVKc3Zmdm8tVlpSeWVkTE52QXpvREtWSXloZlR30gHAAUFVX3lxTFB5UW9xa3FOR1RLbndwZmdyNUc4NGV6ZlRuSTlBa1ZIMUdPaU5GSF9NdVl6cTZTR3FzNFFLeHpDQjNhdkxrUnlpbE5xS2kwY0xTRWNfU3dNalphZEFhaXhOd25JYlNnSkJjSVJYdmh0XzhsRFd4aF93NDB1ZE5UaWxNQWZQN0NpOC1tR2IzNnBtUlpHQTREZFJXRWdjekhfMTJBOWk1VzZiTC1UQmhGekJRV3RfdGRCRU01UWhyNm0yNw?oc=5",
+    "source": "Rediff",
     "kind": "news",
-    "summary": " How Check Point accelerates vulnerability research with Daybreak &nbsp;&nbsp; OpenAI ",
+    "summary": " Sarvam Secures 87% of Indic AI Funding in 2026, Tracxn Reports &nbsp;&nbsp; Rediff ",
     "country": "IN",
-    "published": "2026-10-27T19:07:27+00:00",
+    "published": "2026-10-29T05:59:06+00:00",
     "engagement": 0,
-    "saved": "2026-10-28T18:33:20.692964+00:00"
+    "saved": "2026-10-29T11:38:54.696803+00:00"
+  },
+  {
+    "title": "ISRO to launch NVS-03 navigation satellite aboard GSLV rocket on October 30; how to watch live",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFEyLWFxbjlVM0F5ckt1SXI3T0ltNTZwa0trN05EN1pFbmtVcUlXbVZsa2RFZTNHMHJHU0kzNlpoamFpdTZYZHI1ZjFNODQ5U2EtWnNTM0dDVVQzMjJ1Nm56VW1DanBXZXpPZWZSOWg5TjE4RmNackVMR0RjSE1nU3ZFQndnN2dnNlZ1akhXR2hodkp2V09fY3NweUFESzdwM3N0aXJwSWVOTnhhdGUtLXZWa2FnUQ?oc=5",
+    "source": "Starlust.org",
+    "kind": "news",
+    "summary": " ISRO to launch NVS-03 navigation satellite aboard GSLV rocket on October 30; how to watch live &nbsp;&nbsp; Starlust.org ",
+    "country": "IN",
+    "published": "2026-10-29T04:56:16+00:00",
+    "engagement": 0,
+    "saved": "2026-10-29T11:38:54.696803+00:00"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing;",
+    "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSThBdHM4ZElfUlhLTmhKUzE0SEtqNUJldXVrM3MzVnFhMzNnQmpmSUE3WUhXbzh0TVUzX2ZRdndKNmlLTDZOek1oM3ZXT0l1bU45c0dGZ0h0NlBtY1RIUkZUR3ZPREhsYzRZdTFZcnhmRDA5QS1kdlNBLUlzdUVETjZPU1U3VXNqMnoxNmpUc29iQXJROHliM2xlNjdyb1NiZDd1M1dDSlhBMEdTbjVxa1hDVWF6ZnFvMzJNTmp2V2RLcW1qbFMyOGRpRkVZbk55UDFkUXRENXhhYVhLa01LbGpMLS1FcGxYY0xicmFIdHRPaGY3Qm1kUnV5N09CM0JwOWswWWJXaHlxRnNIbWJOYWpKTXFxeWNCYVpueWdYX3dYT1BNZS13bncxTUNvY2VxNzNRLVhZN2ROSE10MHZ3cWc4YW1ielRTUi1QczMwWTFabEJBM1HSAdsCQVVfeXFMTkdZU0pRNzhuaEx4Sk9aVHo3Tmh0LTZ4Y0J0WVhQbUpvWkFjc0VHTlJncV9aeFhuWHZMZDUzSW1KVG53ak9BdjcyYzAwYmxxam1reWJyQTRfVzhpVnhLdTllOTdyOWtnLTZGSFhMYXFPeDBIRjFNeHNoOG03QmdyT3dEN1BjcV9QOHZoUk1Ta1dWa09aLUtUR2FybHc0OXVKVHp2ZVFfd0x3M1NOU2hKUl9lanVSQ1E1bUxINndXVExVUF9lTEN5R05ZaVNRdkRUZms2YjE5X1IzV1UydnRrUkMtWFZqbWtnYUR2UDhUWXQwUG5IbVlyajlSOVl5UnpJbWljUzlKV1g5M01tWXRvOGxfY2tZeWxsMFViN0pGUnJRQ3BFbFZmeHE3RHFIaUp2RHJfeXhiUC1wUGZGcm5TOEZ4YnhJek9QWFJfOEI5VDF1T1YwT1E4UEQ5VDQ?oc=5",
+    "source": "The Times of India",
+    "kind": "news",
+    "summary": " Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing; &nbsp;&nbsp; The Times of India ",
+    "country": "IN",
+    "published": "2026-10-29T02:22:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-29T11:38:54.696803+00:00"
+  },
+  {
+    "title": "India isn't out of the AI race as private equity investors see promise",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5",
+    "source": "Livemint",
+    "kind": "news",
+    "summary": " India isn't out of the AI race as private equity investors see promise &nbsp;&nbsp; Livemint ",
+    "country": "IN",
+    "published": "2026-10-29T06:47:56+00:00",
+    "engagement": 0,
+    "saved": "2026-10-29T11:38:54.696803+00:00"
+  },
+  {
+    "title": "The future of the firm",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDBQbnFLWTlUVlJJWXFQTXhPYjlLVE1aZWYyV29SYzZkNnE5eURFenY5YjhpcEo1Ym83M3MtV2hKeXJfYW54ZkJ6MVNWOTNLZEZ6aFJaNHZ2TG92TFM5T0wzVDQwVnQ4dV8tVkJMZ3k2aTFvajFKQjhnMk4tRFZaZzdlQzBDNUs3ZXZ1Y0JRYTRpZGY0NmFTYWc4TjZMNWszbnlZaEZXSE0xSGtrc2NGZzBySy12WVHSAbcBQVVfeXFMT3AwUG5xS1k5VFZSSVlxUE14T2I5S1RNWmVmMldvUmM2ZDZxOXlERXp2OWI4aXBKNWJvNzNzLVdoSnlyX2FueGZCejFTVjkzS2RGemhSWjR2dkxvdkxTOU9MM1Q0MFZ0OHVfLVZCTGd5Nmkxb2oxSkI4ZzJOLURWWmc3ZUMwQzVLN2V2dWNCUWE0aWRmNDZhU2FnOE42TDVrM255WWhGV0hNMUhra3NjRmcwckstdllR?oc=5",
+    "source": "Newswise",
+    "kind": "news",
+    "summary": " KRICT Global Forum Explores the Future of Self-Driving Labs Powered by AI and Data | Newswise &nbsp;&nbsp; Newswise ",
+    "country": "MY",
+    "published": "2026-10-29T09:15:00+00:00",
+    "engagement": 0,
+    "saved": "2026-10-29T11:38:54.696803+00:00"
+  },
+  {
+    "title": "Oppo Find X10 Series Goes on Sale in India: Price, Specs, and Launch Offers",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkxXdXFZUUpDTGowOEdPMko1Q2lPUXhfLWE1S2RFcUhVUmQxcjFJbXFBSV9vZGJiYTU1ZE9ic0pnQ1VsQ2pRODh3a2hGQ2p3dm9XdHVCODF1RkxfNE9ucHd3UHFYc2ZCUlI3Nl84S1kzUko3SVR3cGlYVnJ0Q1RfamNDcmlmandFQlBjWVlwVThGXzZCV3loMkdkM0l6ZmpzNWVMQTd4eEIxZWN3UU9FVHRB?oc=5",
+    "source": "Nokiamob",
+    "kind": "news",
+    "summary": " Oppo Find X10 Series Goes on Sale in India: Price, Specs, and Launch Offers &nbsp;&nbsp; Nokiamob ",
+    "country": "IN",
+    "published": "2026-10-29T05:46:20+00:00",
+    "engagement": 0,
+    "saved": "2026-10-29T11:38:54.696803+00:00"
+  },
+  {
+    "title": "Venttup raises $3 mn pre-series A funding led by Rainmatter, Unicorn India Ventures",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUmE1OTdaay1TbmxlY3F0bEdvUmZxS0loZXVSdUNURVRkejNfRVdoR2ZMcGRLOTVTZGhrWXloSDEySDNNb3QwNzh5dnVYajl4aEVJUF83NlZpWTBwYzdDN2cyLTNaZVBnTm9VbHYxa2NRQnBwWXpOd2JUcmY1OXR4cG96UUJwdFR2Q0ZjeHhYY2NPWVZLd1JBd0ZmMDk3a3ZjakRhNDFaTklMVnpZaUhQdUZ1NHM5bmpLdFh0QzZJS0xSWl9icXROTE9yVF92b3dIWWxNaTlGeTdQT0g2WTY3NDNiYkVHQkdDWEHSAe8BQVVfeXFMUDdpR2ltUG5PclpGZnFROTdDQlFJOHVmU0ZsVlBVcUtTVlBWNnJlV3BoMEY3Z2FrdjFoaF9ENmFQQ3dHdkdGVEtnVHhCdTNaQ1U2TmJMVXJEbDBGam1wNlIzaDFRZkdrdWJObzBMNGlRakx0UHdMeEMxUVVRRWN0YzhpMUV4ckFucmNaWW1iSngtNm8tRVVNNmlaWTNGdER0TjBtM2xPUTY1RTRvaU1KZTNFelQ1bVhTZ1J1M09kZFZhaUtvNEhvbVZqNW9jRE50VlRLVERETVktT2dqTUl4VlZpdl9Wa2NXVkpjTmdUd00?oc=5",
+    "source": "ET Entrepreneur",
+    "kind": "news",
+    "summary": " Venttup raises $3 mn pre-series A funding led by Rainmatter, Unicorn India Ventures &nbsp;&nbsp; ET Entrepreneur ",
+    "country": "IN",
+    "published": "2026-10-29T05:42:09+00:00",
+    "engagement": 0,
+    "saved": "2026-10-29T11:38:54.696803+00:00"
   }
 ]
