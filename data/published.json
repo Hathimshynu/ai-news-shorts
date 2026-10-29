@@ -1429,8 +1429,8 @@
     },
     "late": true,
     "approved_at": "2026-10-29T14:54:12.158574+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-29T14:54:13.590496+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-29T15:04:23.461639+00:00",
     "ids": {
       "youtube": "65A28bdEbx8",
       "facebook": "2412720802798824"
@@ -1442,8 +1442,7 @@
       "hook": "Google AI search ads just landed in India.",
       "seconds": 45.2,
       "primary_keyword": "google ai search ads",
-      "qa_passed": false,
-      "posted_at": "2026-10-29T14:55:42.227570+00:00"
+      "qa_passed": false
     }
   },
   "2026-10-29-evening-1801": {
