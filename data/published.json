@@ -1453,8 +1453,8 @@
     },
     "late": true,
     "approved_at": "2026-10-29T14:55:46.172127+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-29T14:55:49.369564+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-29T15:05:53.370012+00:00",
     "ids": {
       "youtube": "1cH7clQwTIE",
       "facebook": "5496802830544154"
@@ -1466,8 +1466,7 @@
       "hook": "One company took eighty-seven percent of funding.",
       "seconds": 43.8,
       "primary_keyword": "sarvam ai funding",
-      "qa_passed": false,
-      "posted_at": "2026-10-29T14:57:16.815995+00:00"
+      "qa_passed": false
     }
   }
 }
