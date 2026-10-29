@@ -1,37 +1,81 @@
 {
-  "job_id": "2026-10-29-evening-1701",
-  "chosen": "AI Search ads arrive in India as Google expands global rollout",
-  "reason": "Google expanding AI Search ads to India directly impacts how millions of everyday users and businesses will experience generative AI search results.",
+  "job_id": "2026-10-29-evening-1801",
+  "chosen": "Sarvam AI Drives 87% of India's Indic AI Funding in 2026: Tracxn",
+  "reason": "This report highlights Sarvam AI's dominant role in driving India's Indic language AI investments, showcasing the rapid rise and localized impact of regional AI models.",
   "candidates": [
     {
-      "title": "AI Search ads arrive in India as Google expands global rollout",
-      "score": 23.48,
+      "title": "Sarvam AI Drives 87% of India's Indic AI Funding in 2026: Tracxn",
+      "score": 21.67,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwcW9NQ3U5X3Z2UlM4dmdERjlVQi1NSVU0a1g4Rk0wbHd5MDd1S2p1Y3JKZXFQa0draTJxalN3dFRqZ0hqV0d0Z1hSYklRRXlfUHBjclhOQzJPYkNSODN4Qmc3QWtuUjFUbnNYLVlyUk8yQVpFMEZ3WlJuSVA?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1QwbDh0MUtqZTBhVnJhTnNCRGVJejB5VFVzMDdtdi1nS19oWG5YblFYYXNoOXkyeUVWVTViek9FNWtIRmFNRnNMT0hzeTF3dDBqV1ZSUnBzZzZqRHNQckpBNjJtWDNNZG1SanBLdFRqdTUwM05iZ3lOS0ZYUGtXME9aeThyS1g5TGFULWltTGFrVHBsajhmYmhwbzBKZDRtWlNscFlSbmlkek9PeEJ1YVhaNHF4UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2hFUkZXZlFaT1pVSk1UODVOeXZmUC1QbkFPX0o2WjFGeGE2Rm1OZFVobUtESVk2d1FXdVdXNExIWlZjNG5ZR09mM3ZINDFhQ0d1UU4tZzh6cmZSTFRxb3NpZE9yLUREc3JEbUZUOGIxQzZIOXk2emlVQlo1NFR3bldFd3J4WTlITmFXcW85SEI4NURBdjFBNjRYZVdHbzBnWXRyZ2F4T0ZtMGxDR3BOdmpQa0hNQkRHNFc3MTJGV210UC1oSk1pYTJiUlFlUUpFSjJCcEt0aFBybzgtRS1tQTBjMVpNanfSAewBQVVfeXFMTTk0LXNoRTA4OVVOWC1XSDZJLVBjQXpZNHBUakdsOXRiQTJTZWNOamRES1k2MXlSUHJ0S2pCcGJLYlZJV0ptYlhnV0JMbUNSeDdFaWtXRUhfWHFWa2dsamVBN2w1OG0tbmY0eFZHejhrSFFWS1NFYm41Q1dkcVQzY29JQkw2SzRRcVBHS2kwTWtmV2FwNDhXXzNKTzI5RDhqR2gxd1o4THdKZk1CWWhoTlFiRlJwcHp6T3JpNXZPMnVNdk9HV1BxU2FTOFpBX2dROVdLa1RWNkdUQ0FTZUdNRUQwSEdHYkpSR2JWYzM?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVAydV96YXhsaUlmdW13LXNVS3ZIREtJR3A3b2NQR1FDOW8tUGJTdU5rQ2F5enVGTjFDRDRDeFBlemVCbVZSajRTS3ZDeWRveTRIeW1XMEJvbkRhYnFlWVhCZjNzU1FPaldGNklvdWc5bTNRblh2b3d0aFJiRnhZVm5NdmV4dnRETF8wYjVOOHB1UlgxZ2tzTG5GMUZPR1V6OXfSAaIBQVVfeXFMT0FQMnVfemF4bGlJZnVtdy1zVUt2SERLSUdwN29jUEdRQzlvLVBiU3VOa0NheXp1Rk4xQ0Q0Q3hQZXplQm1WUmo0U0t2Q3lkb3k0SHltVzBCb25EYWJxZVlYQmYzc1NRT2pXRjZJb3VnOW0zUW5Ydm93dGhSYkZ4WVZuTXZleHZ0RExfMGI1TjhwdVJYMWdrc0xuRjFGT0dVejl3?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHBXZ3l0MW1lOVhQMW1Hd3YzRGhtSDhLa2RBLVlDV1YxcTQ5VWctSnpQLUZldzZ2dFY3bS1hZUVTaWNqR3VMZkNGR3o4Ti05eGlJUW1Bbkt4Z2dGY2FxSkh4dUsxaGN1aTdaU2Y5WGdPTko4eFYxLUZxZVM3Qkd0SnJfQ29kdzlLd1IzRkp3OWVCTG1Qa2JLZkhWQlZLRVFPbnVKc3Zmdm8tVlpSeWVkTE52QXpvREtWSXloZlR30gHAAUFVX3lxTFB5UW9xa3FOR1RLbndwZmdyNUc4NGV6ZlRuSTlBa1ZIMUdPaU5GSF9NdVl6cTZTR3FzNFFLeHpDQjNhdkxrUnlpbE5xS2kwY0xTRWNfU3dNalphZEFhaXhOd25JYlNnSkJjSVJYdmh0XzhsRFd4aF93NDB1ZE5UaWxNQWZQN0NpOC1tR2IzNnBtUlpHQTREZFJXRWdjekhfMTJBOWk1VzZiTC1UQmhGekJRV3RfdGRCRU01UWhyNm0yNw?oc=5"
       ]
     },
     {
-      "title": "Sarvam Secures 87% of Indic AI Funding in 2026, Tracxn Reports",
+      "title": "Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing;",
+      "score": 21.5,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSThBdHM4ZElfUlhLTmhKUzE0SEtqNUJldXVrM3MzVnFhMzNnQmpmSUE3WUhXbzh0TVUzX2ZRdndKNmlLTDZOek1oM3ZXT0l1bU45c0dGZ0h0NlBtY1RIUkZUR3ZPREhsYzRZdTFZcnhmRDA5QS1kdlNBLUlzdUVETjZPU1U3VXNqMnoxNmpUc29iQXJROHliM2xlNjdyb1NiZDd1M1dDSlhBMEdTbjVxa1hDVWF6ZnFvMzJNTmp2V2RLcW1qbFMyOGRpRkVZbk55UDFkUXRENXhhYVhLa01LbGpMLS1FcGxYY0xicmFIdHRPaGY3Qm1kUnV5N09CM0JwOWswWWJXaHlxRnNIbWJOYWpKTXFxeWNCYVpueWdYX3dYT1BNZS13bncxTUNvY2VxNzNRLVhZN2ROSE10MHZ3cWc4YW1ielRTUi1QczMwWTFabEJBM1HSAdsCQVVfeXFMTkdZU0pRNzhuaEx4Sk9aVHo3Tmh0LTZ4Y0J0WVhQbUpvWkFjc0VHTlJncV9aeFhuWHZMZDUzSW1KVG53ak9BdjcyYzAwYmxxam1reWJyQTRfVzhpVnhLdTllOTdyOWtnLTZGSFhMYXFPeDBIRjFNeHNoOG03QmdyT3dEN1BjcV9QOHZoUk1Ta1dWa09aLUtUR2FybHc0OXVKVHp2ZVFfd0x3M1NOU2hKUl9lanVSQ1E1bUxINndXVExVUF9lTEN5R05ZaVNRdkRUZms2YjE5X1IzV1UydnRrUkMtWFZqbWtnYUR2UDhUWXQwUG5IbVlyajlSOVl5UnpJbWljUzlKV1g5M01tWXRvOGxfY2tZeWxsMFViN0pGUnJRQ3BFbFZmeHE3RHFIaUp2RHJfeXhiUC1wUGZGcm5TOEZ4YnhJek9QWFJfOEI5VDF1T1YwT1E4UEQ5VDQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMm54MzFSdS1oMERLTzc4MFVCTklVWkdlQlhtUnN0OUtMLXp4cXRBbmRZWUEtTGJjckdtLUZ3MGh0YVZ1Qk0tWjFObXBxSklQNXdKU1NwdEJnc3o5aEhIRlhuUWJVWDYyM2l6bkpUVW5hdzFlXzBqSjJKd3NkcUptc2lCTURGcE5FSllMYktoSzlZdkwxbVhPYkhDSkpyd1dPSXdjX0hSM2E5d0oyaXBoOWFubm1uOUgxbm0wREVBcnhkM3RTb3pDSEJKRklmbEVRX1NHWDlHWVVkbktyeEpaeG9sLTFZTDNaelJPQWNGNkdNN0dURjBZ0gH8AUFVX3lxTFBucGtTZkxhc2xIVV9qMkFSV3RCUVkwcGYzN3otbmRLX2tIYjFOUUdPUk1MdGdmejBRM2ZWUUpXRG16M1d4a0dNOWJOYzRWTWhDVFRaMXdaa25RVkF0SkZuOVpFcWRJZEt6R2lqMVBqVWdaR2tSQnpGdGpVRy1qdGlKZmQ2MTJKa0dYejJLY2dYaGVuR3FkYUhRWXpaaURXbW1ENk1ld0tBTVJ0bjVfb01wbnNWakxoUFR5alFSZjJDeGtEMTBIM1IzWF9hWEFtZG0zbkxoMTBfUG1UVldpM0U3aDdzSTR5WXdiN2FUNmV3a3NJa3FoTGp4em9aRw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSThBdHM4ZElfUlhLTmhKUzE0SEtqNUJldXVrM3MzVnFhMzNnQmpmSUE3WUhXbzh0TVUzX2ZRdndKNmlLTDZOek1oM3ZXT0l1bU45c0dGZ0h0NlBtY1RIUkZUR3ZPREhsYzRZdTFZcnhmRDA5QS1kdlNBLUlzdUVETjZPU1U3VXNqMnoxNmpUc29iQXJROHliM2xlNjdyb1NiZDd1M1dDSlhBMEdTbjVxa1hDVWF6ZnFvMzJNTmp2V2RLcW1qbFMyOGRpRkVZbk55UDFkUXRENXhhYVhLa01LbGpMLS1FcGxYY0xicmFIdHRPaGY3Qm1kUnV5N09CM0JwOWswWWJXaHlxRnNIbWJOYWpKTXFxeWNCYVpueWdYX3dYT1BNZS13bncxTUNvY2VxNzNRLVhZN2ROSE10MHZ3cWc4YW1ielRTUi1QczMwWTFabEJBM1HSAdsCQVVfeXFMTkdZU0pRNzhuaEx4Sk9aVHo3Tmh0LTZ4Y0J0WVhQbUpvWkFjc0VHTlJncV9aeFhuWHZMZDUzSW1KVG53ak9BdjcyYzAwYmxxam1reWJyQTRfVzhpVnhLdTllOTdyOWtnLTZGSFhMYXFPeDBIRjFNeHNoOG03QmdyT3dEN1BjcV9QOHZoUk1Ta1dWa09aLUtUR2FybHc0OXVKVHp2ZVFfd0x3M1NOU2hKUl9lanVSQ1E1bUxINndXVExVUF9lTEN5R05ZaVNRdkRUZms2YjE5X1IzV1UydnRrUkMtWFZqbWtnYUR2UDhUWXQwUG5IbVlyajlSOVl5UnpJbWljUzlKV1g5M01tWXRvOGxfY2tZeWxsMFViN0pGUnJRQ3BFbFZmeHE3RHFIaUp2RHJfeXhiUC1wUGZGcm5TOEZ4YnhJek9QWFJfOEI5VDF1T1YwT1E4UEQ5VDQ?oc=5"
+      ]
+    },
+    {
+      "title": "The future of the firm",
+      "score": 36.6,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdXhHQXREaUVGa2JxYmdTMTBLNWlPTUgwZTlZOXhoa04zSUROSDFfbC1uQ2RiS0pmNThOT3FBYmxPRmJkbjd4MmNBYXdFbGpwRGRRdDJBY2FxLTBkNjZrb19BZlJUY2k5Nk9uc1h3ejZZN3hwREFGZVN0Zzc0REtxUzVLM3dzaWc4dVAwRDh3bHZBZzlXdUhGRGlSUU5ObXpCQUhkWVlFMDd2Z2p0ekwyZGZuYWVCeEN5VnJ0emlQamZFNTZiTzBOVkNUd0xha25jb1pseFJJbW41Y0EtYlZRTUtiS3XSAeoBQVVfeXFMTkFacl9xVU8xREFsanB5TEZRVTFaelg1MFFIMThqb1JGZ2RfQ1g1bS15ZDNab1BYX2tDUjlYYlRyMDZjQUU4c0tJZDUyNzJJUElqOUVFN2d2LXRRc1RTR1A3cGx3M3dvaDBOeHFpTHlaYWZwbEwyMUl3WFJ0U2sxSFZzVDdRbGxOYmZyTVUwdzNvOFk3dUZQZHUydnBtc09CZk9FV1Y4RUN4TVlJYll0SFgzYXpHRnhPZTJxaHp6R1JnNVpiTEFMZDVkdXRPbE1HWGJwb0c3LUZ4eS1iY0FYNnNrRi11RnA2Nkd3?oc=5",
+        "https://openai.com/index/the-future-of-the-firm"
+      ]
+    },
+    {
+      "title": "India isn't out of the AI race as private equity investors see promise",
+      "score": 21.38,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpvWjZ5eWVBOTU4UnRTZDBfbVFuYzNNNENnRGRXeXZxX0t5al9zbzNZdjYxZnAxc1djM1d6blRoYTBmSGdUTWdMSUtvak9HRERtMEhVMU9lbG90a2JzQlVrZzlzakk4Rjg4czRVVmxUc1pfRGF4WEdGcTY2NnpEZzdxN2N6aGVTcE12YUpadTg0aTFRSEhraFlNanAwZUJMOVN5MGZnZjJCTk5EN2dKNVlYYm1zN2ZjMTVma1FkVTZtRVN0M1E?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5"
+      ]
+    },
+    {
+      "title": "Physical AI startup Tensrai raises Rs 3.4 Cr in pre-seed round",
       "score": 19.92,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHBXZ3l0MW1lOVhQMW1Hd3YzRGhtSDhLa2RBLVlDV1YxcTQ5VWctSnpQLUZldzZ2dFY3bS1hZUVTaWNqR3VMZkNGR3o4Ti05eGlJUW1Bbkt4Z2dGY2FxSkh4dUsxaGN1aTdaU2Y5WGdPTko4eFYxLUZxZVM3Qkd0SnJfQ29kdzlLd1IzRkp3OWVCTG1Qa2JLZkhWQlZLRVFPbnVKc3Zmdm8tVlpSeWVkTE52QXpvREtWSXloZlR30gHAAUFVX3lxTFB5UW9xa3FOR1RLbndwZmdyNUc4NGV6ZlRuSTlBa1ZIMUdPaU5GSF9NdVl6cTZTR3FzNFFLeHpDQjNhdkxrUnlpbE5xS2kwY0xTRWNfU3dNalphZEFhaXhOd25JYlNnSkJjSVJYdmh0XzhsRFd4aF93NDB1ZE5UaWxNQWZQN0NpOC1tR2IzNnBtUlpHQTREZFJXRWdjekhfMTJBOWk1VzZiTC1UQmhGekJRV3RfdGRCRU01UWhyNm0yNw?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVAydV96YXhsaUlmdW13LXNVS3ZIREtJR3A3b2NQR1FDOW8tUGJTdU5rQ2F5enVGTjFDRDRDeFBlemVCbVZSajRTS3ZDeWRveTRIeW1XMEJvbkRhYnFlWVhCZjNzU1FPaldGNklvdWc5bTNRblh2b3d0aFJiRnhZVm5NdmV4dnRETF8wYjVOOHB1UlgxZ2tzTG5GMUZPR1V6OXfSAaIBQVVfeXFMT0FQMnVfemF4bGlJZnVtdy1zVUt2SERLSUdwN29jUEdRQzlvLVBiU3VOa0NheXp1Rk4xQ0Q0Q3hQZXplQm1WUmo0U0t2Q3lkb3k0SHltVzBCb25EYWJxZVlYQmYzc1NRT2pXRjZJb3VnOW0zUW5Ydm93dGhSYkZ4WVZuTXZleHZ0RExfMGI1TjhwdVJYMWdrc0xuRjFGT0dVejl3?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1FwQS1lRnN4Um9razdrUXFhemN5VTdGRXVRbTFsRjFLdTBfQ3pZbkhybnlvNWN5eVpVSk1Qb2RlMDJuY3N4Z3ZNU1R1UXZNR2JKLXBrM3J1NEFCYTN4eU9tZmFHemRqMndIZjlFRTVUdE5zUmt4V0lSVVFRTHRWc3FjMVdENEo4azJnZ0hxeGdhWlo2aW9lR2I5MEp3cjd2elHSAaIBQVVfeXFMUHNRcEEtZUZzeFJva2s3a1FxYXpjeVU3RkV1UW0xbEYxS3UwX0N6WW5Icm55bzVjeXlaVUpNUG9kZTAybmNzeGd2TVNUdVF2TUdiSi1wazNydTRBQmEzeHlPbWZhR3pkajJ3SGY5RUU1VHROc1JreFdJUlVRUUx0VnNxYzFXRDRKOGsyZ2dIcXhnYVpaNmlvZUdiOTBKd3I3dnpR?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUmNZZ0ZPekFLZzkwR002RVN6d3dnV3R1LUt3SEhEM1NUUmcwN3pORW9qZTNtNUR4LW5LMHdkNFdNRHJMU3N1bkJ6d0lVbFFjSjV3QkNWWDhTYk5USEpqTEhaczI4aU81Mm5HLWE4N09udmQ2MEFKSERVanE1dXZyLVVlTW9tdnlvTVFTOFJMZHh6LURsMkI1QkVhOHAyYmNCblNKamVONk04UjRaOUx5WVlWcHhkSmd0TXZYV2d1WHh6QkhtZlF4ZUhacWJ4eWJ6RU1BM25SSmNDaHVyMW9PMzhSd0k?oc=5"
       ]
     },
     {
       "title": "ISRO to launch NVS-03 navigation satellite aboard GSLV rocket on October 30; how to watch live",
-      "score": 25.46,
+      "score": 27.21,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -42,60 +86,24 @@
       ]
     },
     {
-      "title": "Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing;",
-      "score": 19.75,
+      "title": "OPPO Find X10 Series Launched in India: Price and Features",
+      "score": 20.31,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSThBdHM4ZElfUlhLTmhKUzE0SEtqNUJldXVrM3MzVnFhMzNnQmpmSUE3WUhXbzh0TVUzX2ZRdndKNmlLTDZOek1oM3ZXT0l1bU45c0dGZ0h0NlBtY1RIUkZUR3ZPREhsYzRZdTFZcnhmRDA5QS1kdlNBLUlzdUVETjZPU1U3VXNqMnoxNmpUc29iQXJROHliM2xlNjdyb1NiZDd1M1dDSlhBMEdTbjVxa1hDVWF6ZnFvMzJNTmp2V2RLcW1qbFMyOGRpRkVZbk55UDFkUXRENXhhYVhLa01LbGpMLS1FcGxYY0xicmFIdHRPaGY3Qm1kUnV5N09CM0JwOWswWWJXaHlxRnNIbWJOYWpKTXFxeWNCYVpueWdYX3dYT1BNZS13bncxTUNvY2VxNzNRLVhZN2ROSE10MHZ3cWc4YW1ielRTUi1QczMwWTFabEJBM1HSAdsCQVVfeXFMTkdZU0pRNzhuaEx4Sk9aVHo3Tmh0LTZ4Y0J0WVhQbUpvWkFjc0VHTlJncV9aeFhuWHZMZDUzSW1KVG53ak9BdjcyYzAwYmxxam1reWJyQTRfVzhpVnhLdTllOTdyOWtnLTZGSFhMYXFPeDBIRjFNeHNoOG03QmdyT3dEN1BjcV9QOHZoUk1Ta1dWa09aLUtUR2FybHc0OXVKVHp2ZVFfd0x3M1NOU2hKUl9lanVSQ1E1bUxINndXVExVUF9lTEN5R05ZaVNRdkRUZms2YjE5X1IzV1UydnRrUkMtWFZqbWtnYUR2UDhUWXQwUG5IbVlyajlSOVl5UnpJbWljUzlKV1g5M01tWXRvOGxfY2tZeWxsMFViN0pGUnJRQ3BFbFZmeHE3RHFIaUp2RHJfeXhiUC1wUGZGcm5TOEZ4YnhJek9QWFJfOEI5VDF1T1YwT1E4UEQ5VDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMm54MzFSdS1oMERLTzc4MFVCTklVWkdlQlhtUnN0OUtMLXp4cXRBbmRZWUEtTGJjckdtLUZ3MGh0YVZ1Qk0tWjFObXBxSklQNXdKU1NwdEJnc3o5aEhIRlhuUWJVWDYyM2l6bkpUVW5hdzFlXzBqSjJKd3NkcUptc2lCTURGcE5FSllMYktoSzlZdkwxbVhPYkhDSkpyd1dPSXdjX0hSM2E5d0oyaXBoOWFubm1uOUgxbm0wREVBcnhkM3RTb3pDSEJKRklmbEVRX1NHWDlHWVVkbktyeEpaeG9sLTFZTDNaelJPQWNGNkdNN0dURjBZ0gH8AUFVX3lxTFBucGtTZkxhc2xIVV9qMkFSV3RCUVkwcGYzN3otbmRLX2tIYjFOUUdPUk1MdGdmejBRM2ZWUUpXRG16M1d4a0dNOWJOYzRWTWhDVFRaMXdaa25RVkF0SkZuOVpFcWRJZEt6R2lqMVBqVWdaR2tSQnpGdGpVRy1qdGlKZmQ2MTJKa0dYejJLY2dYaGVuR3FkYUhRWXpaaURXbW1ENk1ld0tBTVJ0bjVfb01wbnNWakxoUFR5alFSZjJDeGtEMTBIM1IzWF9hWEFtZG0zbkxoMTBfUG1UVldpM0U3aDdzSTR5WXdiN2FUNmV3a3NJa3FoTGp4em9aRw?oc=5"
-      ]
-    },
-    {
-      "title": "India isn't out of the AI race as private equity investors see promise",
-      "score": 19.63,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpvWjZ5eWVBOTU4UnRTZDBfbVFuYzNNNENnRGRXeXZxX0t5al9zbzNZdjYxZnAxc1djM1d6blRoYTBmSGdUTWdMSUtvak9HRERtMEhVMU9lbG90a2JzQlVrZzlzakk4Rjg4czRVVmxUc1pfRGF4WEdGcTY2NnpEZzdxN2N6aGVTcE12YUpadTg0aTFRSEhraFlNanAwZUJMOVN5MGZnZjJCTk5EN2dKNVlYYm1zN2ZjMTVma1FkVTZtRVN0M1E?oc=5"
-      ]
-    },
-    {
-      "title": "The future of the firm",
-      "score": 30.43,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDBQbnFLWTlUVlJJWXFQTXhPYjlLVE1aZWYyV29SYzZkNnE5eURFenY5YjhpcEo1Ym83M3MtV2hKeXJfYW54ZkJ6MVNWOTNLZEZ6aFJaNHZ2TG92TFM5T0wzVDQwVnQ4dV8tVkJMZ3k2aTFvajFKQjhnMk4tRFZaZzdlQzBDNUs3ZXZ1Y0JRYTRpZGY0NmFTYWc4TjZMNWszbnlZaEZXSE0xSGtrc2NGZzBySy12WVHSAbcBQVVfeXFMT3AwUG5xS1k5VFZSSVlxUE14T2I5S1RNWmVmMldvUmM2ZDZxOXlERXp2OWI4aXBKNWJvNzNzLVdoSnlyX2FueGZCejFTVjkzS2RGemhSWjR2dkxvdkxTOU9MM1Q0MFZ0OHVfLVZCTGd5Nmkxb2oxSkI4ZzJOLURWWmc3ZUMwQzVLN2V2dWNCUWE0aWRmNDZhU2FnOE42TDVrM255WWhGV0hNMUhra3NjRmcwckstdllR?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDBQbnFLWTlUVlJJWXFQTXhPYjlLVE1aZWYyV29SYzZkNnE5eURFenY5YjhpcEo1Ym83M3MtV2hKeXJfYW54ZkJ6MVNWOTNLZEZ6aFJaNHZ2TG92TFM5T0wzVDQwVnQ4dV8tVkJMZ3k2aTFvajFKQjhnMk4tRFZaZzdlQzBDNUs3ZXZ1Y0JRYTRpZGY0NmFTYWc4TjZMNWszbnlZaEZXSE0xSGtrc2NGZzBySy12WVHSAbcBQVVfeXFMT3AwUG5xS1k5VFZSSVlxUE14T2I5S1RNWmVmMldvUmM2ZDZxOXlERXp2OWI4aXBKNWJvNzNzLVdoSnlyX2FueGZCejFTVjkzS2RGemhSWjR2dkxvdkxTOU9MM1Q0MFZ0OHVfLVZCTGd5Nmkxb2oxSkI4ZzJOLURWWmc3ZUMwQzVLN2V2dWNCUWE0aWRmNDZhU2FnOE42TDVrM255WWhGV0hNMUhra3NjRmcwckstdllR?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5"
-      ]
-    },
-    {
-      "title": "Oppo Find X10 Series Goes on Sale in India: Price, Specs, and Launch Offers",
-      "score": 20.59,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkxXdXFZUUpDTGowOEdPMko1Q2lPUXhfLWE1S2RFcUhVUmQxcjFJbXFBSV9vZGJiYTU1ZE9ic0pnQ1VsQ2pRODh3a2hGQ2p3dm9XdHVCODF1RkxfNE9ucHd3UHFYc2ZCUlI3Nl84S1kzUko3SVR3cGlYVnJ0Q1RfamNDcmlmandFQlBjWVlwVThGXzZCV3loMkdkM0l6ZmpzNWVMQTd4eEIxZWN3UU9FVHRB?oc=5",
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQi1FZ0otWXR2c2VvSDU1Z1VCSE81UjkzUlJVQnNFSjRTUWVXVGtiZTRNMlM4aFpNUmQwdWloM1NtdTBMZGR2U2daWGlWZ3hBbkRzN1hEZDJpNnMtU1Rxa2hGUVpuTkJtajdmRm16LU84cTRyZWpoOVlpWFdZdXdpWHpRODlQVU1NaDVhZG9LMlQ0R3lRUUxKZHRlRW44QlBjbXpNOVhfdVFSSnk1R2ZFTlJ0RFF1UC1yU05J?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenpLT2pwSGdyRXRGQy1wLUFXWWpyRERlYkVwT01zS3U5NnlpcHZIRzJzTFhKUjQtRGNKQnV5ZTRGZE5vclExQkZ4SndWUklnQXgySGt5ODB3RVJ6dHcxREpISG9mY1hfaURDMl9FdTNGMGZKVmhKUTQ5b0FCc1VMMVlUMEg3UFpqOG9pOWoxQVdUVk9ZTXJ0WHo3NG5PSzZSQmFhcW4xS1NUMV9QWkRnMURR?oc=5"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkxXdXFZUUpDTGowOEdPMko1Q2lPUXhfLWE1S2RFcUhVUmQxcjFJbXFBSV9vZGJiYTU1ZE9ic0pnQ1VsQ2pRODh3a2hGQ2p3dm9XdHVCODF1RkxfNE9ucHd3UHFYc2ZCUlI3Nl84S1kzUko3SVR3cGlYVnJ0Q1RfamNDcmlmandFQlBjWVlwVThGXzZCV3loMkdkM0l6ZmpzNWVMQTd4eEIxZWN3UU9FVHRB?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkxXdXFZUUpDTGowOEdPMko1Q2lPUXhfLWE1S2RFcUhVUmQxcjFJbXFBSV9vZGJiYTU1ZE9ic0pnQ1VsQ2pRODh3a2hGQ2p3dm9XdHVCODF1RkxfNE9ucHd3UHFYc2ZCUlI3Nl84S1kzUko3SVR3cGlYVnJ0Q1RfamNDcmlmandFQlBjWVlwVThGXzZCV3loMkdkM0l6ZmpzNWVMQTd4eEIxZWN3UU9FVHRB?oc=5"
       ]
     },
     {
       "title": "Venttup raises $3 mn pre-series A funding led by Rainmatter, Unicorn India Ventures",
-      "score": 21.29,
+      "score": 23.04,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -106,46 +114,47 @@
       ]
     },
     {
-      "title": "Wobble Speed 5G smartphone teased ahead of India launch",
-      "score": 19.89,
+      "title": "OpenAI appoints Shruti Nishchal as HRBP, APAC",
+      "score": 19.98,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HSjJSUzJ2aVgwLVhoUWJqS2MtcWk5ck1wQnJ1NUQyUWZCZUJLRmlWcVJxT1FQUHZnZ2VFSFJxbExVLUVzaUJibjVpSG5leTlPaHc2NFhHX1g0SzYxaTBzZ1ZjX3RuR0Rac1kzaVU5WHEyTE5xTk9KatIBeEFVX3lxTE9HSjJSUzJ2aVgwLVhoUWJqS2MtcWk5ck1wQnJ1NUQyUWZCZUJLRmlWcVJxT1FQUHZnZ2VFSFJxbExVLUVzaUJibjVpSG5leTlPaHc2NFhHX1g0SzYxaTBzZ1ZjX3RuR0Rac1kzaVU5WHEyTE5xTk9Kag?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0h5UG5BNTVjMUdqUlRta0YwLVhBLVl3SU1oRmlaNzQ4c2R4dmY5aEtVMWs4bVNZNjhzbGtKSUlzQ1ZDU3VlU2R5UGtRSEp0MEJhOWNHajVZdDNjLU0tN193S2xnVjlFUHRhNVJEcm93aEc1LW5URFZuNWM5d3JkeFVPWlhMN1lpOUNsX2lwbmtucXJ0bzNyN1NlQ01uY0MyWDBVVUNXNy1GTW5rdGfSAbQBQVVfeXFMTkFQLVl3QWZiQXlqU0FqYkwtdHJ0SFBpRzE4U3VUcGF4NTdLRUVRT1hUcnBLN2trVS1TMDVqUWM3ZFFTdHhQbmJhbkV5aWluVE9lR29GZy1rSnJ3MXIwWlR6WFhHODk5VEtvbWFuZGlyQVh5MVh6UnZNVEVhYVN3eVVESUVsVTVMY1EtN0JfMkZlWEtxN0Zod0JHeU9kS1dLM09Hb2tVUzMyandKdnZnSzNnVTdw?oc=5"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmlCd01yZmZURjZQOXRwZ2hiS25rTXZ1dDctYmc4Z3dWVG8wYnBoLUlzbUF1RW1GYkJRWlpMd0NlNEFDclBXWDJ5bldmb242M185OFI5d2hqUzYtcHk0Uk9LLUR5XzY4Y0Z0R3kzSzFFc3dvdFgxR0UxWC1jYjljRlFHSWRkbWMzQTNISk13?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGx2bllzTGVDa1pvcld6dXE3ZnYtVjZGTXNMdThrdmpselFxVTZ2VEpIZDlrZG5lTnVEaGdkYndVeE5GallGbHdGWmcxMFU2el9tZjliaVBvWlJHbkN3N08wQk5lSFhOMVd4RXB2WF9zR2Jxc1pGV3U2WHdySVNZVllYT19QeXpZamlYalZ1UDdVNHB5TDZyMzZPSm5Db0paSmlNS1hZMW4wMHgwakVQOG1ZTFlVVlYyQnZ1bDd1Q0tfeUxmYjZ4RFFQeFpYM2JlajR0WWJXVdIB3AFBVV95cUxPT2xRSkxxelVuTXNCSHRRMnNqdmg3XzF0ZlQ4WkZPM3ZHdTFsN0sxdHpoZENJV01kMlRJNnEyRFVtSTVzUUZKZkk5WWN4dzBxQUpRbDZpVHU4NlBlSDVMcTJnY2FEQzBYNjNONmZOcmFoYWRLSllzUzRzR1NVWGh5Vk9GM1NjTnZJNEE0OGs0dGtiOG0wWXQ0ZTg4QUFIeFo4R1JmU0Z2Z003TjNXMWZVWlRJTWJpdTlqY3loVTAyREVfc25nT3VrZmJORXB1Ri1xM1pidWYzMFgzejJY?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFpoSWZqbHd1eDdhYnIzclVjNXg4bW50RnBuNXhKMkZnaFktNkZwajN3UXdOQzVaVElUQjhGVXpSZkVLU2ZUUk9qc1hYQ2VzN3F4ck52OC0wcm42dnZhc3k5NXhfYUJ1ZUtsejBxT0hYeFM2V2ZLUHUyb2NrMFJSaE9nWEZYeVM3NzJMVWR2WXJMR1liWTdXbGFBYTgtQQ?oc=5"
       ]
     },
     {
-      "title": "Ads in AI Mode expand to new markets.",
-      "score": 19.89,
+      "title": "Researchers identify critical window for boosting immunotherapy response in prostate cancer",
+      "score": 19.95,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMickFVX3lxTFBvT2lmdHpvN25CRXltMFhSWVVRQW5WbE9RQ2t1LVhwM1R0ZjZpa09HUzlaMTNHc0FPbGRsa180STBpanAwX2d3UzlOdmN2SjJFd1ZWMzBrRk1jdmFVY29DN2twUVpQb0d2eXBZZHVDYlFfUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVc3WUtNb3d2eTFBekp6a2I5LW9vc3dEUW92MFdMVUlialh3SW9SMlhvdThkNy1GWk51R1N0MW83SzczYjJFd042TmVxWTNuR2NWUUg2VTJWRmRNUWNOY1I0b2RZTnozUDBqbmotU215dTRKeDBjc1RiM2JTTGRQenpiYy1uWUlOVVF3VDdteWZpMGcwN21uNzhJd29PSnRrdEdnOTZiNXpGbFk?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOGJxNHZPSGlYSEhJOG9pLTlETjg0SVhXbVJYSGNpLUFyazZXVE9nd2RKTW1DZFpXQzNhNGVJQ3RDZVRfVTYwYVQ2TkZaeVFjT3hMZThyVkhJR0RpaVByTl8tTmduM3JidHVNYXVCYnQ2RzdMenNUcFV0WjlFMDBrT3l5eHgzVGpWWmp1SXNQMlJYdEZFZDRaSEhKZHUwZE5ETHlpeThqOXNlb1c0ZURleVhvMGxObzRmSmVoZGM1STRfbDBoaXpMQmlnbzdPVl8zSjl2MnByM0Fsa3g0N2ZvdE1hTXZmYWU5Y1BLWm1pc9IB9AFBVV95cUxON0E1dmpULXhRamlvcHNDMUpLdU9IZmp2c3RHeHN6YWVka0o2Y0xXTUY0ZU53YS1helJjcy15c2hSVU1lX3pvVmVuOUhLQy1aZDZ6WlFOQ25ZVjdra1FiTUdyMDRwM25QcHlubUpMTHBBWVdmV1JSRzNHX0pEZ1RMdzZtV0xROEVoSF9heG1nZ2xRaW1fazdubHIwLW1JYnBNV2U3M0poSUVzNXB4QUJYdWxkOWxBbE1ZRm1XemE2b3AzejlUVDhuU05SSVhCTFBCME5ORHpuLUhVMDJFalRHSHFGS0htcm16UnJSMnVuNjc5U0hO?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkF5OExrTXhvQWxWWjFnbDQ1b3hQR0czbFNOaDMwcVdGZlU3M1Q0YnZtMFE1aEw2QVotdS1DaXdmamxUOUQ4OHhDSS1HcU43T1pNNDBDeUVMUmhQZGQ4eUk0cDdKa0JscEYwU0doUElndWQ0NHJSU3VOZ3hFaUhFdjlXMHRLSVVLdlNFMkNHS2ttNDlZVEE?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkF5OExrTXhvQWxWWjFnbDQ1b3hQR0czbFNOaDMwcVdGZlU3M1Q0YnZtMFE1aEw2QVotdS1DaXdmamxUOUQ4OHhDSS1HcU43T1pNNDBDeUVMUmhQZGQ4eUk0cDdKa0JscEYwU0doUElndWQ0NHJSU3VOZ3hFaUhFdjlXMHRLSVVLdlNFMkNHS2ttNDlZVEE?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkF5OExrTXhvQWxWWjFnbDQ1b3hQR0czbFNOaDMwcVdGZlU3M1Q0YnZtMFE1aEw2QVotdS1DaXdmamxUOUQ4OHhDSS1HcU43T1pNNDBDeUVMUmhQZGQ4eUk0cDdKa0JscEYwU0doUElndWQ0NHJSU3VOZ3hFaUhFdjlXMHRLSVVLdlNFMkNHS2ttNDlZVEE?oc=5"
       ]
     },
     {
       "title": "Today News Headlines for School Assembly, October 30, 2026: ISRO to launch navigation satellite NVS-03 tomorrow; Netanyahu’s bloc leads in Israel election 2026",
-      "score": 35.92,
+      "score": 35.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZnFpVjlIR3JYUHd6UUIyRmNSWFhnTV9wNGpfTTRIMEgwM3Bhd3cxaG04dzhJcWJvUWhOT3pINndyb1IxdjJSVjg3V1labXVxQ0hOMTNVNHRwMUozYTFPQU9GWnBaWDEyd1NYMl9pMTQ5MFhkejZFUjNFOVRkSjR4M1VnZFJlNHc3d0oyV3B4MUxERnotbnlRbjRRQ2JEcXQzT2I3RzZYY3BvcXNBRXo3LW5kSllrUVBiNW1Ld05OV3l6ZWFqcjE1T0JoQkF2OUVObmdyaTNSVi1xR2g4MlMwWjVHNm4zRnVRV3duczgzX3BTM0pmckVpRFRXNG13aXdTVjAzWjV2cjNXLW5zRVdVQVdiMC1EMUVLSlQ4bzQySHZWVTQ5Mnd1UWZZS0lUbklUYmfSAbgCQVVfeXFMT2dmTFZGZWNyX2ZwWUo3NG02ZmhIcWhwVlotM0VYQVZ2NnplSEs1RldHV1pudkJydFoyV1JBTlZsZl9QbEVwbWdCZEp0NTFQdURkUjhNRWtoQ3VVN2tZWnJ0bngtTThweUJjX2FlT0pneXd3Ty1DR0xPLTdkbklxX2xSdWNyTnUxWS0zM3RzZ0cxUDNPckhqZm4yN3U2UlFCZkltMXNKYmE5U29kanh4WEtmYnlSRTFJSDJKZEplWmVGcmxhUlNqQzFYajNaU1lYTTFnZ2dMdkZYZlljOFB0b1hhSTE2X0N0a3hxdHd4RVE1eVktZjNvUzdGTE1EME44Skh2OFAtVTBVNlppVmhXWVhTQlNPRjB2Tk1RNFJockNxLW9renphSzRKaXBheHI4RW1qdWtNNHZY?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2U2dmhIUkIzbDFMZE1DVWNPdzZMR1czZlBoY3lKSmR5UHNFaDYtd040SkZCT3ZWRWhqYW9MakxkbFl0OGwyeEZMR3JfQ0RXNTBYak9MNEh0aXR5VlNiamdFQl82aTgxSndHRG1fSlhUaTF0Vkc4LWF0RnA5OWROWm1iWVBSV1ZFLUtYTTJ1c3ltRXpKOHRVN3dJeENiTzlXMjZKUHlROE9keW1pZVRQYmNmeG1aLTc0OFlpNkY2a9IBxgFBVV95cUxNdFlqbmVmSm53dmllQU5JTEk2ZWlqaVk4TXF6VW9ja0JHRzVRTFNWdmEwZ0UwX2ZGWGRScEtLbWtoUXdmN3J3eTgzbTRndzBoMUtCMEFDUG1YTTVHZlV3WC1EdE1CVC00M0dka2xWR1daS3RQYVpYaEZPSTNFcE0tQmJqNUxUY1pMU2x3NGpmSC1rZUZhTGgtRFM3QmJndkN3RF9nU3loQUhfeHpKWkpfYlV0d2FJbk05ZXlMMllWdE51dGNVN3c?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWt2N3Bxb3A1bklFVXZDQW5SbUhwbkFtdmdhcS1GWktSMmFwd3NiUHRkcEdZTGZSVzAzVmctWko3TW5ydk95S1A4UTQ0Y3J1allVbmRsWUtvTGMwS2Z3TlY0X3lnREplMzRiUGxfVUI5VGs0NFJDQkx4dEJnYXJTQjhNd2g4R0JTcC1VMmxqN2t1b2ZoMWU2ZDN3?oc=5"
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUC0tTFlfQnVLNkxvVHNGRVdvcmgxVWFyNkNEekIxM0NHc2hKelFoR1JWd3lsT3NvdVd4ZkFwVFZNUjR3R2ppY19XMXZ1VGNyUVFhRVU2TDFtQzgtWU1KUXFoZUV4SWp6amtmZFFRUXRmeWVQc2NnTkNHMjZOcHlfUTFadVNWOGM4ZDU0M3FzU3pIVWhlRnduM0xXT2tMa2huQ1QyVVM2N2l2ZjNKYmJFcmdXcHJQS091NkVTcDMydzdabjlEaWluQmx0dFEtMElPSjd5OU5VdXducGdPdGt6QTJBVjRKYm5wRzJta1BycjMyV2dDaEdz0gH8AUFVX3lxTFBpV09tQ2ZjejlVbkd3dGppLUdYeHVBMTFHUEkyTF9Cc3lydzRTZXJZb2cyLWE0WXBpeFJ2anB1MmFFMzBwRE9tWTJvUGphRHF1T3BidUpIeXBsUUdVd3E2LXlnc1hFSGZVX0JIekJWZzFuYTlqUzVfTnZvVUMtR19tYXAwZVJnRUlpVlN3VEJ1ZTUtaVhDOG96QWt4MF9weUctVGRkOE84MFJ0Wjhsa0Y2dEdZWGVFUGNSbUl0VkpraERrQjRlaWNhR0ZwREtkNFNubFhLSUlUaTJmdXR2T3hKS191R3NjbmZpblpSSVJZQndYUWtlX0UtSlo2SA?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2U2dmhIUkIzbDFMZE1DVWNPdzZMR1czZlBoY3lKSmR5UHNFaDYtd040SkZCT3ZWRWhqYW9MakxkbFl0OGwyeEZMR3JfQ0RXNTBYak9MNEh0aXR5VlNiamdFQl82aTgxSndHRG1fSlhUaTF0Vkc4LWF0RnA5OWROWm1iWVBSV1ZFLUtYTTJ1c3ltRXpKOHRVN3dJeENiTzlXMjZKUHlROE9keW1pZVRQYmNmeG1aLTc0OFlpNkY2a9IBxgFBVV95cUxNdFlqbmVmSm53dmllQU5JTEk2ZWlqaVk4TXF6VW9ja0JHRzVRTFNWdmEwZ0UwX2ZGWGRScEtLbWtoUXdmN3J3eTgzbTRndzBoMUtCMEFDUG1YTTVHZlV3WC1EdE1CVC00M0dka2xWR1daS3RQYVpYaEZPSTNFcE0tQmJqNUxUY1pMU2x3NGpmSC1rZUZhTGgtRFM3QmJndkN3RF9nU3loQUhfeHpKWkpfYlV0d2FJbk05ZXlMMllWdE51dGNVN3c?oc=5"
       ]
     },
     {
       "title": "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Oct. 29, #970",
-      "score": 23.85,
+      "score": 23.6,
       "kinds": [
         "news"
       ],
