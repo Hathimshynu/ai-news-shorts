@@ -1445,5 +1445,30 @@
       "qa_passed": false,
       "posted_at": "2026-10-29T14:55:42.227570+00:00"
     }
+  },
+  "2026-10-29-evening-1801": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/1cH7clQwTIE",
+      "facebook": "https://www.facebook.com/reel/5496802830544154"
+    },
+    "late": true,
+    "approved_at": "2026-10-29T14:55:46.172127+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-29T14:55:49.369564+00:00",
+    "ids": {
+      "youtube": "1cH7clQwTIE",
+      "facebook": "5496802830544154"
+    },
+    "info": {
+      "title": "Sarvam AI Funding Hits 87% in 2026 Tracxn Report #Shorts",
+      "topic": "Sarvam AI Drives 87% of India's Indic AI Funding in 2026: Tracxn",
+      "category": "Breaking AI News",
+      "hook": "One company took eighty-seven percent of funding.",
+      "seconds": 43.8,
+      "primary_keyword": "sarvam ai funding",
+      "qa_passed": false,
+      "posted_at": "2026-10-29T14:57:16.815995+00:00"
+    }
   }
 }
