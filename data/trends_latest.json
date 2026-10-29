@@ -1,75 +1,78 @@
 {
-  "job_id": "2026-10-29-evening-2300",
-  "chosen": "We're releasing the weights of Mistral Large 4",
-  "reason": "Mistral Large 4’s open weights let Indian creators instantly experiment with a state‑of‑the‑art LLM, opening up fresh possibilities for apps, research and cost‑effective AI projects.",
+  "job_id": "2026-10-30-morning-0009",
+  "chosen": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+  "reason": "Mistral AI's release of Large 4 brings a major new frontier model tailored for cybersecurity, giving developers and tech professionals a powerful new tool to evaluate and deploy.",
   "candidates": [
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "score": 20.48,
+      "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+      "score": 19.77,
       "kinds": [
-        "community"
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVVeXl0bmw1cnBiUkdkU2VRT2VPcWtxSHdNTmQxQ2xlOUxiSW1aY0J5eVd2T2RPYXJQdlEwdWpSSzBuRlZmcHlHU1F3LTVCVmo3ZzZqbXRDZ1pmaDdEMkd0OFIycWhkWXhydlQ4Z0UzZ3FHbUdaaXJOMGVSRFhwSkZRYmFGcWoxeUlQUWtBUVBlZXM3NkgtRGN0dE81LWxkMTRGVnFSSnJWUU83SXRONUJPQm84a0pl?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVVeXl0bmw1cnBiUkdkU2VRT2VPcWtxSHdNTmQxQ2xlOUxiSW1aY0J5eVd2T2RPYXJQdlEwdWpSSzBuRlZmcHlHU1F3LTVCVmo3ZzZqbXRDZ1pmaDdEMkd0OFIycWhkWXhydlQ4Z0UzZ3FHbUdaaXJOMGVSRFhwSkZRYmFGcWoxeUlQUWtBUVBlZXM3NkgtRGN0dE81LWxkMTRGVnFSSnJWUU83SXRONUJPQm84a0pl?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjg5NWZsYkFiWFk5R2ZRbUs4ZFJLemZwLU5fMDNrZ0w2WVlLVFMyZGQzTVlGZkJTWkhzREppbVlhOEtJaENVdlE0YmpHVUNOcExzQVlDTVRtT09YTGtURXFkckNLTkY4MG9seVpxdDU2NmpnWmpJYWVvR3g4dUs2bVFuNEJqeWJSQThnOThWUlg4N0xEbk9SS09ETHRuUVRBREE?oc=5"
+      ]
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "score": 24.61,
+      "kinds": [
+        "news",
+        "official"
       ],
       "primary": true,
       "links": [
-        "https://mistral.ai/news/mistral-large-4-oss/"
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
+        "https://openai.com/index/updated-model-spec"
+      ]
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "score": 21.74,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
       ]
     },
     {
       "title": "How we detect frontier model misalignment",
-      "score": 24.69,
+      "score": 26.4,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
-        "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5"
       ]
     },
     {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "score": 20.03,
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "score": 24.74,
       "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-      ]
-    },
-    {
-      "title": "The future of the firm",
-      "score": 31.26,
-      "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTHZXbm04X2k2ZDllZDlHdGFPNEZkVVRMVktnejlESm1aQ0Q1TVVhN1NIR1dpOXRwVjB2NGdTWUV5RThoR19ZWjl4TC1LWFVJMWQyUGtHV05VUHMwbW8xczlfNU1pRWl4bTkyU3VndUZwekRxdUx2NTU5eW5ydTNVazR1VC1kMF9UdTQxTkhMbTRXWDBxYmlVYlJ5c1g4N3Nob2UtVndndExvcTduVUtwTWxaWER6WHp5VXhDYzFqTEtFSjZzVDM0VXlwV0xOaTNZVFJ0ZWFYLUttUk5TNkZiV3lkV0N1QlM4TGpHX2lld2rSAeoBQVVfeXFMTkFacl9xVU8xREFsanB5TEZRVTFaelg1MFFIMThqb1JGZ2RfQ1g1bS15ZDNab1BYX2tDUjlYYlRyMDZjQUU4c0tJZDUyNzJJUElqOUVFN2d2LXRRc1RTR1A3cGx3M3dvaDBOeHFpTHlaYWZwbEwyMUl3WFJ0U2sxSFZzVDdRbGxOYmZyTVUwdzNvOFk3dUZQZHUydnBtc09CZk9FV1Y4RUN4TVlJYll0SFgzYXpHRnhPZTJxaHp6R1JnNVpiTEFMZDVkdXRPbE1HWGJwb0c3LUZ4eS1iY0FYNnNrRi11RnA2Nkd3?oc=5",
-        "https://openai.com/index/the-future-of-the-firm",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5"
-      ]
-    },
-    {
-      "title": "India isn't out of the AI race as private equity investors see promise",
-      "score": 20.13,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpvWjZ5eWVBOTU4UnRTZDBfbVFuYzNNNENnRGRXeXZxX0t5al9zbzNZdjYxZnAxc1djM1d6blRoYTBmSGdUTWdMSUtvak9HRERtMEhVMU9lbG90a2JzQlVrZzlzakk4Rjg4czRVVmxUc1pfRGF4WEdGcTY2NnpEZzdxN2N6aGVTcE12YUpadTg0aTFRSEhraFlNanAwZUJMOVN5MGZnZjJCTk5EN2dKNVlYYm1zN2ZjMTVma1FkVTZtRVN0M1E?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5"
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
+        "https://openai.com/index/ropes-gray-ai-diligence"
       ]
     },
     {
       "title": "ISRO to launch NVS-03 navigation satellite on October 30, 2026, enhancing NavIC services across India",
-      "score": 43.8,
+      "score": 41.51,
       "kinds": [
         "backlog",
         "news"
@@ -82,22 +85,63 @@
       ]
     },
     {
-      "title": "Venttup Raises $3 Million in Pre-Series A Round Led by Rainmatter",
-      "score": 21.28,
+      "title": "India isn't out of the AI race as private equity investors see promise",
+      "score": 19.84,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG45LVZxaEdrWFpzN295MGhPc0t2TzlsRVdjUGZaSkF3WFFBTExkdVpWdTNiSTU1cGpyU2k2RG1sWGVUc2o1RmtTbkVzY3RLZEJYejVxTHcwUDdQc3JLaUhNcF9YMTZZV0kwbE9vbkprZ2JMamJnR3VEMEF6NmZJdG8yRXp1bF9xbDRrVi1CendMYUhyS3M3TjYxX1RqOFJ0U19hQjVTeHRlaUZoVmJBZGxmRk9NdTFkdFh1bS00d2lWRGxha3lkNVkzd00?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUmE1OTdaay1TbmxlY3F0bEdvUmZxS0loZXVSdUNURVRkejNfRVdoR2ZMcGRLOTVTZGhrWXloSDEySDNNb3QwNzh5dnVYajl4aEVJUF83NlZpWTBwYzdDN2cyLTNaZVBnTm9VbHYxa2NRQnBwWXpOd2JUcmY1OXR4cG96UUJwdFR2Q0ZjeHhYY2NPWVZLd1JBd0ZmMDk3a3ZjakRhNDFaTklMVnpZaUhQdUZ1NHM5bmpLdFh0QzZJS0xSWl9icXROTE9yVF92b3dIWWxNaTlGeTdQT0g2WTY3NDNiYkVHQkdDWEHSAe8BQVVfeXFMUDdpR2ltUG5PclpGZnFROTdDQlFJOHVmU0ZsVlBVcUtTVlBWNnJlV3BoMEY3Z2FrdjFoaF9ENmFQQ3dHdkdGVEtnVHhCdTNaQ1U2TmJMVXJEbDBGam1wNlIzaDFRZkdrdWJObzBMNGlRakx0UHdMeEMxUVVRRWN0YzhpMUV4ckFucmNaWW1iSngtNm8tRVVNNmlaWTNGdER0TjBtM2xPUTY1RTRvaU1KZTNFelQ1bVhTZ1J1M09kZFZhaUtvNEhvbVZqNW9jRE50VlRLVERETVktT2dqTUl4VlZpdl9Wa2NXVkpjTmdUd00?oc=5"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpvWjZ5eWVBOTU4UnRTZDBfbVFuYzNNNENnRGRXeXZxX0t5al9zbzNZdjYxZnAxc1djM1d6blRoYTBmSGdUTWdMSUtvak9HRERtMEhVMU9lbG90a2JzQlVrZzlzakk4Rjg4czRVVmxUc1pfRGF4WEdGcTY2NnpEZzdxN2N6aGVTcE12YUpadTg0aTFRSEhraFlNanAwZUJMOVN5MGZnZjJCTk5EN2dKNVlYYm1zN2ZjMTVma1FkVTZtRVN0M1E?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzJORTd3ZUlESTRieENJb2JUMFJRNmRvYTJPSktOS1VNZ3UwRzJlTW5rWTI1QWE1cGRQRXg0X1c4MzB4RkNjZHdZUG0zTVpqOVNZdXhIaVhfZGR1dFd0blUxQmtsSjl0YjVUUjBJd1VxVE1TVDdWbU9KZHBJZU5XNC1RYkNhckVWM3pLbG45MnBKYzh6bUF6eGU0SWdQVTlwYlVaOFpFQUk0N1p3c2NZMW9R0gG3AUFVX3lxTE04eHlVSHRJek85UVRpNEphZkxEUm80NGtXM0tLc2hEWHc3Vy1XQmdOTnpucGFUWnVOR2RsREhxMUNMUG45Z1NrMWNpZERma2VQMmlIWUs4TmFHeWhTUlljNUoyT0NMVEVHTHVxdVB6cTBfZV9PRmNPLVZHcTJCLTlMT25ONlY3azl2YW5IdHAtVWM1ZnEwdXkwN1N2YWFxTElEYkdBdHJpYVF3SEY5SXdMN19Gam8wMA?oc=5"
+      ]
+    },
+    {
+      "title": "Karbonn to re-enter India’s smartphone market, targets Gen Z users",
+      "score": 25.96,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjZQbnBUbEhEZjVNVE1pTFZCQVgtTnhCdmppcEh2dmpqLTUxMlJuenM3M2RFUE9fT3h4X3Rnc0VrYmJ5dF9QbTZHM3ZUdVl2aHJUN2Z4bVFVbHdsbWgtSE1HVmdSam5HMU1KZFRVX3Q4QldSR0ZGNG5rM1dzS1QzZUlDQ1UtY2R2VjZ2dm5hdkNFdE14N3VGWGU0MGFoZ016TVVCYjhuclJVVVZhNWVNdnB1QWpEM2F2eUVXTk1abnpjd9IBzwFBVV95cUxNY01tNWZiU2I4d1Z6VGZTMmlnb1BPS21fU1AySGY4T1NoLV9rY3JuWG10Rzg5Z1lmQm40X1FaaXZ0WTFKZ2F6REdtcUxrSFZ5VmFpUXVtZk5ncG85NnBxMUw4ZEZIOXMyWFhPSlZSS00wMXI1R3kxaGxfUm9RVVZsY0hSSDZ6MkFobEh2dkZRM1JLX05HOWcySlUyZTB5UTA5UkRsdUxqV3N1X1BfSzNBNjlSd0k0bWxfTnJOMVI0WTNoRGg2NG9FZVVfQllBT3c?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFJ3d1YzTmFHSTk4ZTlWZmpUSDVRTzB2SXI5LURFZHBUZ0xGOEVmUWhBZ2luNU1lcC10YnlUU3pHdThGOUstZVNxMk9jUWpZc18zTjZvU2ZOUmU3RjRPMnJESk5GSElOZ09OUUhmd1hYNzY4OGV2eDRPTG1SdmR0RVJTRVBsNm1G?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFpOTEN6bXlDVG5mcWNSOTZxQ0QtR21JckliNDhDaDEtTlBFLUJWZU45MVpPUUJzWXNRVnVUZXZ6dXFZSnk1V3ZqU1hTUEdHWlNQUzkyOXdmaXJaRThiMXNiNUI2WTdCZ21mYXJXUlZWckx4MGdyOXkwNS1ncGJkcmZyOG95cU5ZSndnV2t4ZEZmWmE2V1FjbkYyVGpSWWRzSExwcW9BNkFDc2lWQnhZYmdwVGhmcXRqbl9v0gHAAUFVX3lxTE52TFk3bXAwSHJsX2FmbG53TFM2YTFHbTlCb0g3cC1xcGg0eVI0eWxubklFSHdTMFpmSXZ5RVZHTEpnaVBXSnNZNVA4OGZ4YjAtbHFYNno0aGNQM2xwV3NORHFGVnYtMUtrajZXMTlFZlVNQ3lxMTU1emV0UUloVjk4SC1QcGxWNGZvdjB0bUJ0a1p2WWVuQl9rWlk0cDFlLWgzZzYyQVItWDBESUJLTDVPeVRHejNMTTliUENHc2dBRw?oc=5"
+      ]
+    },
+    {
+      "title": "Webhook IP ranges added to the Meta API",
+      "score": 20.64,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api"
+      ]
+    },
+    {
+      "title": "The future of the firm",
+      "score": 30.97,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTHZXbm04X2k2ZDllZDlHdGFPNEZkVVRMVktnejlESm1aQ0Q1TVVhN1NIR1dpOXRwVjB2NGdTWUV5RThoR19ZWjl4TC1LWFVJMWQyUGtHV05VUHMwbW8xczlfNU1pRWl4bTkyU3VndUZwekRxdUx2NTU5eW5ydTNVazR1VC1kMF9UdTQxTkhMbTRXWDBxYmlVYlJ5c1g4N3Nob2UtVndndExvcTduVUtwTWxaWER6WHp5VXhDYzFqTEtFSjZzVDM0VXlwV0xOaTNZVFJ0ZWFYLUttUk5TNkZiV3lkV0N1QlM4TGpHX2lld2rSAeoBQVVfeXFMTkFacl9xVU8xREFsanB5TEZRVTFaelg1MFFIMThqb1JGZ2RfQ1g1bS15ZDNab1BYX2tDUjlYYlRyMDZjQUU4c0tJZDUyNzJJUElqOUVFN2d2LXRRc1RTR1A3cGx3M3dvaDBOeHFpTHlaYWZwbEwyMUl3WFJ0U2sxSFZzVDdRbGxOYmZyTVUwdzNvOFk3dUZQZHUydnBtc09CZk9FV1Y4RUN4TVlJYll0SFgzYXpHRnhPZTJxaHp6R1JnNVpiTEFMZDVkdXRPbE1HWGJwb0c3LUZ4eS1iY0FYNnNrRi11RnA2Nkd3?oc=5",
+        "https://openai.com/index/the-future-of-the-firm",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTHZXbm04X2k2ZDllZDlHdGFPNEZkVVRMVktnejlESm1aQ0Q1TVVhN1NIR1dpOXRwVjB2NGdTWUV5RThoR19ZWjl4TC1LWFVJMWQyUGtHV05VUHMwbW8xczlfNU1pRWl4bTkyU3VndUZwekRxdUx2NTU5eW5ydTNVazR1VC1kMF9UdTQxTkhMbTRXWDBxYmlVYlJ5c1g4N3Nob2UtVndndExvcTduVUtwTWxaWER6WHp5VXhDYzFqTEtFSjZzVDM0VXlwV0xOaTNZVFJ0ZWFYLUttUk5TNkZiV3lkV0N1QlM4TGpHX2lld2rSAeoBQVVfeXFMTkFacl9xVU8xREFsanB5TEZRVTFaelg1MFFIMThqb1JGZ2RfQ1g1bS15ZDNab1BYX2tDUjlYYlRyMDZjQUU4c0tJZDUyNzJJUElqOUVFN2d2LXRRc1RTR1A3cGx3M3dvaDBOeHFpTHlaYWZwbEwyMUl3WFJ0U2sxSFZzVDdRbGxOYmZyTVUwdzNvOFk3dUZQZHUydnBtc09CZk9FV1Y4RUN4TVlJYll0SFgzYXpHRnhPZTJxaHp6R1JnNVpiTEFMZDVkdXRPbE1HWGJwb0c3LUZ4eS1iY0FYNnNrRi11RnA2Nkd3?oc=5"
       ]
     },
     {
       "title": "Wobble Speed 5G India launch teased; will be priced around Rs 20,000",
-      "score": 20.75,
+      "score": 22.46,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -108,52 +152,16 @@
       ]
     },
     {
-      "title": "Karbonn re-enters India’s smartphone market",
-      "score": 20.56,
+      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "score": 19.72,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFJ3d1YzTmFHSTk4ZTlWZmpUSDVRTzB2SXI5LURFZHBUZ0xGOEVmUWhBZ2luNU1lcC10YnlUU3pHdThGOUstZVNxMk9jUWpZc18zTjZvU2ZOUmU3RjRPMnJESk5GSElOZ09OUUhmd1hYNzY4OGV2eDRPTG1SdmR0RVJTRVBsNm1G?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFpOTEN6bXlDVG5mcWNSOTZxQ0QtR21JckliNDhDaDEtTlBFLUJWZU45MVpPUUJzWXNRVnVUZXZ6dXFZSnk1V3ZqU1hTUEdHWlNQUzkyOXdmaXJaRThiMXNiNUI2WTdCZ21mYXJXUlZWckx4MGdyOXkwNS1ncGJkcmZyOG95cU5ZSndnV2t4ZEZmWmE2V1FjbkYyVGpSWWRzSExwcW9BNkFDc2lWQnhZYmdwVGhmcXRqbl9v0gHAAUFVX3lxTE52TFk3bXAwSHJsX2FmbG53TFM2YTFHbTlCb0g3cC1xcGg0eVI0eWxubklFSHdTMFpmSXZ5RVZHTEpnaVBXSnNZNVA4OGZ4YjAtbHFYNno0aGNQM2xwV3NORHFGVnYtMUtrajZXMTlFZlVNQ3lxMTU1emV0UUloVjk4SC1QcGxWNGZvdjB0bUJ0a1p2WWVuQl9rWlk0cDFlLWgzZzYyQVItWDBESUJLTDVPeVRHejNMTTliUENHc2dBRw?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU05EVFJJOFYzQmVmM0dueWUta0ZuQy1nelVTRkpRdF95WjlJMGxIQ3llRHZMQjZqNnN2NW51Xzdfd0RjLUdMbXF1Zzl5LXhIcm9JNV9pd0pfSFUxTGswN2lCeXQ2RVhtdi1NWU9oc3MwTEFGUzJHY0tLMzluaGVpSkx5Q1ZaUEtGMW9DX2dkY3JPRVc2YVdVeUdOY3FKOXl3RFJBVU9lN2hjX3NfNk1NU182R1dMc1M2YjZsME5jUG1qNDdjNUVKaUZBLTBRZFnSAdYBQVVfeXFMUDhYTXVPcEQwUVc5am8ydmxVZzZZcWJEMm1tN053MU5VVm5NaFExSkcyMVVHa0FWVmljaVhYZU9LWDRMdWIzWjN0MUJXWmZ5M2IwRmhzVnhzZklIV05xT2RGZ1JfY0ZiaEl0MHljWUU3Q3hMOXkxc2lYRkNibXFiTV83TENBWVlhTzVCS3FCM1RKcU5TR0t0anlFNkFEOGR6SF9Rdk9EM1Q0RVBuM1JGanhXTUNmZjktWFcwSkxDN1MwbDUtYnVFTzlIY0p6Yzlva01CSy1pdw?oc=5"
-      ]
-    },
-    {
-      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "score": 19.87,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/"
-      ]
-    },
-    {
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "score": 19.37,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkRXUlQwRTVLT2h5aTl5WmNobDZ2ZnptNzdsclYwS2dSaTd0ekxnU2RvRTZkU0pzLTBvWUUwaHpSWlh6dFczOW83QzZQVTVZSXRfZzRqZUI3ZDdRbXJlUzdobEtlWnlKVmtwWG95enZZaG5YVDZWR3BpRU5SQmhZVjBJSTdGR0hwcmJvMUszVEZVTG9Kb1kwNjZBYkg?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkRXUlQwRTVLT2h5aTl5WmNobDZ2ZnptNzdsclYwS2dSaTd0ekxnU2RvRTZkU0pzLTBvWUUwaHpSWlh6dFczOW83QzZQVTVZSXRfZzRqZUI3ZDdRbXJlUzdobEtlWnlKVmtwWG95enZZaG5YVDZWR3BpRU5SQmhZVjBJSTdGR0hwcmJvMUszVEZVTG9Kb1kwNjZBYkg?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkRXUlQwRTVLT2h5aTl5WmNobDZ2ZnptNzdsclYwS2dSaTd0ekxnU2RvRTZkU0pzLTBvWUUwaHpSWlh6dFczOW83QzZQVTVZSXRfZzRqZUI3ZDdRbXJlUzdobEtlWnlKVmtwWG95enZZaG5YVDZWR3BpRU5SQmhZVjBJSTdGR0hwcmJvMUszVEZVTG9Kb1kwNjZBYkg?oc=5"
-      ]
-    },
-    {
-      "title": "GSLV-F18/NVS-03 MISSION",
-      "score": 19.33,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFJtMFctMnFXTlhfWWZqaDBCMXFLenJfd1l5blRpcmJVRGJ0UUs4bV9DM1RwSENDS0V5a0R6YmJPdG4tVEJkQTZTWUs5NTFNMm0wMTNHa1lRVl9qRlhVTGxsMFBRbGoydzJidG1KUElUZkhQbHYtUEhFaWFpZlg0MGZIbWtVRmxtWWlJZXU4WDJ1M2x6c0p0cjIwcWtaYXd4QTVLYkRhbTRMNFk3QWhqSUlTUHNvWE56ZHBCUkphalNYbG5uVFJZUA?oc=5"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb1R1dXpIMEo5b1BFek1oVjFGNi1lUExDYldvZGN4R1RJVXJkUERja0I5eE9aR1JiOHoyQ0ZCM0tnb0xHUkNfejRaQm1SSnJrSmMyY21wcHJGQTQtemlTMWh3SE41UE14Mk1TU1pqTXBqdlFHa29tVnd0dWw5NWtRS19rcm1QLVJCSWlvMlgzVzB4cVJZNUI2WjdXbEd1SjI5TmltX3ZaY0xQSm5KSjZFVGdGZ1ctbVV5Yng1YUszSXZiUGR4b3JldlBwUFlET19TanfSAdcBQVVfeXFMTlJROFZ3NjlJV2pnNC1PU0lwY0xEaWZJdU1Hajd0M0l1Rmh2UWpsYjlOaWQyOFFRT1NkNjdzZkY2aTVjb296bGFldng0cmlRbW5zNTMwWV9IOXo1Y2NmXzk3NXZja0c4RjhNZkE5V2RET190ckl1OGZZb2R6cXY5TXpoYjRVZzFndEI5NWgtZ21TTWxLMUlmbTE1VUQ3VG9ZUWRVanRlTUNFd1FPa2x0M21lS2V5ckVfb090YWYtcXFtVDRTSk85Z3lkWjdCZnZCTDZxQUFVcUU?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzFfVlQwVDRWSjYxTGRTbjhqX0VXVzkxUHNHOHQ0ajRMMVFXME9TMU1Jc0w5YkZMY2ZpWE40MmQ2bW5MOUV5WGhyVE5aeHFGY1RhTENMN1U0UUg3Z053c1JSZ1FJMkkyVHczZ3R1Z1l0R244eHhNbS1vVnFnNEpMcFBfNThtTnZjVXZVd2ZZdjUtMENMSTJ5SEg4YTFGMFo4OFhFZnRnZEZvUWVzMVA1LXA4VTBIZDlnQmUtM013X2g1ZU80S1MtRHl5eFlfZw?oc=5"
       ]
     }
   ]
