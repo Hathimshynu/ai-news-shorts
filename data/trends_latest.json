@@ -1,49 +1,76 @@
 {
-  "job_id": "2026-10-30-evening-2236",
-  "chosen": "How we detect frontier model misalignment",
-  "reason": "This official research dive into detecting frontier model misalignment gives tech enthusiasts a crucial behind-the-scenes look at how leading labs ensure next-generation AI systems remain safe and controllable.",
+  "job_id": "2026-10-30-evening-2341",
+  "chosen": "Cursor shuts down extension marketplace after malicious Claude Code puts 5,000 users at risk",
+  "reason": "This urgent security update alerts developers using Cursor and Claude Code about malicious extensions to help them protect their automated coding workflows.",
   "candidates": [
     {
-      "title": "How we detect frontier model misalignment",
-      "score": 19.0,
+      "title": "Cursor shuts down extension marketplace after malicious Claude Code puts 5,000 users at risk",
+      "score": 20.9,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU09OdGlRQUN6UnZtd0dDVGhDOTJsQ25kV0lhalNVZEYtVVJlR0xxaEJCeG5VZ0FqSUZFSmw4a0tGc2E0M3piaU5uOUNMLWllTUlmRjQ3RklCSDNoX0lRbVNTMUFxeEkxOFNXa0xyaU1FNEJadjZ0NExwd2RwSzJIYjFqaG8zR3Q0dGxrRG9DdWlEWFZQVE9XWEdjOTl5MklCclRxaXV1dW9LUEFNa3B3WlludkJqSjliZE85cUpoQ2REV0RWdnFVSjAteWtOSmlaOU9YY211VmloaEXSAeABQVVfeXFMUEpmQ2J3cjBKS3pxLWNWNHdGNTVZb0NKWVAxUzFNMDhnNDhEeE1xbGxqUWZVSEYyeF9KSmZnZnYzQUdMYXgycmw0clVONlRfS0gxMzJkcUM0ajFnakYxQ2Fib0pGZ2hqNGIxVnl5b1B6V0VTZkVXZmVOOUZlWmpYaTEzT1NWb3hKYjlaNmd6eENLYWUxSklGMjBQWElQZmFxUXlDOERfekwtVE14bW5GclNKdHN2ZW9vRU5ET0t5d3djdWhLZE9za1VUQW56Z3lrcFJ0cjZ5UU1aOU5sWTQyR1U?oc=5",
+        "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+      ]
+    },
+    {
+      "title": "UPI payments enabled to book tickets online for Burj Khalifa, Singapore attractions: Finance Ministry",
+      "score": 21.94,
       "kinds": [
         "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV0dQeGNNYVBMWXVYQTNsZG1sd3lJZmxJck52SEdKZF9hZGQ0SkRqdGVheWFsSFgwcTVUVWJELXdNQUlTNnJsUkhmY2lGWHVOTnR0YVN0dmpGV2NTU3QtTUYxZ0JnRVM0VDN3OXVINXJsYVVOMXhsNEZpN1NNajJBdG1WREF1RW1KSkNNdUp6YTFLckZER3dLZ3dWbl95NVdlVXJmbUxlMmpYbGg5NG9yamFld3U2NmVOU3NFVkk3b3B3Wm9zR3YzUHhJS1ZsYjlkXzUwZWhYVlVVendkcXc?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT29WcTRmN0dfZGhFRVRXeXFYcWJ0anpMQndlekFSOXJVaUNrLUdxY1ZRSFAwVFZVYUxPdklCRkYyX1VSR3NNSGV5elc4YkNmajlfYlRWYXhmM3dESHdETUJDQmZRU2JRNWxKV3diVkp2SG1MLUZaSUV5ejNJUlRuMDdTS0FhN2pQTjdTRTl3S2dvakNFN3BkOTg5ckNqLWZGTmhMU1BIVGtvUmV1a2lDZElFZW03d0ZxdnI1aVFOMVVMWWxZYUFscUJDYlJvSExYcG93NEhn0gHbAUFVX3lxTE9lMzdERWJRT3RFb0JaOXlRODg3R2ZzbnlXRkhoVW4tUkkzRHlNWTRRU0N6MnU0M01IT1VEdmRMWDBCWDkzVVdhd0J3ekdqUkkzdFZsSmk1VkdLcGZIUTJuZ0lNX0V4aVFJM2xuX2RwNWVJNmVQZVUtYkhqcFVJSWh6RjVDOHFxMjZRdmdNUnpZWmk5ZFk0Nk1zUjVLSmpDc29rNWlrdElncFRmdk5WZXpUay16U1FrN3pmRjk5UV9DSGlmWHk3ZmlodEZuLVQxdWY1d1RsdEtTQXJaMA?oc=5"
+      ]
+    },
+    {
+      "title": "nemotron-halloween",
+      "score": 20.94,
+      "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5"
+        "https://huggingface.co/blog/nvidia/nemotron-halloween"
       ]
     },
     {
-      "title": "Govt Allows UPI Payments To Book Tickets Online For Burj Khalifa, Singapore Attractions",
-      "score": 19.93,
+      "title": "UPI Enabled for Online Bookings at Burj Khalifa, Resorts World Sentosa",
+      "score": 23.73,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT29WcTRmN0dfZGhFRVRXeXFYcWJ0anpMQndlekFSOXJVaUNrLUdxY1ZRSFAwVFZVYUxPdklCRkYyX1VSR3NNSGV5elc4YkNmajlfYlRWYXhmM3dESHdETUJDQmZRU2JRNWxKV3diVkp2SG1MLUZaSUV5ejNJUlRuMDdTS0FhN2pQTjdTRTl3S2dvakNFN3BkOTg5ckNqLWZGTmhMU1BIVGtvUmV1a2lDZElFZW03d0ZxdnI1aVFOMVVMWWxZYUFscUJDYlJvSExYcG93NEhn0gHbAUFVX3lxTE9lMzdERWJRT3RFb0JaOXlRODg3R2ZzbnlXRkhoVW4tUkkzRHlNWTRRU0N6MnU0M01IT1VEdmRMWDBCWDkzVVdhd0J3ekdqUkkzdFZsSmk1VkdLcGZIUTJuZ0lNX0V4aVFJM2xuX2RwNWVJNmVQZVUtYkhqcFVJSWh6RjVDOHFxMjZRdmdNUnpZWmk5ZFk0Nk1zUjVLSmpDc29rNWlrdElncFRmdk5WZXpUay16U1FrN3pmRjk5UV9DSGlmWHk3ZmlodEZuLVQxdWY1d1RsdEtTQXJaMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1NQZ3JuSTNZZTZETTFWdHVqV1BLWlY1U09BUHJCYVB6TV8zVEpiSjJJN0ZUc0doN2t1NmR4M3hBNjBDc0xVQnRPQjBWTW81bGZiVE1yZ00wZEg0ZmpXeXg1cjFCamJOSG1jSnNTS25haEZrV1hCYlpfazBVVlNlb3FNSFA5X2NxQW11UXluMzlzU1FhSlRuZXJaYUExRVY2akE?oc=5",
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWWxtRDVVbzdiSnl2WC1MbmdMd09kSExTWGhLSTRWeDQ1R1ljd0tKdXhGNVNLX2c1Ul9DdFp1SFc4MVdmMHJ5YnVTeFUwVTlCM3NSOHlqX0ZkcFBCUjNYQmgybGVfZkZjWnJKS05mXzBOVWFtMjZqZTg3cjZlZ3pWRjlhaE9ROFM4ZXZoTUtEZzdiRnVlY05KNE9FZnk3RzdDMVNRYnVFSjZ1ODFwSy1vcGp6Z2dwR0hzNVRKUncyM21kZDB4UDh5Tkh2YmlRVWRzR1M4eVJtc3F6SV96NDF2UnJPR0t3V21yaUQ0bjBfcE5IazROS3V3b05HR29ibUdf0gGGAkFVX3lxTFBFaUlWVVJtejc4Y0Yyd1E1WVF4a3ZxZ1hRNkZqYk9vVnAwNmhvZVIyS2pycWxEOWgtZEc2akFEVHJjZmxMSF84NnRxMGtpLWtvVGZOdHFoRldDcXNqaldEVTlGbzZhZno4QktkNXVHLVhQMlBkVFo1WGRiSWd0ZlBxdWQzbGJpdjk5bG8wQVRPc0ZFdDdPY1Ayc2NkNnQ0aDFHUUd3Y3NfTVhCSFREeXVzY1NpeUJmM2ZwYkwzTjFBNUlNMXZzZ2ItcGFzTzhrUWJFaWwzTzUtNUQ0T0dQQXhSa3lVRERMdkRJN29hX3h0b01PX29sWGNZVHdVNTVmWU5TQUJHZEE?oc=5",
         "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeGcyamczT0FjOUhoM1RndzJOTkdULUNrYTk2Q2dlSlJ4bGtmY0drS0NYZl85RmJIVFIwejZmQlZyRVl4Q1p2eVZSRUlyTVhnNC14SzA1a3FGY3RjOGVhRGRDOV9XRDBFT1A2ZE5kQ251R1ZmWTlGdXBtY3JvVThITldiVE9HX1VVZzI5UGdnc1FVMjVtbTBIM0NNbUlab1ZTQ3h6c0h4Rk9UREpTV3NnNTdUdWhTVXoxalI5cm00OGwyNEstUzYzbzI4WU41RGtoVENhY1NUUjlyNk00SUhxaVl5OXdxRUJuZTFjdEtSQl9rZkFPS0hpd2pWZ9IBgAJBVV95cUxQbTQ4cHUxTjc1WmE1NHVETUVNWTdEUVd0STc1bk5LaUQzVmktdGNQUkVKQ0JsamM4SC1xWVV5aXpyc3FrZk5Ja3dxdUNlWWdibTRfR3lxb0dxZk1MMXRiR1ozUmFMTEV6Z1BMNjQ3UGtSVk9MT2RQQk1YZHJteGI0eWRNMmprRWs3UlNTaGtMTzFDWFg0MjJORG1Zenc1ZlZxVUk2aXJiTl8xVG9EOThycUkxb0VPLTlWVW0xZzhiQmlZNVZ1Rl9XaUtNN1hjUlFJemRjS211aHhLVGxlWUo0cV9sY3NNN0hBc0xzd1EyYkExN1hTTDFDaWk4bW12STl5?oc=5"
       ]
     },
     {
-      "title": "Google DeepMind’s Alexandre Moufarek on AI and Gaming",
-      "score": 19.76,
+      "title": "The future of the firm",
+      "score": 34.93,
       "kinds": [
-        "news"
+        "backlog",
+        "news",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnNiZDlXU3c2WGNSRDlzQXhuWmFSZFRMeld1Q3BiQU81bGtxWWE0MVNPTVEtcmFZYm5VR3dGWXhtRFVPbm8wSl9JcXhFNmdLaXY5R0VaNlc1R1BUMFVjaVZJRy1lODNmWXltbElpVElnNnNSaGZDeG03OTdfZ0pQNWhlT1I1UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnNiZDlXU3c2WGNSRDlzQXhuWmFSZFRMeld1Q3BiQU81bGtxWWE0MVNPTVEtcmFZYm5VR3dGWXhtRFVPbm8wSl9JcXhFNmdLaXY5R0VaNlc1R1BUMFVjaVZJRy1lODNmWXltbElpVElnNnNSaGZDeG03OTdfZ0pQNWhlT1I1UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnNiZDlXU3c2WGNSRDlzQXhuWmFSZFRMeld1Q3BiQU81bGtxWWE0MVNPTVEtcmFZYm5VR3dGWXhtRFVPbm8wSl9JcXhFNmdLaXY5R0VaNlc1R1BUMFVjaVZJRy1lODNmWXltbElpVElnNnNSaGZDeG03OTdfZ0pQNWhlT1I1UQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdXhHQXREaUVGa2JxYmdTMTBLNWlPTUgwZTlZOXhoa04zSUROSDFfbC1uQ2RiS0pmNThOT3FBYmxPRmJkbjd4MmNBYXdFbGpwRGRRdDJBY2FxLTBkNjZrb19BZlJUY2k5Nk9uc1h3ejZZN3hwREFGZVN0Zzc0REtxUzVLM3dzaWc4dVAwRDh3bHZBZzlXdUhGRGlSUU5ObXpCQUhkWVlFMDd2Z2p0ekwyZGZuYWVCeEN5VnJ0emlQamZFNTZiTzBOVkNUd0xha25jb1pseFJJbW41Y0EtYlZRTUtiS3XSAeoBQVVfeXFMTkFacl9xVU8xREFsanB5TEZRVTFaelg1MFFIMThqb1JGZ2RfQ1g1bS15ZDNab1BYX2tDUjlYYlRyMDZjQUU4c0tJZDUyNzJJUElqOUVFN2d2LXRRc1RTR1A3cGx3M3dvaDBOeHFpTHlaYWZwbEwyMUl3WFJ0U2sxSFZzVDdRbGxOYmZyTVUwdzNvOFk3dUZQZHUydnBtc09CZk9FV1Y4RUN4TVlJYll0SFgzYXpHRnhPZTJxaHp6R1JnNVpiTEFMZDVkdXRPbE1HWGJwb0c3LUZ4eS1iY0FYNnNrRi11RnA2Nkd3?oc=5",
+        "https://openai.com/index/the-future-of-the-firm"
       ]
     },
     {
       "title": "Leo India's Aryaman Singh wins The One Show x Google AI Creative Challenge – India Edition",
-      "score": 21.95,
+      "score": 21.68,
       "kinds": [
         "backlog",
         "news"
@@ -56,39 +83,38 @@
       ]
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "score": 21.13,
+      "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push By Reuters",
+      "score": 19.92,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "launch",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
-        "https://openai.com/index/ropes-gray-ai-diligence",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5"
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcHl2WjRZeGFaRmRvNVYxZjlEcUt3WDRaS0tfQm1qTi1Kd3AzZUthOFpvb2N2Q2dzWkVJTVUyeldzNmtpRHA4RHVzRXdYamNoU3k0WHZ2V3RvcUtCMVVOcm1xZjBqbTRMaEJQQ2YzbEVFSmNxOU5sZlhLUmFvMUluSlhkeEpvLWlaZ2UxZHdndHR4bEE0V0NDcElZOEg0OWZEempmN29aWDZIY1BVQXFDeVBQcDV4cmh2WTZkZ2h0Y2habGxkN2daVXBnS2xXS0NManVwbEw3aw?oc=5",
+        "https://www.producthunt.com/products/floot"
       ]
     },
     {
-      "title": "The future of the firm",
-      "score": 28.44,
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "score": 22.47,
       "kinds": [
         "backlog",
-        "news",
-        "official"
+        "community",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamYyUGxoTHlzU1F5NHVWZXliZ2JJMjFQNlNPbmtUZnE2UGxPRTNqSjYwYV9ObW9VSGVLSHB2a1I3UVljSXJJam05Tks5alhXanV3NVF2VzBxekJvWjdOYTdhMEZCWG5Wamw5N2c4VVAtWENUdG94cW1sZlRCblZCWU5vZmxkeUVSREE?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
-        "https://openai.com/index/the-future-of-the-firm"
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
+        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5"
       ]
     },
     {
       "title": "Zerodha's Rainmatter, Unicorn India Ventures invest $3 million in precision manufacturing startup Venttup",
-      "score": 20.18,
+      "score": 21.91,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -99,60 +125,33 @@
       ]
     },
     {
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "score": 19.97,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
-        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
-      ]
-    },
-    {
       "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
-      "score": 24.03,
+      "score": 19.76,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHMyMGstaGF4RTIwcXZuVTlENGJQempzT3ZnX3dYckdlRmtqa2todHRqNVBEY0xWaWc3NDEtNm9XSEwzM2tTaWNOYUVpSTh4OVlHRHdsUlhla1Ewb01aY0laRlRkWG1WZGF5cUo5b3I2WG9BTkxNdmJfMUhWTnRJOGFhYTllb1k3R3BDQ0hTWnBIckgzZEFsUTdlTV9FZEltMkhZVGlNcm50N1Bt0gGsAUFVX3lxTFBYczIway1oYXhFMjBxdm5VOUQ0YlB6anNPdmdfd1hyR2VGa2pra2h0dGo1UERjTFZpZzc0MS02b1dITDMza1NpY05hRWlJOHg5WUdEd2xSWGVrUTBvTVpjSVpGVGRYbVZkYXlxSjlvcjZYb0FOTE12Yl8xSFZOdEk4YWFhOWVvWTdHcENDSFNacEhySDNkQWxRN2VNX0VkSW0ySFlUaU1ybnQ3UG0?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0RWZVdVS2RyN0Z5b1pwRmtGN1QxZEhrc19lTnhhcFZwbTJFTUJ1VzJPR1JkYU1WcnEtYW9ualQ1VnVQRXNOTjdESzFKWUJRMmdyQmJzY0NVU1o2MUl6b3dJYVFycTNzR3NNS3p0Si1ISjJ3RmpPX1dCaEk2MnBYdURNTWtMRzhfZFYyWlpn0gGTAUFVX3lxTE9iN3BiNFNzRWR4XzF1T0g0NmJ0OVhHMkV3NlZ0SEJIYlh0RFlKUVdlWFc0Q19XSnhfZHZlVTlRT2tXdkYxVjUxdmtHdWt4SDZGRmplQ2lNWjJNY1ZaX1MxeHozMDBieXZwekRGQ29ObkdpalZIOUhQOW11ZE1MSXpmSENCd2hsOFZ4ZE9ab2hQRGlqRQ?oc=5"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0RWZVdVS2RyN0Z5b1pwRmtGN1QxZEhrc19lTnhhcFZwbTJFTUJ1VzJPR1JkYU1WcnEtYW9ualQ1VnVQRXNOTjdESzFKWUJRMmdyQmJzY0NVU1o2MUl6b3dJYVFycTNzR3NNS3p0Si1ISjJ3RmpPX1dCaEk2MnBYdURNTWtMRzhfZFYyWlpn0gGTAUFVX3lxTE9iN3BiNFNzRWR4XzF1T0g0NmJ0OVhHMkV3NlZ0SEJIYlh0RFlKUVdlWFc0Q19XSnhfZHZlVTlRT2tXdkYxVjUxdmtHdWt4SDZGRmplQ2lNWjJNY1ZaX1MxeHozMDBieXZwekRGQ29ObkdpalZIOUhQOW11ZE1MSXpmSENCd2hsOFZ4ZE9ab2hQRGlqRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbW1VUXZmN2NVR2ZZREhBWk1FTjFWOXBqT1VCSHg4dWduMGxYZGRCUGtST1NBZ1VPUENxN3ZpNTJUX0R3VmxWa21Ga2J0NjlXNHRvOTNzdGdDMkFpSnlBdHQ5RUp4dkw0Vlg1bWJRZktOc3dSUUZZNm5UeWt3VjFnOGhOdjRFSVZKanpiRDhPa1BQb1poNUo0N2pUcG14QjN0X1Z5RTRMNDU5MFM2a1J3akFEakFaLXFkbXVPb3UzMA?oc=5"
       ]
     },
     {
-      "title": "Karbonn Rebel and Rebel Pro 5G Launching in India on November 2: Expected Price and Specs",
-      "score": 21.84,
+      "title": "LG unveils new QNED evo AI Mini LED TV series in India",
+      "score": 19.73,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEJxeXlaRDc4WnhTSWJwODNjQzNPRTZYMzdUYm1TWlN3Zk1VM0tqQXFrYW5uSUVYd243Vk0tVHZ2azY3U0xydXkyaTJmamh4YlBrYzhZcW5ON0V4MlBTRXRHODlZc3o1RkIwdERLaTJaZkFBbC14UE1pLUVGeXdQckpLenhBNGVFVDhBZHl5dTczendwblJDQ1930gGfAUFVX3lxTE81dDZNSHNGeHZsbEFWRUpuTXpBWWxGMllDUjhKZFNwSlR0dFVVUUpMcVRLYUJuY2R0MUlNazNCbUZlU2VxVFFLS2FaUUlrWFR1TlFSYlNWWS1US2JyNFVEUGs4ZFhwUTdRRVUtNERJNG5SdHhaX1I5Zlh5WDU4TklJU3l0MlVrVHhFcWd2Z01LLTFvMm02SnBzUDRmdE55VQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0N3MV9tbkNBV2JZakR6aHA5SVVrWm1IZzc5cVdGZjNTSzlqZ1J4a2xTbXE2YjhDRU8xeUV6TWlpb2g5amdXaG9GLWo2eTd3WG92TW00eHpjOVl1d2ZjMkhXeG1zTVJyVWJZM0c2ckdpWEEyaG1RTnFCelpuMHBYZTA1VzZONVdES0IxU01wX3FFeGtjUHNTUi0tYVFoQUs5ZGlR?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3BGZmROYTQtR3lsY0FHMmZiLU9LUlB3SkNXQjROVlJXVWhTTUhiOGIxSVFxejNaYWdhWmlLYzV2OUlGamZtQW4zLTRNT3pFcEphUGRwRmlCMDhDSWtIR2twZzd0c2JrQ2xONUxTX2ZwQ3BfWmR0eU1KdUl2VUJnN01nTnhvZWxvRTVZM1FFeFA4b3l5RVhTbFpCb3NPR0F0?oc=5"
-      ]
-    },
-    {
-      "title": "Wobble Speed 5G Teased for India Launch",
-      "score": 18.65,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Gd0FTMXRHcUw2NFhNMmlySFBaUlBETTN2ZjBPUnVKR3I4R2dtUTlTNU9qSlNnc1ZvWTNrVnBSSXR6WEVwRmJXMnMwZlJqdHp3V0VpNzdvOU5lUHNqNHRiUHFDRFFueDhBc2ZSZUtoblZvSXpQUjFoOXI0RUFwZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUjhMSFRGS1dCZWxLM3A2elhneU1HQTFRZlR5OGRULW8tcFM5SktXVGdtX3VVQkxhc2VaWS1kaTlybTVCTThDUlpRZjBHVTNnU2hsTjRBcEE0WEJxa1c3NjRoRzlVaE5DS2RIWVJZUGhoZnlPeWJZcWFldHFWNnhkekhCZUlkZWdRdlRKUkZHU2xXVlFnLVNOaEdVcm5ZeWhGaENnelhNYjdBSjJMOGluTFpadTdUOFVEa3FWOTNNRUJhVXdQS01rTEh4MWpHQTBJ0gHQAUFVX3lxTFBSOExIVEZLV0JlbEszcDZ6WGd5TUdBMVFmVHk4ZFQtby1wUzlKS1dUZ21fdVVCTGFzZVpZLWRpOXJtNUJNOENSWlFmMEdVM2dTaGxONEFwQTRYQnFrVzc2NGhHOVVoTkNLZEhZUllQaGhmeU95YllxYWV0cVY2eGR6SEJlSWRlZ1F2VEpSRkdTbFdWUWctU05oR1Vybll5aEZoQ2d6WE1iN0FKMkw4aW5MWlp1N1Q4VURrcVY5M01FQmFVd1BLTWtMSHgxakdBMEk?oc=5"
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGhCNHdqUFMwM21aU3RJNXlXMllvZE9tUENXRU1nNzdVWnlMUVBiYVBJZDYyNkUwdEJyVlB3YVN5OWw2TVpobjcxMC1kUFlUbWQ2azlobWtfZThmbzlDc1BnWVlBTkVpd1RPWTg5Z0JKZTZrc1ZyNVNOb2ZRSlhPRHlLRV95aWhwb3V4Wm05YUp3bWhXQ0hJNnlnUG9HLXMtY2hqR2pvU2xRTHBWQ2tBRkRZal9FdHNjdWhXcVIweE1TbE1w?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0pfQzFaSWpsaDV1Wm10ZHNFaDJUZ2FTRHFpRW16Wk1pZVVWbDFLX1FfN2djTGthMXBkUzN3ZGxzUmpLNWVXb1BMZlhfWkdSbTdOVEt2bHNpR1dYSUpfR1FuUkhaaGw0WHBtMnZyTUY5Tzd3TDRRUERFdThQNGhsbnJHOTVEZmJtY2QyZVhpOWY3bUF0QnpaZW5wWGwxczBmZGk5Q1Y1bGVmWEh5TlUxZi0tZjIzbERpNE9nb2M1MmhSN3NnSXdn?oc=5"
       ]
     },
     {
       "title": "Air India, AI Express Flights To Saudi Arabia Cancelled till Nov 14",
-      "score": 25.47,
+      "score": 25.2,
       "kinds": [
         "news"
       ],
