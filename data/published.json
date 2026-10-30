@@ -1478,5 +1478,25 @@
       "primary_keyword": "sarvam ai funding",
       "qa_passed": false
     }
+  },
+  "2026-10-29-evening-2300": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-10-30-evening-1701": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-10-30-evening-1802": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-10-30-morning-0009": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
