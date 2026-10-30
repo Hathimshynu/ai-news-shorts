@@ -1,25 +1,11 @@
 {
-  "job_id": "2026-10-30-evening-1701",
-  "chosen": "ISRO Schedules NVS-03 Launch to Support NavIC",
-  "reason": "ISRO is strengthening NavIC, India's homegrown GPS alternative, with the launch of the NVS-03 satellite, directly impacting domestic tech sovereignty and consumer smartphone navigation.",
+  "job_id": "2026-10-30-evening-1802",
+  "chosen": "An updated Model Spec for more capable and beneficial AI",
+  "reason": "OpenAI's updated Model Spec outlines the core rules governing AI model behavior, giving viewers key insights into how future ChatGPT interactions and steering will work.",
   "candidates": [
     {
-      "title": "ISRO Schedules NVS-03 Launch to Support NavIC",
-      "score": 25.52,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OaHNyLVBhMmg1QWE3VERnaDZORlRpQkIzNDlXbnZKYzJDSnFsdmJYTVMwRnQzcGhyTmtRV1Bxc0tGbXdubjlLbTY4VXB0WlZZQ3VScFZXcG14clVZTE04aXlLSEhSRVltMnZRVzRXYjlMeVN3djVVXw?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTFfNUdyeVZ5dmdrZjBPTnRwQndNUmNUWW5VRjA1UEk2ZnhjVHhRa2Y2bnpDRXR0VXd0Vzk1VjI4ODV4Q3ppNmx2d1NTejR3ZG5LVXpDM2pNd3hXWjd3c1JKMU1JcWhOWm1JOVptbV9DM1ppbjQtRUR4dnRrY0FmNE50V1hyVmlCZFVCQ3F3QVNwTXhaTUdrSzlVcw?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDdMRkZ2TjFFdmx1dlFqZ3FWLTRsSE9UcHB0bFJqQmZmX0FXLUhjV3RBekRHeWU4MnlZc0tZV256emJweEhnN1BuMEpXTlFBSU04SFVVaDVDYWM2RHpBQkZVM1M1bjJjZ2lTUngtWjZvM2RuTmQ4aEJmbDNyYllXZVBoWjN0MWVXMzlvYkhVRUNaTjNGVlJlVjRBLWdfdmNuWnVySEFqLWNCQ0xlRGhTVEQ4RmNsN2J6YXdXNnBwZ051aVlvRk5yNjJ30gHPAUFVX3lxTE9fM3hBb3AyRlM3U2ltVFBBZ0U2NkhyVGc5Z3lsY1pmQ0xvN0lMRkxZNy1MY2xnbHRsbmZWWkFZem9LeVlUOXZwdlkyOXJpR2ZwQVZVdjhSd0RtVm1NNUl5MnRFRm03cFV0dlVtY1dOV25HWC03eGFGTFJTZEJZYmhaUEZ0T1ZjR0d4T3ZEUzJ6NWI3N3R2YmowM0JlZHZJNlYyNVZpNEptN3RfU21PaWtiZjV0YXowMTVwQTRfa2tiTDRjUlBLdnltYjhTenZaYw?oc=5"
-      ]
-    },
-    {
       "title": "An updated Model Spec for more capable and beneficial AI",
-      "score": 22.39,
+      "score": 22.14,
       "kinds": [
         "backlog",
         "news",
@@ -33,21 +19,8 @@
       ]
     },
     {
-      "title": "ISRO to launch navigation satellite NVS-03 aboard GSLV-F18 rocket from Sriharikota",
-      "score": 23.25,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWw3UTNnSXNLUVRDWkZKcEdUd3NfeDNScVZYamFqX3JFX280aTZtS3VIYUVIN3QxVHFTa2ZJeWpPM1dxVWNqZDkwQzBvRDk0VHVLZGpWdnI1YmdINGV1Y3ljWTBIS3dPdjhTVXJXZEpsd3BzY09ybWp0R0JoU3FaRXJIdV85MENDRV9seVQtYlhaVDB5UWUxbGc2RkxHak1jcEhLRTRDYnVyNjA1?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXFsaDJud3Q5ZVpEdkhtMUVjckJCOXU3bjEtOW1iV1YwaTZfRC15UDJ6V2dpNDhLazRhWlRWZTZjcHpSam85akh1R3QtcTdpZlF4SlQzbjRjSm9VVjdIZm1LVEwxd1BLRWttTHVyblUybFJrdjM3SDh1VWpRdllycVh0Smp2NHR3RGd6T05qZk4wZ2Q2QWV0Yk5mYWg4N2VvUEgzSXJZRmRXODl3Y1V3bdIBsAFBVV95cUxPWXFsaDJud3Q5ZVpEdkhtMUVjckJCOXU3bjEtOW1iV1YwaTZfRC15UDJ6V2dpNDhLazRhWlRWZTZjcHpSam85akh1R3QtcTdpZlF4SlQzbjRjSm9VVjdIZm1LVEwxd1BLRWttTHVyblUybFJrdjM3SDh1VWpRdllycVh0Smp2NHR3RGd6T05qZk4wZ2Q2QWV0Yk5mYWg4N2VvUEgzSXJZRmRXODl3Y1V3bQ?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkhlWkk1akJxSlpybGl5ZW5obVd6bTFVZ1I5RzVDVXBnZVJpd3hDbXJRTmY1ZUNZWkVjYnJ2LXNiWlZSNFkwVDZoa3ZDZHFfTFBCdXFCNUJjLXZsTlhJYklZQ3pSVWRmQUJfN1VjTThmN1cwMGVZWVVvN0wzSENWZnQxdFZUMXRnaFBtc0JvQ25JdEJuWXVqQmg1cHJlX2VROG5wN2FUeWtCZGk5SHAyblZwMVo3V1dwS2NkVHVHWUJCT1J0SDU5S1hibUxHSTTSAc8BQVVfeXFMUG5IZVpJNWpCcUpacmxpeWVuaG1Xem0xVWdSOUc1Q1VwZ2VSaXd4Q21yUU5mNWVDWVpFY2Jydi1zYlpWUjRZMFQ2aGt2Q2RxX0xQQnVxQjVCYy12bE5YSWJJWUN6UlVkZkFCXzdVY004ZjdXMDBlWVlVbzdMM0hDVmZ0MXRWVDF0Z2hQbXNCb0NuSXRCbll1akJoNXByZV9lUThucDdhVHlrQmRpOUhwMm5WcDFaN1dXcEtjZFR1R1lCQk9SdEg1OUtYYm1MR0k0?oc=5"
-      ]
-    },
-    {
       "title": "How we detect frontier model misalignment",
-      "score": 22.18,
+      "score": 21.93,
       "kinds": [
         "backlog",
         "news",
@@ -61,9 +34,24 @@
       ]
     },
     {
-      "title": "The future of the firm",
-      "score": 26.32,
+      "title": "Leo India's Aryaman Singh wins The One Show x Google AI Creative Challenge – India Edition",
+      "score": 25.09,
       "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3N6d25xczdKNHVuVlpwckJuMUpjRDliUkFCcDZPbTNJVFRRaElnaGJ4T0F6eWxtLUhmZFNaaE9nN2xGT3htTnA5YkNCeHFzVWEteEdkblN6VDdubXdKNnNOb25IbnktLUI2bFh4cXJzMXpGQlVqY181UFFDTUpuSEtNUzFzVzNHSHNsQzFmMDVUdEhNdmxad2tjRGhYLUVuOW9kM1lQSzhVQkhSdmlYWk5ON2xNTmVYM3RFR0dZNmpVUXBGLWMwTXlSYktCTXRKT1RLTE1sZXA1Nm130gHcAUFVX3lxTE9nc3p3bnFzN0o0dW5WWnByQm4xSmNEOWJSQUJwNk9tM0lUVFFoSWdoYnhPQXp5bG0tSGZkU1poT2c3bEZPeG1OcDliQ0J4cXNVYS14R2RuU3pUN25td0o2c05vbkhueS0tQjZsWHhxcnMxekZCVWpjXzVQUUNNSm5IS01TMXNXM0dIc2xDMWYwNVR0SE12bFp3a2NEaFgtRW45b2QzWVBLOFVCSFJ2aVhaTk43bE1OZVgzdEVHR1k2alVRcEYtYzBNeVJiS0JNdEpPVEtMTWxlcDU2bXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZk1uS0U1djh5SlFaYUFHWDNfeGpGNmsyYURzaVZDZi0tZ203MEtsN0w3V0x1cFR4MUJPWUdEVTA0XzR3RV9kYzdWejhtOVp0dVRJYml1ZXNCY0Z6SEdnRE5tNTY1amFMcWhuMmlmbXBsZEJGVnBZQ2kydldXdHdOYTNsZnRxaWxENlVJcWhvZ1U0VzBpTHltczRSTUo3ZFBLNV9ERmY0djFjSnRFMU5xNUl3bE5HNGt2d1ZiYzdGc2prMTTSAcMBQVVfeXFMT2ZNbktFNXY4eUpRWmFBR1gzX3hqRjZrMmFEc2lWQ2YtLWdtNzBLbDdMN1dMdXBUeDFCT1lHRFUwNF80d0VfZGM3Vno4bTladHVUSWJpdWVzQmNGekhHZ0RObTU2NWphTHFobjJpZm1wbGRCRlZwWUNpMnZXV3R3TmEzbGZ0cWlsRDZVSXFob2dVNFcwaUx5bXM0Uk1KN2RQSzVfREZmNHYxY0p0RTFOcTVJd2xORzRrdndWYmM3RnNqazE0?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZk1uS0U1djh5SlFaYUFHWDNfeGpGNmsyYURzaVZDZi0tZ203MEtsN0w3V0x1cFR4MUJPWUdEVTA0XzR3RV9kYzdWejhtOVp0dVRJYml1ZXNCY0Z6SEdnRE5tNTY1amFMcWhuMmlmbXBsZEJGVnBZQ2kydldXdHdOYTNsZnRxaWxENlVJcWhvZ1U0VzBpTHltczRSTUo3ZFBLNV9ERmY0djFjSnRFMU5xNUl3bE5HNGt2d1ZiYzdGc2prMTTSAcMBQVVfeXFMT2ZNbktFNXY4eUpRWmFBR1gzX3hqRjZrMmFEc2lWQ2YtLWdtNzBLbDdMN1dMdXBUeDFCT1lHRFUwNF80d0VfZGM3Vno4bTladHVUSWJpdWVzQmNGekhHZ0RObTU2NWphTHFobjJpZm1wbGRCRlZwWUNpMnZXV3R3TmEzbGZ0cWlsRDZVSXFob2dVNFcwaUx5bXM0Uk1KN2RQSzVfREZmNHYxY0p0RTFOcTVJd2xORzRrdndWYmM3RnNqazE0?oc=5"
+      ]
+    },
+    {
+      "title": "The future of the firm",
+      "score": 28.84,
+      "kinds": [
+        "backlog",
         "news",
         "official"
       ],
@@ -76,7 +64,7 @@
     },
     {
       "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "score": 22.52,
+      "score": 22.27,
       "kinds": [
         "backlog",
         "news",
@@ -90,82 +78,93 @@
       ]
     },
     {
-      "title": "Leo India's Aryaman Singh wins The One Show x Google AI Creative Challenge – India Edition",
-      "score": 23.34,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3N6d25xczdKNHVuVlpwckJuMUpjRDliUkFCcDZPbTNJVFRRaElnaGJ4T0F6eWxtLUhmZFNaaE9nN2xGT3htTnA5YkNCeHFzVWEteEdkblN6VDdubXdKNnNOb25IbnktLUI2bFh4cXJzMXpGQlVqY181UFFDTUpuSEtNUzFzVzNHSHNsQzFmMDVUdEhNdmxad2tjRGhYLUVuOW9kM1lQSzhVQkhSdmlYWk5ON2xNTmVYM3RFR0dZNmpVUXBGLWMwTXlSYktCTXRKT1RLTE1sZXA1Nm130gHcAUFVX3lxTE9nc3p3bnFzN0o0dW5WWnByQm4xSmNEOWJSQUJwNk9tM0lUVFFoSWdoYnhPQXp5bG0tSGZkU1poT2c3bEZPeG1OcDliQ0J4cXNVYS14R2RuU3pUN25td0o2c05vbkhueS0tQjZsWHhxcnMxekZCVWpjXzVQUUNNSm5IS01TMXNXM0dIc2xDMWYwNVR0SE12bFp3a2NEaFgtRW45b2QzWVBLOFVCSFJ2aVhaTk43bE1OZVgzdEVHR1k2alVRcEYtYzBNeVJiS0JNdEpPVEtMTWxlcDU2bXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZk1uS0U1djh5SlFaYUFHWDNfeGpGNmsyYURzaVZDZi0tZ203MEtsN0w3V0x1cFR4MUJPWUdEVTA0XzR3RV9kYzdWejhtOVp0dVRJYml1ZXNCY0Z6SEdnRE5tNTY1amFMcWhuMmlmbXBsZEJGVnBZQ2kydldXdHdOYTNsZnRxaWxENlVJcWhvZ1U0VzBpTHltczRSTUo3ZFBLNV9ERmY0djFjSnRFMU5xNUl3bE5HNGt2d1ZiYzdGc2prMTTSAcMBQVVfeXFMT2ZNbktFNXY4eUpRWmFBR1gzX3hqRjZrMmFEc2lWQ2YtLWdtNzBLbDdMN1dMdXBUeDFCT1lHRFUwNF80d0VfZGM3Vno4bTladHVUSWJpdWVzQmNGekhHZ0RObTU2NWphTHFobjJpZm1wbGRCRlZwWUNpMnZXV3R3TmEzbGZ0cWlsRDZVSXFob2dVNFcwaUx5bXM0Uk1KN2RQSzVfREZmNHYxY0p0RTFOcTVJd2xORzRrdndWYmM3RnNqazE0?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZk1uS0U1djh5SlFaYUFHWDNfeGpGNmsyYURzaVZDZi0tZ203MEtsN0w3V0x1cFR4MUJPWUdEVTA0XzR3RV9kYzdWejhtOVp0dVRJYml1ZXNCY0Z6SEdnRE5tNTY1amFMcWhuMmlmbXBsZEJGVnBZQ2kydldXdHdOYTNsZnRxaWxENlVJcWhvZ1U0VzBpTHltczRSTUo3ZFBLNV9ERmY0djFjSnRFMU5xNUl3bE5HNGt2d1ZiYzdGc2prMTTSAcMBQVVfeXFMT2ZNbktFNXY4eUpRWmFBR1gzX3hqRjZrMmFEc2lWQ2YtLWdtNzBLbDdMN1dMdXBUeDFCT1lHRFUwNF80d0VfZGM3Vno4bTladHVUSWJpdWVzQmNGekhHZ0RObTU2NWphTHFobjJpZm1wbGRCRlZwWUNpMnZXV3R3TmEzbGZ0cWlsRDZVSXFob2dVNFcwaUx5bXM0Uk1KN2RQSzVfREZmNHYxY0p0RTFOcTVJd2xORzRrdndWYmM3RnNqazE0?oc=5"
-      ]
-    },
-    {
-      "title": "Watch: ISRO begins countdown for GSLV-F18 launch carrying NVS-03 satellite",
-      "score": 21.77,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU041bmc0allUdzNOSERsZExELWUtQkJoVU1vOENIRVgya0tuYkZoWkdvVzJ0RWVSNC02dHJILTYwbzFOTGpIcGNZWEVwZzRObXVtMG5ZdzgwUDJmc1c3c0RYQ2lNLWM0Zk1hQTBCcU0wWU5SRmo4ZDVkRkREa3JPYW9EZ3hWa0Rhbm1GeUhqWkUwZU5STVFDdHlfQUo2ZEUxcVNoQV9nakwwUnZtUjJVYkhKanZoVWhHcXpFMUJRQ1NBU2RodGlTM9IByAFBVV95cUxOU041bmc0allUdzNOSERsZExELWUtQkJoVU1vOENIRVgya0tuYkZoWkdvVzJ0RWVSNC02dHJILTYwbzFOTGpIcGNZWEVwZzRObXVtMG5ZdzgwUDJmc1c3c0RYQ2lNLWM0Zk1hQTBCcU0wWU5SRmo4ZDVkRkREa3JPYW9EZ3hWa0Rhbm1GeUhqWkUwZU5STVFDdHlfQUo2ZEUxcVNoQV9nakwwUnZtUjJVYkhKanZoVWhHcXpFMUJRQ1NBU2RodGlTMw?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOG9Qd2RkMGxzTktqZmUxUEEwd3VBOXNPMHhIbkFWNGw3V3VydmNPOHBsdEJIYXhDcml0ZV9iSF9jOTZwNFNHdkRlN2hLSURsOFM0bjRQOTNCa1ZsaWpLN1BKT0NCeEtOSUF6WV8wM0lSemx0WTBTRlhkdEc4aVotS0NaM3p6U25kdWR0YWhqakxFeFlPejJHX0ZfdFl1ZDZBS0psR1dFV1dvSTFVcnEyeHVYOTBvbnhDQkFKcUUtbDR5RTdiUnhj0gHOAUFVX3lxTE5xVkZTWUdJRWFaTEdQX2xLc2x5amVhNFNnR2N4QUttbHFqZVRPZUJ1by1PYU0wWGZiTVh1OWM0Y2Q1aXVha3R6SFdHRTYzc2E1WFIyLVROb3BnQ2JQUUlJLTVvLWZzSjlNVGg3d2NhNnQyZDVnRUZxMzUxaVR6QWZ4eVdzVFBnR0tyckFCR2Q5MElOOUxBMW5KMlRoUGNzQ1ZKUTM0UkIyaDU2bEZpcGZadjY0dlViaFo1VWpIRWFnb3drWVc5RWZ5NmFYb1BB?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLVh4dEF4ZzRmS1hzbTBGYXpNNVYzcXRPUUF3ZFVfdEdtUjh4TDRxSkttSi1tRFJkSWZ5SEIyckRMWFpQa0lkaWtHNTN4c1pzR1NiY01OcWd2QkJwRUdjYk5RLWdmVXM1UzBNR3JhaGJIVVBoX2F6Vm45TGpkalZ1ck04STE0clRYd2tRY25CV2c2bUJ5WVVXWGo3Skw4S04zUS1qajFtQnpjMFA0Q2kxYVdLUDNWdmxSdjFmU25vN1VSRUxhaFlhbHYwSktoU1hhc2I2Zg?oc=5"
-      ]
-    },
-    {
       "title": "GSLV-F18/NVS-03 MISSION",
-      "score": 20.83,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaW5PVWNfNHdweVVMUUxIUzQzeHduWmhBSnJPaVZacHF2VHBEOUhNRzV3OWJMSks0R2E3WEI4dUFGTkJLYXNUOUFIQjZUMmtfdVdtemFFWUE1REgyUVRRZUVnUHRucUlBZjRUZW5EWFl0Xy1ENGZEUF9DQ1ZsNmMzaXBfdURmVEJlRVloaWdiSGY5RHV0RWhvWkdDUEFUMjJqd3VCNVU4MkxaM04taFpSSWhycnF2a1c3ZmJVaVlVRFRUUUdWNG1oa2w2SVJjcmIwSml1SGZxbjFfRko5MTF1SkdCWWU3UTdkYlIzRHVBTTBKOHF1OWFZNjln0gH_AUFVX3lxTE5FLV95UlNoQTNoWmNkWDh1eXRFbE4yalMxRUUwVVFnOXpya0g1Y05oYlNubU0teVdmWi1rZjlEUWRUc3VJWGd0TUFIWlVaODZzWXpBNVZ6N29FMWcxclJ6LTJrc0gtamc5NU1qdDZpOXVjSGJMZDEwckNFMElxekVHNUtVTWJWV0hoNi1JcDZ0eUZWY01RdEtxLWh3WEdlWFp6MXhxUUVBUVBrT0ZBczJIeV8zWkxMQ2VEVWx5QV9aV3Q3MDFzQmwzXzBnN0JrLTFpRG50Z2dRajZDZTN4Y2dHVE9MR1BJQ1ZCRVFqa0U0QU5qdkhOaWZ1UTJSUXZDYw?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ3pNckluLTVpQW50QlAzOUd1S2U3UGFlMnZmWElmSDJPTFV5Z19TVFctLU5oM3RleFBqUjRxODNIV2szcVZxLUs5MFc2emp0d0RMTllMR3A5Y3B1Ym1KcnhPZ09BVjZYRWszX2NJZGlHQjBqRVN6QTdRR05VRXI5VFBPNHN2VjJfcXZrSXBnTk1xWnJsVkdVejRiTWxwOWxJN3RmRWxicjRFcXR0aEw1SzhoOGwyQWVSQXRZQ2IyQUwtLXJDeEkxRTJPN28?oc=5"
-      ]
-    },
-    {
-      "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
-      "score": 23.42,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0RWZVdVS2RyN0Z5b1pwRmtGN1QxZEhrc19lTnhhcFZwbTJFTUJ1VzJPR1JkYU1WcnEtYW9ualQ1VnVQRXNOTjdESzFKWUJRMmdyQmJzY0NVU1o2MUl6b3dJYVFycTNzR3NNS3p0Si1ISjJ3RmpPX1dCaEk2MnBYdURNTWtMRzhfZFYyWlpn0gGTAUFVX3lxTE9iN3BiNFNzRWR4XzF1T0g0NmJ0OVhHMkV3NlZ0SEJIYlh0RFlKUVdlWFc0Q19XSnhfZHZlVTlRT2tXdkYxVjUxdmtHdWt4SDZGRmplQ2lNWjJNY1ZaX1MxeHozMDBieXZwekRGQ29ObkdpalZIOUhQOW11ZE1MSXpmSENCd2hsOFZ4ZE9ab2hQRGlqRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHMyMGstaGF4RTIwcXZuVTlENGJQempzT3ZnX3dYckdlRmtqa2todHRqNVBEY0xWaWc3NDEtNm9XSEwzM2tTaWNOYUVpSTh4OVlHRHdsUlhla1Ewb01aY0laRlRkWG1WZGF5cUo5b3I2WG9BTkxNdmJfMUhWTnRJOGFhYTllb1k3R3BDQ0hTWnBIckgzZEFsUTdlTV9FZEltMkhZVGlNcm50N1Bt0gGsAUFVX3lxTFBYczIway1oYXhFMjBxdm5VOUQ0YlB6anNPdmdfd1hyR2VGa2pra2h0dGo1UERjTFZpZzc0MS02b1dITDMza1NpY05hRWlJOHg5WUdEd2xSWGVrUTBvTVpjSVpGVGRYbVZkYXlxSjlvcjZYb0FOTE12Yl8xSFZOdEk4YWFhOWVvWTdHcENDSFNacEhySDNkQWxRN2VNX0VkSW0ySFlUaU1ybnQ3UG0?oc=5"
-      ]
-    },
-    {
-      "title": "Karbonn re-enters India’s smartphone market",
-      "score": 20.62,
+      "score": 25.78,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFJ3d1YzTmFHSTk4ZTlWZmpUSDVRTzB2SXI5LURFZHBUZ0xGOEVmUWhBZ2luNU1lcC10YnlUU3pHdThGOUstZVNxMk9jUWpZc18zTjZvU2ZOUmU3RjRPMnJESk5GSElOZ09OUUhmd1hYNzY4OGV2eDRPTG1SdmR0RVJTRVBsNm1G?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjZQbnBUbEhEZjVNVE1pTFZCQVgtTnhCdmppcEh2dmpqLTUxMlJuenM3M2RFUE9fT3h4X3Rnc0VrYmJ5dF9QbTZHM3ZUdVl2aHJUN2Z4bVFVbHdsbWgtSE1HVmdSam5HMU1KZFRVX3Q4QldSR0ZGNG5rM1dzS1QzZUlDQ1UtY2R2VjZ2dm5hdkNFdE14N3VGWGU0MGFoZ016TVVCYjhuclJVVVZhNWVNdnB1QWpEM2F2eUVXTk1abnpjd9IBzwFBVV95cUxNY01tNWZiU2I4d1Z6VGZTMmlnb1BPS21fU1AySGY4T1NoLV9rY3JuWG10Rzg5Z1lmQm40X1FaaXZ0WTFKZ2F6REdtcUxrSFZ5VmFpUXVtZk5ncG85NnBxMUw4ZEZIOXMyWFhPSlZSS00wMXI1R3kxaGxfUm9RVVZsY0hSSDZ6MkFobEh2dkZRM1JLX05HOWcySlUyZTB5UTA5UkRsdUxqV3N1X1BfSzNBNjlSd0k0bWxfTnJOMVI0WTNoRGg2NG9FZVVfQllBT3c?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1Y0VW15OW9oc080UGVOTWZSSkVNaUFSd1pnOFpYa09YRVdDaGV0Zy1QS1FoVEpHejFZUnJuOC1nRGI3VFYtSEs5cmJ1WGhxUkFyazhuM1lub3dXZGM1MG16c1FTWUNqX192UVlMZVc5NXluUjRmM24za0FOblZMNWs1dTFXZV9Wd0xqel8wUlphdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHBKVDdoUDFCY3VFYy1ia284amJ6VjdRQ2p0b092WWpvRlRKZlBYcTNyZnRIQ1dWNTRfcDdLeXhoeTR6UGMxSzcwNHJLcS1XUG9DOFIzbkhCanhGdXo0d2d1WHdGcUFOd3JoNGxVN2pFQ3lqb0lVU1dWRlhZeGlwRnNHWHg3ZllzRVpIeHVqTEppT1lNWWVxbmo3WjJDSnM4U3VNclR6c1VpYjczM09NSdIBtgFBVV95cUxQeGQ5RUpvckVaNUpjaXRLV0JzZTNDdkdnYVRzMTQ2dENreXZZcE5aWDJ5WTJlNXFDbHROaUFTZ3FjS0RBeFVCRzVVRnlHSERqb2RiSWJlS1ZvZV9OTmxUb3BjbmZHUUVaZXpfRzJpeVdZOTdTUjIzeVFRemdQcGczREsyNzBIQmVqWlBPUWo3bmxkQ3M3SEZ5Y2tUN3Rqd1JJVkxTRFhPY0tkRXVzTW0zazlTNTczQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaW5PVWNfNHdweVVMUUxIUzQzeHduWmhBSnJPaVZacHF2VHBEOUhNRzV3OWJMSks0R2E3WEI4dUFGTkJLYXNUOUFIQjZUMmtfdVdtemFFWUE1REgyUVRRZUVnUHRucUlBZjRUZW5EWFl0Xy1ENGZEUF9DQ1ZsNmMzaXBfdURmVEJlRVloaWdiSGY5RHV0RWhvWkdDUEFUMjJqd3VCNVU4MkxaM04taFpSSWhycnF2a1c3ZmJVaVlVRFRUUUdWNG1oa2w2SVJjcmIwSml1SGZxbjFfRko5MTF1SkdCWWU3UTdkYlIzRHVBTTBKOHF1OWFZNjln0gH_AUFVX3lxTE5FLV95UlNoQTNoWmNkWDh1eXRFbE4yalMxRUUwVVFnOXpya0g1Y05oYlNubU0teVdmWi1rZjlEUWRUc3VJWGd0TUFIWlVaODZzWXpBNVZ6N29FMWcxclJ6LTJrc0gtamc5NU1qdDZpOXVjSGJMZDEwckNFMElxekVHNUtVTWJWV0hoNi1JcDZ0eUZWY01RdEtxLWh3WEdlWFp6MXhxUUVBUVBrT0ZBczJIeV8zWkxMQ2VEVWx5QV9aV3Q3MDFzQmwzXzBnN0JrLTFpRG50Z2dRajZDZTN4Y2dHVE9MR1BJQ1ZCRVFqa0U0QU5qdkhOaWZ1UTJSUXZDYw?oc=5"
       ]
     },
     {
-      "title": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
-      "score": 21.16,
+      "title": "Viirtue Now Live in OpenAI’s Plugin Marketplace for ChatGPT and Codex",
+      "score": 19.83,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjh3VzY5aE10TzAwR1dyMzFYZ2NCaHo1RzJlSzl6c1hMcS1JRndzRW1maUVlelZHWnNLLW1rNnhwNjZMQnBEUmNaV1hENW96WFh5S2hfYWlJVDFSOUIyR2xxYVJCWkVFTEc2eFFzek5xdXY4TUhjOUlkbEhqeVpxNC04ajUzYWk0b0MwVUlhWXBOaG9iaWdGc24zclk0VlcwZlpGeF9GQkxjTHJZ?oc=5",
+        "https://www.producthunt.com/products/floot"
+      ]
+    },
+    {
+      "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
+      "score": 23.17,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVE2ZXh1MmhTRmlabWJpUFZ0RnZGbjZpNVZsSlp3ZlpSMGg4UTd1WC1fNGd6Yko0ZUVYdFJudjNNOWhfMWhBODRzalE3cEV0UXNHbkFDbEd0SFhlYVVlYVFXbXl3UzVJSDFhdjFVX2JlbmtOb1Z4YTZPMVRQTmp5Uy1fRmRNVFVwdldZbWo1RG5HZ9IBlwFBVV95cUxQMjNPOWtSY2Z5SThub3p1ODEtNnFHQUNla2Y0VVJfZmI1dS1hQ2NVdGZzS2hHNmRmT2N0TkZDdmFLOGUzcFV2YWxpc2dQRVExYm1WcUtBMHkzUTdUSDRkTUh6eTFYVk53Z3pkZVgtTDNvV2ZnV204cExfaDBlaXFTVVFjcm1FTmVFVVBxeGxzT3JrbzNyd01J?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0RWZVdVS2RyN0Z5b1pwRmtGN1QxZEhrc19lTnhhcFZwbTJFTUJ1VzJPR1JkYU1WcnEtYW9ualQ1VnVQRXNOTjdESzFKWUJRMmdyQmJzY0NVU1o2MUl6b3dJYVFycTNzR3NNS3p0Si1ISjJ3RmpPX1dCaEk2MnBYdURNTWtMRzhfZFYyWlpn0gGTAUFVX3lxTE9iN3BiNFNzRWR4XzF1T0g0NmJ0OVhHMkV3NlZ0SEJIYlh0RFlKUVdlWFc0Q19XSnhfZHZlVTlRT2tXdkYxVjUxdmtHdWt4SDZGRmplQ2lNWjJNY1ZaX1MxeHozMDBieXZwekRGQ29ObkdpalZIOUhQOW11ZE1MSXpmSENCd2hsOFZ4ZE9ab2hQRGlqRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbW1VUXZmN2NVR2ZZREhBWk1FTjFWOXBqT1VCSHg4dWduMGxYZGRCUGtST1NBZ1VPUENxN3ZpNTJUX0R3VmxWa21Ga2J0NjlXNHRvOTNzdGdDMkFpSnlBdHQ5RUp4dkw0Vlg1bWJRZktOc3dSUUZZNm5UeWt3VjFnOGhOdjRFSVZKanpiRDhPa1BQb1poNUo0N2pUcG14QjN0X1Z5RTRMNDU5MFM2a1J3akFEakFaLXFkbXVPb3UzMA?oc=5"
+      ]
+    },
+    {
+      "title": "Venttup Raises $3 Million In Pre-Series A Round Led By Rainmatter, Unicorn India Ventures",
+      "score": 21.32,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVlnaWZZZGRick1uSHUtRmhnSnU5NU1hOHUwVmJ0MzVubmdKMlFqRW14WENyTnl6RVBJV25LTTlYQS14RUF3OVZhRmFIeFQwRm1mc2VTSmxrZ2MtcDFRUkVsQUlLNFV3RHNMaUNmTl9rbjFGVkdEZ2ZUbl9oTERMaExQbDRqLTMyY1VJeEJpaXBoUjhScm5WVUNsX0lOcHE1d2JTU081NVJRa19jT2luQVpzY0xMUS12Zzl0WGxESnRRamU0V2RmS05nNTNrNGtHMEE5eDF6WdIB3gFBVV95cUxQUVlTeW5mWE04aG82b1l0Nmphc0tabU9WcHE3UW5UQW9vQkhEZnpDdDdkakdxdFBkcG9ra0lPeTRsdlV5bzRxck50VHR4cmlhV2k0OTJlUTQzb2s5bTBETmJnOVBqVmEwOWF0Z2Z3Z1JVMF9DcGRsaGY1TU9tZFJqenhqaFBJLVhrRUpfOWUxZTktY25fVkdXbWtfdlhFRmlDMVE2WEVCbE9LS05MZzZNaXkxc2lvMXNFeHV5VkR4djRNWlNKaGlIbkdqSUc3Y01rR1FOdUR3WGMyNkhwcHc?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGg2cHItel9kRjY3ZXhBWmdMVXVFT1ZfRjRIeWNrTG9NSDJkT25memlmeXdyR0Y4TG9VakxWZ3FXOUpVTUVqTjdXY2ZLc2MtODZzRWNrR0lnTldlQXZoVXg5dlIzVEtLNkI0azhLSHFuLWZCOW4tNTlVWU50MTJwcUZYbmdUS1ZMbGxPemVmcEIxOXZjOGo5alBUZTFuUXhEUXk0OFE0dndiWE52dTBkeG1tWGtCMmxPWmhkdUdnUnNPZlh1Y1pFSNIBzgFBVV95cUxPUlhjc3U1bjduN1cxS1l3dWRka28yTUJvcmJpZGxXMVR1R2ZBSkxqOEo4Mlh0ZFpkSE5ZRmJNRUU4Um9kdEJDbENrcFgtMGdaa3RnbmtSSnVrenJPb3Jkb3dlcGJFRU5BYldpci15SFEyNktGVnNkcDdwSjFKMTZzY3VGeG5NNWRHQ3IxNmRiS3ZfU29lNnhRZEowRm9wRXk5QlBzdHRkZTRGYmFrWU5iQXpfME83TGpyWkk5cWpOMklHR0Z0MXE3V3dvQUlRZw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZnZjBQQVlrN05POVFhdEU2ZVdkeWY3OW9xVXhsVjljTGIwZW1iZG5PekwwUmhobjJDaGV2SHhBTURDVHZLZ18taURhcGdncnhyblBhQ2FXNWk1aUxEemtLS1dKLTV3QXZaT0pVemduUU1GY1UtRHRheHlfYjlrOS1iUHpiNkk5WDFFT2Qtb2Rqb3lKY0E?oc=5"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGFLMDdySy1Fb0hjd2NWRXBWYVEtaW1WNFV3SVNaM2dmMF8tcWdGWFlxYU9GaGtUOFRsRnVDV3ZGWXFDakdRc0xubWlCdGxsUE5ad3RlNTlpdDJPTlloTFY5UXJkWGVzVFJGelF0T3B1MmhyUEVQWWxPektjeVpjcGU5ZjdrbW5wcVNndV9EZ29uMEN0SkVhZUJ3RVFXYTlGeVFlM1V6alJrbS1jRm92RzlTQUxVekhva2lRdTlNTHpkLWUxdEE?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG45LVZxaEdrWFpzN295MGhPc0t2TzlsRVdjUGZaSkF3WFFBTExkdVpWdTNiSTU1cGpyU2k2RG1sWGVUc2o1RmtTbkVzY3RLZEJYejVxTHcwUDdQc3JLaUhNcF9YMTZZV0kwbE9vbkprZ2JMamJnR3VEMEF6NmZJdG8yRXp1bF9xbDRrVi1CendMYUhyS3M3TjYxX1RqOFJ0U19hQjVTeHRlaUZoVmJBZGxmRk9NdTFkdFh1bS00d2lWRGxha3lkNVkzd00?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2dCYW9mQUd1YVNZVldscXhVMXpJV3RKT3pVUS1ndWpzYjZGTXBvRVlKS04wNDNSM0RaU1EzS1dOblZ3bTdXOHJiS2JhRGM2MHBkWmFod2FTYmF6TE9YSW80TFpLRlNUaEs0cDJhb1ZYcTdycFBZMDluTnFnNlJVTnZmWnlEVzhzLVlkejFvUGpaaVJ4cmJZYkFrZHVKUFZaTjZlTm9XeUhmQmNja1VDalBhMW13Um1hVmM0djZON2ZCQ1dCUnFvaFlfbzNabEU1bkFkWmcxb3lMdGk3dlc0OENFY9IB4wFBVV95cUxPb2dCYW9mQUd1YVNZVldscXhVMXpJV3RKT3pVUS1ndWpzYjZGTXBvRVlKS04wNDNSM0RaU1EzS1dOblZ3bTdXOHJiS2JhRGM2MHBkWmFod2FTYmF6TE9YSW80TFpLRlNUaEs0cDJhb1ZYcTdycFBZMDluTnFnNlJVTnZmWnlEVzhzLVlkejFvUGpaaVJ4cmJZYkFrZHVKUFZaTjZlTm9XeUhmQmNja1VDalBhMW13Um1hVmM0djZON2ZCQ1dCUnFvaFlfbzNabEU1bkFkWmcxb3lMdGk3dlc0OENFYw?oc=5"
+      ]
+    },
+    {
+      "title": "Using AI to Vibe Code Your TV Is Stupid",
+      "score": 19.86,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0VKeG0tT1lzU2ZqNnF1X1JkRWphYksxc2d5c3g5eG5WSjVwOUlPU1V5cVcxX3RidzFEMTBsTmdubUFIeHdEdkNvSVBpbGNpbWM0STVSc1pNR0s5N1pJby1DUkdYNm9Ba1RWMWNNaEVWbW52ZEs2c1pmWVJNMnRvR08yNG5tOUE0Vlh5MnFR?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0VKeG0tT1lzU2ZqNnF1X1JkRWphYksxc2d5c3g5eG5WSjVwOUlPU1V5cVcxX3RidzFEMTBsTmdubUFIeHdEdkNvSVBpbGNpbWM0STVSc1pNR0s5N1pJby1DUkdYNm9Ba1RWMWNNaEVWbW52ZEs2c1pmWVJNMnRvR08yNG5tOUE0Vlh5MnFR?oc=5"
+      ]
+    },
+    {
+      "title": "Wobble Speed 5G Teased for India Launch",
+      "score": 19.79,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Gd0FTMXRHcUw2NFhNMmlySFBaUlBETTN2ZjBPUnVKR3I4R2dtUTlTNU9qSlNnc1ZvWTNrVnBSSXR6WEVwRmJXMnMwZlJqdHp3V0VpNzdvOU5lUHNqNHRiUHFDRFFueDhBc2ZSZUtoblZvSXpQUjFoOXI0RUFwZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUjhMSFRGS1dCZWxLM3A2elhneU1HQTFRZlR5OGRULW8tcFM5SktXVGdtX3VVQkxhc2VaWS1kaTlybTVCTThDUlpRZjBHVTNnU2hsTjRBcEE0WEJxa1c3NjRoRzlVaE5DS2RIWVJZUGhoZnlPeWJZcWFldHFWNnhkekhCZUlkZWdRdlRKUkZHU2xXVlFnLVNOaEdVcm5ZeWhGaENnelhNYjdBSjJMOGluTFpadTdUOFVEa3FWOTNNRUJhVXdQS01rTEh4MWpHQTBJ0gHQAUFVX3lxTFBSOExIVEZLV0JlbEszcDZ6WGd5TUdBMVFmVHk4ZFQtby1wUzlKS1dUZ21fdVVCTGFzZVpZLWRpOXJtNUJNOENSWlFmMEdVM2dTaGxONEFwQTRYQnFrVzc2NGhHOVVoTkNLZEhZUllQaGhmeU95YllxYWV0cVY2eGR6SEJlSWRlZ1F2VEpSRkdTbFdWUWctU05oR1Vybll5aEZoQ2d6WE1iN0FKMkw4aW5MWlp1N1Q4VURrcVY5M01FQmFVd1BLTWtMSHgxakdBMEk?oc=5"
+      ]
+    },
+    {
+      "title": "Air India, AI Express extend cancellation of Saudi Arabia flights till November 14",
+      "score": 19.95,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRjhKTldkZGttQ2JQMWl4eWFCU0JMNmUyR0hlR0JLNm9yeDFhWXMtZi04eVBzQTZJaWkzUHQzRUF2eW5nc3ZzakhmclFSbTBKOGNMWkZyWnA0RlRRN0FyR2hSY3RLbFVSTzFuWWVUNUxNeU96anRSUHBGRHZXWUFteGpVb2FmWXFob2JuMHZMZzNxMmxJMG9PYjFVUXFaMWplX2ZyMUlXc25CZHgxaDFCMWZiN1NTUUN3T2Y2S28yYVBZY1pEMmJKaHIwSks2eWpwQ0d5S3dkWXVJMmdHZ0tSMTFDN3pVOUVKdmfSAe8BQVVfeXFMTkFJTHJFYTRkWEJvTEJMVG5qX1dGUVlWSFJtWVVxWWlDZUFoMXNpRDZ5ZmVfZU9OV0pTSzZtSnM4RklILXhFYWlQWFo5bWdiU0x2cDk0akE1THgtQ085THhVMTQtcUlhQXIxdWZiYVdSaDVkMFJCb2ZkV2NCbVpJTkVuWHdHMWpNZHV1TkQwekhQbVlMUTE1THB5MkJaM084SkZ0ZEVzM0dJbGl1NmczWTJWUGo4cFpPMmZRd0lFZ1JzUEdGcndiaVNEYm4wZm9yeUpzcVhJZGNFb3VMX0h2ODNham1JSnpxc2NxNURsTzg?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTFUWEs2VkpCMWRGenhMSm5mYU5vM09ZSVpabDVFcVExaEdadnlGeUQxajdxS2plWk5pY2pqZ0cySzdaTDFNLXl1Tml1TlpJVFZaUzlQMHZGOFIwaVRmUDRiVkJCVnJPMVV1c0hFWThINENoT0ZwVWNyZmt2cXUyYm9hdUZJV1BiS3gzREYwdXRiNTZiUzBCZl9HWERhcndzaUNjLW04Qlk5bm05eDhwZEcwMG9RQnVNQy1Pc2k4OVpaRVh0WlIzTkp0ZW5zZ2Qx0gHWAUFVX3lxTE12QTA0Rk1EV2QyLVFxdGN5RUs1cm1rNzV6bENGRk5GYmtxRHc4T0hsRUlXTWJjajZtRTQ3LWdZak1CbjBTVHB5LWFWREhxUzB6ZFFaSHRpbW5LdkhpcUV3ay1HOUlZMm5XWEk5Q19oYVVKN2E2RGtKT28yVDhqeUlOY2ZSbk1NX2h2bFNoZF8wcXVCSlktS3dRNHY3MzFUSERyT1JUZk44NWI5N01iUk1QcVhjWTJGUWY0dzJ0MDFKQUFTWXBCNDc1UTgzN1VkaXM5Vzh3NVE?oc=5"
       ]
     }
   ]

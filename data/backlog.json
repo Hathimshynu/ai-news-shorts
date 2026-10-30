@@ -1,16 +1,5 @@
 [
   {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xNEEzYVdFemd2ZlNTclVaYVZ4M0JlcTBSODQ2ODlQRWpkc05hWk5sMDIxVG00OEJCbm8wX284VFBTTm1kUEktV0VlemVUQzI2WWFBNTlOWQ?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " An updated Model Spec for more capable and beneficial AI &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-29T17:05:44+00:00",
-    "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
-  },
-  {
     "title": "How we detect frontier model misalignment",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
     "source": "OpenAI",
@@ -19,29 +8,7 @@
     "country": "IN",
     "published": "2026-10-29T16:15:43+00:00",
     "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
-  },
-  {
-    "title": "The future of the firm",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamYyUGxoTHlzU1F5NHVWZXliZ2JJMjFQNlNPbmtUZnE2UGxPRTNqSjYwYV9ObW9VSGVLSHB2a1I3UVljSXJJam05Tks5alhXanV3NVF2VzBxekJvWjdOYTdhMEZCWG5Wamw5N2c4VVAtWENUdG94cW1sZlRCblZCWU5vZmxkeUVSREE?oc=5",
-    "source": "Cybersecurity Insiders",
-    "kind": "news",
-    "summary": " The Future of SMB Trust Runs on Automation &nbsp;&nbsp; Cybersecurity Insiders ",
-    "country": "IN",
-    "published": "2026-10-30T05:34:15+00:00",
-    "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
-  },
-  {
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " How Ropes & Gray is developing AI for transactional diligence &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-10-29T17:37:55+00:00",
-    "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
+    "saved": "2026-10-30T12:45:54.758210+00:00"
   },
   {
     "title": "Leo India's Aryaman Singh wins The One Show x Google AI Creative Challenge – India Edition",
@@ -52,7 +19,29 @@
     "country": "IN",
     "published": "2026-10-30T08:54:56+00:00",
     "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
+    "saved": "2026-10-30T12:45:54.758210+00:00"
+  },
+  {
+    "title": "The future of the firm",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamYyUGxoTHlzU1F5NHVWZXliZ2JJMjFQNlNPbmtUZnE2UGxPRTNqSjYwYV9ObW9VSGVLSHB2a1I3UVljSXJJam05Tks5alhXanV3NVF2VzBxekJvWjdOYTdhMEZCWG5Wamw5N2c4VVAtWENUdG94cW1sZlRCblZCWU5vZmxkeUVSREE?oc=5",
+    "source": "Cybersecurity Insiders",
+    "kind": "news",
+    "summary": " The Future of SMB Trust Runs on Automation &nbsp;&nbsp; Cybersecurity Insiders ",
+    "country": "IN",
+    "published": "2026-10-30T05:34:15+00:00",
+    "engagement": 0,
+    "saved": "2026-10-30T12:45:54.758210+00:00"
+  },
+  {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sdFBJTFB3bDUwOEhVSnFNZ3BvS2tkTVFkY2dHNzk1QWNJMU1oSTVFSjRpR0g4akZsNDdjcmZmVDR0M2Q1QmNwcERKZ2NYdXE2NVNXaU5MaURYaXBHTGc?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " How Ropes & Gray is developing AI for transactional diligence &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-10-29T17:37:55+00:00",
+    "engagement": 0,
+    "saved": "2026-10-30T12:45:54.758210+00:00"
   },
   {
     "title": "GSLV-F18/NVS-03 MISSION",
@@ -63,7 +52,18 @@
     "country": "IN",
     "published": "2026-10-29T14:49:40+00:00",
     "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
+    "saved": "2026-10-30T12:45:54.758210+00:00"
+  },
+  {
+    "title": "Viirtue Now Live in OpenAI’s Plugin Marketplace for ChatGPT and Codex",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjh3VzY5aE10TzAwR1dyMzFYZ2NCaHo1RzJlSzl6c1hMcS1JRndzRW1maUVlelZHWnNLLW1rNnhwNjZMQnBEUmNaV1hENW96WFh5S2hfYWlJVDFSOUIyR2xxYVJCWkVFTEc2eFFzek5xdXY4TUhjOUlkbEhqeVpxNC04ajUzYWk0b0MwVUlhWXBOaG9iaWdGc24zclk0VlcwZlpGeF9GQkxjTHJZ?oc=5",
+    "source": "AiThority",
+    "kind": "news",
+    "summary": " Viirtue Now Live in OpenAI’s Plugin Marketplace for ChatGPT and Codex &nbsp;&nbsp; AiThority ",
+    "country": "IN",
+    "published": "2026-10-30T11:52:04+00:00",
+    "engagement": 0,
+    "saved": "2026-10-30T12:45:54.758210+00:00"
   },
   {
     "title": "Motorola Signature 27 confirmed to launch in India on November 5th as the country’s first Snapdragon 8 Elite Extreme Gen 6 phone",
@@ -74,6 +74,6 @@
     "country": "IN",
     "published": "2026-10-30T04:34:14+00:00",
     "engagement": 0,
-    "saved": "2026-10-30T11:40:02.816585+00:00"
+    "saved": "2026-10-30T12:45:54.758210+00:00"
   }
 ]
