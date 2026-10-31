@@ -1614,5 +1614,10 @@
       "primary_keyword": "MeitY DEPA framework",
       "qa_passed": false
     }
+  },
+  "2026-10-31-evening-2145": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
