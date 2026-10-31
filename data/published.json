@@ -1522,8 +1522,8 @@
     },
     "late": true,
     "approved_at": "2026-10-31T13:58:41.715206+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-31T13:58:43.489992+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-31T14:08:45.766554+00:00",
     "ids": {
       "youtube": "DpHGX6CTKsY",
       "facebook": "1125846766486749"
@@ -1535,8 +1535,7 @@
       "hook": "What happens when an AI model escapes?",
       "seconds": 48.5,
       "primary_keyword": "OpenAI AI safety",
-      "qa_passed": true,
-      "posted_at": "2026-10-31T13:59:57.008152+00:00"
+      "qa_passed": true
     }
   },
   "2026-10-30-evening-2341": {
