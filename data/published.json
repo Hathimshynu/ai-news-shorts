@@ -1490,9 +1490,30 @@
     "late_offer": true
   },
   "2026-10-30-evening-1802": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/9YP5x4ZLFnU",
+      "facebook": "https://www.facebook.com/reel/3497267110455341"
+    },
+    "late_offer": true,
+    "late": true,
+    "approved_at": "2026-10-31T13:57:18.764482+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-31T13:57:20.250366+00:00",
+    "ids": {
+      "youtube": "9YP5x4ZLFnU",
+      "facebook": "3497267110455341"
+    },
+    "info": {
+      "title": "OpenAI Model Spec Update: Five New Values Explained #Shorts",
+      "topic": "An updated Model Spec for more capable and beneficial AI",
+      "category": "Breaking AI News",
+      "hook": "OpenAI updates its AI behavior guide",
+      "seconds": 53.3,
+      "primary_keyword": "OpenAI Model Spec update",
+      "qa_passed": true,
+      "posted_at": "2026-10-31T13:58:39.335746+00:00"
+    }
   },
   "2026-10-30-morning-0009": {
     "status": "expired",
