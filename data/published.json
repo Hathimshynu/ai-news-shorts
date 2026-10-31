@@ -1546,8 +1546,8 @@
     },
     "late": true,
     "approved_at": "2026-10-31T13:59:59.190941+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-31T14:00:00.917111+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-31T14:10:03.656540+00:00",
     "ids": {
       "youtube": "K00lADsDnZQ",
       "facebook": "39621705650778302"
@@ -1559,8 +1559,7 @@
       "hook": "Your VS Code extension could be spying on you",
       "seconds": 49.6,
       "primary_keyword": "Claude Code extension backdoor",
-      "qa_passed": true,
-      "posted_at": "2026-10-31T14:01:20.545577+00:00"
+      "qa_passed": true
     }
   },
   "2026-10-30-morning-0009": {
