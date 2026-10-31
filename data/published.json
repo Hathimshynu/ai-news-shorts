@@ -1590,5 +1590,30 @@
       "primary_keyword": "github copilot memory",
       "qa_passed": true
     }
+  },
+  "2026-10-31-evening-1801": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/hTN37rVBfz8",
+      "facebook": "https://www.facebook.com/reel/1646424010217265"
+    },
+    "late": true,
+    "approved_at": "2026-10-31T14:46:46.814113+00:00",
+    "attempts": 1,
+    "last_try": "2026-10-31T14:46:48.480182+00:00",
+    "ids": {
+      "youtube": "hTN37rVBfz8",
+      "facebook": "1646424010217265"
+    },
+    "info": {
+      "title": "MeitY DEPA Framework for AI Training Launched #Shorts",
+      "topic": "MeitY launches DEPA framework to enable trusted data sharing for AI training",
+      "category": "Breaking AI News",
+      "hook": "Big AI news coming out of India!",
+      "seconds": 45.3,
+      "primary_keyword": "MeitY DEPA framework",
+      "qa_passed": false,
+      "posted_at": "2026-10-31T14:47:57.864831+00:00"
+    }
   }
 }
