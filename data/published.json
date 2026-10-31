@@ -1515,15 +1515,15 @@
     }
   },
   "2026-10-30-evening-2236": {
-    "status": "posting",
+    "status": "published",
     "platforms": {
       "youtube": "https://youtube.com/shorts/DpHGX6CTKsY",
       "facebook": "https://www.facebook.com/reel/1125846766486749"
     },
     "late": true,
     "approved_at": "2026-10-31T13:58:41.715206+00:00",
-    "attempts": 2,
-    "last_try": "2026-10-31T14:08:45.766554+00:00",
+    "attempts": 3,
+    "last_try": "2026-10-31T14:18:47.341947+00:00",
     "ids": {
       "youtube": "DpHGX6CTKsY",
       "facebook": "1125846766486749"
