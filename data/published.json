@@ -1575,8 +1575,8 @@
     },
     "late": true,
     "approved_at": "2026-10-31T14:01:22.825350+00:00",
-    "attempts": 1,
-    "last_try": "2026-10-31T14:01:24.930085+00:00",
+    "attempts": 2,
+    "last_try": "2026-10-31T14:11:31.449776+00:00",
     "ids": {
       "youtube": "z7C-xipXzfg",
       "facebook": "1613941873749388"
@@ -1588,8 +1588,7 @@
       "hook": "Your code remembers you now",
       "seconds": 54.8,
       "primary_keyword": "github copilot memory",
-      "qa_passed": true,
-      "posted_at": "2026-10-31T14:02:54.321839+00:00"
+      "qa_passed": true
     }
   }
 }
