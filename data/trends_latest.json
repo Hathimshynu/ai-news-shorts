@@ -1,79 +1,68 @@
 {
-  "job_id": "2026-10-31-evening-1702",
-  "chosen": "GitHub intelligence puts your code, context, and history to work",
-  "reason": "GitHub's official new AI intelligence updates allow developers to harness deep codebase context and repository history directly within their workflow.",
+  "job_id": "2026-10-31-evening-1801",
+  "chosen": "MeitY launches DEPA framework to enable trusted data sharing for AI training",
+  "reason": "MeitY's new DEPA framework directly impacts India's AI landscape by creating a trusted national system for sharing data to train AI models.",
   "candidates": [
     {
-      "title": "GitHub intelligence puts your code, context, and history to work",
-      "score": 56.34,
+      "title": "MeitY launches DEPA framework to enable trusted data sharing for AI training",
+      "score": 23.75,
       "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWEs5MDhZZ2w4OEJKaVNSNWg0UHF5eUwydXpQc1BrMmpIa1dENEpqWldJTDJQTFJrQ0dHbTVPZEt3d2s0M0MyRlhxaDNsOElDa1ZqUzlSNWhVcV9yZVNoWTJDUE8wdV9xTGNudy1SZE96R0xZVG5kS2J0NlMwT29Na3Boc3R0dUJodUxzYnYzc2VDbDJvUW0xT1hNY1FaNWRRZXo3ZGVoSE9BTkZFUEZaRWhVbnNsaEU4T2tuaDc5dTZQOEVQTzNWX0RkZG5DQW0yR0Fnei05Xzd4dWZldGlpUXZ3eXdjZm03al9PTWFYNUdzMkd3RVHSAfYBQVVfeXFMUFhLOTA4WWdsODhCSmlTUjVoNFBxeXlMMnV6UHNQazJqSGtXRDRKalpXSUwyUExSa0NHR201T2RLd3drNDNDMkZYcWgzbDhJQ2tWalM5UjVoVXFfcmVTaFkyQ1BPMHVfcUxjbnctUmRPekdMWVRuZEtidDZTME9vTWtwaHN0dHVCaHVMc2J2M3NlQ2wyb1FtMU9YTWNRWjVkUWV6N2RlaEhPQU5GRVBGWkVoVW5zbGhFOE9rbmg3OXU2UDhFUE8zVl9EZGRuQ0FtMkdBZ3otOV83eHVmZXRpaVF2d3l3Y2ZtN2pfT01hWDVHczJHd0VR?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tWTZGQW9zWWtPVXVEZUp1UXZ6LV9ydW4xb05HMW41TTFEYUVLWXpvQ0dOZTNOU1h0bW91TW1KamFTTHBvY1lOdEtleGNzMFAxNmRySTdzNzhKdy02V3BPUDd3SDJNaHVsUlB3RA?oc=5"
-      ]
-    },
-    {
-      "title": "UPI payments enabled to book tickets online for Burj Khalifa, Singapore attractions: FinMin",
-      "score": 27.06,
-      "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdVgza2taWmFDT29EUHQ2QjFGVFFMVjlHVG0zRi1oM3N3blBhLUU2N1dlUjdiLXFhb3VyazluWHRIX3dxdzhndmRnb2paSlBKcmRpV3ZVbWs5SkYwcTB0eVF2T2cxNElOeUJ2WEwyVVRxcXVGNXN5QWdLMTJxdm0tdjRPS1ZEY0ZiMkp0cEp0dF9oU0pqbGlyVm1YdW5NbEt3UkpEWkZ3elFvVlEwSGhma0dLN1RJVDY4Y3lfMENlY1pseERxblRIWl9ZMl9BOHpnYXFMT0ZuSVpHd3h6SG5kazE1cG9CRndocDliQ0Y3eml2dlZUYWdR0gH-AUFVX3lxTE9WTTNJdVdoQ2JXQzV2UlEtdHNvYWpWUjZSb0ItTVVxbWc1R0tFX25FQ09aRnZmU0xjdVF3aDdZMTZpSElyXy1KeWRvYmdTbWxrblg3WjlBVmVmY1EzRzhHTzBJLWxPdzFiVEJFUmdYWVg2WGMxaTk5akpoWXJWTUpxNmExdVVFODBPM2ZMYTJNLURuY1R1MnZSVDRXbVA4T0tCMEN3eHNQRGI3Q3RQN1BaeWxyQ3BuSzhHcjhPdzlpZkZrbnNLTkhxemdQMEJueE1XdEpGOVNzY2dReEljUVhlTlpVZDc2SmxDX3plNGw4Z2trWDY2aW5fTENNb1ZB?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzRBT1NDR082UFZMV1J5cHdCcGk1WUllRWI0N0YtRnNmUFRZMjRBaER1Y0FFQldZV2FrYlM1ZDM3ZkEzVXFLUkdPNk4xMmI2NWJneldjN3MzMmdBZ21XbFp0OHBlQUpNOGtraE1fZ2M1cHlnTHg0QjlPTVRHVXg5eUZhM0VaYzViNnFlQ05WcmxiU1VvZ0V2UWpQdVZmU2p0U1FoNk41TFYySGtqaDdqMA?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3NPVm13aXQzTkR1aTNBYUpxZzR4T3gtZ1o4X2Ywb0FJQ3llaGlZcktsWnRXTkhiZnNpbWtHXzN2VkRxcVZqVVJzNHpJZ3RCTmlXZkNLZzRTemNEU2lTZDBfMXBtdzJVY0kxZGVUWkdhUTFvLUxadjA5UTBZZUxTUnBnQ0YxTUpROUFrNUt2eV9JWGxwc1NJZkFvbDFFSWZheDM2eXAxY1IxSVJLQWxWMFlNZVlUZw?oc=5"
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR01SRU9xNmZrbTgyRVpiMXhrWk16RlctbWkySzk2UVVic2NDN1JQZGVJY3lmTTNnZUtVMVR3ZFQ2V3B5VXJ4WVczTGIwbzJfMlRYX0E0SEhzVS1SNG5UTTNobFFCSHBva0lEcnRaNFBfdVVDVkhxeUpMRG5ZUFNJUDJzM1N6NEhuTTdWdnV5ZkY4NHV4YjJ1QXFWVkRsc2tlLV95eDREMnc0WnAwZXhLNkw1SzZTSmVSWWl5MXBnZWJPeXBoQThJZFpYRHROS01HdXlOQllIdnJvZ3FYSkNqMkFrNDXSAeoBQVVfeXFMT3huazkxVEozNXVYbXRUemVvTUc1ZW9mMkl3cjB2OC1PUzVKWmt5YWY2N3NhOTNBTC01UFhEdHVFV0ZMem1DWEpMdzdWZFl0SEdZd2otTnVyU3pUbGJGX3QwemJ1OUxVMXVqWlNIR2FhMXdFZDR0MFdDQkJhdXl0TGRNOTR1bDZUbkNYOEZNOGJ4bEtibFBuYTltZXNWQU0takZYdGRsOXFIczFhWG94R0IyaGZBdjdpQU9pUWxTc21ycFYxWlFKNDZScVVGcGVrWFRwM0tORERfX3Fid0stRlJKVnQxY3pFUTFn?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ2RzUGQwQ0RHczVuU0J3UkpOVGg4MDd6NlNkSFJDRXU3UE1CbzFkdE5VLUFlN2VIYk5wV0h3R1plQXJuM0ZwS2twbm8zTU5kbGR3bEg4ODlwdk5qblU1OG14QVJPUDJWek5lYjlzR2hsekNWLXlCV1M3d0NvVmVYWEREX3pJY1ZZRFFoaUdKdzdlSDk3bTdCQXVfZ01ldkk4bUdlWEFkelQ3SjBjSXU1anZiUS1URDlZOHZOZjRWLTJKeXM?oc=5",
+        "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaXVkN1pOalRPVUtOV3hfSVVWZTR1cjlFcW44VmJaWTllaEV5c1ZSTmpwMFdQWlk3ejlEaUk0ZTdRNFNsYU9MZFVDX054eXhuLXZ4MXJncmVVOVZOM2VPcm4zV2RJQWQ4Tk5uMGNPbi1PRjFyQmVGYU16WnMzZlNIX2g2QUVmUjB2ZGRLdWR4aW41bktSdEtwdVBtWUlyX2FhVTNtSWZOc0ZobWUxOUVnSzR3SHZyNEJXd3dCSVZ4ZGxtald5RnlmVTNOSmxIUVhsYTlvVlVERFpieXAxSzRMb1RxdlRKNzZqT0RqWG5sai15S3BYR0VldVFIMTRvNlJYQWF5QV9vanUyQkNYSG930gHeAUFVX3lxTE82VzJJT285aUo1OGdoQ3J2MUNDM0gweWN4ZkhmNTBqSDk5eHFnYzhnUXJPaVRjeGplV3BPcWdIcGlRRlRMRDNPUXc4ZzBnaGJXZVpyeFJFclJjTFRGQXFFa2ctMUhSTlNOZXRWRDF2cXZPaGZpWVV5RzlzOV8yWEh6aEpmMW9UbFBsVUtSLVNRV1RlbE1OQ21icEo2ZEJYZWx5emlHNEhESzFBMm9lVFctY0xEbW52M3NXTEpEck9tZ0t5QjNOeXNnN0JMVHUtYmhaNk1ZXzJjc2pHM3ZaQQ?oc=5"
       ]
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
-      "score": 20.29,
+      "score": 22.05,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5",
-        "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5"
       ]
     },
     {
-      "title": "DSCI releases AI liability guide for India’s enterprises",
-      "score": 19.04,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWZwcTZrWkNRS05YdFp2dk42QjZBSGwxLTVJTFlVWG1KOElwOE9IZ05mMDVOUlZXdjBXZWZfMEhXZENyT29aalU3WGlKZkFZVFYzdlAwb2FHV092czJBd3gydUhwQmVCT2U1dmNPQUtwV3hfcWJDX0VwcmNweVFWajVXVjV2TkdhQXRZWjg1LXZ1Y0pJYVhEVVRB?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWll2QllfemVIYkNVOElsaUpGWDVBQ1dLTVFWYVFZM3RsT1A0RUVCUnI1Y19DOXZDZmtYOGh6WWpGT2lNY1JuY1VtSTc1WElBODBvbmpQNXV4MGctclRXTFB0MmZOUnJnSk03bFBYdXhZTUo0cVV0ZGoxQUlrODA0Z1BhTEt0T05Ic19ZQ1hnNnJSQm5qcDdQanBZeXZPd1Ziajg3TV85SlR4alVYOENjbFFHUEM2VDFvUnJyRm9EOV9jUXA0UWxRQXkwWjd6NWxqQ18zUmxoSEFIeTJGTm9DRlhrSUZ3V0l3eEZmUF83bFladHVId3dLY1ZfY0s5ZXp4akl2dm0tNlXSAdcBQVVfeXFMT01CVEVsUXZEcDlJU3RLXzVVdVBMS2NxZEg5d1RzTGpXQk4weHlFZGEyamRXU3Q3S0FzX3k5N1B6YjJGOV9zMmkzUWlsb3lGVnJGNkM5Mk5mVmx5U3pmcVlaUFMydnhlUUVpZGFSQ2dKLWtnb0gzVkp0blpMU25fQ05Dc2VRS3pIODJoV0FKN1c1U3djaHBFSVlEQzRSWW5xQUM5MHFxNFJKWDlWU2RHVVBhRkQzY1pMOWVzZXlLNllHUTFtZ1luRFVFNVBXb1FndnVmcndfU3c?oc=5"
-      ]
-    },
-    {
-      "title": "UPI payments now available for online bookings at Burj Khalifa, Resorts World Sentosa",
-      "score": 27.05,
+      "title": "UPI Enabled for Online Bookings at Burj Khalifa, Resorts World Sentosa",
+      "score": 29.38,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM19sTWlfZUZMcDRJRlQyTFhvUkNodU5QTUltTjJoSkphV3dVM0MwU1U1VThWOWR1Z3FOR242ZzhtTTY2OUpjOWtVXzh5LUpDMG81bnhUTWwtQWlfU01TY0o2YjIzQ053UTIxT0xSSVpBelU3Uk5aSGp2YlcyS1JURmxuTXNsMWEteXYtM0FqRThmVUhKdjVxVThhTmpVZWI2M0V5YndTZVJIRFZZWDFMeE9hN3kwMjgtbTdUa055Q1E3d0xBYWp3ZtIBzgFBVV95cUxON1U0MjVuREhNdVVFSUFiQXJpMlozb3VtRnp6cmhpS211ZC1jRldpS2k1bUNJdHRsV2RSZXFyd1I3bFd5cnR6N1EzQ3BqcGhnSW4wWi13LVpLRE9MdVdfeGp4SzVyNmRjYW5IdUF1NkZEbzljeU1YOU8wQzBBamYyRzZrcm5Md2dQVUVtYl9CUkhhZVJlcnpvLS1CM1d3SEVsb1dxc0gxU0h6YUlFWkRqN1JDMnRQanYwdTY2Y19QTXo3REJTX0FKVmtCYjhvZw?oc=5",
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1NQZ3JuSTNZZTZETTFWdHVqV1BLWlY1U09BUHJCYVB6TV8zVEpiSjJJN0ZUc0doN2t1NmR4M3hBNjBDc0xVQnRPQjBWTW81bGZiVE1yZ00wZEg0ZmpXeXg1cjFCamJOSG1jSnNTS25haEZrV1hCYlpfazBVVlNlb3FNSFA5X2NxQW11UXluMzlzU1FhSlRuZXJaYUExRVY2akE?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM19sTWlfZUZMcDRJRlQyTFhvUkNodU5QTUltTjJoSkphV3dVM0MwU1U1VThWOWR1Z3FOR242ZzhtTTY2OUpjOWtVXzh5LUpDMG81bnhUTWwtQWlfU01TY0o2YjIzQ053UTIxT0xSSVpBelU3Uk5aSGp2YlcyS1JURmxuTXNsMWEteXYtM0FqRThmVUhKdjVxVThhTmpVZWI2M0V5YndTZVJIRFZZWDFMeE9hN3kwMjgtbTdUa055Q1E3d0xBYWp3ZtIBzgFBVV95cUxON1U0MjVuREhNdVVFSUFiQXJpMlozb3VtRnp6cmhpS211ZC1jRldpS2k1bUNJdHRsV2RSZXFyd1I3bFd5cnR6N1EzQ3BqcGhnSW4wWi13LVpLRE9MdVdfeGp4SzVyNmRjYW5IdUF1NkZEbzljeU1YOU8wQzBBamYyRzZrcm5Md2dQVUVtYl9CUkhhZVJlcnpvLS1CM1d3SEVsb1dxc0gxU0h6YUlFWkRqN1JDMnRQanYwdTY2Y19QTXo3REJTX0FKVmtCYjhvZw?oc=5",
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFpQZS1HUjl2WlluOTFpNmNNUG14VHdfbXZfY2F6M1NXanA2c1RXMFo3Zk1hR0psTjRvMHpkVm9ENVA4TzZNNXhTYi1ob1pqaURISk5BalAtY1hrV2p5ZWFiR2JZNS1BR01ONDlGa1F4UkVwLWZNYlBtY0xMVW9pWXlBTzI3RHZ4a0FSWExPX1dZdVY1bm9GUVhFN29DWEY5Tzd6LXc2eDhSYTZJcE5mM2JlekE3a19pMzBJWnpvYUUtQlNSd0ZURjdYTzhNbnAwbTBN0gHYAUFVX3lxTFBEcWw1UE1nenBaR3Z5UnFZUkVtbG1ibldKcDZWTGdPS28zZ2pWdkgyYTlWalViT3R0NnRwNm9SV3ZZV2VyLUpudzRTbE1pcHlqTFNXcHpNTmhGdnY2eTM0UGxKRnhsVTczS1FDbXB3MmxhaE5rd1hSSTFiTnJJc3ZiTHE3MnFVNHpFUmJYbWhCN3FjdjdpQ0ZhelVOMlhMZFk3c2pYQmtxclM1Wnd3c2l4WmxYOHhKWTFBWnlCS21pVWc5M1MxS1UyRDljUWN1Z1F1bnNjd3lQSQ?oc=5"
       ]
     },
     {
-      "title": "GSLV-F18/NVS-03 MISSION",
-      "score": 21.86,
+      "title": "OpenAI funding target cut by $10 billion as AI slumps, report says",
+      "score": 20.75,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1BxdkxaZEl2djNYVXl5TVFMX09fMEtubHdBRGtHOGh3VlVNd0pWdTZFdk1MQ1ZsQlBOdnYtOWMwODNyTmdfYUxQTlpEQV9QUjZneXdwNWdJcWJmd2IxVFVHaEhQSkhzbXRVQWp6SDJZMlRVVU5kZmhOUEhHbzd0TkttY0UtSGZHX3BwZW5qWXpQYWUwZGlzQUxXd0tlWXIzZ0xQVW40Z2pUQ1NrRzdwRjVRanp4Slp4Rzg3aEsxSllfZHU3RVk2R1pRcHY1cldPUDNKWEZB0gHbAUFVX3lxTFA5RXRwOHdKRE90N2N4dE8tbTBBUUdwT2RXTDRTbjhGUjFyMVFSZVo1ZXl5ZF94S1pJR185UVY4dGJ0X0dUODBTOEp6dUIwQ3lxc1A0R1lONVlvRDlEOHVMNnY5aDRvSVVRUE1fMnBESlBJUzhJa012RURQR0lvVVNUejNDbl9VSjJsbzR1UVZjNW1fTDJ1RzNtbXFNaHFNTVlUZnJWUHdKczRTdTFaQVJDbjl0Z3V1a0Itdmk1aE1sN1RuejdwUFFDREdxVU00X21rZUdCVldPMU9rVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2RDcFBKd3BXWm94Rk9LMDdSTHVmOWF1dDg0M1E4QmdkX3BXWFhfV0ZJR0NKM2Y4N0o0ZFlBLWlxcjBXR01hSkZsNmVHa0Y1QmgwM2NiWXlPdUlZZHV0TlllUjkwcVROMTVBMnlpLXJZbjNRT1lmZm9GQmE3aEJsNWg1UlJjMjBhN2JnSVlvX1Z0SlZYTHJ5UXM5QXJCb2RqRXduMnc3V0NPbFhEZjdyMDN0UTFCdXVYRXBwLTViMTF6TDBQ0gHKAUFVX3lxTE0yNTBLX3VQZE8xYlAza2hESXlxS1FsX29UWDlLMnllQU5ZNnBGMEt1RjZkNnVkNmRCcW5DZFpmYUJHNThfcmFOaWM2YzEtVW1KV0Z3S3lvcUk4eEM2OXNzS3hiYUpkekN1emJ5Mk03YlpPTDNpM1A3aERpN3lMRzI3d0JJU0s4azhRb0RESGVxeTZmakEwcEwwNm5UU05xM2c4ZE1zd2w3bHI2MTNmUVVKVnROckhXTmp4Z1drRXF0cC1oWWpuTXJNLUE?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5"
+      ]
+    },
+    {
+      "title": "GSLV-F18/NVS-03 MISSION",
+      "score": 23.61,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -84,35 +73,22 @@
       ]
     },
     {
-      "title": "10 Indian Automotive Tech Startup Founders Building the Future of Mobility",
-      "score": 21.41,
+      "title": "UPI payments enabled to book tickets online for Burj Khalifa, Singapore attractions: FinMin",
+      "score": 26.81,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGpib3owOWU5eTZZWmVKRDloOEs4QV9RTUtCb0N1VDFRc3Rqa0RNUXJXczVVYnVtRE1EQmdfU0ZCZC02M3FqLVVMYTM3bEdiZHAwMUN3XzBoNVhHUFZPMnJvUE9Fd0VOZXFNNnhPSlJVbE45YnFnVHdvQ3RVTnRTVUQ4RDlyYTBxTW1udDRCbXNWdEc1SUZmaFRtMFhNOXVOa1p0OXZSY1BtckVDTV8xLUhEVXg5dEUyVnFhd3pYZUZIb1RfZ3otbjNndWhfdjk3?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5"
-      ]
-    },
-    {
-      "title": "Vivo X500, X500 Pro and X500 Pro Max bags BIS certification, indicating India launch",
-      "score": 21.43,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTFUTlhReDlqTXEtaFBTUjdtVi1lWWlBTWdWTTE1Nk41SVZRRlBDUVdtX1AtTVROZ1dDNzQzRm1SelN6WDNkTVp5M2ZFamtFVmVoNDdSa3NtM0d5alBfRk1HVmZTdmtGYzJRenhXWmNsRldXNkFMdEFqX1g2cUtZRHN2RmxIU2llbHhLRzZlU1RJYVphdXlTM3hCZ0JxWURwRU5MbGZFTFJQaENCUFdadG930gG3AUFVX3lxTE1nbUNFZFF1dzdUb2dxdTlQOEV1THRBYnJuN2otelJYYUViQmRCUGhIN245aEhKbnBzRGtzcEotWFdZNkVwUzVJSGp1M0xBeG5YRVFsUUxuWnBZWkZNdzBfbDN6V3lkS3c5UEdyek5rWk5rOUNnZ0JFZmdQMkwyeHlsUXRjV0xvemFsT2JaTTRLZTJObGh4d2pJbUd5QS1kMl9GX3R1X1IzRE5yN3dESDdQSDJ4RXNDUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxObG5RNF9ib1g2Y2d6QUhTeTJUZFptWkVLcVBuRDQ5VmFvN2wyOEd3YmF0WC1JTmZ0UWlBMk8xR2hEQ2RSM0tGYWhiWW1kQ3ZaMlRVQ0N1eF9wT2RSbWIxb0x1cUN1QmV0aWpSdmJXSnNyUC1ZTnNYcElXdExIX2Q3N0o3YTkxNEY3dldXSDUycXQyeXlkc3BxcHZFaW0yWDRocGNWX2tXSmNCMGRLUGJKVnJ2dkdsUkVRSFAwX21Jaw?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXdDUkJxamtydlE3VE1MdDZpdjZOdzlLOGZhY1QxaEZkQVpTdVlFMTJId3NfV041M1VzZ19ZelR3WjRmUXJ5S0poZnRvanNRdzEzV21YYjZTeFN1Rzhuc3QyeTB2ekx4aWlMWlRXYl9jUXdIMERKYWVwNUdKbkNlRGNKb0pYb01UcGU2a0ZaR1NIRkxUU2R5MDBKQVE1eC1y?oc=5"
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdVgza2taWmFDT29EUHQ2QjFGVFFMVjlHVG0zRi1oM3N3blBhLUU2N1dlUjdiLXFhb3VyazluWHRIX3dxdzhndmRnb2paSlBKcmRpV3ZVbWs5SkYwcTB0eVF2T2cxNElOeUJ2WEwyVVRxcXVGNXN5QWdLMTJxdm0tdjRPS1ZEY0ZiMkp0cEp0dF9oU0pqbGlyVm1YdW5NbEt3UkpEWkZ3elFvVlEwSGhma0dLN1RJVDY4Y3lfMENlY1pseERxblRIWl9ZMl9BOHpnYXFMT0ZuSVpHd3h6SG5kazE1cG9CRndocDliQ0Y3eml2dlZUYWdR0gH-AUFVX3lxTE9WTTNJdVdoQ2JXQzV2UlEtdHNvYWpWUjZSb0ItTVVxbWc1R0tFX25FQ09aRnZmU0xjdVF3aDdZMTZpSElyXy1KeWRvYmdTbWxrblg3WjlBVmVmY1EzRzhHTzBJLWxPdzFiVEJFUmdYWVg2WGMxaTk5akpoWXJWTUpxNmExdVVFODBPM2ZMYTJNLURuY1R1MnZSVDRXbVA4T0tCMEN3eHNQRGI3Q3RQN1BaeWxyQ3BuSzhHcjhPdzlpZkZrbnNLTkhxemdQMEJueE1XdEpGOVNzY2dReEljUVhlTlpVZDc2SmxDX3plNGw4Z2trWDY2aW5fTENNb1ZB?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzRBT1NDR082UFZMV1J5cHdCcGk1WUllRWI0N0YtRnNmUFRZMjRBaER1Y0FFQldZV2FrYlM1ZDM3ZkEzVXFLUkdPNk4xMmI2NWJneldjN3MzMmdBZ21XbFp0OHBlQUpNOGtraE1fZ2M1cHlnTHg0QjlPTVRHVXg5eUZhM0VaYzViNnFlQ05WcmxiU1VvZ0V2UWpQdVZmU2p0U1FoNk41TFYySGtqaDdqMA?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjJnQl9sT1cwN1cyeHNOdkNCTU5Bc1liS2owWVlmdDZOYXdvZlhjenYxMUk4TkZVNFFGaEJfaGlfOXgwYldGVFZIa2R0dTQ2QVBOMUVFNEk3aEhHZDRiN3FoLXRCZVpwZTFXNkJtOVJ6dDdpUUpscEt1c0dKRy1aUmFNbXhkX2Q0aHFNYWNlaEVDbTZtWl9Tb1laWXRiaEhqay1MZUVwZTRCZVNOdV9sNjVXM09tMDl2Yktma0tBcEFFS28wdUhvWFRKZFRkQ0ZYU01xNnJ5Rlg3VDJnamJmQUNGTnFyNjR5WGZaZnRkTDgwc3ZL0gHuAUFVX3lxTFBHNDM0TTFyNDhKeTJudWtpTF9YVHJ2QW5iUEgybjNXNHlqT1A4dWg5dXJXVTk4M3FqZ2p5VE5ZdDMzcXdQZjRfYWpsaU9vNklFQUc4Vkdwc21JLWRtTU5YSmwwcXA1bVV6SDVJUzJ1MlZiU3JPMmdXQVVaUXhJMmdqbTE2Qk8tNXdNN2pISGlQOENuaWdyZ1RzYlQ0TVdFalhFbTlWWDFyb0ZvUFdDNUlMV2RNMl80ZUJwM3lpVjUwckR4QUdvdnliLUxKbG1KNWp2dVBuUjduX2FmQUlyTDlJeDBpanFRSnNmZXc0UFE?oc=5"
       ]
     },
     {
       "title": "Fair use benefits everyone",
-      "score": 21.5,
+      "score": 21.25,
       "kinds": [
         "news",
         "official"
@@ -124,8 +100,22 @@
       ]
     },
     {
+      "title": "10 Indian Automotive Tech Startup Founders Building the Future of Mobility",
+      "score": 21.16,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGpib3owOWU5eTZZWmVKRDloOEs4QV9RTUtCb0N1VDFRc3Rqa0RNUXJXczVVYnVtRE1EQmdfU0ZCZC02M3FqLVVMYTM3bEdiZHAwMUN3XzBoNVhHUFZPMnJvUE9Fd0VOZXFNNnhPSlJVbE45YnFnVHdvQ3RVTnRTVUQ4RDlyYTBxTW1udDRCbXNWdEc1SUZmaFRtMFhNOXVOa1p0OXZSY1BtckVDTV8xLUhEVXg5dEUyVnFhd3pYZUZIb1RfZ3otbjNndWhfdjk3?oc=5",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGpib3owOWU5eTZZWmVKRDloOEs4QV9RTUtCb0N1VDFRc3Rqa0RNUXJXczVVYnVtRE1EQmdfU0ZCZC02M3FqLVVMYTM3bEdiZHAwMUN3XzBoNVhHUFZPMnJvUE9Fd0VOZXFNNnhPSlJVbE45YnFnVHdvQ3RVTnRTVUQ4RDlyYTBxTW1udDRCbXNWdEc1SUZmaFRtMFhNOXVOa1p0OXZSY1BtckVDTV8xLUhEVXg5dEUyVnFhd3pYZUZIb1RfZ3otbjNndWhfdjk3?oc=5"
+      ]
+    },
+    {
       "title": "Community safety report and new protections for teens",
-      "score": 20.22,
+      "score": 19.97,
       "kinds": [
         "news",
         "official"
@@ -137,21 +127,34 @@
       ]
     },
     {
-      "title": "OpenAI funding target cut by $10 billion as AI slumps, report says",
-      "score": 25.35,
+      "title": "Vivo X500, X500 Pro and X500 Pro Max bags BIS certification, indicating India launch",
+      "score": 23.18,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRTFUTlhReDlqTXEtaFBTUjdtVi1lWWlBTWdWTTE1Nk41SVZRRlBDUVdtX1AtTVROZ1dDNzQzRm1SelN6WDNkTVp5M2ZFamtFVmVoNDdSa3NtM0d5alBfRk1HVmZTdmtGYzJRenhXWmNsRldXNkFMdEFqX1g2cUtZRHN2RmxIU2llbHhLRzZlU1RJYVphdXlTM3hCZ0JxWURwRU5MbGZFTFJQaENCUFdadG930gG3AUFVX3lxTE1nbUNFZFF1dzdUb2dxdTlQOEV1THRBYnJuN2otelJYYUViQmRCUGhIN245aEhKbnBzRGtzcEotWFdZNkVwUzVJSGp1M0xBeG5YRVFsUUxuWnBZWkZNdzBfbDN6V3lkS3c5UEdyek5rWk5rOUNnZ0JFZmdQMkwyeHlsUXRjV0xvemFsT2JaTTRLZTJObGh4d2pJbUd5QS1kMl9GX3R1X1IzRE5yN3dESDdQSDJ4RXNDUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxObG5RNF9ib1g2Y2d6QUhTeTJUZFptWkVLcVBuRDQ5VmFvN2wyOEd3YmF0WC1JTmZ0UWlBMk8xR2hEQ2RSM0tGYWhiWW1kQ3ZaMlRVQ0N1eF9wT2RSbWIxb0x1cUN1QmV0aWpSdmJXSnNyUC1ZTnNYcElXdExIX2Q3N0o3YTkxNEY3dldXSDUycXQyeXlkc3BxcHZFaW0yWDRocGNWX2tXSmNCMGRLUGJKVnJ2dkdsUkVRSFAwX21Jaw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXdDUkJxamtydlE3VE1MdDZpdjZOdzlLOGZhY1QxaEZkQVpTdVlFMTJId3NfV041M1VzZ19ZelR3WjRmUXJ5S0poZnRvanNRdzEzV21YYjZTeFN1Rzhuc3QyeTB2ekx4aWlMWlRXYl9jUXdIMERKYWVwNUdKbkNlRGNKb0pYb01UcGU2a0ZaR1NIRkxUU2R5MDBKQVE1eC1y?oc=5"
+      ]
+    },
+    {
+      "title": "Entrepreneurship Beyond 55 Gains Attention as WalkAbout Concludes Startup Accelerator in Mumbai",
+      "score": 19.75,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1BxdkxaZEl2djNYVXl5TVFMX09fMEtubHdBRGtHOGh3VlVNd0pWdTZFdk1MQ1ZsQlBOdnYtOWMwODNyTmdfYUxQTlpEQV9QUjZneXdwNWdJcWJmd2IxVFVHaEhQSkhzbXRVQWp6SDJZMlRVVU5kZmhOUEhHbzd0TkttY0UtSGZHX3BwZW5qWXpQYWUwZGlzQUxXd0tlWXIzZ0xQVW40Z2pUQ1NrRzdwRjVRanp4Slp4Rzg3aEsxSllfZHU3RVk2R1pRcHY1cldPUDNKWEZB0gHbAUFVX3lxTFA5RXRwOHdKRE90N2N4dE8tbTBBUUdwT2RXTDRTbjhGUjFyMVFSZVo1ZXl5ZF94S1pJR185UVY4dGJ0X0dUODBTOEp6dUIwQ3lxc1A0R1lONVlvRDlEOHVMNnY5aDRvSVVRUE1fMnBESlBJUzhJa012RURQR0lvVVNUejNDbl9VSjJsbzR1UVZjNW1fTDJ1RzNtbXFNaHFNTVlUZnJWUHdKczRTdTFaQVJDbjl0Z3V1a0Itdmk1aE1sN1RuejdwUFFDREdxVU00X21rZUdCVldPMU9rVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjUwS191UGRPMWJQM2toREl5cUtRbF9vVFg5SzJ5ZUFOWTZwRjBLdUY2ZDZ1ZDZkQnFuQ2RaZmFCRzU4X3JhTmljNmMxLVVtSldGd0t5b3FJOHhDNjlzc0t4YmFKZHpDdXpieTJNN2JaT0wzaTNQN2hEaTd5TEcyN3dCSVNLOGs4UW9EREhlcXk2ZmpBMHBMMDZuVFNOcTNnOGRNc3dsN2xyNjEzZlFVSlZ0TnJIV05qeGdXa0VxdHAtaFlqbk1yTS1B0gHKAUFVX3lxTE0yNTBLX3VQZE8xYlAza2hESXlxS1FsX29UWDlLMnllQU5ZNnBGMEt1RjZkNnVkNmRCcW5DZFpmYUJHNThfcmFOaWM2YzEtVW1KV0Z3S3lvcUk4eEM2OXNzS3hiYUpkekN1emJ5Mk03YlpPTDNpM1A3aERpN3lMRzI3d0JJU0s4azhRb0RESGVxeTZmakEwcEwwNm5UU05xM2c4ZE1zd2w3bHI2MTNmUVVKVnROckhXTmp4Z1drRXF0cC1oWWpuTXJNLUE?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczZMbW1sUG9RV1cwZHpYOWR0ZFdjbTB4TUJfVEdUaHFRZldZSlFnOHYzUzVtNERsSG02c1ZNcUpCVmVDX09hdmNmbHBySkZ6cWl5Q2lZejN6anVhYmRZS3dQVWNxVW5vWENJcjVYVW5sRHhwYVZFdU9CX2dfeEN4TDZyZTN1Q0ZOeFNaRlhHN0dwQnQwN0E2OHIzQUxIaHBmMGJJUk5QdW1jUHVDSUs1WDJB?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSkliZU5XX2x2anZkdzNYaFY5cnBXM2VjNzdHNHRib05RcUNJRDNHMHF3Z2IxZGQxMVd6eWoydExiVTN0aUVtVUxBc2ZpeE9JRTR5MnB6SmZnWEpoZi03NHM3eENOMjdRLXB2TnRpQWNMakk3SnZ5VVdBVnZUd2J3eXJ1eHZQN2otWk1FR0REcEZwaTBSeEQ2NFBDYldZLWxzTlJ0c04xekluMGh3QXFSa3dHRng2UkdQMmhZVXVibzkxOTNHbEVUSVdRY0FpSFlCbFNmc3ZPV1FmU0ZKTU5vdzJaeFc?oc=5"
       ]
     },
     {
       "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, #972",
-      "score": 23.38,
+      "score": 21.13,
       "kinds": [
         "news"
       ],
@@ -159,7 +162,7 @@
       "links": [
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckhpNlhwWm9Za2dPeUZqSThrMUFxaHVnNllFYVZlMnFPRWx5Tk92Ni1IaU1pMUN1Tjcta1BfVmF2Nl9vazdDZjlGZGl5eUNUYW9TZ05NUTc0MzdGeVJTTDktOTNwdktSazFpNTJvTF90VFVXV3htN0wxWG5OSG14dWxyNFptbDJzS3FmQmtzVS16UU55ZnJUdjBsVjJ3V1NQNDlUYnVn?oc=5",
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckhpNlhwWm9Za2dPeUZqSThrMUFxaHVnNllFYVZlMnFPRWx5Tk92Ni1IaU1pMUN1Tjcta1BfVmF2Nl9vazdDZjlGZGl5eUNUYW9TZ05NUTc0MzdGeVJTTDktOTNwdktSazFpNTJvTF90VFVXV3htN0wxWG5OSG14dWxyNFptbDJzS3FmQmtzVS16UU55ZnJUdjBsVjJ3V1NQNDlUYnVn?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckhpNlhwWm9Za2dPeUZqSThrMUFxaHVnNllFYVZlMnFPRWx5Tk92Ni1IaU1pMUN1Tjcta1BfVmF2Nl9vazdDZjlGZGl5eUNUYW9TZ05NUTc0MzdGeVJTTDktOTNwdktSazFpNTJvTF90VFVXV3htN0wxWG5OSG14dWxyNFptbDJzS3FmQmtzVS16UU55ZnJUdjBsVjJ3V1NQNDlUYnVn?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNekg2T3lUZ3RZWm5FQUU3VmNIY0tqTWRucVFoVDJycW1sWnhJSGd0ZWl3ZGV1b25lcUxJcjNTZjkyNzdKYVdFTElycFVEMktRcUtiYThUQkhyNTRMUjZZeEVCV21pZXFaeXR3SjFGS2ZtUHhfWHBjellTX2JBSWEwbE5veEFzR3o5ajVrTmVPaFdPZjUtVHfSAZsBQVVfeXFMTlBwRFdHSWFYeWdnb19ZMHd0V0s5Vm1XdlphVnB2amYyQ25INENERzdTeV9tbXNrLV9jdldHdExUaDRQWWlrUWMxa0h2VDlnd1E3NTZacl9VZ0RmLU5xQ2hqOE5DaVV2ZXk0N1VybjNvbi1VbDZSN0txZml4a195aWYtXzd4M05fSEw0N2hERXZ3M0p2cW1KQUZGS2M?oc=5"
       ]
     }
   ]
