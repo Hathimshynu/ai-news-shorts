@@ -1,169 +1,159 @@
 {
-  "job_id": "2026-10-31-evening-2251",
-  "chosen": "Alibaba, Apple partner to bring Qwen to Apple Intelligence for users in China",
-  "reason": "Apple partnering with Alibaba to power Apple Intelligence in China using Qwen shows how regional AI models are becoming essential for global tech giants in Asia.",
+  "job_id": "2026-11-01-evening-1701",
+  "chosen": "OpenAI Confirms One Shared Usage Limit for ChatGPT and Codex From December",
+  "reason": "Directly impacts daily workflows and token budgets for developers and creators across Asia who rely on OpenAI tools.",
   "candidates": [
     {
-      "title": "Alibaba, Apple partner to bring Qwen to Apple Intelligence for users in China",
-      "score": 19.7,
+      "title": "OpenAI Confirms One Shared Usage Limit for ChatGPT and Codex From December",
+      "score": 23.31,
       "kinds": [
+        "community",
         "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wd25LX1dZZXEtR3ZUTi1nOXVFUW9LSXluR3c4c3pGaDhYTmxkaGRrdndJWXlFY0l5bFgxWmZwZnlmRklIeGZUblNSTDBZV296UklWMVJ6elFnR21lVHdMakx3?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDdm9yZ0ZYTTRwYXdMOWdXaXd5Zlp3eXlLVDlIbWdKb3VuaXBZbExuRkhGRnQ2RnViOTFBYzRpUGVmU2xKZXhBRy1wTGZpX25SdkY0d0hOVHpKa1VlZ09rVkJBWUo0SnR6ZU9jUTJUb1JIRVRJdUxJMEFUUUY?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDdm9yZ0ZYTTRwYXdMOWdXaXd5Zlp3eXlLVDlIbWdKb3VuaXBZbExuRkhGRnQ2RnViOTFBYzRpUGVmU2xKZXhBRy1wTGZpX25SdkY0d0hOVHpKa1VlZ09rVkJBWUo0SnR6ZU9jUTJUb1JIRVRJdUxJMEFUUUY?oc=5"
-      ]
-    },
-    {
-      "title": "UP approves ₹104 crore cybersecurity centre led by IIT Kanpur",
-      "score": 23.3,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUFF2TTJIVDQ3LUNlZVJiOXhSbmhtUU1kczlsekF5elhUUUo2ZGN2aVF6dnpjNDM5ME9Gb19QS2plNWhFTlk0Vk8zOU9tSmZncVhFTHZpMDlBSzh5MzN5a05lLU9VOGo0d3EzUWk3clI2dUotd2JxbHVTQmF5c3VyVFpxT0RONnl4V3AySmNDZTFua2RPSHdhQlpGdmFUakZkUzBRNDdNTHUyd3dTX1VrOTFjdUczX0M4VG9LNkJaYmVZRW5FMTJBQzdNYmZ6bnNoVVQwcktn0gHaAUFVX3lxTFBlZzA3N2tvTkZCVzdhRzNVNDFQZFRqTElNUllrOUxReFRTVXc2MVhnSWIwT3ZCa1EwNHdZa2JUbGwxY1hIOGkzTlZwTGUwUFZvWXRoaDhkX1p2bUlxdXdudmh2UWhVdzFSWHhGU3AweW53SUFvaE5Ja3hsak5uNWpONmMzT19EOGMxd1NlRWdIeDR0Ykw4OER0UWtCR3UySVc5bG5adV9TQ3I4NERWZmJDMFlseVJYeGlpcEd0eXJyLTdoeUQzellWLUlENElXWEFsYmxnZkx3cTd3?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVh5dUMyaVZnMnZ3aTYtSmFXUy1ZWERwR2UxN0lNeUY4eHprbGh3OEwwRTBqWFdnRndtc1lobk5CTm0zbUNjTmlNd2NTeDBOSEZmRWdobFNnaGdNZzRQVmF4c0JNX3IzbGY5RDRUZFRfZkRWZ3ZFVHJhM3p4ejR2dnppNW45VWwzVVkydWFJNk13WWw5Q2J0UEJabElQU1M3eXRWSjc3cm81d3FwM3c?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkpoMTJJQWRsaUd1ZHRGbDQ3dEQ4d0hUV2xIWHNjNGd3MGJVZFRydjlVVEtsUTN2M2R6enNLcDJhUmcyU2xZMWNrb0hJWktaWDJnNjVKVU1nellDd1NwWC1nSmRCNDVQbTlDbkhKc196RkN3SUJkMTVWVzZTVDcya0ZrREFGY0YtUXBTbFNjc1FIV0FPN2w1U0VxaER6UU9vWkpNMG1NSUMyUTRkWjZ1ZmJCQWN3TXlXZk5sNlUwMUFrRUtEbnRMUzZsRlc0dzNJbldOYVlmSTkxWGNWU3pz0gHkAUFVX3lxTFBfbDR6bHBVcWpfUUJ1WnVzeF9YSzVnR1pyckxCV0FGTDhhUG5qSy0wcjVQYThrTk5yeHZYbGxyMlFvUTRVblI4QUpkdWtDam9sT1NfMXlHUWJzZ2NZME45VDlpYlZoa1RZaUY3RF9pN0Job3llX0pldWVDNk5ITlpubGF2VThzaDVXeVpna3R2TGVNdHdtY1lmbmw0UTh0OUFDQkc2OFBxM2J0Qm9vVjhVRmdrTVNNbHpzS1JPdGU4UFJRemhFZC00bXJXSkh5Y2hobEFBU2RkR3pvaGo3VnJFUEFfag?oc=5"
-      ]
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/index/helping-websites-express-ai-training-preferences",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FcXc5N3BLX3dyMm5VMW1ZUy1nanQzUGk1ajB1dU5CWnBuX05ndXpvX1MySVVoRFRmU3pVZjNlTjZVRERBcTloTUNjaXl5b3JSc1M5Tm55V2d2b3JMd0NNdm52TUpLWE9BaGtHSWs1R1VxUWVTMVFTMElPVnBDQWM?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkY1aXJQUVlTU20zZ1o1Q1Q3eVpZN3RpQ0RHTS1WSWRwZXozWDZqTGZjUE9TV0U4NS1TYmxCbVVKc2tfdFNseEtkTXdZUlZJdGJCYW50OFMyV2JNNURiR25UNjFCYTNGdHlnWjEwUXZTUlBVZS0zVkZRVmZaUU0zRlpaSVVnSHdCbmI3bXZVcXowUHhGS3hJcFdzbmV6dGlkaEJn?oc=5",
+        "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
       ]
     },
     {
-      "title": "OpenAI funding target cut by $10 billion as AI slumps, report says",
-      "score": 24.66,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1BxdkxaZEl2djNYVXl5TVFMX09fMEtubHdBRGtHOGh3VlVNd0pWdTZFdk1MQ1ZsQlBOdnYtOWMwODNyTmdfYUxQTlpEQV9QUjZneXdwNWdJcWJmd2IxVFVHaEhQSkhzbXRVQWp6SDJZMlRVVU5kZmhOUEhHbzd0TkttY0UtSGZHX3BwZW5qWXpQYWUwZGlzQUxXd0tlWXIzZ0xQVW40Z2pUQ1NrRzdwRjVRanp4Slp4Rzg3aEsxSllfZHU3RVk2R1pRcHY1cldPUDNKWEZB0gHbAUFVX3lxTFA5RXRwOHdKRE90N2N4dE8tbTBBUUdwT2RXTDRTbjhGUjFyMVFSZVo1ZXl5ZF94S1pJR185UVY4dGJ0X0dUODBTOEp6dUIwQ3lxc1A0R1lONVlvRDlEOHVMNnY5aDRvSVVRUE1fMnBESlBJUzhJa012RURQR0lvVVNUejNDbl9VSjJsbzR1UVZjNW1fTDJ1RzNtbXFNaHFNTVlUZnJWUHdKczRTdTFaQVJDbjl0Z3V1a0Itdmk1aE1sN1RuejdwUFFDREdxVU00X21rZUdCVldPMU9rVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjUwS191UGRPMWJQM2toREl5cUtRbF9vVFg5SzJ5ZUFOWTZwRjBLdUY2ZDZ1ZDZkQnFuQ2RaZmFCRzU4X3JhTmljNmMxLVVtSldGd0t5b3FJOHhDNjlzc0t4YmFKZHpDdXpieTJNN2JaT0wzaTNQN2hEaTd5TEcyN3dCSVNLOGs4UW9EREhlcXk2ZmpBMHBMMDZuVFNOcTNnOGRNc3dsN2xyNjEzZlFVSlZ0TnJIV05qeGdXa0VxdHAtaFlqbk1yTS1B0gHKAUFVX3lxTE0yNTBLX3VQZE8xYlAza2hESXlxS1FsX29UWDlLMnllQU5ZNnBGMEt1RjZkNnVkNmRCcW5DZFpmYUJHNThfcmFOaWM2YzEtVW1KV0Z3S3lvcUk4eEM2OXNzS3hiYUpkekN1emJ5Mk03YlpPTDNpM1A3aERpN3lMRzI3d0JJU0s4azhRb0RESGVxeTZmakEwcEwwNm5UU05xM2c4ZE1zd2w3bHI2MTNmUVVKVnROckhXTmp4Z1drRXF0cC1oWWpuTXJNLUE?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5"
-      ]
-    },
-    {
-      "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-      "score": 23.76,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFlOWUxTV2ozQUdZbXMtdWR5Z1ZKUlNqS2xmY3dsYk9jWnBEcUhfNXFGeDJaUTIwMEg0N3FER3Z1TEdELTJaeEpKUWEzRW5laHliLVlLR0Z4elFXTGpDRkFaVzVtemx0S2pwYnN0T1lNUWFYM0VMMl85VXE1a0laYXhLYWJoUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0EzN2wzWmtPQ0g4SVVGMTRZRldtc1NRNEU1a3d0WGRzSTdFTUpvbHVVRndRUDZoVU9ucHIxQXU4VjVkdGNoWkN1Z2JDSUhvbkVCczlrUlpDaGVRNXFLTE1GRWs4TnQ2ZU90LW12NkNsdUp2UWpPRlFFMDFMNzgxcW5lT2gyLWJ5anFpb1dDV3p3Tm9CR0RGdnZpZUZLWUF1ZXlOVE5zTnFkR1ZXVWI0TVlKTmZOQ05kRVdzM1hPd3hUengtbEFWeGhTMmRla29pMXRGM0tLbDFtLU1PX1NlVkFR?oc=5"
-      ]
-    },
-    {
-      "title": "GSLV-F18/NVS-03 MISSION",
-      "score": 20.4,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNkFYM2JwMG8xYURPRFpqQkNyVDNwYjZPdVpjb3ROVG5pc28xM3cyRlhFeDBTTHhxM2l0aFBwTGxkLW1PcV9YaUprMUtvOVJMUVVmNVltaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWQm1DNmpCYU1zc3diLWJmVEdYVndrN0FkaFZoQUZmOENSVGVwUEU4QzY0VGR4WWM5SUM4T3FOcG9mWDNLNlNJVDRSN2h2d2NLYTU3Q0lIa2owdHdaYnFiQ1h3?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDdIZUdQaVJRU21RZFN4clAydG5VUXdBMjQ5dXNRZ1pUeXVMUk5OZWRZN1RTS1lRVEN2aGtuXzg4UFJSUHlxZzh3SmlzSExMYjlSazEtbGZIVG5TSzB1YjdaQ0FFcTlkLUFJUFdDWmxmb181YzUyeXY1WXQzcTJfQkxHYWlTOHNWdXFkRVgyYWdsY2gxSlM1U0VsbkpjMTBQdm5fWHdZQWc5WVNEU1dYb1BwdHVKR1VpYzFDZV9TZmgwai00N2p1by1UWQ?oc=5"
-      ]
-    },
-    {
-      "title": "10 Indian Automotive Tech Startup Founders Building the Future of Mobility",
-      "score": 21.45,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGpib3owOWU5eTZZWmVKRDloOEs4QV9RTUtCb0N1VDFRc3Rqa0RNUXJXczVVYnVtRE1EQmdfU0ZCZC02M3FqLVVMYTM3bEdiZHAwMUN3XzBoNVhHUFZPMnJvUE9Fd0VOZXFNNnhPSlJVbE45YnFnVHdvQ3RVTnRTVUQ4RDlyYTBxTW1udDRCbXNWdEc1SUZmaFRtMFhNOXVOa1p0OXZSY1BtckVDTV8xLUhEVXg5dEUyVnFhd3pYZUZIb1RfZ3otbjNndWhfdjk3?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGpib3owOWU5eTZZWmVKRDloOEs4QV9RTUtCb0N1VDFRc3Rqa0RNUXJXczVVYnVtRE1EQmdfU0ZCZC02M3FqLVVMYTM3bEdiZHAwMUN3XzBoNVhHUFZPMnJvUE9Fd0VOZXFNNnhPSlJVbE45YnFnVHdvQ3RVTnRTVUQ4RDlyYTBxTW1udDRCbXNWdEc1SUZmaFRtMFhNOXVOa1p0OXZSY1BtckVDTV8xLUhEVXg5dEUyVnFhd3pYZUZIb1RfZ3otbjNndWhfdjk3?oc=5"
-      ]
-    },
-    {
-      "title": "Google's AI satellite sends a very expensive haiku to Earth",
-      "score": 19.56,
+      "title": "Watch: ISRO's GLSV rocket successfully launches with next-gen navigation satellite",
+      "score": 23.81,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYV9qM2RXbzZFZWpHbzQ0X0FJd0k0enFDRE9BWFpSOHVCX29WaXR4X0JKVFpyclA4dzRreC1pTDlLa0tLSTZnZEJ6WU5HYkJMbW9CeHpXMW9QYnkzYkcwd3VHWkVQVC0yS253MjA0ZFlyMmNpdjVMbk00Rlh0WVluQ3k5a3N1dmNNSEQ5VFkzS3h6SGlBdVpKUFFnV2hKVzNCcHJSeXdWUm8wQUdja3pOVjZKaXQydWUtVUE?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEFldHFSdlFDM2Z6VVhKQUUzMk1ZeDRjVTlCdUpHTFF3ZVVNTFVvMXJkazY4MEtQMG1INl9TUE5DQ25XdmxpaDZwNUp1a1JMZV9QZW1NbzRGMUFqcFhTZ3dSdmw3SXVkbU5PaDJ1aGFjTzVGdVBVM00xTXNkMWVNRFphYkZZTDA0eWE0TE5YcHRadEQzZC1HTnhrTEw1VFNmcDVMTnRjenhZWVhFYTJDZHFmd1dXWjRxYnJVMHRDMNIBvwFBVV95cUxQTEFldHFSdlFDM2Z6VVhKQUUzMk1ZeDRjVTlCdUpHTFF3ZVVNTFVvMXJkazY4MEtQMG1INl9TUE5DQ25XdmxpaDZwNUp1a1JMZV9QZW1NbzRGMUFqcFhTZ3dSdmw3SXVkbU5PaDJ1aGFjTzVGdVBVM00xTXNkMWVNRFphYkZZTDA0eWE0TE5YcHRadEQzZC1HTnhrTEw1VFNmcDVMTnRjenhZWVhFYTJDZHFmd1dXWjRxYnJVMHRDMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGZzYmUzV09nSEJvNDR5X0FRSHRYY0RxWkpNRWU5SzBEVGRpVnBxRlY1TUhqWmQ1OVVLNDZKWGlmY1hsTTdCY3VxZHJHdDBWWkI2RnNwOTI0d1RnUU1oMGFETG9QZmJxeVcwM1ZsZjAwUU9OUGgta3M3ZVFZcFJpbm11dlRObXNvUDRRSHZta0owc3UzZVZRa01ELWJrWGhRcDVDUWdNUFN6Ny0xclhGMQ?oc=5"
       ]
     },
     {
-      "title": "Jio Launches New Voice-Only Recharge Plans in India Starting at Rs 147",
-      "score": 21.21,
+      "title": "Sovereign AI in India Shifts to Apps: 20 Models [2026]",
+      "score": 18.58,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmZuSnE2VTF5bl9ZLWhXN0dMcTFpc1dKMmlsYUNDS2JlbUJkYjJPVWF0dTZzQ2pqNzc5TjhHdC1lSkdMWjJVMkFZZnp5T21DbGRXN1ZTd1kyVGwwUWk1VlZiZ2s2bzlOODItMldyS0o4T1JNZ3ZkcmNvaWpRRHBHX2QwWXQwVHVKcGpJNkp1TkNLQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmRBZ0hDYUlqV0taZV83SFFxYnZmZVRDS2loRkc1cUt3REttXzlXQi00bDgzc1BQMWRacUNxX2plMEhhVmNhRmRGQlkyUXBqUnNhRUp1Ujk1clNubVdaZUpPMlQtRFl3UThDUUtzYlZXTXBEYUY5NFZBaXVla0wwNkctX1RxN0VwamQ2S1J5Z3kyNE5ka1d4OE95UdIBoAFBVV95cUxNeGF4dXQzZmR4MWJoMnV3VXVaTEgyclhtZFpHalVoQW5nczdxSU05QlN5Z0pwUDE5OHF1azRMcEYwbG1ZV2dDZGoyZ3p3eGdoZ0VjVEFma1VGRmcwZzBYcUhxQzd6X1NNQzZaNWhRa18zc2NtMWIxMmxmUDg2dzNMb1NZRDBTQVpJN0s5ME9fVjdCZU9LWUZ4NmpSVkhUQnE3?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTZlbTQ5Z0VaRXZ0MTdtVU5CdVcyaXhuRXdfdkRqeG9Xa1pyWWQxUnFYX2dWbmdFdEZkazdDeWwtTjlWdTdSMXkzR0dMZXVLazlqajF2VDgzNmZKTE5VZzdNREE1dm9aU0ZWWmN0N3BMdGRQZm44VWpCV0p6RnIzMzRxd0FFZ3dScWhIWUFEWFhQQjdBb2loTmNMNWpyU0ZtMnV5TG1OV2t0RHNPV2NBdjI1MlQ0QllpMUw1OHVsRlVTUDRM?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVvekxmWlpvcmZKRkRZeWlqeDcwcTVPZjZWTERnQmJSVUNhZFd6WjJUVTg3eHhXRV9Tc0V4cW5PSEYtRVluU3pLTElJRFJDZllVcjhqaXNRdTctRzRpQzF2azFuRnJMci1QN2NhdkRvQTVmR09IdVB6c0FHdUpJMTRCcU5OWS1jRXY4b2N0emJIaHBKNm9fZkc2M0l6S28?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZrUXhVMDdPYkhOMlppOW9fbjN6di15NWVSZUROczFOVXEyek1rVmR4M001SDJiUW9vSXBSQWJabkVmUDFHNHlVOTJaYkxsamZZUHZCYzg0cl9LandkTnE5VENhQmdubmJOV3FJT0M2WXAyclBqMTJ3WUNMU2F4SVZRaDhxSkpFcnZLSldSTExHMG91?oc=5"
       ]
     },
     {
-      "title": "Fair use benefits everyone",
-      "score": 22.05,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xRFJYTWdFRS1kQWdTY1BCamowNGFzOW04b19BLVM1aEt0U01LeXg1eUJSVWZGb1JFVUtia0FFMjBGMWRfWUxpNnpudEtoS0lVQlZITmIyU1VmUFAxbG1XclNR?oc=5",
-        "https://openai.com/index/fair-use-benefits-everyone",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xRFJYTWdFRS1kQWdTY1BCamowNGFzOW04b19BLVM1aEt0U01LeXg1eUJSVWZGb1JFVUtia0FFMjBGMWRfWUxpNnpudEtoS0lVQlZITmIyU1VmUFAxbG1XclNR?oc=5"
-      ]
-    },
-    {
-      "title": "Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch - GSMArena.com news",
-      "score": 21.54,
+      "title": "Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey",
+      "score": 21.56,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2pyTV84Y3ltSFlyT1FOMm4yWHR4MW9hYURPbFFHdkY3Y3dmdTZfTE8yMnBWTDJReTBwcV94cjdYNDNwM24xZk5LSGZTRVVFdkFUalpkRy1CbkpIOTRkV3dtbFNJdW5fNlNBaGFheG9QUzc0OUoyckJ3M0pwSkE1cDlYYzB5Wkhs0gGEAUFVX3lxTE1DaUFjeUxSRzVfeXhhMDBiYmJIeDZUaU52WEg5ZkJ4VUk4Ul96TC1Jb2JwNmxxR1VMMGhMOWV0RnNlTnQwbE56eVRqTHlMV0ZhMDViRFc2WUZNRW9XaGdsalJNYTYyenk2Vy10WU5HSGwteXBzY3pZOGJZaHRTMmxVVl9lQw?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2pyTV84Y3ltSFlyT1FOMm4yWHR4MW9hYURPbFFHdkY3Y3dmdTZfTE8yMnBWTDJReTBwcV94cjdYNDNwM24xZk5LSGZTRVVFdkFUalpkRy1CbkpIOTRkV3dtbFNJdW5fNlNBaGFheG9QUzc0OUoyckJ3M0pwSkE1cDlYYzB5Wkhs0gGEAUFVX3lxTE1DaUFjeUxSRzVfeXhhMDBiYmJIeDZUaU52WEg5ZkJ4VUk4Ul96TC1Jb2JwNmxxR1VMMGhMOWV0RnNlTnQwbE56eVRqTHlMV0ZhMDViRFc2WUZNRW9XaGdsalJNYTYyenk2Vy10WU5HSGwteXBzY3pZOGJZaHRTMmxVVl9lQw?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2pyTV84Y3ltSFlyT1FOMm4yWHR4MW9hYURPbFFHdkY3Y3dmdTZfTE8yMnBWTDJReTBwcV94cjdYNDNwM24xZk5LSGZTRVVFdkFUalpkRy1CbkpIOTRkV3dtbFNJdW5fNlNBaGFheG9QUzc0OUoyckJ3M0pwSkE1cDlYYzB5Wkhs0gGEAUFVX3lxTE1DaUFjeUxSRzVfeXhhMDBiYmJIeDZUaU52WEg5ZkJ4VUk4Ul96TC1Jb2JwNmxxR1VMMGhMOWV0RnNlTnQwbE56eVRqTHlMV0ZhMDViRFc2WUZNRW9XaGdsalJNYTYyenk2Vy10WU5HSGwteXBzY3pZOGJZaHRTMmxVVl9lQw?oc=5"
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOW42c1NzLTBHYlZCZkJuMkM4QnBlMUVqVWRoc1Y3a19kb2NTY0s0TzdrZ1NTZmxxeUZodEVRZm5PaTFLUy01cl9oOFFWaUtkZVNlREZaX2Ytbm5JbHg3VUZ6aVhmVnlXeGxCQXVvZkhTMk5VNTVucGdyYTJTckFvY2xQcHZNMFNQVk5YQ1lkYXE5WkdyN29QR1R6cGxNaW5nbUluUFdtalVndmloSGJSNGVrNjdwRHo5Nmd1ZVpTejZXeFd1enFkWVB5Y21uZndLV2ZBQ01wcmhjTWpXUFdoX2VaWFhPYXFub19j0gHwAUFVX3lxTE1kc0ZOMzRQTlkyVThYbmZiSHJZSVRvZThFeUk0ZGMzdTd3cnhVNERnRmZvRGVYTzFGSXIwT3NaQUNTeTctWkhoS2h1WklycVM5YzZmbk81MU9JbDRKd0FnejVZTk1FQmJQejBzQ2FEcGM2NDhOQkpMR1VXbkJOVUpNc0diM2xCOXRSbDlyMXV2aFp3ekM5bDZZYllTSC10bmF2ZlU2MHRSX0ZCVkk4QWJpSnJTVVVjLXVXSzFnLXY1TUdzT0ZpSll5ZkZHYTlCTkxyeFZzZ29xUm15QXN1am1yWk03dVlneUI4bHkyWE5HSw?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVZLZlFiNVdzVnlmNm9IZjVIenNtdEhJaUduRnZIcVZCa2RSbkQ3M0NVTy1XaE5iVXFXQmZpRDBUOWpfYm9yLWs0cXRiNTZ5TWpEaUJFbU93ZTVYaFJ0a1ZkQnNZczNydXJXb1Riam5jZ3J2bTU4c1NaSlktbUJuZVpoWVFCOV9HdFFmeVF4MnhrbjVab3JxTDFRNlc5M25GSnNRVWVOTzE3bmgtNFpPbFo4NjM4QWkzWFhrSUVtY0hDRnZmTXN4U0Z3eUrSAdIBQVVfeXFMUEU5elJocW8tZzBoYVRMSmlva19tV2hhXzlNamV5bGNEY01CaGd6NGF4Vnp4SDZlM29XQXhfVERHZkE5TTdNYThlbTZtb05qUDU5NHBpRUtpcXc1M2FpWlhxTk9EMkJ1NjZtcUUyTi10cTVYRnZSeUhhVWp4ZXFOTXFOX1YzUTV3MHp3MWgwb1lmb3dablB6YVY5aDNQOXdMam9zSjA3am9MdW04S24zU21HVkJqaVQ0bWY3cVlKSW5aQ3lCbmJ3VGNqM3hQaG03dDRn?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOW42c1NzLTBHYlZCZkJuMkM4QnBlMUVqVWRoc1Y3a19kb2NTY0s0TzdrZ1NTZmxxeUZodEVRZm5PaTFLUy01cl9oOFFWaUtkZVNlREZaX2Ytbm5JbHg3VUZ6aVhmVnlXeGxCQXVvZkhTMk5VNTVucGdyYTJTckFvY2xQcHZNMFNQVk5YQ1lkYXE5WkdyN29QR1R6cGxNaW5nbUluUFdtalVndmloSGJSNGVrNjdwRHo5Nmd1ZVpTejZXeFd1enFkWVB5Y21uZndLV2ZBQ01wcmhjTWpXUFdoX2VaWFhPYXFub19j0gHwAUFVX3lxTE1kc0ZOMzRQTlkyVThYbmZiSHJZSVRvZThFeUk0ZGMzdTd3cnhVNERnRmZvRGVYTzFGSXIwT3NaQUNTeTctWkhoS2h1WklycVM5YzZmbk81MU9JbDRKd0FnejVZTk1FQmJQejBzQ2FEcGM2NDhOQkpMR1VXbkJOVUpNc0diM2xCOXRSbDlyMXV2aFp3ekM5bDZZYllTSC10bmF2ZlU2MHRSX0ZCVkk4QWJpSnJTVVVjLXVXSzFnLXY1TUdzT0ZpSll5ZkZHYTlCTkxyeFZzZ29xUm15QXN1am1yWk03dVlneUI4bHkyWE5HSw?oc=5"
       ]
     },
     {
-      "title": "Today’s NYT Strands Hints, Spangram and Answers for Saturday, Oct. 31, #972",
-      "score": 19.92,
+      "title": "Upcoming smartphones in India in November 2026: Motorola Signature 27, Vivo X500, Xiaomi 18 Pro and more",
+      "score": 18.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckhpNlhwWm9Za2dPeUZqSThrMUFxaHVnNllFYVZlMnFPRWx5Tk92Ni1IaU1pMUN1Tjcta1BfVmF2Nl9vazdDZjlGZGl5eUNUYW9TZ05NUTc0MzdGeVJTTDktOTNwdktSazFpNTJvTF90VFVXV3htN0wxWG5OSG14dWxyNFptbDJzS3FmQmtzVS16UU55ZnJUdjBsVjJ3V1NQNDlUYnVn?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckhpNlhwWm9Za2dPeUZqSThrMUFxaHVnNllFYVZlMnFPRWx5Tk92Ni1IaU1pMUN1Tjcta1BfVmF2Nl9vazdDZjlGZGl5eUNUYW9TZ05NUTc0MzdGeVJTTDktOTNwdktSazFpNTJvTF90VFVXV3htN0wxWG5OSG14dWxyNFptbDJzS3FmQmtzVS16UU55ZnJUdjBsVjJ3V1NQNDlUYnVn?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHBEV0dJYVh5Z2dvX1kwd3RXSzlWbVd2WmFWcHZqZjJDbkg0Q0RHN1N5X21tc2stX2N2V0d0TFRoNFBZaWtRYzFrSHZUOWd3UTc1NlpyX1VnRGYtTnFDaGo4TkNpVXZleTQ3VXJuM29uLVVsNlI3S3FmaXhrX3lpZi1fN3gzTl9ITDQ3aERFdnczSnZxbUpBRkZLY9IBmwFBVV95cUxOUHBEV0dJYVh5Z2dvX1kwd3RXSzlWbVd2WmFWcHZqZjJDbkg0Q0RHN1N5X21tc2stX2N2V0d0TFRoNFBZaWtRYzFrSHZUOWd3UTc1NlpyX1VnRGYtTnFDaGo4TkNpVXZleTQ3VXJuM29uLVVsNlI3S3FmaXhrX3lpZi1fN3gzTl9ITDQ3aERFdnczSnZxbUpBRkZLYw?oc=5"
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM0x4S3gwc2tyUmp3Rm1EUTVUeGc4X1gxV2hyR2p5VDhVX2kxQjlObjlWOEwyeDlHcWR0LXR2cldhZkFHdVdhcFM4Y095am5lSS1VYzJVb1RlY1ZZemZzVGdGVmdMSHFTY1dqYmtYSkpUbWpaMy1GU2ZWVDQxVkJ0WFh3SExxY0E0TGtMUGpHbFd5eFBFMVp6ZnpaUElHQ3Y5REtlSFpjLUxvWGxJNm1WX29SelNLeHZQYlhPSEUweFRvNGc0b2Jab0lSV1hvRnJJSlVOMU9qdjR4aE9CNkV0NGtEVnlKYVRKZkNtTzVlckRKWVNRTHfSAfsBQVVfeXFMTUVlbGdDelFqR3BVRnVuWVBpY1J0QjBCcTkxczBQbzdhWHdGSjgxSk82aUpucHJaa0N1R19aRTVqalJDMXVub0FYaGdvUFFWNHVCOG1ZbXVIWDFMSFdlWFg1aHA5Y1pCb29TbTEwZjNPVEFTUEY2T3BTbnFuMWJZaVFqSlp3ZW05WTNFb2xPQ3BWTjhGSHgzYTFWY2dGOFc1WUFjV1QwaWVmVHA1elA1Qi1MelFvUTBkYXRLV1ZNYUViOXpEbWVUWE00Qm02U0tLbDEtRktoaU1XTDBKMnc0aThFelVxQmtwV1NMU21DS3FNck15MVNaYTM2Zmc?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2R3V0gybEs3ckwwZDVqaWwzVmJ1RHBaRTd0X0IyVlk2Vkw2eUZZV2lzYll5LXZaUEJzOEp6dF8wNFRjYkMyMnZQUUZZQWp4bFNNYWtDdzZiNWpPdGZVN1I3RUllckJBN1ZicEJydGhtM0ZxVWxIanZDSzlfZTFNUVhVTWJQR2o1elMwa25sZlQ1eFBDWXZoQ1BraGExYkcxWE81TjV6Z3V4N0MwZnh2clV3?oc=5"
+      ]
+    },
+    {
+      "title": "The Bengaluru Founder Building a Bridge to San Francisco",
+      "score": 22.71,
+      "kinds": [
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDZmVTJYXzhldGI0amFsY0ROU0JOSEtSX3dpVUZ5YUxZT1I1WVVzdUxubHItd0Y0R0VEOTVoTzc3T2dOMW5RZ2hmOWxCZnMyWlZtclVpSHlXb0JvQWFoVzgwaGRFMU10d1NIN0k2Zy1ubDBZdzlILXRuVHhnQ0ZLVFM4b2xxbEdub3hJUXo1ZTFWOHZmWDFIdjdmUVNTZEk?oc=5",
+        "https://www.producthunt.com/products/ac-bridge"
+      ]
+    },
+    {
+      "title": "Lava smartphones will get expensive in India from November 15 - GSMArena.com news",
+      "score": 22.75,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VzVoN2t0dkhTZjNqOVE2R2xwX0FabEZhUkFXeTZiTkpxMVRKUWswd3JTRzF0TlltNTk4aE1ra3V2blctbUVTZG53Q001bDJERERaTVU0UHNIQ1RGYnFJR0lRR2ZPd1Npd2FtRk1ROW1HY0Q1bk1OZzNIN0PSAXhBVV95cUxPYjV4LWN4NklmSjFzVmdYUm01NkIxLUJoOXRqNEczTjJ5Ymh1LUtQNEYzOUFNZTNTX3NQcllfTHlUYURBeXlCczlRNU04eDhxeUpiWXUydGN1R3pwMWNxNDRkcXp6VVg4eDV1WTJHRHF5Qk5xWTJOZWo?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VzVoN2t0dkhTZjNqOVE2R2xwX0FabEZhUkFXeTZiTkpxMVRKUWswd3JTRzF0TlltNTk4aE1ra3V2blctbUVTZG53Q001bDJERERaTVU0UHNIQ1RGYnFJR0lRR2ZPd1Npd2FtRk1ROW1HY0Q1bk1OZzNIN0PSAXhBVV95cUxPYjV4LWN4NklmSjFzVmdYUm01NkIxLUJoOXRqNEczTjJ5Ymh1LUtQNEYzOUFNZTNTX3NQcllfTHlUYURBeXlCczlRNU04eDhxeUpiWXUydGN1R3pwMWNxNDRkcXp6VVg4eDV1WTJHRHF5Qk5xWTJOZWo?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VzVoN2t0dkhTZjNqOVE2R2xwX0FabEZhUkFXeTZiTkpxMVRKUWswd3JTRzF0TlltNTk4aE1ra3V2blctbUVTZG53Q001bDJERERaTVU0UHNIQ1RGYnFJR0lRR2ZPd1Npd2FtRk1ROW1HY0Q1bk1OZzNIN0PSAXhBVV95cUxPYjV4LWN4NklmSjFzVmdYUm01NkIxLUJoOXRqNEczTjJ5Ymh1LUtQNEYzOUFNZTNTX3NQcllfTHlUYURBeXlCczlRNU04eDhxeUpiWXUydGN1R3pwMWNxNDRkcXp6VVg4eDV1WTJHRHF5Qk5xWTJOZWo?oc=5"
+      ]
+    },
+    {
+      "title": "Lava Announces Smartphone Price Hike Amid Memory Shortage; Check New Date",
+      "score": 18.94,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGxHRHJ5T05iNXUwazc0N3FtQXZnRTBqXzVpQ3N6ZzU5NWxuQS1uYk1zMGNXV3NZZWN1M0s1dTJ3RWdiVUhGQVI3eU9ZSFV5Q2VaREtNZVZEUjgwSGIxYm5zRHlaVUZLUmlVZzN4aEItc3ozQzdoaFZXSGkzWXNPeHVPd0ZyMlR0WGVCWWc5SDR4VE1oc2RQREUyOGRBU0plTjJfNWxXc0x5RVFSa2ZiRVVaM2owQdIBtgFBVV95cUxOTGxHRHJ5T05iNXUwazc0N3FtQXZnRTBqXzVpQ3N6ZzU5NWxuQS1uYk1zMGNXV3NZZWN1M0s1dTJ3RWdiVUhGQVI3eU9ZSFV5Q2VaREtNZVZEUjgwSGIxYm5zRHlaVUZLUmlVZzN4aEItc3ozQzdoaFZXSGkzWXNPeHVPd0ZyMlR0WGVCWWc5SDR4VE1oc2RQREUyOGRBU0plTjJfNWxXc0x5RVFSa2ZiRVVaM2owQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXJCMTJSNzBldFRNdmVFbHFQM0pxQVNmNDZuSVNxa3VsYzdLOFpOalcyamlqblJvamlRRkpFcksxeDZCNUdYTlo1VlVFajFVTzNadERnLUhtUTBRSEhPWDhaeE1XTzZHbGZQZHJ0YnNjaENvOFlibTlaeFJ2SHVzUHNLV2JCVHpCT3ZIX29JSENxOTVlTW5tamhn?oc=5"
+      ]
+    },
+    {
+      "title": "Delhi Police transfers Rs 5,000 via UPI to track kidnapper, rescues 13-year-old within 3 hours",
+      "score": 21.71,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2RJaDJTZUZNS1ZFMjE2TnNYTTlxeHc4RXB5c2QyaGVidzE3T3VBeG1Uc0wxMU1DM1JrdVRUQ2lCTHI3LS1NY3FnUlhGYUJ3SVZGT3ZQX29UUFRFNkdjTzZBcFJnalozcGRRZlJTRUdUdWYzNS1EV3VHU2hCUE54RWVrdFNxcE1LUlhIbGVNS3FObUF6cVEyM2hfXzBxX0g3TDZhVldhcGtlNGZqSG1SU3htQTZ1TXZpYWI2VmREMDBMbGhQNFHSAcsBQVVfeXFMTTZNOGVfYzRnaXNLSzJkX2ZBaHVwYlJzaS1hZG9KbzdjRm9SdHdzSmc0Y1ZQbmRLWVVIS0hPZ2RxUElnSWdIY0Fqc3NBSXhKaVJHdEtTYWZaN2VwbWRPSGZMcVdyUk1WTl8tU1NWd1dseTFYQVFfcmN2THdScWdxb1ZoZHZGbHUyR0x3NlphOEptc09vRzVLSHdJcFFiUF9sNldVemZmTFVyMjR4S0NkQW9RaDNlaDZvdElLUEpRQXVEZy1fZmxlUDdFQms?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTDNOdXNxRXlROTFZcTNJX0l4YlNhUFppa1VlQnRhMDlBUG5SMVlOVWctaHZOamZaRUlQZ3lpT05tQ09tQkt4c0VVV01nazNaWW1Pa2ZzOHdDcmRJV3hJZkNoV3lLeEJ2d0NXMzZIX3lEYUhtRlJSRXJsY2JJd0VMc2dUMmswVTJKOFBLakMwVVJHdDhVemdBczE3WjRyR25NenI3TnA1am9zdDdaYk1Bc0hhLXVubUxQZUc4Undqb3RCM2JtYzJFUFpvVktpeGFYM2tmVk1yN1R4SHhoOFFHUXVjLXd4QllnZzBnajBiQmlpT1NFQVHSAfsBQVVfeXFMUHpaQ0o0Uktyc0xtdm5qdy1rX3dMallEX1BtVXZPSFRWd05iX0FudnZRdm9tS3l0RW9NSW9sRTFZLWYxaFNvbVVxT01KMlVWTGJpZVpGTWNyWTFnaWphTEw4NVZZZTF6VS1QU0QxOWQyekkxUGJWaDNsUjNDYVdNWDJ1Q3l6ZFg5WmNZQzR4RnIycUZ6WVg3MWtSeWdOeE90dFkyTUZTX1hVQ1NqUEthbmF5ODdjcFZtTkI2bjJpbmVFOU81NkNiMnhLZzJocGVrRWljd3FLendSSlNsc1B1NVYwUElFZExvWnUyLVVLTnhsbWVpN3hxek1GZjQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYy0wSjI3aHdIUmZ0OFZ3ZHE0UEw3Sm1FdENVem1QMzhjandaSi1TZTZkTFJ0VmVKX0FmZnI0ckRYY2JDMW4yOXhUQlpoWUx1b0JFcDF4OEJ3X0VuS0RVYWwtcFBpZG56TmtQTmpGOGFlQVpJYndiOERUZDY5MndraXRVMVlwam9RbnI4cFZKVkdlMnZzeUlaR2ZTNUgwRXNfekl4Mzk1dzRlOWdjcGhNUElhb1c?oc=5"
+      ]
+    },
+    {
+      "title": "Three ONYX Hotels Win Green Tourism Awards, Bringing \"ONYX for Planet\" to Life in Chonburi",
+      "score": 19.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTZENC1wRGhSUWplNVpUZEIwbVZJSXhyc01NMG5Ia2d1SFFwdHhQNW1mOFpXVTVUVVJCRnQzMlNyc002eE5QWUxoM18wS0ZSNjZpdDlMb09SV1RUcWoxWjluWVZmTnpadzNtNG1CbUQ2WWNveUFTMUkwbzFlR05DOTNfcWhDRWo5RDd4QjRxeW5TT3pKM0l3T0kyNEVGUkVLRmQwZTZuN2x2NmpneHVrQlFZanhyUVhqS2pPR25jdDN0WHpRZl85VEVfcG52Nmg5czJ6Nw?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGswTEZHT0JZbDI2OUVIZmxtanRxem1yallJM3FFZmhQMzl1UWhxbExqQy1PQkxRTVRGWHhyQU1YVlVJN05GaEZTbnhBMjFEU3ViRGRqZmZMdnFzYTA4bmNyRlA3OFd4M3A5OW1vRTM4TXRfQ2Y0cEVWNHdaVHMzQmxaWkI5bFdtQWFGaUYtOE1pSnhIUkdKckVrNTdQVVBsY1ZaYTMzRDljZ1ZRZ0VCUE9iU0ptR1VOeFZCTi02Y2lFbUNJ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTZENC1wRGhSUWplNVpUZEIwbVZJSXhyc01NMG5Ia2d1SFFwdHhQNW1mOFpXVTVUVVJCRnQzMlNyc002eE5QWUxoM18wS0ZSNjZpdDlMb09SV1RUcWoxWjluWVZmTnpadzNtNG1CbUQ2WWNveUFTMUkwbzFlR05DOTNfcWhDRWo5RDd4QjRxeW5TT3pKM0l3T0kyNEVGUkVLRmQwZTZuN2x2NmpneHVrQlFZanhyUVhqS2pPR25jdDN0WHpRZl85VEVfcG52Nmg5czJ6Nw?oc=5"
+      ]
+    },
+    {
+      "title": "Patient Gharami builds his career, brick by brick",
+      "score": 19.69,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPek5wQjlNZE9EeGJmTHhRMGZpeXAwNzRfOUNqQVNoRkE2djJUeHF6a2VsbndmN3dsX2ZOazI4SDNVVEE1U1oycFZ6eEcza085dk14UE9XYzM0MkNhWDlVYmw3VEtTZ3JPRmR2MDZxSFdtaUlvMkxEa0VsZ3dpN3RMeTBDaGttVE51U182RzBNV0VKb1ZSQW81N2VBVUdYRHhkNlNqTmpnaUVMY3M0VE85VS1iRFBHeGRwVW1tQ29HZDFtQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPek5wQjlNZE9EeGJmTHhRMGZpeXAwNzRfOUNqQVNoRkE2djJUeHF6a2VsbndmN3dsX2ZOazI4SDNVVEE1U1oycFZ6eEcza085dk14UE9XYzM0MkNhWDlVYmw3VEtTZ3JPRmR2MDZxSFdtaUlvMkxEa0VsZ3dpN3RMeTBDaGttVE51U182RzBNV0VKb1ZSQW81N2VBVUdYRHhkNlNqTmpnaUVMY3M0VE85VS1iRFBHeGRwVW1tQ29HZDFtQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPek5wQjlNZE9EeGJmTHhRMGZpeXAwNzRfOUNqQVNoRkE2djJUeHF6a2VsbndmN3dsX2ZOazI4SDNVVEE1U1oycFZ6eEcza085dk14UE9XYzM0MkNhWDlVYmw3VEtTZ3JPRmR2MDZxSFdtaUlvMkxEa0VsZ3dpN3RMeTBDaGttVE51U182RzBNV0VKb1ZSQW81N2VBVUdYRHhkNlNqTmpnaUVMY3M0VE85VS1iRFBHeGRwVW1tQ29HZDFtQQ?oc=5"
+      ]
+    },
+    {
+      "title": "FLASH: China mixed aromatics prices 2026.10.30",
+      "score": 19.37,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEdKb25DWE1TVVJnRlQxR1dqbjByTk1Va2FkOTcxdmxQSUZHUmRhdC1tb0F1QkdtQW1ZeTJwbVZzWDAtWW1neXhqYlFCOU12bmFyeEdMYnJEUjhPSHZKZG1JdzVsUF91aEV2ckduYjhoZFNpSnVJWFJQek0wOXRvSmg0a0tXcjA?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEdKb25DWE1TVVJnRlQxR1dqbjByTk1Va2FkOTcxdmxQSUZHUmRhdC1tb0F1QkdtQW1ZeTJwbVZzWDAtWW1neXhqYlFCOU12bmFyeEdMYnJEUjhPSHZKZG1JdzVsUF91aEV2ckduYjhoZFNpSnVJWFJQek0wOXRvSmg0a0tXcjA?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEdKb25DWE1TVVJnRlQxR1dqbjByTk1Va2FkOTcxdmxQSUZHUmRhdC1tb0F1QkdtQW1ZeTJwbVZzWDAtWW1neXhqYlFCOU12bmFyeEdMYnJEUjhPSHZKZG1JdzVsUF91aEV2ckduYjhoZFNpSnVJWFJQek0wOXRvSmg0a0tXcjA?oc=5"
       ]
     }
   ]
