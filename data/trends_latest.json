@@ -1,88 +1,110 @@
 {
-  "job_id": "2026-11-01-evening-1701",
-  "chosen": "OpenAI Confirms One Shared Usage Limit for ChatGPT and Codex From December",
-  "reason": "Directly impacts daily workflows and token budgets for developers and creators across Asia who rely on OpenAI tools.",
+  "job_id": "2026-11-01-evening-1801",
+  "chosen": "India’s Sovereign AI: 20 Models, 38,000 GPUs [2026]",
+  "reason": "India's massive push for sovereign AI infrastructure with 20 custom models and 38,000 GPUs highlights major regional tech impact and independence.",
   "candidates": [
     {
-      "title": "OpenAI Confirms One Shared Usage Limit for ChatGPT and Codex From December",
-      "score": 23.31,
+      "title": "India’s Sovereign AI: 20 Models, 38,000 GPUs [2026]",
+      "score": 20.33,
       "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkY1aXJQUVlTU20zZ1o1Q1Q3eVpZN3RpQ0RHTS1WSWRwZXozWDZqTGZjUE9TV0U4NS1TYmxCbVVKc2tfdFNseEtkTXdZUlZJdGJCYW50OFMyV2JNNURiR25UNjFCYTNGdHlnWjEwUXZTUlBVZS0zVkZRVmZaUU0zRlpaSVVnSHdCbmI3bXZVcXowUHhGS3hJcFdzbmV6dGlkaEJn?oc=5",
-        "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
-      ]
-    },
-    {
-      "title": "Watch: ISRO's GLSV rocket successfully launches with next-gen navigation satellite",
-      "score": 23.81,
-      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYV9qM2RXbzZFZWpHbzQ0X0FJd0k0enFDRE9BWFpSOHVCX29WaXR4X0JKVFpyclA4dzRreC1pTDlLa0tLSTZnZEJ6WU5HYkJMbW9CeHpXMW9QYnkzYkcwd3VHWkVQVC0yS253MjA0ZFlyMmNpdjVMbk00Rlh0WVluQ3k5a3N1dmNNSEQ5VFkzS3h6SGlBdVpKUFFnV2hKVzNCcHJSeXdWUm8wQUdja3pOVjZKaXQydWUtVUE?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEFldHFSdlFDM2Z6VVhKQUUzMk1ZeDRjVTlCdUpHTFF3ZVVNTFVvMXJkazY4MEtQMG1INl9TUE5DQ25XdmxpaDZwNUp1a1JMZV9QZW1NbzRGMUFqcFhTZ3dSdmw3SXVkbU5PaDJ1aGFjTzVGdVBVM00xTXNkMWVNRFphYkZZTDA0eWE0TE5YcHRadEQzZC1HTnhrTEw1VFNmcDVMTnRjenhZWVhFYTJDZHFmd1dXWjRxYnJVMHRDMNIBvwFBVV95cUxQTEFldHFSdlFDM2Z6VVhKQUUzMk1ZeDRjVTlCdUpHTFF3ZVVNTFVvMXJkazY4MEtQMG1INl9TUE5DQ25XdmxpaDZwNUp1a1JMZV9QZW1NbzRGMUFqcFhTZ3dSdmw3SXVkbU5PaDJ1aGFjTzVGdVBVM00xTXNkMWVNRFphYkZZTDA0eWE0TE5YcHRadEQzZC1HTnhrTEw1VFNmcDVMTnRjenhZWVhFYTJDZHFmd1dXWjRxYnJVMHRDMA?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGZzYmUzV09nSEJvNDR5X0FRSHRYY0RxWkpNRWU5SzBEVGRpVnBxRlY1TUhqWmQ1OVVLNDZKWGlmY1hsTTdCY3VxZHJHdDBWWkI2RnNwOTI0d1RnUU1oMGFETG9QZmJxeVcwM1ZsZjAwUU9OUGgta3M3ZVFZcFJpbm11dlRObXNvUDRRSHZta0owc3UzZVZRa01ELWJrWGhRcDVDUWdNUFN6Ny0xclhGMQ?oc=5"
-      ]
-    },
-    {
-      "title": "Sovereign AI in India Shifts to Apps: 20 Models [2026]",
-      "score": 18.58,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVvekxmWlpvcmZKRkRZeWlqeDcwcTVPZjZWTERnQmJSVUNhZFd6WjJUVTg3eHhXRV9Tc0V4cW5PSEYtRVluU3pLTElJRFJDZllVcjhqaXNRdTctRzRpQzF2azFuRnJMci1QN2NhdkRvQTVmR09IdVB6c0FHdUpJMTRCcU5OWS1jRXY4b2N0emJIaHBKNm9fZkc2M0l6S28?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZrUXhVMDdPYkhOMlppOW9fbjN6di15NWVSZUROczFOVXEyek1rVmR4M001SDJiUW9vSXBSQWJabkVmUDFHNHlVOTJaYkxsamZZUHZCYzg0cl9LandkTnE5VENhQmdubmJOV3FJT0M2WXAyclBqMTJ3WUNMU2F4SVZRaDhxSkpFcnZLSldSTExHMG91?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZrUXhVMDdPYkhOMlppOW9fbjN6di15NWVSZUROczFOVXEyek1rVmR4M001SDJiUW9vSXBSQWJabkVmUDFHNHlVOTJaYkxsamZZUHZCYzg0cl9LandkTnE5VENhQmdubmJOV3FJT0M2WXAyclBqMTJ3WUNMU2F4SVZRaDhxSkpFcnZLSldSTExHMG91?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZrUXhVMDdPYkhOMlppOW9fbjN6di15NWVSZUROczFOVXEyek1rVmR4M001SDJiUW9vSXBSQWJabkVmUDFHNHlVOTJaYkxsamZZUHZCYzg0cl9LandkTnE5VENhQmdubmJOV3FJT0M2WXAyclBqMTJ3WUNMU2F4SVZRaDhxSkpFcnZLSldSTExHMG91?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVvekxmWlpvcmZKRkRZeWlqeDcwcTVPZjZWTERnQmJSVUNhZFd6WjJUVTg3eHhXRV9Tc0V4cW5PSEYtRVluU3pLTElJRFJDZllVcjhqaXNRdTctRzRpQzF2azFuRnJMci1QN2NhdkRvQTVmR09IdVB6c0FHdUpJMTRCcU5OWS1jRXY4b2N0emJIaHBKNm9fZkc2M0l6S28?oc=5"
       ]
     },
     {
       "title": "Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey",
-      "score": 21.56,
+      "score": 23.31,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOW42c1NzLTBHYlZCZkJuMkM4QnBlMUVqVWRoc1Y3a19kb2NTY0s0TzdrZ1NTZmxxeUZodEVRZm5PaTFLUy01cl9oOFFWaUtkZVNlREZaX2Ytbm5JbHg3VUZ6aVhmVnlXeGxCQXVvZkhTMk5VNTVucGdyYTJTckFvY2xQcHZNMFNQVk5YQ1lkYXE5WkdyN29QR1R6cGxNaW5nbUluUFdtalVndmloSGJSNGVrNjdwRHo5Nmd1ZVpTejZXeFd1enFkWVB5Y21uZndLV2ZBQ01wcmhjTWpXUFdoX2VaWFhPYXFub19j0gHwAUFVX3lxTE1kc0ZOMzRQTlkyVThYbmZiSHJZSVRvZThFeUk0ZGMzdTd3cnhVNERnRmZvRGVYTzFGSXIwT3NaQUNTeTctWkhoS2h1WklycVM5YzZmbk81MU9JbDRKd0FnejVZTk1FQmJQejBzQ2FEcGM2NDhOQkpMR1VXbkJOVUpNc0diM2xCOXRSbDlyMXV2aFp3ekM5bDZZYllTSC10bmF2ZlU2MHRSX0ZCVkk4QWJpSnJTVVVjLXVXSzFnLXY1TUdzT0ZpSll5ZkZHYTlCTkxyeFZzZ29xUm15QXN1am1yWk03dVlneUI4bHkyWE5HSw?oc=5",
         "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVZLZlFiNVdzVnlmNm9IZjVIenNtdEhJaUduRnZIcVZCa2RSbkQ3M0NVTy1XaE5iVXFXQmZpRDBUOWpfYm9yLWs0cXRiNTZ5TWpEaUJFbU93ZTVYaFJ0a1ZkQnNZczNydXJXb1Riam5jZ3J2bTU4c1NaSlktbUJuZVpoWVFCOV9HdFFmeVF4MnhrbjVab3JxTDFRNlc5M25GSnNRVWVOTzE3bmgtNFpPbFo4NjM4QWkzWFhrSUVtY0hDRnZmTXN4U0Z3eUrSAdIBQVVfeXFMUEU5elJocW8tZzBoYVRMSmlva19tV2hhXzlNamV5bGNEY01CaGd6NGF4Vnp4SDZlM29XQXhfVERHZkE5TTdNYThlbTZtb05qUDU5NHBpRUtpcXc1M2FpWlhxTk9EMkJ1NjZtcUUyTi10cTVYRnZSeUhhVWp4ZXFOTXFOX1YzUTV3MHp3MWgwb1lmb3dablB6YVY5aDNQOXdMam9zSjA3am9MdW04S24zU21HVkJqaVQ0bWY3cVlKSW5aQ3lCbmJ3VGNqM3hQaG03dDRn?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0NnRFFQZXlvRFl0ZjZvS0RCb3hRWXI4QWlvTWVqS0d6TGJJTkNDS1pjS0RXSWNoYmJBX1A1N3VlcVRtaTRjSmxpSW5BS1dvZlczVVZ1LVVYcTcxTDRJSFdSTkcycnc0Y3ZPWEcwNDlzMXdDVl9CTE1RMmtlZ3lpOVZ4SFZkRFJZWVY1bVo5S0VKSE5rQjZ3ampGeUVtWGNGVGdkWEdIVHROam9Mbk00RGw1ZkN0bVExcW5iTdIBwAFBVV95cUxQaHR6ajBuYUllY0owakg0MVRQNHZLTGVxOTdtZTExbWhQZlNUdmRZMHJ4WTJqeUI1QjM2MkNDTXlMM0xnbTlnaVdRLXExSkl5Q1BaNDhhQkZLcERkMXFaRHI4TVBXNEdiN29WbnpvbkNaVkpVM01SWU8zT0dtelp1a1JieXV2Ykxfc293TzdvRlp4UHRRWTJYSnFvV3lTSnNXN25DSU1mOVN4amNkS0lkRkZlaE84TG1zTU45TG9lQ2o?oc=5",
         "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOW42c1NzLTBHYlZCZkJuMkM4QnBlMUVqVWRoc1Y3a19kb2NTY0s0TzdrZ1NTZmxxeUZodEVRZm5PaTFLUy01cl9oOFFWaUtkZVNlREZaX2Ytbm5JbHg3VUZ6aVhmVnlXeGxCQXVvZkhTMk5VNTVucGdyYTJTckFvY2xQcHZNMFNQVk5YQ1lkYXE5WkdyN29QR1R6cGxNaW5nbUluUFdtalVndmloSGJSNGVrNjdwRHo5Nmd1ZVpTejZXeFd1enFkWVB5Y21uZndLV2ZBQ01wcmhjTWpXUFdoX2VaWFhPYXFub19j0gHwAUFVX3lxTE1kc0ZOMzRQTlkyVThYbmZiSHJZSVRvZThFeUk0ZGMzdTd3cnhVNERnRmZvRGVYTzFGSXIwT3NaQUNTeTctWkhoS2h1WklycVM5YzZmbk81MU9JbDRKd0FnejVZTk1FQmJQejBzQ2FEcGM2NDhOQkpMR1VXbkJOVUpNc0diM2xCOXRSbDlyMXV2aFp3ekM5bDZZYllTSC10bmF2ZlU2MHRSX0ZCVkk4QWJpSnJTVVVjLXVXSzFnLXY1TUdzT0ZpSll5ZkZHYTlCTkxyeFZzZ29xUm15QXN1am1yWk03dVlneUI4bHkyWE5HSw?oc=5"
       ]
     },
     {
-      "title": "Upcoming smartphones in India in November 2026: Motorola Signature 27, Vivo X500, Xiaomi 18 Pro and more",
-      "score": 18.87,
+      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "score": 19.62,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM0x4S3gwc2tyUmp3Rm1EUTVUeGc4X1gxV2hyR2p5VDhVX2kxQjlObjlWOEwyeDlHcWR0LXR2cldhZkFHdVdhcFM4Y095am5lSS1VYzJVb1RlY1ZZemZzVGdGVmdMSHFTY1dqYmtYSkpUbWpaMy1GU2ZWVDQxVkJ0WFh3SExxY0E0TGtMUGpHbFd5eFBFMVp6ZnpaUElHQ3Y5REtlSFpjLUxvWGxJNm1WX29SelNLeHZQYlhPSEUweFRvNGc0b2Jab0lSV1hvRnJJSlVOMU9qdjR4aE9CNkV0NGtEVnlKYVRKZkNtTzVlckRKWVNRTHfSAfsBQVVfeXFMTUVlbGdDelFqR3BVRnVuWVBpY1J0QjBCcTkxczBQbzdhWHdGSjgxSk82aUpucHJaa0N1R19aRTVqalJDMXVub0FYaGdvUFFWNHVCOG1ZbXVIWDFMSFdlWFg1aHA5Y1pCb29TbTEwZjNPVEFTUEY2T3BTbnFuMWJZaVFqSlp3ZW05WTNFb2xPQ3BWTjhGSHgzYTFWY2dGOFc1WUFjV1QwaWVmVHA1elA1Qi1MelFvUTBkYXRLV1ZNYUViOXpEbWVUWE00Qm02U0tLbDEtRktoaU1XTDBKMnc0aThFelVxQmtwV1NMU21DS3FNck15MVNaYTM2Zmc?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2R3V0gybEs3ckwwZDVqaWwzVmJ1RHBaRTd0X0IyVlk2Vkw2eUZZV2lzYll5LXZaUEJzOEp6dF8wNFRjYkMyMnZQUUZZQWp4bFNNYWtDdzZiNWpPdGZVN1I3RUllckJBN1ZicEJydGhtM0ZxVWxIanZDSzlfZTFNUVhVTWJQR2o1elMwa25sZlQ1eFBDWXZoQ1BraGExYkcxWE81TjV6Z3V4N0MwZnh2clV3?oc=5"
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXNQb0QtUFU2YTRfZkZPOTA0QnIzZTBYV1lQbGluOUJiZVNOenZ3dzRndzBYekszOXg3M0J5Z3hKRmduV3E4aHdVMTRwRlNtMV9KRnJlRXJEREZfNEtOY0Mxdms5aU9yeHVKWEZWQmtiUUFzOUVmU0RHNS1GcVZ3OEpBSFFNQi05OVJpbDRtSUduSGtHWW1BQkF4Y0thQmkyQmF6ZUp3YlA5SDRqbTFz?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXNQb0QtUFU2YTRfZkZPOTA0QnIzZTBYV1lQbGluOUJiZVNOenZ3dzRndzBYekszOXg3M0J5Z3hKRmduV3E4aHdVMTRwRlNtMV9KRnJlRXJEREZfNEtOY0Mxdms5aU9yeHVKWEZWQmtiUUFzOUVmU0RHNS1GcVZ3OEpBSFFNQi05OVJpbDRtSUduSGtHWW1BQkF4Y0thQmkyQmF6ZUp3YlA5SDRqbTFz?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXNQb0QtUFU2YTRfZkZPOTA0QnIzZTBYV1lQbGluOUJiZVNOenZ3dzRndzBYekszOXg3M0J5Z3hKRmduV3E4aHdVMTRwRlNtMV9KRnJlRXJEREZfNEtOY0Mxdms5aU9yeHVKWEZWQmtiUUFzOUVmU0RHNS1GcVZ3OEpBSFFNQi05OVJpbDRtSUduSGtHWW1BQkF4Y0thQmkyQmF6ZUp3YlA5SDRqbTFz?oc=5"
+      ]
+    },
+    {
+      "title": "People are 'vibe manufacturing' their ideas into reality, creating toys, answering machines, and jewelry",
+      "score": 19.42,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3pRY0F6dHBXNWlLY2hIYnhCMWZSQnRuU2lyTVFDZU10emZ0dDhESnJ1YzBuTW9mR0dMekhqUkx5U3VxS2hFQjVwNVo3VjQ4VF9nUU9zQm5QbDQxT3ZCaWM3aWd0RVNxTkZWNHVVMHdyTjVNTUl3NE1adFNkQnR3ZFl1N0hPZzdsVlhn?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3pRY0F6dHBXNWlLY2hIYnhCMWZSQnRuU2lyTVFDZU10emZ0dDhESnJ1YzBuTW9mR0dMekhqUkx5U3VxS2hFQjVwNVo3VjQ4VF9nUU9zQm5QbDQxT3ZCaWM3aWd0RVNxTkZWNHVVMHdyTjVNTUl3NE1adFNkQnR3ZFl1N0hPZzdsVlhn?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3pRY0F6dHBXNWlLY2hIYnhCMWZSQnRuU2lyTVFDZU10emZ0dDhESnJ1YzBuTW9mR0dMekhqUkx5U3VxS2hFQjVwNVo3VjQ4VF9nUU9zQm5QbDQxT3ZCaWM3aWd0RVNxTkZWNHVVMHdyTjVNTUl3NE1adFNkQnR3ZFl1N0hPZzdsVlhn?oc=5"
       ]
     },
     {
       "title": "The Bengaluru Founder Building a Bridge to San Francisco",
-      "score": 22.71,
+      "score": 24.46,
       "kinds": [
+        "backlog",
         "launch",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDZmVTJYXzhldGI0amFsY0ROU0JOSEtSX3dpVUZ5YUxZT1I1WVVzdUxubHItd0Y0R0VEOTVoTzc3T2dOMW5RZ2hmOWxCZnMyWlZtclVpSHlXb0JvQWFoVzgwaGRFMU10d1NIN0k2Zy1ubDBZdzlILXRuVHhnQ0ZLVFM4b2xxbEdub3hJUXo1ZTFWOHZmWDFIdjdmUVNTZEk?oc=5",
-        "https://www.producthunt.com/products/ac-bridge"
+        "https://www.producthunt.com/products/ac-bridge",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDZmVTJYXzhldGI0amFsY0ROU0JOSEtSX3dpVUZ5YUxZT1I1WVVzdUxubHItd0Y0R0VEOTVoTzc3T2dOMW5RZ2hmOWxCZnMyWlZtclVpSHlXb0JvQWFoVzgwaGRFMU10d1NIN0k2Zy1ubDBZdzlILXRuVHhnQ0ZLVFM4b2xxbEdub3hJUXo1ZTFWOHZmWDFIdjdmUVNTZEk?oc=5"
+      ]
+    },
+    {
+      "title": "Watch: ISRO's GLSV rocket successfully launches with next-gen navigation satellite",
+      "score": 19.73,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYV9qM2RXbzZFZWpHbzQ0X0FJd0k0enFDRE9BWFpSOHVCX29WaXR4X0JKVFpyclA4dzRreC1pTDlLa0tLSTZnZEJ6WU5HYkJMbW9CeHpXMW9QYnkzYkcwd3VHWkVQVC0yS253MjA0ZFlyMmNpdjVMbk00Rlh0WVluQ3k5a3N1dmNNSEQ5VFkzS3h6SGlBdVpKUFFnV2hKVzNCcHJSeXdWUm8wQUdja3pOVjZKaXQydWUtVUE?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGZzYmUzV09nSEJvNDR5X0FRSHRYY0RxWkpNRWU5SzBEVGRpVnBxRlY1TUhqWmQ1OVVLNDZKWGlmY1hsTTdCY3VxZHJHdDBWWkI2RnNwOTI0d1RnUU1oMGFETG9QZmJxeVcwM1ZsZjAwUU9OUGgta3M3ZVFZcFJpbm11dlRObXNvUDRRSHZta0owc3UzZVZRa01ELWJrWGhRcDVDUWdNUFN6Ny0xclhGMQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYV9qM2RXbzZFZWpHbzQ0X0FJd0k0enFDRE9BWFpSOHVCX29WaXR4X0JKVFpyclA4dzRreC1pTDlLa0tLSTZnZEJ6WU5HYkJMbW9CeHpXMW9QYnkzYkcwd3VHWkVQVC0yS253MjA0ZFlyMmNpdjVMbk00Rlh0WVluQ3k5a3N1dmNNSEQ5VFkzS3h6SGlBdVpKUFFnV2hKVzNCcHJSeXdWUm8wQUdja3pOVjZKaXQydWUtVUE?oc=5"
+      ]
+    },
+    {
+      "title": "Upcoming smartphones in India in November 2026: Motorola Signature 27, Vivo X500, Xiaomi 18 Pro and more",
+      "score": 20.62,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM0x4S3gwc2tyUmp3Rm1EUTVUeGc4X1gxV2hyR2p5VDhVX2kxQjlObjlWOEwyeDlHcWR0LXR2cldhZkFHdVdhcFM4Y095am5lSS1VYzJVb1RlY1ZZemZzVGdGVmdMSHFTY1dqYmtYSkpUbWpaMy1GU2ZWVDQxVkJ0WFh3SExxY0E0TGtMUGpHbFd5eFBFMVp6ZnpaUElHQ3Y5REtlSFpjLUxvWGxJNm1WX29SelNLeHZQYlhPSEUweFRvNGc0b2Jab0lSV1hvRnJJSlVOMU9qdjR4aE9CNkV0NGtEVnlKYVRKZkNtTzVlckRKWVNRTHfSAfsBQVVfeXFMTUVlbGdDelFqR3BVRnVuWVBpY1J0QjBCcTkxczBQbzdhWHdGSjgxSk82aUpucHJaa0N1R19aRTVqalJDMXVub0FYaGdvUFFWNHVCOG1ZbXVIWDFMSFdlWFg1aHA5Y1pCb29TbTEwZjNPVEFTUEY2T3BTbnFuMWJZaVFqSlp3ZW05WTNFb2xPQ3BWTjhGSHgzYTFWY2dGOFc1WUFjV1QwaWVmVHA1elA1Qi1MelFvUTBkYXRLV1ZNYUViOXpEbWVUWE00Qm02U0tLbDEtRktoaU1XTDBKMnc0aThFelVxQmtwV1NMU21DS3FNck15MVNaYTM2Zmc?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM0x4S3gwc2tyUmp3Rm1EUTVUeGc4X1gxV2hyR2p5VDhVX2kxQjlObjlWOEwyeDlHcWR0LXR2cldhZkFHdVdhcFM4Y095am5lSS1VYzJVb1RlY1ZZemZzVGdGVmdMSHFTY1dqYmtYSkpUbWpaMy1GU2ZWVDQxVkJ0WFh3SExxY0E0TGtMUGpHbFd5eFBFMVp6ZnpaUElHQ3Y5REtlSFpjLUxvWGxJNm1WX29SelNLeHZQYlhPSEUweFRvNGc0b2Jab0lSV1hvRnJJSlVOMU9qdjR4aE9CNkV0NGtEVnlKYVRKZkNtTzVlckRKWVNRTHfSAfsBQVVfeXFMTUVlbGdDelFqR3BVRnVuWVBpY1J0QjBCcTkxczBQbzdhWHdGSjgxSk82aUpucHJaa0N1R19aRTVqalJDMXVub0FYaGdvUFFWNHVCOG1ZbXVIWDFMSFdlWFg1aHA5Y1pCb29TbTEwZjNPVEFTUEY2T3BTbnFuMWJZaVFqSlp3ZW05WTNFb2xPQ3BWTjhGSHgzYTFWY2dGOFc1WUFjV1QwaWVmVHA1elA1Qi1MelFvUTBkYXRLV1ZNYUViOXpEbWVUWE00Qm02U0tLbDEtRktoaU1XTDBKMnc0aThFelVxQmtwV1NMU21DS3FNck15MVNaYTM2Zmc?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2R3V0gybEs3ckwwZDVqaWwzVmJ1RHBaRTd0X0IyVlk2Vkw2eUZZV2lzYll5LXZaUEJzOEp6dF8wNFRjYkMyMnZQUUZZQWp4bFNNYWtDdzZiNWpPdGZVN1I3RUllckJBN1ZicEJydGhtM0ZxVWxIanZDSzlfZTFNUVhVTWJQR2o1elMwa25sZlQ1eFBDWXZoQ1BraGExYkcxWE81TjV6Z3V4N0MwZnh2clV3?oc=5"
       ]
     },
     {
       "title": "Lava smartphones will get expensive in India from November 15 - GSMArena.com news",
-      "score": 22.75,
+      "score": 24.5,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -93,46 +115,8 @@
       ]
     },
     {
-      "title": "Lava Announces Smartphone Price Hike Amid Memory Shortage; Check New Date",
-      "score": 18.94,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGxHRHJ5T05iNXUwazc0N3FtQXZnRTBqXzVpQ3N6ZzU5NWxuQS1uYk1zMGNXV3NZZWN1M0s1dTJ3RWdiVUhGQVI3eU9ZSFV5Q2VaREtNZVZEUjgwSGIxYm5zRHlaVUZLUmlVZzN4aEItc3ozQzdoaFZXSGkzWXNPeHVPd0ZyMlR0WGVCWWc5SDR4VE1oc2RQREUyOGRBU0plTjJfNWxXc0x5RVFSa2ZiRVVaM2owQdIBtgFBVV95cUxOTGxHRHJ5T05iNXUwazc0N3FtQXZnRTBqXzVpQ3N6ZzU5NWxuQS1uYk1zMGNXV3NZZWN1M0s1dTJ3RWdiVUhGQVI3eU9ZSFV5Q2VaREtNZVZEUjgwSGIxYm5zRHlaVUZLUmlVZzN4aEItc3ozQzdoaFZXSGkzWXNPeHVPd0ZyMlR0WGVCWWc5SDR4VE1oc2RQREUyOGRBU0plTjJfNWxXc0x5RVFSa2ZiRVVaM2owQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXJCMTJSNzBldFRNdmVFbHFQM0pxQVNmNDZuSVNxa3VsYzdLOFpOalcyamlqblJvamlRRkpFcksxeDZCNUdYTlo1VlVFajFVTzNadERnLUhtUTBRSEhPWDhaeE1XTzZHbGZQZHJ0YnNjaENvOFlibTlaeFJ2SHVzUHNLV2JCVHpCT3ZIX29JSENxOTVlTW5tamhn?oc=5"
-      ]
-    },
-    {
-      "title": "Delhi Police transfers Rs 5,000 via UPI to track kidnapper, rescues 13-year-old within 3 hours",
-      "score": 21.71,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2RJaDJTZUZNS1ZFMjE2TnNYTTlxeHc4RXB5c2QyaGVidzE3T3VBeG1Uc0wxMU1DM1JrdVRUQ2lCTHI3LS1NY3FnUlhGYUJ3SVZGT3ZQX29UUFRFNkdjTzZBcFJnalozcGRRZlJTRUdUdWYzNS1EV3VHU2hCUE54RWVrdFNxcE1LUlhIbGVNS3FObUF6cVEyM2hfXzBxX0g3TDZhVldhcGtlNGZqSG1SU3htQTZ1TXZpYWI2VmREMDBMbGhQNFHSAcsBQVVfeXFMTTZNOGVfYzRnaXNLSzJkX2ZBaHVwYlJzaS1hZG9KbzdjRm9SdHdzSmc0Y1ZQbmRLWVVIS0hPZ2RxUElnSWdIY0Fqc3NBSXhKaVJHdEtTYWZaN2VwbWRPSGZMcVdyUk1WTl8tU1NWd1dseTFYQVFfcmN2THdScWdxb1ZoZHZGbHUyR0x3NlphOEptc09vRzVLSHdJcFFiUF9sNldVemZmTFVyMjR4S0NkQW9RaDNlaDZvdElLUEpRQXVEZy1fZmxlUDdFQms?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTDNOdXNxRXlROTFZcTNJX0l4YlNhUFppa1VlQnRhMDlBUG5SMVlOVWctaHZOamZaRUlQZ3lpT05tQ09tQkt4c0VVV01nazNaWW1Pa2ZzOHdDcmRJV3hJZkNoV3lLeEJ2d0NXMzZIX3lEYUhtRlJSRXJsY2JJd0VMc2dUMmswVTJKOFBLakMwVVJHdDhVemdBczE3WjRyR25NenI3TnA1am9zdDdaYk1Bc0hhLXVubUxQZUc4Undqb3RCM2JtYzJFUFpvVktpeGFYM2tmVk1yN1R4SHhoOFFHUXVjLXd4QllnZzBnajBiQmlpT1NFQVHSAfsBQVVfeXFMUHpaQ0o0Uktyc0xtdm5qdy1rX3dMallEX1BtVXZPSFRWd05iX0FudnZRdm9tS3l0RW9NSW9sRTFZLWYxaFNvbVVxT01KMlVWTGJpZVpGTWNyWTFnaWphTEw4NVZZZTF6VS1QU0QxOWQyekkxUGJWaDNsUjNDYVdNWDJ1Q3l6ZFg5WmNZQzR4RnIycUZ6WVg3MWtSeWdOeE90dFkyTUZTX1hVQ1NqUEthbmF5ODdjcFZtTkI2bjJpbmVFOU81NkNiMnhLZzJocGVrRWljd3FLendSSlNsc1B1NVYwUElFZExvWnUyLVVLTnhsbWVpN3hxek1GZjQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYy0wSjI3aHdIUmZ0OFZ3ZHE0UEw3Sm1FdENVem1QMzhjandaSi1TZTZkTFJ0VmVKX0FmZnI0ckRYY2JDMW4yOXhUQlpoWUx1b0JFcDF4OEJ3X0VuS0RVYWwtcFBpZG56TmtQTmpGOGFlQVpJYndiOERUZDY5MndraXRVMVlwam9RbnI4cFZKVkdlMnZzeUlaR2ZTNUgwRXNfekl4Mzk1dzRlOWdjcGhNUElhb1c?oc=5"
-      ]
-    },
-    {
-      "title": "Three ONYX Hotels Win Green Tourism Awards, Bringing \"ONYX for Planet\" to Life in Chonburi",
-      "score": 19.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTZENC1wRGhSUWplNVpUZEIwbVZJSXhyc01NMG5Ia2d1SFFwdHhQNW1mOFpXVTVUVVJCRnQzMlNyc002eE5QWUxoM18wS0ZSNjZpdDlMb09SV1RUcWoxWjluWVZmTnpadzNtNG1CbUQ2WWNveUFTMUkwbzFlR05DOTNfcWhDRWo5RDd4QjRxeW5TT3pKM0l3T0kyNEVGUkVLRmQwZTZuN2x2NmpneHVrQlFZanhyUVhqS2pPR25jdDN0WHpRZl85VEVfcG52Nmg5czJ6Nw?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGswTEZHT0JZbDI2OUVIZmxtanRxem1yallJM3FFZmhQMzl1UWhxbExqQy1PQkxRTVRGWHhyQU1YVlVJN05GaEZTbnhBMjFEU3ViRGRqZmZMdnFzYTA4bmNyRlA3OFd4M3A5OW1vRTM4TXRfQ2Y0cEVWNHdaVHMzQmxaWkI5bFdtQWFGaUYtOE1pSnhIUkdKckVrNTdQVVBsY1ZaYTMzRDljZ1ZRZ0VCUE9iU0ptR1VOeFZCTi02Y2lFbUNJ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTZENC1wRGhSUWplNVpUZEIwbVZJSXhyc01NMG5Ia2d1SFFwdHhQNW1mOFpXVTVUVVJCRnQzMlNyc002eE5QWUxoM18wS0ZSNjZpdDlMb09SV1RUcWoxWjluWVZmTnpadzNtNG1CbUQ2WWNveUFTMUkwbzFlR05DOTNfcWhDRWo5RDd4QjRxeW5TT3pKM0l3T0kyNEVGUkVLRmQwZTZuN2x2NmpneHVrQlFZanhyUVhqS2pPR25jdDN0WHpRZl85VEVfcG52Nmg5czJ6Nw?oc=5"
-      ]
-    },
-    {
       "title": "Patient Gharami builds his career, brick by brick",
-      "score": 19.69,
+      "score": 19.44,
       "kinds": [
         "news"
       ],
@@ -144,8 +128,34 @@
       ]
     },
     {
+      "title": "Three ONYX Hotels Win Green Tourism Awards, Bringing 'ONYX for Planet' to Life in Chonburi",
+      "score": 19.69,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc204akR3bUh4NFdOdUdlY0ozaUJVNGZURXUwdjZrMlJQeGlmS1VBaFBZb0RlWGhZQkNOX0JWVlVma1AzLUVDUzliaTdRaXgzemxPZWlZdGNoOEs5S1ByZUozTndCTWMyNWUxbWhEVUJ0aWFrVk9jRWs5ei1fOFVSdnJNOG5jRm96NF9TTnF1bWFGbnZqVzRfUDhxMnVmV04tSmM2V2Y5MGxvQ2drVjhucUxYZV84MWY1VjZGb0U5aEM1YkhpYVA4VmJWR0I2SkZpU3RCNzZNV2pEd0pnVHRlanlrcFIzbW1TcmY1YQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGswTEZHT0JZbDI2OUVIZmxtanRxem1yallJM3FFZmhQMzl1UWhxbExqQy1PQkxRTVRGWHhyQU1YVlVJN05GaEZTbnhBMjFEU3ViRGRqZmZMdnFzYTA4bmNyRlA3OFd4M3A5OW1vRTM4TXRfQ2Y0cEVWNHdaVHMzQmxaWkI5bFdtQWFGaUYtOE1pSnhIUkdKckVrNTdQVVBsY1ZaYTMzRDljZ1ZRZ0VCUE9iU0ptR1VOeFZCTi02Y2lFbUNJ?oc=5",
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxObllVbkwwdDB5NkVVdm1KZTlYeFVQX3R2cTQxVmtqRUZKUjgxc0YyejByMkg2ZnlyYVZzZHdiU2JUM1oxODVoaExIelQwYVF3OXEtTE9IREFuYlFaOVNWN0MxSFU3d2EyUXlQcnZQR1hSMFo5ZVlKcmdscEluQ0ZZWGxPVDEyUkh4YTJvNDk5dkpYNTJzWi1hYU1YSllqUFVuREFBaVJmLWw2azBUR2Z6UHZDVEdlUl9ISFIzam1XUmFySHQ2OVZxV3ZyTDd5dmQtRkVTUS1aZDR2SnItR0tCMWE1bkZqOFFneEZVOWlZQ2s5TTZxdkVyV3Y3SV9oRjJ10gGGAkFVX3lxTE5kLW83NGcxaEFMRlhGUnFsNFlxeFpmd1BGOVpmV3lrVm05ZU9sU1FrR2NtOXRDT081NGxOd1U5UU5LamR5VkRadElrVFA1M0lXaHpDcGdJV08tT0hoZlVROGs2dGJSUG4yN2pSaE1KRWU3UDV6QmhBQktLMldmNmhMa1VuU2x4TE8wV0NyVWtMQzNaaXBUTWhwRnM1NWtyZkRkTXNFTllaTVp2STZpQjdOVjZfb2ROYnlteE5JX05GOFpoVVotaGxuNzVZYmRHdFhza1NnSFgzRU1EaHh4UnFnMGJBaHBEOXNhY3Q2VVdDMFJ3eEY1OVFJbk8xcXA5XzExRmRkVXc?oc=5"
+      ]
+    },
+    {
+      "title": "UPI Transfer Of Rs 5,000 Helped Delhi Police Rescue Kidnapped Teen In 3 Hours",
+      "score": 21.96,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGZzMTlfOGFobjBmOXQ2blZXYnhhQ1BPWldvTXB3bHE0ZUxvb21IMENpa0RhZFFVYWlzcmRrWGdTckpOR3Z4Zjc3VFhNNVI4YVY4U1YyT1ViUU5DUktqSlNIY1lFd21fTXJyOHoxNmF0eEh5U0YyRG9nX0c1MzZrenpaajBHaXhqc2hKb2tndUJIQ2d6amFkLWFZM0NZSDgwdHV1ZHkwT1ZxV1MxYy1qNE81UEktNnJKdmszX0VKOG9jQXFybmpqdnZLVTNkUWRD0gHYAUFVX3lxTE9ORnNBODNOanFKYl9IYVlGWHQ1bkU4Rng1ei1qVC1VYXRvTE03c1ZuSjVfOWxTdnktMzljUUxIOXhHMl8yNHFvREYzdWF0QV9MX1NySDQzSUZTZlpSc1hpd210R0pnbUk3M3lna3lZbGJ6RFBRZ0Y0am1pTXVlczhOenNTV1Q5YVVJYnRhSXJBVUpNWUdLQjFRM2xfS2psVmhCZVJ4Ym13dFI3T0RPT3NkWjhBYTAwYWdGNHBWTlVMLWF0eWhxc3pQVENNajFaOGNpOTV4QVhpQw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY0JncHo4TmNEV053dW9zUWEyczE1TV80N1hrclJnRW5XWHFuaExMTkdTc2xrVzluVWU1ZEgwWnFMWlJ0eTJjRmNnS2ZnOG8tLU44Zl9kLVVxWlhZQ0ROaGZYMlZRb2J4TVZoMmNfZzEtVXM3N2pVbkRCVE5xLUJBX2RvR0pISkN5U2xrak85VXlHYzNob0hkNTVJNklNdTR4UXNZYkRLZU1HSW5SSm90T25pT3cxV1pNSFlWZ3RNci00MGVnY3RTcDBaOWpVMGR1SVdNSw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYy0wSjI3aHdIUmZ0OFZ3ZHE0UEw3Sm1FdENVem1QMzhjandaSi1TZTZkTFJ0VmVKX0FmZnI0ckRYY2JDMW4yOXhUQlpoWUx1b0JFcDF4OEJ3X0VuS0RVYWwtcFBpZG56TmtQTmpGOGFlQVpJYndiOERUZDY5MndraXRVMVlwam9RbnI4cFZKVkdlMnZzeUlaR2ZTNUgwRXNfekl4Mzk1dzRlOWdjcGhNUElhb1c?oc=5"
+      ]
+    },
+    {
       "title": "FLASH: China mixed aromatics prices 2026.10.30",
-      "score": 19.37,
+      "score": 19.12,
       "kinds": [
         "news"
       ],
