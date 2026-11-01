@@ -1619,5 +1619,20 @@
     "status": "expired",
     "platforms": {},
     "late_offer": true
+  },
+  "2026-10-31-evening-2251": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-01-evening-1701": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-01-evening-1801": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
   }
 }
