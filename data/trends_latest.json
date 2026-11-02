@@ -1,61 +1,52 @@
 {
-  "job_id": "2026-11-03-morning-0222",
-  "chosen": "Qodo builds context into AI code review with Codex",
-  "reason": "Qodo's integration of codebase context into AI code reviews gives developers a useful tool to boost code quality and automate pull request reviews.",
+  "job_id": "2026-11-03-morning-0325",
+  "chosen": "The latest AI news we announced in October 2026",
+  "reason": "This official roundup covers major new AI developments and features, giving viewers actionable updates on the latest technology advancements.",
   "candidates": [
     {
-      "title": "Qodo builds context into AI code review with Codex",
-      "score": 24.63,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMNzlLV1R4cG5kU2hRVHNycmJlYjFkelM3Q0Rod18yRVZTaktFbkJ4dm5FYTgzMmhWc2txRWhtTVNHLUhtRDdXTXFaYXZ4YlBtTkVxQmx3?oc=5",
-        "https://openai.com/index/qodo-codex-plugin"
-      ]
-    },
-    {
-      "title": "Security risk assessments include repository protection status",
-      "score": 19.73,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status"
-      ]
-    },
-    {
       "title": "The latest AI news we announced in October 2026",
-      "score": 26.26,
+      "score": 28.0,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzhIaGZmbzJ0NEFDSzlhcG93cXczNlNoTWtpYXFuWjR0MjBwRWppUGdKTjZSYUVrQXAyc0RQck1CQmZaMHg4XzNXRlpPOXlPYi04T2V5TllPYnFNQWc5b0w1UEhreGp1TGRZR05NWEVlX25sVzhsSEFUcVRjQzVQREhzRHVPVjlGTjl3?oc=5",
-        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+        "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzhIaGZmbzJ0NEFDSzlhcG93cXczNlNoTWtpYXFuWjR0MjBwRWppUGdKTjZSYUVrQXAyc0RQck1CQmZaMHg4XzNXRlpPOXlPYi04T2V5TllPYnFNQWc5b0w1UEhreGp1TGRZR05NWEVlX25sVzhsSEFUcVRjQzVQREhzRHVPVjlGTjl3?oc=5"
       ]
     },
     {
-      "title": "TRAI proposes draft AI safety guidelines for Indian telecom operators",
-      "score": 19.79,
+      "title": "Security risk assessments include repository protection status",
+      "score": 21.46,
       "kinds": [
         "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+        "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status"
+      ]
+    },
+    {
+      "title": "Google’s Suncatcher Satellite Sends AI-Generated Response",
+      "score": 19.9,
+      "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXFDZ1ByNVJ1ZGJiZ1E3NHdpaEVtdDIya1JEUzhaX2tYMDVtbGJ5NDFIQmNMNERHeDB4M3V4Z09nRGh3aXRrY0FHenY1VmU1bHBCWWJIM3QwRGd6dGhmUTVZZDVDWXZmYW50SlBNbW8xNlFzdU9jUDdzdVZ3MjZGMDhaZ0tRdHBqeHMwT1NBUnpidkgycmtjWlFpaS0wRS1Kb3hNSmVhbw?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXhCX0NuRl9kSF9DZGZ1YV8wQmY4V1lHb3AyVThFSWxUeVQ3czBnek94dHpYZVpwR1NkcUtWX1hSSzRDdVY4OHVCdTZ3eVYyQW8wYTZzcXJ4OG9VSGd3b0hxT0hxdGtLVXd3ZmE0MUtWQ0xubnAzb0NTYWxCN2hhclk3c2lVOFA1ei1IY1BPNzFCTGJ5YXlsYU05ZVpFLXJROGFTLTlYaG5jZGtrS2x5LVJXQ0QtMlZ6SElDSmdfM3VYcGk3dWtYX3VacGV3MEowLTQ2QjNXX2dSUEF0WHVSLXNMc9IBWkFVX3lxTE0zWEpzeW90Z2VqX1paeWpEWlJyUHdxOTZuSWxkQmRhLTRXcmNoNFk5RTVnNzlFN1dzNU9Rd1AxaUZoUlJPS1FFclVQLWx4UE5fMjQ5SEFJRVh5QQ?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEVKb0JuSm5rU19kaTBZUVBFYjZhUDlWcXBZQjZENk1DdU9xZ2NaTmZBTzE1RGtqa2VOb0JyLWxkci1GZ2VjVnA1Yzc0blY2dU8xSjBKMEdiaXZ0Ty1KWWJUTG1CU1ctOVl4ZlZWNFdkVEYwcE10d20tRWFwVXdPWFZSUGxabmtmTWlaWlhUWGNEQWQzZVN1UC1ZeFM0cDA?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEVKb0JuSm5rU19kaTBZUVBFYjZhUDlWcXBZQjZENk1DdU9xZ2NaTmZBTzE1RGtqa2VOb0JyLWxkci1GZ2VjVnA1Yzc0blY2dU8xSjBKMEdiaXZ0Ty1KWWJUTG1CU1ctOVl4ZlZWNFdkVEYwcE10d20tRWFwVXdPWFZSUGxabmtmTWlaWlhUWGNEQWQzZVN1UC1ZeFM0cDA?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEVKb0JuSm5rU19kaTBZUVBFYjZhUDlWcXBZQjZENk1DdU9xZ2NaTmZBTzE1RGtqa2VOb0JyLWxkci1GZ2VjVnA1Yzc0blY2dU8xSjBKMEdiaXZ0Ty1KWWJUTG1CU1ctOVl4ZlZWNFdkVEYwcE10d20tRWFwVXdPWFZSUGxabmtmTWlaWlhUWGNEQWQzZVN1UC1ZeFM0cDA?oc=5"
       ]
     },
     {
       "title": "Antler India Leads Rs 5 Crore Pre-Seed Round in Dispatch Network",
-      "score": 22.63,
+      "score": 22.36,
       "kinds": [
         "backlog",
         "news"
@@ -68,8 +59,22 @@
       ]
     },
     {
+      "title": "Vivo Y32 5G launched with 8,000mAh battery and Snapdragon 4 Gen 2",
+      "score": 22.89,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVVWSUZqWTBNRTdTSWwya1RCcHo1ZlN1enBvNE1VUENTWmRkb01GRXNwOXZxN2hEbjZIaS1WLXhzLWJaNmFMNFhlM2hhbTFRa3QyRlFfOG02ZjlrTW1DY1gzMnlRNHhtakowQzNMcy1MdWNJWGVod0ZrZG9qczF2RHF6eW1UWU5Lb09FZERzYlFuQU5lYVIyZExMUGlDNGQzTHM3bUhvcmFZV2ZrTDZWMkVZeEZkNHh4T3hfdktIT2xpTjZnVFMxem1VUdIBywFBVV95cUxQMVVWSUZqWTBNRTdTSWwya1RCcHo1ZlN1enBvNE1VUENTWmRkb01GRXNwOXZxN2hEbjZIaS1WLXhzLWJaNmFMNFhlM2hhbTFRa3QyRlFfOG02ZjlrTW1DY1gzMnlRNHhtakowQzNMcy1MdWNJWGVod0ZrZG9qczF2RHF6eW1UWU5Lb09FZERzYlFuQU5lYVIyZExMUGlDNGQzTHM3bUhvcmFZV2ZrTDZWMkVZeEZkNHh4T3hfdktIT2xpTjZnVFMxem1VUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakxmbTlOalZOcmxYSElxbE9DZGZHbU13MWRTdDVHLWJBSnZHZXQyX0ZCTDNfSmlmQVdVTU1XelpjV2J4RHRaa0tmc3ltdUNEV2FRTWdyMDNsUUJsMFRFckl3TThCeFZGSDN0dUxVRWtPSDJiRXJhckgzMEdfS0lWLThPWkVGQWJMMW1FatIBkgFBVV95cUxPUXN5NGljdHFvc0prYkhtWnJsRXF4US1aUVRtU3V4cUtpbnJKMmhtbV9JYXZETnFpc1Mzd1IyTE5sSC1IbFlGWkwteFpGMmk0MlpENDgzcmRRbUxHS0t2ZUhQQ0dKSFdHamh1NHhsSXJiQWt2Qk9UWENSZ1MyQnFteGJCRnBCNm5XbHE4Qmx0Y0huZw?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXVMQ1RHWWx6WWV3d0NTTFVfeGVIUFFiQTh0VHNWMjZiVzZNQV9uektIUUh2cTNPMFdzNU1uQ0ZiYy1PWXVaVnY2TFpTMUtIWVBDUjhkYXJuXzZpWlUzT2tGMHl4bktNUl93SHNYNktIQ2N0NkpHVmFiTERqSWducXo5QjRCZ0V2T3F0My1HT3hyTkFfNkpWRktEeWwwblJjSVBfemttMV83SGxJTlJRYVg3YjFHZXN5WWo0blF3?oc=5"
+      ]
+    },
+    {
       "title": "Karbonn Rebel Pro and Rebel smartphones launched in India: check price, specs",
-      "score": 30.94,
+      "score": 30.68,
       "kinds": [
         "backlog",
         "news"
@@ -82,21 +87,8 @@
       ]
     },
     {
-      "title": "Vivo Y32 5G launched with 8,000mAh battery and Snapdragon 4 Gen 2",
-      "score": 21.15,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVVWSUZqWTBNRTdTSWwya1RCcHo1ZlN1enBvNE1VUENTWmRkb01GRXNwOXZxN2hEbjZIaS1WLXhzLWJaNmFMNFhlM2hhbTFRa3QyRlFfOG02ZjlrTW1DY1gzMnlRNHhtakowQzNMcy1MdWNJWGVod0ZrZG9qczF2RHF6eW1UWU5Lb09FZERzYlFuQU5lYVIyZExMUGlDNGQzTHM3bUhvcmFZV2ZrTDZWMkVZeEZkNHh4T3hfdktIT2xpTjZnVFMxem1VUdIBywFBVV95cUxQMVVWSUZqWTBNRTdTSWwya1RCcHo1ZlN1enBvNE1VUENTWmRkb01GRXNwOXZxN2hEbjZIaS1WLXhzLWJaNmFMNFhlM2hhbTFRa3QyRlFfOG02ZjlrTW1DY1gzMnlRNHhtakowQzNMcy1MdWNJWGVod0ZrZG9qczF2RHF6eW1UWU5Lb09FZERzYlFuQU5lYVIyZExMUGlDNGQzTHM3bUhvcmFZV2ZrTDZWMkVZeEZkNHh4T3hfdktIT2xpTjZnVFMxem1VUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakxmbTlOalZOcmxYSElxbE9DZGZHbU13MWRTdDVHLWJBSnZHZXQyX0ZCTDNfSmlmQVdVTU1XelpjV2J4RHRaa0tmc3ltdUNEV2FRTWdyMDNsUUJsMFRFckl3TThCeFZGSDN0dUxVRWtPSDJiRXJhckgzMEdfS0lWLThPWkVGQWJMMW1FatIBkgFBVV95cUxPUXN5NGljdHFvc0prYkhtWnJsRXF4US1aUVRtU3V4cUtpbnJKMmhtbV9JYXZETnFpc1Mzd1IyTE5sSC1IbFlGWkwteFpGMmk0MlpENDgzcmRRbUxHS0t2ZUhQQ0dKSFdHamh1NHhsSXJiQWt2Qk9UWENSZ1MyQnFteGJCRnBCNm5XbHE4Qmx0Y0huZw?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXVMQ1RHWWx6WWV3d0NTTFVfeGVIUFFiQTh0VHNWMjZiVzZNQV9uektIUUh2cTNPMFdzNU1uQ0ZiYy1PWXVaVnY2TFpTMUtIWVBDUjhkYXJuXzZpWlUzT2tGMHl4bktNUl93SHNYNktIQ2N0NkpHVmFiTERqSWducXo5QjRCZ0V2T3F0My1HT3hyTkFfNkpWRktEeWwwblJjSVBfemttMV83SGxJTlJRYVg3YjFHZXN5WWo0blF3?oc=5"
-      ]
-    },
-    {
       "title": "From Motorola Signature 27 And Vivo X500 To Xiaomi 18 Pro: Upcoming Smartphones In November 2026 In India",
-      "score": 21.83,
+      "score": 21.57,
       "kinds": [
         "backlog",
         "news"
@@ -110,9 +102,8 @@
     },
     {
       "title": "OnePlus 16 may launch in India alongside OnePlus 16R, flagship could cost Rs 1.4 lakh",
-      "score": 21.81,
+      "score": 19.55,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
@@ -123,34 +114,8 @@
       ]
     },
     {
-      "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-      "score": 20.68,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUx5d3lreC1NSnotQWs1NU0wOUtrWnZTTlEzWGtZWHpNNlgxZUsyWlZVbXVSTzl6TTN4TU00WDFncTRxV2s1WWRENmkyX1ZsQ2FuS045eEJnQjFTLVNiNVBnR3FoM29IT00xdkx6cnc4VWdzSnNSWHUzU0pfNnlpOTNta3hGanBkTDF6ZFdUWGZEcHFSeWstOGZpbG1RSDA4YWJJOXNSWjZHRlhR0gGyAUFVX3lxTE5CbmNadnJmSmdjSFNaT0NhZ1VNSnR6WFdHSC00azNVZGhhN3dLWFJFbV9iVERSenJHRnlvYTVFTWlxTGl5bTk0RmVVV21HSnhKRzRldHgtcUp5dkROUXA2MzJES1lfREpqTEZZMUVodU53NEMwa0xHZUlkYzIyR1ZiUjFpRVFvMGVNVDgtTEpsYjhyeU5YMG90cUtRWlp1Q0cyeFl0dXZaWDJJZzI3UnhKT1E?oc=5",
-        "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-      ]
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Market in Respiratory Diseases is Set to Experience Steady Growth at a 5% CAGR",
-      "score": 19.79,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0VsbXFwSHBROEJJWTZPaFpacmZrRmFManlfU0NDOV9TSGZvU29Xck9rOU1vb0h1b21yRzdhSGlvRGFkN0R5VUdYVndqa0hjWS1JZTZNN1JhS2dsRVV3Mi1uQUk1SXNIQkRKU1E3Z2U3b04xT2xxR3FNdU1aQVFxNjQ4MzNCNkxmT29JVHNJYTQxNXVLVlBJVE8wX2ZQcFJPVGR2OC16X3R6RlhVczlyQmdVakZFRlpuYVNTTnktamZPcE1VUnRLOTRGVko0dGJFdjE4SEZTT1hFWDRMazlPSzNPYVdCQVFVb21j?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjc3U3RxeFFGc0ZHUHl1TVZjWWZFcVdIOFdHWnNjT2t5d2lLOE8zdGd3Ukdjb0tXMkpzNlA1NW1neG5pbGllSGNFZ1JrMkNjTU5Jb2xYUllqVXBpRlpvNkpaZ3FjR2dLVUpna3dvdDFlMVRTRjhOTHlQQkRjZVo0dHFReF9KWkJmZW00cVFwbXU1VHRMd1FuQk5kaVlOZUU?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVgyclEzYW9fSDdrWUljZzJvMXpMU0JkcTRQOXcwWGNGeWNqUWllVGo3RHBhMnJ6cF9HSy1MbEtia0dQamdqdkpFd093d3RoaGxCUW9MVWxNem1CR0E3VVdsMjJxanpsVHoyWElDSzVuQWRDamsyRWNUMHdEdjdYRThvQ1NKdURlTi1HZnV2b2RhNDkxeHpV?oc=5"
-      ]
-    },
-    {
       "title": "Introducing the Grid Protectors Program",
-      "score": 23.58,
+      "score": 23.32,
       "kinds": [
         "news",
         "official"
@@ -159,6 +124,46 @@
       "links": [
         "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
         "https://openai.com/index/grid-protectors-program"
+      ]
+    },
+    {
+      "title": "New cyberattack on supermarket fridges sweeps across Europe",
+      "score": 23.01,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUx5d3lreC1NSnotQWs1NU0wOUtrWnZTTlEzWGtZWHpNNlgxZUsyWlZVbXVSTzl6TTN4TU00WDFncTRxV2s1WWRENmkyX1ZsQ2FuS045eEJnQjFTLVNiNVBnR3FoM29IT00xdkx6cnc4VWdzSnNSWHUzU0pfNnlpOTNta3hGanBkTDF6ZFdUWGZEcHFSeWstOGZpbG1RSDA4YWJJOXNSWjZHRlhR0gGyAUFVX3lxTE5CbmNadnJmSmdjSFNaT0NhZ1VNSnR6WFdHSC00azNVZGhhN3dLWFJFbV9iVERSenJHRnlvYTVFTWlxTGl5bTk0RmVVV21HSnhKRzRldHgtcUp5dkROUXA2MzJES1lfREpqTEZZMUVodU53NEMwa0xHZUlkYzIyR1ZiUjFpRVFvMGVNVDgtTEpsYjhyeU5YMG90cUtRWlp1Q0cyeFl0dXZaWDJJZzI3UnhKT1E?oc=5",
+        "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+      ]
+    },
+    {
+      "title": "Looking for a Dyson Vac on Sale? You’re in Luck",
+      "score": 19.77,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HUjBsOUxheWUyRzctcllnTkVMQ20zNk1KeXc0NGt4TUZLd1ZUT3MxdGduX1JSdm01Y2EyM1BJaXUtbWhUZkpBVzBoUk9URkNiSTBDNVZXM090djkyWi1abnQwOFRGQjg?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HUjBsOUxheWUyRzctcllnTkVMQ20zNk1KeXc0NGt4TUZLd1ZUT3MxdGduX1JSdm01Y2EyM1BJaXUtbWhUZkpBVzBoUk9URkNiSTBDNVZXM090djkyWi1abnQwOFRGQjg?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HUjBsOUxheWUyRzctcllnTkVMQ20zNk1KeXc0NGt4TUZLd1ZUT3MxdGduX1JSdm01Y2EyM1BJaXUtbWhUZkpBVzBoUk9URkNiSTBDNVZXM090djkyWi1abnQwOFRGQjg?oc=5"
+      ]
+    },
+    {
+      "title": "Strands Hint Today: Answers for Nov. 3, No. 975",
+      "score": 23.77,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEVXakU2aWpYU1djZmItbUZ3c1NsMENONGgwdlJJbWdVdlI3MFE2dzNQaWtWRkd0c2tkUDRZeUk2TnlZSzlRcWRiMW9nNlNnYWFINzE4aXdRbXFLQldzT0dKaWE4b2ZhQW4yU1ZTVUJrVW51ZHNzbHA3WnFseWdLczl3WU1TYTFCYjc1X0hqOXVneUdZ?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE16ZklIUDBQLUxXYlBGUVJtaVZYdVFyLWp0Tkt1SFo0TGtnX0VsdnFKMU9aQ1ZOcW9IU0I4TjhhOHU0OHJLM0NubXdBVXNRWnUwUFNUVmJhVGdJcmdoazZmbTZvQ25FcngwOGoyMFl1YkVta2stczFqa1c0UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEVXakU2aWpYU1djZmItbUZ3c1NsMENONGgwdlJJbWdVdlI3MFE2dzNQaWtWRkd0c2tkUDRZeUk2TnlZSzlRcWRiMW9nNlNnYWFINzE4aXdRbXFLQldzT0dKaWE4b2ZhQW4yU1ZTVUJrVW51ZHNzbHA3WnFseWdLczl3WU1TYTFCYjc1X0hqOXVneUdZ?oc=5"
       ]
     }
   ]
