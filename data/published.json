@@ -1,16 +1,4 @@
 {
-  "2026-10-09-evening": {
-    "status": "expired",
-    "platforms": {}
-  },
-  "2026-10-09-evening-1503": {
-    "status": "expired",
-    "platforms": {}
-  },
-  "2026-10-09-evening-1532": {
-    "status": "expired",
-    "platforms": {}
-  },
   "2026-10-09-evening-1624": {
     "status": "expired",
     "platforms": {}
@@ -1631,6 +1619,21 @@
     "late_offer": true
   },
   "2026-11-01-evening-1801": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-01-evening-2243": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-02-evening-1702": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-02-evening-1801": {
     "status": "expired",
     "platforms": {},
     "late_offer": true
