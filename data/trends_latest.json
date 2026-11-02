@@ -1,165 +1,163 @@
 {
-  "job_id": "2026-11-01-evening-2243",
-  "chosen": "Google runs AI model on satellite chip, advancing orbital data center ambitions",
-  "reason": "Google's breakthrough in running AI models directly on orbital satellite chips offers a fascinating look into the future of space-based data centers and edge AI computing.",
+  "job_id": "2026-11-02-evening-1702",
+  "chosen": "Royally Launches Cloud Platform for Managing WordPress Sites Through AI Agents",
+  "reason": "It introduces a practical tool leveraging AI agents to automate WordPress site management, offering immediate utility for web creators, agencies, and tech professionals.",
   "candidates": [
     {
-      "title": "Google runs AI model on satellite chip, advancing orbital data center ambitions",
-      "score": 19.05,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTZWSWxiZEI0Q0pLeEpmSkJsMXlJUUxwTTZaYjZLLU55b1YyUkJiU2h4WUJvbk5MNVBJaFcxUTNQRzZ0LWJRTFlOU2lyY3N1RWZWTjFHNG1QaVFLYTd0NlpvblJHY0ZBRUI2WnQ5WE9WcVhBRVlUcmsxSjhKcXBVMWd4a1VtWmN2VUR4VFplSnlWNkR1NUVvSFNXT1FsaGpKWEJz?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTZWSWxiZEI0Q0pLeEpmSkJsMXlJUUxwTTZaYjZLLU55b1YyUkJiU2h4WUJvbk5MNVBJaFcxUTNQRzZ0LWJRTFlOU2lyY3N1RWZWTjFHNG1QaVFLYTd0NlpvblJHY0ZBRUI2WnQ5WE9WcVhBRVlUcmsxSjhKcXBVMWd4a1VtWmN2VUR4VFplSnlWNkR1NUVvSFNXT1FsaGpKWEJz?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTZWSWxiZEI0Q0pLeEpmSkJsMXlJUUxwTTZaYjZLLU55b1YyUkJiU2h4WUJvbk5MNVBJaFcxUTNQRzZ0LWJRTFlOU2lyY3N1RWZWTjFHNG1QaVFLYTd0NlpvblJHY0ZBRUI2WnQ5WE9WcVhBRVlUcmsxSjhKcXBVMWd4a1VtWmN2VUR4VFplSnlWNkR1NUVvSFNXT1FsaGpKWEJz?oc=5"
-      ]
-    },
-    {
-      "title": "Millennials lead Gen Z in AI shopping adoption in India with 84% usage: McKinsey",
-      "score": 22.94,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVFHQWVqX1BHYldHT0tkaGNPVUtNUldHaXBkcFBOSDBMRmNPSlhBNVFPZUEwUG9rZVlFc1dMVHNsRGtIWWZaU3p3RHV5M2lEeS1UQTYxZjZuNDNRangxQ2RyQ1VyY2xJTDNuT0hUVFZRS2p1Ui1tQ09aNlpzVVNBWXpBTFdjWk8tTFJGMzlEY1dPay1IT1pBWFhPNWJEeThNZkNCbnFtbjJlUm9La1B2akNEeFY0Q0xKVG1nbTNEOV8yNXg3?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRzl2Y09EZDVjVVE4S2tsU0h0c2VIdW02ZnRyam54NFlnWWgxZHFWdkhSLUlYMkxNMXJ2b25nNTBCN3g0MjM2SkpDcFg4V0tFOWxMdlV5UmFFZDBPQUJ5VUNoV3lBd0NwTnVrbHdEbEVyWGZnTEstdnZBSFA4UGZENmtjV3ZNTFhqQ3h3UFp4OHhucFVxWUd6WkpGTFVvRWJGOTk3QlBWNHpoQm9DbDRrS2hRNjdoRzd6R01nU0F3akpqejVfX0E?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVZLZlFiNVdzVnlmNm9IZjVIenNtdEhJaUduRnZIcVZCa2RSbkQ3M0NVTy1XaE5iVXFXQmZpRDBUOWpfYm9yLWs0cXRiNTZ5TWpEaUJFbU93ZTVYaFJ0a1ZkQnNZczNydXJXb1Riam5jZ3J2bTU4c1NaSlktbUJuZVpoWVFCOV9HdFFmeVF4MnhrbjVab3JxTDFRNlc5M25GSnNRVWVOTzE3bmgtNFpPbFo4NjM4QWkzWFhrSUVtY0hDRnZmTXN4U0Z3eUrSAdIBQVVfeXFMUEU5elJocW8tZzBoYVRMSmlva19tV2hhXzlNamV5bGNEY01CaGd6NGF4Vnp4SDZlM29XQXhfVERHZkE5TTdNYThlbTZtb05qUDU5NHBpRUtpcXc1M2FpWlhxTk9EMkJ1NjZtcUUyTi10cTVYRnZSeUhhVWp4ZXFOTXFOX1YzUTV3MHp3MWgwb1lmb3dablB6YVY5aDNQOXdMam9zSjA3am9MdW04S24zU21HVkJqaVQ0bWY3cVlKSW5aQ3lCbmJ3VGNqM3hQaG03dDRn?oc=5"
-      ]
-    },
-    {
-      "title": "Digi Yatra starts international passenger trials at seven airports on select Air India, IndiGo flights",
-      "score": 21.82,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgJBVV95cUxOQ0tkbHJfN3lfZ2JOblVVdTJ2MWJEZ1FRREt4eXBVUkJYN0lMTXlxZXJGYk9SQ0NZNzRJdmoyYlRfMThfdkxYTnhHaGhYbUZmZmhPamx5YzlkM25wMUZUaU9ULVJyQi1iaGFIcm52OHJfUUV4RE5yVWRFTGtPMElyaWQxdWNfdTZWSkg2QVBYUjlXamhIWHpuTnV1Tm5pSWx0XzBTODBCbklNS0pWbGp1UkdTcTFtX2x0SFQwTnE2ZzdYYWpkWWtMY3d6VU92MnpDMzdFM0YyaGwwYXZHbnVKTGJsSGQ0THQyV0ZGQXdMSXlvWUc2QXhwbWw4dnZSQUtQYjY2NXFJYWJnbkFtQzJZSUJpZHg4dGx3RFI0TlZKYl8zbll3MHfSAasCQVVfeXFMUFZQZjgtSWtaeW9QZ1hQYzZ5V1lEbWc5aVNkRTByQ2VsQjlGOWg1UC1tN3dYTUg5X2E5d0RJZk5IclZ0d3h4Mmh0NUlwU3VBRjlmS094RXdWNDBsck9DVzVTVThVMy1XbjFrT1dXLVRDOEpsWDFOUGRMakhvMmpFUVRTenJUeGswZ0hKcXRIRVhwSVpHNmZETnFJQzYxVG5rQ2JIMEw1TUFITEJtMExKNVNwRzVDb09xN0MyNGxiY2t5dm5NZEhmVjNOc3daOW5PdndOck5UUlNhVjQ0U0NSSHFGVU1FLUczbG41REJHTVBoc05vTVFTTGdQOTIzelFITHdIQW1qVVJoSU5qUmdGWXpHUV80YV8yWmRWWHJ2QThpMFR1clcydE1uUm8?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEdaYVluTkpFVWI1WmpnSW12WF9hbkdHanpQcHc5M3BMSDBlUFh4dll5UkJRQ0xYZHBMMVp6dC1vZUV2bkozdTQyUTBWYXJUcEhHdUZyVm1maU85MXh3dklOM3lfTFVmMDhmemo2U2hKdFZLOHJoZmNVaExGNTNHb0FRWG4tU1BwWVZrcjlDNDlWZWV4UmdGWkZQa0MyeGFhbkNGRzdRcFFNNkdVeXh4YUxoeU9FQXJKVmtZ0gHIAUFVX3lxTE9hTkJtcGktMUJwUG1NamQzT1ZyY1lQVks4aHIxNTVhaHYwM2xyUURZeDE4aHZhTnpKdXBLNU94Q0tYZjIyZ2txeWM3MVZ5aTNTMUVDMVpqRGI1S2ZGRy0wM3hORnJEV2s1Q1oyZ1hrcjdlTHJ5alhsRUVoam11VlBJemVwZ1A2Z3RXZHNfTTV5c1plMFh6a2JIVWtYUzcwTy1rQ1haTlRKcXJCaHZlWm9HYXU0azV4RFVpX2M4U056SWlLVnowcENm?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDFyazRCQjRfdTZZTjRFTnVCRW95czcwd3hjMU13LWJIMTJRWXV6YTJ2d1VGWTBHSXE0di1kX3h4Q1hRR2R0c0hXLWlFQlpvY2FLcXhuWlJoWXFpZHJ5YjJ6eGtGN19SNWJUa29Ld0RBb3U0a0dNQUY1U3JxdVp3ZFBxUkZvY1p1YVNjXzBUSVFJZWdtUU5CY1A5VXNBTzlZSGZHdDZuSGRSU05IWU8zNk43OEFhZ1JHM0xGT2VOM1ltREExNnc?oc=5"
-      ]
-    },
-    {
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "title": "Royally Launches Cloud Platform for Managing WordPress Sites Through AI Agents",
       "score": 19.44,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkd2MGhCZEN5TW15VXdOXzkxRU8wVFR0NVlqcTE1Qlpod05Sd0hWWmpvRW54cF95dV9qSVE5UDVGcW9xOHdtanF5UEVDX19YdEhGVEFacU9FQl9OOGF4RVdqWXdpQ1dlenc4ZHRrY0c3cFkzeWFOUmduY3dXOUs2WFhkbFREdzg3dDlzVWloR0d2Y0xwbEE?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkd2MGhCZEN5TW15VXdOXzkxRU8wVFR0NVlqcTE1Qlpod05Sd0hWWmpvRW54cF95dV9qSVE5UDVGcW9xOHdtanF5UEVDX19YdEhGVEFacU9FQl9OOGF4RVdqWXdpQ1dlenc4ZHRrY0c3cFkzeWFOUmduY3dXOUs2WFhkbFREdzg3dDlzVWloR0d2Y0xwbEE?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkd2MGhCZEN5TW15VXdOXzkxRU8wVFR0NVlqcTE1Qlpod05Sd0hWWmpvRW54cF95dV9qSVE5UDVGcW9xOHdtanF5UEVDX19YdEhGVEFacU9FQl9OOGF4RVdqWXdpQ1dlenc4ZHRrY0c3cFkzeWFOUmduY3dXOUs2WFhkbFREdzg3dDlzVWloR0d2Y0xwbEE?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmdKS2F3a2hrUGs4RDQ0STFjSXZiV04wMTVxVEYyOTZ6Y3RMa05CVDhHaEVuWVR0eXoxZlpsUGNuQ1lfVEp1emRxUDQ1WkRzT3lhRTE3c1lCdnRYYXF2aEc1UWpmRFJ2MXZyMmhta0hRVldmMl9Od3B5MlBldFEybDBvbWVEM3BjdUlaVC1kU183SW1KTTh1bVgwWUs0SmVGRUxVS1JNb2Q?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmdKS2F3a2hrUGs4RDQ0STFjSXZiV04wMTVxVEYyOTZ6Y3RMa05CVDhHaEVuWVR0eXoxZlpsUGNuQ1lfVEp1emRxUDQ1WkRzT3lhRTE3c1lCdnRYYXF2aEc1UWpmRFJ2MXZyMmhta0hRVldmMl9Od3B5MlBldFEybDBvbWVEM3BjdUlaVC1kU183SW1KTTh1bVgwWUs0SmVGRUxVS1JNb2Q?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcERDUkN5MjdkTmF2SEhEeHEtSjFWdWUzQjlNNXJvVkNpTVR2WGU4UDFFVEROV25oemNPaEdMTENBdFlYRDd3Qi1hRWJweFoxTWJxeXJ3Y04yWWdYTFY3NDRubUIxWlJ6VmlzRW5iWGw4bW02MW1tMktBd0N2VTNlNHdiZmppR2hWYlZYWFNwelJQV0NfMTZhNUUwbmlsa0g2VVNZeFhJUkE2dDBjTUFtZ2pDT1otMHMtdXdrUEkxd3pfa2JwUXZpaXFQM2daaDhmVVIzaDRFOHhYLWs2WW9DMlREa9IB6AFBVV95cUxOZWxLdHdxRHBOM1NrTDNYUmdTeUZVMWV4UTFBdnd2QkZoeDZqb2M5UzlIRjJFOWFiWThJR0R0NTNaemlfSWZwZV9FeWhRTUlVdDJ5Uy03QXNjS1RocGF1RnNycDlFSEdmaWcxVVFIYXZMV0d1czhubEdhbWRWREgyaklPUjgzSXpxckp0cXlWa1dRUjFPT3NiU3VuRzFlNDhXelI3WFBzZERlU1dNNjdrbk9lYXJHRTZXVURhVDU1UzhnNVBQMHJZUkFBWVpEdVdISW56dWU3RkcteEJPLU9LS1pWcVhfOUJx?oc=5"
       ]
     },
     {
-      "title": "Upcoming smartphones in India in November 2026: Motorola Signature 27, Vivo X500, Xiaomi 18 Pro and more",
-      "score": 19.45,
+      "title": "Millennials lead AI shopping adoption in India at 84 pc, ahead of Gen Z: McKinsey",
+      "score": 23.76,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM0x4S3gwc2tyUmp3Rm1EUTVUeGc4X1gxV2hyR2p5VDhVX2kxQjlObjlWOEwyeDlHcWR0LXR2cldhZkFHdVdhcFM4Y095am5lSS1VYzJVb1RlY1ZZemZzVGdGVmdMSHFTY1dqYmtYSkpUbWpaMy1GU2ZWVDQxVkJ0WFh3SExxY0E0TGtMUGpHbFd5eFBFMVp6ZnpaUElHQ3Y5REtlSFpjLUxvWGxJNm1WX29SelNLeHZQYlhPSEUweFRvNGc0b2Jab0lSV1hvRnJJSlVOMU9qdjR4aE9CNkV0NGtEVnlKYVRKZkNtTzVlckRKWVNRTHfSAfsBQVVfeXFMTUVlbGdDelFqR3BVRnVuWVBpY1J0QjBCcTkxczBQbzdhWHdGSjgxSk82aUpucHJaa0N1R19aRTVqalJDMXVub0FYaGdvUFFWNHVCOG1ZbXVIWDFMSFdlWFg1aHA5Y1pCb29TbTEwZjNPVEFTUEY2T3BTbnFuMWJZaVFqSlp3ZW05WTNFb2xPQ3BWTjhGSHgzYTFWY2dGOFc1WUFjV1QwaWVmVHA1elA1Qi1MelFvUTBkYXRLV1ZNYUViOXpEbWVUWE00Qm02U0tLbDEtRktoaU1XTDBKMnc0aThFelVxQmtwV1NMU21DS3FNck15MVNaYTM2Zmc?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKTEU2Mm5GdElZNHY3ajdCaU5QR0xSNDFpbWJSejVlVGNXTmp0X2tDY2xWV01ROFRPWDQ0bENicHk1TXNlNVYxV0ZUTjdhcU9veUQ5YzdlY3h5MXk0RWVpRWR2SkQ2dVgxN09JYUxrMNIBdEFVX3lxTE8zbEU2OEFzVUsxdExJQzlObHRVVFM4b1NKNjR2Vndsc0p1akk4U2hXUG5VZUFYU095QTgyMVcxZmV1RVd1cmpIRGdQNlpkdGg0RmNHUHRUNXVZdmp4WVo5S0lQb2lSdzI3TFFSSVVoeV95dlpp?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM0x4S3gwc2tyUmp3Rm1EUTVUeGc4X1gxV2hyR2p5VDhVX2kxQjlObjlWOEwyeDlHcWR0LXR2cldhZkFHdVdhcFM4Y095am5lSS1VYzJVb1RlY1ZZemZzVGdGVmdMSHFTY1dqYmtYSkpUbWpaMy1GU2ZWVDQxVkJ0WFh3SExxY0E0TGtMUGpHbFd5eFBFMVp6ZnpaUElHQ3Y5REtlSFpjLUxvWGxJNm1WX29SelNLeHZQYlhPSEUweFRvNGc0b2Jab0lSV1hvRnJJSlVOMU9qdjR4aE9CNkV0NGtEVnlKYVRKZkNtTzVlckRKWVNRTHfSAfsBQVVfeXFMTUVlbGdDelFqR3BVRnVuWVBpY1J0QjBCcTkxczBQbzdhWHdGSjgxSk82aUpucHJaa0N1R19aRTVqalJDMXVub0FYaGdvUFFWNHVCOG1ZbXVIWDFMSFdlWFg1aHA5Y1pCb29TbTEwZjNPVEFTUEY2T3BTbnFuMWJZaVFqSlp3ZW05WTNFb2xPQ3BWTjhGSHgzYTFWY2dGOFc1WUFjV1QwaWVmVHA1elA1Qi1MelFvUTBkYXRLV1ZNYUViOXpEbWVUWE00Qm02U0tLbDEtRktoaU1XTDBKMnc0aThFelVxQmtwV1NMU21DS3FNck15MVNaYTM2Zmc?oc=5"
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVkJqV3JBbTlSUXJBUHY5eTZaaHJzdTAxV2hjWm10WU05LUZILUtYOWJ5RlNuODNsNS1kNmVtajJNcThfOU11NEpzaElHd05VekxvRzNZY3RkekRtelV0MVo5cVY1aFI4UEpUOWFCNnEwSDUxcExXcjBfYnAxUnhHOXYwZ0hscnJEeDk4Tm9SZm1Kcmw4c1loNVZJQzRsVFlXNWtKSVhsdXllakZ1QXdaQzlMdmRwY1hJMzRiZWlwdjRhU2o4Ymc5MjVjQlNVWGo4RzZUQXlZVnZ2WVJFZ3pQUmpsTzVHNmkzclFoMWZvQ1bSAfQBQVVfeXFMTzhhTFZTWjBtVWR3STBqdmhRcWdqRG5oUkc1TUZSLUZ5cUR3bGNVWWthWWR3cC0xT0gtYlN6THpYTzBuQlFSYUwzV2RPRWNqbHp6WlYyTklrLUhDYnpsSTVvbzNRd3hMWkdvNjM5bkpWRThpQ080MTJCV3VMd2o2TUJUblVEbF9pMXpRbE84SExIc0xwOHpSei1xbUgyYUpnTktiRnd5dEtDNDNHdkVZRGNmdFRfZ2VyZDJZQ00xT2VFaTBGRnE4VXJMTWljUU5hOElRTnAzTWIxOHpzbGZSLTdPVWNzMXBOcUFDNmphNVIzSDk2UA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJyeURPU3ZXQWhPWlNLeWFpMzNFRFNtWkFOdXU0eVZPTk1GbXI2Q3dyOTdZcXlwWTNob3paUkNWSXNGVlFYRDN0bkhEVTNZa0hNRGNBekRtQ1dsS282ZWxkME45TDA1Nl96bTNSNXcydzg1SXpwV1d0MzltU3lZNTFGQU9CWkhyZXppblpDRE0tUmdaSVZpRWtSamxaREZkekhVMXp4S0VxeG8?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVFHQWVqX1BHYldHT0tkaGNPVUtNUldHaXBkcFBOSDBMRmNPSlhBNVFPZUEwUG9rZVlFc1dMVHNsRGtIWWZaU3p3RHV5M2lEeS1UQTYxZjZuNDNRangxQ2RyQ1VyY2xJTDNuT0hUVFZRS2p1Ui1tQ09aNlpzVVNBWXpBTFdjWk8tTFJGMzlEY1dPay1IT1pBWFhPNWJEeThNZkNCbnFtbjJlUm9La1B2akNEeFY0Q0xKVG1nbTNEOV8yNXg3?oc=5"
       ]
     },
     {
-      "title": "Lava smartphones will get expensive in India from November 15 - GSMArena.com news",
-      "score": 19.32,
+      "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE",
+      "score": 19.46,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYmVEVFhCWjdta2Y2QUNtU0piam5ENDRqU20waTI3LXppMHNaRXZSeS1nNGQyWm9WTGlQc0NSOHBrY0dSTkduX1ZJdFhSd1NtWlRGbG83Rkx0TVhFc1BtY0VpT0JPT2pXb256VTlYaHowWnpveHIxLTlIWk0zckJkbFA5UmwyVlc3QnBOd1AtcnYwQUJuTXNYNUNibVpvSzBZMHpXRHdXeU5PSEFWMkZhUDNzMU5rQW95aWZ4eTByUUlvU3NJVjY0clIwZ0dUVWp5c0ZBcHh3VExfS09EcVRfeF9uR3AwQ2kxcFHSAe8BQVVfeXFMT3V2Q29Sa2ZrVS1jMDVXY21qakhaaE9NbG9SSzN1Q0lkLWRkbF9CZTlKYldONHU4RFNuMnQ0a19YSUt1UUZwNHIwd2tqM3Zza1I0dmVCZEFtYi1BNnRjTUIzNm0zbTdJamFydkNzdzgtWTJhTXNnQ29jbDlWSElOYU1WQTRaNGZORjV4RG5wM090VTVfNmlMYnUxeGRoUUhGRnpHQXRpZzY5c3dPbkp1LXBsMGVDZFV0UF9EYmxWX0x3bWZWVWJTTU10dndKS2F2bGRQcGMtRjZ4V2daNldPNEh5Yi1YMzdEbVAtUW9JaU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYm5nSzd1Z2tkN1BOZ0ZuUUgxYnE0RnJiNzQ1T1BZMUdwQmZER2JIM3FwdEhlWUtLa0RBMENSUk5BUHlQNGRjMDFFTHZScW5IbS1QOVhwQm1rTmFUcmpjWG5sZ1N6MC1UTWthNnJleXRUdXZUWjZmbzNNOVVrcDVaQVAxMFFrcVZpeVY2V0E1bjF4Zkc2WVpJMG9sS0JEWDA0UUk0STVmSVUtd0lMa0xoS0xPeTdFTWdNanZEZWk0N0E?oc=5"
+      ]
+    },
+    {
+      "title": "Dispatch Network Raises Rs 5 Cr In Pre-Seed Round Led By Antler India",
+      "score": 21.39,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHJuZThkSDZfblBqSVRfZ195N0RFTE5XbzdDNWpQQXpxSTlMbFdnd29lblJyWUFEVG80aW9uUmFFdFJ3YVVGWDJiYXBHazRqdzlKNExmVjkzNG42Zl9PeFA3NDZKMEFEZDh3Um1xUF9QZ2dqVk5aMXpWX2pGb1laQm81N1N1dFYxa01BcUo1ekhoOUJ6WTdXV1VHdUpOVGc3aEVsMlg0bUtUUU5jbjNv?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWhEQlIzdmc0WmFaVWFlbTNXUFJRVDRFazFDRHVuRG54b3g0NXd4bzltRzZuSzRPcGhaZ3RfTnJ2N3dDRFVXLXRudzdjbldVM1BrMUJGdjh0b1diTkhjLXFVcHBLVXJnRVpNeW41dXRSbzUwTDBUcjVMYzdCWUFJUW5NRURRTjl4NTZ4TzZ1c0d1MW1vMTFkYUFmQnVMampvbXhTby1XT3RRWktSSk95czhkV3pSRXpIdlc00gG7AUFVX3lxTFB5aERCUjN2ZzRaYVpVYWVtM1dQUlFUNEVrMUNEdW5EbnhveDQ1d3hvOW1HNm5LNE9waFpndF9OcnY3d0NEVVctdG53N2NuV1UzUGsxQkZ2OHRvV2JOSGMtcVVwcEtVcmdFWk15bjV1dFJvNTBMMFRyNUxjN0JZQUlRbk1FRFFOOXg1NnhPNnVzR3UxbW8xMWRhQWZCdUxqam9teFNvLVdPdFFaS1JKT3lzOGRXelJFekh2VzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEZ0b2MxVnltQ2pBUFFVMkdvQUQtc29WdkJIRmJ4bU9xaUFDRlhfN1I5WVdhSE9FTXRoZlVic3l6d1hNbTZKeTdPT01VdVo1MmpFQkpGeVowMG1UM2dNZ0xBd200MW96eXZjSWZPblhiWDlEV19WZlFrc21MZVpHeQ?oc=5"
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro series is going global this month - GSMArena.com news",
+      "score": 20.49,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGdGLUtncnFBWWc1eVZkTU52aWxsQjFTRENMTlBYQ3NfblRDcl9DaW4tUktsV3V0bFJmUmhXLU5SOGlGYm02NzBLWHFWQkVxU0dTcUVjenpLQ2ZtVkczaDl6d3ZLYmRaN3lWQzNidW1CMDBtWWhITXlkYldMUFlzM0syY2t2VkdsZnlmaTdRU07SAYwBQVVfeXFMT3M2bWlwTGdPVzd0NlRMcEE3OU9RVm5NQ2ZJYkhERWp2NTluemw3WmdWNXB5NTNINnFOVUpFakNEU1E2NUNjYmJYVkYtejhEWUJiVkRCNFZHazdxSUZ0YUREVW41MElMeEtsM2xrVzJmaEt1V3FEcU9wa3JIdUtabmVTRmVoYlBkMW4yT1k?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGdGLUtncnFBWWc1eVZkTU52aWxsQjFTRENMTlBYQ3NfblRDcl9DaW4tUktsV3V0bFJmUmhXLU5SOGlGYm02NzBLWHFWQkVxU0dTcUVjenpLQ2ZtVkczaDl6d3ZLYmRaN3lWQzNidW1CMDBtWWhITXlkYldMUFlzM0syY2t2VkdsZnlmaTdRU07SAYwBQVVfeXFMT3M2bWlwTGdPVzd0NlRMcEE3OU9RVm5NQ2ZJYkhERWp2NTluemw3WmdWNXB5NTNINnFOVUpFakNEU1E2NUNjYmJYVkYtejhEWUJiVkRCNFZHazdxSUZ0YUREVW41MElMeEtsM2xrVzJmaEt1V3FEcU9wa3JIdUtabmVTRmVoYlBkMW4yT1k?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGdGLUtncnFBWWc1eVZkTU52aWxsQjFTRENMTlBYQ3NfblRDcl9DaW4tUktsV3V0bFJmUmhXLU5SOGlGYm02NzBLWHFWQkVxU0dTcUVjenpLQ2ZtVkczaDl6d3ZLYmRaN3lWQzNidW1CMDBtWWhITXlkYldMUFlzM0syY2t2VkdsZnlmaTdRU07SAYwBQVVfeXFMT3M2bWlwTGdPVzd0NlRMcEE3OU9RVm5NQ2ZJYkhERWp2NTluemw3WmdWNXB5NTNINnFOVUpFakNEU1E2NUNjYmJYVkYtejhEWUJiVkRCNFZHazdxSUZ0YUREVW41MElMeEtsM2xrVzJmaEt1V3FEcU9wa3JIdUtabmVTRmVoYlBkMW4yT1k?oc=5"
+      ]
+    },
+    {
+      "title": "Motorola Signature 27 to Vivo X500: Smartphones expected to launch in India this November",
+      "score": 27.3,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VzVoN2t0dkhTZjNqOVE2R2xwX0FabEZhUkFXeTZiTkpxMVRKUWswd3JTRzF0TlltNTk4aE1ra3V2blctbUVTZG53Q001bDJERERaTVU0UHNIQ1RGYnFJR0lRR2ZPd1Npd2FtRk1ROW1HY0Q1bk1OZzNIN0PSAXhBVV95cUxPYjV4LWN4NklmSjFzVmdYUm01NkIxLUJoOXRqNEczTjJ5Ymh1LUtQNEYzOUFNZTNTX3NQcllfTHlUYURBeXlCczlRNU04eDhxeUpiWXUydGN1R3pwMWNxNDRkcXp6VVg4eDV1WTJHRHF5Qk5xWTJOZWo?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VzVoN2t0dkhTZjNqOVE2R2xwX0FabEZhUkFXeTZiTkpxMVRKUWswd3JTRzF0TlltNTk4aE1ra3V2blctbUVTZG53Q001bDJERERaTVU0UHNIQ1RGYnFJR0lRR2ZPd1Npd2FtRk1ROW1HY0Q1bk1OZzNIN0PSAXhBVV95cUxPYjV4LWN4NklmSjFzVmdYUm01NkIxLUJoOXRqNEczTjJ5Ymh1LUtQNEYzOUFNZTNTX3NQcllfTHlUYURBeXlCczlRNU04eDhxeUpiWXUydGN1R3pwMWNxNDRkcXp6VVg4eDV1WTJHRHF5Qk5xWTJOZWo?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43VzVoN2t0dkhTZjNqOVE2R2xwX0FabEZhUkFXeTZiTkpxMVRKUWswd3JTRzF0TlltNTk4aE1ra3V2blctbUVTZG53Q001bDJERERaTVU0UHNIQ1RGYnFJR0lRR2ZPd1Npd2FtRk1ROW1HY0Q1bk1OZzNIN0PSAXhBVV95cUxPYjV4LWN4NklmSjFzVmdYUm01NkIxLUJoOXRqNEczTjJ5Ymh1LUtQNEYzOUFNZTNTX3NQcllfTHlUYURBeXlCczlRNU04eDhxeUpiWXUydGN1R3pwMWNxNDRkcXp6VVg4eDV1WTJHRHF5Qk5xWTJOZWo?oc=5"
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbFFiTFE5SktuTFlTazlJeW9mX0FGRVFzQ0V3RTNlUkxoU09nUUFqMjFSSUYwUFBYcWxRaERXTlFQUzk4SDZURHFCbFp1RlMyWVBtX1Q1VF9SVjRkXzFQNXRmcUdadFFzRk9SWW93ZC1nZk9ySjNseE1yaUk5NnY5S1JVbjlqQ1NnQ2tNMkJTM25yNVhrRWpsOXNuZkRvZGVpSlZzUGkyZld6SVFkQUZUOVMzMUhsa1ZvOEVNcUNKMmdpcU14cklIVnJhblpGa1RZZ3FiWTEwR2RPdFdKNWZJRlYzZHhfbjJGbW55dGd30gHzAUFVX3lxTE96QmRWYW0yYjFnMkw4ZTdyQ01UVExCa2E3NXdFVDg4b2xfSW1IUERDUkRCNWlFcmF5alFMTTRTTUVNZzJ3M3loaXNHWS1xNmw2N1dBUTlUY21WaG5aNmpEV2FYSXN1SW5wWmdqVjNHVFRkTTVGbDBQN3N6OFVFVlltd3l6akFEQzhrMUNzX0V3Rk1YZU1hdi00c0FiWDJKd0trcWt5X2p6clpaMzBUU1VSVTlhcGNZNkZUY01qeFFFYmJyLUZlSEo4WkQxXzlnTXcycDc4czduSmdxUElkTUlFZVF2aWFCaS1FX3Bmall3Um92aw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnRKU0U2aVJJTnNHS2J3QmQyRFMzbGpEQUNQMWZ2bV9pTEhGVHcyS0hWVl85NmNwdHcwaDcyOHFHNl8xMWpHRGtiaVkxUVBUOXdfWXEwVF9SLVppdGc1d3MxX3Nsb1ZRU1VnZEd3UGFXWVVTU05UNVEyZVBNV3ZYTzR3SWp4NUhxeWE5ZDBESW4ySUFfTGtfb1ZQdHRXSmR3c3lCR05ieUZGNUo5VHNSXzQzeUd5RU5RTUpxWWhDRHZES3VoZ01xa1Nnb2pBRzNrcnhJVVBR0gHWAUFVX3lxTE9udEpTRTZpUklOc0dLYndCZDJEUzNsakRBQ1AxZnZtX2lMSEZUdzJLSFZWXzk2Y3B0dzBoNzI4cUc2XzExakdEa2JpWTFRUFQ5d19ZcTBUX1ItWml0ZzV3czFfc2xvVlFTVWdkR3dQYVdZVVNTTlQ1UTJlUE1XdlhPNHdJang1SHF5YTlkMERJbjJJQV9Ma19vVlB0dFdKZHdzeUJHTmJ5RkY1SjlUc1JfNDN5R3lFTlFNSnFZaENEdkRLdWhnTXFrU2dvakFHM2tyeElVUFE?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5odHBGWTdueUE2RlVXTDI2S0htRUhxcjFISEJxUGFLUG1EOGVZVnVxWG1pZnJLWnNld0FnODU3S2lxbmZvNDFMa2hxRWhIQS1jYVJWd21wSExXMm1YeWJnOWE1SEx6Q29UNGVSQVp3SlhXbTFIN1JfRmRYN3jSAYIBQVVfeXFMTWd2cHBHZy11MUZBMVZhS1Zsb0hpSXZZSEktRmNKbFp2VUF6bllDU0c2VlR1T19Hb2xLbzVJS0tHVW1oaE1IcEQzQUFVdXp5V2NyTmJKa3hkR2ZNelhTMWRkRDdVdnVYb3c3dTFzSnZvSUlBUExlZlRPTkhYTlVXbDFhQQ?oc=5"
       ]
     },
     {
-      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-      "score": 18.64,
+      "title": "Vivo X500 Pro Max, X500 Pro, X500 Tipped To Launch In India on November 25: Price, Specs",
+      "score": 21.5,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUTVvTDhYNUpnOHdwSDUwaHNVeUVaZHI1Z0c3Vkc3VmJvcG5qTWl2SEJQa1NPQkJwM3Njbmd3Q3BGdzA5Ry0tTzRxUGhTYVlYbTNHQkxZLTRTLTNEUXNzTWlJd3ZUaHdRV0tCdEZUdw?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUTVvTDhYNUpnOHdwSDUwaHNVeUVaZHI1Z0c3Vkc3VmJvcG5qTWl2SEJQa1NPQkJwM3Njbmd3Q3BGdzA5Ry0tTzRxUGhTYVlYbTNHQkxZLTRTLTNEUXNzTWlJd3ZUaHdRV0tCdEZUdw?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUTVvTDhYNUpnOHdwSDUwaHNVeUVaZHI1Z0c3Vkc3VmJvcG5qTWl2SEJQa1NPQkJwM3Njbmd3Q3BGdzA5Ry0tTzRxUGhTYVlYbTNHQkxZLTRTLTNEUXNzTWlJd3ZUaHdRV0tCdEZUdw?oc=5"
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0FVQktQVE0teXFSY21QTnhsRWZ5VDJOQkp3WW5IWDRnbnpQdS1QWkV2U3JqZXRrSTRldlo0WDl1Z1B2VERTYzl3RGRBd1pEOG5xQ2dvbldjLWZaQzJzSWlCa0ZGNGoxTV9TYlp6VUlZdnhtcW50amhWb0tGaWs5c3ZTV2JjLUo1LS1QQWRqel92WkFjTmdrUjNBZXlERm8xTF9sZlp6eUVaVzZNNWtMSmxMbnFjd1RUUFFtS1QyOHFLOHRTT1VOS2c0SzJuQdIB0wFBVV95cUxQUjdfdmt5WVhYdEF6MGVLM05QcjhpdVBUVEx0NTVqZGt4aWFON1F4QWltLTY2MVUzWF9PX09aTjFrdUF6Y1pDQnVudHV6b1ViZm5pcXdiQmFrWHZyUHBjWGZKeDNleEIzUnIxUmxua09MY0RfS1BUVTcwWnhHVk9RNmlWeXczeXRZa3ZMclJGa0hfcVIyeEl4LXkxcDQtT00zZEZqSHlRTlZ3czdFVmRwWUxDbFdZSW1DSTJmYTZFRElQelQwelJZSU9SX0ZPdWRDNVJV?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxONDFrZDl3dVo4XzFXR0hrR3JYeTNCRFR5NXFQRmZybW1XeGczTEI2Nnd2a085U1A2ckNXbXhNVXpJUHFJZDM3UXNLQnJQVVhKcGlKdm4xNUpRdDhxNVhhZzZKT1FEak1xSW8wOEEyZkU1Z0ZiTnFNWlQxN1ltSTh3aXhIdV90RlZ0S2haNW5NblFfZ1N1cDRQUXNkb2FmQ1JJZWZGVmVkU3JVem10VzNHMjZwZ002V09ucS12VXhRVU1xZFllTUlz?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR2pHVHJlclljdmloUkJHU2szRVFhemh0VU5NOXlPdy1QYnNaLUF0YUZ5VE9DTno0VmVpYk9hRlNDaWRLX0tjNmx0ODhpN3VJR00tTVh4ZU1JQ0VBVHRHeDZmcmhTYkE1aEx1M3JyZTZ4SWdLOTJidTZrU1lteXpvZkhrd1FrNzVmbWVjSTlQY0tEOWNFMWI3TU1DdHRGajU0YnNqdlZTZXFYSDN0QkxkaVRXYmRnRU51Ri1KUUFfd3Mxa2RhRjF5Q3oxUzduSGRZZG5DZmNzaDBwdDTSAeIBQVVfeXFMTzFsZEM1Wmhza19PMGljckVRV3kzVng5dy1iMlFlaWNOcFMwUWpEZXZtOFAyWHVKMFVOZEtqa2ZtZ01LeTI1R01RTHczQ1BmZGhTX0pKdHFpU3BSM0R5MHZuRzQ5YkFNTVBSc0VzaXBzLVZqT1BZaTJzYWd5QU1kQ25oVDRCWnhUZ1lDRHFpbmNSMXVqNVd1TmdqdG1BZ2I5clBqUHZ4dlhzd0I0M0hFZ0Q4Q2pEaUR4REp4UGtzX01yc1lRUnhNTFEtTWw5Tmw4SEFnSkJqNW5HeERYalRpeWtEdw?oc=5"
       ]
     },
     {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "score": 19.9,
+      "title": "Karbonn Rebel Pro, Rebel Launched in India: Price and Specifications",
+      "score": 23.94,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEtwb3BUWUJwN3hLb2N1LXRkY2xIcFJCYmFtbWF1MDJZd0ppcmNTeDc3Ynl2cWlfWFVsd3hmSGlyS3djT3hKLVVNLWFFdThYSl9yYlJGc2llel9SSUtHODJkOXUwcTJyLW9EQkZJOEdfd0VLOEQtYXpzdnBvY0NZbnNn?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEtwb3BUWUJwN3hLb2N1LXRkY2xIcFJCYmFtbWF1MDJZd0ppcmNTeDc3Ynl2cWlfWFVsd3hmSGlyS3djT3hKLVVNLWFFdThYSl9yYlJGc2llel9SSUtHODJkOXUwcTJyLW9EQkZJOEdfd0VLOEQtYXpzdnBvY0NZbnNn?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEtwb3BUWUJwN3hLb2N1LXRkY2xIcFJCYmFtbWF1MDJZd0ppcmNTeDc3Ynl2cWlfWFVsd3hmSGlyS3djT3hKLVVNLWFFdThYSl9yYlJGc2llel9SSUtHODJkOXUwcTJyLW9EQkZJOEdfd0VLOEQtYXpzdnBvY0NZbnNn?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1FZR1RJUnM1WDFOeTlEUlRaakRVMHNJRW9Nbk9GUlJvclNVSFdTWWwybEM4aXVDRVhhRkcyWGl6ZkJXaXpIelJwZHkwcE9Fc19rRjVZWDBFTWY4NXB1TUhVNkppd1h1TFcwSGFaNUo2REM4dzkyVFprdWFmd2N5UUkxcUpobjdjY3N4aFJ1Z0I1YWhtVEI5VW5tbHgzU0ZmYkE?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2RPM2lFZ2I3ZFhBMWxYaXNrc1JHOE1EbW5VQW1jX3dTNjA0M21aWUpvYWdBdjBSMFkxV0FmWDd4QmFvSThZRUw5WFNmb3FydzBicHRYUnRPU244UVpBbHZQSVNGRE9ob09WOF9MNGxIeEZ3eDVLQldrSkJCSHpvX2FKaUdHOV9MWUFPZFJLLUF3dGw3NXExT1pFSHFGWDNBTWRrVVJFVkpzcXhPVTdZSTdR?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOblVCRXNsMnBtQ3k5cEZMN1pjeFhXN2I5Wk5XOVRTMnVlbXdLQ1RUcjFKbno5ZTVRdDBmdHlsSFJES2xrNlhfRzZqZTM3cXlsX3M1dUJlSVBFNWpnWFJMNkk4cXlnLWFjQ3ZreC1USTFVNmhnTFk5QjdRMlN6a2pnOVdTTmszUjhGYlVRX1hmRU94cXJQTl9KWkNMa05zYlBVRjdrbDBmYVg1Z2JNNDlGaDBZcmRYRXJWNlJqTGVhOFd6TFdIS3ZJeE5n0gHKAUFVX3lxTE5uVUJFc2wycG1DeTlwRkw3WmN4WFc3YjlaTlc5VFMydWVtd0tDVFRyMUpuejllNVF0MGZ0eWxIUkRLbGs2WF9HNmplMzdxeWxfczV1QmVJUEU1amdYUkw2SThxeWctYWNDdmt4LVRJMVU2aGdMWTlCN1EyU3pramc5V1NOazNSOEZiVVFfWGZFT3hxclBOX0paQ0xrTnNiUFVGN2tsMGZhWDVnYk00OUZoMFlyZFhFclY2UmpMZWE4V3pMV0hLdkl4Tmc?oc=5"
       ]
     },
     {
-      "title": "AC Bridge",
-      "score": 20.29,
-      "kinds": [
-        "backlog",
-        "launch"
-      ],
-      "primary": false,
-      "links": [
-        "https://www.producthunt.com/products/ac-bridge",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDZmVTJYXzhldGI0amFsY0ROU0JOSEtSX3dpVUZ5YUxZT1I1WVVzdUxubHItd0Y0R0VEOTVoTzc3T2dOMW5RZ2hmOWxCZnMyWlZtclVpSHlXb0JvQWFoVzgwaGRFMU10d1NIN0k2Zy1ubDBZdzlILXRuVHhnQ0ZLVFM4b2xxbEdub3hJUXo1ZTFWOHZmWDFIdjdmUVNTZEk?oc=5"
-      ]
-    },
-    {
-      "title": "Grand Theft Callout: 'GTA 6' fans are missing work on the game's release day because they 'don't want to wait' anymore",
-      "score": 19.84,
+      "title": "OnePlus 16 and OnePlus 16R both tipped to launch in India; flagship could cost up to Rs 1.4 lakh",
+      "score": 19.74,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPckIySFh0WkN6WHRpYS10UGs2UktRcVlzSUFiRWpKaV9LbGY0bHZmN01rbmJFM0VEYWtTRkZpUnB6ZXg2clZFQ1U0VW13TFVEeUZFRmlocTQ1bDNCb29xX2d3VUNQRk13cU5sQ3hQNFdKQzF3cUlsSVI0MEVfVzJKMUt3UlFuNktJMjZseDM2d0hCa2pVdm03WUxMSm51SGJYeEdtWjBZc18takdtM2UtTXR5cXFua3RYZXhCVDhzaU1CTm9qU21oeVdIQkp1R2lHdlJVM282SEdma3pDSTU1Y0h1cUlhTDN1ekJMSDJEQ2N0YktWVnU4bFlSS1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPckIySFh0WkN6WHRpYS10UGs2UktRcVlzSUFiRWpKaV9LbGY0bHZmN01rbmJFM0VEYWtTRkZpUnB6ZXg2clZFQ1U0VW13TFVEeUZFRmlocTQ1bDNCb29xX2d3VUNQRk13cU5sQ3hQNFdKQzF3cUlsSVI0MEVfVzJKMUt3UlFuNktJMjZseDM2d0hCa2pVdm03WUxMSm51SGJYeEdtWjBZc18takdtM2UtTXR5cXFua3RYZXhCVDhzaU1CTm9qU21oeVdIQkp1R2lHdlJVM282SEdma3pDSTU1Y0h1cUlhTDN1ekJMSDJEQ2N0YktWVnU4bFlSS1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPckIySFh0WkN6WHRpYS10UGs2UktRcVlzSUFiRWpKaV9LbGY0bHZmN01rbmJFM0VEYWtTRkZpUnB6ZXg2clZFQ1U0VW13TFVEeUZFRmlocTQ1bDNCb29xX2d3VUNQRk13cU5sQ3hQNFdKQzF3cUlsSVI0MEVfVzJKMUt3UlFuNktJMjZseDM2d0hCa2pVdm03WUxMSm51SGJYeEdtWjBZc18takdtM2UtTXR5cXFua3RYZXhCVDhzaU1CTm9qU21oeVdIQkp1R2lHdlJVM282SEdma3pDSTU1Y0h1cUlhTDN1ekJMSDJEQ2N0YktWVnU4bFlSS1Y?oc=5"
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IUVhZTElJZVl3endYOGJyRTkydnc5LTBVcFA5cWIzclBYem1QRFlpZjBjcjk4UXdKX3dqc1RycnRnZHh2Zm8yYVY3RnA1WXdZazFuaF9WU2dvTFNOWHBKTVR3akplR2x5X2Z5MjJmZU9TN1XSAaoBQVVfeXFMTzVqSTQ4SUNDSG9zNGtoTGEyOXRRVWJFUWlMTTFJY1EzV2drRWU5MGl6X3NiUXR5aFlLSEE0eThzMnROa0tWSklic3JtZ09IVFBHSTA2VDRiUVNGdENnc01WTjRMMnpWT0RYWGdWanJzTHdwQkhIekNGZDdsQnFHRnQxSzdrb05DWmt6Mk11Y2ZuRHBkUFVtWjY0VUJhLVFOZDdCQ1RUZkRWZEE?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNREVTSlBuVHVpTkpxNlE4NHNYR1o5eHNJTElmQndTTkZrY1FWX2tfNnFMbl9sWXpUNjQtVjZvMTg0S0ZLbFlJY25nRUlVV2ZWTXdLNEZUZTJlTjlGRGJnRFlhcUc2UlBPSGhZYXh1NzV1U1VZeDlVZHhNMjVCT2RoUmpEclgtWms2NmhxRUQ3MmNJbm1pZE1ZTGkxTnJtZEF3SU8zM3ByQjVsOVMxV0xpR1NhSW1HUWMzTUtWdnE1cmxtMFN0NVV1M0M4bjBCdWk0XzRQQ01TVk9zY3FfRjNIRTdzZm4?oc=5"
       ]
     },
     {
-      "title": "Three ONYX Hotels Win Green Tourism Awards, Bringing 'ONYX for Planet' to Life in Chonburi",
-      "score": 18.51,
+      "title": "First Look: H. Moser & Cie. Drops Two Heritage Models, Including a new Chronograph",
+      "score": 19.62,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc204akR3bUh4NFdOdUdlY0ozaUJVNGZURXUwdjZrMlJQeGlmS1VBaFBZb0RlWGhZQkNOX0JWVlVma1AzLUVDUzliaTdRaXgzemxPZWlZdGNoOEs5S1ByZUozTndCTWMyNWUxbWhEVUJ0aWFrVk9jRWs5ei1fOFVSdnJNOG5jRm96NF9TTnF1bWFGbnZqVzRfUDhxMnVmV04tSmM2V2Y5MGxvQ2drVjhucUxYZV84MWY1VjZGb0U5aEM1YkhpYVA4VmJWR0I2SkZpU3RCNzZNV2pEd0pnVHRlanlrcFIzbW1TcmY1YQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGswTEZHT0JZbDI2OUVIZmxtanRxem1yallJM3FFZmhQMzl1UWhxbExqQy1PQkxRTVRGWHhyQU1YVlVJN05GaEZTbnhBMjFEU3ViRGRqZmZMdnFzYTA4bmNyRlA3OFd4M3A5OW1vRTM4TXRfQ2Y0cEVWNHdaVHMzQmxaWkI5bFdtQWFGaUYtOE1pSnhIUkdKckVrNTdQVVBsY1ZaYTMzRDljZ1ZRZ0VCUE9iU0ptR1VOeFZCTi02Y2lFbUNJ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAJBVV95cUxObllVbkwwdDB5NkVVdm1KZTlYeFVQX3R2cTQxVmtqRUZKUjgxc0YyejByMkg2ZnlyYVZzZHdiU2JUM1oxODVoaExIelQwYVF3OXEtTE9IREFuYlFaOVNWN0MxSFU3d2EyUXlQcnZQR1hSMFo5ZVlKcmdscEluQ0ZZWGxPVDEyUkh4YTJvNDk5dkpYNTJzWi1hYU1YSllqUFVuREFBaVJmLWw2azBUR2Z6UHZDVEdlUl9ISFIzam1XUmFySHQ2OVZxV3ZyTDd5dmQtRkVTUS1aZDR2SnItR0tCMWE1bkZqOFFneEZVOWlZQ2s5TTZxdkVyV3Y3SV9oRjJ10gGGAkFVX3lxTE5kLW83NGcxaEFMRlhGUnFsNFlxeFpmd1BGOVpmV3lrVm05ZU9sU1FrR2NtOXRDT081NGxOd1U5UU5LamR5VkRadElrVFA1M0lXaHpDcGdJV08tT0hoZlVROGs2dGJSUG4yN2pSaE1KRWU3UDV6QmhBQktLMldmNmhMa1VuU2x4TE8wV0NyVWtMQzNaaXBUTWhwRnM1NWtyZkRkTXNFTllaTVp2STZpQjdOVjZfb2ROYnlteE5JX05GOFpoVVotaGxuNzVZYmRHdFhza1NnSFgzRU1EaHh4UnFnMGJBaHBEOXNhY3Q2VVdDMFJ3eEY1OVFJbk8xcXA5XzExRmRkVXc?oc=5"
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPckxfcjAydU5KVGNMdDNfcTdDYmowbXhfTVZXdnBmRTU5LWhhMGRrTGdIeHpIN0lTVUxFX0taaVZpVWNxTE9zNXZIWEtmejdNeXpUaTlCYjVlcnJ0TGR6RDJWZ0o4di1BTG11OWtlVjNDRzB2dU5oSUFCaFAwOVZWVEsxeTFRQ3gxcWhTN3BnSUNnVWVfaFhoQkFpY081Z2ctR05KMExjMzVndUxqQXQyX3d4d2l6QU1iV0J3YmNHc19GM2x5M1VhLVpIQWpJVGQ2?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPckxfcjAydU5KVGNMdDNfcTdDYmowbXhfTVZXdnBmRTU5LWhhMGRrTGdIeHpIN0lTVUxFX0taaVZpVWNxTE9zNXZIWEtmejdNeXpUaTlCYjVlcnJ0TGR6RDJWZ0o4di1BTG11OWtlVjNDRzB2dU5oSUFCaFAwOVZWVEsxeTFRQ3gxcWhTN3BnSUNnVWVfaFhoQkFpY081Z2ctR05KMExjMzVndUxqQXQyX3d4d2l6QU1iV0J3YmNHc19GM2x5M1VhLVpIQWpJVGQ2?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPckxfcjAydU5KVGNMdDNfcTdDYmowbXhfTVZXdnBmRTU5LWhhMGRrTGdIeHpIN0lTVUxFX0taaVZpVWNxTE9zNXZIWEtmejdNeXpUaTlCYjVlcnJ0TGR6RDJWZ0o4di1BTG11OWtlVjNDRzB2dU5oSUFCaFAwOVZWVEsxeTFRQ3gxcWhTN3BnSUNnVWVfaFhoQkFpY081Z2ctR05KMExjMzVndUxqQXQyX3d4d2l6QU1iV0J3YmNHc19GM2x5M1VhLVpIQWpJVGQ2?oc=5"
       ]
     },
     {
-      "title": "Rs 5,000 UPI trail, cybercafe CCTV help Delhi Police rescue 13-year-old within 3 hours",
-      "score": 20.86,
+      "title": "Audemars Piguet Launch Supersonnerie Trio and Code 11.59 Stone Dial Duo",
+      "score": 19.76,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ242MUM5WVFndWlRdjBhZXVXVFBPbHphb1ljY1d0RlR1Q1c4QzhBaGhKcU1vSXlCQmp0a0w5T0R6cHJ4Y3RsWEtNdjBmOUdCQ2NOMUxxVXFlZHpLNEtJMnl2SFRRTzROVk5DZng0QUVqd1ZnZWFOSEJKZm1aLUx0c3d4Y29zSEI3a1dhT0t4a0dLMWxSSnJTM2ljQkVsRUpESmVJYWE5YWRGMUh1bjRFWllveHo3TThQS0NtQllSTmZwQmpBVHp0ajZNaWlxQmtnS1NhbTl6cHZsN3lsdS1BUEk0aFNKeDhobW9veHRB0gHzAUFVX3lxTE1JRVdaYkZkTFUzYzNoMi0xVFZPMEVMbnRzTkM5eEpNcGdfWEdzS0VRb0poWTVRSWY3VFRicFhsdmFrZkd0SzdzYU1oS0w2QjBsWDFlbmhkV1cta1hURW9IbDVhOWlCQ1ZFLU53OXhzdHU0SDRfb1RpQ2V4c0Q0aG5BOEZsaDk5SE9FbUFrcG5wU3MtdFNIQS0tV2VFRjY5QjRoWXZ6MmliOEc5VW11QkFaR2d2SjFkTHN6ZGtVTkwyLW0xYllHVlhRbk1QVjNZbklTdTY5Y2lsbVhHTVkzVnBWUkR4LXB1cGxCZlBVOVpTZ19jZw?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmZZVzE0OFhHOWpEdVR3SU04MDdacnkwOUpTSG1NYXpzX2FfQ0tUYTl4amhiaHk0TXBTdGt2cFdhUjhtNy1ySzg3N3JuVlV3MkFhQVNwR2Ezd0xhY1cwcHlHYmpKOWR6cDBDUTlpR0xNWlVzOUdkYzhDbFJ6VS1TVGc3TXEyeXpPSDZxdGRXNGdKRUFHZWgwWDd1dFNvV1FYRE9QX3A0M1VGaWlkdEhkcGlCcHBsMkRxM282cENlWFY0S0hHWFdv0gHMAUFVX3lxTE53WU9oUlRNMVdkdWg1MmNTLTZBM292bGdBWEJWZ0YtSmx4eHA3X1g0WjVkcm1fNzVIN2FBMG1mTlRuZE56TkFjSFhweXN3V3VNVlNPa2ZFcC1kS1BwWEtQTzMtT0ZPX3NWbGY1NW83NkxBaHpUUm1WblRrMUhRVVZ3TUFLY2t6S3J0SGlxZ1A5SGhvdElnWkgtMjkwV3lNS013Qk4waE1LY3VCLTUyM19KVTE1NFBrMUlZalRWZGtlVDh0LXRyallJQ0tFZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM25qNDFnOWx0WUJIaFpBanp5VGQ1QUlXaFN4NS12WFVKYUtPb08tamhwWWhDOThtWjZVbF92Yjk0Vi15ckYzMU9iOFVTYmVPR1Z6c3o4Z1VSTFJGbWcxVTQwNGVhb2UxVDFFbFlJZVM0NEN1Q1o1ZVJ5MzBwbkY5ekpsNk5HdGVzT1h2OG5GVW1HSEpLWE4taFhHMFoxX1RWU3VaNzJkUzUxZ3RTLW5OX1NuSW1ydUQzWWtyS253WHlSNTlVam1zQU5KdTRaNlZsbjFr?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSks4TlduNllHNkVuMmxiMHRZSHVoNGlJcW04RWhoOVJlWUxXVjRObnFRd2I1cE0zc3d2N3U4TkRxXzBtTlBEQ1JHbTRKYllFYUpLaVBFX3JieFFydDF4X2hZeEhQMDdJTVhNemktZzdkc0Y1SERpMk1SeWY2aXktdEpsYzlUV2pwZmh4TUlNZ3JCUDlW?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSks4TlduNllHNkVuMmxiMHRZSHVoNGlJcW04RWhoOVJlWUxXVjRObnFRd2I1cE0zc3d2N3U4TkRxXzBtTlBEQ1JHbTRKYllFYUpLaVBFX3JieFFydDF4X2hZeEhQMDdJTVhNemktZzdkc0Y1SERpMk1SeWY2aXktdEpsYzlUV2pwZmh4TUlNZ3JCUDlW?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSks4TlduNllHNkVuMmxiMHRZSHVoNGlJcW04RWhoOVJlWUxXVjRObnFRd2I1cE0zc3d2N3U4TkRxXzBtTlBEQ1JHbTRKYllFYUpLaVBFX3JieFFydDF4X2hZeEhQMDdJTVhNemktZzdkc0Y1SERpMk1SeWY2aXktdEpsYzlUV2pwZmh4TUlNZ3JCUDlW?oc=5"
+      ]
+    },
+    {
+      "title": "Last Week in Watches: Louis Erard x Vianney Halter, Glashütte Original Goes Aventurine",
+      "score": 19.53,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0pwSWZKb2ZncmZvb3NoSlhFM2FCZlJHdnZsbi1GT0pSYlRSN0RLNkR1cWtyYm9Cb0laWU1MQXV1Q1h6elRwc1dud3JmLVRqQnBfODhNOVB0U1RFTHNPTlRoYktvRndKd2FSZElJblVyeGFFY0NmSk5yOG04NzNsOGczYUE2ZTBzR3kzQVpMeFVIdWM0T1p1U096THVwdlIyWTBBLWVfZFZnd25HcWpHMDVBRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0pwSWZKb2ZncmZvb3NoSlhFM2FCZlJHdnZsbi1GT0pSYlRSN0RLNkR1cWtyYm9Cb0laWU1MQXV1Q1h6elRwc1dud3JmLVRqQnBfODhNOVB0U1RFTHNPTlRoYktvRndKd2FSZElJblVyeGFFY0NmSk5yOG04NzNsOGczYUE2ZTBzR3kzQVpMeFVIdWM0T1p1U096THVwdlIyWTBBLWVfZFZnd25HcWpHMDVBRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0pwSWZKb2ZncmZvb3NoSlhFM2FCZlJHdnZsbi1GT0pSYlRSN0RLNkR1cWtyYm9Cb0laWU1MQXV1Q1h6elRwc1dud3JmLVRqQnBfODhNOVB0U1RFTHNPTlRoYktvRndKd2FSZElJblVyeGFFY0NmSk5yOG04NzNsOGczYUE2ZTBzR3kzQVpMeFVIdWM0T1p1U096THVwdlIyWTBBLWVfZFZnd25HcWpHMDVBRQ?oc=5"
       ]
     }
   ]
