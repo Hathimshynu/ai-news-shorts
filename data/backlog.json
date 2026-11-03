@@ -1,79 +1,79 @@
 [
   {
-    "title": "Security risk assessments include repository protection status",
-    "link": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-    "source": "GitHub Changelog",
+    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44OXBibHNoX2hvYVNHdzZmeTB6SVRFTU8zdnFvY1dYTmtEc0I1U2FRX3B2VGRXcXVFX0ZrX2FxZjRNdndKM3RlYw?oc=5",
+    "source": "NVIDIA Blog",
+    "kind": "news",
+    "summary": " Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI &nbsp;&nbsp; NVIDIA Blog ",
+    "country": "IN",
+    "published": "2026-11-03T07:01:50+00:00",
+    "engagement": 0,
+    "saved": "2026-11-03T11:40:08.827178+00:00"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Scaling Git at OpenAI &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-02T23:55:33+00:00",
+    "engagement": 0,
+    "saved": "2026-11-03T11:40:08.827178+00:00"
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vcnVMTTlaV25zRWhzcjJjQ2VKbkNpOW5ISjhhUEx6ZWRrSVNmSU1ZSzFKa0ZwSHB1d1pzZ19zV3pFM2g0TGJROTNGZw?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Heimstaden is changing residential real estate management with AI &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-03T10:30:20+00:00",
+    "engagement": 0,
+    "saved": "2026-11-03T11:40:08.827178+00:00"
+  },
+  {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Preparing our next security sprint to harden OpenAI &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-03T02:47:02+00:00",
+    "engagement": 0,
+    "saved": "2026-11-03T11:40:08.827178+00:00"
+  },
+  {
+    "title": "LifeVal",
+    "link": "https://openai.com/index/lifeval",
+    "source": "OpenAI",
     "kind": "official",
-    "summary": " The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization&#8230; \n The post  Security risk assessments include repository protection status  appeared first on  The GitHub Blog . ",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
     "country": "GLOBAL",
-    "published": "2026-11-02T15:47:21+00:00",
+    "published": "2026-11-02T09:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
+    "saved": "2026-11-03T11:40:08.827178+00:00"
   },
   {
-    "title": "Google’s Suncatcher Satellite Sends AI-Generated Response",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEVKb0JuSm5rU19kaTBZUVBFYjZhUDlWcXBZQjZENk1DdU9xZ2NaTmZBTzE1RGtqa2VOb0JyLWxkci1GZ2VjVnA1Yzc0blY2dU8xSjBKMEdiaXZ0Ty1KWWJUTG1CU1ctOVl4ZlZWNFdkVEYwcE10d20tRWFwVXdPWFZSUGxabmtmTWlaWlhUWGNEQWQzZVN1UC1ZeFM0cDA?oc=5",
-    "source": "Aviation Week",
+    "title": "Introducing the Grid Protectors Program",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": "   Google’s Suncatcher Satellite Sends AI-Generated Response &nbsp;&nbsp; Aviation Week    We’ve received our first response from the Project Suncatcher prototype satellite. &nbsp;&nbsp; blog.google    Google runs its first AI prompt in space and gets a poem back; CEO Sundar Pichai says: We've now successfully sent a command up to orbit, booted up the TPU, and... &nbsp;&nbsp; The Times of India    Google’s first data center satellite is online and writing poetry &nbsp;&nbsp; TechCrunch    Google runs AI model on satellite chip, advancing orbital data center ambitions &nbsp;&nbsp; SpaceNews   ",
+    "summary": " Introducing the Grid Protectors Program &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-02T21:32:27+00:00",
+    "published": "2026-11-02T15:12:44+00:00",
     "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
+    "saved": "2026-11-03T11:40:08.827178+00:00"
   },
   {
-    "title": "Antler India Leads Rs 5 Crore Pre-Seed Round in Dispatch Network",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcm92MXBkVUVVUEdiRnF5TVJIVUhWUnhxLXVSWTJ0Mi1iV3NlRTg4eVkyWk40WlR6T1dmeXFla2NSQVhISXpLQnpSb0lIcE9ReURlbk9BbFllNWp2YVZsM0VzSW1fOGR4Mkl1TDczWWF3b3R3MTBVZlJGOURxbm9kMlFoczUyUm94MHBfV2pYU0tCc2FxdXRsV25jZGFkYzYycVVaLURYVmNfYW8wUFdKV0JfUkFXbWNzZDlVa0VmR3NRWXFnWHUxMmk3ZGw?oc=5",
-    "source": "Siliconindia",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": " Antler India Leads Rs 5 Crore Pre-Seed Round in Dispatch Network &nbsp;&nbsp; Siliconindia ",
+    "summary": " OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-02T15:23:21+00:00",
+    "published": "2026-11-03T00:37:13+00:00",
     "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
-  },
-  {
-    "title": "Vivo Y32 5G launched with 8,000mAh battery and Snapdragon 4 Gen 2",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVVWSUZqWTBNRTdTSWwya1RCcHo1ZlN1enBvNE1VUENTWmRkb01GRXNwOXZxN2hEbjZIaS1WLXhzLWJaNmFMNFhlM2hhbTFRa3QyRlFfOG02ZjlrTW1DY1gzMnlRNHhtakowQzNMcy1MdWNJWGVod0ZrZG9qczF2RHF6eW1UWU5Lb09FZERzYlFuQU5lYVIyZExMUGlDNGQzTHM3bUhvcmFZV2ZrTDZWMkVZeEZkNHh4T3hfdktIT2xpTjZnVFMxem1VUdIBywFBVV95cUxQMVVWSUZqWTBNRTdTSWwya1RCcHo1ZlN1enBvNE1VUENTWmRkb01GRXNwOXZxN2hEbjZIaS1WLXhzLWJaNmFMNFhlM2hhbTFRa3QyRlFfOG02ZjlrTW1DY1gzMnlRNHhtakowQzNMcy1MdWNJWGVod0ZrZG9qczF2RHF6eW1UWU5Lb09FZERzYlFuQU5lYVIyZExMUGlDNGQzTHM3bUhvcmFZV2ZrTDZWMkVZeEZkNHh4T3hfdktIT2xpTjZnVFMxem1VUQ?oc=5",
-    "source": "Moneycontrol.com",
-    "kind": "news",
-    "summary": " Vivo Y32 5G launched with 8,000mAh battery and Snapdragon 4 Gen 2 &nbsp;&nbsp; Moneycontrol.com ",
-    "country": "IN",
-    "published": "2026-11-02T17:29:04+00:00",
-    "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
-  },
-  {
-    "title": "Karbonn Rebel Pro and Rebel smartphones launched in India: check price, specs",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG5KZ2FjQXQyVlBoVmROS3AwMlNxVU5scGtrMzFyZ3I3NFBHR2ZRMWJBZ1hFVTZBTHdXTUVnS0t6SUQ4Q3B4cEdoaDY3b2YzaGt6UEFxaW1kOHVEZ2hfWnVvM0FWWTNJMlpUQTctWWliUUFObkstWUpoMUd4dVhHcmZDTWdWVUMxajF4TdIBwwFBVV95cUxOMnBXejVWSXpINDk1cFVaRVhBUlZ6WUhwQ3JCY29iVzZ2NU9VR0NOSnVfZHFzMnBLa2owU3VTRDkyZEx5R0w1RDFGbm8wZFBfY3NJeHRsM2JSc093dEhodGN0RVN6eTVoam1PME44cXZvT3JFcl9paHV3VE1PVFp5dHBCemZuczJvWlp4cTN3djM4SGk4cmplTkF4Yjh1RVVwLVlzcTBBRjNHeUpZYVpfbFNaVnE3dEZSQ1dFZzFsZTkyOVk?oc=5",
-    "source": "91Mobiles",
-    "kind": "news",
-    "summary": " Karbonn Rebel Pro and Rebel smartphones launched in India: check price, specs &nbsp;&nbsp; 91Mobiles ",
-    "country": "IN",
-    "published": "2026-11-02T12:15:56+00:00",
-    "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
-  },
-  {
-    "title": "From Motorola Signature 27 And Vivo X500 To Xiaomi 18 Pro: Upcoming Smartphones In November 2026 In India",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRktLdHU3TWdadTBldmR1X1R4VTFPMU1POXlWVFRFZkRHRVg5RjlWMkl5YUxDQjdad3c0T1FDUl92aF8tZURhZ2ZkZFhXSlR2TTFJZzlzLXRlZ3h1THducHYyT1hzbEEzay1VdHpsX2FZQUhkd2NnVi12ZEtBQzFSSDlXMEZlVkhxTGxiWFVWS2JpOHhXRlRzVEhUczBBdUx6N0F4eWRLWnJlaUcwLVNqRDVmNC1IbmljMmZ5bzI1V2ZabkdzcndUazgtVFFWbXBhQ1RFTVdQWVNCMm9rYlhHSWdkR1M5WEnSAewBQVVfeXFMT0dBSmMtSWNGRTI5amNldUdnZE1TUjhxMmRMMUFvdmpKQWRtYkhQWFpTVERONE9tbGUtRzZkallHdXhtb0xvenpxWGhaREduV1d1Ql9KR2FZaGFjTm1jTkNUaXVCS2ZEbWp0bXotV0R6Zld1cmpOVThrazdWaFVScGxQbEZDSkZVTmxUallPYU5KUjVOV0hJaEQ3VHlzUEp4MTQyU1VEUVAtM2Y5eUFhdmQ2VnEybFNDQXV6SmFUU3JVemcxNFpFZmN5LWFZY1ZOMjloREdKRVRHeUNsYWV5VGFON2RLVDItQVdSdjk?oc=5",
-    "source": "ETV Bharat",
-    "kind": "news",
-    "summary": " From Motorola Signature 27 And Vivo X500 To Xiaomi 18 Pro: Upcoming Smartphones In November 2026 In India &nbsp;&nbsp; ETV Bharat ",
-    "country": "IN",
-    "published": "2026-11-02T12:12:23+00:00",
-    "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
-  },
-  {
-    "title": "OnePlus 16 may launch in India alongside OnePlus 16R, flagship could cost Rs 1.4 lakh",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM3Q3MTkyOFJpVXhXRTR3XzU0TmZOSjlLbXFyR2E3SWJCaGY1YU95M1VyNEFycHdLc0ZGd3g3ZzhsbUVYOFVuYWJRNE5EYXVkb3FLTm11Q0VJUWhJdmU0cmhnZF9OX1hwX1VyYkhVYkhlbkVCX3ppYWctblBqbzNMOHpLWGtpNXBkRWQyd19la2RTVUx6RlNrMUdyZFBpRF83NjNNVnJjYWlVVkFIZU5RZHhpOWVOM25ZY2VNakNDTDBDbDJ0RHdndDU4bVpuclhIelBNZHRaZzFreEtYTDFTOHVMS2piUzZDUXfSAeoBQVVfeXFMTzN0NzE5MjhSaVV4V0U0d181NE5mTko5S21xckdhN0liQmhmNWFPeTNVcjRBcnB3S3NGRnd4N2c4bG1FWDhVbmFiUTRORGF1ZG9xS05tdUNFSVFoSXZlNHJoZ2RfTl9YcF9VcmJIVWJIZW5FQl96aWFnLW5Qam8zTDh6S1hraTVwZEVkMndfZWtkU1VMekZTazFHcmRQaURfNzYzTVZyY2FpVVZBSGVOUWR4aTllTjNuWWNlTWpDQ0wwQ2wydER3Z3Q1OG1abnJYSHpQTWR0Wmcxa3hLWEwxUzh1TEtqYlM2Q1F3?oc=5",
-    "source": "India Today",
-    "kind": "news",
-    "summary": " OnePlus 16 may launch in India alongside OnePlus 16R, flagship could cost Rs 1.4 lakh &nbsp;&nbsp; India Today ",
-    "country": "IN",
-    "published": "2026-11-02T10:30:20+00:00",
-    "engagement": 0,
-    "saved": "2026-11-02T21:57:42.176183+00:00"
+    "saved": "2026-11-03T11:40:08.827178+00:00"
   }
 ]
