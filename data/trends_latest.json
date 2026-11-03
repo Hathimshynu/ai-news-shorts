@@ -1,40 +1,39 @@
 {
-  "job_id": "2026-11-03-evening-1701",
-  "chosen": "Dreambeans now in India: What to know about Google’s personalised AI visual stories app",
-  "reason": "Dreambeans brings Google’s AI‑powered visual storytelling app to India, letting viewers instantly create personalized visual stories and explore a new creative tool.",
+  "job_id": "2026-11-03-evening-1801",
+  "chosen": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+  "reason": "NVIDIA’s new Physical and Agentic AI platform lets cities worldwide build and scale AI services, a game‑changing development for developers and citizens in India and Asia.",
   "candidates": [
     {
-      "title": "Dreambeans now in India: What to know about Google’s personalised AI visual stories app",
-      "score": 21.15,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaXpBcldpMmFfbWVQU2kxVHpqZDZpSlh1RUxjUVg0UktIMk1CbWRXeXg3aGRDTFloLUROY1MwYXZMTmVZVW1LUTJ2NXlXZkxEMEFZcWpGSG84YzYxbld0OFNVSzF1aC1sdE1zMmJoZ3l6cGt1VWlGdkhBYVB5aEFFaXdXMEVHZFN5bTQ5bmUxTW5UT1FDSEw5ZzZFcHVWVnZBdXAtYVlwVlFRLURpcEdKcndPdnh0WElVRGhxdmdsYUFSSm9sS1BHcGdEUFM0aTFqdDNLOExvT0xQQlc0d0tpcDg4Y285M3RiTldlaXZwMXYweGhTSXFSSlFhbWMtenB2ZGIxVmRHMkXSAYICQVVfeXFMUGRZTkpGaHZIcllGc3dTX1NwVlE2amw3TEwwLXlhR0l6c21NeWJ1V3RQNzM3RG1kMGhNcjBCbThNRlZuS2JFUnJlQVhoUUpfYjdsSDd4ZHRaeDMtYnFfZldseFNhZXU3Q3ZxTTRLSHc5a0d1X1ZzUkRpVHlCek9PTUYydmcwT1BBZVJPYW5pTEpOMllwLVdMajNVcjg2d2VaVmFxUFFxSzdMbzBiY3ZobXg3RDRJRnVQMnRMMjFfSFdBRUFxN3AzQXJha2pDZUZUSm10YnVza0dKcm1ZZGp4Zm1HRXB4d29zdkdHcXB2UEpBNmE0dnVtbGwyN0xlanY1ZWVR?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX1lPVVdYa29vU2RMZUh6d0htdHk0aFR1cU1ySlBZQ0lzOEk4ZlpxY2RCVV9STkFKUU9kR2JNVTZNMnhrRVRhdDdRc29ha3BoVlNqUHF6V1o4SVdleW5QWmEtZmVLamtSNERPdUVnQXNXb0V0VlFCSmhleVhNTUtCaDhycjRUWUxIRkd4R2dFV1pqTWxVV3FncVNCZDYzLXFPM01hdy1JQWtmZ3BCNE1KQzdJQUJPVHQzekFXbE5KdUpNSWJqTmNLdXRORmZDdmdRdkJsajdZVFFWbzluQm9FSkJ1Ri1sbFR4Z1JNRWFKeWM4cl9qejZoZ082Wm3SAYICQVVfeXFMUGRZTkpGaHZIcllGc3dTX1NwVlE2amw3TEwwLXlhR0l6c21NeWJ1V3RQNzM3RG1kMGhNcjBCbThNRlZuS2JFUnJlQVhoUUpfYjdsSDd4ZHRaeDMtYnFfZldseFNhZXU3Q3ZxTTRLSHc5a0d1X1ZzUkRpVHlCek9PTUYydmcwT1BBZVJPYW5pTEpOMllwLVdMajNVcjg2d2VaVmFxUFFxSzdMbzBiY3ZobXg3RDRJRnVQMnRMMjFfSFdBRUFxN3AzQXJha2pDZUZUSm10YnVza0dKcm1ZZGp4Zm1HRXB4d29zdkdHcXB2UEpBNmE0dnVtbGwyN0xlanY1ZWVR?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX1lPVVdYa29vU2RMZUh6d0htdHk0aFR1cU1ySlBZQ0lzOEk4ZlpxY2RCVV9STkFKUU9kR2JNVTZNMnhrRVRhdDdRc29ha3BoVlNqUHF6V1o4SVdleW5QWmEtZmVLamtSNERPdUVnQXNXb0V0VlFCSmhleVhNTUtCaDhycjRUWUxIRkd4R2dFV1pqTWxVV3FncVNCZDYzLXFPM01hdy1JQWtmZ3BCNE1KQzdJQUJPVHQzekFXbE5KdUpNSWJqTmNLdXRORmZDdmdRdkJsajdZVFFWbzluQm9FSkJ1Ri1sbFR4Z1JNRWFKeWM4cl9qejZoZ082Wm3SAYICQVVfeXFMUGRZTkpGaHZIcllGc3dTX1NwVlE2amw3TEwwLXlhR0l6c21NeWJ1V3RQNzM3RG1kMGhNcjBCbThNRlZuS2JFUnJlQVhoUUpfYjdsSDd4ZHRaeDMtYnFfZldseFNhZXU3Q3ZxTTRLSHc5a0d1X1ZzUkRpVHlCek9PTUYydmcwT1BBZVJPYW5pTEpOMllwLVdMajNVcjg2d2VaVmFxUFFxSzdMbzBiY3ZobXg3RDRJRnVQMnRMMjFfSFdBRUFxN3AzQXJha2pDZUZUSm10YnVza0dKcm1ZZGp4Zm1HRXB4d29zdkdHcXB2UEpBNmE0dnVtbGwyN0xlanY1ZWVR?oc=5"
-      ]
-    },
-    {
       "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "score": 27.95,
+      "score": 27.62,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44OXBibHNoX2hvYVNHdzZmeTB6SVRFTU8zdnFvY1dYTmtEc0I1U2FRX3B2VGRXcXVFX0ZrX2FxZjRNdndKM3RlYw?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkIySUxSMTluaUFlblRUWlZjdkd1ZWhTT3lHaXc0cHhzZFBQdkl1dE5DaUdiWEludzBtSm5WZ0RmZE5OLXNWd1VRdUZpOUNhWmdxZmRDTVUxSGVvd2xuZVdHQ1N3Uk05cWZkYktHMmh5UE5NSUNNVFp2dmZ6dUh5aQ?oc=5",
-        "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
+        "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+        "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44OXBibHNoX2hvYVNHdzZmeTB6SVRFTU8zdnFvY1dYTmtEc0I1U2FRX3B2VGRXcXVFX0ZrX2FxZjRNdndKM3RlYw?oc=5"
+      ]
+    },
+    {
+      "title": "GitHub Desktop adds short-lived authentication tokens",
+      "score": 19.85,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens"
       ]
     },
     {
       "title": "Scaling Git at OpenAI",
-      "score": 27.67,
+      "score": 23.85,
       "kinds": [
-        "community",
+        "backlog",
         "news",
         "official"
       ],
@@ -42,125 +41,133 @@
       "links": [
         "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5",
         "https://openai.com/index/scaling-git-at-openai",
-        "https://openai.com/index/scaling-git-at-openai/"
-      ]
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "score": 24.74,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vcnVMTTlaV25zRWhzcjJjQ2VKbkNpOW5ISjhhUEx6ZWRrSVNmSU1ZSzFKa0ZwSHB1d1pzZ19zV3pFM2g0TGJROTNGZw?oc=5",
-        "https://openai.com/index/heimstaden"
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5"
       ]
     },
     {
       "title": "Preparing our next security sprint to harden OpenAI",
-      "score": 22.81,
+      "score": 24.56,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5",
-        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-      ]
-    },
-    {
-      "title": "LifeVal",
-      "score": 20.81,
-      "kinds": [
-        "launch",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/lifeval",
-        "https://www.producthunt.com/products/openai"
-      ]
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "score": 19.92,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
-        "https://openai.com/index/grid-protectors-program"
+        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5"
       ]
     },
     {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "score": 22.27,
+      "score": 24.02,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
-        "https://openai.com/index/dan-driscoll-joins-openai"
+        "https://openai.com/index/dan-driscoll-joins-openai",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5"
       ]
     },
     {
-      "title": "Google's use of press by AI chatbot may infringe copyright rules, EU court adviser says",
-      "score": 21.84,
+      "title": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+      "score": 23.66,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOFlmTkdFLVZnN2tnMjRfaExTOG5yaW1FNU1JU0tFWFR0QTQwYjFsMTZpajNaR1RGU0V4TFZGWmpVV2czUVlPaHhBSEVORHRsckpHVDdSUHZFNS14bXFkdHE2WlhseF81eGNGc2tINkx4NmNOTXVoSm0zdkdrcHRUUjZvNGpIbkIybll6TmdLc19uanZ5Wlo3NWVRcE1ZMTlHNEtIOGZrVVVFZjhya25LRHpLYVRaLV9wX1pXOUJ2WUNxMEJPWWhRLXZCcmFBUUpDZ3FGbG9IdHFUQXpOZC04T0xCa2dDcmJWSGh6NEJuSklmeTNHTVdJLUFMTFTSAYICQVVfeXFMUDZiQTM5YTNLcGw2NnJZWjdfV24yWjkxemgtalVhVC1waTB1bm5HaU9OVGF3cHZJTXY5M05VX2xiNTZtcXFnSm1iUzZoVGlIYzJHWkhObl8zN041SjhxZnZrSUItVWI4RHlkZk9WZWJaRXdtTlJpU3dxTTBWWEh0bmZDSG01X3pTZWg2S3pSbXR0cU16OWo2bUJCaWkyenFEV0RqX05NcDJHRENEd08yMFVjMUxkVjE2U08xT1NWQ084WUJPUG9TTkVxNlR6dlhqWDFXTXk1UDJBQjFBSFlxS2tOcUhPTzYxSjdBQ1Q3NlJIdl9nSUZVZDUtWHR3cGk5T3NB?oc=5",
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeF9OYk01RG1FVkU5NGlWSzJHXzNYa3o3ZkRNT29USjFMbWpXeS1hUVE2T19WZlNvLXF2ZmpSaUZnRkFRejVobkJja0h5SF9tUnpsbzNHeEpTMXVIdWRZMVFuRlA4X19PbWRBVzRwdmd1TDVmaW4yS0FJYkJESTNpNUdBSWh2TXl6anJvOVlMUGhQaXc0WUdQSEd0TGdRS3F5bEN6SHFvSmZQZms4R25RMl82YVNTbzRuZGpkeXU0aDBVTUhyZlM5U205WDJSa3dNY3liZmJNci13QWlESWxIRHdxUXRTcS12WEsybzVid3IwZ1pwM1p5X3JkX1lCTG1lTGdtcUx0R2LSAYICQVVfeXFMUDZiQTM5YTNLcGw2NnJZWjdfV24yWjkxemgtalVhVC1waTB1bm5HaU9OVGF3cHZJTXY5M05VX2xiNTZtcXFnSm1iUzZoVGlIYzJHWkhObl8zN041SjhxZnZrSUItVWI4RHlkZk9WZWJaRXdtTlJpU3dxTTBWWEh0bmZDSG01X3pTZWg2S3pSbXR0cU16OWo2bUJCaWkyenFEV0RqX05NcDJHRENEd08yMFVjMUxkVjE2U08xT1NWQ084WUJPUG9TTkVxNlR6dlhqWDFXTXk1UDJBQjFBSFlxS2tOcUhPTzYxSjdBQ1Q3NlJIdl9nSUZVZDUtWHR3cGk5T3NB?oc=5",
         "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSmlDUU5pSGtLTmZoWXF1dlhGanQtdEoyYTUtV0FYaG9zckZVclVxd19vbjR4MjhWdGtaeXpiTE5VSlgwZW5MU3VxeUYwM1ZTX1RyOTA2N0xFTTRVa1lET3FYakFwTmgwZkFad2MzM3pYX2l1NVVYdmMwNWRFREp1d1lMeDRndHhNZkNHaWFDS0NKTnE4S3lnTERJODJncGVVZEFnbzdKQlNYOVRLRDB4Zlh0YTZhQ1VvVFNHVzlOa09BcXZPZWI1ZUpYYkxTWHpxc3JhUzA4cW1FUHdEZ0RDYzFCdG9ncGlwajZEN1VGR0M?oc=5"
       ]
     },
     {
-      "title": "Karbonn Rebel Pro and Rebel smartphones launched in India: check price, specs",
-      "score": 22.46,
+      "title": "LifeVal",
+      "score": 22.56,
       "kinds": [
         "backlog",
-        "news"
+        "launch",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG5KZ2FjQXQyVlBoVmROS3AwMlNxVU5scGtrMzFyZ3I3NFBHR2ZRMWJBZ1hFVTZBTHdXTUVnS0t6SUQ4Q3B4cEdoaDY3b2YzaGt6UEFxaW1kOHVEZ2hfWnVvM0FWWTNJMlpUQTctWWliUUFObkstWUpoMUd4dVhHcmZDTWdWVUMxajF4TdIBkgFBVV95cUxQZmNjUlczeE1GeDJ6ZExXVlp4alI0al9PQWQzSWRKX2JxZzF2dFpRLWNRclM2ZDVGTDFYLUdSdGQ4VTJzdS1hcndZaEZOV1poV1VTYTZxVi1VU0Z6Rm1LQnBGcEpnZVVDY2tId1ZHaXg1RnlZRHRjNWYybmhrSll2LVpoWENnZ2dnd2hJOWQ3ZlVvZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yY2xxSGlaVkUweGxoc214Q29yYnZ0U1J5bURjQ2JzUk9sNVRxWF9KMXExa3hxajNIZElsTmdJaHdUN21jZ3FSdml0WFlqQnlUdnVPZVNUN09xNTF5WkVWRFE4VW9rbE0?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDFxNVZVejVXTEk0LW5HekVReGxkSHpDWDh0N1BiX1Zwc2g5NC1DMl9YYzVYTENVakdObXNnVGpoR3BMUEtJOGZ1akx3SEhud2Vtak5Pc29WQmtMdHR2WGt3NEhmT3Q1WlphZGNleUlMQUdDMDVUNlljclRzVzJxdFF5TXpZbTlHUFg4bHJlWU5BOUhWNERDUmZhaW8?oc=5"
+        "https://openai.com/index/lifeval",
+        "https://www.producthunt.com/products/openai",
+        "https://openai.com/index/lifeval"
       ]
     },
     {
-      "title": "Karbonn Rebel and Karbonn Rebel Pro launched in India starting at ₹11,999 with upto 7000mAh battery",
-      "score": 20.85,
+      "title": "Introducing the Grid Protectors Program",
+      "score": 21.67,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5",
+        "https://openai.com/index/grid-protectors-program",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5"
+      ]
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "score": 26.49,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vcnVMTTlaV25zRWhzcjJjQ2VKbkNpOW5ISjhhUEx6ZWRrSVNmSU1ZSzFKa0ZwSHB1d1pzZ19zV3pFM2g0TGJROTNGZw?oc=5",
+        "https://openai.com/index/heimstaden",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vcnVMTTlaV25zRWhzcjJjQ2VKbkNpOW5ISjhhUEx6ZWRrSVNmSU1ZSzFKa0ZwSHB1d1pzZ19zV3pFM2g0TGJROTNGZw?oc=5"
+      ]
+    },
+    {
+      "title": "News Content Hub - TenneT to install monitoring and threat detection technology on offshore windfarms",
+      "score": 19.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBSHRuZDh6N28wa0huR3JhQTA4STRJMVdIUTRoYzRrb01jXy0zbHc3cmRzQ192T0FseGEtX3ZxNUdqUm8yajRWdjlBWHlxTVdCVlZKaklzRFZEOWVPZzNDMWdn?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbEVJSWFxZG14VEtvNzgtNjVyUFlleHVnRDRDT3RJbDkwSDZ3eEVJc01wZVFEeE5VeXpOOE1YTUJJRGF2VmxkaGpOWEF6YnQ1YXBHUHFkSnd6Z3pfVFdIdjdyU2FyZXd2NmZyZ3RxT1FSN3ZVX3RmVDcyUFhVR1o3NnpMeW8tOXhfNk9ycVZwV2FsWXRHVGFucURwamxfbjgyUFFubHIzNk5HLUE2YXAyRjZycENzNXNJdjV2amlpT1J3bFZxZE9VRzluWG9DelBOemQ0SFh4MNIB3AFBVV95cUxNZ3Y4dnY1RVMxSm1pTHZUQnpLU1BOQ1VHc3JOYmw3Vno5ckFYci1OaGhCXzZhVl9qZWpheno4WmhZWDFDM1lobjVnWk1RUTNfSGQ5QzVQNl94YUtFUWFSeWlWV1ltTFFaazFIVmJOa015NFY1cDIzZ2Y4akpva0FqSWMxbzZkc0UyYlBwM0ZKc245Sk42X1FJb01McXpPLWlGNGlLWi1QVjVkdFE5eUYtT09CR1RCMERxWWNwaFk4bE1qcXpUc1ZfNXR5Rk5mVzJkSXF5Z0YzNDJzeWFk?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkhHOFU3QXRaSEpRZFFidDJVbGsyN1FCZ0FZci11QWNlemdseTJVVHRqYy1DRW5GSGVBbjRoSnhSMV9RUzBpdGdRcEt5YnVtZGYtekVnTjlzVEZReGRnVk1IUTVENXdjbF9nU2tiZUZHRm8ybnZnemVBWWQ2UF9oUGh2Nld3UVVmcngxOGVIbnc0XzRhTWs40gGcAUFVX3lxTE00dHZlWEhCV2JDai04dEtRQzNubTVtRXR5TGhET2pjNGNwdHJ2OVZ4WFdaRUpPNmx3OFhtSmR4TEhqVEVEMF96NmxNUVhtYlV2dEtqZWNNSnBvaXl3LTNGLWZXSGw5VkFVczlyWjZTVFVENmstSWo3SnVDOHBrZTlOWHYzSmU2Z19CRkxLWlBFMHFfY19MdUtuUWlXdA?oc=5"
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnNxaFowNTMwdlg5ZFU4azBBaXFWd3VNaXk5dVFYZXF0OHA0UEp6ZEZBRnZnbXNpUm5sdDk3OXBEdjFrdUZNak1JLVFkSEJUdElZSmtDYWliVnhyZWYyU1F4dnBud0lUOW1YaW52Rjd5RFJYWEhYcG9aQXY0M0c2M1JUeW5OMklOM2pVMWRVYjVvbWRmUFhYOTBEZUR3aHVPdDB0aXQ5YUlZNWhfRTJFU25kemxLaUV0dzJfeUg5U2l5d3pyVlJGczRPZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnNxaFowNTMwdlg5ZFU4azBBaXFWd3VNaXk5dVFYZXF0OHA0UEp6ZEZBRnZnbXNpUm5sdDk3OXBEdjFrdUZNak1JLVFkSEJUdElZSmtDYWliVnhyZWYyU1F4dnBud0lUOW1YaW52Rjd5RFJYWEhYcG9aQXY0M0c2M1JUeW5OMklOM2pVMWRVYjVvbWRmUFhYOTBEZUR3aHVPdDB0aXQ5YUlZNWhfRTJFU25kemxLaUV0dzJfeUg5U2l5d3pyVlJGczRPZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnNxaFowNTMwdlg5ZFU4azBBaXFWd3VNaXk5dVFYZXF0OHA0UEp6ZEZBRnZnbXNpUm5sdDk3OXBEdjFrdUZNak1JLVFkSEJUdElZSmtDYWliVnhyZWYyU1F4dnBud0lUOW1YaW52Rjd5RFJYWEhYcG9aQXY0M0c2M1JUeW5OMklOM2pVMWRVYjVvbWRmUFhYOTBEZUR3aHVPdDB0aXQ5YUlZNWhfRTJFU25kemxLaUV0dzJfeUg5U2l5d3pyVlJGczRPZw?oc=5"
       ]
     },
     {
-      "title": "Daryl Mitchell - an unlikely boss of the ODI format",
-      "score": 19.97,
+      "title": "The Croffle Guys Raises Rs 14 Crore at Rs 100 Crore Valuation, Plans 40 New Outlets",
+      "score": 21.53,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGU5c2JBdjI0Y2k0RzhrLUhCZ19nX3VvWWxUNzJjLXQ1R0NGN0EtX2hwM2JmV2lHTHo5YUdsdk9fandQTldFYVpZUXFuNGkwMndnTUdQVTNYNHJrdmxqQlBOYjlVQU5EYjA0LWJaY0pOejg0UzlucWlSUGo5M3ZLMHpXa2U4cEdNaTJOYWRkcUpfaldlV1NIU1k0bXRVTzhoMTBqUnFUcFfSAboBQVVfeXFMUFZyczlvVVBCOGNWZWFFakRXQTlST3Uxc3h4Uy1yVlBGYTI5NlpFQ0xUTkFsYWFQcDExYUwtbWIzRm5zUEpoYzk2LWRVRC1NZ1NGYTQxM283UFoxUDJXVlRtRFRBNUl3UVJoSzZ0cm1jOGxGZ3BqY3FOSURLM0pZbklTR19xRXJrdGZKZW1pQ2lNc2FrZWJ3TWVfZzAyZFMtRF9WaVZXRDNxbEFwRkpWcjhQNUlaVm8wYktB?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGU5c2JBdjI0Y2k0RzhrLUhCZ19nX3VvWWxUNzJjLXQ1R0NGN0EtX2hwM2JmV2lHTHo5YUdsdk9fandQTldFYVpZUXFuNGkwMndnTUdQVTNYNHJrdmxqQlBOYjlVQU5EYjA0LWJaY0pOejg0UzlucWlSUGo5M3ZLMHpXa2U4cEdNaTJOYWRkcUpfaldlV1NIU1k0bXRVTzhoMTBqUnFUcFfSAboBQVVfeXFMUFZyczlvVVBCOGNWZWFFakRXQTlST3Uxc3h4Uy1yVlBGYTI5NlpFQ0xUTkFsYWFQcDExYUwtbWIzRm5zUEpoYzk2LWRVRC1NZ1NGYTQxM283UFoxUDJXVlRtRFRBNUl3UVJoSzZ0cm1jOGxGZ3BqY3FOSURLM0pZbklTR19xRXJrdGZKZW1pQ2lNc2FrZWJ3TWVfZzAyZFMtRF9WaVZXRDNxbEFwRkpWcjhQNUlaVm8wYktB?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGU5c2JBdjI0Y2k0RzhrLUhCZ19nX3VvWWxUNzJjLXQ1R0NGN0EtX2hwM2JmV2lHTHo5YUdsdk9fandQTldFYVpZUXFuNGkwMndnTUdQVTNYNHJrdmxqQlBOYjlVQU5EYjA0LWJaY0pOejg0UzlucWlSUGo5M3ZLMHpXa2U4cEdNaTJOYWRkcUpfaldlV1NIU1k0bXRVTzhoMTBqUnFUcFfSAboBQVVfeXFMUFZyczlvVVBCOGNWZWFFakRXQTlST3Uxc3h4Uy1yVlBGYTI5NlpFQ0xUTkFsYWFQcDExYUwtbWIzRm5zUEpoYzk2LWRVRC1NZ1NGYTQxM283UFoxUDJXVlRtRFRBNUl3UVJoSzZ0cm1jOGxGZ3BqY3FOSURLM0pZbklTR19xRXJrdGZKZW1pQ2lNc2FrZWJ3TWVfZzAyZFMtRF9WaVZXRDNxbEFwRkpWcjhQNUlaVm8wYktB?oc=5"
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzlTWmVrSC13NDRZVUF1ejU0NnNJZWRhd1hyWE85M2JtTGxRWDZXYkRMYmU4bHFaTTlKNkNHTTNfZ2ZkdkpHUXUyRVU0UHh4a1pqbkVFZmJvYlQtRk9OeXRDc0MwVFhsMlVLV3h3dmZJbDU4a3FpNWk1cGtjRHpFNWhSWjVIVHhXN2RjTUdiaXBXVE92TGdLYmh0ZEU2YWZ1dXBscGxB?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXVOX0oxRUw0TmFVMmFnX25nQ0xfWHRabTBxdFJ0Y0RoeE02M3Fva0dpQTdoSno4dXFDV1I0c2ZYcWxuenByMDVJZFd0SndNU014WXg0V2R6YkVxY25xak9CQlhBWVlIUUZCTjV6MUVtT0hHVUV3NzdvU05hbXRkUmlPWVN0Sm1kVXdraGRUY3FpbmVFeTVXSHpuWndtTUxxVzMtMENSUFBuLW40VDc4bDZ0eFFPall3OTlyZVYyYXkwSmFjZ3daeEZB?oc=5",
+        "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNzUtS1JFWUlWUl90T0E1YjNQQk1tSWlxNllRNFMtU2dTTTRqajRRVjNRci15cGlTQ1hzRlN3RC05YWJYTFpsdHFrMzJWdWZKWHh1cmhXSUVnRGFoaWlFNW94a3czUUVINWJhdE1Ea0hoTUVncUJVajNKS1R5OWxBd3NqVW9jZmJHRnpMeDl3QVhFcmNxcHNoS3JmRjBvYmJiRFNXaHpaSElocDVWU2gzcE5WVDAzU0tNdkVGQ0pvb2ZFYUxlSlNpVUdUdHdiTVFFRmVOalVDb29jb3RCUXo4NUVBbm1ORnp2MWgxR2lJYjJibEU4SEFoNVNVS2dZYWY5MTdadk1sWlhUb3ZmUnBBb2lGRmVZa1hE?oc=5"
+      ]
+    },
+    {
+      "title": "Vivo V80 FE may launch in India soon: Price, camera, battery, display and all other leaks",
+      "score": 19.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0dtRkY0M0tMWXQxRUljUVNtVGl5RU42SlNHbmV1LUdxYmpLN1RSQ0VpUlRzZ2h3Ti1xbkJVOUpoR0F2d3FzSFpBemh3TFgzS1ZtRTMtTHpUT2xTNkVDdTM0TmltQnVRSjJGWlNMajNYaGZmMWFVUWVNdWJZdFBidjg2UmR1NW9pVF9JVi12dERmLTJyWGZzcmREbWdUZDlCRlM3bGNBSTRUYTNSWTVTLVJhYU5CN1JlMmhERXl5ZFluOXlpcjM2TXJ6OGU4aThk0gHQAUFVX3lxTE1rR21GRjQzS0xZdDFFSWNRU21UaXlFTjZKU0duZXUtR3Fiaks3VFJDRWlSVHNnaHdOLXFuQlU5SmhHQXZ3cXNIWkF6aHdMWDNLVm1FMy1MelRPbFM2RUN1MzROaW1CdVFKMkZaU0xqM1hoZmYxYVVRZU11Yll0UGJ2ODZSZHU1b2lUX0lWLXZ0RGYtMnJYZnNyZERtZ1RkOUJGUzdsY0FJNFRhM1JZNVMtUmFhTkI3UmUyaERFeXlkWW45eWlyMzZNcno4ZThpOGQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTkI0YTRHNXdBVVc5cFE0R2NfVEgzMEctanZySVhFMEkzV0k5RlNDTDdFOTJ4SHFjUXYzUXM0d0JvYWFadGYyZHVKSmtjMDFtVlpmRlItYVlSVjZEM25BSy0xcDdRYTRrblNTdEwyY0FhTHVFZ3I4elZLSHVvMTFSMUxUSFJFVEU5R1FFRkE1eGNsR01BcVRzdlJ2ejNoaTdWWEZsRUR1SG81QVg3bV9TMEl4ZTNrd0RKbHF5U3o2VmxSR2xGS0toVm5KUy14cWFmTDB5Nm42SThWN0ZzcFZiTGFjbWVwdTBZ0gHuAUFVX3lxTFB2enBVaW5jeTgzV0lDM0xFWG9rWlBlR1VpM1pxSVk1Nlpma1RmMjEzSTlzamxXbjdEVXlFa2MyVXVKZWI5dkJfMDN6eGhSUGZxY2V5NExYSTYxUDVDdGtHZTh3NXNrSXZlMXlFMnVEeklESWxnYm45b2d6Z1RhZ1R1VXhraGp6R2tTT2xqZEtiel94ZERKMUJNUW5rY3NacGV4TzFXaF9zUnI0MG13OU1oMWJpNlVLTE1CcU9haTk4blBYUnQzMjI3YmpLOEYzbEgzRTVlLUtpemhJN3pNVDg3ZXAzYWhyNlJmeDhpd0E?oc=5"
       ]
     }
   ]
