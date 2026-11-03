@@ -1,25 +1,36 @@
 [
   {
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-03T16:35:36+00:00",
+    "title": "India’s CERT-In secures access to test Anthropic’s Mythos AI model for cybersecurity",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVlLNlpvOTZFY0J6UHdLTlcwT0kyOTVHaThjUXhvejc5RnpKTEt6XzNGYzNyV1NWcUV0cnpHYWlUSmhzLU1oRFg0bHZhUDVMMkI0THk0QzdkbGVHVGMxOGN1eEVrV2tfMnhubUkyOWoxQnFJWHBZMzBEVU9FaDROWWdmckk2dlZvdnBFcnR2cDdzQk5CeTd6Z0lPSjg5RGZ5cDN1MlFWa3hFUHdGbTkwVi1aMGwxTFFPc0RNTmlENzByNWM?oc=5",
+    "source": "Deccan Herald",
+    "kind": "news",
+    "summary": " India’s CERT-In secures access to test Anthropic’s Mythos AI model for cybersecurity &nbsp;&nbsp; Deccan Herald ",
+    "country": "IN",
+    "published": "2026-11-03T18:04:08+00:00",
     "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
+    "saved": "2026-11-03T19:47:34.344021+00:00"
   },
   {
-    "title": "Scaling Git at OpenAI",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabHB2WnQ0cUNkaDRpVlRXMDF5ZjNIdWNRclFiTnEtRzV1anRwajVzMm8zLXJyenh6ZkhoWXdpZFJKYzlpSGJFR1dSenQ?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " Scaling Git at OpenAI &nbsp;&nbsp; OpenAI ",
+    "summary": " Heimstaden is changing residential real estate management with AI &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-02T23:55:33+00:00",
+    "published": "2026-11-03T11:07:39+00:00",
     "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
+    "saved": "2026-11-03T19:47:34.344021+00:00"
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Accelerating engineering for the physical world &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-03T18:45:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-03T19:47:34.344021+00:00"
   },
   {
     "title": "StateBench: Testing how language models track state changes over long documents",
@@ -30,7 +41,7 @@
     "country": "GLOBAL",
     "published": "2026-11-03T17:15:21+00:00",
     "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
+    "saved": "2026-11-03T19:47:34.344021+00:00"
   },
   {
     "title": "Agentic cheminformatics with Google Antigravity",
@@ -41,39 +52,28 @@
     "country": "GLOBAL",
     "published": "2026-11-03T17:01:49+00:00",
     "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
+    "saved": "2026-11-03T19:47:34.344021+00:00"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5",
-    "source": "OpenAI",
+    "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
+    "source": "The New York Times",
     "kind": "news",
-    "summary": " Preparing our next security sprint to harden OpenAI &nbsp;&nbsp; OpenAI ",
+    "summary": " Google Will Turn Off Search for Schools That Reject A.I. &nbsp;&nbsp; The New York Times ",
     "country": "IN",
-    "published": "2026-11-03T02:47:02+00:00",
+    "published": "2026-11-03T17:21:24+00:00",
     "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
+    "saved": "2026-11-03T19:47:34.344021+00:00"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
+    "title": "Introducing the Grid Protectors Program",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00U3hrdTh3QnNuM056Y3ZvdVpvMXNJUmRPNlZJUXJPeXpVMTB1NjFSNkt5d0hhaHhYTVMtdmNLbDYtS1lzRGQzS2ZFU0pRLVNYN2syX0w3TkIwYzlNczl1aFRoS1ZnZw?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization &nbsp;&nbsp; OpenAI ",
+    "summary": " Introducing the Grid Protectors Program &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-03T00:37:13+00:00",
+    "published": "2026-11-03T17:38:12+00:00",
     "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
-  },
-  {
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabHB2WnQ0cUNkaDRpVlRXMDF5ZjNIdWNRclFiTnEtRzV1anRwajVzMm8zLXJyenh6ZkhoWXdpZFJKYzlpSGJFR1dSenQ?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Heimstaden is changing residential real estate management with AI &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-03T11:03:45+00:00",
-    "engagement": 0,
-    "saved": "2026-11-03T18:42:50.681804+00:00"
+    "saved": "2026-11-03T19:47:34.344021+00:00"
   }
 ]
