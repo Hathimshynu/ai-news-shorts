@@ -1,79 +1,26 @@
 {
-  "job_id": "2026-11-04-evening-1801",
-  "chosen": "Centre’s key cybersecurity agency secures access to Anthropic’s Mythos AI model",
-  "reason": "",
+  "job_id": "2026-11-05-morning-0016",
+  "chosen": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "reason": "OpenAI’s acquisition of Pierre Computer Company signals a major expansion that could bring new AI capabilities to developers in India and Asia.",
   "candidates": [
     {
-      "title": "New AI Models: India Launches Eka-1, Dhir 2B and Dhir 5B Under IndiaAI Mission",
-      "score": 19.75,
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "score": 30.6,
       "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaRDVVQmpmZTN5bkwzQTRqTW5FMXZFbnB1dFlSaURha2k2VWtIZVpEN0xIVXVVaXJ1bFliSTVCb0syZ1pwTkdwRGVlQlNFNWk5NnRfbHBvSHFwc2tkSk9rWkRZRUxyTTZm?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlBTWjZYQW9XeHBSYmRBM0ZoU09YYmRkMmxmYjRPbFo2TVhEbDJhbkVfaTFWa1FQd0F0Y1lyNzF4eThHaDZJS19KaTd3aElkbnNIWHk4QWVIbGhheEhPTWQyUUg5LW1uMmxrR2xkRmhfUjJhNEZsUW02blNycTlxU0VtMU5GOWdtSl9vU19fcHFaZGRWdFUzUFZ5OXRDTVZuS1UwaFBkcW11VmJzQU9N?oc=5"
-      ]
-    },
-    {
-      "title": "Centre’s key cybersecurity agency secures access to Anthropic’s Mythos AI model",
-      "score": 21.97,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWNObWxnWEhQbjVSNEktU21qSDVqWVZVTzdkSjlOa2VUUDRIRkRQR1FkR2lRcGNfNDcwTWV4OGtpaE16N3N1VVdZRVRPbVZCYlR2bGVUSzdMQ1FzMVVsUWhmRklKV3dXOUJXTWZmdUFLaU9NWEZibklXbG5TNXQtS1dlb0xnRGY4X0NvWmNQWmNtbkQ2a1pYZlVwVlItQ0tid0piZjZVMGlNSW91TlFhRENnNFhKVzBkcVJwQk16ZDBaVHN2UUVKTFVB0gHQAUFVX3lxTE55MVlBRzNhYjdFVVVHVlVzZlI5V0VKQXR5REVodjBOV2F4N2d0dHZIS0Y2RGdmZU1ZLUJuU2ZvV1h6Q0RRZU92cXY3Ui1nc0JvMjN4ZkZPcWRpMDJ6Ykt4UTFHQkd6MXQ2VE83Y1RrT05YTzVkS1p1M1pCaWVoclFxOEp5TDRLbjY5TVpGdGRlNjM3cGhDNDB5bmM0bmRZZVJnUHlCQUxpTEVZbWprd1ExTi14LXdvdTdabDM1R09pV3FKRVBhQXhWdk9NWTRIN3U?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nN1FpZF91LXVoZEIzdUktREN2VXRPbzBaMGZ6dTlzUDU4a2Y5X2VNdDNRMnBVVzJneWFlUElTU01kZU9ncUMza3RhYmU0Tk1nT2I2YmVCMkFDRkpCY0I1MW1LdU53WHlKVE9EMVo2VlFtVXBWbV8xMWJPT2M?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVlLNlpvOTZFY0J6UHdLTlcwT0kyOTVHaThjUXhvejc5RnpKTEt6XzNGYzNyV1NWcUV0cnpHYWlUSmhzLU1oRFg0bHZhUDVMMkI0THk0QzdkbGVHVGMxOGN1eEVrV2tfMnhubUkyOWoxQnFJWHBZMzBEVU9FaDROWWdmckk2dlZvdnBFcnR2cDdzQk5CeTd6Z0lPSjg5RGZ5cDN1MlFWa3hFUHdGbTkwVi1aMGwxTFFPc0RNTmlENzByNWM?oc=5"
-      ]
-    },
-    {
-      "title": "Vodafone Idea partners PwC India to drive agentic AI-led transformation for enterprises",
-      "score": 19.36,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOW9fdjlsNC1TWHFRTGgyclpMU1dwcUJLTlZ5WF9NVk5IMXg2VVFhM3Rjbk1YbV9EdDl3OFhxaTdNZXBRT0V5c0ZMYUhXbDZqOGl4NU5rU1dkbVlyRjlSS0RhQVI5UFBlUFZBbUh4OF91LVpadkpXYVRvak00V3dORlJlZmk4MzlWeGU2NEd3eURIU05BVHduTHNVaWRyR0hoNU5QSVNCSjU2Nm8zXzVjX18xVW83V1VscTd2Y3RVYjY5aVF0RWZmeGVoSjgycXdKcWxFWm81UlYyOEtXXzhNdmJOTlFuaUk3U2otONIB8gFBVV95cUxNdjBtYnJzZmNSYnotdG5iSEk5NFIteGZWYnlLamNZLWZUaWVENmJLSzF6R2VtUzFDVDVaYVEzbEJHUDRqd2pyM3RPVElMQ01QT0I2UTRZX255b0F5aGdkcXVvc3czTENBeEVibGdwZXdwWWZ3VW53ei1QbDNnT1UzQ09hcVAydlZSMnZrMzd5b19uWkpEOWt2eDNjLVdZT1c4dVpCZW5wVXVieVZlZ21Da1c0SVlIMG5fZ0dLcllLUE80WDVNZUtEQ3NBSXk4cjdFUnRYXzE4LVRuTWUtSG4yem1DdlMtRGZ6akRNUTRhWFN3QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelN6S3UwVVdaaFBmQ001cVpMRUpnb2tZeUJSZno0ZFNBUnQ4VHRLemFOY01SU2NjRzBucDZ3R2U1TkhoV2wxOVQ1MHpsaXhpb0c3S1NVdlpENFdRZFdBVGVCbVBWd056SVJLWE9vUkVtaDdMbW9zTVlaTWlWOU5SQk11QmY2TnBEbkN2TDh2QjZwWG05MG9fTXZsdHFHX0ZSb1pyOXdoMXBCdzA?oc=5"
-      ]
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "score": 22.83,
-      "kinds": [
-        "backlog",
+        "community",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5",
-        "https://openai.com/index/cisco-cyber",
-        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5"
-      ]
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "score": 23.34,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
-        "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIa01VeUZfc2tSNklmMWI5NG9kcnlIVlY5Wi1IMUE1d0dDSVNvNU1wMU9NaWhZQ1BhN0pLaThXc25BZ1lMUzZSQUk3QU5mS0hGTDhJam5VUXpNUkpnY3Nv?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMl8wYzB3eWV5ZldKYjhhR3BUdmZwZXQyMHozZW9yZGVkYnJLQ1Z1andqTmJRTnZVX1lGWV9UdUdCOWZhQVItNEVCNnR6Rlk0bnE5UC1mbkJDbWlXaExTZi1IM05iUEh2a0hHal9DMmNSMzhFOU82NllMOFJmUDV2ZmYtUktXaDlOaUw1RTdDU18?oc=5",
+        "https://openai.com/index/openai-to-acquire-pierre"
       ]
     },
     {
       "title": "LifeVal",
-      "score": 27.56,
+      "score": 26.0,
       "kinds": [
         "backlog",
         "news",
@@ -87,85 +34,134 @@
       ]
     },
     {
-      "title": "Google Will Cut Off Search Access For Students At Schools That Reject AI",
-      "score": 29.8,
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "score": 21.27,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5",
+        "https://openai.com/index/cisco-cyber",
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5"
+      ]
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "score": 20.77,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+      ]
+    },
+    {
+      "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities",
+      "score": 21.63,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpsS1Fnc2tCYzNnNFl1R1MyMGs2V2JOX0h5MUZEcXpibVM5NzFMWWJmVjlaeGpHaVNZelBPUWNQTWpuV3hDY1R3dnltN01hQV9QR2FaaDFjdV9yZzVGckpCSG5DRkdsajI2VmhsQWVGem1OTlJ6MElDU0ZZcWVLSEs4Q0haZU5YM0hEaUJkb0F4bHh2amxMLVV0Vzl4ZmpWR1V5akVkUWkwTkxGYXQzTFdtX2g0dGxqYUpJaC1BdG5heXp5XzFKUHpYUWRzNWlPcFc2N0F3?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBS0pqcldQMG1hQnMxYm1QWG5qcnV5SkV0d2VTVGMxQXhjYUI1d0VVd1RCUEtSWjB2a2xXSlE3U292VWE3UElLaDhoRWZMNUU1U1hEUXlpOXFBQnYyeWRSNXNRcnRVVzhkV0FDdkRkY1RHakZz?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDU0ekkxUG5IM0JZVWczLUkwZ2c3M2gwcnA4bXdxY3FCUHVLT085VjdaXzJSeVFGanpIY2doUmVvelRqdFI3bU1ySnhHdTZqdV9HSGR6MGRZLXZaR1hEdU9XeUlILXJSaFM5Z1FaTGI0ZVN3ZnZ0SVF6ajV4RnlxZXc3TlBIQ2hyWWFxTDNPOTJibDkwejF6d0hJTVBQWnZhaHRVcjViUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "score": 21.78,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
+        "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5"
+      ]
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "score": 24.1,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSGtkS2Q0MmxhT1R5Qy1HcFg4LVE4YWxWT0Jqd0JGZWN4bzRIX1FLN2c4bDYyVEpfSUVnR1VNWE5zNTRJeWNfdmE1MnRvdkZWQk9KcVc5T3NJbkpFNzU3bg?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSGtkS2Q0MmxhT1R5Qy1HcFg4LVE4YWxWT0Jqd0JGZWN4bzRIX1FLN2c4bDYyVEpfSUVnR1VNWE5zNTRJeWNfdmE1MnRvdkZWQk9KcVc5T3NJbkpFNzU3bg?oc=5",
+        "https://openai.com/index/daybreak-red-aws-govcloud"
+      ]
+    },
+    {
+      "title": "India cybercrime agency warns financial firms on AI attacks",
+      "score": 20.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2J1X3pUN2xzaV9ZUEhEMnRpVE1zby1Jc1ZRcFJueDdJd3ZvbDE5bk1UVW1HdVJuaHE3RGFrRHZJSXllb21uNmFMTzFnYjZpNkJ1UXk0X2dJM2sxbEcyYWpFN1JzQXhadm5BbWxuMktrNG1tMlNUc0I1bjU4cW5vVHY5YUNfdmF2WG1pUFlnRzNMOUUtSGJCaWowck9wUk9yaWFQR1Y1b3JyUV9JYURFRzU5bktrTlo1R29keDJQLWdkMndneHE1T05hRVVvWVo2RXlsSFRyM0RTZw?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW9ZdnBYVUFJZTlYY0lxdncxel9FMlNLaU9yMGk5NHhmVEgzNGhieEtNMTl3RndGNWtVa2o4WWZEdmlZd3NRUHhCUVBkUEw3cVQzdlZranMxU25tc0JyWTdQeUJFSllWWFcwcVdVQi1ac0ExRXhqUjN4TmU3d0ZtY080M25NenRPUzdHSWZOZ0gxUVFEc3NNa1BYYXJ4NVE?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFBZFNmUmkyWnBoUmgtbjBGeWFPMlU5SDNUZ19saThaWFZUVzd6ZWFWMnhNUXNYd1JDTnFoLXJTdWJZQzN6YUk0cHV1enM3ZjY3MmZYa2REY2Y2RVpIMDBJRkxJTU5TSmN5bTZNZ3JqUi0xZ29wRVlVS2xSZzkySUd4SHJzdENTbk9HZktlcFBBZXpOVGFNOXpFcmZWM3l0eFN2bk1nSFRnREdZR2c?oc=5"
+      ]
+    },
+    {
+      "title": "Democratic Sweep Could Slow AI Build Out",
+      "score": 19.91,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYllHTEhOUHhxQTlqYVk0WWk5dHByY0l5VmZnVzN0OXlXTUo3eUxLMWlWUGhJMC1WNVpfby1PbjZGY1pQdnZpZGM4UjdOUEZhZHFXalRtQVhPbGptRXJRaVZjelgxdnFmcW9TWkIwX2JaQzBUOWpVOFBVQUlXZ2NsbzBiT21iaXUxX1ZVaXltUXFIb2plU2NyOE5CSEFxODQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW9jUWpCQmJ0M21nVklVYUNScUJCVU9PZEM3emx4TmVNd28yOHhKQm5IdkROTXZZYllkcjFoUTBIelFCTHFpakJ6RU5rOGh2Mnc0VGR2dmhNNVpqanlfbjIwQkIyeFhHOVJtQ211b1dDZjU4cVFWRHVpR2lITVdzcE9aS0lhRi13NUptYnZxZjMzOUVoT1p5UzhwSTFWcXlwNDIwYQ?oc=5"
+      ]
+    },
+    {
+      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+      "score": 19.76,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVVsQnJ1T0swU2JqbnBlQ3FjSFFoYjFPcXQ2Q1JZMk9UOTRIYXpJaG5kMk5pdmlmYTNLaUt1LUx2dks2MW10cFMzTDMtWUZTMl9UMlRxWGlzVXd2NnozWjN3eFg5RE4zVmhQTjJWTWoydkVKRHQwcFB3RmJHdERtRFJXOUNYLU14S0lQQmgwY2FkenZudzN3QnZhdjdzU0dpQ2ZhTk15MGxESy1YVVdlTm1VNlZsS2p5ZkthQXhyRGFaeVZ2Z3fSAcYBQVVfeXFMT0VVbEJydU9LMFNiam5wZUNxY0hRaGIxT3F0NkNSWTJPVDk0SGF6SWhuZDJOaXZpZmEzS2lLdS1MdnZLNjFtdHBTM0wzLVlGUzJfVDJUcVhpc1V3djZ6M1ozd3hYOUROM1ZoUE4yVk1qMnZFSkR0MHBQd0ZiR3REbURSVzlDWC1NeEtJUEJoMGNhZHp2bnczd0J2YXY3c1NHaUNmYU5NeTBsREstWFVXZU5tVTZWbEtqeWZLYUF4ckRhWnlWdmd3?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5"
+      ]
+    },
+    {
+      "title": "US parents and teachers: share your thoughts on Google turning off Search for schools that reject AI",
+      "score": 19.73,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F0UzhmMFRXU05WRUxENnN6eEx3bmk0Yi0tZVlJOE03aHBlVTBPLWMza2NJVmN5MUh5dzB2NVJGbjZpVmNKZVp2cm5mU0dpMGMzellsOEx2MzlxLXdjRkc4b3ZPU3NrNFhJYlppc0dUXzhWR1BFcFF6czRDckJiSg?oc=5",
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWVRSVF3WUpHckd6bm5lVDJUeG4tTnRocU9XR2FJXzQwY3R6VGJGaEhoTU0zYjFtNTRJS0M1WkZhN29Ma3FpMmM3cDhlNmJEWWd6elFTUWZyZWNxVEhPb0dreWY5Z0hidFhyaFRvWEhQdmVtVmFSbXYwOE9JdkhNa1hnVGFSaXNXZUVmUE1EcDYwZWloWUJQXzIwUDhNZjB6RU1VTndXUG5hTjdHci1kQWFnaEhhZ9IBuwFBVV95cUxNOUtXdFN6Z1FYeGFxck5oTTFmWmlfcXBwdGFSRktrY0ItRWpCU3hmT3R3UHJFZkt5VHJra0RpSGRvWTNhWmNvQ0d5dzBQdlRpUlk5SWJfdUxEZjlUdE1nUmpRM2JtMjlQbDAyeWNKSnlnR3FYYXoyUk0xdl8yZUVFc1piRktBbVVFTTlGc0VvU1ZUbnVFVlk2LXlrVElKa0RQVjlfa0Joc0xKbkUwN1RkbmtaemJocUdwbjlB?oc=5",
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYUstRUszU2xzSzFGQ0NRcmlEX3IzSGdGZ25SUXZfYmRJWkI0Uko4X0N4V2E2UDdFQlBPN1llenVZLVhyUEhxc285UmF2Z1JOZ2dSVFltLW11TENfdzd6ME5nR1hTX2xhb0dTRkpZUjUzSHhzZmxSaEF2T2d6ZGVJVjJWZ2VkcjB0b1RBaWEwVUEybFl2TjAwNjBfT0dlYWpKZjdsa29nT2xWSDlmMllSSVN2VnJBUEZxcVZwMmktM1pYZi1lczNGVkVfUGQwYmxoMVZLZmM4X0JXS1hEWnZZV215V3NQYWUzYV9jVGhUMmVESGt1b01vNEk1NzhWTjBSNGJIQzBhaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F0UzhmMFRXU05WRUxENnN6eEx3bmk0Yi0tZVlJOE03aHBlVTBPLWMza2NJVmN5MUh5dzB2NVJGbjZpVmNKZVp2cm5mU0dpMGMzellsOEx2MzlxLXdjRkc4b3ZPU3NrNFhJYlppc0dUXzhWR1BFcFF6czRDckJiSg?oc=5"
       ]
     },
     {
-      "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
-      "score": 21.53,
+      "title": "45-53 pc street vendors may scale back UPI use if MDR imposed: ISB study",
+      "score": 19.53,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFRGNjNkWVo4SUVQdFpyUkpwbkZUYVFQWjdFVVN0THBqRzZPWk91MkdxZ3dYeG55SFAyS0l6akFyUmhPWWhaUGNyWHlNa3N6cnlSS1ZZU25EM2otOTRuTXoxS1VoU05aSFdrQXpVMF9KU1VlTk1ub0d0VGZ3X0ZlNkhrdHZ0R2toS19LNk00QUxTelplMFRtdGs4LXJ5cHNjamtueFZ0b3htU3FTQm1XQjhmVFpwS01qaUZ5SFlqZlpZUmwzNl9qTzVR?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDlLVTdrSTMtVVo4UEhWRnQzQmo5c2l6RF9DSlRhM09RWUZGTWlhbVhUOXUxLW1ZSkFyNHE4VlFHTmZOQnJjeU5kLTZoYk9UcU5uc0liVHpIOFdoanBHdHE4ZzVmdFdCaDlLcjFVV1c1ZGU0NXR5d2gyNXBSM29pRnd5SlNzdlBYZHdVQi1TZGc5Ym00SUZLdzVUQjJIbGViTHZSYlB4a1lROGRHMDcwb1JNX2ctXzhrLTRQN0pyMmU?oc=5"
-      ]
-    },
-    {
-      "title": "BGMI Air to launch in India on 10th December after crossing 14 million pre-registrations",
-      "score": 21.9,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMickFVX3lxTFBRWnBEc2JSM0hqS1gzM3NESjZKQnJ0UWJlTmg3c292Rm5IZ0JJeFBNSkZhaFJ3cXUzSk00TzlrZ25qb3lSOVdWWU00Rjh6OEljZUFLamhocXI2Y0R4S2FLVXNTVElNREpPN3BnR2kwUkJ1dw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWlKZkV6TUgyaHUwZDJRNWdBdEV5VVlndVJGbmVGeENyWkpNTWM2bUJWX2hqMWxyUGNhZkNjUEh1c01qaHp1V1JxZ01aWnNWbXNsTmk3eFE5ajhuaHRYdU4xbHUybDdnc2xId25IOFA3YUtEejRTdVZVVE1qWUFfZHlUbDMwUmVqNjhTUF9Sc28tUjJHcElCenJVYlBlQVBMYmhqWGI0MW4?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhaVBUNWNiZTFwLTBYMHF5ZUk2ZGhhaENMcG5tSzhMQWNsb3VsLWMtYlpJeEFxVEFUM0hTM01abFBLTkZ1VWFjVi1oWVY0Y0t2eTVocEtMcm9hQWVpYncwMVNEVVhmQmppQXgzbkVYRnbSAXZBVV95cUxPT09LRVdhV19lUTcwY3ZSQU42cnBXRWltQkNiSUt6Y1pVOUVhTWgza1YzeXJhbDVWVWpOd1dmclRjbi1ieXllMVdnM3otWHVSbjZlb1NmeDJKMWVWcV9NRlRCN3lGSHlqUGZKWmtmN3FDelVuZFhn?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "score": 34.68,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxON296QjFrZ29rblJhaTRxaDFOMERDWEJHN3lPTUNYaktVUV9uTk5qemJfZzRaai1zTGxreVQ0dmlHdE5GMktlU01mclhyNkl3UGo4NEoteFVZaFRvanQ4UVRqOXN3U2pmN0VWclNrekNic2poXzVPT3B2SUhFODNWaEM5U3ZoRGtqWEFTUmxKR2wyNEJFNkdxZ3J1SFV5ekVhbXNYSmJtTlQ5VkZCVmgzUVl6N3BqQ3hSaWNjZFdLLTliemRObUp2YTZB?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GLW9mdDJMZWlkcUtYOWZpd2VNTWNrc1lHeFF4b1Q2TlM1UDc5V2dpT2FWYXlvNXFSZ2ZPYl8xcWRnUXR2WTJqd2VzUDlUMTBoVEpWeDhIb2Y1MDdGbHZIbURLRHJaYTVNTENFenpfN2tkSGNZbFVuZFBvcW84dw?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHFQUk5xX3libUdKM0g1ME5RLXROenU1eHIyOUpPdy1VZ2lKUzljVUhnR0pBZTBpNFNtNklrZ3NyQ0VMa2F6Z0RFb2hQOGo4ZmxaX0RuTnUtMDNMWHdXNzBaUG95azl2QngzVzBMOUFENlhfRm5Eb091cm5XcUNJbVJfZ0JZT2tUb3JaZkJUdEFubUtPZjdZOG41UkpDbGdHMVVxbi1rT0I2Mkt4NVQ2NnVtZHpLYWc?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "score": 22.93,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSE5mbTI1RVlJREhQYUQ5UzJlM09KemNheTBfb3VrZkRPV3lnSy1YODhCZU5vc1pBNmxiVGQxQldjUi1wMTdyT00wT2gtSkg4MXNnUVZ5b2ZtTEdDZW9CQW1jX01jTWta?oc=5",
-        "https://openai.com/index/dan-driscoll-joins-openai",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSE5mbTI1RVlJREhQYUQ5UzJlM09KemNheTBfb3VrZkRPV3lnSy1YODhCZU5vc1pBNmxiVGQxQldjUi1wMTdyT00wT2gtSkg4MXNnUVZ5b2ZtTEdDZW9CQW1jX01jTWta?oc=5"
-      ]
-    },
-    {
-      "title": "Karbonn Rebel and Rebel Pro Launched in India With 7,000mAh Battery and Pure Android 16: Specifications and Price",
-      "score": 19.56,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0tYWHhxcVNfLWJyX0s5NXZEeDBlOVZlbHJkZjQ5RWYyaXExY1R0NTJJMWg3cHRuQTBrUjIyM1RzREdSdXJLVU9DaWU5V0ZiR3lUenVTbHhtZXliRTVQS1FZWjROTnRFdU5wUkNJdXBBRFRtQXBaTWlUVFZ6VlBSRW9ZUnFtVHpNR0ZMU2UyNXhyUmpSZEHSAZsBQVVfeXFMTk8yZm00TTZ0MERCR2s1VVBuajVPN3ItX3RwVnRtN21ZY1VqLTdYckZNR05abUFaVURjSmZ6cFM1SEdmZ0FJZWpLUC1tSlBVNGVrZXJMMDdxSUZWX05UaGlKX3E4d1VFZk1JM1FScGZlQzR4Ynlzei11OVpVSE9fMWtyTUtwZmlQSG41d1hOV1FpMGE5UEFaajM3UEk?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUE9tdUpDTTFhS3RfdjRIeUhxZElEa0RUSkJ3YnZrNXFnSThNR1RoakZ4bVloMnJMM2ZnNm1MTm1wM1hjb1FUaWVyN1F6amtUR2lsLVFnWTIxVndJNHQ5dm5tRG16SkRwSnpJeE80QTlQOGxnZDNqLVZaaDhaT1BJU2xITWdtVHNheFl5NDExNTdFNFp1Q2NCN1JOSkxhd2NQa2pGMFN1cXIyQW0y?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGV0QkxSbW9qTHYxVzhEU01pcmtmTzJCaE5LdWV3cERnRU55M2ZnX1oyaUlLcTJvMWVTLXBqVjdtV3o2aFJKTGZRZHF0aE8wUGRPOS05MzVteVNPeE5KcTBZemtHcm1rbXFORTYwNXppb3FuS3UtR25feG5Ga1llWnAweGhKMUhENmxTMVpxVEpwQl9fcXRLMUNkME5ELWM?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjlnOURoZlRPR1FnakIwdmtLMHVPUlF3QWZ2am83MGI1YTRNRDBUMXJYZDJJd2g5RDVLaEoxQXhuVHNDSkNud2xEd01mR09lZ204QjBobEdOaWFGdXJicThSaF9TWC1INHN2S0N4clVDYkgxa3lVNnV6UVFGQWdnY0ZQb1R3QXlJMmdBLVRUeGotMGViQnp3LV9ZaTZIVFpuR3FhUWJOckJNNDVPNnNrT2pIcTMybmxwd3MtME1zVU93V052S0k1TE5kQW5LQU5scDVSRy1sSG9SbknSAdsBQVVfeXFMTTI5ZzlEaGZUT0dRZ2pCMHZrSzB1T1JRd0FmdmpvNzBiNWE0TUQwVDFyWGQySXdoOUQ1S2hKMUF4blRzQ0pDbndsRHdNZkdPZWdtOEIwaGxHTmlhRnVyYnE4UmhfU1gtSDRzdktDeHJVQ2JIMWt5VTZ1elFRRkFnZ2NGUG9Ud0F5STJnQS1UVHhqLTBlYkJ6dy1fWWk2SFRabkdxYVFiTnJCTTQ1TzZza09qSHEzMm5scHdzLTBNc1VPd1dOdktJNUxOZEFuS0FObHA1UkctbEhvUm5J?oc=5"
       ]
     }
   ]

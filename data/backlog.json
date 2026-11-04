@@ -1,25 +1,14 @@
 [
   {
-    "title": "New AI Models: India Launches Eka-1, Dhir 2B and Dhir 5B Under IndiaAI Mission",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaRDVVQmpmZTN5bkwzQTRqTW5FMXZFbnB1dFlSaURha2k2VWtIZVpEN0xIVXVVaXJ1bFliSTVCb0syZ1pwTkdwRGVlQlNFNWk5NnRfbHBvSHFwc2tkSk9rWkRZRUxyTTZm?oc=5",
-    "source": "Vajiram & Ravi",
+    "title": "LifeVal",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5",
+    "source": "India Today",
     "kind": "news",
-    "summary": " New AI Models: India Launches Eka-1, Dhir 2B and Dhir 5B Under IndiaAI Mission &nbsp;&nbsp; Vajiram & Ravi ",
+    "summary": " OpenAI launches LifeVal to test if AI can actually handle everyday tasks &nbsp;&nbsp; India Today ",
     "country": "IN",
-    "published": "2026-11-04T07:55:38+00:00",
+    "published": "2026-11-04T06:47:08+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
-  },
-  {
-    "title": "Vodafone Idea partners PwC India to drive agentic AI-led transformation for enterprises",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOW9fdjlsNC1TWHFRTGgyclpMU1dwcUJLTlZ5WF9NVk5IMXg2VVFhM3Rjbk1YbV9EdDl3OFhxaTdNZXBRT0V5c0ZMYUhXbDZqOGl4NU5rU1dkbVlyRjlSS0RhQVI5UFBlUFZBbUh4OF91LVpadkpXYVRvak00V3dORlJlZmk4MzlWeGU2NEd3eURIU05BVHduTHNVaWRyR0hoNU5QSVNCSjU2Nm8zXzVjX18xVW83V1VscTd2Y3RVYjY5aVF0RWZmeGVoSjgycXdKcWxFWm81UlYyOEtXXzhNdmJOTlFuaUk3U2otONIB8gFBVV95cUxNdjBtYnJzZmNSYnotdG5iSEk5NFIteGZWYnlLamNZLWZUaWVENmJLSzF6R2VtUzFDVDVaYVEzbEJHUDRqd2pyM3RPVElMQ01QT0I2UTRZX255b0F5aGdkcXVvc3czTENBeEVibGdwZXdwWWZ3VW53ei1QbDNnT1UzQ09hcVAydlZSMnZrMzd5b19uWkpEOWt2eDNjLVdZT1c4dVpCZW5wVXVieVZlZ21Da1c0SVlIMG5fZ0dLcllLUE80WDVNZUtEQ3NBSXk4cjdFUnRYXzE4LVRuTWUtSG4yem1DdlMtRGZ6akRNUTRhWFN3QQ?oc=5",
-    "source": "ET Telecom",
-    "kind": "news",
-    "summary": " Vodafone Idea partners PwC India to drive agentic AI-led transformation for enterprises &nbsp;&nbsp; ET Telecom ",
-    "country": "IN",
-    "published": "2026-11-04T07:41:27+00:00",
-    "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
+    "saved": "2026-11-04T18:52:59.966249+00:00"
   },
   {
     "title": "How Cisco defends at machine speed with OpenAI",
@@ -30,7 +19,29 @@
     "country": "IN",
     "published": "2026-11-03T19:50:39+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
+    "saved": "2026-11-04T18:52:59.966249+00:00"
+  },
+  {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-11-04T17:50:10+00:00",
+    "engagement": 0,
+    "saved": "2026-11-04T18:52:59.966249+00:00"
+  },
+  {
+    "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpsS1Fnc2tCYzNnNFl1R1MyMGs2V2JOX0h5MUZEcXpibVM5NzFMWWJmVjlaeGpHaVNZelBPUWNQTWpuV3hDY1R3dnltN01hQV9QR2FaaDFjdV9yZzVGckpCSG5DRkdsajI2VmhsQWVGem1OTlJ6MElDU0ZZcWVLSEs4Q0haZU5YM0hEaUJkb0F4bHh2amxMLVV0Vzl4ZmpWR1V5akVkUWkwTkxGYXQzTFdtX2g0dGxqYUpJaC1BdG5heXp5XzFKUHpYUWRzNWlPcFc2N0F3?oc=5",
+    "source": "News On AIR",
+    "kind": "news",
+    "summary": " Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities &nbsp;&nbsp; News On AIR ",
+    "country": "IN",
+    "published": "2026-11-04T02:38:30+00:00",
+    "engagement": 0,
+    "saved": "2026-11-04T18:52:59.966249+00:00"
   },
   {
     "title": "Accelerating engineering for the physical world",
@@ -41,39 +52,28 @@
     "country": "IN",
     "published": "2026-11-03T21:53:57+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
+    "saved": "2026-11-04T18:52:59.966249+00:00"
   },
   {
-    "title": "LifeVal",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5",
-    "source": "India Today",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSGtkS2Q0MmxhT1R5Qy1HcFg4LVE4YWxWT0Jqd0JGZWN4bzRIX1FLN2c4bDYyVEpfSUVnR1VNWE5zNTRJeWNfdmE1MnRvdkZWQk9KcVc5T3NJbkpFNzU3bg?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": " OpenAI launches LifeVal to test if AI can actually handle everyday tasks &nbsp;&nbsp; India Today ",
+    "summary": " Daybreak Red is now available in AWS GovCloud (US-East) &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-04T06:47:08+00:00",
+    "published": "2026-11-04T15:10:13+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
+    "saved": "2026-11-04T18:52:59.966249+00:00"
   },
   {
-    "title": "Google Will Cut Off Search Access For Students At Schools That Reject AI",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWVRSVF3WUpHckd6bm5lVDJUeG4tTnRocU9XR2FJXzQwY3R6VGJGaEhoTU0zYjFtNTRJS0M1WkZhN29Ma3FpMmM3cDhlNmJEWWd6elFTUWZyZWNxVEhPb0dreWY5Z0hidFhyaFRvWEhQdmVtVmFSbXYwOE9JdkhNa1hnVGFSaXNXZUVmUE1EcDYwZWloWUJQXzIwUDhNZjB6RU1VTndXUG5hTjdHci1kQWFnaEhhZ9IBuwFBVV95cUxNOUtXdFN6Z1FYeGFxck5oTTFmWmlfcXBwdGFSRktrY0ItRWpCU3hmT3R3UHJFZkt5VHJra0RpSGRvWTNhWmNvQ0d5dzBQdlRpUlk5SWJfdUxEZjlUdE1nUmpRM2JtMjlQbDAyeWNKSnlnR3FYYXoyUk0xdl8yZUVFc1piRktBbVVFTTlGc0VvU1ZUbnVFVlk2LXlrVElKa0RQVjlfa0Joc0xKbkUwN1RkbmtaemJocUdwbjlB?oc=5",
-    "source": "ETV Bharat",
+    "title": "India cybercrime agency warns financial firms on AI attacks",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2J1X3pUN2xzaV9ZUEhEMnRpVE1zby1Jc1ZRcFJueDdJd3ZvbDE5bk1UVW1HdVJuaHE3RGFrRHZJSXllb21uNmFMTzFnYjZpNkJ1UXk0X2dJM2sxbEcyYWpFN1JzQXhadm5BbWxuMktrNG1tMlNUc0I1bjU4cW5vVHY5YUNfdmF2WG1pUFlnRzNMOUUtSGJCaWowck9wUk9yaWFQR1Y1b3JyUV9JYURFRzU5bktrTlo1R29keDJQLWdkMndneHE1T05hRVVvWVo2RXlsSFRyM0RTZw?oc=5",
+    "source": "The Economic Times",
     "kind": "news",
-    "summary": " Google Will Cut Off Search Access For Students At Schools That Reject AI &nbsp;&nbsp; ETV Bharat ",
+    "summary": " India cybercrime agency warns financial firms on AI attacks &nbsp;&nbsp; The Economic Times ",
     "country": "IN",
-    "published": "2026-11-04T11:45:03+00:00",
+    "published": "2026-11-04T13:35:58+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
-  },
-  {
-    "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5",
-    "source": "Bloomberg.com",
-    "kind": "news",
-    "summary": " Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered &nbsp;&nbsp; Bloomberg.com ",
-    "country": "IN",
-    "published": "2026-11-04T03:14:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-04T12:34:26.571602+00:00"
+    "saved": "2026-11-04T18:52:59.966249+00:00"
   }
 ]
