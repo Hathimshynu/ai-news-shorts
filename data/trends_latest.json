@@ -1,170 +1,166 @@
 {
-  "job_id": "2026-11-04-morning-0116",
-  "chosen": "Palette: teaching a small model to build decks in your design language",
-  "reason": "Palette shows how a tiny model can instantly generate custom design decks, giving creators a fast, free AI tool for presentations.",
+  "job_id": "2026-11-04-evening-1703",
+  "chosen": "India's payments authority NPCI forms unit to push into AI, blockchain tech",
+  "reason": "NPCI's move to integrate AI and blockchain into India's digital payment ecosystem directly impacts millions of daily UPI transactions and the future of regional fintech.",
   "candidates": [
     {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "score": 22.2,
+      "title": "India's payments authority NPCI forms unit to push into AI, blockchain tech",
+      "score": 23.86,
       "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "https://huggingface.co/blog/ibm-research/palette-deck-building"
-      ]
-    },
-    {
-      "title": "India’s CERT-In secures access to test Anthropic’s Mythos AI model for cybersecurity",
-      "score": 21.57,
-      "kinds": [
+        "launch",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVlLNlpvOTZFY0J6UHdLTlcwT0kyOTVHaThjUXhvejc5RnpKTEt6XzNGYzNyV1NWcUV0cnpHYWlUSmhzLU1oRFg0bHZhUDVMMkI0THk0QzdkbGVHVGMxOGN1eEVrV2tfMnhubUkyOWoxQnFJWHBZMzBEVU9FaDROWWdmckk2dlZvdnBFcnR2cDdzQk5CeTd6Z0lPSjg5RGZ5cDN1MlFWa3hFUHdGbTkwVi1aMGwxTFFPc0RNTmlENzByNWM?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ0UtQVdGN0RXV2N6aHlla0xFTVlNU2tDYzkwaGpmbmRLNENKaFAtRkEtT1I2T00yMk15Z3ctekRSUXRWaXFZU21DeS1SU29rRC1BWWtmRGFXaVlETlNKSVFzYXltdll4d0ltUHZ0R0NPYnBZUE9UcGhlYm9VR09YSnJqME1LSmZqbTRCSHppc0NQcDJGQTdBVUFoVTdsaEJTX1QyMnZRWU1qOHdKQVE4ak9IMWlTNjRNaE9aNFJFWVUzU0RSTWplWTNfa3c1aXZpbG9YWU5UVF9XTkXSAeABQVVfeXFMTTRJNDJHdm5zbnloYUw5ampHVmhnSU5feTdscjUyaHFjTmM5aDM4RDJSX0RuSmY1ZXdRQW9Idno5OG9oMUI0TE8tcVdBUkpSOUhndm5VZGdqa2p3Vm41UlNuWDJlQUlLTlRuWFhJb0gyWFF5cC1ROWVLSXNlc1M1ellGWHZqWG84RGQwQU5Eb2xFS1VyMmVoSzk3azl0QzdjVGtRNDZES25SS2FuTkVWU1IyUkt3YTBjZVNjb011SnRSZl9seGxGcXB3akpvTzZyQXhfMzUzb0lLa05tZkNta2g?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzJLMFo2YmlXam15TlY0TF9lQk1VajBJZjRRVTZCalE1OUJWdmgwdUxlbWREbUJZOFhnYjhXNzFacVVOeFdZdXlFaUVNSWNnU2I4ZGNRTmtNR2FMLXkxT1F6NG1LUFpEMG0tWmhXbHh6d1RpNVRna00ydTJZV1hVTDZieW5XZDZlTDFtZ0FHLWRJQWEzNmRxZWdaQTZRUkxQNXpJMXA3cWY0QnViMy1DSUV30gG3AUFVX3lxTE9FWXhNTlBwcFpyd1o0RjBvVnBkcUltb21YMmtkbDQ5dVhhbmlkdmJYNHFSaTNQWkFwT2Z4UmluNm5LQUN1NnVMSm5ORlA2SWpQTkxWQnRzS2dndFBjRktkWmtZSFpfOW1KWEVRS0txRjl4STdsRnQwa1VzR0oxR1JfeE52T3Y0STI3Z0o0N253TUp2WEJ6ZTFLOWI2bTBsUjZ6RUZSVlIybmY1WG9uYzJlUXJDeC03RQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSDRfM0oyYVg4T1dTRGZXenpxWE9aZE90X0hWZ3hUVG5RczdGRWJ4dldTdy0zakZnLWRCUDYzaEE1ZFlpcHBXSjVnR0h0Ni1FVElQUnM0WWNjVzRaeUp6QXFyd3ZDSF9OQ3NxNkRENjBpNW1HVmcyMEYzWm1ZQS1obUt6enNlTXNvQ2NnRUZLQnpmNTJ4eDhrTy1mT21LMjFQWFFkaGRFOTRzbVY3ZzVkNEFZdWQ0YjRWd1AzZS1HeVg0Z2hHdGFFNWVMLVlxbzUxQV81Z3VjMk1wa3g3OHV3NWxCOGJxTFgtQWtFZtIB8gFBVV95cUxNYmtPanlNbjN0ZUxOcGFnR1FwWGtiaUVaSGdGS09KWm1rYWNlWDRrYVdXVVo2cG41c3pEWDNVMmoyTVR3QTRja0Y0SnhFeU5EQlRLWEdZekdRa2l3NU5faTlxamlkRWJZNmxKalBKWDE3dVRvdV9wWFdkczRUaFZSeFN0MWxkY1JtM3dKc2tDVWNEWFZxOFNaTzVmd3RIZDlCQ2xncGF2bHJnbTVRb3ZkQWtpVWVfYVJlNmRtZzI4NWNIWHhudUd1QW5UekE1N29uYkZKMkVGMENxSVk3QU1kNjB1c1R1cjhicUYyTHR0cnE2Zw?oc=5",
+        "https://www.producthunt.com/products/floot"
       ]
     },
     {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "score": 24.84,
+      "title": "Centre’s key cybersecurity agency secures access to Anthropic’s Mythos AI model",
+      "score": 22.22,
       "kinds": [
         "backlog",
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabHB2WnQ0cUNkaDRpVlRXMDF5ZjNIdWNRclFiTnEtRzV1anRwajVzMm8zLXJyenh6ZkhoWXdpZFJKYzlpSGJFR1dSenQ?oc=5",
-        "https://openai.com/index/heimstaden",
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabHB2WnQ0cUNkaDRpVlRXMDF5ZjNIdWNRclFiTnEtRzV1anRwajVzMm8zLXJyenh6ZkhoWXdpZFJKYzlpSGJFR1dSenQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWNObWxnWEhQbjVSNEktU21qSDVqWVZVTzdkSjlOa2VUUDRIRkRQR1FkR2lRcGNfNDcwTWV4OGtpaE16N3N1VVdZRVRPbVZCYlR2bGVUSzdMQ1FzMVVsUWhmRklKV3dXOUJXTWZmdUFLaU9NWEZibklXbG5TNXQtS1dlb0xnRGY4X0NvWmNQWmNtbkQ2a1pYZlVwVlItQ0tid0piZjZVMGlNSW91TlFhRENnNFhKVzBkcVJwQk16ZDBaVHN2UUVKTFVB0gHQAUFVX3lxTE55MVlBRzNhYjdFVVVHVlVzZlI5V0VKQXR5REVodjBOV2F4N2d0dHZIS0Y2RGdmZU1ZLUJuU2ZvV1h6Q0RRZU92cXY3Ui1nc0JvMjN4ZkZPcWRpMDJ6Ykt4UTFHQkd6MXQ2VE83Y1RrT05YTzVkS1p1M1pCaWVoclFxOEp5TDRLbjY5TVpGdGRlNjM3cGhDNDB5bmM0bmRZZVJnUHlCQUxpTEVZbWprd1ExTi14LXdvdTdabDM1R09pV3FKRVBhQXhWdk9NWTRIN3U?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nN1FpZF91LXVoZEIzdUktREN2VXRPbzBaMGZ6dTlzUDU4a2Y5X2VNdDNRMnBVVzJneWFlUElTU01kZU9ncUMza3RhYmU0Tk1nT2I2YmVCMkFDRkpCY0I1MW1LdU53WHlKVE9EMVo2VlFtVXBWbV8xMWJPT2M?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSVlLNlpvOTZFY0J6UHdLTlcwT0kyOTVHaThjUXhvejc5RnpKTEt6XzNGYzNyV1NWcUV0cnpHYWlUSmhzLU1oRFg0bHZhUDVMMkI0THk0QzdkbGVHVGMxOGN1eEVrV2tfMnhubUkyOWoxQnFJWHBZMzBEVU9FaDROWWdmckk2dlZvdnBFcnR2cDdzQk5CeTd6Z0lPSjg5RGZ5cDN1MlFWa3hFUHdGbTkwVi1aMGwxTFFPc0RNTmlENzByNWM?oc=5"
+      ]
+    },
+    {
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "score": 31.64,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYUstRUszU2xzSzFGQ0NRcmlEX3IzSGdGZ25SUXZfYmRJWkI0Uko4X0N4V2E2UDdFQlBPN1llenVZLVhyUEhxc285UmF2Z1JOZ2dSVFltLW11TENfdzd6ME5nR1hTX2xhb0dTRkpZUjUzSHhzZmxSaEF2T2d6ZGVJVjJWZ2VkcjB0b1RBaWEwVUEybFl2TjAwNjBfT0dlYWpKZjdsa29nT2xWSDlmMllSSVN2VnJBUEZxcVZwMmktM1pYZi1lczNGVkVfUGQwYmxoMVZLZmM4X0JXS1hEWnZZV215V3NQYWUzYV9jVGhUMmVESGt1b01vNEk1NzhWTjBSNGJIQzBhaw?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzVDNW5ta1NQWUhFZUU3VnpiaVN0Y1RpZlNKR0xFVXdxS1RNcUpLV2llOWNDMEpUT3hYODNUMEcyUUlsVFhrV2VfcUxtNTNXQ0E4LTVmcm05UFV1Mm1yNHV5VkdLYl90NkxCQkFPd01oQkw5T2MwakxMTjdrWk95U0ZiVHJUUGxXV1hUa0ZtWW9SeW83N290VkJIaw?oc=5"
       ]
     },
     {
       "title": "Accelerating engineering for the physical world",
-      "score": 24.74,
+      "score": 23.58,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
-        "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+        "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5"
       ]
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "score": 22.37,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/allenai/statebench",
-        "https://huggingface.co/blog/allenai/statebench"
-      ]
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "score": 22.31,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-        "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
-      ]
-    },
-    {
-      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "score": 32.2,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2ZWRmYyZW9YZng5SmhjYnpjQ213dnRKVjVjNW1rcS1RRFoxVUFKYnl2VlVjMk1abE1kQTE2Qk1Ea09WcHlvMjFNbTREWnhmYXZiTjE5RTY0bUdMZGsyRFRCNDNWQjg0SG90WXlaSVV1d19iV0x4UEVnVlFzS3dyVWZB?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXBsSzByWUh5YVNuZGpjVXRtQ21SMG0waXByX0JZVl85eGJ4M25FOExEMDJGTWpXbjJJa1dheEJLSXV1WEo3VWtMWEFaeWNfeW1FcWNpVTBZY2htRWxMdVExVVRvYjFQYUJyTXVSTjktMFc4VEJXb19JRTNTelM0NTh2akZrdFBTdVZr?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3RpZUFBYzFrQ1VvQk1IaXdHelI4SkRnc0VwRFg2RS0wT2xDX1JvLVJlY2E0bDdWQWdzUlBPdnZ0bUtuV1JXSkZzR2xPZXhoZElXYlVIY3hQOTFLcWJ0dVJvWW8xWUI3X2pNMU1QNHB3aUR2b3NKeXZTZXBqUnhnQlFTV0k?oc=5"
-      ]
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "score": 24.68,
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "score": 21.07,
       "kinds": [
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00U3hrdTh3QnNuM056Y3ZvdVpvMXNJUmRPNlZJUXJPeXpVMTB1NjFSNkt5d0hhaHhYTVMtdmNLbDYtS1lzRGQzS2ZFU0pRLVNYN2syX0w3TkIwYzlNczl1aFRoS1ZnZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VT2NaOUlhbl9WcEZqa1ZLSEVDQ09xaFNqOU1jTDFuekw5QnZfa0JQTjZvMEpUSVNxZGkyQTFUcEh6VzM4YkNfT2VQazRyRnpIeDFYSHlXVkdGdno1UDYxR0x3dGdndw?oc=5",
-        "https://openai.com/index/grid-protectors-program"
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5",
+        "https://openai.com/index/cisco-cyber"
       ]
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "score": 22.75,
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "score": 32.92,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5",
-        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT05EalZxVWZpRk4tLUgzNHZmbnlXcXRmeHZIM3ppY0RzMk5CcmFySXZZdFV1bDVYWnRVdjJzeWEydzBWRmFWd2lWSzVsMTdwcFFtZTRWS0pvaDVJbURIdlZINGROaEV6RW8xRjZpYXU4Tng1c2tBVWd2OG9yemk4aWJjQQ?oc=5"
-      ]
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "score": 22.04,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5",
-        "https://openai.com/index/scaling-git-at-openai",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSWQ3UlhoYlJhdWx3aVBWTUVBVHBjUUI3bzA2THNGdmdObDBMNzZHeW1MN0MxMmV1cDJJV0NlUVFoOUp0YTNPM2YxNG9WQUhKakd6c0JFcUREUHM?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxON296QjFrZ29rblJhaTRxaDFOMERDWEJHN3lPTUNYaktVUV9uTk5qemJfZzRaai1zTGxreVQ0dmlHdE5GMktlU01mclhyNkl3UGo4NEoteFVZaFRvanQ4UVRqOXN3U2pmN0VWclNrekNic2poXzVPT3B2SUhFODNWaEM5U3ZoRGtqWEFTUmxKR2wyNEJFNkdxZ3J1SFV5ekVhbXNYSmJtTlQ5VkZCVmgzUVl6N3BqQ3hSaWNjZFdLLTliemRObUp2YTZB?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHFQUk5xX3libUdKM0g1ME5RLXROenU1eHIyOUpPdy1VZ2lKUzljVUhnR0pBZTBpNFNtNklrZ3NyQ0VMa2F6Z0RFb2hQOGo4ZmxaX0RuTnUtMDNMWHdXNzBaUG95azl2QngzVzBMOUFENlhfRm5Eb091cm5XcUNJbVJfZ0JZT2tUb3JaZkJUdEFubUtPZjdZOG41UkpDbGdHMVVxbi1rT0I2Mkt4NVQ2NnVtZHpLYWc?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GLW9mdDJMZWlkcUtYOWZpd2VNTWNrc1lHeFF4b1Q2TlM1UDc5V2dpT2FWYXlvNXFSZ2ZPYl8xcWRnUXR2WTJqd2VzUDlUMTBoVEpWeDhIb2Y1MDdGbHZIbURLRHJaYTVNTENFenpfN2tkSGNZbFVuZFBvcW84dw?oc=5"
       ]
     },
     {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "score": 22.21,
+      "score": 21.17,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5",
-        "https://openai.com/index/dan-driscoll-joins-openai",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5"
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZSE5mbTI1RVlJREhQYUQ5UzJlM09KemNheTBfb3VrZkRPV3lnSy1YODhCZU5vc1pBNmxiVGQxQldjUi1wMTdyT00wT2gtSkg4MXNnUVZ5b2ZtTEdDZW9CQW1jX01jTWta?oc=5",
+        "https://openai.com/index/dan-driscoll-joins-openai"
       ]
     },
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "score": 20.18,
+      "title": "LifeVal",
+      "score": 25.81,
       "kinds": [
-        "community"
+        "news",
+        "official"
       ],
       "primary": true,
       "links": [
-        "https://github.com/postmanlabs/postman-app-support/issues/14370"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5",
+        "https://openai.com/index/lifeval"
+      ]
+    },
+    {
+      "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
+      "score": 21.77,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFRGNjNkWVo4SUVQdFpyUkpwbkZUYVFQWjdFVVN0THBqRzZPWk91MkdxZ3dYeG55SFAyS0l6akFyUmhPWWhaUGNyWHlNa3N6cnlSS1ZZU25EM2otOTRuTXoxS1VoU05aSFdrQXpVMF9KU1VlTk1ub0d0VGZ3X0ZlNkhrdHZ0R2toS19LNk00QUxTelplMFRtdGs4LXJ5cHNjamtueFZ0b3htU3FTQm1XQjhmVFpwS01qaUZ5SFlqZlpZUmwzNl9qTzVR?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDlLVTdrSTMtVVo4UEhWRnQzQmo5c2l6RF9DSlRhM09RWUZGTWlhbVhUOXUxLW1ZSkFyNHE4VlFHTmZOQnJjeU5kLTZoYk9UcU5uc0liVHpIOFdoanBHdHE4ZzVmdFdCaDlLcjFVV1c1ZGU0NXR5d2gyNXBSM29pRnd5SlNzdlBYZHdVQi1TZGc5Ym00SUZLdzVUQjJIbGViTHZSYlB4a1lROGRHMDcwb1JNX2ctXzhrLTRQN0pyMmU?oc=5"
+      ]
+    },
+    {
+      "title": "Karbonn Rebel and Rebel Pro Launched in India With 7,000mAh Battery and Pure Android 16: Specifications and Price",
+      "score": 19.8,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0tYWHhxcVNfLWJyX0s5NXZEeDBlOVZlbHJkZjQ5RWYyaXExY1R0NTJJMWg3cHRuQTBrUjIyM1RzREdSdXJLVU9DaWU5V0ZiR3lUenVTbHhtZXliRTVQS1FZWjROTnRFdU5wUkNJdXBBRFRtQXBaTWlUVFZ6VlBSRW9ZUnFtVHpNR0ZMU2UyNXhyUmpSZEHSAZsBQVVfeXFMTk8yZm00TTZ0MERCR2s1VVBuajVPN3ItX3RwVnRtN21ZY1VqLTdYckZNR05abUFaVURjSmZ6cFM1SEdmZ0FJZWpLUC1tSlBVNGVrZXJMMDdxSUZWX05UaGlKX3E4d1VFZk1JM1FScGZlQzR4Ynlzei11OVpVSE9fMWtyTUtwZmlQSG41d1hOV1FpMGE5UEFaajM3UEk?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUE9tdUpDTTFhS3RfdjRIeUhxZElEa0RUSkJ3YnZrNXFnSThNR1RoakZ4bVloMnJMM2ZnNm1MTm1wM1hjb1FUaWVyN1F6amtUR2lsLVFnWTIxVndJNHQ5dm5tRG16SkRwSnpJeE80QTlQOGxnZDNqLVZaaDhaT1BJU2xITWdtVHNheFl5NDExNTdFNFp1Q2NCN1JOSkxhd2NQa2pGMFN1cXIyQW0y?oc=5"
+      ]
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "score": 20.52,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/grid-protectors-program",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00U3hrdTh3QnNuM056Y3ZvdVpvMXNJUmRPNlZJUXJPeXpVMTB1NjFSNkt5d0hhaHhYTVMtdmNLbDYtS1lzRGQzS2ZFU0pRLVNYN2syX0w3TkIwYzlNczl1aFRoS1ZnZw?oc=5"
+      ]
+    },
+    {
+      "title": "Today’s NYT Strands Hints, Spangram and Answers for Wednesday, Nov. 4, #976",
+      "score": 21.61,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEd4ZVhlZTNfMk15SHRmSUxQNUY3U0l4VzJzMkdyeHhEYmVhY2NZaXhPV0xqQV9JWlcyUHduUmw1c1BLb1ZFRmlWbFNoSkl6ZDFwQWdKR2dCbzFBRkV2NG95dnNPSWZlMTlVSmtGOWtoMDdhZmNDWTRtSnJXQXF5ZWM4RnBXMlBfMlVRdW91azN4ekVq?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEd4ZVhlZTNfMk15SHRmSUxQNUY3U0l4VzJzMkdyeHhEYmVhY2NZaXhPV0xqQV9JWlcyUHduUmw1c1BLb1ZFRmlWbFNoSkl6ZDFwQWdKR2dCbzFBRkV2NG95dnNPSWZlMTlVSmtGOWtoMDdhZmNDWTRtSnJXQXF5ZWM4RnBXMlBfMlVRdW91azN4ekVq?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzBZd3FLUUtwSW9ZdWlwOS1kMjd2ZndQTzRpTjZUcWlCcEhBRUExTzViM0JnbXdMSTNINEwwY2RNQWYyTGJXN2lBT0NqTU1hb1RQTnFGckpZQUVOaDNxVkM5LUVYYXN6YVpRQXpPZkwwbHUyU3dRQmVFdklNcjdhVHo0RXFKSGVLNXYzSUJUdVRYRGRZSXfSAZsBQVVfeXFMUEd4Q21TZVF0ZnJnU3dtd1k2ZmJVRm5JYTJ4aS1SbmFwUU5XR0c3cUVYQmZUcmJGU1QzbFRuRTJVTU1Pa0g1bjVXcE16cWFUYVNqbkNvd2hUQ3FkNlpLLTlMWkdtMmNVMEI2OENYVTBKY2FkUi16N0dBdUJjdFZhc2VITHRQNHlYdXZvN3MxcG1mUFBxQ0gwRVFKS2c?oc=5"
       ]
     }
   ]
