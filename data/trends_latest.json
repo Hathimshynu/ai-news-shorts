@@ -1,68 +1,13 @@
 {
-  "job_id": "2026-11-05-morning-0016",
-  "chosen": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "reason": "OpenAI’s acquisition of Pierre Computer Company signals a major expansion that could bring new AI capabilities to developers in India and Asia.",
+  "job_id": "2026-11-05-morning-0130",
+  "chosen": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities",
+  "reason": "The official launch of three indigenous AI foundation models under the IndiaAI Mission is a major milestone for building homegrown AI capabilities and sovereign technology in India.",
   "candidates": [
     {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "score": 30.6,
-      "kinds": [
-        "community",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIa01VeUZfc2tSNklmMWI5NG9kcnlIVlY5Wi1IMUE1d0dDSVNvNU1wMU9NaWhZQ1BhN0pLaThXc25BZ1lMUzZSQUk3QU5mS0hGTDhJam5VUXpNUkpnY3Nv?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMl8wYzB3eWV5ZldKYjhhR3BUdmZwZXQyMHozZW9yZGVkYnJLQ1Z1andqTmJRTnZVX1lGWV9UdUdCOWZhQVItNEVCNnR6Rlk0bnE5UC1mbkJDbWlXaExTZi1IM05iUEh2a0hHal9DMmNSMzhFOU82NllMOFJmUDV2ZmYtUktXaDlOaUw1RTdDU18?oc=5",
-        "https://openai.com/index/openai-to-acquire-pierre"
-      ]
-    },
-    {
-      "title": "LifeVal",
-      "score": 26.0,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5",
-        "https://openai.com/index/lifeval",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5"
-      ]
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "score": 21.27,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5",
-        "https://openai.com/index/cisco-cyber",
-        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5"
-      ]
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "score": 20.77,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
-      ]
-    },
-    {
       "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission to strengthen homegrown AI capabilities",
-      "score": 21.63,
+      "score": 23.32,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -73,8 +18,61 @@
       ]
     },
     {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "score": 22.46,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+      ]
+    },
+    {
+      "title": "India cybercrime agency warns financial firms on AI attacks",
+      "score": 25.84,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2J1X3pUN2xzaV9ZUEhEMnRpVE1zby1Jc1ZRcFJueDdJd3ZvbDE5bk1UVW1HdVJuaHE3RGFrRHZJSXllb21uNmFMTzFnYjZpNkJ1UXk0X2dJM2sxbEcyYWpFN1JzQXhadm5BbWxuMktrNG1tMlNUc0I1bjU4cW5vVHY5YUNfdmF2WG1pUFlnRzNMOUUtSGJCaWowck9wUk9yaWFQR1Y1b3JyUV9JYURFRzU5bktrTlo1R29keDJQLWdkMndneHE1T05hRVVvWVo2RXlsSFRyM0RTZw?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalFVYTNSaFlrWTBqcTFOMFRfUnlpSi1Oc2tpbE03Slc3M0FZNjRNMzRQZUVNMURLQWFZREZXeFRMalE1eTBuQVNydXBqbE1KbllpRkhELVJBbmZyajJfc296NWIyXy1kREljMVMxM2pzRFVRRzV3aXdJNExLaC0yOWkwb0duaFYxWFZPb2tUYzY2c0hST3RiVk4tOTd3M2tKb3FQeUJDQ2ZmSVV1enFJR19YRzRjd0p0dVl5ONIBwgFBVV95cUxNN2p3VTRDTFkzMktfZ3lYS2VPbkh4eXRTbk5tRHdWOU1yR3QwRElPOWhUY1l0czduTS1vUFF0NlJTVldMZDZZZjZsa0RRT1hPU0xDb0FNTF9HeENUaXIyRUZJOGhVTm9QRXpPVDJfaGhHM2RVN2tvUXg4VVhkemtXR0MyYnpMQ1czVktJQVpiakRBN1ZSdFRZX1R6a051SmdjQ000OEl0QVRTdm5vMXpjQlVxRmNPMTZVMWkwU3l4ZXRwQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFBZFNmUmkyWnBoUmgtbjBGeWFPMlU5SDNUZ19saThaWFZUVzd6ZWFWMnhNUXNYd1JDTnFoLXJTdWJZQzN6YUk0cHV1enM3ZjY3MmZYa2REY2Y2RVpIMDBJRkxJTU5TSmN5bTZNZ3JqUi0xZ29wRVlVS2xSZzkySUd4SHJzdENTbk9HZktlcFBBZXpOVGFNOXpFcmZWM3l0eFN2bk1nSFRnREdZR2c?oc=5"
+      ]
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "score": 19.0,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/cisco-cyber",
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12T05iVm8wYngzS25mZ3lySkR3dWUtZnBFSHFCX3RBTlNNUHFMWFByQVF4b2cwazNRTV9ZQVptZUJYcVdVUEJlMWlBay1Edw?oc=5"
+      ]
+    },
+    {
+      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+      "score": 21.88,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVVsQnJ1T0swU2JqbnBlQ3FjSFFoYjFPcXQ2Q1JZMk9UOTRIYXpJaG5kMk5pdmlmYTNLaUt1LUx2dks2MW10cFMzTDMtWUZTMl9UMlRxWGlzVXd2NnozWjN3eFg5RE4zVmhQTjJWTWoydkVKRHQwcFB3RmJHdERtRFJXOUNYLU14S0lQQmgwY2FkenZudzN3QnZhdjdzU0dpQ2ZhTk15MGxESy1YVVdlTm1VNlZsS2p5ZkthQXhyRGFaeVZ2Z3fSAcYBQVVfeXFMT0VVbEJydU9LMFNiam5wZUNxY0hRaGIxT3F0NkNSWTJPVDk0SGF6SWhuZDJOaXZpZmEzS2lLdS1MdnZLNjFtdHBTM0wzLVlGUzJfVDJUcVhpc1V3djZ6M1ozd3hYOUROM1ZoUE4yVk1qMnZFSkR0MHBQd0ZiR3REbURSVzlDWC1NeEtJUEJoMGNhZHp2bnczd0J2YXY3c1NHaUNmYU5NeTBsREstWFVXZU5tVTZWbEtqeWZLYUF4ckRhWnlWdmd3?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzJ3aTRjamMyMHpFRjg2YTVsbVd2ZWFYb2RVaUVwUURaTE9peGp1RlVUNEN1X0U1QlVrbUxkQ3VXSVFUNWc5aDdPZzl4RDRXWTVMaTE3RkEyZG1BSHlTOVZ5VHc0UkpvajduVlNMem0zMm1YOXpmblNjZDRZcW5qd0xLS2gzRk1aTnI2SWZzdmtEd2kxcUNiX1ZETTU?oc=5"
+      ]
+    },
+    {
       "title": "Accelerating engineering for the physical world",
-      "score": 21.78,
+      "score": 21.47,
       "kinds": [
         "backlog",
         "news",
@@ -88,9 +86,35 @@
       ]
     },
     {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "score": 24.1,
+      "title": "OneStack raises $1.32M to wire India's cooperative banks into UPI",
+      "score": 19.23,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTZiSUhMdGNEdm43RzdWaV8yTGdaNTRzU3d4SEZ6TlVLZW1BOWRnOFpfNjZBUzBEUkZ2REpxY0RJSm4zc3dmeWdpNG16Nnlqak1GUEs4c053dlV5c25DNHhMN182YnAwN3BZLWR0QUNJWUwxaUZxOXlCb0FDMHNCZ2t1aU8yLTU0R21fSHZnd2lpMmlQUG0zWWFwX3hGU2M?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY2RwdmlQN2JSaml5R09GS2d3NDIzU2ZGM0pQSFVqMHhRMk1JRG92WGRyOWI5THRsa1hJR1ZRTlhTNVoyV1VfTkY5NkR5NVh0bTZ4c3FkNGdaMlRpS2dvSG55NWZrMnc2bmN0czg4Y29OR0V1WkFic1Z1NkpnazlvTENrZDV2VVpfWldLQUJ4N1g1NTFJMi03d18yUlJ0R1JsbFg5dWpvdmdzZUR5Q3BnYzNhRnd1N0I5MTZmb0RNc0FzSVpMLTRrSGxEUTlUSGhOajc5dndzdXY0VmpMOUd3eS1xdlBlR0tHUlRRMkR4VUdnd9IB9wFBVV95cUxQRFFaWHB3RU5jeE1vcXdvbnVOeUxTU0szT0JfM1JpdmJyVGhmaTdUS2ZYa0Z6NldQRGYxenFNRHV5VUlFcGRaQ29BTWVxTU85dE1abEpMUVZOeEJYUnpfZ1RHNjBFZjVqRUJFU0VJRmdGZE5wOVU2SV9YaXZiLUlOeEM3c1JROGZmaFVsQUdNeTBlRUxwMU5COVM1SnVFd0JUNnlyU1laLTBwNG9DeTV6eEhzQVY3dGxfRGI4WFZiRnh4ZmFuZzhKTHk3aGFIcTdWU3NjVUdsWWdDTXFhV1ltWUg3eGZmN2w4cnZDeE1rV0RwY1lyYTRv?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWNscjZiLWNjdVJpcF85LVluMVF4WVJuWXg4dEkwQ3g0UjZKb0QzUzMtQW1SQ3dfRHY2emNtb0h5SUJUSXdnOEMzNFlCQ1YwTUp6Wm92ajA3dmhLcUVDS2NETmJ6eGNJbnZZY1V4WGJDUEJqWVRZdmtaWmtodUZIZmkwR05KMVVYT01XcV9ZeE9Jb3gzdWdjdWRmaENBTk53cTJmanZ1LXhxTDRtYXlQZzd3MkFuTDZ0QjlxSFoxN1laZmJidzhxb214QnJITENWSFhpODdXRHl3eWd6NlI2Z1k0UQ?oc=5"
+      ]
+    },
+    {
+      "title": "45-53 pc street vendors may scale back UPI use if MDR imposed: ISB study",
+      "score": 19.22,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGV0QkxSbW9qTHYxVzhEU01pcmtmTzJCaE5LdWV3cERnRU55M2ZnX1oyaUlLcTJvMWVTLXBqVjdtV3o2aFJKTGZRZHF0aE8wUGRPOS05MzVteVNPeE5KcTBZemtHcm1rbXFORTYwNXppb3FuS3UtR25feG5Ga1llWnAweGhKMUhENmxTMVpxVEpwQl9fcXRLMUNkME5ELWM?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjlnOURoZlRPR1FnakIwdmtLMHVPUlF3QWZ2am83MGI1YTRNRDBUMXJYZDJJd2g5RDVLaEoxQXhuVHNDSkNud2xEd01mR09lZ204QjBobEdOaWFGdXJicThSaF9TWC1INHN2S0N4clVDYkgxa3lVNnV6UVFGQWdnY0ZQb1R3QXlJMmdBLVRUeGotMGViQnp3LV9ZaTZIVFpuR3FhUWJOckJNNDVPNnNrT2pIcTMybmxwd3MtME1zVU93V052S0k1TE5kQW5LQU5scDVSRy1sSG9SbknSAdsBQVVfeXFMTTI5ZzlEaGZUT0dRZ2pCMHZrSzB1T1JRd0FmdmpvNzBiNWE0TUQwVDFyWGQySXdoOUQ1S2hKMUF4blRzQ0pDbndsRHdNZkdPZWdtOEIwaGxHTmlhRnVyYnE4UmhfU1gtSDRzdktDeHJVQ2JIMWt5VTZ1elFRRkFnZ2NGUG9Ud0F5STJnQS1UVHhqLTBlYkJ6dy1fWWk2SFRabkdxYVFiTnJCTTQ1TzZza09qSHEzMm5scHdzLTBNc1VPd1dOdktJNUxOZEFuS0FObHA1UkctbEhvUm5J?oc=5"
+      ]
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "score": 25.79,
+      "kinds": [
+        "backlog",
         "news",
         "official"
       ],
@@ -102,21 +126,35 @@
       ]
     },
     {
-      "title": "India cybercrime agency warns financial firms on AI attacks",
-      "score": 20.93,
+      "title": "LifeVal",
+      "score": 25.69,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5",
+        "https://openai.com/index/lifeval",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHdsU0Q2Mm04NEMwQmxkSWFlNmdHSmtQdTdLcTkwbFIza2Y1aGhaUDFCVFRfUUhqR3VmcnFNOTBldUlGV0ZnZzg3N3Q5aU5LRklPOWJjTkxnLXFERmpPRU9uR0M1VC1Sd09LbjB3RUlkUktfNEFQMFRueVhwbnBXNTNqb1JCZnNvdGJXend6SURGSVloUkRBOUtvU2hOMndQc1ZnR3NaeVE0WnpHU25zLXFhUlNsR1FUWWo0aWVqVWM5bEVHWmk4M3M4bUdRLTVhWjdZMEpB0gHbAUFVX3lxTE85SWhPb1BucDJoRlMtWVN0X1l5eFJUeVJFcExpYnJQdGtQSXRBRmtpMVQ4YVdpektnWmJ6OEI2ZVpMWUZaU2tYa0RBeUM3Smo2d00wbkFDc3V2YWhJbDZFQXk3NUdCejlsRGxDV2JfcEhBbjVFMUV2bm1MVXF1R3hTUlJqMW53TFRMTTVqNE0xNEZ3eUdfOGtTOFAzaWc2M0dVc0F4V1dHRGk5NGM1RUcxX28yMllPZDIyMEFtV2lvU2pGMHVRTDVKVTZxOUg2RjdKaWhJSUJ0RWpqNA?oc=5"
+      ]
+    },
+    {
+      "title": "EloElo Group Raises $80 Million in Series C Funding Led by Hornbill Capital and NBCUniversal",
+      "score": 18.41,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2J1X3pUN2xzaV9ZUEhEMnRpVE1zby1Jc1ZRcFJueDdJd3ZvbDE5bk1UVW1HdVJuaHE3RGFrRHZJSXllb21uNmFMTzFnYjZpNkJ1UXk0X2dJM2sxbEcyYWpFN1JzQXhadm5BbWxuMktrNG1tMlNUc0I1bjU4cW5vVHY5YUNfdmF2WG1pUFlnRzNMOUUtSGJCaWowck9wUk9yaWFQR1Y1b3JyUV9JYURFRzU5bktrTlo1R29keDJQLWdkMndneHE1T05hRVVvWVo2RXlsSFRyM0RTZw?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW9ZdnBYVUFJZTlYY0lxdncxel9FMlNLaU9yMGk5NHhmVEgzNGhieEtNMTl3RndGNWtVa2o4WWZEdmlZd3NRUHhCUVBkUEw3cVQzdlZranMxU25tc0JyWTdQeUJFSllWWFcwcVdVQi1ac0ExRXhqUjN4TmU3d0ZtY080M25NenRPUzdHSWZOZ0gxUVFEc3NNa1BYYXJ4NVE?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFBZFNmUmkyWnBoUmgtbjBGeWFPMlU5SDNUZ19saThaWFZUVzd6ZWFWMnhNUXNYd1JDTnFoLXJTdWJZQzN6YUk0cHV1enM3ZjY3MmZYa2REY2Y2RVpIMDBJRkxJTU5TSmN5bTZNZ3JqUi0xZ29wRVlVS2xSZzkySUd4SHJzdENTbk9HZktlcFBBZXpOVGFNOXpFcmZWM3l0eFN2bk1nSFRnREdZR2c?oc=5"
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcTBsZ3JZXzJSXzNHWVpuY2VJYWg4VzRzaHNiU09oc3MyekUyNkR3M3hoNHFvYmotdzhmMDY3Z0NLT2tQOTNXWk5QU2w3cHRhU3hqNExVU1RFdkhNSHNpYXY4cVlTYnY4WFJNMmV5NFk0dXdkRFVSQUxQX2NyOGtCekN5Rk53UHVHZklZNDZBTGdhOGEyVDVDNi1ackx2SFBlUHlGM0xieHJtNUk0aU9VLTBwRV8xY2RaY1htbG1SaEFkX3AyVlZLSDBkNW8?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQkQ5ZHpjUng0dVdwSVB0ZzFncHhIUDd3RTByT1NBTWNseF9jNkFTdkh6QzZoc1ZQQmpoN3RDeEtKMHZiZUJIOHFveV9COGY2U0NGOUZjcGlnZGEtMzJsdDZHVm85UG1CeG00TVNLZTRQbE5PYmY0TVFZeDV2elRRSDFwYkRvZnU1ZnpHazAxc3hRRmlPbUtpbXo0ZWw2Z1NDeHZhMXk5RERXUldUVVFCTkRSbHg0X2FUWWZnbzJObW5kZDJMUERzUG84RDk1d0lMWU45d255d1lRbTBkZkZHR3pCSHNBWGszN05Z?oc=5"
       ]
     },
     {
       "title": "Democratic Sweep Could Slow AI Build Out",
-      "score": 19.91,
+      "score": 19.6,
       "kinds": [
         "news"
       ],
@@ -124,44 +162,6 @@
       "links": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYllHTEhOUHhxQTlqYVk0WWk5dHByY0l5VmZnVzN0OXlXTUo3eUxLMWlWUGhJMC1WNVpfby1PbjZGY1pQdnZpZGM4UjdOUEZhZHFXalRtQVhPbGptRXJRaVZjelgxdnFmcW9TWkIwX2JaQzBUOWpVOFBVQUlXZ2NsbzBiT21iaXUxX1ZVaXltUXFIb2plU2NyOE5CSEFxODQ?oc=5",
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW9jUWpCQmJ0M21nVklVYUNScUJCVU9PZEM3emx4TmVNd28yOHhKQm5IdkROTXZZYllkcjFoUTBIelFCTHFpakJ6RU5rOGh2Mnc0VGR2dmhNNVpqanlfbjIwQkIyeFhHOVJtQ211b1dDZjU4cVFWRHVpR2lITVdzcE9aS0lhRi13NUptYnZxZjMzOUVoT1p5UzhwSTFWcXlwNDIwYQ?oc=5"
-      ]
-    },
-    {
-      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-      "score": 19.76,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVVsQnJ1T0swU2JqbnBlQ3FjSFFoYjFPcXQ2Q1JZMk9UOTRIYXpJaG5kMk5pdmlmYTNLaUt1LUx2dks2MW10cFMzTDMtWUZTMl9UMlRxWGlzVXd2NnozWjN3eFg5RE4zVmhQTjJWTWoydkVKRHQwcFB3RmJHdERtRFJXOUNYLU14S0lQQmgwY2FkenZudzN3QnZhdjdzU0dpQ2ZhTk15MGxESy1YVVdlTm1VNlZsS2p5ZkthQXhyRGFaeVZ2Z3fSAcYBQVVfeXFMT0VVbEJydU9LMFNiam5wZUNxY0hRaGIxT3F0NkNSWTJPVDk0SGF6SWhuZDJOaXZpZmEzS2lLdS1MdnZLNjFtdHBTM0wzLVlGUzJfVDJUcVhpc1V3djZ6M1ozd3hYOUROM1ZoUE4yVk1qMnZFSkR0MHBQd0ZiR3REbURSVzlDWC1NeEtJUEJoMGNhZHp2bnczd0J2YXY3c1NHaUNmYU5NeTBsREstWFVXZU5tVTZWbEtqeWZLYUF4ckRhWnlWdmd3?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVhrb3V1MkJiOHB0Q1BrVjVJWW1qU0J2MHlfdjhTcFJRYk5MS3g2OUdjMXoyVnNMVVA4RDBwZnJDcVNBOUxqaFZwenN2RUVFeW5CdlpDTXJoVUF1OTc4S0tHb1pTSlpzRHBWeDZISDZoUWhHUmxfSV9aTkVTT2k2SjJEU0xSSTVuNTk4YzhKS2xNdFozU3VzWUJZRy1DVU9saTNxMnVKOHBiYmxIM1NUVllzb3Vubi0tVjFzejZ0VVFHODFYNmdMZWJqazllelRYTXVGVXBtVzZSelNIUGVDRtIB5gFBVV95cUxQTTY4SGJybkdKTXhPX2otM1R4LXU0WXlQMk55WndxTDFzeTFfd29yMWtmTHNDelFuNUZoT3k4Q2djRW1YVkZQUHVReVAxVkllcWFDVFZIMHpnRFAxUEYtaEtkNHFoRzRWV3hHYnBTdEVRTnRTZkIxWW9pNklZMi1zUjBFdFA2RU9TZDlRb0RRVVp6amJZRHdHaDRjbVNSclowQTVTYVZueU1RNzh1MzE0WHI3UWNhUWMtWkxOVENvclkzZF91SDVmazJqNTZ1M0U4VEpORlVHU3VOdlFiOHZ1M25UV1VNdw?oc=5"
-      ]
-    },
-    {
-      "title": "US parents and teachers: share your thoughts on Google turning off Search for schools that reject AI",
-      "score": 19.73,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F0UzhmMFRXU05WRUxENnN6eEx3bmk0Yi0tZVlJOE03aHBlVTBPLWMza2NJVmN5MUh5dzB2NVJGbjZpVmNKZVp2cm5mU0dpMGMzellsOEx2MzlxLXdjRkc4b3ZPU3NrNFhJYlppc0dUXzhWR1BFcFF6czRDckJiSg?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWVRSVF3WUpHckd6bm5lVDJUeG4tTnRocU9XR2FJXzQwY3R6VGJGaEhoTU0zYjFtNTRJS0M1WkZhN29Ma3FpMmM3cDhlNmJEWWd6elFTUWZyZWNxVEhPb0dreWY5Z0hidFhyaFRvWEhQdmVtVmFSbXYwOE9JdkhNa1hnVGFSaXNXZUVmUE1EcDYwZWloWUJQXzIwUDhNZjB6RU1VTndXUG5hTjdHci1kQWFnaEhhZ9IBuwFBVV95cUxNOUtXdFN6Z1FYeGFxck5oTTFmWmlfcXBwdGFSRktrY0ItRWpCU3hmT3R3UHJFZkt5VHJra0RpSGRvWTNhWmNvQ0d5dzBQdlRpUlk5SWJfdUxEZjlUdE1nUmpRM2JtMjlQbDAyeWNKSnlnR3FYYXoyUk0xdl8yZUVFc1piRktBbVVFTTlGc0VvU1ZUbnVFVlk2LXlrVElKa0RQVjlfa0Joc0xKbkUwN1RkbmtaemJocUdwbjlB?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1F0UzhmMFRXU05WRUxENnN6eEx3bmk0Yi0tZVlJOE03aHBlVTBPLWMza2NJVmN5MUh5dzB2NVJGbjZpVmNKZVp2cm5mU0dpMGMzellsOEx2MzlxLXdjRkc4b3ZPU3NrNFhJYlppc0dUXzhWR1BFcFF6czRDckJiSg?oc=5"
-      ]
-    },
-    {
-      "title": "45-53 pc street vendors may scale back UPI use if MDR imposed: ISB study",
-      "score": 19.53,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGV0QkxSbW9qTHYxVzhEU01pcmtmTzJCaE5LdWV3cERnRU55M2ZnX1oyaUlLcTJvMWVTLXBqVjdtV3o2aFJKTGZRZHF0aE8wUGRPOS05MzVteVNPeE5KcTBZemtHcm1rbXFORTYwNXppb3FuS3UtR25feG5Ga1llWnAweGhKMUhENmxTMVpxVEpwQl9fcXRLMUNkME5ELWM?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjlnOURoZlRPR1FnakIwdmtLMHVPUlF3QWZ2am83MGI1YTRNRDBUMXJYZDJJd2g5RDVLaEoxQXhuVHNDSkNud2xEd01mR09lZ204QjBobEdOaWFGdXJicThSaF9TWC1INHN2S0N4clVDYkgxa3lVNnV6UVFGQWdnY0ZQb1R3QXlJMmdBLVRUeGotMGViQnp3LV9ZaTZIVFpuR3FhUWJOckJNNDVPNnNrT2pIcTMybmxwd3MtME1zVU93V052S0k1TE5kQW5LQU5scDVSRy1sSG9SbknSAdsBQVVfeXFMTTI5ZzlEaGZUT0dRZ2pCMHZrSzB1T1JRd0FmdmpvNzBiNWE0TUQwVDFyWGQySXdoOUQ1S2hKMUF4blRzQ0pDbndsRHdNZkdPZWdtOEIwaGxHTmlhRnVyYnE4UmhfU1gtSDRzdktDeHJVQ2JIMWt5VTZ1elFRRkFnZ2NGUG9Ud0F5STJnQS1UVHhqLTBlYkJ6dy1fWWk2SFRabkdxYVFiTnJCTTQ1TzZza09qSHEzMm5scHdzLTBNc1VPd1dOdktJNUxOZEFuS0FObHA1UkctbEhvUm5J?oc=5"
       ]
     }
   ]
