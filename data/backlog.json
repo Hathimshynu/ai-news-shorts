@@ -1,5 +1,16 @@
 [
   {
+    "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+    "link": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now work with GitHub Copilot directly in Xcode&#8217;s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with&#8230; \n The post  GitHub Copilot is now available in Xcode&#8217;s coding assistant  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-04T19:10:40+00:00",
+    "engagement": 0,
+    "saved": "2026-11-05T11:37:16.963246+00:00"
+  },
+  {
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "source": "Hugging Face",
@@ -8,72 +19,61 @@
     "country": "GLOBAL",
     "published": "2026-11-04T17:50:10+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
+    "saved": "2026-11-05T11:37:16.963246+00:00"
   },
   {
-    "title": "India cybercrime agency warns financial firms on AI attacks",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2J1X3pUN2xzaV9ZUEhEMnRpVE1zby1Jc1ZRcFJueDdJd3ZvbDE5bk1UVW1HdVJuaHE3RGFrRHZJSXllb21uNmFMTzFnYjZpNkJ1UXk0X2dJM2sxbEcyYWpFN1JzQXhadm5BbWxuMktrNG1tMlNUc0I1bjU4cW5vVHY5YUNfdmF2WG1pUFlnRzNMOUUtSGJCaWowck9wUk9yaWFQR1Y1b3JyUV9JYURFRzU5bktrTlo1R29keDJQLWdkMndneHE1T05hRVVvWVo2RXlsSFRyM0RTZw?oc=5",
-    "source": "The Economic Times",
-    "kind": "news",
-    "summary": " India cybercrime agency warns financial firms on AI attacks &nbsp;&nbsp; The Economic Times ",
-    "country": "IN",
-    "published": "2026-11-04T13:35:58+00:00",
+    "title": "CodeQL 2.27.4 improves accuracy and query metadata",
+    "link": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We&#8217;ve recently released CodeQL 2.27.4 with query accuracy improvements across several&#8230; \n The post  CodeQL 2.27.4 improves accuracy and query metadata  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-04T20:04:52+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
+    "saved": "2026-11-05T11:37:16.963246+00:00"
   },
   {
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "link": "https://openai.com/index/cisco-cyber",
+    "title": "N1nEmAn/sapper-v2: Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+    "link": "https://github.com/N1nEmAn/sapper-v2",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+    "country": "GLOBAL",
+    "published": "2026-10-30T15:12:35+00:00",
+    "engagement": 1157,
+    "saved": "2026-11-05T11:37:16.963246+00:00"
+  },
+  {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "source": "OpenAI",
     "kind": "official",
-    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
     "country": "GLOBAL",
-    "published": "2026-11-03T08:00:00+00:00",
+    "published": "2026-11-05T02:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
-  },
-  {
-    "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVVsQnJ1T0swU2JqbnBlQ3FjSFFoYjFPcXQ2Q1JZMk9UOTRIYXpJaG5kMk5pdmlmYTNLaUt1LUx2dks2MW10cFMzTDMtWUZTMl9UMlRxWGlzVXd2NnozWjN3eFg5RE4zVmhQTjJWTWoydkVKRHQwcFB3RmJHdERtRFJXOUNYLU14S0lQQmgwY2FkenZudzN3QnZhdjdzU0dpQ2ZhTk15MGxESy1YVVdlTm1VNlZsS2p5ZkthQXhyRGFaeVZ2Z3fSAcYBQVVfeXFMT0VVbEJydU9LMFNiam5wZUNxY0hRaGIxT3F0NkNSWTJPVDk0SGF6SWhuZDJOaXZpZmEzS2lLdS1MdnZLNjFtdHBTM0wzLVlGUzJfVDJUcVhpc1V3djZ6M1ozd3hYOUROM1ZoUE4yVk1qMnZFSkR0MHBQd0ZiR3REbURSVzlDWC1NeEtJUEJoMGNhZHp2bnczd0J2YXY3c1NHaUNmYU5NeTBsREstWFVXZU5tVTZWbEtqeWZLYUF4ckRhWnlWdmd3?oc=5",
-    "source": "The Hindu",
-    "kind": "news",
-    "summary": " NVS-03 reaches geosynchronous orbit; satellite in good health &nbsp;&nbsp; The Hindu ",
-    "country": "IN",
-    "published": "2026-11-04T17:30:19+00:00",
-    "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
+    "saved": "2026-11-05T11:37:16.963246+00:00"
   },
   {
     "title": "Accelerating engineering for the physical world",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
     "source": "OpenAI",
-    "kind": "news",
-    "summary": " Accelerating engineering for the physical world &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-03T21:53:57+00:00",
+    "kind": "official",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "country": "GLOBAL",
+    "published": "2026-11-03T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
+    "saved": "2026-11-05T11:37:16.963246+00:00"
   },
   {
-    "title": "OneStack raises $1.32M to wire India's cooperative banks into UPI",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTZiSUhMdGNEdm43RzdWaV8yTGdaNTRzU3d4SEZ6TlVLZW1BOWRnOFpfNjZBUzBEUkZ2REpxY0RJSm4zc3dmeWdpNG16Nnlqak1GUEs4c053dlV5c25DNHhMN182YnAwN3BZLWR0QUNJWUwxaUZxOXlCb0FDMHNCZ2t1aU8yLTU0R21fSHZnd2lpMmlQUG0zWWFwX3hGU2M?oc=5",
-    "source": "Dealroom",
-    "kind": "news",
-    "summary": " OneStack raises $1.32M to wire India's cooperative banks into UPI &nbsp;&nbsp; Dealroom ",
-    "country": "IN",
-    "published": "2026-11-04T06:34:34+00:00",
-    "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
-  },
-  {
-    "title": "45-53 pc street vendors may scale back UPI use if MDR imposed: ISB study",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGV0QkxSbW9qTHYxVzhEU01pcmtmTzJCaE5LdWV3cERnRU55M2ZnX1oyaUlLcTJvMWVTLXBqVjdtV3o2aFJKTGZRZHF0aE8wUGRPOS05MzVteVNPeE5KcTBZemtHcm1rbXFORTYwNXppb3FuS3UtR25feG5Ga1llWnAweGhKMUhENmxTMVpxVEpwQl9fcXRLMUNkME5ELWM?oc=5",
-    "source": "Telangana Today",
-    "kind": "news",
-    "summary": " 45-53 pc street vendors may scale back UPI use if MDR imposed: ISB study &nbsp;&nbsp; Telangana Today ",
-    "country": "IN",
-    "published": "2026-11-04T16:52:36+00:00",
-    "engagement": 0,
-    "saved": "2026-11-04T20:01:17.453998+00:00"
+    "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "link": "https://github.com/KKKKhazix/agent-autoloop",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "country": "GLOBAL",
+    "published": "2026-11-03T08:02:11+00:00",
+    "engagement": 3017,
+    "saved": "2026-11-05T11:37:16.963246+00:00"
   }
 ]
