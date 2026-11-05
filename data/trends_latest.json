@@ -1,162 +1,158 @@
 {
-  "job_id": "2026-11-05-evening-1802",
-  "chosen": "N1nEmAn/sapper-v2: Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-  "reason": "It highlights a powerful open-source autonomous multi-agent AI system built for automated cybersecurity, giving tech enthusiasts and developers a practical look into real-world agentic workflows.",
+  "job_id": "2026-11-06-morning-0024",
+  "chosen": "Good News for Tech Professionals: IIT Delhi Launches 6 Month Certificate Programme in Cybersecurity, AI Security",
+  "reason": "",
   "candidates": [
     {
-      "title": "N1nEmAn/sapper-v2: Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "score": 22.0,
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "score": 28.57,
       "kinds": [
-        "github",
-        "launch"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/N1nEmAn/sapper-v2",
-        "https://github.com/N1nEmAn/sapper-v2",
-        "https://www.producthunt.com/products/hunyuan-a13b"
-      ]
-    },
-    {
-      "title": "IIT Delhi launches six-month online cybersecurity and AI security course for professionals",
-      "score": 21.48,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYlowa0ZxV2tpZ2w2cjVwWUdJU2pUZXRtWjZSd1owY0QwXzdad2RTS1FxX1RtX0FsTEJDcXRUU0RqTDBvcGRxQThkemR4ZUpWM1lWUlZXMlIxUk1CT3hfRGlzMEtPVFRHYkE3UV84NlYxUnlLaWV4TXFXZGlTZFNTaldaVzFIVG5fR2R3TWNQWWJPLUdBT2k0VmpSY0FxNHRkOWdkNHlJcDY4c3R5UGkyalQ2Y3BaZEc2MVJLVnZxRjRJREJ2X3BpR1NCd0ptamRaTFF5ZWpDVmJ5ZjF0SWtzbWhSM0xZRTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaUlkakNhYWlhYl95QXVfbmIwNVpMRk9oT3RTcTJtZzJ6SkRYNy15cENveGljbkNaclIwRXV6RVBrbXNCdWRBYnR3bnFseFBwT2FSTjRlSHdZVXN4LTFGTUFDYzhlRVpZbU8zOExVUV9zeFVwOEhFbEdYU3RZT21hTlJDTWRBZmMwcnpNY095VFhpcE51VFFHUlNickV2UG9Ed0ZNTVFJU08zU1lYWGc0UFBsVVJQRHhkcWhJdFR4UmZkLW1nQ3lCSTc1cTZxN0phSGl30gHYAUFVX3lxTE10aHFFR0RCanUyOWlCNlF0eXNyR01LeWZFcktfQ3NmVVI4MkU1LXRNaWxKT3d5dnNSTk5fWmhCZE55MnR5aHd1eE1HUlBtb0p3c3JOZ1ZKcnR6Vk9Yc3dkdTJKbkNEZHBJbGtCMkR6UkdpRFBremJZNC1NSFoyT3F4aGhiaGt4b0lPMHJRSXo4QWh0b011YWpHdEZPVUJvMjU2Y2FsQXBEcGxyNkxhR245b2YzVGpwRmNLdGVEY2hGeE9RcEF5Yk0tVTZIaHI5T1AyYk1WeXEwbA?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbmttUjc5Qm83aGJYY1F5Tm12RjhYUDZFd3I2WncxYk9JVFNCWW40RWszN1VHdTBOaTNpRjBlT1NXb1k2VnZuR0lGVk1ocEV5ZUluWUxLWE5nLXVyeDNiYS01dlhZZ2NqNHhUOUEwNDE1eXhXSm5ZcVRobF9ScE50N05OQUdNYzhPRV90VnZDWjJuN0s0ZFNMdFZvWGdWbVJ2bXJYNGNmSDhFU011MVFuRkFjV2hGUkVNWklBaVluUkR5anZIUGN1UGxwbEFuQXlac0FSdm9GaC1NdkhGSlMwaE0xdTczNzdWVVNRQ3JCQdIB9AFBVV95cUxPTzBRSnBBb010NDYzejNLOWszdDBBZnNEWnRsb0ZqalpnellFOGh0NVI1NFgxQ1dhU2RhN3RUdUYyRGJLX0tmVXBRcWNWaGpHdTRTRjZYMXlSVXdScmw4T1pweFVGOUZoQzVWNHpWVzBsLXN3NjlLUnpmc3ZMQXZxN0JLRWJVd1ZzSzF1bnhpcGNjUV9qMEVfajdjY1JtNUV3VXp5WUVyVUxmay0zZDdTeVpSZmF0VFVzVzE4QWptMy1JZ3dwWmJGTTZMRklTemRMWkdmcGE0b0k1TVpWSGNWTGx5TlN4VU9Ca3hHXzRZR2V2M1hW?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI launches Images 2.6 with native GIF creation",
-      "score": 19.84,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGFlTzk2NmpnTWN1aGUwWlo2WDgwQ1pod3hEMUk1MzBTTUNBbFBVSDY5OXZIdlp2NlFBaWRqYTQ3MjlHdV9uMHRRN2NPX3E3UjZkd3hUS1FRMFpPNmlsdGFhSXhQcnpjb0M2NWpnNE1zMVh2dkdkWGw4eDY1X2xqTXl1d054SW9iQlpCUGtB?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRy1aLVNmZlBucEMzem1UWEFZWVB1Tzg2eURoMEttZzBMdmRyNUZpMlBMWmpIalhUOFpRMDJXM0RuRDJvVUN6alVwV0hoUDBqcG5UaEotRG0ybWpJZjh3UUU2ZWZ0MnVxSlFHLUJMUHlsWXpfSnhXZlRMbUk3XzdLZ1ozMVFkRUlicjUzOWQwZnpzM0E3cmVaVXZGMmN6eXByOXFVNU9hUjVhcER2aWJXSTZ2ZmtDZlUy0gG4AUFVX3lxTE1HLVotU2ZmUG5wQzN6bVRYQVlZUHVPODZ5RGgwS21nMEx2ZHI1RmkyUExaakhqWFQ4WlEwMlczRG5EMm9VQ3pqVXBXSGhQMGpwblRoSi1EbTJtaklmOHdRRTZlZnQydXFKUUctQkxQeWxZel9KeFdmVExtSTdfN0tnWjMxUWRFSWJyNTM5ZDBmenMzQTdyZVpVdkYyY3p5cHI5cVU1T2FSNWFwRHZpYldJNnZma0NmVTI?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGhpNWNHdWY4SGsxVVdPQnQyc2ROY1hCLXdNcFQ3LVk0dFNyTXhFc2tYSkNJSEU4UHcxTE91UEJYbGVDTGt4cWQ3azlwdldKbWUxYmtZOEV5dWc3V204WmdSZG4tM3M4cUlrTTFNN0tUVXdUOXU0ODVRUXlJM0tEeG9hNGhHWFhOVS1xaTBJbE5PX3VNZW41Rjh6azdzNGlNd05tdFo4aUplRVdMR2YxakJWT0pFYUFuWjJUdUdGLWNYWkxzdG5iVDYteVFDZEFYUkdUeNIB2gFBVV95cUxQZ25nRXcyLWpUTDRpTmpNOUdYakpDQlZoby1RSzFSTXZ2UWVfQVY0eTdrRzltcllyd05XTjFnYXdtTUpYSmt0TkhveTh0Y2RNYWx6M3BPRWFzVTFrRmJPXzUzanhwMzVzckRpVjRkWDQzdVRnbE8xR3RJWDJzTkl0Y3YtT2xQRG1TR0hod3N0bEJPN0VFMC01R0ZpbnVqUVRTNlF1MWtFdDF2OHlQTWh3UHJZM285WWppbDlTNnRhWHZyc1RfZTEwLUNZT08ydzRXMVpoUmZybUpJUQ?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI expands ChatGPT image generation capabilities with Images 2.5",
-      "score": 20.68,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEpLdXpMSkVZZGZvSkJ3OEhJY25pM1VkNTByZ29zNjMyRkUxdWVUYmxtd3hBb0pNS0VsczIwR1ZWUVRBZUtyY3U3emdHVy05WlVJcjNSSHN6a2VNejNOQWlaNGNlZ00wNVQxQk41Qy1ERzRic0NQU1FQQ251ekNHVm80ZlFIOGdUQnFIQ0ppWUI4MFlmc1lLSGY4VFp0dFNtOHppY2xVWnEwT2oxcHfSAa4BQVVfeXFMTWRKS3V6TEpFWWRmb0pCdzhISWNuaTNVZDUwcmdvczYzMkZFMXVlVGJsbXd4QW9KTUtFbHMyMEdWVlFUQWVLcmN1N3pnR1ctOVpVSXIzUkhzemtlTXozTkFpWjRjZWdNMDVUMUJONUMtREc0YnNDUFNRUENudXpDR1ZvNGZRSDhnVEJxSENKaVlCODBZZnNZS0hmOFRadHRTbTh6aWNsVVpxME9qMXB3?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CQTBoVnZWRjY3MmFKMncxaWM0ZjZUUkVsbmwzRnhwTV90bGtLVWRpV1I0dTZvNXM5bHJTbnpHaHVYZEhfWUQ5bDZfdm45UDkyTGZhMkh4TjlBa3Y4d3NZemFWck1Ec0Ey?oc=5",
-        "https://www.producthunt.com/products/chatgpt-images-2-6"
-      ]
-    },
-    {
-      "title": "CERT-In flags China-Linked AI cyberattacks on Indian banks: Hackers exploit holidays, low-monitoring windows",
-      "score": 19.59,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHRob2JoNzhJME4wVk1rdS1XSDZ3RmpVTkJrbjlkWkhCbDVJNC1QQ2thVlh6WVd5em40dE1lQ3Q1QndHN0Y4Yy1PUVV2NmZEbTRQTzdGV1ZrZGMyYTVmMUtDVm5uNG1UU1h2Y19IZy1laUdEaFExQ3hiT2Q1TWJwcEt3TUl5OEprNDFXdzdBRmxGUEtlaTlOTmZkV2VMRmt6QmFIYnNISzlzUjJUM2FGdGlsMFpqRlRkMGRMNWk1YVZyb2d3YUozZTBYRGF6WXo2RG9uNlJWdUF2X194TG5kNmd6My1NQmdWbFp3ejcxOU1xSmvSAfgBQVVfeXFMTmJsMm9BaUJTMGlWM1NLOUF3VkpicDBsTkJGLWhZZms2Wk95dnA3TnZFa0wtbndDME5aSmNPSXYyNDB3Q2Ntb0dESHlsUmt2Y29DUUFlTXo0dFk0Wjd3NlE1ZG5IV3pHRk5pTE1ZZXJYd1A4MS1iNWxCUFBrYWdycUw0eUs1SGJMdDFrNTVucW9uMzBkdTlGSFJGeG9yTlFjaWxYUDRxOTFCdmI3Vkt2QnNlRGlVSUl4ek9Md3FWNGtmWXhhc3dzY3F6aW5sLXNGTHFzOVFLU3FfNlJXUTZzbGE1SXdOQjJ5dGJ1dmhmU1UyYmI1ekVwWTA?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDZrdTlVMXVRVWpYS1AtZ0xMSjlaSGN4NkIzamU1R1Rhd1YtNjB2WUlhVkE0LUo3MHZBOVhXWl8xeExycmppQmlRVXN0aks0TnlTV1JyT2ZHazZxalBnWEZXWUFwQXVyWDdoTTZocFBQWURTcjc2c0lPUEVlQXI4aA?oc=5"
-      ]
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "score": 20.37,
-      "kinds": [
-        "backlog",
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXBzNVJXd2NhZ01QUC1nNzNMbmVoWF9CRzJieXB4NEpIYnByN2xxMENXWnhxU2tMQm9OLW15Qjl2cEJpZjhvQk9pVGRxZjk2OV9UYmdNNjlsUWxkRThQUm1jNVhIVnZEUkg2RmZkVW1WSXRzMHIyanF1akhnYVNMMWpmVkNORkhvX21fcjc1TFZpXzlIaHFJWTZPMkRGMXF3elE?oc=5",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+      ]
+    },
+    {
+      "title": "Good News for Tech Professionals: IIT Delhi Launches 6 Month Certificate Programme in Cybersecurity, AI Security",
+      "score": 20.73,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUVZV1RyX3lQdWlrUEJnQ2oxRlJJTDlWamtZclhXNnZHcnZqOGZqUTJCWjR2RGVKSlBpQkNlYmJTaVZ6UlRRTmtja19UUHRmeHhra1puQUlpUE1KRi04Mm9RMm5LZFFpS1FZM2c4NkxrTTlsSkhYZE91YWx0dHNVSmRzSmlxZ0M2VFdxSGtEMzJCY1RhODNRa1ZfREtkYVhuQlI4MmxzUUIwTFE3SGR0ZHR0SFg?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYlowa0ZxV2tpZ2w2cjVwWUdJU2pUZXRtWjZSd1owY0QwXzdad2RTS1FxX1RtX0FsTEJDcXRUU0RqTDBvcGRxQThkemR4ZUpWM1lWUlZXMlIxUk1CT3hfRGlzMEtPVFRHYkE3UV84NlYxUnlLaWV4TXFXZGlTZFNTaldaVzFIVG5fR2R3TWNQWWJPLUdBT2k0VmpSY0FxNHRkOWdkNHlJcDY4c3R5UGkyalQ2Y3BaZEc2MVJLVnZxRjRJREJ2X3BpR1NCd0ptamRaTFF5ZWpDVmJ5ZjF0SWtzbWhSM0xZRTg?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYlowa0ZxV2tpZ2w2cjVwWUdJU2pUZXRtWjZSd1owY0QwXzdad2RTS1FxX1RtX0FsTEJDcXRUU0RqTDBvcGRxQThkemR4ZUpWM1lWUlZXMlIxUk1CT3hfRGlzMEtPVFRHYkE3UV84NlYxUnlLaWV4TXFXZGlTZFNTaldaVzFIVG5fR2R3TWNQWWJPLUdBT2k0VmpSY0FxNHRkOWdkNHlJcDY4c3R5UGkyalQ2Y3BaZEc2MVJLVnZxRjRJREJ2X3BpR1NCd0ptamRaTFF5ZWpDVmJ5ZjF0SWtzbWhSM0xZRTg?oc=5"
+      ]
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "score": 20.52,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+      ]
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "score": 24.83,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWU1BMzlFdFJuSkVOZ2NhZFZ3X2htODljLWJUdXV2VXR2NVZkQTlLRUxhVTdWbjdtNDB3eTRkVjh1amVoRVhfRkxnY2ZiVGJJOEpSd29kMk9UanVYQzBpeVRObkg4bWdBQXRhYlZLcFpTTk5VWDlCT0hNQnhTVXRHcU5B?oc=5",
         "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
         "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       ]
     },
     {
-      "title": "Fractal patterns reveal hidden limits to AI predictability",
-      "score": 21.53,
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "score": 20.2,
       "kinds": [
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tX1I3d1poVFhrNXMzcnR2UHZKNW1LbV80ZTF3ektEU0doQUo3SXBJUjFHVEZTeTBFQjI5MFNwNi1DalF6cmM0VWZ2Y2d5TTNrSGZCX2hLcEpCWlRPVmFGTFlHa2lPdEJNbko0VTRNUUM2TV8zalFFUVlFWmE?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tX1I3d1poVFhrNXMzcnR2UHZKNW1LbV80ZTF3ektEU0doQUo3SXBJUjFHVEZTeTBFQjI5MFNwNi1DalF6cmM0VWZ2Y2d5TTNrSGZCX2hLcEpCWlRPVmFGTFlHa2lPdEJNbko0VTRNUUM2TV8zalFFUVlFWmE?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tX1I3d1poVFhrNXMzcnR2UHZKNW1LbV80ZTF3ektEU0doQUo3SXBJUjFHVEZTeTBFQjI5MFNwNi1DalF6cmM0VWZ2Y2d5TTNrSGZCX2hLcEpCWlRPVmFGTFlHa2lPdEJNbko0VTRNUUM2TV8zalFFUVlFWmE?oc=5"
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVFh4UTRSR0s0c3d2N255OUtVRXFvaU9QN2VCUXRtTElTMFFGZ3g3T0NPMVo4cWNhcXF2N05Bbm1SV0hweWlERkFQX2tzMm5vTjNWSE9sYTNURHVDdEpidmNaSjBxTkxuc290dHczMy1IRzlZNjAzdGFUQQ?oc=5",
+        "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
       ]
     },
     {
-      "title": "Google Expands Voluntary Buyout Programme to Five Countries Amid Heavy Spending on Artificial Intelligenc...",
-      "score": 24.72,
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "score": 20.27,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0VUQW9rX3NtQzJPb0U1UmxSUFk0enFDQ0kxMEZmRXU4bXlxa0tqNWlkaWJSaF9xYkZ5YVdUc0VHTFVCU0hnVEk0dzBBR20wMFpjOF8wZUNvaWgwSklUdHFHalVjVEJ4cXFqU2M2NkhaeHRxZzE2NVFDa2lwT1FCUk1PdmhkTGhGRDg5eG1lU0xkNno0djMyY0Jic0dhd1diZnRCalNUWGt3cUxLRkwya3dOSzJPQ0g20gG-AUFVX3lxTE1CME5LcF9KT0JUQU5XZGFaeXZIRnQ0Z3dKaWREd2JFUWRFVmxhQ2xaRkVjSDZ0QmdXeFJ3TG9fZzUtbzdFQ19pVUZmSWFWSzdYaHhxaWJJS19UbUlOcDN5ZmszejIyWXFHS0xaOFpXTEVnX05BckFZakpKNFlFT3loWVFQQTl5VXJCNS1uc19aY212bnc3X2x0YnJsc2lCNWxoWThjTTREbk5CM3lpekp2SU9aQ0lBZ2FpaUV0N3c?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXVKMTJULUYzT05HWWZQR1U5bDVOemQ3ckdQU2EwRllUQmNySlZFeFFvdHpNRUk0cU12aERDaGZVbWtHY2RtUUlUSGdKVjBDbXF4LW5nVU54S0hIQm1PRWw4aEpmWEZDTFM1bE8wdC16cGRNZGUxYzBXNFVVbUZOSWExUnV1QzBWQzJFZkxkUEpYYzJWWXBJeDB0dEVMckRtWFJ2TDk2RTNkMlZTSGE5WGEzR2Z6RjhFemxVWEUxd3ljNURKVWh4SEVkN0Mwd9IB2wFBVV95cUxOcC05aXQ5b0FVNVlwOVV2MTR5UmFuNlI1RWZTVHI3aUY3Q2NJRXp1Wkpka01LQlUyNHJrZ3BfOHNaOW9Sei1IN0NnS0hPVGRDSWtYRm54Tm5DQWdDOWR2OXNKdkM4cVZXTFB2VXV2UW5HQWV1dzh2OHBYalA2MFI4RmxjdVVTRlZicGpYZFM5SXh3dEZYeFQxM3ppdU83LVpSTHlKVEc4cVhvdjJUZlo5TERTT3BaTXdRZFh3SWxjYjNHYnNBT1ZCMThRTGZmQ2g5bC1uOUd6a2FpYjQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXN5ekNUMGdiaTN2NkdydEtLZFliZHFzSmFOLUFSTjdVQnozUUZlbDJIUm82VEh2S0E0dmFaYW1acFBhc09qdWJkVkpzX3lkaXZlSVA3QnYzbmZXZ2NFd09NUjB6RkVGRkRzdGVOSVRGdmppcm9zb3dvNDhtT3JaQThfdlRxaGZrNERaaTViZC1qbnV5MzZDUG5TQVBhQUlVT1gzbTI1aFV3aS0waUNETmxNbzJGaUc3MEk2WmVVemhlQQ?oc=5"
+        "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/"
       ]
     },
     {
-      "title": "vivo X500 series and Watch GT 2 teased in India - GSMArena.com news",
-      "score": 25.45,
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "score": 20.27,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHNoWDZEbWNMSnBXVkxKZGx3UnFxY3NSUV9CTjh3MmpaN1BXN1JoVTVUbE90Ui1iNE5DOHdmaDJiMXp1ZFVZdnJLTnByNi1BZ0VHN2dKYjVaNDNEQ3NIY0NoUHNyV3hHVVdxZmEycnVSX043VWVOZldXd1Y1ZkJQZWI1TkF6M3FPRS1yczNoWXXSAYwBQVVfeXFMT2sxMEF1bDBPdVE5T2NtLS1ZSTZNMzhPMXY2UGt2UG1VSHVnMFAxM0JSdzlFeGVTYmRYZVNOeGVycEpqUTRVNFdMUmhxeVVJandjRWs4U3ZfQm5vdU9yMExsdFhhcG12RHcxT0VlbVdRNy0tLVQyRU5PM0RVZkktYlJDZ3JJZTgwTUxRUnI?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHNoWDZEbWNMSnBXVkxKZGx3UnFxY3NSUV9CTjh3MmpaN1BXN1JoVTVUbE90Ui1iNE5DOHdmaDJiMXp1ZFVZdnJLTnByNi1BZ0VHN2dKYjVaNDNEQ3NIY0NoUHNyV3hHVVdxZmEycnVSX043VWVOZldXd1Y1ZkJQZWI1TkF6M3FPRS1yczNoWXXSAYwBQVVfeXFMT2sxMEF1bDBPdVE5T2NtLS1ZSTZNMzhPMXY2UGt2UG1VSHVnMFAxM0JSdzlFeGVTYmRYZVNOeGVycEpqUTRVNFdMUmhxeVVJandjRWs4U3ZfQm5vdU9yMExsdFhhcG12RHcxT0VlbVdRNy0tLVQyRU5PM0RVZkktYlJDZ3JJZTgwTUxRUnI?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYlFXZlh6dC16enhoM3luQkJkNTl2Sm45aFhtMGpWMlNicnRfZkRmYk1hMDhxUk9VaGlKbERUcVVTcUJnWUNCd0RxdU1iVGc0STktMmEwQjZfaVpKQkxUSG00Rkk2d29KWnlyTTNJY0R1eXp5bGRsc0F2emNTN0d4cFhYcmFwUkVoYWI5UFZpeXVaYmh5SWxySjhKRld3RVFEYzl3d3NnTjA5OV8xaEkwd2NGWXFIZXNScnRZWVVQVDVDTE41Tm9sUDhIQmRHR1RKekZrRy16VDFGRFFNb2FiRWQ3NFdkbjI5Ujg4VU9DNDVFdzRXekFF?oc=5"
+        "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
       ]
     },
     {
-      "title": "Vivo Watch GT 2 Could Launch In India Soon Alongside X500 Smartphones: Expected Price, Specs And More",
-      "score": 21.42,
+      "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
+      "score": 20.23,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner"
+      ]
+    },
+    {
+      "title": "OpenAI launches GPT-6 Cyber with ’Critical’ cybersecurity rating By Reuters",
+      "score": 21.58,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYzI4QS1UWk5Cam5uV1hlLTVidWd6ZWpYVzB2MkRDc2k2Vzl5cE5XTmxRNkVGbnlkN0V3Sy1JdUowUE9KVjhpbElFemlBTHFlQXgyLVZ3dnpSaHFzd2c5Q21BQ1lxekQ5NE1ZZnVoUzQzT1BMNmJrQzVhSko2aG52dTJQSWlZaEl2LWlQNVJ1Q3ltdlp2V1BFaWd5ZkJzc0hhWDdGZHo2NFV2TDNBVlI2TzVDM0h4cy1XWkVRQXZpOWtDelhNTkpMTjQyREZkMTNYbDJJR09QLTB4QWtidWhkSUtR0gHnAUFVX3lxTE5uOUt3Z1RpbGE5ZmhPU0tSc3FCVEU3RkZyMEJ0VUg0c2s4Ykg3cmpLZmFsYnJ3cjhnMjBWRTRMMEpCOXJuS0Zpa1pTUDRKV0JOSFhuWUs2UjJjSm5PMGk4eE11QzBlWFdoQ2wyRGhiZXRhVXZjZnhMdlpoQVJQOXNQd0U1VTN2TzZpV1hlNHR3cTVaY3ZNbUV1a3Y0U09XdDRQcklhYVkwaTBuSXZqdnAydFJpQ1N2UDBPV3ZhVnhyWDhGMGptR2xWX0UxdUE2WFQ3aU5FdlVtT1d5MDNVQWk3aXVfdE0yQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObjlLd2dUaWxhOWZoT1NLUnNxQlRFN0ZGcjBCdFVINHNrOGJIN3JqS2ZhbGJyd3I4ZzIwVkU0TDBKQjlybktGaWtaU1A0SldCTkhYbllLNlIyY0puTzBpOHhNdUMwZVhXaENsMkRoYmV0YVV2Y2Z4THZaaEFSUDlzUHdFNVUzdk82aVdYZTR0d3E1WmN2TW1FdWt2NFNPV3Q0UHJJYWFZMGkwbkl2anZwMnRSaUNTdlAwT1d2YVZ4clg4RjBqbUdsVl9FMXVBNlhUN2lORXZVbU9XeTAzVUFpN2l1X3RNMkHSAecBQVVfeXFMTm45S3dnVGlsYTlmaE9TS1JzcUJURTdGRnIwQnRVSDRzazhiSDdyaktmYWxicndyOGcyMFZFNEwwSkI5cm5LRmlrWlNQNEpXQk5IWG5ZSzZSMmNKbk8waTh4TXVDMGVYV2hDbDJEaGJldGFVdmNmeEx2WmhBUlA5c1B3RTVVM3ZPNmlXWGU0dHdxNVpjdk1tRXVrdjRTT1d0NFBySWFhWTBpMG5Jdmp2cDJ0UmlDU3ZQME9XdmFWeHJYOEYwam1HbFZfRTF1QTZYVDdpTkV2VW1PV3kwM1VBaTdpdV90TTJB?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVktKcWVQRDRoTUItdzc2ZGZrb1V2WDNfQ3k1ZVFtLWp3ZHZoTG9wZGxRcFpBSGhxeXNIYTZXaHFsTHk5TlZTOFBPSWJLWjNyNGxaRXZ4bXJ4TjlpZ0tpT3ViWllrQ3RHMTFYODZMYk1DWDJXSDg5QUszaDJNZ1VIQlk0ZGNycENreWdlVmJZU2pTcUNhY204WGlhN1B4dDI3NEowV0FfYkJPRzQwbVdwak5KNm5ZZXp4T2c?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpqZW1wbThoTUY1UWpZWi1aeU5rMzZxMDVRMnRUWWo3R1Z1cnJrblN1bVVpbXVGcldYOTNyT3d2MFVnZTlsNS0yZ0J3aDRlYXpUdmlmc0lTUWduYTZzLWpaYkowc1h5MFBwd0tja3RDbjZMcUcybFByX29ZUkl2V0IxdWhkSU5sb2VsT1VHWUs4Z0tVMkZqU2wxak1hYjNSSFQ2Zm1Ea1d5d25jNkE?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpqZW1wbThoTUY1UWpZWi1aeU5rMzZxMDVRMnRUWWo3R1Z1cnJrblN1bVVpbXVGcldYOTNyT3d2MFVnZTlsNS0yZ0J3aDRlYXpUdmlmc0lTUWduYTZzLWpaYkowc1h5MFBwd0tja3RDbjZMcUcybFByX29ZUkl2V0IxdWhkSU5sb2VsT1VHWUs4Z0tVMkZqU2wxak1hYjNSSFQ2Zm1Ea1d5d25jNkE?oc=5"
+      ]
+    },
+    {
+      "title": "Vivo X500 Series India Launch Teased: 200MP Camera, 8,000mAh Battery and Watch GT 2 Expected",
+      "score": 23.57,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHRFU2RVQlNjUjhFMVNXNUR5VDE3enJmUm1nalBZTGNTVmRyVnJGencyU0tJdF9tX1dSTVUxSTZmOXdOMGxBS2FHRjlMUmpCTzlXc3p4ZVBDeXVaczNhMWlQejRiWnlvOUtJWE40dTBLenhVVEJhSlJ3VXIydFlHS1FtM0lqY0xaamlKbTlPckJYblNpTElqTjV5V2otQkplVHBxZHU5eXU1R3ZLd1RsNW93VnRrQm1aM0ZBQ3hUSXU?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1U3pOZHdudjZVSGNUT3lhUktIVlg4bExsX1F3TTkzS3N2WXYxNjZpdE5YVUIwQlE5SGthazltbFRpVTE0MTh5OUw4RVZ5S29mYjIxcXE4YVM?oc=5",
         "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvQVBlSGVjRmtsTkhvUWtad19Ud3JRS1dhOXpjM3lKS2dENFpiYWhrNk5SbHpIWkFId2llSUNEX3ZERU93OUZnT3NuODNwLUhvUE1EdlVkelZHS0pBclltXzdjdE50UldqZjBMei1SamtfeTJFeGoxUklmT29CUQ?oc=5"
       ]
     },
     {
       "title": "vivo X500 series teased ahead of India launch this November",
-      "score": 20.82,
+      "score": 23.23,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM05oZFE1a0l2bkoxanlGTmszRHRzaHFJUlhCc0oyR0E2Z1NuNEx5M1JBNzFyMkJkTTRRMmMxcm1IRk5rbTBlS0ZUaVJ4RWxxdFViM0JSejN3d1pSczJuVmcteDJEQnotX2JWUWdHQmFyMmk3Ylg0aDBnZk05Vy1SODlsbmtNd9IBiwFBVV95cUxNSlFrTjlCSVVSbXlfRTJzSnF6T1Z3dTBHQkdTTUR3YzNKLXRCMHpTTGRsNTNFZ24tYVNsNHhDNk92WEswU1JrU01QTDRfbmhpenlkVkZDSFVIT2xhYjFOMXhZcXVNODFjSHVyZXRQb3pMOE1uVzhlX20zN0c4UFdsaVJucUFleGJpcGU4?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXlfNkM3RnNSXzhsZXRIRTlCei1kbThBdzFQRVNPdXJzUlNYMUdXZFZGenk2b1VLT01FSDV1M1RqTVVQVmRCVEdqa2YyeHEzYkZDVTFib2R3TmxQT3ZMRGJYMkJqMVB1TThYUlhRZ25NOVRtTHJkV0VFNHJZYUdsdm9hYzFKN2NZSWtaODJ6NC1tU0x3SlJwQTlDUGtHTGlCN1Ita0tidEE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjF5dnNPMkh4a0wtdTVndEpSNGNYTUdhSXJKSElOZndwd3NCTWpmeS0zT2NUV05mUkZWWS1ORUw2V3hsMnVfZXU5aGd1em5sWEpNdkhCVFdmYXRtX2NiY0Z3TVFfTkZZc0Z1NDJXYWJhN2J0T3VSUElud3RaaXVwMU0xRFZFV0lLMlM2c2k1djBlaGFOcm01ZFhsRmFfYW1MRmRGcEo3Y0pDUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzJDTGlOckliLV9jcWkyQ1Q0NEJuZ0laRVVhVmF1S1owNnJQWi1TZkVra3pDM2VWbnRia1FpeVY3ZGhhMUVPRVJMdkpQWi1WdTVwM0R4NnduTExNdlF3RUN0Q0lSZE5YcW10dVc5aTZWbzJuYVNMQjZXMW5RTkdUSUtCdGY0OEp3b01wb096eVVYUXVnM2YwTVFaalZWT3pDckpv0gGoAUFVX3lxTE94aGF6TEp3WFNDcUdTQWVXamNDRHlOcDYtcFVJd1k0dEoyYlo3UWJ1RlBSQW5NS00xNGpLb3l5bGRjdTZ0TUJRdkN4cWx4S3FFdThCaDFjVUtuV2JHZXk1Wm5wdTVJc0lDNVRVRzlZUF9RUVFiS0wwWjdTakU2RGZhbjg4RDdpd2d3QTNDbzBKVjk0RW5GakZ6NE55RmZxbjNXU09EWE9XSw?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYlFXZlh6dC16enhoM3luQkJkNTl2Sm45aFhtMGpWMlNicnRfZkRmYk1hMDhxUk9VaGlKbERUcVVTcUJnWUNCd0RxdU1iVGc0STktMmEwQjZfaVpKQkxUSG00Rkk2d29KWnlyTTNJY0R1eXp5bGRsc0F2emNTN0d4cFhYcmFwUkVoYWI5UFZpeXVaYmh5SWxySjhKRld3RVFEYzl3d3NnTjA5OV8xaEkwd2NGWXFIZXNScnRZWVVQVDVDTE41Tm9sUDhIQmRHR1RKekZrRy16VDFGRFFNb2FiRWQ3NFdkbjI5Ujg4VU9DNDVFdzRXekFF?oc=5"
       ]
     },
     {
-      "title": "UPI MDR proposal: Street vendors may pass on charges to customers or switch to cash, ISB survey finds",
-      "score": 19.59,
+      "title": "Responsible use of artificial intelligence",
+      "score": 21.68,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYnlFSVotZUJ5YWJfaTRnREd0NUk5blhGeEtyRkRGTFFkdlU1WTMzSW92S3B2M0tZRUNJWlFtQ1YzQ1VaVW9Ic3gwVEtaODNkOHZ3WV9zN1E0NzI0N2xJWmVCVVdnbkFYSzMxbUk3THNrSVZ5RFhiVEZjQ2NIMlRoUmh0RUNMMjl1VldPTUN6bnk5bnV1NnNhakVmaTJqaTdLNkoyVm4zamgwUF92Y25oa2dnc0xSN0owSTMzaU5GTEhPRWhMaXh3bk44YjB1TVJMeC1wZ1Z6RlI4QU1RdWd6WmM3TEdiaXliWnhmVkJpbzlZdk5ldnfSAfsBQVVfeXFMTlZxcTBKSjdjSW45VmxLdEkyc0xvRmhZeV9ubzZXU0EwUWtKSmRUaVZSbVo1VmFsUTFCTk53azIxMFN6R1dOTVNteXEwZG9yQVR4d2U2MF9PVDhNZ2h3RGI2SHoyemE1N1BzYzVBS0lYcGl1N3M2YzNIOERUa29uUGlrekxUVjJPYTRDeVUzbkJJWG5VQkNab0FzOVg3T1o5RWVVSHB0ZlNhVnpKYU5IdTJFRWlpOXdSUVNIekhpeHNQRW5KMndTQ09RNDNTWGE5eXFvU3dFeU51Sm1XaDZieUhZd1h6VUpfTnNFMVJ6WnpzcFZKUWZMQjlDWjg?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcm9Pa3Z6c3k3YjRYdEtrTU12SGtIWnpWa1U0MnZMOTVDT1BoR19Rb2dtZDdveGcydVN0R0VjbkEweERKclFrUzJXSUUzRHdGUXlVektqRDJMTk84ZFZNdjh4TklYeXZfRGVFeVBLOWktejk4YWFNdXdtcDVfVnFSdDk0VlAxcVFXaWpqeWllZEY1YTlFTkVZczdTdG1DcER5QVM2cGt3RWloOTI1MGduQUczZmtQMFNTY2c1Vl9DU1NxdndxdXdXZ2J5YTFCTDZjSWRibtIB1AFBVV95cUxNcm9Pa3Z6c3k3YjRYdEtrTU12SGtIWnpWa1U0MnZMOTVDT1BoR19Rb2dtZDdveGcydVN0R0VjbkEweERKclFrUzJXSUUzRHdGUXlVektqRDJMTk84ZFZNdjh4TklYeXZfRGVFeVBLOWktejk4YWFNdXdtcDVfVnFSdDk0VlAxcVFXaWpqeWllZEY1YTlFTkVZczdTdG1DcER5QVM2cGt3RWloOTI1MGduQUczZmtQMFNTY2c1Vl9DU1NxdndxdXdXZ2J5YTFCTDZjSWRibg?oc=5"
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWlhEZWlZRmthOXE1S3E0cUlkN000bDVRLUlwWmd2enYxYnc1THVaWVBGdlNwclpUZW1TbTB2TjVtODhMWF9iUGNKNEcxREFiZ0pVVXg3VjZEWWNlekhQTUJzNGkwYzVCODgzVEpONENIU2hCVU9sSEJQbkNqRzJwRTVldkpnbTZGcXFSZ2t3OWtWc2x5anVOc0pSWnhpTkdMQWhIU0tWZEkxYmktenQ0OEkzb3p1U2M0WTViR0VfMjdVTHZxNDdQT1dYT0hYX1FxUlB4U19n?oc=5"
       ]
     }
   ]

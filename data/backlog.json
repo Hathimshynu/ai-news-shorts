@@ -1,79 +1,79 @@
 [
   {
-    "title": "IIT Delhi launches six-month online cybersecurity and AI security course for professionals",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYlowa0ZxV2tpZ2w2cjVwWUdJU2pUZXRtWjZSd1owY0QwXzdad2RTS1FxX1RtX0FsTEJDcXRUU0RqTDBvcGRxQThkemR4ZUpWM1lWUlZXMlIxUk1CT3hfRGlzMEtPVFRHYkE3UV84NlYxUnlLaWV4TXFXZGlTZFNTaldaVzFIVG5fR2R3TWNQWWJPLUdBT2k0VmpSY0FxNHRkOWdkNHlJcDY4c3R5UGkyalQ2Y3BaZEc2MVJLVnZxRjRJREJ2X3BpR1NCd0ptamRaTFF5ZWpDVmJ5ZjF0SWtzbWhSM0xZRTg?oc=5",
-    "source": "Education Times",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXBzNVJXd2NhZ01QUC1nNzNMbmVoWF9CRzJieXB4NEpIYnByN2xxMENXWnhxU2tMQm9OLW15Qjl2cEJpZjhvQk9pVGRxZjk2OV9UYmdNNjlsUWxkRThQUm1jNVhIVnZEUkg2RmZkVW1WSXRzMHIyanF1akhnYVNMMWpmVkNORkhvX21fcjc1TFZpXzlIaHFJWTZPMkRGMXF3elE?oc=5",
+    "source": "Google Cloud",
     "kind": "news",
-    "summary": " IIT Delhi launches six-month online cybersecurity and AI security course for professionals &nbsp;&nbsp; Education Times ",
+    "summary": " Gemini Omni 1.2 Flash now GA: cost-effective video &nbsp;&nbsp; Google Cloud ",
     "country": "IN",
-    "published": "2026-11-05T10:00:00+00:00",
+    "published": "2026-11-05T17:12:17+00:00",
     "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
+    "saved": "2026-11-05T19:01:29.151185+00:00"
   },
   {
-    "title": "OpenAI launches Images 2.6 with native GIF creation",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGFlTzk2NmpnTWN1aGUwWlo2WDgwQ1pod3hEMUk1MzBTTUNBbFBVSDY5OXZIdlp2NlFBaWRqYTQ3MjlHdV9uMHRRN2NPX3E3UjZkd3hUS1FRMFpPNmlsdGFhSXhQcnpjb0M2NWpnNE1zMVh2dkdkWGw4eDY1X2xqTXl1d054SW9iQlpCUGtB?oc=5",
-    "source": "Adgully",
-    "kind": "news",
-    "summary": " OpenAI launches Images 2.6 with native GIF creation &nbsp;&nbsp; Adgully ",
-    "country": "IN",
-    "published": "2026-11-05T11:55:00+00:00",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-11-05T17:00:35+00:00",
     "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
-  },
-  {
-    "title": "OpenAI expands ChatGPT image generation capabilities with Images 2.5",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEpLdXpMSkVZZGZvSkJ3OEhJY25pM1VkNTByZ29zNjMyRkUxdWVUYmxtd3hBb0pNS0VsczIwR1ZWUVRBZUtyY3U3emdHVy05WlVJcjNSSHN6a2VNejNOQWlaNGNlZ00wNVQxQk41Qy1ERzRic0NQU1FQQ251ekNHVm80ZlFIOGdUQnFIQ0ppWUI4MFlmc1lLSGY4VFp0dFNtOHppY2xVWnEwT2oxcHfSAa4BQVVfeXFMTWRKS3V6TEpFWWRmb0pCdzhISWNuaTNVZDUwcmdvczYzMkZFMXVlVGJsbXd4QW9KTUtFbHMyMEdWVlFUQWVLcmN1N3pnR1ctOVpVSXIzUkhzemtlTXozTkFpWjRjZWdNMDVUMUJONUMtREc0YnNDUFNRUENudXpDR1ZvNGZRSDhnVEJxSENKaVlCODBZZnNZS0hmOFRadHRTbTh6aWNsVVpxME9qMXB3?oc=5",
-    "source": "Social Samosa",
-    "kind": "news",
-    "summary": " OpenAI expands ChatGPT image generation capabilities with Images 2.5 &nbsp;&nbsp; Social Samosa ",
-    "country": "IN",
-    "published": "2026-11-05T07:16:24+00:00",
-    "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
-  },
-  {
-    "title": "CERT-In flags China-Linked AI cyberattacks on Indian banks: Hackers exploit holidays, low-monitoring windows",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHRob2JoNzhJME4wVk1rdS1XSDZ3RmpVTkJrbjlkWkhCbDVJNC1QQ2thVlh6WVd5em40dE1lQ3Q1QndHN0Y4Yy1PUVV2NmZEbTRQTzdGV1ZrZGMyYTVmMUtDVm5uNG1UU1h2Y19IZy1laUdEaFExQ3hiT2Q1TWJwcEt3TUl5OEprNDFXdzdBRmxGUEtlaTlOTmZkV2VMRmt6QmFIYnNISzlzUjJUM2FGdGlsMFpqRlRkMGRMNWk1YVZyb2d3YUozZTBYRGF6WXo2RG9uNlJWdUF2X194TG5kNmd6My1NQmdWbFp3ejcxOU1xSmvSAfgBQVVfeXFMTmJsMm9BaUJTMGlWM1NLOUF3VkpicDBsTkJGLWhZZms2Wk95dnA3TnZFa0wtbndDME5aSmNPSXYyNDB3Q2Ntb0dESHlsUmt2Y29DUUFlTXo0dFk0Wjd3NlE1ZG5IV3pHRk5pTE1ZZXJYd1A4MS1iNWxCUFBrYWdycUw0eUs1SGJMdDFrNTVucW9uMzBkdTlGSFJGeG9yTlFjaWxYUDRxOTFCdmI3Vkt2QnNlRGlVSUl4ek9Md3FWNGtmWXhhc3dzY3F6aW5sLXNGTHFzOVFLU3FfNlJXUTZzbGE1SXdOQjJ5dGJ1dmhmU1UyYmI1ekVwWTA?oc=5",
-    "source": "Livemint",
-    "kind": "news",
-    "summary": " CERT-In flags China-Linked AI cyberattacks on Indian banks: Hackers exploit holidays, low-monitoring windows &nbsp;&nbsp; Livemint ",
-    "country": "IN",
-    "published": "2026-11-05T10:53:05+00:00",
-    "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
+    "saved": "2026-11-05T19:01:29.151185+00:00"
   },
   {
     "title": "Setting a new standard for responsible AI infrastructure",
-    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWU1BMzlFdFJuSkVOZ2NhZFZ3X2htODljLWJUdXV2VXR2NVZkQTlLRUxhVTdWbjdtNDB3eTRkVjh1amVoRVhfRkxnY2ZiVGJJOEpSd29kMk9UanVYQzBpeVRObkg4bWdBQXRhYlZLcFpTTk5VWDlCT0hNQnhTVXRHcU5B?oc=5",
     "source": "OpenAI",
-    "kind": "official",
-    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "country": "GLOBAL",
-    "published": "2026-11-05T02:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
-  },
-  {
-    "title": "Fractal patterns reveal hidden limits to AI predictability",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tX1I3d1poVFhrNXMzcnR2UHZKNW1LbV80ZTF3ektEU0doQUo3SXBJUjFHVEZTeTBFQjI5MFNwNi1DalF6cmM0VWZ2Y2d5TTNrSGZCX2hLcEpCWlRPVmFGTFlHa2lPdEJNbko0VTRNUUM2TV8zalFFUVlFWmE?oc=5",
-    "source": "Phys.org",
     "kind": "news",
-    "summary": " Fractal patterns reveal hidden limits to AI predictability &nbsp;&nbsp; Phys.org ",
-    "country": "MY",
-    "published": "2026-11-05T10:00:04+00:00",
-    "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
-  },
-  {
-    "title": "Google Expands Voluntary Buyout Programme to Five Countries Amid Heavy Spending on Artificial Intelligenc...",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0VUQW9rX3NtQzJPb0U1UmxSUFk0enFDQ0kxMEZmRXU4bXlxa0tqNWlkaWJSaF9xYkZ5YVdUc0VHTFVCU0hnVEk0dzBBR20wMFpjOF8wZUNvaWgwSklUdHFHalVjVEJ4cXFqU2M2NkhaeHRxZzE2NVFDa2lwT1FCUk1PdmhkTGhGRDg5eG1lU0xkNno0djMyY0Jic0dhd1diZnRCalNUWGt3cUxLRkwya3dOSzJPQ0g20gG-AUFVX3lxTE1CME5LcF9KT0JUQU5XZGFaeXZIRnQ0Z3dKaWREd2JFUWRFVmxhQ2xaRkVjSDZ0QmdXeFJ3TG9fZzUtbzdFQ19pVUZmSWFWSzdYaHhxaWJJS19UbUlOcDN5ZmszejIyWXFHS0xaOFpXTEVnX05BckFZakpKNFlFT3loWVFQQTl5VXJCNS1uc19aY212bnc3X2x0YnJsc2lCNWxoWThjTTREbk5CM3lpekp2SU9aQ0lBZ2FpaUV0N3c?oc=5",
-    "source": "Gadgets 360",
-    "kind": "news",
-    "summary": " Google Expands Voluntary Buyout Programme to Five Countries Amid Heavy Spending on Artificial Intelligenc... &nbsp;&nbsp; Gadgets 360 ",
+    "summary": " Setting a new standard for responsible AI infrastructure &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-05T07:25:28+00:00",
+    "published": "2026-11-05T10:14:04+00:00",
     "engagement": 0,
-    "saved": "2026-11-05T12:33:29.327480+00:00"
+    "saved": "2026-11-05T19:01:29.151185+00:00"
+  },
+  {
+    "title": "Discord is ditching Electron and its new app uses less RAM",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVFh4UTRSR0s0c3d2N255OUtVRXFvaU9QN2VCUXRtTElTMFFGZ3g3T0NPMVo4cWNhcXF2N05Bbm1SV0hweWlERkFQX2tzMm5vTjNWSE9sYTNURHVDdEpidmNaSjBxTkxuc290dHczMy1IRzlZNjAzdGFUQQ?oc=5",
+    "source": "The Verge",
+    "kind": "news",
+    "summary": "   Discord is ditching Electron and its new app uses less RAM &nbsp;&nbsp; The Verge    Discord is killing its Electron app that can eat 4GB of RAM on Windows 11, and the Rust rebuild uses just 290MB &nbsp;&nbsp; Windows Latest    Discord Is Ditching Electron For Rust, With Early Windows Build Using Just 290MB Of RAM &nbsp;&nbsp; Wccftech    Discord on desktop will consume less RAM. App developers switch to Rust programming language &nbsp;&nbsp; dev.ua    Discord finally axes web app Electron to create a new, less RAM-hungry app for PC users &nbsp;&nbsp; FRVR   ",
+    "country": "PK",
+    "published": "2026-11-05T11:39:42+00:00",
+    "engagement": 0,
+    "saved": "2026-11-05T19:01:29.151185+00:00"
+  },
+  {
+    "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+    "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-11-05T16:00:05+00:00",
+    "engagement": 0,
+    "saved": "2026-11-05T19:01:29.151185+00:00"
+  },
+  {
+    "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+    "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-11-05T16:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-05T19:01:29.151185+00:00"
+  },
+  {
+    "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
+    "link": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " This update expands secret scanning&#8217;s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,&#8230; \n The post  Secret scanning upgrades detectors, adds SpaceX as partner  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-05T15:48:50+00:00",
+    "engagement": 0,
+    "saved": "2026-11-05T19:01:29.151185+00:00"
   }
 ]
