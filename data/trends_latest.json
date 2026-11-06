@@ -1,26 +1,25 @@
 {
-  "job_id": "2026-11-06-evening-2343",
-  "chosen": "Merge builds product and business tools with OpenAI technology",
-  "reason": "It offers practical insights into how OpenAI technology is being leveraged to build unified business tools, giving creators and developers clear inspiration for building AI integrations.",
+  "job_id": "2026-11-07-morning-0122",
+  "chosen": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "reason": "OpenAI's official partnership to hunt vulnerabilities in its systems highlights the critical push for AI security, giving viewers valuable insights into how leading AI models are battle-tested.",
   "candidates": [
     {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "score": 22.24,
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "score": 28.64,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
-        "https://openai.com/index/merge-builds-with-openai",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5"
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yY3F5ZFRscGZBOEtXMmRBM3lLejZuUFVscG1BT1prMm1KZlBETEdWbGp1Q3R0YWJnV3V4OWo3Rk9sOGhMZk5kYUIxa3cyOThrMC1jWWwzSXZmajBETVRF?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUHI0dl95SXFJT1JqLXFXNGlLWUloQTlBTERWdGVpM1kyRzdfVkV2Z0s5cFdYQTNrdDNJTlMyUU1hcmVFU3RZaTJoSy05NzVEZXpweTVkRHFIbWdOZUprQ2x2ZTU2bUlHd0NidnBrSmFWaHF1bndjOEJPQ3ZjaTk1NU5sYXhMdkhyVWVYV3cyVmU4ZXNXckhuQlB6cC04UDQwRDRaSnRabUZPM09JR1hNakVWUG9RVVZRLUFSMzhITkZXdlgtNDNWRG1DXzBqcFUzRzQ2NUhBTm1sUdIB3wFBVV95cUxOanUtOVpUcTlEQ0d2WERoX04xNlZIRGRiSzdnenFYVE9nMnlVV0R2VkV0M0dXbHh4Rmtza3hfNzRVSi00NUd5ZGNNSVhnNmJ2dnBoQmdWTzZyakhER1V5TlptZXk1ak55T0FKUlFwN2YzMlFwS3d2cXdLaDctVXVmSmpJdFRNZl9lRjJSazJUZl81TGt6bDdScFlTR0dibm1CZU1mdVIzcXV1YnIxcXJ2RHphb1hmVmxWZU9QZ3NwVHFiSDZrSk1ULWtodlNnNFdjYlFlRU5SSWJMMzhva3ZF?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3NBVVpycEVTTGZmcnBNZFdrWDViSEtrSWZFbWZKZ2VnbFJGYW0yVUhoazZoT2JkZDc1bHk5SDNSTHR6ZlRtN3VuU0JQTjU2NTBObXJrczBqUDVJSFVBUHNoQ095dVlzOHJNUTl4UUlEakRqenlPdGFsTXVyZmJFNjZ3UnJzcnQ1amdjTDJ3dGRPQWVsZFVXZ2ctTFdRRFF2aWpBSGVpTUdTc1FaeUlhUGNrLVdoMndwTktoQlVJbHVyNURNSWYtY04tUXh3NnRYTm03cm50R2ZmbmM?oc=5"
       ]
     },
     {
       "title": "Franklin Templeton uses OpenAI to support investment research",
-      "score": 22.74,
+      "score": 22.32,
       "kinds": [
         "backlog",
         "news",
@@ -35,18 +34,20 @@
     },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "score": 19.95,
+      "score": 21.53,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://huggingface.co/blog/allenai/toyblocks",
         "https://huggingface.co/blog/allenai/toyblocks"
       ]
     },
     {
       "title": "Australian universities are creating AI-native graduates",
-      "score": 22.79,
+      "score": 22.38,
       "kinds": [
         "backlog",
         "news",
@@ -60,8 +61,19 @@
       ]
     },
     {
+      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "score": 18.0,
+      "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/KKKKhazix/agent-autoloop"
+      ]
+    },
+    {
       "title": "India warns of AI-powered attacks targeting crypto exchanges",
-      "score": 18.55,
+      "score": 18.13,
       "kinds": [
         "backlog",
         "news"
@@ -73,21 +85,21 @@
       ]
     },
     {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "score": 20.45,
+      "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
+      "score": 18.71,
       "kinds": [
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTVMtMEptMS05UWlNT1VjSU01NU1CNU13UTdPSVI0dmVxalVLajk3aWRMcmIyODVncEx2TUp0QUI5VzBWa0xwY1NwWTBqTXVIWVBfaA?oc=5",
-        "https://openai.com/ads/customers/flipsnack"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xbmkwRHd1aVQ3TmtYeExuQklxemdmLUtTX2JpWUFNSUhzVWFRcmRtaXhBelZaazg3TWFWc3c2TXlDbDZ1aVJLdmZTZDl3UU1Ha09uTTItOThWS0lpdEhhRW9B?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5"
       ]
     },
     {
       "title": "Merchants Cannot Recover UPI MDR Charges From Customers: NPCI Assures Supreme Court",
-      "score": 19.49,
+      "score": 19.08,
       "kinds": [
         "backlog",
         "news"
@@ -96,37 +108,25 @@
       "links": [
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3RUbjNUdVk5M2Z2dlpMY3hMbTc5ZnF4RjFlNWQ5R3ZJUTZGV3FsQWc2RzJMSE42MC1VejAtUHZXdHRNT0p5WWFsak1UNzFkT3FLMDNnemRWaEJQeGIyUUREbkNNcGV5RkVSdGpNZndFelotT2R1N1AxYlNIM0J2QTl3YjlSdVZ4amZ1UmNUWWxDZjJXb0RwdzNtY1hrbHB2X1Y3aEhESy1PLVVtc1JLMm5QbEpQdlp1VHFF0gHIAUFVX3lxTE1oWGlSQVlhQXB6S2lqdlQtSHY3S01HenFiVmhOSDRBWWtibFJITGdBZE02NTBqMlQ0RnpnZ0tWVllBb2FGbEZiMTlVNDBxQ0pUZVlZSl9ZME9rUGduV0ExQmRKRDZpTGlKOWcyLWJHaGxjX21Beko0eS10U0ljOC16Q3pMbXRXVkNhZkczSVM5N2VQZllHeV9CeVM1THcwWDRtRmhEeUxocXFMQXBPN195YkJMX2dZTUgzaHRybnVkcWJHX1d3Y1BV?oc=5",
         "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjBzYXRxbDRnS1Fxel9CSkE1cDhJcVdPSDhKT2o3VUdVc2ppZW1kLVREVk04Z0EtclV1UUpuR2p2a3FKVE9pQ3EwV0trQlFyeHpjSFNLQXAweU1oYmp3NmZmMk80dWVFWG9vVFRSVmZ0Q19qVTlCYTlXcFdRbjRHeFZINFBlMEJr?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjBzYXRxbDRnS1Fxel9CSkE1cDhJcVdPSDhKT2o3VUdVc2ppZW1kLVREVk04Z0EtclV1UUpuR2p2a3FKVE9pQ3EwV0trQlFyeHpjSFNLQXAweU1oYmp3NmZmMk80dWVFWG9vVFRSVmZ0Q19qVTlCYTlXcFdRbjRHeFZINFBlMEJr?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3RUbjNUdVk5M2Z2dlpMY3hMbTc5ZnF4RjFlNWQ5R3ZJUTZGV3FsQWc2RzJMSE42MC1VejAtUHZXdHRNT0p5WWFsak1UNzFkT3FLMDNnemRWaEJQeGIyUUREbkNNcGV5RkVSdGpNZndFelotT2R1N1AxYlNIM0J2QTl3YjlSdVZ4amZ1UmNUWWxDZjJXb0RwdzNtY1hrbHB2X1Y3aEhESy1PLVVtc1JLMm5QbEpQdlp1VHFF0gHIAUFVX3lxTE1oWGlSQVlhQXB6S2lqdlQtSHY3S01HenFiVmhOSDRBWWtibFJITGdBZE02NTBqMlQ0RnpnZ0tWVllBb2FGbEZiMTlVNDBxQ0pUZVlZSl9ZME9rUGduV0ExQmRKRDZpTGlKOWcyLWJHaGxjX21Beko0eS10U0ljOC16Q3pMbXRXVkNhZkczSVM5N2VQZllHeV9CeVM1THcwWDRtRmhEeUxocXFMQXBPN195YkJMX2dZTUgzaHRybnVkcWJHX1d3Y1BV?oc=5"
       ]
     },
     {
-      "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
-      "score": 19.13,
+      "title": "Motorola Signature 27 Launched Globally With Snapdragon 8 Elite Extreme and 12,000-Nit Tandem OLED",
+      "score": 21.77,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMickFVX3lxTFBMMzlGMlNVWG1idmxXbTVQbnE3SXlhWFFmYXNkRkQ5X292bEF3dl9nUXJMZDVPc3hLdTlPU0QyQ2VOd3JSZGhvcEFfdzhWSl9BajNwUk1yYWhxWlkzNlBEeEYwR2JsLW5XaFVscmI0MF8wQdIBd0FVX3lxTFByeldnLVAxM3IteTh5Z05zM3A3M0tMbmVFRmVpLWUxemQ0bnhUU1hJTjRpLWpEd19IemtGWFFqX1hzUldtMkxuZjRoRlVpSzBUZF9HLTZOeExiZ3NoeGF6VjBKakZSSlQxTmQ2ZFNqSzdubnZxUXNN?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xbmkwRHd1aVQ3TmtYeExuQklxemdmLUtTX2JpWUFNSUhzVWFRcmRtaXhBelZaazg3TWFWc3c2TXlDbDZ1aVJLdmZTZDl3UU1Ha09uTTItOThWS0lpdEhhRW9B?oc=5"
-      ]
-    },
-    {
-      "title": "OneStack Startup raised ₹ 12.5 crore from Shepherd’s Hill",
-      "score": 18.98,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxObm1jblYtVkZCRTF2eXNKekFHTnBkeVB1dU0zc1phWE9mNnJyX3hHbE9aSmp5S1ZKaVE4dWx6a1NYbnlaWGJLdXpGS3hrWHl3STZiRlloNWRhRktGeDdnV3gzTDlWcjZ5YVdkZjlSOVFQblV2Q3RJbUxtazZwWHFVY3hTSmNEZ3lYZWVfag?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU0NFVDFUUzdNY3NIc2pTVmxBMXBXdTJibWVqZ0JXMDg5LTJrajNlejZCN0RjZW0xVUVyaDZnc1k0eDNQWS0xSENZLTNJOVhYY1M1WFNZdWpCZ2M2cGhoREI2dndxQkdWOGxNZmROZ3A0UmhGdTNrYXpoaXZaYVZJX24taUFud0pybXI2LWhtVmlPYmlYZVJlWld1c3UyTWkxdU1pS29sSXlUQXlDc0Q4enJfRXlaSGotVm9xYzVQeXIyY2RWdWJxZUxFSU9qa0d0Z1FneWVjZ1ljUkJSQ0htZdIB4AFBVV95cUxNU0NFVDFUUzdNY3NIc2pTVmxBMXBXdTJibWVqZ0JXMDg5LTJrajNlejZCN0RjZW0xVUVyaDZnc1k0eDNQWS0xSENZLTNJOVhYY1M1WFNZdWpCZ2M2cGhoREI2dndxQkdWOGxNZmROZ3A0UmhGdTNrYXpoaXZaYVZJX24taUFud0pybXI2LWhtVmlPYmlYZVJlWld1c3UyTWkxdU1pS29sSXlUQXlDc0Q4enJfRXlaSGotVm9xYzVQeXIyY2RWdWJxZUxFSU9qa0d0Z1FneWVjZ1ljUkJSQ0htZQ?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUVDcXI0djRoTzVVeUlPVkU2UTh3X1l3OEVheGlhMi1xV1puUU5VWG5fZVczYlh4cUs0ZFhMRkVCTDM4VmtEQWVqWmZCTkY2cUR6RG1HVUdmZEIwRTg2RTdoUWYxUlM1eFF2STlWc1N5TTF3UTUzODhGYVFHcXFmcGRpT19qUWJKcFBRMDZCSGg5Q2Y0cXZienkwTdIBoAFBVV95cUxPeXZlazFWRlA3YTZ6cXBpNmdpcnhSNWk2T08xc2o2LWdDZFZ3NWpOZnF0WDIwYTg4X0JyNEdZSWRLMWNMSUNJeGJoNXY2QUd2dEVQVXA5b0d6eDhrd2tIODFuVnRWbzFZWFJVZGVUellKY2M5MVB1UDVrUEgxempIVlJtTU02dVZDeGVJTG1SQ0NPXy1OaGoydHZUbDVpSlpv?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01scUx5dUpKTmZSZ28tV2R1cC0tZnNJZHhpMm5DUUF6VXd3Mll6RVI5SlZadjJPTEtMSC1nUjFqcHF1ZkpORnFKRDNwNGtFZkRnQjBLb294SnFoaWo0WExpSHF2NHB0dGc4U2kzYU5NOFREd05CTWZsOXQ2enE3Qw?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdTQwd1VzdU51a0hVZ3RGSDVEU1VaOVVhRnVabkJpQVNpOWtpWnNTZDF1elg1NXdIMk56VklpX29BcUJRUm1kRlFuaEF2SGJMNzBfZG9qemNsWk1SNUJrWERYbDlhblREMTBvel9Rd2xyNU5FNXR5Q1FiRUVTWUFjdUlHU1hVYkRkUGtyZjhibEt3dFFTdFFQTVdiMUM3X1NXLXRDMGVVSzh4NlRKR3pnNFd3OWZpT2dwbU1DQ1FZR0tqT3diX09mN0J1X196VG5VTXRPcU1TY25mYXZZWnRMZV9jU05KdFR10gHuAUFVX3lxTFB6QWxuZFhwX01yM0dVd0RUSUl4VDBCZUxhTzB2a0hQQXEzVEJWUEhIQjdxdHhIR3F1UzduZDVlc0JnUl90Q0JRR3NOVmFxM19TR2s5SDljbzFPcWlkMk44MUNOM0twaDQtSUxXOTNiMWs5emVGX1hNTWRFMnBLU1lCU2dqd0gtV0Vqb0RXMUY5VXdxbmRkY0VwUGt2NkNHUTJHUy1MVDZYdjhhdlRmRDdDTE9POGNoSkRaUlpOaS00aHJlTXd1dmN0MWhxOVNQZ2ZKSDYxNld1clI5VjlzU2RzNThRZ0FldmVEMlpINUE?oc=5"
       ]
     },
     {
       "title": "Samsung Galaxy S27 is headed to India, new certification reveals",
-      "score": 18.84,
+      "score": 18.42,
       "kinds": [
         "news"
       ],
@@ -138,26 +138,27 @@
       ]
     },
     {
-      "title": "ISRO chief Narayanan calls on TN CM Vijay about preparations to commence rocket launches",
-      "score": 19.84,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWo5U2FHT1hBVEFELXpMZ2NwdVpsNG41SmRTWEhxZGtIVkROMTh3Y3lIMzQzTEZ3ZGNqNWRhaFdtLThiSG83cnRGQ2pWSWl6NWR1WTVDRVpHYnJaYnhpWjRVb283aEw5V3lTZEhBM05tbXYycThkVld1TnBJa0hIYmlpMi1LMFMzbWw4QTNqZFpYUEVkbG54aWMtcE1TV2psSVNpMXdoLVFoTjhRclYzYkxsNFVNZmFLa2JTZm1UUGR6QTg0b3pCWUFJby1nX2I3T2ZWTVNOdXhUQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVzMxWi0xUXhxbFk2dkVMS0MzajZod0FTNWtoQjRGYWVyNlFmbjlIWWNkbnlrWGhVZzNldFlfRjBYaUV5QVdocFFFZjRiQWtjMUs1WHJUd3JDUHA2MUdpUDl4akZ4QWVtOWVnT1dWNk5UZ1hpQW0yRDEybWYtWlBkWGN30gGHAUFVX3lxTE9oUlNwY1ZiaEJfQUVlai03TjQ3aGJHTXhyNkd3ZEtjZzE0M1VudmtaTkJVcndqZUdnWUxudklTTVUwb0J0QkZHZDItMl9aaGpFcHJlS0pDVE1aZDJfX1EwVmhsbG5GZzlnZGtoek9QNnhxUDFnQmRmNnVqS3hKRHdOTlVBbmhXNA?oc=5"
-      ]
-    },
-    {
       "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "score": 18.53,
+      "score": 18.29,
       "kinds": [
         "community"
       ],
       "primary": true,
       "links": [
         "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
+      ]
+    },
+    {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "score": 20.04,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/ads/customers/flipsnack",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTVMtMEptMS05UWlNT1VjSU01NU1CNU13UTdPSVI0dmVxalVLajk3aWRMcmIyODVncEx2TUp0QUI5VzBWa0xwY1NwWTBqTXVIWVBfaA?oc=5"
       ]
     }
   ]

@@ -8,7 +8,7 @@
     "country": "IN",
     "published": "2026-11-06T01:10:24+00:00",
     "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
+    "saved": "2026-11-06T19:58:27.883068+00:00"
   },
   {
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -19,7 +19,7 @@
     "country": "GLOBAL",
     "published": "2026-11-06T14:00:48+00:00",
     "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
+    "saved": "2026-11-06T19:58:27.883068+00:00"
   },
   {
     "title": "Australian universities are creating AI-native graduates",
@@ -30,7 +30,18 @@
     "country": "IN",
     "published": "2026-11-06T01:22:46+00:00",
     "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
+    "saved": "2026-11-06T19:58:27.883068+00:00"
+  },
+  {
+    "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "link": "https://github.com/KKKKhazix/agent-autoloop",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "country": "GLOBAL",
+    "published": "2026-11-03T08:02:11+00:00",
+    "engagement": 3640,
+    "saved": "2026-11-06T19:58:27.883068+00:00"
   },
   {
     "title": "India warns of AI-powered attacks targeting crypto exchanges",
@@ -41,18 +52,18 @@
     "country": "IN",
     "published": "2026-11-06T12:24:53+00:00",
     "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
+    "saved": "2026-11-06T19:58:27.883068+00:00"
   },
   {
-    "title": "Flipsnack grows product signups with conversion optimization",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTVMtMEptMS05UWlNT1VjSU01NU1CNU13UTdPSVI0dmVxalVLajk3aWRMcmIyODVncEx2TUp0QUI5VzBWa0xwY1NwWTBqTXVIWVBfaA?oc=5",
-    "source": "OpenAI",
+    "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
+    "source": "DD India",
     "kind": "news",
-    "summary": " Flipsnack grows product signups with conversion optimization &nbsp;&nbsp; OpenAI ",
+    "summary": " AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India &nbsp;&nbsp; DD India ",
     "country": "IN",
-    "published": "2026-11-06T00:01:17+00:00",
+    "published": "2026-11-06T04:48:48+00:00",
     "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
+    "saved": "2026-11-06T19:58:27.883068+00:00"
   },
   {
     "title": "Merchants Cannot Recover UPI MDR Charges From Customers: NPCI Assures Supreme Court",
@@ -63,17 +74,6 @@
     "country": "IN",
     "published": "2026-11-06T08:10:44+00:00",
     "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
-  },
-  {
-    "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMMzlGMlNVWG1idmxXbTVQbnE3SXlhWFFmYXNkRkQ5X292bEF3dl9nUXJMZDVPc3hLdTlPU0QyQ2VOd3JSZGhvcEFfdzhWSl9BajNwUk1yYWhxWlkzNlBEeEYwR2JsLW5XaFVscmI0MF8wQdIBd0FVX3lxTFByeldnLVAxM3IteTh5Z05zM3A3M0tMbmVFRmVpLWUxemQ0bnhUU1hJTjRpLWpEd19IemtGWFFqX1hzUldtMkxuZjRoRlVpSzBUZF9HLTZOeExiZ3NoeGF6VjBKakZSSlQxTmQ2ZFNqSzdubnZxUXNN?oc=5",
-    "source": "CNBC",
-    "kind": "news",
-    "summary": " India as an AI hedge? The country's stocks could see robust inflows as markets globally tank &nbsp;&nbsp; CNBC ",
-    "country": "IN",
-    "published": "2026-11-06T05:41:51+00:00",
-    "engagement": 0,
-    "saved": "2026-11-06T18:20:01.422398+00:00"
+    "saved": "2026-11-06T19:58:27.883068+00:00"
   }
 ]
