@@ -1,54 +1,13 @@
 {
-  "job_id": "2026-11-06-evening-1702",
-  "chosen": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-  "reason": "OpenAI's release of GPT-6 Cyber introduces specialized AI agents for cybersecurity, representing a major milestone in advanced model safety and targeted capability.",
+  "job_id": "2026-11-06-evening-1801",
+  "chosen": "India Aims to Become Global AI Application Capital, Says Ashwini Vaishnaw",
+  "reason": "India's ambitious push to become the global AI application hub highlights massive opportunities for local developers, startups, and tech workers building real-world AI solutions.",
   "candidates": [
     {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "score": 22.44,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRzhtYk1MeTljUjdBLW5pMUJCVWJYZ0RzUXB3a0VnVlVtTEtCRHhDR1ZGeEZwOXNvdUp3N2hOMklObzBQbHRsV3lna0xiLXNlSHBOS3RyS0M3dFRZMFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRzhtYk1MeTljUjdBLW5pMUJCVWJYZ0RzUXB3a0VnVlVtTEtCRHhDR1ZGeEZwOXNvdUp3N2hOMklObzBQbHRsV3lna0xiLXNlSHBOS3RyS0M3dFRZMFE?oc=5",
-        "https://openai.com/index/introducing-gpt-6-cyber"
-      ]
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-      "score": 33.53,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1ZoVGFPOVRRVGtjRHdrN3pQWWtCbExsZTAtSkhXQ3M4MU5aRFNaVjEzbW9ESll1b3RCUEFHVnIyUDFaUTJMOUdtZzhXZGJLODBkOS1ETmpTMTg3cmUzdDRvVkRNLWp4ZHY2azlJNkZ0blk2cG5sY2FUa1lQb1hPY1NEOVBmZUtYdkZ4SVRMckdSM0dlS0Z0STR1N0VicU1zNXBIbUxPS0FLWUJIdFluSDNPVnp0M3FvNXJ3UHpn?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZXhxRktRVnVaYTdKNEFnZmRxcl9SbGtnTXIxOWhxeEswMHBDejFQR3hQc0NlcDJidTNTNnlmcm5SbzFyZkFVYmdDTm9QOGhfazdUNGVQZXBuQWp1Y2JEWDVKS294MF9NbWVybVlVc0RJeDFvLWk4WXpiYVJfR2JIdExHRVBPaW1LM0hKTTNmX1NUVjZlakFsUlp6V2FSelhrYkdjWVJybnZTQlctWmNnMEdvQWlZbHJJbGZLWG5RVVVHUkR1clFGRmV0RUN5SU1wV3NMVmROZTFIWC1abGl5UFNycEpHQXFx0gHjAUFVX3lxTE5TZVdWNWJPNHloZEFzNUlsRVhYYjJ6RFpFdm1YaDlfTkptN3QyLWRuRFVMTWM5dmNKV1ppMUNPYXdVU1JTZUdFbVpIdWFFZk42anlRdFY0Y2lmOFZGZEUxaXNqMGpHNmhCTGp4aUNJSWtCb0JON3hpTGx1SEpQY0xqR0ZMMGtoMWpnVEhNeGRnc3dfZDd6eTdFVnNCdVpyc1BoNmgzTmhVbFBVb0s1YVdTU0tPNndISllTS3JfWllUSmV4SVVsRG9nSEprZ2cxYW0tTVF0OEZtZXZrZ1hWYXNCdGFV?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHdaVlFPWm43TThtajBCRjNPR2JVUTByalBpb29BVzhvWVhGcWdDYkpmY1NKN01TZFZ2aklFM2RJOUgzNEZnR2FQeWkxLWZHbVc1VU0tejlnTjNBVnp4b2pzbTZUMGZrbzJjSUFqaWtvcDRyWU5uT0otTlV5TjcwSVhNRlhDUVl4bXgwZTRwMjdGbGtiOTE3VGFpT0Z1OWcxVmk3Nml6eW5SV2luLUM2T1c2QTNsM2NlQzVVTHZhNElpV2c0bVRBS0VfWXdtb3dIeElB0gHYAUFVX3lxTFAyeWYtdFNmcElraVJVR1RDZUpwTEVuaFFTNGVGTzNxWDVqZUFpcTJsc1BidWx6X2xkV0ZaaThVQWxxRFY4ZEVZTjBtUnA3dmFqb05PcGJid2MxOXlNSWNfekNhLUpzelNkUVUzb1ZGZVRQY29fdS1qOTh6TW1sRjZ0clR0UUlybWlRaGZDRmRfbFpWNTdxQThnTTY5V1l6MTdPZk0tdmhLOF9VbGxKVmRSOV92dWVzcEZLeThfM0Rmdll4ZHVIMVZQSUdab1Z3ZHBZZ2dXNXM1dg?oc=5"
-      ]
-    },
-    {
-      "title": "NPCI says merchants cannot pass UPI charges to customers",
-      "score": 23.16,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjBzYXRxbDRnS1Fxel9CSkE1cDhJcVdPSDhKT2o3VUdVc2ppZW1kLVREVk04Z0EtclV1UUpuR2p2a3FKVE9pQ3EwV0trQlFyeHpjSFNLQXAweU1oYmp3NmZmMk80dWVFWG9vVFRSVmZ0Q19qVTlCYTlXcFdRbjRHeFZINFBlMEJr?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3RUbjNUdVk5M2Z2dlpMY3hMbTc5ZnF4RjFlNWQ5R3ZJUTZGV3FsQWc2RzJMSE42MC1VejAtUHZXdHRNT0p5WWFsak1UNzFkT3FLMDNnemRWaEJQeGIyUUREbkNNcGV5RkVSdGpNZndFelotT2R1N1AxYlNIM0J2QTl3YjlSdVZ4amZ1UmNUWWxDZjJXb0RwdzNtY1hrbHB2X1Y3aEhESy1PLVVtc1JLMm5QbEpQdlp1VHFF0gHIAUFVX3lxTE1oWGlSQVlhQXB6S2lqdlQtSHY3S01HenFiVmhOSDRBWWtibFJITGdBZE02NTBqMlQ0RnpnZ0tWVllBb2FGbEZiMTlVNDBxQ0pUZVlZSl9ZME9rUGduV0ExQmRKRDZpTGlKOWcyLWJHaGxjX21Beko0eS10U0ljOC16Q3pMbXRXVkNhZkczSVM5N2VQZllHeV9CeVM1THcwWDRtRmhEeUxocXFMQXBPN195YkJMX2dZTUgzaHRybnVkcWJHX1d3Y1BV?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV1NxdlF1MlpCVVp6R1l0V1lEQ04zWkF6c3hudjQ5V3N4UFBBX2xTQUhQbEF4ZTdnUE4xSXNzT0VYMmdUYVZpM2lvZG80UUFSalIwOXVvUnhCN3BhNXdITjFyWVBxM3VNZElqVTVPNlVrVDNJNGdwRlFra0pYTXVRcExvMVZsOF82R3BTSnlSOHQzdF94RGNkRGZQdHlCYWJiNlNxS0dzWnFOMWQzTm1rVUxkQ0RNTF9BLWloVWttNFNGN2lCcFhZN0s0bDc3bDh0Mk9VNGVaZjNreWhhSnQzd1lNSGY1QUlJejZ4TklYT3bSAfABQVVfeXFMTldTcXZRdTJaQlVaekdZdFdZRENOM1pBenN4bnY0OVdzeFBQQV9sU0FIUGxBeGU3Z1BOMUlzc09FWDJnVGFWaTNpb2RvNFFBUmpSMDl1b1J4QjdwYTV3SE4xcllQcTN1TWRJalU1TzZVa1QzSTRncEZRa2tKWE11UXBMbzFWbDhfNkdwU0p5Ujh0M3RfeERjZERmUHR5QmFiYjZTcUtHc1pxTjFkM05ta1VMZENETUxfQS1paFVrbTRTRjdpQnBYWTdLNGw3N2w4dDJPVTRlWmYza3loYUp0M3dZTUhmNUFJSXo2eE5JWE92?oc=5"
-      ]
-    },
-    {
       "title": "India Aims to Become Global AI Application Capital, Says Ashwini Vaishnaw",
-      "score": 21.8,
+      "score": 23.56,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -59,35 +18,82 @@
       ]
     },
     {
-      "title": "Australian universities are creating AI-native graduates",
-      "score": 22.46,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZEJVMEZnT3BuWUZaN0JTVXhiUTRaclVqc28zQ0k5TXJ4eEU1azgxMmhnWVZnQVpsVUk0RnBEZWFaRHVtMzVqUzVMbHJHTTZjWnpHd25rdmJxZU1ieDFaT3d6UUdwNUJkWmFuSU05djJBdEdqTXVaZA?oc=5",
-        "https://openai.com/index/australian-universities-ai-native-graduates"
-      ]
-    },
-    {
       "title": "Franklin Templeton uses OpenAI to support investment research",
-      "score": 22.41,
+      "score": 24.16,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hOXNGUVZGVEEzMF9uRVd4X0kxcVNXT0ZQNjA3WnhVTGhwMjg3TC1WTkFZVTJrdExhOXN2TkRsalJsVUU2Z0FGZXR2Y2pCcVNWZE5CeGZQMA?oc=5",
-        "https://openai.com/index/franklin-templeton"
+        "https://openai.com/index/franklin-templeton",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hOXNGUVZGVEEzMF9uRVd4X0kxcVNXT0ZQNjA3WnhVTGhwMjg3TC1WTkFZVTJrdExhOXN2TkRsalJsVUU2Z0FGZXR2Y2pCcVNWZE5CeGZQMA?oc=5"
+      ]
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "score": 23.66,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
+        "https://openai.com/index/merge-builds-with-openai",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5"
+      ]
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "score": 24.21,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZEJVMEZnT3BuWUZaN0JTVXhiUTRaclVqc28zQ0k5TXJ4eEU1azgxMmhnWVZnQVpsVUk0RnBEZWFaRHVtMzVqUzVMbHJHTTZjWnpHd25rdmJxZU1ieDFaT3d6UUdwNUJkWmFuSU05djJBdEdqTXVaZA?oc=5",
+        "https://openai.com/index/australian-universities-ai-native-graduates",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZEJVMEZnT3BuWUZaN0JTVXhiUTRaclVqc28zQ0k5TXJ4eEU1azgxMmhnWVZnQVpsVUk0RnBEZWFaRHVtMzVqUzVMbHJHTTZjWnpHd25rdmJxZU1ieDFaT3d6UUdwNUJkWmFuSU05djJBdEdqTXVaZA?oc=5"
+      ]
+    },
+    {
+      "title": "NPCI says merchants cannot pass UPI charges to customers",
+      "score": 22.91,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjBzYXRxbDRnS1Fxel9CSkE1cDhJcVdPSDhKT2o3VUdVc2ppZW1kLVREVk04Z0EtclV1UUpuR2p2a3FKVE9pQ3EwV0trQlFyeHpjSFNLQXAweU1oYmp3NmZmMk80dWVFWG9vVFRSVmZ0Q19qVTlCYTlXcFdRbjRHeFZINFBlMEJr?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3RUbjNUdVk5M2Z2dlpMY3hMbTc5ZnF4RjFlNWQ5R3ZJUTZGV3FsQWc2RzJMSE42MC1VejAtUHZXdHRNT0p5WWFsak1UNzFkT3FLMDNnemRWaEJQeGIyUUREbkNNcGV5RkVSdGpNZndFelotT2R1N1AxYlNIM0J2QTl3YjlSdVZ4amZ1UmNUWWxDZjJXb0RwdzNtY1hrbHB2X1Y3aEhESy1PLVVtc1JLMm5QbEpQdlp1VHFF0gHIAUFVX3lxTE1oWGlSQVlhQXB6S2lqdlQtSHY3S01HenFiVmhOSDRBWWtibFJITGdBZE02NTBqMlQ0RnpnZ0tWVllBb2FGbEZiMTlVNDBxQ0pUZVlZSl9ZME9rUGduV0ExQmRKRDZpTGlKOWcyLWJHaGxjX21Beko0eS10U0ljOC16Q3pMbXRXVkNhZkczSVM5N2VQZllHeV9CeVM1THcwWDRtRmhEeUxocXFMQXBPN195YkJMX2dZTUgzaHRybnVkcWJHX1d3Y1BV?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVktDaGY0YjZqaUVGcnJ5X3UtOGtzV0xMM1htVkUyWndILXJPRXlCQS1Tb2UwazVhUG1qMXJKdGtoa29rZlMtQjc0SlozcG9xVXRpdzNfc3lSOXJsUTEycXQ2RmZBUkxNd19waENYYjRkMlAyXzZlLWFEX0FnUUtRcWRTZ2RYelhvaHB2blE4eWtCNklBTzhrOU1MS3IxVjktMEF4aXJ6YnhQZ0xBeU4wVWxqTjY1UEZIWDFR0gG-AUFVX3lxTE01UlpWTHAyZl9odlNBVWtiOHVFMmh1TUd2ZXhxa2xBTXJaVVM4TE81cTQxQ3lEaHJ4Ry0tWHFrdWRqaVBNUUJUMVo1bWJBTHNFZ3Y5YlVBcUpTbl9NVmkydUhkZnNObGdvZEFxNHlnaHRfNGxNZ0x1NkE4WEpwck5MUno0MWZKMFIwSEhjM21YX1lKVTlOS3VLS2oxaE1ucjNUYlBHSEprZVNLRFJ2aG9mOGloTVRUU3ZvTDMybFE?oc=5"
+      ]
+    },
+    {
+      "title": "Google plans $17 billion Wyoming data centre for AI",
+      "score": 19.86,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2RUUGl5Vko3bWFOM296a3VIUjFvZGZTOHctZ09rQmJKbDlsbGM0bzJLNWh5Yjg2UzJkVkQ0MTVmTDA0TnlKVkhob1hud1N5RFRzeXpJckNYUjlPU1dSRVZmSmF3Z0psaExHNlZRLU90d2xjVHBpX3JjT0MyZ0ZwNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNE5vYk93My1HQWkxYWlZSjRFc3RpUEdjR3NueFFkZVVFU2ZJbFlpU2NKYXJ2NkJDQ1A3c09QZHVqUFZWWk8tWkpYekZZemZ0U2FKX0VzdklFSUwxQjYyNU5wa3BGOENpSWVkYWNLaUZrSENESG1TS1FMbEJLbTFyMWFOYzVYak0tV2ZRXzY3aE1sTzJMQjJRN3VqdzRhS3liTGZ4ZF9kb0twdTBYYlFXWl90aDBHVnNOUXh2M2JDVzBkWjVESzlOMzBjaG5qVWhPNUhrYi1uMEJYeXptSmtQTmZzeXlsdG1ELWFxeU1GU21acmRMZVE2MkRxanJsV1otMkwzM18yOFTSAdcBQVVfeXFMTnp6TDJQOUxKZTRHbHhNbVNRaVBLWDlMS25nVlhxUmI4a3dhdTJGNjJmYm8tbTJTLWxQWktUMERkS2ktdzhYZ3lsQ2VzX3UwTXMxU2l2LWFjeEhwSzhrT2g4WjRGd0NWMldyMWU3Wnczb3IyMFNqc3ZyUjh0UGhRWnN6ejhvUXdoM0lFSmEyLVF2enJPbVlOb2RoalZMVm5OMzRtVWE5OVJ0SjhpYnRGN3VnbVducndJVU5lV0pzZjJNRzV4bUNlTUpJM1VDRk0xQXVYd29DSEU?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNE1UblF4V2JrTFJGbnZvOWxFaURSZ3d6Y1VFRjcwWHVCcXlMQm94STFoeF95ekVHclBNbWtURXppSW1iV2NpWVFJNXdwZlU5MFd2UjlOWEhubnIyX2t5N1hhUU12MWh1QVJHZDljSjdOQk5EMHZNeWRMQ2tWUGhqdFpqR1JmMTBoUjdtZFpSSlFWU3FpaElDQV9mUzB5RWtSdnRQVmF3QTF5Zw?oc=5"
       ]
     },
     {
       "title": "Fintech startup OneStack raises Rs 12.5 crore from Shepherd's Hill to bring cooperative banks onto UPI",
-      "score": 20.65,
+      "score": 22.4,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -98,21 +104,33 @@
       ]
     },
     {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "score": 21.91,
+      "title": "India Warns of AI-Powered Attacks on Crypto Exchanges",
+      "score": 19.97,
       "kinds": [
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
-        "https://openai.com/index/merge-builds-with-openai"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wUU41VnBwUGl3Y2F5M3pJNlFtNVFjMFBtSjU0UDRhX19JVWlsdVNnemFyS2Y2OWR4Mi1ESTVZUm1HQW93MW85SURKek50NGRLSnQzQnB1RDQ0cC1fdE9Hc0R2ZzJJNmxySFZ4a0ZCOVVHbHEyUlE?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDBGdGoyVzNmOVhHWFhOazBUSGZ2VDlpcEVJdnN6YVY0S0tVUGw3VHVXSDNzN1NwQUdKUzhCcWUwV2ZjV2U2NG81UExEQXJ0VUZPXy04WVVRMER3OEVkZExoQWtoVzB4YmVXQlFyTmg5ZjRPZERlUkx4dzZyQ2c5QUlJYkFFQQ?oc=5"
+      ]
+    },
+    {
+      "title": "Motorola Signature 27 Launched Globally With Snapdragon 8 Elite Extreme and 12,000-Nit Tandem OLED",
+      "score": 19.61,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUVDcXI0djRoTzVVeUlPVkU2UTh3X1l3OEVheGlhMi1xV1puUU5VWG5fZVczYlh4cUs0ZFhMRkVCTDM4VmtEQWVqWmZCTkY2cUR6RG1HVUdmZEIwRTg2RTdoUWYxUlM1eFF2STlWc1N5TTF3UTUzODhGYVFHcXFmcGRpT19qUWJKcFBRMDZCSGg5Q2Y0cXZienkwTdIBoAFBVV95cUxPeXZlazFWRlA3YTZ6cXBpNmdpcnhSNWk2T08xc2o2LWdDZFZ3NWpOZnF0WDIwYTg4X0JyNEdZSWRLMWNMSUNJeGJoNXY2QUd2dEVQVXA5b0d6eDhrd2tIODFuVnRWbzFZWFJVZGVUellKY2M5MVB1UDVrUEgxempIVlJtTU02dVZDeGVJTG1SQ0NPXy1OaGoydHZUbDVpSlpv?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01scUx5dUpKTmZSZ28tV2R1cC0tZnNJZHhpMm5DUUF6VXd3Mll6RVI5SlZadjJPTEtMSC1nUjFqcHF1ZkpORnFKRDNwNGtFZkRnQjBLb294SnFoaWo0WExpSHF2NHB0dGc4U2kzYU5NOFREd05CTWZsOXQ2enE3Qw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkx1ZHJPYjc4X2JjV1VPa3l0SDl2MnJwa0llVElWb09FU2pKMzNyQ2R2SjBmYmdwd3dHVDBEWW1hLWtaUldDZ0J5MnRxRTJJakFnRUc0RnFBV3dGMTNwcG5tT2Y2elJpZEhMaUVra04wUG9fcGQ3anp1clVjQlRYblNfdHdqX182Nng4TXlVSlY5dHhtOG1RMDFtdXRCcEU2TjZMUThScDRNaENSZFBEaVZRMGM0WkNXZloxU2FuTVRJRkh6cG5KUVlsWWNFdlZFaTVhdkM0OUZ0Zkhsc1lCSzRLQWw?oc=5"
       ]
     },
     {
       "title": "Vivo X500 Series and Watch GT 2 Teased in India; Launch Expected Soon",
-      "score": 24.57,
+      "score": 22.32,
       "kinds": [
         "backlog",
         "news"
@@ -125,22 +143,8 @@
       ]
     },
     {
-      "title": "Vivo X500 Series Microsites Now Live on Amazon and Flipkart Ahead of India Launch",
-      "score": 23.36,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXBVT2MxWmRLb19FNDVER1JPZHNBaXFUM3dxRXdSYWx5Tkh2bXJkV0JnLWIwMjlKOGZIakFOcjhHOFh1VHNpOGdOb2dHNTMwQjctLVVUdmd4Rk9yOHF1WTBHUDhpcXdFc3JSdmU5c09VbFRVdE9oQ0ZPbV8zUEpQNFJGUFVhREhTV0p5VzZ2eDlCRUZUeFJqYTZjcHJ2Y1UwTUFTT2JmSkR1Q1NyYlA5OUd3?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2NJdWxtUUVyYmV3WmEyYW4zT0FxZTktZDI1dTVucThiSDFqOWgwNXNzeTk0bnJ4dFZ2Z2IyMFhzWHVYUGFtTklEM09KYWlMYzZQVjM0bXBJeHRPQ0djTlB0UVhhaV9sekxTZjJpTnFWaFR0enh6VWtXbnBfNTBINy0zZGtub1pac1NqcnJNaUMxZXlodUJSQlFQQzF2TUhGU0NWNGR4VWJwY1lNT1hpdEpWem5DNXR2?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM05oZFE1a0l2bkoxanlGTmszRHRzaHFJUlhCc0oyR0E2Z1NuNEx5M1JBNzFyMkJkTTRRMmMxcm1IRk5rbTBlS0ZUaVJ4RWxxdFViM0JSejN3d1pSczJuVmcteDJEQnotX2JWUWdHQmFyMmk3Ylg0aDBnZk05Vy1SODlsbmtNd9IBiwFBVV95cUxNSlFrTjlCSVVSbXlfRTJzSnF6T1Z3dTBHQkdTTUR3YzNKLXRCMHpTTGRsNTNFZ24tYVNsNHhDNk92WEswU1JrU01QTDRfbmhpenlkVkZDSFVIT2xhYjFOMXhZcXVNODFjSHVyZXRQb3pMOE1uVzhlX20zN0c4UFdsaVJucUFleGJpcGU4?oc=5"
-      ]
-    },
-    {
       "title": "Flipsnack grows product signups with conversion optimization",
-      "score": 22.12,
+      "score": 21.87,
       "kinds": [
         "news",
         "official"
@@ -153,7 +157,7 @@
     },
     {
       "title": "Responsible use of artificial intelligence",
-      "score": 21.26,
+      "score": 21.02,
       "kinds": [
         "news"
       ],
