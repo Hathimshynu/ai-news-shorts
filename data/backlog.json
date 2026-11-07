@@ -1,14 +1,14 @@
 [
   {
-    "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
-    "link": "https://github.com/Sandflow-ai/sand3d",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "3D modeling in Python, built for LLMs.",
+    "title": "Copilot code review: API management and review overview updates",
+    "link": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot&#8217;s review overview comment is now more compact,&#8230; \n The post  Copilot code review: API management and review overview updates  appeared first on  The GitHub Blog . ",
     "country": "GLOBAL",
-    "published": "2026-11-03T08:23:03+00:00",
-    "engagement": 929,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
+    "published": "2026-11-07T00:27:19+00:00",
+    "engagement": 0,
+    "saved": "2026-11-07T17:07:47.915610+00:00"
   },
   {
     "title": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar",
@@ -19,29 +19,18 @@
     "country": "IN",
     "published": "2026-11-07T09:00:51+00:00",
     "engagement": 0,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
+    "saved": "2026-11-07T17:07:47.915610+00:00"
   },
   {
-    "title": "Copilot code review: API management and review overview updates",
-    "link": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot&#8217;s review overview comment is now more compact,&#8230; \n The post  Copilot code review: API management and review overview updates  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-11-07T00:27:19+00:00",
+    "title": "OpenAI Raises $11 Billion at $1.25 Trillion Valuation as AI Investment Sentiment Cools",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZCa2xWNDJ3eVFfY1hqdUowSXJzYXNXcGJrTDdRNEwzNXhObmtrV0RHbE9xWFNOS2dsNDdnSi0tS0RzQzdRaE1vYVV3STBsMUJ5NDd1NmJPZ2xZcFVKZ3luYk1INnBZRXhCd3B5RFpIdlJEcXYtbDNaOTU2bUliOG5LNnZIU3BTRml2eVVJbWMtLXRQbEVpbHUwWUtFZEFZRlhoVg?oc=5",
+    "source": "https://ascendants.in/",
+    "kind": "news",
+    "summary": " OpenAI Raises $11 Billion at $1.25 Trillion Valuation as AI Investment Sentiment Cools &nbsp;&nbsp; https://ascendants.in/ ",
+    "country": "IN",
+    "published": "2026-11-07T08:51:07+00:00",
     "engagement": 0,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
-  },
-  {
-    "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "link": "https://github.com/KKKKhazix/agent-autoloop",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "country": "GLOBAL",
-    "published": "2026-11-03T08:02:11+00:00",
-    "engagement": 3867,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
+    "saved": "2026-11-07T17:07:47.915610+00:00"
   },
   {
     "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
@@ -52,7 +41,18 @@
     "country": "IN",
     "published": "2026-11-07T09:41:44+00:00",
     "engagement": 0,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
+    "saved": "2026-11-07T17:07:47.915610+00:00"
+  },
+  {
+    "title": "BEST UPI Ticketing Moves Ahead to End Mumbai Bus Change Hassles",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkxGRldxUlAwQzFFbEhvS2pITVBIc0NRUl8xSVN3dk9UMDJacTNHcDF6OWV1bjZucWVvMUZOazNxbklYQ3NqMEtySnhYcUluWlVpQ3YxSnZMTzc3UVlKT0NCV3p0VXY2UlVnc0l5X21Vc19LZ0xEWTJHZXBWN2JSWDI3Zlc2bUJzVTNVY0E2cw?oc=5",
+    "source": "Urban Acres",
+    "kind": "news",
+    "summary": " BEST UPI Ticketing Moves Ahead to End Mumbai Bus Change Hassles &nbsp;&nbsp; Urban Acres ",
+    "country": "IN",
+    "published": "2026-11-07T16:20:13+00:00",
+    "engagement": 0,
+    "saved": "2026-11-07T17:07:47.915610+00:00"
   },
   {
     "title": "Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages",
@@ -61,19 +61,19 @@
     "kind": "news",
     "summary": " Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages &nbsp;&nbsp; TradingView ",
     "country": "IN",
-    "published": "2026-11-07T07:49:26+00:00",
+    "published": "2026-11-07T07:49:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
+    "saved": "2026-11-07T17:07:47.915610+00:00"
   },
   {
-    "title": "OnePlus 16 India Launch Back in Focus: Price Could Reach ₹1.40 Lakh",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVElWaHhrbWJiZkM4T05iOWV3VG5BWUlDWTRhX2tNWXVDaThGeGo5bmVBY2Y2dDY2S1NkWHZhUlFzUnhvX2MzSURDQ1o3V2ZvMk9aQ0NCTVBXTnFoQk51SGItclVPZ3FURjdobEw4NVlDNUFXR1VhT3BsSGsyVDk5R0VzbTdPWFZuc1NCSFZYSTJqaGFhdUdUWWVpTVU?oc=5",
-    "source": "UdaipurTimes.com",
-    "kind": "news",
-    "summary": " OnePlus 16 India Launch Back in Focus: Price Could Reach ₹1.40 Lakh &nbsp;&nbsp; UdaipurTimes.com ",
-    "country": "IN",
-    "published": "2026-11-07T05:49:09+00:00",
-    "engagement": 0,
-    "saved": "2026-11-07T12:36:00.867378+00:00"
+    "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "link": "https://github.com/KKKKhazix/agent-autoloop",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "country": "GLOBAL",
+    "published": "2026-11-03T08:02:11+00:00",
+    "engagement": 3924,
+    "saved": "2026-11-07T17:07:47.915610+00:00"
   }
 ]

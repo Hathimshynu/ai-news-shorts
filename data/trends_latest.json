@@ -1,50 +1,8 @@
 {
-  "job_id": "2026-11-07-evening-1801",
-  "chosen": "OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report",
-  "reason": "OpenAI securing massive new funding at a landmark valuation signals the unprecedented scale and future trajectory of the AI industry.",
+  "job_id": "2026-11-07-evening-2228",
+  "chosen": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+  "reason": "It introduces a novel open-source Python library built specifically for LLMs to create and manipulate 3D models programmatically.",
   "candidates": [
-    {
-      "title": "OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report",
-      "score": 27.45,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXl2OWY2ZWYtYmVna0o0dEtfd29hWHJVZFRYbDdFVHZaOGVQNHhQYWdzcU0zMUVnVW9LSmNVOW5ya3dZY0lJSDZDSkF6TUJvTUh0QTR0d1VGM0s1VlJTOXZEZmk5NWVpb0xCTEJ2ajllTzNJRHh1MzVydldjVTVpUWVlVDJvY2hER3hhRXhyeTE4T0hSZXBYdVRxcVhZa25udFA3MkkzcEVJVmtTcW95M0FjV3hRLVMwb1pvNE9VNDVhQjdlYmNjRw?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGFGZjlvMTl1V0dCcWVmZlRZcnBlLWJZMjVjUTJVU2NnU1lGdHhNcC0yR2xKZjF1NGlrT1JhLTYzS3NuRXFNRUR0RllCWXRwcFNFRXE1TjFYQVhESHItNk9wTF9PUnVfSHJBbUZ3b2ZoUWdWTEFDOGFOM3NZWG12LTJ1ODctc1QzLWxnbk42TTNid0tqZ3JPUzBPUnBXa3pVeVJvYlFHMUt5cnFfSHhXcHhCSzV5cG56ZVp4WUVVaVBVMHc00gHKAUFVX3lxTE50dU1GTk5aX3Q0Q01fZXpwME9GcW1jOUhMS1BXV0NyVlg4RjVETkFXY0RldUJ5V1RFSmtCSnRnOWt3Mk5TVEIyUmlsRDNybXczZlNmOThicTdGV2RVcTZhN1BYQ0luOTY1ZlYtSGdjeVBsQ2lUX2FvelNDRW51eVZEakh5c0ZBRGJpMHFEcWMyT2ZseERXYWFWS25jZmt2VHlSQTNESHdMUDdFSF9pWUZFRm5ZYm90X0lIclJlM3VTSXJ5ZGRNRlFfdUE?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXl2OWY2ZWYtYmVna0o0dEtfd29hWHJVZFRYbDdFVHZaOGVQNHhQYWdzcU0zMUVnVW9LSmNVOW5ya3dZY0lJSDZDSkF6TUJvTUh0QTR0d1VGM0s1VlJTOXZEZmk5NWVpb0xCTEJ2ajllTzNJRHh1MzVydldjVTVpUWVlVDJvY2hER3hhRXhyeTE4T0hSZXBYdVRxcVhZa25udFA3MkkzcEVJVmtTcW95M0FjV3hRLVMwb1pvNE9VNDVhQjdlYmNjRw?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
-      "score": 27.23,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWFRSEJpZklOS3BUS3ZQeXlra3k1dmFmcUkwdGNxemFQUVhTa1NnbEhNdVc5OEdvX2phY2x6bWhuRlQzMHB5RlJ6czYxMEVHQ2xrLW9TX1FYUE1sanFxRTZMRkZTOFZwRlRKcVVtWmZXTk5QYXFYTkhfeDFSeXlCc2NHVlE5azUyVGF0VDhOcUdCTjJVVWFsb3FBdWF4dVhuSlFDYS1pc19Idmhm?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "score": 21.08,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzVwenhwOUEyaGxYMTR0NkE2LXQxZk9PcklwNTlwX3h1SjhUbEgtSkRleWxwUXluYzdlTE5fN29oV0liWkxtMVB1ck9Welkxekx0anBGSjJIOHV2UGNnNTVUbXVFV1JjckRxVGk3c05QdXhFV2Vhdl81T0RKb0ZycTl3RU9YdXVRRGljdWZjb254dlBRb3U5dnZoSlpTUy1SRXNib1JFNjBrTHZpdkktbTJpTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUV9lSHpxclc3eVFlVC0xZWtfY1JVWnVwcFF3NzlwZFlpMlhnWVJhY0F5SU5tR2pBWUdkQ1Y1LUpidHVvd090dElXM0dLMmQzUmE1NkhJM2FVQ091dWN3bTVndndQT0I5Qy1YSVkxYy02UTU4N3BpQXd0SDFZU3RpbWhTc3hqcGVqOUZXZ1FySGwweXFNRlhRbEpCZ3VSUERE?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU2k5RWdkbWxTUG8tcUtIc2dLRHZuX3NoU3FRR3RsYWx6c20yMFpWRVFjOTM0b0c0dTVHaVRJa2xfbk1SR3FjOGdRTUM4LWJ0UENYQ2IxbE9lTl83TTlsN0dMa2V0MXREMzRwcWtlYkt4MklIa2FuTzBlZ3Y2TGctQm16VFBzS0lDWHJoMXhfWDFnTkNxcUZBdldhUlg5SkxOd0pYVURJdU54N0RacWtRSU9mMnQ4UkttTm9hWm5idWRFbWExaWhuQlpEVEFaeDYtQ2VQZ05Rbk40UkFkLUJTdzQ2TWJLdkRLLS1kdlZn0gHzAUFVX3lxTE1LOXRZQzY4eDZQY21peUxQbDE0MmkxaXp4YmdxZk1kV21TRzNNaUlhNW9lSEhreDJyWGlPdll0UDR0MFBDOUpFckE4VXZUR2Zwc1ZnNEJaaVJ3YWVLOFFKN0hiRDE4ZlVYcmxISFJsMHg3dGprc0xnaXZza0ZRMXhfb1hiTW5KMWJkeW95akpxOGlkX3dnSEMwVy1OWHdLYXZ3WjNtR1N5OHM0NGxFZmlvV09rS0FQcmctTXdPaHl0Qm1yRUJrdDVxWldMVlV1X1Y5SHJrcUJQQ3NIODRVTnZ2RHZ2YVRmSFo3M0FDTXRxczVOZw?oc=5"
-      ]
-    },
     {
       "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
       "score": 18.0,
@@ -57,8 +15,21 @@
       ]
     },
     {
+      "title": "Copilot code review: API management and review overview updates",
+      "score": 18.87,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+        "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+      ]
+    },
+    {
       "title": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar",
-      "score": 21.12,
+      "score": 20.01,
       "kinds": [
         "backlog",
         "news"
@@ -71,14 +42,57 @@
       ]
     },
     {
-      "title": "Copilot code review: API management and review overview updates",
-      "score": 17.98,
+      "title": "OpenAI Raises $11 Billion at $1.25 Trillion Valuation as AI Investment Sentiment Cools",
+      "score": 33.28,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZCa2xWNDJ3eVFfY1hqdUowSXJzYXNXcGJrTDdRNEwzNXhObmtrV0RHbE9xWFNOS2dsNDdnSi0tS0RzQzdRaE1vYVV3STBsMUJ5NDd1NmJPZ2xZcFVKZ3luYk1INnBZRXhCd3B5RFpIdlJEcXYtbDNaOTU2bUliOG5LNnZIU3BTRml2eVVJbWMtLXRQbEVpbHUwWUtFZEFZRlhoVg?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemRIQV9OZlpBSGtKcURsMnNJR3FxMmV5MkhDT3FENW9IQzlzQkppM3lHV2hKemNHMzNfRUx1aURpV2VTdDlsa05xNlJ5WkwxM29Uc09vVlpYYW1sSUFEVXJ1QWdabDR2SU5JRC1HVVBBRmxWZHBxbTZwMWZIeWgxYnlVT2hwRjVtRzJwSy1qLWxXWUhQMjZKeHduNjlkWktOYmRCc09B?oc=5"
+      ]
+    },
+    {
+      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
+      "score": 20.18,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1FlanNyY2JraWxNcE5oNk9SVk83N1dndmFyalVDamd2VExoMTk1ZUYtRnFmVWprNDhPX2FPYlZodlB6bE5xZ255NEZzVmg0T0lxc01EdDN0Y3JWT2hMaHVfNC1FSzlIMGVlNE1BdjJGV2tIYXpTS0xwckpnSHA5dzZfNVhlOXhyNWdDWklpMU5LUEM0MENoRXVDdFdrdVMzaGVDYnZWNEJ0SmV5RkEzQXU1TkhlYnFaWUFhTTEyUUNpaGl0d3JJNTVzMlprUjBWeHd3eVFBNFpIWG5vNGhj0gHmAUFVX3lxTE16R1lQSDIxVjl4aVdzYldFU0phVVJkTmZwZkNwVXM5STF2VEI0bTRPc1V3NzUtQ0E1SDQ1QlJsUHJLSU0yUnl3ZjlDUHNEVVlWY1JNUy1ZTkxpVXpVR0JDYlRjMTBZRlh4ZzNpVHVLUEI3TGJKdFhFVm5sOFJBcGJNZE9wRjBIWU9LSHpEU1pMZjg4MGtBUVFYbVpkYWJxZ2pJSURhdUppQXZ1TERVUkZtVXNDNmZiUC1kc1l4UzRDdXliUkg3TzczTzAwOUd1Uk1LNmo3Ry1JblE3OGt3Mkh2TXpvTi1n?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5"
+      ]
+    },
+    {
+      "title": "BEST UPI Ticketing Moves Ahead to End Mumbai Bus Change Hassles",
+      "score": 19.84,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkxGRldxUlAwQzFFbEhvS2pITVBIc0NRUl8xSVN3dk9UMDJacTNHcDF6OWV1bjZucWVvMUZOazNxbklYQ3NqMEtySnhYcUluWlVpQ3YxSnZMTzc3UVlKT0NCV3p0VXY2UlVnc0l5X21Vc19LZ0xEWTJHZXBWN2JSWDI3Zlc2bUJzVTNVY0E2cw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm0yd0JMd1hjUzFFd0wtQmR6Y0xqODJpZXI5Q2Rnazl6NDVOYlJ6SlBnTnp4MHU5MmllUl94cWxVQXItejk0STdWTVM3U09QWXdra1gwRGRBVEFpY0NIMnVUeFFwc0ZEWEFUMFJ6bHdqU0lkTXN5Z3k1M2U4aU50TVVjUGNleEIxSHNjVFpHT1RkSmJwRDhhY2taanJ2RC1QUVpkVXBLRXlPalRCR2EwSmtFcDhYamdVODhmTldLUkjSAcYBQVVfeXFMTXNhMzlvSUxlQ0tqT3Yxc2hoWTdFYVJRMVpTMTNCWkllNzhreTJkaVlZRjJueGRCU3VJNk8xd2I3a1d3UlZmX3l0bkZzWk53NFFrLVdjdjd2TVFhNXRTeENtRlU4WFJuV1NySzFVSFk4aS1hQWJ1RHl4SjJVLXZDTURXVE94Z1ZzaXBORGlhRld1YTNTYjhDUmNiUmxmQ0JLUDFpVTFkMngtSkpySVBpOUpUc0k5MkN4eVJ5OEJTRVd3N19kbTlB?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcElaRW8xNlRjalZDdHhVLVlmSGF1UVVRMUR2NVRJeW5RNW1jRjQ4cWw5OGJsaElXTXZzR3psTDd0YUtzMV9nbHpKeFVXb1c0NkFTWGFTWU5kNFBzV2tQSWI4eVE4S19HSl90QnBIN0tHdkE1WDdQNEpseFl6QzNYSHdNQQ?oc=5"
+      ]
+    },
+    {
+      "title": "Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages",
+      "score": 19.71,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWpNRVZ6RlN4RW1KRXN3SmNSVXhnclpYRmkxOVh4dWN3ek5WNkpsUndmVllMS3ZCV20xc1YtTWh6MmlUSy1KWjg1MnFCMkl4cXhqeHVTV0lpc1lqc1VRS3ZyeHVIcjQ2aGJFbWZ5TUZLV2x3NUxaZTRKTExxSWxaWGlXVEpNSm9XelNWa1FsUUVoQ1NkSmxqWHh6Vm9Mc241QklDYXhsWTJrNzhXV19HTXl3Ynd1amNUWC11b2doZFJxblc5UmVCRE9NNWYtM25pS1NOdW11cERqS285?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGZiVVFPajEzZ2RVR0Q1YzI5Tk1OMS1SdDV5VFN4dXhIdThJVlRqOFBMc3VGNmRtNUVsdm04UWdmNVktbXZoWHNSX0x4Uno1TG5GaHVMNmNXWjIxdXVmZ1dvbFB0UU5QN01pZGIyZXYyMW5rV1o5NzFvc1JaU3FSc0k1R0k3RlY4d29vRWpLdnQ4R21BMGVGQW54eGpEUUJhODZZa2NicUVNclBZZ2xnN1l3bldXT2hK0gG-AUFVX3lxTE1PZW85dXhCR19CU0ZDbmVRRTF3Vkdva1RMNVVKSGo1UUpZWGdzalctZEplNTJhZW9ITDJGLW80UnU3NVpSVzdGek52UzJEZ0FXMHVoYmtXaGdYRFo3WlpseGYwbzVJZHE3MHJucTFpaDRsS01Ody1yb0YwVEJjd0c0VUNObVg5eTUzM1JvRkdqQ2hjOFdtV2lsaS1yb2E2X2k0ZmUtTDlXOFFJVEVYR2lKb0hoT0lvSl9hbGtUSGc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWpNRVZ6RlN4RW1KRXN3SmNSVXhnclpYRmkxOVh4dWN3ek5WNkpsUndmVllMS3ZCV20xc1YtTWh6MmlUSy1KWjg1MnFCMkl4cXhqeHVTV0lpc1lqc1VRS3ZyeHVIcjQ2aGJFbWZ5TUZLV2x3NUxaZTRKTExxSWxaWGlXVEpNSm9XelNWa1FsUUVoQ1NkSmxqWHh6Vm9Mc241QklDYXhsWTJrNzhXV19HTXl3Ynd1amNUWC11b2doZFJxblc5UmVCRE9NNWYtM25pS1NOdW11cERqS285?oc=5"
       ]
     },
     {
@@ -93,46 +107,34 @@
       ]
     },
     {
-      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
-      "score": 21.29,
+      "title": "Artificial intelligence and law: uses and risks",
+      "score": 21.1,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1FlanNyY2JraWxNcE5oNk9SVk83N1dndmFyalVDamd2VExoMTk1ZUYtRnFmVWprNDhPX2FPYlZodlB6bE5xZ255NEZzVmg0T0lxc01EdDN0Y3JWT2hMaHVfNC1FSzlIMGVlNE1BdjJGV2tIYXpTS0xwckpnSHA5dzZfNVhlOXhyNWdDWklpMU5LUEM0MENoRXVDdFdrdVMzaGVDYnZWNEJ0SmV5RkEzQXU1TkhlYnFaWUFhTTEyUUNpaGl0d3JJNTVzMlprUjBWeHd3eVFBNFpIWG5vNGhj0gHmAUFVX3lxTE16R1lQSDIxVjl4aVdzYldFU0phVVJkTmZwZkNwVXM5STF2VEI0bTRPc1V3NzUtQ0E1SDQ1QlJsUHJLSU0yUnl3ZjlDUHNEVVlWY1JNUy1ZTkxpVXpVR0JDYlRjMTBZRlh4ZzNpVHVLUEI3TGJKdFhFVm5sOFJBcGJNZE9wRjBIWU9LSHpEU1pMZjg4MGtBUVFYbVpkYWJxZ2pJSURhdUppQXZ1TERVUkZtVXNDNmZiUC1kc1l4UzRDdXliUkg3TzczTzAwOUd1Uk1LNmo3Ry1JblE3OGt3Mkh2TXpvTi1n?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5"
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zQ0hYSzQ1V0VESUFhOXAtN3hsa1dDY2JETDVYcUxjbXdPZjBNWmNXT1dlbWFIXzhrYVRhamt0Q2NZeHlWM1NHX0N3VkY0OU11dEF3VDVJV2xEek80UWxqejd0NWZjRWZXakQwdQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcks0MXotNTZjNXFmUTRSd2h0WTM3MHR1VDlBa1JtdDRqcWlCMkduaWFTS2p0MzdrZ05YOXBZVEZPT3EzUm41SE43WVVZNEFfSVpaUDNxY1FOc3FpME04S2gwSWpJMHVGTl9HZnU4bXBCM0RqVVlWWmg0NnN4X2hKN0otSmpkb1p6LXE1TnlpVWo4R1Yzb3dOMFpPT2hXa3lOSWpFa2tmQkdhbjRPY1h0czF4enJrWDZxZTJRODJR?oc=5",
+        "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZ0dHZTZfbjcwVXNNMVVRLWY5dEFHWE1Ed1B6a1E5SzdsWDdiSFBUbXZoTnRVVVZSNGRlWEJQTVhHVUgtSC1kZzJ6Z2RtRms5YVpiVVhFaVhCREp6S2hxQk1EZUdzaHZ4MXUwUUJ2NDZCaVpjSDlpTU9WYjY5MVQ1NFM5ZmktQWYyZ3JLaGFYUlBoZC1jSmlPM0pnemRFaks0dnFDRFBLQzk3czI2OHhoRlpESklmZHlnVGQ5WDRsMVYyemZ1V2JWSEIydW5XQjNIbmw5cWpkaHFkUmdFR1QyLTlxaWNCeFJEblFMWnB5Z2FZQThrQ1ItdHZsdXBQTVlXR3dEQjl1ZGh1STdSX1FjQWl5SG0yTk12bHNQdlY4eTk4MkU?oc=5"
       ]
     },
     {
-      "title": "Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages",
-      "score": 18.82,
+      "title": "Musk: Production of Cybertruck to end in 2027",
+      "score": 20.92,
       "kinds": [
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWpNRVZ6RlN4RW1KRXN3SmNSVXhnclpYRmkxOVh4dWN3ek5WNkpsUndmVllMS3ZCV20xc1YtTWh6MmlUSy1KWjg1MnFCMkl4cXhqeHVTV0lpc1lqc1VRS3ZyeHVIcjQ2aGJFbWZ5TUZLV2x3NUxaZTRKTExxSWxaWGlXVEpNSm9XelNWa1FsUUVoQ1NkSmxqWHh6Vm9Mc241QklDYXhsWTJrNzhXV19HTXl3Ynd1amNUWC11b2doZFJxblc5UmVCRE9NNWYtM25pS1NOdW11cERqS285?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGZiVVFPajEzZ2RVR0Q1YzI5Tk1OMS1SdDV5VFN4dXhIdThJVlRqOFBMc3VGNmRtNUVsdm04UWdmNVktbXZoWHNSX0x4Uno1TG5GaHVMNmNXWjIxdXVmZ1dvbFB0UU5QN01pZGIyZXYyMW5rV1o5NzFvc1JaU3FSc0k1R0k3RlY4d29vRWpLdnQ4R21BMGVGQW54eGpEUUJhODZZa2NicUVNclBZZ2xnN1l3bldXT2hK0gG-AUFVX3lxTE1PZW85dXhCR19CU0ZDbmVRRTF3Vkdva1RMNVVKSGo1UUpZWGdzalctZEplNTJhZW9ITDJGLW80UnU3NVpSVzdGek52UzJEZ0FXMHVoYmtXaGdYRFo3WlpseGYwbzVJZHE3MHJucTFpaDRsS01Ody1yb0YwVEJjd0c0VUNObVg5eTUzM1JvRkdqQ2hjOFdtV2lsaS1yb2E2X2k0ZmUtTDlXOFFJVEVYR2lKb0hoT0lvSl9hbGtUSGc?oc=5"
-      ]
-    },
-    {
-      "title": "OnePlus 16 India Launch Back in Focus: Price Could Reach ₹1.40 Lakh",
-      "score": 18.32,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVElWaHhrbWJiZkM4T05iOWV3VG5BWUlDWTRhX2tNWXVDaThGeGo5bmVBY2Y2dDY2S1NkWHZhUlFzUnhvX2MzSURDQ1o3V2ZvMk9aQ0NCTVBXTnFoQk51SGItclVPZ3FURjdobEw4NVlDNUFXR1VhT3BsSGsyVDk5R0VzbTdPWFZuc1NCSFZYSTJqaGFhdUdUWWVpTVU?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3lTYTk5bmFoTDJ6LWw2cWF5bE50c3VaNFZIRjlFLWYweUFmWVoyZUdMb3M3eFJQNEZJcEVxWnNaRGFRcS05ZWVmMnVOWTZ5MjlYZWZ3WHpON1VTRFlua1JocEFhOU1DcHE4anRMQXpaZzNYOUQweHV2TmFXYXlhYV96TmQ0TDYzYks4cGhlRGplTkFUOTVlbVpmZC0?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC0wQnFhN1ZaUmo4S2FtWVowNnpYZGFGaFhYUDVHckNrU2F3TXphTDJiUVN2ek9nT2Y3dnRWY1pCc1VuX1RLLXg5bFg1NWtjaE9Lci1TT0FvdGtHWHpwdm5QOUpmdTNzRzFPQkgtT3ZSaURIYVpfYTlxODlQVE1NSzd4T3lYM0NacW8wNDlhelFpSTlNSFJHTjVuVdIBoAFBVV95cUxPVUFWdWRMQ2hvRFVjbVR2Tm40RU5NZlppcUVkcmp1ckhONmEzNEFKTms4eWExSEQ0MWRVQjdtSFg1RWRXRXQyUGIzZWpFdkd3UW5uOTJCT1VFUGxHbzRzZzRob3RJMlV0X29ZSlZYZDNncFNzeFZIYkVkQ0RINnR1VDUyMFE0RjVnUURnUzR6ZzNaZHBPaTZmMUZLcld3MWp5?oc=5",
+        "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
       ]
     },
     {
       "title": "Samsung Galaxy S27 Gets BIS Certification Ahead of Expected 2027 India Launch",
-      "score": 19.03,
+      "score": 17.92,
       "kinds": [
         "news"
       ],
@@ -143,16 +145,14 @@
       ]
     },
     {
-      "title": "Musk: Production of Cybertruck to end in 2027",
-      "score": 22.03,
+      "title": "India freed itself from British rule but remains dependent on English after 80 years: Allahabad HC Justice Gautam",
+      "score": 17.74,
       "kinds": [
-        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC0wQnFhN1ZaUmo4S2FtWVowNnpYZGFGaFhYUDVHckNrU2F3TXphTDJiUVN2ek9nT2Y3dnRWY1pCc1VuX1RLLXg5bFg1NWtjaE9Lci1TT0FvdGtHWHpwdm5QOUpmdTNzRzFPQkgtT3ZSaURIYVpfYTlxODlQVE1NSzd4T3lYM0NacW8wNDlhelFpSTlNSFJHTjVuVdIBoAFBVV95cUxPVUFWdWRMQ2hvRFVjbVR2Tm40RU5NZlppcUVkcmp1ckhONmEzNEFKTms4eWExSEQ0MWRVQjdtSFg1RWRXRXQyUGIzZWpFdkd3UW5uOTJCT1VFUGxHbzRzZzRob3RJMlV0X29ZSlZYZDNncFNzeFZIYkVkQ0RINnR1VDUyMFE0RjVnUURnUzR6ZzNaZHBPaTZmMUZLcld3MWp5?oc=5",
-        "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTjJTcDY3UGJncFpWV3pWWkxqQnk5QnhFcjBVWUtyWWNOUXJydWdtQ1Z4U2dFRUhGZ2xCM2p0aG9oU2VHTHBEb2lsczVfWmpuOGZqNXRkdmh2UDFJT3lyeXBHdklCNERwbVhnZEtfRVBRUFE3bzFqVV8xNDhxUE9KZFhXVHU5OU81aUxrWFBSY0s1c3Bmam9sRjJQbGVVV05UbFg0SDduNTlGYnBBZWZSU3c4b3FDN0c1ZU5CV2FjUVBhZlhDdW5GdW5yTC1xRFlSVklNQ3hBdEpXdGVocU1zVFhkOTlObmNRSlhveXhn0gHzAUFVX3lxTFBFWXJIckUya3FCZElNRjBnMUdmTlBKVk00VkZKQzlaTTQteUtVWkh1d3FWMWlnMGx6N0RlY2JBWElrUjUxM291UHpSVDJEQUQwOTVKTHQ1V2xveWtzblRBM1VTc0JVVWFOUk9VTzRjN3RDeEd3d0NzajRYc3ExWHhIZ0I4WFZ4el9sSW11dlg2cDJONFhBa3BENnpteEZ2YXVCU2dSbk5qNnNPY1RCclBSZHRpbXEyTU55YVJGalkwZHlaZUUwWTZMU0FVUVM3QnB0Z1RIM1NGZXNkTDdnSDRES2Fkc09HVkxMa21JeS1yUzlMRQ?oc=5"
       ]
     }
   ]
