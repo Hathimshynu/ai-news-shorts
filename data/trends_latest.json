@@ -1,25 +1,13 @@
 {
-  "job_id": "2026-11-07-evening-1701",
-  "chosen": "Measuring how AI agents handle everyday wet-lab science",
-  "reason": "This study provides a fascinating look into how autonomous AI agents are evolving from digital tasks to conducting complex, real-world scientific lab experiments.",
+  "job_id": "2026-11-07-evening-1801",
+  "chosen": "OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report",
+  "reason": "OpenAI securing massive new funding at a landmark valuation signals the unprecedented scale and future trajectory of the AI industry.",
   "candidates": [
     {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "score": 20.91,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xR2JJZ0FQU2ptTi1UcE9reDg3aGdRZ2lHM0d3NHYxcS1KbDhacDJ4RWlKM2R6ZHpEdFh4TTdmVm82VkZ2enhZOWFjanZfQzR2aUcyS3FkbjRoOHFTcXlfaVI0YTd4aFVyMFQ5SFVtelhjVmtTVE11R2k2LUI?oc=5",
-        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-      ]
-    },
-    {
       "title": "OpenAI Secures $11B In Funding As Valuation Reaches $1.25T: Report",
-      "score": 25.7,
+      "score": 27.45,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -30,22 +18,24 @@
       ]
     },
     {
-      "title": "OpenAI completes $11 billion portion of funding at $1.25 trillion value",
-      "score": 25.48,
+      "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
+      "score": 27.23,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0dFVEZ4Q3dsVE1sZkI3eFdfUTBFdmhVWGhLTlhqOVE4VW9RRUJPeVlaR1hCbVFkOTF3Qm1RRDdyblY0dUZfMjc4ODJvZkRKeXZoU19IS2t1dXZzY3EzT05ZYTBYckVWVExqNEVCRE1iYVFpcjRNVzJNYjhxUlhsMW5nOEN0M1plUjV5NVBiWjZ2WmhaX1J3X2M2MWdlYVRrbXVRRldwNFpVbExVUzd4MGpPWUtQR2hSRFRDelhWa2ZOUUUyUjV5SFlSM0pMYWJwdVhpaDJ1c3RNNDNr0gHiAUFVX3lxTE1PdkhJT3FDRjFlWml5WnZTbk45TVdiSmxjRmFYVF9qUldzNXRDSGlIX2xYZExsaDNuX2N3TlNyclQzZGo5VlpoZm4zVnphQW5lc0o2YVJzN0Y5UFJoM203aXpKWmFrT1Y0SnBkb08tVFI0YjY3UmJYejdWajVER2xtZFVlNl9GdWFuNmladnlYTWVPNUtOTk5fZmFfWjd6Nld5LVFLdHNtd21XZTBVZ1ZnOGYwN2ptUTI2Q0JkU3ZnQW52QU95bU1CbHRHY3Z0M0FRRjNHS29uenk2bXg1T19qNUE?oc=5",
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWFRSEJpZklOS3BUS3ZQeXlra3k1dmFmcUkwdGNxemFQUVhTa1NnbEhNdVc5OEdvX2phY2x6bWhuRlQzMHB5RlJ6czYxMEVHQ2xrLW9TX1FYUE1sanFxRTZMRkZTOFZwRlRKcVVtWmZXTk5QYXFYTkhfeDFSeXlCc2NHVlE5azUyVGF0VDhOcUdCTjJVVWFsb3FBdWF4dVhuSlFDYS1pc19Idmhm?oc=5"
       ]
     },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "score": 19.33,
+      "score": 21.08,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -56,59 +46,69 @@
       ]
     },
     {
-      "title": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar",
-      "score": 19.37,
+      "title": "Sandflow-ai/sand3d: 3D modeling in Python, built for LLMs.",
+      "score": 18.0,
       "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/Sandflow-ai/sand3d"
+      ]
+    },
+    {
+      "title": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar",
+      "score": 21.12,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTBxeGJBejhLSlZBSWFlcVdLQ01GMEJpNEpCVkNNVkJGTVhWNEd2NzI5NGR3X3FQZ0hfdEFDTXJ2bDAwWG90Wi1rMnJxRmRUYzlpNkxxZDlXSE5Nd0Q3RTJ2cU5HcDl0MGg0TUUtQ1Qza3AtZHlQc3NhU0loaFA4X1ctdXlOcDVkWmxZQnlva2RwXzNVVlZHcG5WRDhOUjJHb2g5X1hObHVPMTBjdXZ1V0ZWcG9LNnlWUTVLdDdvd0pUSEZtVTBmaDdYeThlclkxOENuTDFyREY5MVBzTldUUkltanBESUZpZE1SNVN3OUlnV3Jp?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcDk3b1lYZDY2dk5pVUFJRVMwZlotSTh5YjlHRkEydm12YXpXS3dVYVdWZDIyV3N6RmtPN19OQmNXR0ZlSnZSZnhsOHVuWk9iM3lSc3d0eXpTZ0ZKXzlWa1ZmdndHcmJmSzR6OWNRZllSQzdadkxHWUJrVmNmZ2VoVlpZZkFweE1iRWc4cjVlZVlvNUo4LVhwTHA1LUNwbzNDV0xCUURnVGVDazQ1T2ZxWmkxOGJwa05BaFdxVlJMRVEtbDJJN1RycTU3NGNUZzhz?oc=5"
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcDk3b1lYZDY2dk5pVUFJRVMwZlotSTh5YjlHRkEydm12YXpXS3dVYVdWZDIyV3N6RmtPN19OQmNXR0ZlSnZSZnhsOHVuWk9iM3lSc3d0eXpTZ0ZKXzlWa1ZmdndHcmJmSzR6OWNRZllSQzdadkxHWUJrVmNmZ2VoVlpZZkFweE1iRWc4cjVlZVlvNUo4LVhwTHA1LUNwbzNDV0xCUURnVGVDazQ1T2ZxWmkxOGJwa05BaFdxVlJMRVEtbDJJN1RycTU3NGNUZzhz?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRTBxeGJBejhLSlZBSWFlcVdLQ01GMEJpNEpCVkNNVkJGTVhWNEd2NzI5NGR3X3FQZ0hfdEFDTXJ2bDAwWG90Wi1rMnJxRmRUYzlpNkxxZDlXSE5Nd0Q3RTJ2cU5HcDl0MGg0TUUtQ1Qza3AtZHlQc3NhU0loaFA4X1ctdXlOcDVkWmxZQnlva2RwXzNVVlZHcG5WRDhOUjJHb2g5X1hObHVPMTBjdXZ1V0ZWcG9LNnlWUTVLdDdvd0pUSEZtVTBmaDdYeThlclkxOENuTDFyREY5MVBzTldUUkltanBESUZpZE1SNVN3OUlnV3Jp?oc=5"
       ]
     },
     {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "score": 19.0,
+      "title": "Copilot code review: API management and review overview updates",
+      "score": 17.98,
       "kinds": [
-        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/index/franklin-templeton",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hOXNGUVZGVEEzMF9uRVd4X0kxcVNXT0ZQNjA3WnhVTGhwMjg3TC1WTkFZVTJrdExhOXN2TkRsalJsVUU2Z0FGZXR2Y2pCcVNWZE5CeGZQMA?oc=5"
+        "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+      ]
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "score": 18.0,
+      "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/KKKKhazix/agent-autoloop"
       ]
     },
     {
       "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
-      "score": 21.71,
+      "score": 21.29,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5",
         "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1FlanNyY2JraWxNcE5oNk9SVk83N1dndmFyalVDamd2VExoMTk1ZUYtRnFmVWprNDhPX2FPYlZodlB6bE5xZ255NEZzVmg0T0lxc01EdDN0Y3JWT2hMaHVfNC1FSzlIMGVlNE1BdjJGV2tIYXpTS0xwckpnSHA5dzZfNVhlOXhyNWdDWklpMU5LUEM0MENoRXVDdFdrdVMzaGVDYnZWNEJ0SmV5RkEzQXU1TkhlYnFaWUFhTTEyUUNpaGl0d3JJNTVzMlprUjBWeHd3eVFBNFpIWG5vNGhj0gHmAUFVX3lxTE16R1lQSDIxVjl4aVdzYldFU0phVVJkTmZwZkNwVXM5STF2VEI0bTRPc1V3NzUtQ0E1SDQ1QlJsUHJLSU0yUnl3ZjlDUHNEVVlWY1JNUy1ZTkxpVXpVR0JDYlRjMTBZRlh4ZzNpVHVLUEI3TGJKdFhFVm5sOFJBcGJNZE9wRjBIWU9LSHpEU1pMZjg4MGtBUVFYbVpkYWJxZ2pJSURhdUppQXZ1TERVUkZtVXNDNmZiUC1kc1l4UzRDdXliUkg3TzczTzAwOUd1Uk1LNmo3Ry1JblE3OGt3Mkh2TXpvTi1n?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRXdV9Fa0t3YktnSVY3ZlJhbVFLU19XaTc4bF9ka0piZzcxVGF6cENON0ZOSVBDbFhIM1FNRmZKcnMtRG53RFBQQ2laX3pRQ3dqT0dKSWhteHlGR1hhdkprVkJkY0xtSFlGcjB6RERRUEh2RWFKR21KenFVb2dfbncxbVNyWE91dFJwWFo3Z3B3by1yYks0dDZBV1dOZElIcDFaUk5iVUQwOTRpenZpem5B?oc=5"
-      ]
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/australian-universities-ai-native-graduates",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZEJVMEZnT3BuWUZaN0JTVXhiUTRaclVqc28zQ0k5TXJ4eEU1azgxMmhnWVZnQVpsVUk0RnBEZWFaRHVtMzVqUzVMbHJHTTZjWnpHd25rdmJxZU1ieDFaT3d6UUdwNUJkWmFuSU05djJBdEdqTXVaZA?oc=5"
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5"
       ]
     },
     {
       "title": "Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages",
-      "score": 19.07,
+      "score": 18.82,
       "kinds": [
         "news"
       ],
@@ -119,21 +119,20 @@
       ]
     },
     {
-      "title": "Musk: Production of Cybertruck to end in 2027",
-      "score": 22.28,
+      "title": "OnePlus 16 India Launch Back in Focus: Price Could Reach ₹1.40 Lakh",
+      "score": 18.32,
       "kinds": [
-        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC0wQnFhN1ZaUmo4S2FtWVowNnpYZGFGaFhYUDVHckNrU2F3TXphTDJiUVN2ek9nT2Y3dnRWY1pCc1VuX1RLLXg5bFg1NWtjaE9Lci1TT0FvdGtHWHpwdm5QOUpmdTNzRzFPQkgtT3ZSaURIYVpfYTlxODlQVE1NSzd4T3lYM0NacW8wNDlhelFpSTlNSFJHTjVuVdIBoAFBVV95cUxPVUFWdWRMQ2hvRFVjbVR2Tm40RU5NZlppcUVkcmp1ckhONmEzNEFKTms4eWExSEQ0MWRVQjdtSFg1RWRXRXQyUGIzZWpFdkd3UW5uOTJCT1VFUGxHbzRzZzRob3RJMlV0X29ZSlZYZDNncFNzeFZIYkVkQ0RINnR1VDUyMFE0RjVnUURnUzR6ZzNaZHBPaTZmMUZLcld3MWp5?oc=5",
-        "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVElWaHhrbWJiZkM4T05iOWV3VG5BWUlDWTRhX2tNWXVDaThGeGo5bmVBY2Y2dDY2S1NkWHZhUlFzUnhvX2MzSURDQ1o3V2ZvMk9aQ0NCTVBXTnFoQk51SGItclVPZ3FURjdobEw4NVlDNUFXR1VhT3BsSGsyVDk5R0VzbTdPWFZuc1NCSFZYSTJqaGFhdUdUWWVpTVU?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3lTYTk5bmFoTDJ6LWw2cWF5bE50c3VaNFZIRjlFLWYweUFmWVoyZUdMb3M3eFJQNEZJcEVxWnNaRGFRcS05ZWVmMnVOWTZ5MjlYZWZ3WHpON1VTRFlua1JocEFhOU1DcHE4anRMQXpaZzNYOUQweHV2TmFXYXlhYV96TmQ0TDYzYks4cGhlRGplTkFUOTVlbVpmZC0?oc=5"
       ]
     },
     {
       "title": "Samsung Galaxy S27 Gets BIS Certification Ahead of Expected 2027 India Launch",
-      "score": 19.28,
+      "score": 19.03,
       "kinds": [
         "news"
       ],
@@ -144,15 +143,16 @@
       ]
     },
     {
-      "title": "OnePlus 16 India Launch Back in Focus: Price Could Reach ₹1.40 Lakh",
-      "score": 18.57,
+      "title": "Musk: Production of Cybertruck to end in 2027",
+      "score": 22.03,
       "kinds": [
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVElWaHhrbWJiZkM4T05iOWV3VG5BWUlDWTRhX2tNWXVDaThGeGo5bmVBY2Y2dDY2S1NkWHZhUlFzUnhvX2MzSURDQ1o3V2ZvMk9aQ0NCTVBXTnFoQk51SGItclVPZ3FURjdobEw4NVlDNUFXR1VhT3BsSGsyVDk5R0VzbTdPWFZuc1NCSFZYSTJqaGFhdUdUWWVpTVU?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3lTYTk5bmFoTDJ6LWw2cWF5bE50c3VaNFZIRjlFLWYweUFmWVoyZUdMb3M3eFJQNEZJcEVxWnNaRGFRcS05ZWVmMnVOWTZ5MjlYZWZ3WHpON1VTRFlua1JocEFhOU1DcHE4anRMQXpaZzNYOUQweHV2TmFXYXlhYV96TmQ0TDYzYks4cGhlRGplTkFUOTVlbVpmZC0?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC0wQnFhN1ZaUmo4S2FtWVowNnpYZGFGaFhYUDVHckNrU2F3TXphTDJiUVN2ek9nT2Y3dnRWY1pCc1VuX1RLLXg5bFg1NWtjaE9Lci1TT0FvdGtHWHpwdm5QOUpmdTNzRzFPQkgtT3ZSaURIYVpfYTlxODlQVE1NSzd4T3lYM0NacW8wNDlhelFpSTlNSFJHTjVuVdIBoAFBVV95cUxPVUFWdWRMQ2hvRFVjbVR2Tm40RU5NZlppcUVkcmp1ckhONmEzNEFKTms4eWExSEQ0MWRVQjdtSFg1RWRXRXQyUGIzZWpFdkd3UW5uOTJCT1VFUGxHbzRzZzRob3RJMlV0X29ZSlZYZDNncFNzeFZIYkVkQ0RINnR1VDUyMFE0RjVnUURnUzR6ZzNaZHBPaTZmMUZLcld3MWp5?oc=5",
+        "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
       ]
     }
   ]
