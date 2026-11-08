@@ -1,19 +1,8 @@
 {
-  "job_id": "2026-11-08-evening-1801",
-  "chosen": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-  "reason": "This developer tool lets AI agents run autonomously in the background and only ping you when approval is needed, giving tech viewers a practical workflow automation to try.",
+  "job_id": "2026-11-08-evening-2242",
+  "chosen": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
+  "reason": "It highlights an exciting official open-source engine that allows AI agents to render 3D graphics and VFX, opening up new possibilities for AI automation and game development.",
   "candidates": [
-    {
-      "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/KKKKhazix/agent-autoloop"
-      ]
-    },
     {
       "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
       "score": 18.0,
@@ -26,8 +15,36 @@
       ]
     },
     {
+      "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
+      "score": 18.82,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG4wUy1RQzNYRndyRUJIejRWMEplQjJ5bmVjNFYwUEkwVDhNSkcxZjB0ZTdqa0tTWlBxeWlHN3cxT2hPZUFPTkdiX1ZaeW03U3NmbGc1blVLbzhCbTViVG51XzZ5RWF6aGVMYmxFQzltMmh4XzhQcmdST3Jzc0dtd0pZVjNOUFpzM0hUOTdxQVB2QkZBc1g3OHY4UElNOHRJSTdPQ0FOZEpTU2Q1VG1Dd1ZLSDFkZ0FOQkRnOA?oc=5"
+      ]
+    },
+    {
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "score": 18.7,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5"
+      ]
+    },
+    {
       "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
-      "score": 21.77,
+      "score": 20.6,
       "kinds": [
         "backlog",
         "news"
@@ -40,88 +57,86 @@
       ]
     },
     {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "score": 17.87,
+      "title": "The first fully Chinese desktop: Huawei launches PC with Kirin X90 and HarmonyOS",
+      "score": 18.45,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnpFelh3VnFLbmlKeHhwUHU5eVR3cFg3UmtEX29lNUVmaEpjbEhIRk9QeXRFUF9SbXU4dWM3MHR4aFQxWXFrX2ZVcGRqTXBSWGlsUDIzYU5XRlFlN2M4NnYxSl9UT2sxZElkNC1WVFN3NlF0X2ZEXzN1WW9WYlllQlB2Skt6dkZBbUwxRlQ4LVcyaEdJeks2MWN5Z1BmcEZvVk53cV96d19RajlBbHdUczVzN0JaaEJTcG9oZHhPcHFsUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnpFelh3VnFLbmlKeHhwUHU5eVR3cFg3UmtEX29lNUVmaEpjbEhIRk9QeXRFUF9SbXU4dWM3MHR4aFQxWXFrX2ZVcGRqTXBSWGlsUDIzYU5XRlFlN2M4NnYxSl9UT2sxZElkNC1WVFN3NlF0X2ZEXzN1WW9WYlllQlB2Skt6dkZBbUwxRlQ4LVcyaEdJeks2MWN5Z1BmcEZvVk53cV96d19RajlBbHdUczVzN0JaaEJTcG9oZHhPcHFsUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnpFelh3VnFLbmlKeHhwUHU5eVR3cFg3UmtEX29lNUVmaEpjbEhIRk9QeXRFUF9SbXU4dWM3MHR4aFQxWXFrX2ZVcGRqTXBSWGlsUDIzYU5XRlFlN2M4NnYxSl9UT2sxZElkNC1WVFN3NlF0X2ZEXzN1WW9WYlllQlB2Skt6dkZBbUwxRlQ4LVcyaEdJeks2MWN5Z1BmcEZvVk53cV96d19RajlBbHdUczVzN0JaaEJTcG9oZHhPcHFsUQ?oc=5"
       ]
     },
     {
-      "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
-      "score": 17.99,
+      "title": "From Meters to Machine Learning: Building AI-Ready Utilities in India",
+      "score": 17.81,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG4wUy1RQzNYRndyRUJIejRWMEplQjJ5bmVjNFYwUEkwVDhNSkcxZjB0ZTdqa0tTWlBxeWlHN3cxT2hPZUFPTkdiX1ZaeW03U3NmbGc1blVLbzhCbTViVG51XzZ5RWF6aGVMYmxFQzltMmh4XzhQcmdST3Jzc0dtd0pZVjNOUFpzM0hUOTdxQVB2QkZBc1g3OHY4UElNOHRJSTdPQ0FOZEpTU2Q1VG1Dd1ZLSDFkZ0FOQkRnOA?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG4wUy1RQzNYRndyRUJIejRWMEplQjJ5bmVjNFYwUEkwVDhNSkcxZjB0ZTdqa0tTWlBxeWlHN3cxT2hPZUFPTkdiX1ZaeW03U3NmbGc1blVLbzhCbTViVG51XzZ5RWF6aGVMYmxFQzltMmh4XzhQcmdST3Jzc0dtd0pZVjNOUFpzM0hUOTdxQVB2QkZBc1g3OHY4UElNOHRJSTdPQ0FOZEpTU2Q1VG1Dd1ZLSDFkZ0FOQkRnOA?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFlXbEl6YlRTeENuNkFWYmlzSG85dnJ2NWFxN2U2TFp5YVRxajFCQV85eE42VVREbVQ4NFUtLTNLVEgxd21Ib3V0QjdXY283ckUzT3JBTUJJRzRYOVpVTjk0b2dqUWVQNm52bk9DZnF4c0psMC03bVpmR0k5UHlSdjItbDBYVFFxWmhDenowR1hzeFFOYkRvVVNuWTVfaUk?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFlXbEl6YlRTeENuNkFWYmlzSG85dnJ2NWFxN2U2TFp5YVRxajFCQV85eE42VVREbVQ4NFUtLTNLVEgxd21Ib3V0QjdXY283ckUzT3JBTUJJRzRYOVpVTjk0b2dqUWVQNm52bk9DZnF4c0psMC03bVpmR0k5UHlSdjItbDBYVFFxWmhDenowR1hzeFFOYkRvVVNuWTVfaUk?oc=5"
       ]
     },
     {
-      "title": "List: ColorOS 17 rollout timeline for OnePlus devices",
-      "score": 19.76,
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "score": 21.45,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HUnQxYWxkay1iejJYQVVObldWSUFDNFZDaXNub2FycElCb3BFM0gyQzc2V0VIMnhwTVB1Z0pZaEUyLTgtb3NIM19MeFhaYngyQ3N4Y1dnSGtYRm1rQnBKZ1RoZ0lNUUljM1BhVWMwd244b2tRUmRYY2pKVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjlhNk9NU1ZVZFo4UG9TR3FmcGxtMWhnY3o4R3dJNGxHc3E2QlR4cmlOSDBuU2JHLVFnMlpVYWtneGxacHhOZWM5bWNJWndxZndxdEstamJjenMwaFoxT3RHSXg3Q2E3cC1pdDM1bm16VkJPak43T2xLRkNvTE9QNHdTRjdfekNGbXJuMFNrcWJ5OGpxR0x3OEJPTll6bHNOaUwzc1E1OF9DQnRZdFZBRXgtN0VYeEhUTTVOa3RKdDlrVU9keXNDOA?oc=5"
+      ]
+    },
+    {
+      "title": "Team unlocks large-scale Fourier transforms for analog in-memory computing",
+      "score": 17.7,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QLTlYZWpBQTZzNGN1LTg5NzAxY0hNbWtNc25WbUxteFpTNnJVTlc1ZzNGMHlfSmM4SWhmLXRpM1p5OV9uQXZ5Y3ljLTNzRmhnWGtmM2dXLWhlSG85X1VRdzZpeEhXZ0pleFRXV3M0QVpXOVJfazA3cjBkRWo?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QLTlYZWpBQTZzNGN1LTg5NzAxY0hNbWtNc25WbUxteFpTNnJVTlc1ZzNGMHlfSmM4SWhmLXRpM1p5OV9uQXZ5Y3ljLTNzRmhnWGtmM2dXLWhlSG85X1VRdzZpeEhXZ0pleFRXV3M0QVpXOVJfazA3cjBkRWo?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QLTlYZWpBQTZzNGN1LTg5NzAxY0hNbWtNc25WbUxteFpTNnJVTlc1ZzNGMHlfSmM4SWhmLXRpM1p5OV9uQXZ5Y3ljLTNzRmhnWGtmM2dXLWhlSG85X1VRdzZpeEhXZ0pleFRXV3M0QVpXOVJfazA3cjBkRWo?oc=5"
       ]
     },
     {
       "title": "UPI: Transforming India's Payment Landscape",
-      "score": 20.42,
+      "score": 20.57,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReC1CZ2NIVGNWN3J1MGNmTEE0dzc3UFVJRGdWM196a053MTc0S1g5eS1WTllBNFVOa1lVbUtMMk85Y0RCa2lCdDBtQ29wRHF6VTVfVnhmb2NGREFVbGhfV21xWUk4YkJuNWctb2tER19NUjlaVl93?oc=5",
         "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblFaVVA5ekQ3bGlZSDlpOVdoUWFXTjNQZkJKazRyZGx6ZFlRcml1UTRrdEdKTmREVzZlbXBHY3VpYklpOE5ZZzFxNXo0NkM2N210QmNaRHp3T1YtX281dy14NjBQWFF2VDZheTZmY1NqenkwZGRtdFQwZzFoR3lEQmJweW0?oc=5"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReC1CZ2NIVGNWN3J1MGNmTEE0dzc3UFVJRGdWM196a053MTc0S1g5eS1WTllBNFVOa1lVbUtMMk85Y0RCa2lCdDBtQ29wRHF6VTVfVnhmb2NGREFVbGhfV21xWUk4YkJuNWctb2tER19NUjlaVl93?oc=5"
       ]
     },
     {
-      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "score": 21.49,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDh0LU9OaV94S2lRcEw5RmFXM0lJSFRZQTRoakFnNUNZMUlId1JSNVdjUHdhUS15UlNBUm5LeDBKc3I2Zy1hUTBpOXZUcDhQeEdKMXluUm9xc3NPazZiOF9nZVhVQURCTGl3dUJIQXo2OE5BS01vSWM4dm9oZng3dWY1TTZxbU85Nm1PSFoyQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDh0LU9OaV94S2lRcEw5RmFXM0lJSFRZQTRoakFnNUNZMUlId1JSNVdjUHdhUS15UlNBUm5LeDBKc3I2Zy1hUTBpOXZUcDhQeEdKMXluUm9xc3NPazZiOF9nZVhVQURCTGl3dUJIQXo2OE5BS01vSWM4dm9oZng3dWY1TTZxbU85Nm1PSFoyQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDh0LU9OaV94S2lRcEw5RmFXM0lJSFRZQTRoakFnNUNZMUlId1JSNVdjUHdhUS15UlNBUm5LeDBKc3I2Zy1hUTBpOXZUcDhQeEdKMXluUm9xc3NPazZiOF9nZVhVQURCTGl3dUJIQXo2OE5BS01vSWM4dm9oZng3dWY1TTZxbU85Nm1PSFoyQQ?oc=5"
-      ]
-    },
-    {
-      "title": "Weekly poll: are you interested in the Motorola Signature 27? - GSMArena.com news",
-      "score": 18.25,
+      "title": "Apple's iOS 28 schedule shift helps engineers get more creative",
+      "score": 19.7,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmNLYks0bVh5MWJhVXN6OFhVVlRtblBTWlBicVFkQktkVnhVMW9lOERPWU80RVJtZTJwSHpEaWdlWTM2YXdyM3BMRERyNHRtY09xODFDOVFrbDNDblFQMTEtVUdyV0lXSzVScGliMWRyUkNuLUZUY2EzYkE5Mk1aUEFDWGw1N2NuT2tMeFV4YnBsMHR1cGMzY05VaXpHRXdK0gGcAUFVX3lxTE1UWVR3UFM0Z0tlT29xQldXTHFyZEFHa0hPVHROZFYxdE50cURmUDFVb2JKckdvTnRRbElyZFc1dkIyR000Tm03bHdhYnA5dlh5X1lFTWR1YzlMb3U5emNOVmpiQ0RPMDhwVXljZktJYVJncDhoaWpZcy00RFdyUjN0VFJhX0tVbEFyRHdMSzFXRFY2eHdobXZGRlN6TQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmNLYks0bVh5MWJhVXN6OFhVVlRtblBTWlBicVFkQktkVnhVMW9lOERPWU80RVJtZTJwSHpEaWdlWTM2YXdyM3BMRERyNHRtY09xODFDOVFrbDNDblFQMTEtVUdyV0lXSzVScGliMWRyUkNuLUZUY2EzYkE5Mk1aUEFDWGw1N2NuT2tMeFV4YnBsMHR1cGMzY05VaXpHRXdK0gGcAUFVX3lxTE1UWVR3UFM0Z0tlT29xQldXTHFyZEFHa0hPVHROZFYxdE50cURmUDFVb2JKckdvTnRRbElyZFc1dkIyR000Tm03bHdhYnA5dlh5X1lFTWR1YzlMb3U5emNOVmpiQ0RPMDhwVXljZktJYVJncDhoaWpZcy00RFdyUjN0VFJhX0tVbEFyRHdMSzFXRFY2eHdobXZGRlN6TQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UZEZCNVhFdHpaelhUWE53Y1FBQXl2aVNkR1lvWU9TX2lZS2NEbzhlWnJwV0RXclNtYTRTZ3ZuTmx6eDJGTTd4NkxGR0ZhcVFXbExKUVZibXBMV18yQkwwdENmRHEyMUFhbmVlTEtjMmp1dUFaTHZFS1JR?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2pMeGlMbzM1X1dwWmNzQ0NFc1RHQU5hRnBiNjZhaC01R3pFdUxVTXIwZVcycEo0WVBJV016Vk93eXJibXBmSXpuM3VYQ2pJWGZFTFJSaUV3OGM2V3B1dlJnQTVSNWFRZ3pXR3Y0UjhJQ0dzZ0c3cDVrSEF5cFBZay1uM24wNE9MNWFPZmJabjBRdk5yQXZRNmlnd1ZWZDBmYlRSUVpBcWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2pMeGlMbzM1X1dwWmNzQ0NFc1RHQU5hRnBiNjZhaC01R3pFdUxVTXIwZVcycEo0WVBJV016Vk93eXJibXBmSXpuM3VYQ2pJWGZFTFJSaUV3OGM2V3B1dlJnQTVSNWFRZ3pXR3Y0UjhJQ0dzZ0c3cDVrSEF5cFBZay1uM24wNE9MNWFPZmJabjBRdk5yQXZRNmlnd1ZWZDBmYlRSUVpBcWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2pMeGlMbzM1X1dwWmNzQ0NFc1RHQU5hRnBiNjZhaC01R3pFdUxVTXIwZVcycEo0WVBJV016Vk93eXJibXBmSXpuM3VYQ2pJWGZFTFJSaUV3OGM2V3B1dlJnQTVSNWFRZ3pXR3Y0UjhJQ0dzZ0c3cDVrSEF5cFBZay1uM24wNE9MNWFPZmJabjBRdk5yQXZRNmlnd1ZWZDBmYlRSUVpBcWQ?oc=5"
       ]
     },
     {
       "title": "Fosi Audio’s Carbon12 IEMs With Titanium Shells And Dynamic Drivers",
-      "score": 19.62,
+      "score": 18.45,
       "kinds": [
         "news"
       ],
@@ -133,29 +148,14 @@
       ]
     },
     {
-      "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original?",
-      "score": 19.02,
+      "title": "iQOO 16 vs iQOO 15: 5 Biggest changes you can expect in India",
+      "score": 17.85,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTHNYdGNfYzNjeDhxOVJNY3ZWaG52aHZSdWx4dy1uVm1peTl0M3ljNmRGZV94Ui1fX0xXMGo1eWNDQnVlcjBzUWZ3NjEtcGF3M3Bva0FWT0I2SUU?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTHNYdGNfYzNjeDhxOVJNY3ZWaG52aHZSdWx4dy1uVm1peTl0M3ljNmRGZV94Ui1fX0xXMGo1eWNDQnVlcjBzUWZ3NjEtcGF3M3Bva0FWT0I2SUU?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTHNYdGNfYzNjeDhxOVJNY3ZWaG52aHZSdWx4dy1uVm1peTl0M3ljNmRGZV94Ui1fX0xXMGo1eWNDQnVlcjBzUWZ3NjEtcGF3M3Bva0FWT0I2SUU?oc=5"
-      ]
-    },
-    {
-      "title": "Woman 'empowered' by post-break-up egg freezing",
-      "score": 18.46,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UbTlLRzdGcUlUSFVXd2Y4eVBWckpZcWJOcjVzbzBiVlZMcm5lbzV1WmxLMmgwUGY0blBIOEVhdlVyc18xRFY5bUxWeTVoaXB2bEdOYzc1WTRwTVNaQS15UmR2Sl9jQVdMMGQ0T3oxVTFTY2dBLVF6WUZvNA?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UbTlLRzdGcUlUSFVXd2Y4eVBWckpZcWJOcjVzbzBiVlZMcm5lbzV1WmxLMmgwUGY0blBIOEVhdlVyc18xRFY5bUxWeTVoaXB2bEdOYzc1WTRwTVNaQS15UmR2Sl9jQVdMMGQ0T3oxVTFTY2dBLVF6WUZvNA?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UbTlLRzdGcUlUSFVXd2Y4eVBWckpZcWJOcjVzbzBiVlZMcm5lbzV1WmxLMmgwUGY0blBIOEVhdlVyc18xRFY5bUxWeTVoaXB2bEdOYzc1WTRwTVNaQS15UmR2Sl9jQVdMMGQ0T3oxVTFTY2dBLVF6WUZvNA?oc=5"
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmZIV3ZUenRyMGtHbHlsdHAwbVp3Z3lIU09OMkVubXdhckQ0VWJjTG5HSzV3U0ZFMEtTTnF5U3lvRGE2SUdiblk3NkpTTmJzejByRWg5U0tXeTU0cDZJdUNNdjc0eUZLNnd1c1JCcjhLQ3k0NGNvakVnNEtoNHdXRDlTVlE2UmYwMnNYQzFDMDVqXzZaVXNCelZTMnB2N3BSQ011ZmtOSW91dmVFRmfSAbQBQVVfeXFMT3FPM2ppQ2N3RU1pNy02NnprMUxpcC1IZy1weGw0UmdCNGotVHlveWVRQmNVcF9HREppQ3pyQXlwcDZzVW5DLVFuLXV3QWpiWms2R01QbGNsV0pjd3pUeGQtWGRVYXpJbFlmbnh4a3RNdndJSzBZOFBvTFVubVY4Y3ZMSnpiTkJRZDFHeGUxZkNhalF2eWJpX1BaSVpvR3dsVDVnZDFJNmRZM2lQcmk4U244NGhq?oc=5"
       ]
     }
   ]
