@@ -1,14 +1,14 @@
 [
   {
-    "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "link": "https://github.com/KKKKhazix/agent-autoloop",
+    "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
+    "link": "https://github.com/voyager-so/vork",
     "source": "GitHub",
     "kind": "github",
-    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "summary": "Headless 3D and VFX engine for agents. Research preview.",
     "country": "GLOBAL",
-    "published": "2026-11-03T08:02:11+00:00",
-    "engagement": 4042,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
+    "published": "2026-11-05T22:37:07+00:00",
+    "engagement": 1020,
+    "saved": "2026-11-08T12:48:45.782462+00:00"
   },
   {
     "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
@@ -19,29 +19,40 @@
     "country": "IN",
     "published": "2026-11-08T08:09:06+00:00",
     "engagement": 0,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
+    "saved": "2026-11-08T12:48:45.782462+00:00"
   },
   {
-    "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
-    "link": "https://github.com/voyager-so/vork",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "Headless 3D and VFX engine for agents. Research preview.",
-    "country": "GLOBAL",
-    "published": "2026-11-05T22:37:07+00:00",
-    "engagement": 1009,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
-  },
-  {
-    "title": "Jefferies Flags AI Investment Slowdown, Raises India Allocation To 14%",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRXdV9Fa0t3YktnSVY3ZlJhbVFLU19XaTc4bF9ka0piZzcxVGF6cENON0ZOSVBDbFhIM1FNRmZKcnMtRG53RFBQQ2laX3pRQ3dqT0dKSWhteHlGR1hhdkprVkJkY0xtSFlGcjB6RERRUEh2RWFKR21KenFVb2dfbncxbVNyWE91dFJwWFo3Z3B3by1yYks0dDZBV1dOZElIcDFaUk5iVUQwOTRpenZpem5B?oc=5",
-    "source": "BW Businessworld",
+    "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
+    "source": "WIRED",
     "kind": "news",
-    "summary": " Jefferies Flags AI Investment Slowdown, Raises India Allocation To 14% &nbsp;&nbsp; BW Businessworld ",
-    "country": "IN",
-    "published": "2026-11-07T22:21:55+00:00",
+    "summary": "   I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good &nbsp;&nbsp; WIRED    NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake &nbsp;&nbsp; The Verge    NYT Cooking AI Gets 3 Egg & Butter Swaps Wrong [2026] &nbsp;&nbsp; shattered.io    NYT Cooking AI Assistant Adapts Recipes, but Cake Advice Stumbles &nbsp;&nbsp; JournalArta    NYT Cooking’s AI assistant saved my weeknight chicken, but nearly spoiled my cake &nbsp;&nbsp; Mezha.net   ",
+    "country": "MY",
+    "published": "2026-11-08T12:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
+    "saved": "2026-11-08T12:48:45.782462+00:00"
+  },
+  {
+    "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG4wUy1RQzNYRndyRUJIejRWMEplQjJ5bmVjNFYwUEkwVDhNSkcxZjB0ZTdqa0tTWlBxeWlHN3cxT2hPZUFPTkdiX1ZaeW03U3NmbGc1blVLbzhCbTViVG51XzZ5RWF6aGVMYmxFQzltMmh4XzhQcmdST3Jzc0dtd0pZVjNOUFpzM0hUOTdxQVB2QkZBc1g3OHY4UElNOHRJSTdPQ0FOZEpTU2Q1VG1Dd1ZLSDFkZ0FOQkRnOA?oc=5",
+    "source": "www.nationpathindia.com",
+    "kind": "news",
+    "summary": " CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms &nbsp;&nbsp; www.nationpathindia.com ",
+    "country": "IN",
+    "published": "2026-11-08T12:29:08+00:00",
+    "engagement": 0,
+    "saved": "2026-11-08T12:48:45.782462+00:00"
+  },
+  {
+    "title": "List: ColorOS 17 rollout timeline for OnePlus devices",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HUnQxYWxkay1iejJYQVVObldWSUFDNFZDaXNub2FycElCb3BFM0gyQzc2V0VIMnhwTVB1Z0pZaEUyLTgtb3NIM19MeFhaYngyQ3N4Y1dnSGtYRm1rQnBKZ1RoZ0lNUUljM1BhVWMwd244b2tRUmRYY2pKVQ?oc=5",
+    "source": "YugaTech",
+    "kind": "news",
+    "summary": "   List: ColorOS 17 rollout timeline for OnePlus devices &nbsp;&nbsp; YugaTech    OnePlus releases its ColorOS 17 rollout schedule for November - GSMArena.com news &nbsp;&nbsp; GSMArena.com    OPPO ColorOS 17 November Update Dates: Eligible Phones List &nbsp;&nbsp; thedigitalbriefnews.com    OnePlus reveals exact Android 17 rollout dates for more phones and tablets &nbsp;&nbsp; Android Authority    OPPO F35 Pro gets stable ColorOS 17 update, promises smoother performance and enhanced security &nbsp;&nbsp; 91Mobiles   ",
+    "country": "PH",
+    "published": "2026-11-08T03:34:58+00:00",
+    "engagement": 0,
+    "saved": "2026-11-08T12:48:45.782462+00:00"
   },
   {
     "title": "UPI: Transforming India's Payment Landscape",
@@ -52,18 +63,7 @@
     "country": "IN",
     "published": "2026-11-07T19:11:28+00:00",
     "engagement": 0,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
-  },
-  {
-    "title": "OnePlus releases its ColorOS 17 rollout schedule for November - GSMArena.com news",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5",
-    "source": "GSMArena.com",
-    "kind": "news",
-    "summary": "   OnePlus releases its ColorOS 17 rollout schedule for November - GSMArena.com news &nbsp;&nbsp; GSMArena.com    Android 17 Update Tracker: Samsung, Pixel, OnePlus, and More &nbsp;&nbsp; TechRepublic    OPPO F35 Pro gets stable ColorOS 17 update, promises smoother performance and enhanced security &nbsp;&nbsp; 91Mobiles    The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month &nbsp;&nbsp; 9to5Google    OPPO ColorOS 17 Rollout: See If Your Phone Makes the List &nbsp;&nbsp; Phandroid   ",
-    "country": "MY",
-    "published": "2026-11-07T18:12:02+00:00",
-    "engagement": 0,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
+    "saved": "2026-11-08T12:48:45.782462+00:00"
   },
   {
     "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
@@ -74,6 +74,6 @@
     "country": "SG",
     "published": "2026-11-08T10:30:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-08T11:37:17.294643+00:00"
+    "saved": "2026-11-08T12:48:45.782462+00:00"
   }
 ]

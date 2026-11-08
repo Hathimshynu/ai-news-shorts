@@ -1,21 +1,8 @@
 {
-  "job_id": "2026-11-08-evening-1701",
-  "chosen": "Claude Code leaks passwords and API keys in 1,122 public GitHub files",
-  "reason": "It offers a critical security warning for developers using Anthropic's new Claude Code CLI to prevent accidentally leaking private API keys and passwords in public repositories.",
+  "job_id": "2026-11-08-evening-1801",
+  "chosen": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+  "reason": "This developer tool lets AI agents run autonomously in the background and only ping you when approval is needed, giving tech viewers a practical workflow automation to try.",
   "candidates": [
-    {
-      "title": "Claude Code leaks passwords and API keys in 1,122 public GitHub files",
-      "score": 22.25,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEh5dnF1SE5MVXByOUdjcnp6Q0hvcG0yWnE3RWJONVpieGJ2M3p3ellwSjZRdDAzOGpZblIzTkJBaWlkSHRqeUpfUGw1WE9zM2RSQ0VtX09fOTk3aFhNUXBVak9pTy01RkFSOXUtTmJySzRRbkpKNXR2TFNlTlRTSjM3bDM2aXJLU1VrZ1VTSHgtTS0za2NUaGFB?oc=5",
-        "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
-      ]
-    },
     {
       "title": "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "score": 18.0,
@@ -25,18 +12,6 @@
       "primary": true,
       "links": [
         "https://github.com/KKKKhazix/agent-autoloop"
-      ]
-    },
-    {
-      "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
-      "score": 19.15,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUhsc09Tcmo3em9WZkI1WTJjOWJlYVhzQTF4Sm1UWVZqbV96MUJqdkJ0d3hsYW9Xb1JHUzB4Sk9CV0hQS1pfUkJMN19BZ3RpRXdVWE9lUkt2YW80ZDZaRG4yN0VkRmxLSG5EMDBvVGtnOGx0VXlUQ1lkRzNRQ1hlcGxKZw?oc=5"
       ]
     },
     {
@@ -51,22 +26,63 @@
       ]
     },
     {
-      "title": "Jefferies Flags AI Investment Slowdown, Raises India Allocation To 14%",
-      "score": 18.71,
+      "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India",
+      "score": 21.77,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRXdV9Fa0t3YktnSVY3ZlJhbVFLU19XaTc4bF9ka0piZzcxVGF6cENON0ZOSVBDbFhIM1FNRmZKcnMtRG53RFBQQ2laX3pRQ3dqT0dKSWhteHlGR1hhdkprVkJkY0xtSFlGcjB6RERRUEh2RWFKR21KenFVb2dfbncxbVNyWE91dFJwWFo3Z3B3by1yYks0dDZBV1dOZElIcDFaUk5iVUQwOTRpenZpem5B?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUhsc09Tcmo3em9WZkI1WTJjOWJlYVhzQTF4Sm1UWVZqbV96MUJqdkJ0d3hsYW9Xb1JHUzB4Sk9CV0hQS1pfUkJMN19BZ3RpRXdVWE9lUkt2YW80ZDZaRG4yN0VkRmxLSG5EMDBvVGtnOGx0VXlUQ1lkRzNRQ1hlcGxKZw?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5"
+      ]
+    },
+    {
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "score": 17.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldwYWVPaloxMHhZdTg5LUhITlZoWHgxWnpmWlJLSGhzVEVJNDlsWUlXT3FaSXpOUUFHd0wwZDJyZXkwanhaZk1xWUFHZ0owMkVaOVdscEZMV0NscUNTTUVhODV5R1NIYi10RVVrdEoxRDBPQWxFRVhEMWlOUUZuWDU5cFk0SlNTSjdKMjNUOA?oc=5"
+      ]
+    },
+    {
+      "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
+      "score": 17.99,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG4wUy1RQzNYRndyRUJIejRWMEplQjJ5bmVjNFYwUEkwVDhNSkcxZjB0ZTdqa0tTWlBxeWlHN3cxT2hPZUFPTkdiX1ZaeW03U3NmbGc1blVLbzhCbTViVG51XzZ5RWF6aGVMYmxFQzltMmh4XzhQcmdST3Jzc0dtd0pZVjNOUFpzM0hUOTdxQVB2QkZBc1g3OHY4UElNOHRJSTdPQ0FOZEpTU2Q1VG1Dd1ZLSDFkZ0FOQkRnOA?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUG4wUy1RQzNYRndyRUJIejRWMEplQjJ5bmVjNFYwUEkwVDhNSkcxZjB0ZTdqa0tTWlBxeWlHN3cxT2hPZUFPTkdiX1ZaeW03U3NmbGc1blVLbzhCbTViVG51XzZ5RWF6aGVMYmxFQzltMmh4XzhQcmdST3Jzc0dtd0pZVjNOUFpzM0hUOTdxQVB2QkZBc1g3OHY4UElNOHRJSTdPQ0FOZEpTU2Q1VG1Dd1ZLSDFkZ0FOQkRnOA?oc=5"
+      ]
+    },
+    {
+      "title": "List: ColorOS 17 rollout timeline for OnePlus devices",
+      "score": 19.76,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HUnQxYWxkay1iejJYQVVObldWSUFDNFZDaXNub2FycElCb3BFM0gyQzc2V0VIMnhwTVB1Z0pZaEUyLTgtb3NIM19MeFhaYngyQ3N4Y1dnSGtYRm1rQnBKZ1RoZ0lNUUljM1BhVWMwd244b2tRUmRYY2pKVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5"
       ]
     },
     {
       "title": "UPI: Transforming India's Payment Landscape",
-      "score": 18.67,
+      "score": 20.42,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -77,22 +93,10 @@
       ]
     },
     {
-      "title": "OnePlus releases its ColorOS 17 rollout schedule for November - GSMArena.com news",
-      "score": 18.01,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HUnQxYWxkay1iejJYQVVObldWSUFDNFZDaXNub2FycElCb3BFM0gyQzc2V0VIMnhwTVB1Z0pZaEUyLTgtb3NIM19MeFhaYngyQ3N4Y1dnSGtYRm1rQnBKZ1RoZ0lNUUljM1BhVWMwd244b2tRUmRYY2pKVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdwT2VCVGxncG93VVM0MWoxT0xlR3hHNF8xQ2NCTnNwY1FfbTdRZ2xMQndvYXFXTjJFRk04cEdFeUdxeFB4RWdHYlhJUnNXSFI4TW5tM3BVM3pZdzJDc0FsWHhtc0JyOXB3UXlqY1dZc0lDVF9zQWtWdjF6QnU2OE05NzFlcGtSN2I1VmZlenA2QnBsSElKc3lVLUI5U0hhVk4w0gGfAUFVX3lxTE1fV00xeml0R3FVX3AxTUxQQ2F4S0RWVTd3eHJaUUYwOVZQNjdyelFnTXlhM2pRUzNiSHRVRDhSdlRubmd5QnRvb0hfaHZNempLckFVUXRXUVV0TjRCRk81bUJKR2tOaTIyTDJsUW10eGFSa2VmRGxJN3NRSTR0TzBFNTFxOU43TWRCRWtFd2Y4Y1pTSHBfWUlFajhYUXZ1NA?oc=5"
-      ]
-    },
-    {
       "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "score": 19.74,
+      "score": 21.49,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -103,21 +107,21 @@
       ]
     },
     {
-      "title": "Motorola Signature 27",
-      "score": 20.35,
+      "title": "Weekly poll: are you interested in the Motorola Signature 27? - GSMArena.com news",
+      "score": 18.25,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UZEZCNVhFdHpaelhUWE53Y1FBQXl2aVNkR1lvWU9TX2lZS2NEbzhlWnJwV0RXclNtYTRTZ3ZuTmx6eDJGTTd4NkxGR0ZhcVFXbExKUVZibXBMV18yQkwwdENmRHEyMUFhbmVlTEtjMmp1dUFaTHZFS1JR?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjZQaEZ1S3pjMkM3czlSSW40SFF0RndIT2tWRWRsbmlCNmhQc29JNkhPa1F1TVZ6MXdDTXVCUE1oTE5PZV9kMmdKMGlOTlM0X0VOa0N5NG85SllIZW9wYktid3p6OFQ4WmxDMWVUS0hUM3V6a2JJanprTERuNnd1b19lWmJsRk9SNHhsdHBUdGNfS1AybTNTN0k1S1g2a2lGZXlHd1FJOVhKU1ZRSlFSLVlGN2w4dGZpTGhMY3ZxZ2tNdEdxaDdfVHVDZkk1NmfSAc8BQVVfeXFMTlY2UGhGdUt6YzJDN3M5UkluNEhRdEZ3SE9rVkVkbG5pQjZoUHNvSTZIT2tRdU1WejF3Q011QlBNaExOT2VfZDJnSjBpTk5TNF9FTmtDeTRvOUpZSGVvcGJLYnd6ejhUOFpsQzFlVEtIVDN1emtiSWp6a0xEbjZ3dW9fZVpibEZPUjR4bHRwVHRjX0tQMm0zUzdJNUtYNmtpRmV5R3dRSTlYSlNWUUpRUi1ZRjdsOHRmaUxoTGN2cWdrTXRHcWg3X1R1Q2ZJNTZn?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMnJLck9idHNfNnNZb3NVU3JDMjdJdUVNRkV6cDJ0QnctaHpOblh2VDZoMDhwOTdsRzRtbUZaTEUtM3hrd2Q0TVVKQ2psdEowMXNZVF9HY3J4TDZ4WUpTME5mRVo4ZGFfUnlKQlcwNW1jeVUzcWJ2VjRvZjNqQXJicnZEcUxDVmItVEloYm9yRDJrZWRqMHpXWmVXM0VoUmpua1FyNGpTNV91OFZZRFJqcTQ0WkxhMnBSdnRmTGFXa2FVWDFTNkhmX3FucGJQUEZQMkJVUFpMX212by0wWGhnQWhaRWFyVjdsUlHSAe8BQVVfeXFMT3Vzazd4NUpxSkNvbGNPVUVqcVdTRnFNTDFSQnFzM3d2VW80cTkwXzlOUnhqV2MwS1gzRER1WDdUeFB5ZGI2Z1pkaFJDWlBFRkVCeUxjZHBQYVdiUGVNUlZUY2hyNWtQWlRwYW90M0ZsaGZEN2FqV2RFclN6NHpidVcyYmVHRmplRHlkXzdnWmFUSHRHWExiRTV3QkQzVmtVZ3otQUtZWDhzaWEwTnFvdUtuV0dhalpEekZmVXhoNHltSVJYQnljalE5VUJQUXdtTXNjZFN3WFBzbXhHZG53Y3FadFJWRjhqZURGbl9fems?oc=5"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmNLYks0bVh5MWJhVXN6OFhVVlRtblBTWlBicVFkQktkVnhVMW9lOERPWU80RVJtZTJwSHpEaWdlWTM2YXdyM3BMRERyNHRtY09xODFDOVFrbDNDblFQMTEtVUdyV0lXSzVScGliMWRyUkNuLUZUY2EzYkE5Mk1aUEFDWGw1N2NuT2tMeFV4YnBsMHR1cGMzY05VaXpHRXdK0gGcAUFVX3lxTE1UWVR3UFM0Z0tlT29xQldXTHFyZEFHa0hPVHROZFYxdE50cURmUDFVb2JKckdvTnRRbElyZFc1dkIyR000Tm03bHdhYnA5dlh5X1lFTWR1YzlMb3U5emNOVmpiQ0RPMDhwVXljZktJYVJncDhoaWpZcy00RFdyUjN0VFJhX0tVbEFyRHdMSzFXRFY2eHdobXZGRlN6TQ?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmNLYks0bVh5MWJhVXN6OFhVVlRtblBTWlBicVFkQktkVnhVMW9lOERPWU80RVJtZTJwSHpEaWdlWTM2YXdyM3BMRERyNHRtY09xODFDOVFrbDNDblFQMTEtVUdyV0lXSzVScGliMWRyUkNuLUZUY2EzYkE5Mk1aUEFDWGw1N2NuT2tMeFV4YnBsMHR1cGMzY05VaXpHRXdK0gGcAUFVX3lxTE1UWVR3UFM0Z0tlT29xQldXTHFyZEFHa0hPVHROZFYxdE50cURmUDFVb2JKckdvTnRRbElyZFc1dkIyR000Tm03bHdhYnA5dlh5X1lFTWR1YzlMb3U5emNOVmpiQ0RPMDhwVXljZktJYVJncDhoaWpZcy00RFdyUjN0VFJhX0tVbEFyRHdMSzFXRFY2eHdobXZGRlN6TQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UZEZCNVhFdHpaelhUWE53Y1FBQXl2aVNkR1lvWU9TX2lZS2NEbzhlWnJwV0RXclNtYTRTZ3ZuTmx6eDJGTTd4NkxGR0ZhcVFXbExKUVZibXBMV18yQkwwdENmRHEyMUFhbmVlTEtjMmp1dUFaTHZFS1JR?oc=5"
       ]
     },
     {
       "title": "Fosi Audio’s Carbon12 IEMs With Titanium Shells And Dynamic Drivers",
-      "score": 19.87,
+      "score": 19.62,
       "kinds": [
         "news"
       ],
@@ -130,7 +134,7 @@
     },
     {
       "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original?",
-      "score": 19.27,
+      "score": 19.02,
       "kinds": [
         "news"
       ],
@@ -143,7 +147,7 @@
     },
     {
       "title": "Woman 'empowered' by post-break-up egg freezing",
-      "score": 18.71,
+      "score": 18.46,
       "kinds": [
         "news"
       ],
