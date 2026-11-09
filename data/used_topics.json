@@ -1,10 +1,5 @@
 [
   {
-    "title": "India to release AI regulation consultation paper within 30 days, says Vaishnaw",
-    "category": "Breaking AI News",
-    "date": "2026-10-09"
-  },
-  {
     "title": "franzenzenhofer/big-arrow-on-the-screen: Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
     "category": "AI Tools You Should Know",
     "date": "2026-10-10"
@@ -563,5 +558,10 @@
     "title": "voyager-so/vork: Headless 3D and VFX engine for agents. Research preview.",
     "category": "Build With AI",
     "date": "2026-11-08"
+  },
+  {
+    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+    "category": "Build With AI",
+    "date": "2026-11-09"
   }
 ]
