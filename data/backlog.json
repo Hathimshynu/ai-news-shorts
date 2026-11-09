@@ -1,27 +1,5 @@
 [
   {
-    "title": "Introducing Claude Fable 5.2 on AWS",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2JVY2R2SzNCdEtZdXlHOG85RU1qSkVTYndPS3c0ZWtnRm5scXZaNUhzZE5QR0t3VTRmMGxXQk9SaTJrY0ZTOElUSjZ0czN1VGFQZW9LVlRpWTRpRnVjcHhDcVNLd2ZHcWRZWlJIVkRsb1RCWTFPNVQySm9XWGZlT3BvYmtMWHJKb0E?oc=5",
-    "source": "Amazon Web Services (AWS)",
-    "kind": "news",
-    "summary": " Introducing Claude Fable 5.2 on AWS &nbsp;&nbsp; Amazon Web Services (AWS) ",
-    "country": "IN",
-    "published": "2026-11-09T20:04:37+00:00",
-    "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
-  },
-  {
-    "title": "Sarvam appoints ex-Google Cloud India MD Sashikumar Sreedharan as president",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamRJeHpVMnlQcEdFU3czaEFHalMzNEFDVXlSR1A0SHBsXzlsajlXUUtlVjZ2MTNwYm1ucmU0WmxrQ2FMOUpyRVcxZjJpejExUjFwaHlMUVRJd0V0UkNFZnhiS2ZrdDQyUkxaRVZuMTdiMGd3RnpFNUhwMkFiVmhsOWhuYmFWWFNLQ2ZDenE1NlRCd2VZODJURzBlellBY3pCaHRlSy1ZaXRMU05MZVhBOWJMYXFoSENVVVd0clBfR2dNYnFXSlk4VjNIcG1SQVZtUGVOT0Z1bFBySzN2Nm83M1lxRUoxVmZMVnFXemQxdjBVcVFDMnfSAfsBQVVfeXFMUE4taDJES0s2aTFSck5MZjhIR0o0T2Z2cWdYUk85SVFOOC00SUNuVk44bjhLbTM0OU9DZndIczg5NC1tazFSMnRlNkUzaF9fbWp1MjdXa2hoSlRmSHNRMkstbGVXMmtkRk9jZlN5TmVOSlpfcUZ4RXdoOHpFZzE4UENUUzBQZmZKNU9fQzI5MVU3eEJSOHAxSmpRdWlvNEE4a2EyYUE3UUVwYm1aa1l6S2NaWU1uWlZMajBsRDhuYm9Cak5HSHpDampva2VLNjVJTGJjZE4xYzIyeU1GdEhPZnRPeXJKRkRQVWFMeWM0ZmVWaUt0aXk5Z19QLUU?oc=5",
-    "source": "Business Standard",
-    "kind": "news",
-    "summary": " Sarvam appoints ex-Google Cloud India MD Sashikumar Sreedharan as president &nbsp;&nbsp; Business Standard ",
-    "country": "IN",
-    "published": "2026-11-09T10:14:53+00:00",
-    "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
-  },
-  {
     "title": "Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TLW5iNWYxV0hWaTliVjIwRDFMSjAteEd1bjZSWm5LS0ZRNFdGN2dia1hKemdjMW4wd3AtWElDa2o5VzQ3eUFHd1RrN0k3dVVlX2tmdXJfZUdTM1FTQVR1RENIZEpGLXQ4YTRuRUtXNA?oc=5",
     "source": "Sarvam AI",
@@ -30,18 +8,7 @@
     "country": "IN",
     "published": "2026-11-09T08:03:05+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
-  },
-  {
-    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-    "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-    "source": "NVIDIA",
-    "kind": "official",
-    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [&#8230;]",
-    "country": "GLOBAL",
-    "published": "2026-11-09T08:00:53+00:00",
-    "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
+    "saved": "2026-11-09T22:42:16.255060+00:00"
   },
   {
     "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
@@ -52,7 +19,18 @@
     "country": "GLOBAL",
     "published": "2026-11-09T09:01:37+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
+    "saved": "2026-11-09T22:42:16.255060+00:00"
+  },
+  {
+    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+    "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-11-09T08:00:53+00:00",
+    "engagement": 0,
+    "saved": "2026-11-09T22:42:16.255060+00:00"
   },
   {
     "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -63,7 +41,29 @@
     "country": "IN",
     "published": "2026-11-09T19:19:41+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
+    "saved": "2026-11-09T22:42:16.255060+00:00"
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "country": "GLOBAL",
+    "published": "2026-11-09T13:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-09T22:42:16.255060+00:00"
+  },
+  {
+    "title": "OpenAI Deploys Control Room to Cut Off Research Model Output",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVRBOW53U1JIR3RiYzRvcEl2a1o2UHU5cWxYbWRZUm9EWXpDX1F4a05lVmNTajBSNUx6XzZIdDNqNG0tcUV0SDVRZDJad2gtYVk3czNpU3FvXzlPc2dRWlIzcHY4aTlvN3JKaGU5UWlCX2NTSlVYODVHRmlpdEI5VzdHMnR0ZG90MXc?oc=5",
+    "source": "Unite.AI",
+    "kind": "news",
+    "summary": " OpenAI Deploys Control Room to Cut Off Research Model Output &nbsp;&nbsp; Unite.AI ",
+    "country": "IN",
+    "published": "2026-11-09T22:10:28+00:00",
+    "engagement": 0,
+    "saved": "2026-11-09T22:42:16.255060+00:00"
   },
   {
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
@@ -74,6 +74,6 @@
     "country": "GLOBAL",
     "published": "2026-11-09T15:05:57+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T21:43:21.028610+00:00"
+    "saved": "2026-11-09T22:42:16.255060+00:00"
   }
 ]

@@ -1,51 +1,28 @@
 {
-  "job_id": "2026-11-10-morning-0304",
-  "chosen": "ChatGPT Enterprise now available in AWS Marketplace",
-  "reason": "OpenAI making ChatGPT Enterprise directly purchasable through AWS Marketplace is a major milestone that dramatically simplifies enterprise AI adoption and cloud billing for tech teams across Asia.",
+  "job_id": "2026-11-10-morning-0409",
+  "chosen": "Introducing Claude Fable 5.2 on AWS",
+  "reason": "The availability of Anthropic's latest Claude model on AWS gives developers and enterprises immediate access to upgraded AI capabilities for their cloud applications.",
   "candidates": [
     {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "score": 24.37,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE43akxPN1NHbWlqampuZlpCQk1WM1ladklZemhnVnBHVlVvR0xKUFNLdUloT2hBRzFHQ2Jya2ZQRTYweWl5U0pMNGplcDk4MmV6QjJmMVBKRmtRM0U3a09STkhhcUYtUWtuaGgtMg?oc=5",
-        "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-      ]
-    },
-    {
       "title": "Introducing Claude Fable 5.2 on AWS",
-      "score": 27.34,
+      "score": 29.63,
       "kinds": [
+        "backlog",
         "community",
         "news"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2JVY2R2SzNCdEtZdXlHOG85RU1qSkVTYndPS3c0ZWtnRm5scXZaNUhzZE5QR0t3VTRmMGxXQk9SaTJrY0ZTOElUSjZ0czN1VGFQZW9LVlRpWTRpRnVjcHhDcVNLd2ZHcWRZWlJIVkRsb1RCWTFPNVQySm9XWGZlT3BvYmtMWHJKb0E?oc=5",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-      ]
-    },
-    {
-      "title": "Sarvam appoints ex-Google Cloud India MD Sashikumar Sreedharan as president",
-      "score": 19.57,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamRJeHpVMnlQcEdFU3czaEFHalMzNEFDVXlSR1A0SHBsXzlsajlXUUtlVjZ2MTNwYm1ucmU0WmxrQ2FMOUpyRVcxZjJpejExUjFwaHlMUVRJd0V0UkNFZnhiS2ZrdDQyUkxaRVZuMTdiMGd3RnpFNUhwMkFiVmhsOWhuYmFWWFNLQ2ZDenE1NlRCd2VZODJURzBlellBY3pCaHRlSy1ZaXRMU05MZVhBOWJMYXFoSENVVVd0clBfR2dNYnFXSlk4VjNIcG1SQVZtUGVOT0Z1bFBySzN2Nm83M1lxRUoxVmZMVnFXemQxdjBVcVFDMnfSAfsBQVVfeXFMUE4taDJES0s2aTFSck5MZjhIR0o0T2Z2cWdYUk85SVFOOC00SUNuVk44bjhLbTM0OU9DZndIczg5NC1tazFSMnRlNkUzaF9fbWp1MjdXa2hoSlRmSHNRMkstbGVXMmtkRk9jZlN5TmVOSlpfcUZ4RXdoOHpFZzE4UENUUzBQZmZKNU9fQzI5MVU3eEJSOHAxSmpRdWlvNEE4a2EyYUE3UUVwYm1aa1l6S2NaWU1uWlZMajBsRDhuYm9Cak5HSHpDampva2VLNjVJTGJjZE4xYzIyeU1GdEhPZnRPeXJKRkRQVWFMeWM0ZmVWaUt0aXk5Z19QLUU?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd09jVDV5OUUtcmdoTHFsZkttdExMNEZfbGxKVEQtMy1kblA1UWNvbjlxUGJ4dFhoRlVxdzZlTS05VFktaDQyR0tMOFhrMFJISlJjdkFxUlJiN3QtTlgtX3VaSlQxUUJ1NUlFOW1NcFo3Z0llbWNmRXpxUjltUDh6bFlaRVVZZWhhdncydjVOT0dJb0Y4WDl4QXRwNnVCNVRQdnZFbUppeXNBYWlKbGxuWGEtSnZFbGFJUWUxajZwckpPZ2tydC1MUFpIa1JqeHpOZWRvZHFFWm9BendFeE1wdQ?oc=5"
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2JVY2R2SzNCdEtZdXlHOG85RU1qSkVTYndPS3c0ZWtnRm5scXZaNUhzZE5QR0t3VTRmMGxXQk9SaTJrY0ZTOElUSjZ0czN1VGFQZW9LVlRpWTRpRnVjcHhDcVNLd2ZHcWRZWlJIVkRsb1RCWTFPNVQySm9XWGZlT3BvYmtMWHJKb0E?oc=5"
       ]
     },
     {
       "title": "Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer",
-      "score": 19.46,
+      "score": 21.18,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -56,8 +33,21 @@
       ]
     },
     {
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "score": 19.59,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
+      ]
+    },
+    {
       "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "score": 19.61,
+      "score": 19.34,
       "kinds": [
         "backlog",
         "official"
@@ -69,43 +59,60 @@
       ]
     },
     {
-      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
-      "score": 17.86,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
-      ]
-    },
-    {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "score": 24.44,
+      "score": 26.16,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBdTZiWjRPOVk3NlhndEVvWE5Db1dkeTk4M3V2M0tYb0VTN3ptZzlHV3I3bmk5MVppNWZhUzk4Sk1DQTg4SEE?oc=5",
-        "https://openai.com/index/kuken"
+        "https://openai.com/index/kuken",
+        "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBdTZiWjRPOVk3NlhndEVvWE5Db1dkeTk4M3V2M0tYb0VTN3ptZzlHV3I3bmk5MVppNWZhUzk4Sk1DQTg4SEE?oc=5"
       ]
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "score": 19.38,
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "score": 18.58,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
+        "https://openai.com/index/control-room"
+      ]
+    },
+    {
+      "title": "OpenAI Deploys Control Room to Cut Off Research Model Output",
+      "score": 17.98,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVRBOW53U1JIR3RiYzRvcEl2a1o2UHU5cWxYbWRZUm9EWXpDX1F4a05lVmNTajBSNUx6XzZIdDNqNG0tcUV0SDVRZDJad2gtYVk3czNpU3FvXzlPc2dRWlIzcHY4aTlvN3JKaGU5UWlCX2NTSlVYODVHRmlpdEI5VzdHMnR0ZG90MXc?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0kwZnpCQWU1QzZLb1FuUmZ1ZTR5S1Y4RkRXZXR4YTVIdUppNFFwTXBTNWxHLVlDOGV6Wk1rTXdMT2VoM0ZsNUZRQUt5RTRITzZ2QUMxaXlLLWhkN3R3VmlKbG9OcXJVcVJ0NGdLcUNVbjFmaEVfVGFRWXh3bWpQYTlSaFRaUmcyVjZhTg?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamVhb2JIQ3hqdHdzRUVvdkdKbHE2eDZKSlBQNU5jTGpVakdQZFZQemlJYnJneHlqM1docXA3STRFZ3pJT3ctQ2Q4UVpsWmJYb0dCUXhkT3djdzdfd0Nnb0RNOGVMdVB6eHkxNThJVHZ5cWptTkROSkFGdDVDYmlXZ0tEQ0l5dWFPUVVlYjhUTk5Ga2VhUTlOSEstTnVESW1KZ1VKRjIxYU5fNjUwWWNWWXdJamNVVHZCdXlRYmVvM2cyajQ?oc=5"
+      ]
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "score": 21.11,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
         "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
       ]
     },
     {
       "title": "Venomics AI Raises $2.7M in Pre-Seed Funding",
-      "score": 18.55,
+      "score": 18.28,
       "kinds": [
         "news"
       ],
@@ -116,22 +123,19 @@
       ]
     },
     {
-      "title": "The use of artificial intelligence in regulatory activities – key areas and considerations",
-      "score": 18.1,
+      "title": "Goa State Cooperative Bank Plans UPI, Netbanking by March",
+      "score": 17.99,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2VEX0g3LXREM0JndWd1YnJ4dEk4WTNNMWRwUEtHd3pldnBuLUFTazg3c0hTN1gzOWVJbkNrLUVUYURuX2l0Q1N6Q2VlX3hraFVTX0g4R1BOYjZKOVllRk92aG5XUHU0MkVndUpvZGhXUFJKU3BLc3NnaTBTRjhacEpkZUYxak5ic1NrTE5OZnZZWXVlZTJCcHg0RWkyU1Q1dE9uRW42cmNmbmVzaWtOSVR4SFhsdWR6WmFJczJHSFctUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzhDSFRIQTZIVEZJeVNoZmFvWTBfU251WWkyblJBdGYyUERBMkxKUWl0VFZrcXBMTDN1b3U4cDBJTVVDZ19GTXg3T0pRNjlHb0dsd2RsVS1hQUJGM2RvQVo5R1RHRzNxekRrRWUyTXNmMjNfMDd5NnZmRlU3MUFEVk5faFNZbEV2VlZjTjh0MmhPRVVw?oc=5"
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1RvMmJiVnB0VjFzY0FBYWlWX3h5MUhib0t3a1Nkam1keVRfOGFvVjdnQVhuc3BfWi1Jd0s0a1FMTklHUXpqb3YwbVJfbDlNQlhISzc3SkJyYl9IUXE1QlJVUmxkclhIZFFRRkhvV0NPaDg4T0h2UENZZUlpb0tvQmhPTDNiQ1RUYlhVcklGNA?oc=5"
       ]
     },
     {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "score": 18.75,
+      "score": 18.48,
       "kinds": [
         "official"
       ],
@@ -142,7 +146,7 @@
     },
     {
       "title": "More than 2 million people gather for Pope Leo XIV’s Mass in Buenos Aires — UPI",
-      "score": 19.14,
+      "score": 18.86,
       "kinds": [
         "news"
       ],
