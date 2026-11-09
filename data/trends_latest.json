@@ -1,60 +1,81 @@
 {
-  "job_id": "2026-11-09-evening-1701",
-  "chosen": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-  "reason": "It offers practical insight into how Nvidia is helping bring Asia's leading open-source AI models into enterprise production.",
+  "job_id": "2026-11-09-evening-1802",
+  "chosen": "Preorders for smart glasses built by Samsung, Google to begin on Thursday",
+  "reason": "The upcoming preorder availability for Samsung and Google's smart glasses gives viewers an exciting look at the next major wave of AI-powered wearable hardware.",
   "candidates": [
     {
-      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "score": 19.37,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
-      ]
-    },
-    {
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "score": 20.12,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
-      ]
-    },
-    {
-      "title": "Sarvam appoints ex-Google Cloud India MD Sashikumar Sreedharan as president",
-      "score": 23.97,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamRJeHpVMnlQcEdFU3czaEFHalMzNEFDVXlSR1A0SHBsXzlsajlXUUtlVjZ2MTNwYm1ucmU0WmxrQ2FMOUpyRVcxZjJpejExUjFwaHlMUVRJd0V0UkNFZnhiS2ZrdDQyUkxaRVZuMTdiMGd3RnpFNUhwMkFiVmhsOWhuYmFWWFNLQ2ZDenE1NlRCd2VZODJURzBlellBY3pCaHRlSy1ZaXRMU05MZVhBOWJMYXFoSENVVVd0clBfR2dNYnFXSlk4VjNIcG1SQVZtUGVOT0Z1bFBySzN2Nm83M1lxRUoxVmZMVnFXemQxdjBVcVFDMnfSAfsBQVVfeXFMUE4taDJES0s2aTFSck5MZjhIR0o0T2Z2cWdYUk85SVFOOC00SUNuVk44bjhLbTM0OU9DZndIczg5NC1tazFSMnRlNkUzaF9fbWp1MjdXa2hoSlRmSHNRMkstbGVXMmtkRk9jZlN5TmVOSlpfcUZ4RXdoOHpFZzE4UENUUzBQZmZKNU9fQzI5MVU3eEJSOHAxSmpRdWlvNEE4a2EyYUE3UUVwYm1aa1l6S2NaWU1uWlZMajBsRDhuYm9Cak5HSHpDampva2VLNjVJTGJjZE4xYzIyeU1GdEhPZnRPeXJKRkRQVWFMeWM0ZmVWaUt0aXk5Z19QLUU?oc=5",
-        "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGEzMjRCNzNNaVJqd1puOVc0cVJJazZwUDdNLUtlbG15QllmMnVxdTEwTk01MGpwMGFsbEtuSFJTMHNwTDlueFhrTlVOR3BNSnJKZGRLaTZ3SUU2dTNpQTBlR21pai1LYl9PMmFNd3QzbUJyNlRaUGxaTncxYUtKRTg5ZjRheUQyTW0wd29NTWxJMUlOVmR5ZF9NTTcyMEhqSmZkeHhDNTNZV3ZOTzNLYlVQejN2SllGVl92YVVlazJJMFlCbm1ySm1jWXQxZVZZU0JvS3BrN24zQ3NWNE85RFU1bFF0endBMFNFSTRVTndEWS1WSHFNbnZrd1JjSjNrMFHSAfwBQVVfeXFMUHNtdHNwSW1fOEprbXVyN3lPOTB5RmtQZFRkVlJITU8zODRGOVZkYzBNVzNhUWRSeVdta1lhMndpb2s2eEJjLWFubkJlZHZwT3d2Y2dRRDdpUHBsUjVseC1KSW1lRTVZSzFWRWZibVhheXU3c1JHZ0VrTUhNaC1vYUtndFRzeEF2dEd2T0xRNlNVdXl1aEtBTjFMemc1Z0ZiTUE2SzhLWWExeXZlSlAwdUROc0FJWFZQQlFESG9oUGpqQ1pkbld4MVJaUzVTZkFLQ0ZEWVBVM09Ia053d2hwYVFBTU9Zc1U0NmRRWFVNNUgtYV94bThWejRjWkJp?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXNWV1hvRXZoQzBDRVdMc2FSWFJTTl94UHd4THZUcFFEMUpqbHFfTGg3LUs2Rk1KTlZmVHllV2Z0cnBsLWY2Sk9LdDFvM2ttdzV3bTNTeW9hQmtXdnhXd1dlUG9kLVc4N19hb2hUTlVvVmtOQ0hRVGpVY1A4MVh3WHV3NDFYTjJ4NnhpWkFrTHd3akx6WjU2U01FeDFmRnZxOFptQnVTdTdmTmd1cFpTN1lvLVowWWxGUWZlTG95cWl5Zw?oc=5"
-      ]
-    },
-    {
       "title": "Preorders for smart glasses built by Samsung, Google to begin on Thursday",
-      "score": 25.13,
+      "score": 18.87,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWxCT3NIN18xMU8tZ2VWeGlfRm1rX0tCZTFWSmVBOExPOHhYcG1PV0ZISWx2T3JoRks2Mlh5NC1hSGRvWnMwN2tFUkV4cDJlWVVBeG5tVEpkYTk0NUgxb2EzN1RBdWpPZ2tPVEtwMFEzOWVPZjBMUjljbWtDUEhxMG55ZDBGRFBTSFFCcUZaUjBKMnAtbklUcVJLX2s1SXRpcVV1QUktQVZLekZYQ1YxakNKdTRMQ01JUEc2MlRFdzlwSmc?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWxCT3NIN18xMU8tZ2VWeGlfRm1rX0tCZTFWSmVBOExPOHhYcG1PV0ZISWx2T3JoRks2Mlh5NC1hSGRvWnMwN2tFUkV4cDJlWVVBeG5tVEpkYTk0NUgxb2EzN1RBdWpPZ2tPVEtwMFEzOWVPZjBMUjljbWtDUEhxMG55ZDBGRFBTSFFCcUZaUjBKMnAtbklUcVJLX2s1SXRpcVV1QUktQVZLekZYQ1YxakNKdTRMQ01JUEc2MlRFdzlwSmc?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0psRHIxbGtJNk1xTjlIRExVY1AxeGtTWXlJa1lMSFo0bGswcVZjV25kZVhMNXZIdG9mcHBzeS1qcUhMLUxyUlFOUmJGRVdvRnp5TmN0TVNDaGp2OFdsbjZKSFJKbjllMFZMQjhfS3ZITnh5dnBLQ2I0R3NkRy1ya3VUcWNjMkVOU0VKbjR1bHBvVG5Ub0VCRU1B?oc=5",
         "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWxCT3NIN18xMU8tZ2VWeGlfRm1rX0tCZTFWSmVBOExPOHhYcG1PV0ZISWx2T3JoRks2Mlh5NC1hSGRvWnMwN2tFUkV4cDJlWVVBeG5tVEpkYTk0NUgxb2EzN1RBdWpPZ2tPVEtwMFEzOWVPZjBMUjljbWtDUEhxMG55ZDBGRFBTSFFCcUZaUjBKMnAtbklUcVJLX2s1SXRpcVV1QUktQVZLekZYQ1YxakNKdTRMQ01JUEc2MlRFdzlwSmc?oc=5"
       ]
     },
     {
-      "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks",
-      "score": 19.37,
+      "title": "Google AI Plus will lose access to Gemini Pro models on November 13",
+      "score": 21.58,
       "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCVy1iZm9iSjFaRVBHQ1JYQ0pnNXhCRnJLaWdMLXI0SG5fel9kOGpKZzJha0pTMkZJdHVXNFk1dWkyRjR6dTBLaHNsRDZxRzl1YVVrclZGa29sVHZjRnhBOWFid2E5V2lQYVRLU0JVeV9IeldpMjZtV2VKYmUzZw?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2JiazhtdkZuRUdfN1U0XzA4dmt2MVlrWkNSMUN5ZEdsSkdDWVpvSS1DOXBuc0xoNEpHamZGZjVIS1prNzRYUzlFLWlvQ2xJaFVVWVI4bzZYMWNkVUMzeFFqQlhKQjU5V3NLNW5wcW9BNHhQNE9kZGxxS0Z2QlBIWjZCaXA5QTZPQmRJXzVMc3VUN2tmRnlWTjR2NVFjYUU?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lXzJ0aGVLVW9xMFRYV2VaTFlWYlBsajFJeXVTQzB0ZnlkUFcxeFhUcE5CdHRTcTg3OUg1OEtDNFg5V0R1V2d0MW1hSmgwUFhkcjFJSlJvQkNnM19xZXVKUk9USVpFLXZzNGNoWnlqMmtMQ1FLc3c?oc=5"
+      ]
+    },
+    {
+      "title": "Sarvam appoints former Google Cloud India MD Sashikumar as President & CBO",
+      "score": 25.83,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd09jVDV5OUUtcmdoTHFsZkttdExMNEZfbGxKVEQtMy1kblA1UWNvbjlxUGJ4dFhoRlVxdzZlTS05VFktaDQyR0tMOFhrMFJISlJjdkFxUlJiN3QtTlgtX3VaSlQxUUJ1NUlFOW1NcFo3Z0llbWNmRXpxUjltUDh6bFlaRVVZZWhhdncydjVOT0dJb0Y4WDl4QXRwNnVCNVRQdnZFbUppeXNBYWlKbGxuWGEtSnZFbGFJUWUxajZwckpPZ2tydC1MUFpIa1JqeHpOZWRvZHFFWm9BendFeE1wdQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd09jVDV5OUUtcmdoTHFsZkttdExMNEZfbGxKVEQtMy1kblA1UWNvbjlxUGJ4dFhoRlVxdzZlTS05VFktaDQyR0tMOFhrMFJISlJjdkFxUlJiN3QtTlgtX3VaSlQxUUJ1NUlFOW1NcFo3Z0llbWNmRXpxUjltUDh6bFlaRVVZZWhhdncydjVOT0dJb0Y4WDl4QXRwNnVCNVRQdnZFbUppeXNBYWlKbGxuWGEtSnZFbGFJUWUxajZwckpPZ2tydC1MUFpIa1JqeHpOZWRvZHFFWm9BendFeE1wdQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamRJeHpVMnlQcEdFU3czaEFHalMzNEFDVXlSR1A0SHBsXzlsajlXUUtlVjZ2MTNwYm1ucmU0WmxrQ2FMOUpyRVcxZjJpejExUjFwaHlMUVRJd0V0UkNFZnhiS2ZrdDQyUkxaRVZuMTdiMGd3RnpFNUhwMkFiVmhsOWhuYmFWWFNLQ2ZDenE1NlRCd2VZODJURzBlellBY3pCaHRlSy1ZaXRMU05MZVhBOWJMYXFoSENVVVd0clBfR2dNYnFXSlk4VjNIcG1SQVZtUGVOT0Z1bFBySzN2Nm83M1lxRUoxVmZMVnFXemQxdjBVcVFDMnfSAfsBQVVfeXFMUE4taDJES0s2aTFSck5MZjhIR0o0T2Z2cWdYUk85SVFOOC00SUNuVk44bjhLbTM0OU9DZndIczg5NC1tazFSMnRlNkUzaF9fbWp1MjdXa2hoSlRmSHNRMkstbGVXMmtkRk9jZlN5TmVOSlpfcUZ4RXdoOHpFZzE4UENUUzBQZmZKNU9fQzI5MVU3eEJSOHAxSmpRdWlvNEE4a2EyYUE3UUVwYm1aa1l6S2NaWU1uWlZMajBsRDhuYm9Cak5HSHpDampva2VLNjVJTGJjZE4xYzIyeU1GdEhPZnRPeXJKRkRQVWFMeWM0ZmVWaUt0aXk5Z19QLUU?oc=5"
+      ]
+    },
+    {
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "score": 21.87,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+        "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
+      ]
+    },
+    {
+      "title": "SplashBI opens Hyderabad GCC, announces $100 million investment to strengthen enterprise data intelligence and AI capabilities",
+      "score": 21.81,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWExCSlk0X01FdVR1bzN6TDRZS2xiMGxhOWFtQVlkQjI1UldUVjBjQVJEQkhNa2Z6MXJDOUVwUTBGQjM2Y0EweVlNRlJLdnUyOUo2eHNqOWFManBneTc3VERaNU10ME8yNDY3ZjBPbEpnczRFVU5famRSdk9UaXYtT2VzUHZzT19kTW1jT2JwQ2V2M0N4U2NJVUdxNzBkOERYaFFDTHFKN0xQRWZ1aE84T0hCZXduRVpFQnNlLUwteUlnYW5GTGhCeUk5TWJwUGhhR3YzN2hKbjVSSG42Vk1hT2xhRW1hN1YtV256d2piQjVnbjQ5LXVkTlB4UzE4amVJcG5xSHNMVmczdUpIUnZjZV9jTHZheGM?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkExZkoxd1I5MHhyd2tWamNzZi1DdVlGVTZIVzNENlZaa1JqdEx2Unh1dmplcXhYZVJqZ3BHZEFXUFlZUXB3WXlxWXl1QUNuZGpPdUFjdV8wa3lmNXFrN2JhREdxUkxIaXRMbFExc2ZyLXBKUTBOUXdrWXZGZ2E4NFprcDhsakNiVmg3ck1SWGZTTk1sTkxHcjcwNjJUQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGdvQlU2X25GQ20wdlRHSkFhaDV2d25iTVB6Rk4tc3FiZGVOblB6X25FcThqVnhoclJDdnl6RVFVREdCRTZiR1BMUEEwcWhnNS1jMllWaEpva25LVWRZNXc5SWExUWlkWndNYXB1Nk1WdE5kWkFvQXlmQXVGaVlHNnNR?oc=5"
+      ]
+    },
+    {
+      "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks",
+      "score": 19.11,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -65,72 +86,8 @@
       ]
     },
     {
-      "title": "Google AI Plus loses Gemini Pro models on November 13",
-      "score": 19.83,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2JiazhtdkZuRUdfN1U0XzA4dmt2MVlrWkNSMUN5ZEdsSkdDWVpvSS1DOXBuc0xoNEpHamZGZjVIS1prNzRYUzlFLWlvQ2xJaFVVWVI4bzZYMWNkVUMzeFFqQlhKQjU5V3NLNW5wcW9BNHhQNE9kZGxxS0Z2QlBIWjZCaXA5QTZPQmRJXzVMc3VUN2tmRnlWTjR2NVFjYUU?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCVy1iZm9iSjFaRVBHQ1JYQ0pnNXhCRnJLaWdMLXI0SG5fel9kOGpKZzJha0pTMkZJdHVXNFk1dWkyRjR6dTBLaHNsRDZxRzl1YVVrclZGa29sVHZjRnhBOWFid2E5V2lQYVRLU0JVeV9IeldpMjZtV2VKYmUzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lXzJ0aGVLVW9xMFRYV2VaTFlWYlBsajFJeXVTQzB0ZnlkUFcxeFhUcE5CdHRTcTg3OUg1OEtDNFg5V0R1V2d0MW1hSmgwUFhkcjFJSlJvQkNnM19xZXVKUk9USVpFLXZzNGNoWnlqMmtMQ1FLc3c?oc=5"
-      ]
-    },
-    {
-      "title": "motorola signature 27 ranked by DXOMARK as having the world’s best camera system launched in 2026",
-      "score": 21.7,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzlmRnJZNDIyc2hRY0V3Qzd5Z2NpcDZLdTB0QWI0aElXWVRabENhdWZCSkxUQ0pGUXctOUpBWlZQQnE2RENGWWMtM1Q3ZnZ3U1BoNTZpV2xoOWVtRmRBVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzlmRnJZNDIyc2hRY0V3Qzd5Z2NpcDZLdTB0QWI0aElXWVRabENhdWZCSkxUQ0pGUXctOUpBWlZQQnE2RENGWWMtM1Q3ZnZ3U1BoNTZpV2xoOWVtRmRBVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzlmRnJZNDIyc2hRY0V3Qzd5Z2NpcDZLdTB0QWI0aElXWVRabENhdWZCSkxUQ0pGUXctOUpBWlZQQnE2RENGWWMtM1Q3ZnZ3U1BoNTZpV2xoOWVtRmRBVQ?oc=5"
-      ]
-    },
-    {
-      "title": "The Oppo Reno17 and Reno17 Pro are launching next week - GSMArena.com news",
-      "score": 18.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tuMS1IbXJlWmFGUFEzRENGZmtLd0IyZmVGQ0dRM3dRYm92c185T3NYd2laRUIzN1lQRlM3aGlTT2dxVHE0bmZ3Rl9ST1JDTzI1bEw4bExwd0gxVDZTQlpaVXo5dG9tNkx3RG13NnVpYXdiTGhvNnJsMThYN0hjRGROWmxWN3R3MjBaclgtOW9JX2ZpYU9IWmJR0gGWAUFVX3lxTE5oSlE3V3RoQndlWXdHRnVEMGgxeklDWjE5ZEpNQ1ExSE5mdXFJTUVveEpxS0dtaXNtcTNkd3Z6bEFNaG5UejVFNW5RR1NLNFFMMzdBMktUcVZzazNocjZ5UFlFOGpiR2oweUlEVlltb0pQTnNCWlhLSElFcHluYVVUczBOX3NtYXI5WkViOTFPOVBLQzRvQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tuMS1IbXJlWmFGUFEzRENGZmtLd0IyZmVGQ0dRM3dRYm92c185T3NYd2laRUIzN1lQRlM3aGlTT2dxVHE0bmZ3Rl9ST1JDTzI1bEw4bExwd0gxVDZTQlpaVXo5dG9tNkx3RG13NnVpYXdiTGhvNnJsMThYN0hjRGROWmxWN3R3MjBaclgtOW9JX2ZpYU9IWmJR0gGWAUFVX3lxTE5oSlE3V3RoQndlWXdHRnVEMGgxeklDWjE5ZEpNQ1ExSE5mdXFJTUVveEpxS0dtaXNtcTNkd3Z6bEFNaG5UejVFNW5RR1NLNFFMMzdBMktUcVZzazNocjZ5UFlFOGpiR2oweUlEVlltb0pQTnNCWlhLSElFcHluYVVUczBOX3NtYXI5WkViOTFPOVBLQzRvQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tuMS1IbXJlWmFGUFEzRENGZmtLd0IyZmVGQ0dRM3dRYm92c185T3NYd2laRUIzN1lQRlM3aGlTT2dxVHE0bmZ3Rl9ST1JDTzI1bEw4bExwd0gxVDZTQlpaVXo5dG9tNkx3RG13NnVpYXdiTGhvNnJsMThYN0hjRGROWmxWN3R3MjBaclgtOW9JX2ZpYU9IWmJR0gGWAUFVX3lxTE5oSlE3V3RoQndlWXdHRnVEMGgxeklDWjE5ZEpNQ1ExSE5mdXFJTUVveEpxS0dtaXNtcTNkd3Z6bEFNaG5UejVFNW5RR1NLNFFMMzdBMktUcVZzazNocjZ5UFlFOGpiR2oweUlEVlltb0pQTnNCWlhLSElFcHluYVVUczBOX3NtYXI5WkViOTFPOVBLQzRvQQ?oc=5"
-      ]
-    },
-    {
-      "title": "Apple iPhone 18 Launch: Check Expected India Price, Design, Camera, Battery And More",
-      "score": 19.02,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclMxNml3TTdSblVPZWlkLVlNbWJ1NUpaSTUwbUJ2UEppakwydDZCVkdEM2VrNndmckNKNlRhcU5uWlFkSy1PeG5xeUw5b1E2eHNwT2pPeXdZeWh3b3lKODlJNlBNbTd6YnpjbEczWWtBQ0NKdXJhYl9wUjBhLXQyR2syWG1oVzE4blBreGJhaFdQSXl5cnRxZnNIUDB2Y19lOWswa2dlZjdaWFRBcGpTSXByeGVFODl3MmdlcldPQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFlJQ0pCaDhzd2l6YkdEU2hta3NybVptYXJmOGhNMWw4UzJzWWsya1lVZUYzMG1kTzRuMmdiOVR6Wms4U1E2VGItRmxQZUNOLWU5emJBZjhudDdfemtDek1IcWVJNHYzYTZMS1FjQUlTamhBVUxyMjhOVllReExQMldlMzFuc2FUZDBtN0hiUjE1OVJlUFJuQzJHLXAwbENjaDF1T0VockVSV2EzM3pGN2JPZ1RSdjJJMmZjaURTQnFiWDN0LTZBTGJDdThvTWVKRlZiY0VlSk01QjVu0gHcAUFVX3lxTE9QWUlDSkJoOHN3aXpiR0RTaG1rc3JtWm1hcmY4aE0xbDhTMnNZazJrWVVlRjMwbWRPNG4yZ2I5VHpaazhTUTZUYi1GbFBlQ04tZTl6YkFmOG50N196a0N6TUhxZUk0djNhNkxLUWNBSVNqaEFVTHIyOE5WWVF4TFAyV2UzMW5zYVRkMG03SGJSMTU5UmVQUm5DMkctcDBsQ2NoMXVPRWhyRVJXYTMzekY3Yk9nVFJ2MkkyZmNpRFNCcWJYM3QtNkFMYkN1OG9NZUpGVmJjRWVKTTVCNW4?oc=5"
-      ]
-    },
-    {
-      "title": "22feet and AJIO take Diwali shopping into space with new ‘Ghar Wapsi Deals’ campaign",
-      "score": 21.12,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak1YV3hzMnJjalhVM3BfSTBqUDhidEFGUDBQTFJBVEhYT3pGaEh5YnloVnN4U2NiVmtPZVdGY0hfOXlRbGpMZnhFbHp1dURhT1IycFh0OUgyX3FGMW01Y3cybDFUMU9pWEttWHlKN2Z0MlhaN2lzVW5ERzVGZldMVWVERk1JSGtjWE5QM0JIaHBjdUZTd0dFRHFBVk1Gc0MxQWhERmJSTmNEZFFIUjVHVFVQNE14OURGT29RdmhGdUJSdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak1YV3hzMnJjalhVM3BfSTBqUDhidEFGUDBQTFJBVEhYT3pGaEh5YnloVnN4U2NiVmtPZVdGY0hfOXlRbGpMZnhFbHp1dURhT1IycFh0OUgyX3FGMW01Y3cybDFUMU9pWEttWHlKN2Z0MlhaN2lzVW5ERzVGZldMVWVERk1JSGtjWE5QM0JIaHBjdUZTd0dFRHFBVk1Gc0MxQWhERmJSTmNEZFFIUjVHVFVQNE14OURGT29RdmhGdUJSdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak1YV3hzMnJjalhVM3BfSTBqUDhidEFGUDBQTFJBVEhYT3pGaEh5YnloVnN4U2NiVmtPZVdGY0hfOXlRbGpMZnhFbHp1dURhT1IycFh0OUgyX3FGMW01Y3cybDFUMU9pWEttWHlKN2Z0MlhaN2lzVW5ERzVGZldMVWVERk1JSGtjWE5QM0JIaHBjdUZTd0dFRHFBVk1Gc0MxQWhERmJSTmNEZFFIUjVHVFVQNE14OURGT29RdmhGdUJSdw?oc=5"
-      ]
-    },
-    {
       "title": "The Family Office in the age of Artificial Intelligence",
-      "score": 19.71,
+      "score": 19.45,
       "kinds": [
         "news"
       ],
@@ -142,16 +99,69 @@
       ]
     },
     {
-      "title": "As Jensen Huang's affair shocks global business world, five things Elon Musk agrees about Nvidia CEO",
-      "score": 26.41,
+      "title": "The Oppo Reno17 and Reno17 Pro are launching next week - GSMArena.com news",
+      "score": 20.61,
       "kinds": [
-        "community",
+        "backlog",
         "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeC1ydDNGbmJnbkFwUHdmR0I3OXpSSlM0S3RBTUl2WUdyOTFXQm9GSmpWSlNmZzlkYjBYRHRsLURGU2lsbXhuMWFOMGhIRHR1Ym1vVk05Mmp6ZmJLRU9sT3V6bFlpdF84Wmk3VEdYWWdrTjBQbnVBZjZqQ1NBTmRBQ01Ua25MVmpYelBUNU1HWkowSkVpWmg3RENTTXoxUmRpV08tOFBBQjlTSXRJZnl1dk5OZE15MnFoVlBvRjN3QUtVdkhpYnJHTUZnTFdFeFdBbXFmMjd0bnplZFRwbzRxcXFubnV4NXhpRnd1a21WVDR3S3JPdUhjejlGNGFQZXRtb2ZROFA3V19uTzZNNFHSAZMCQVVfeXFMTUw5Z2lJclU0R2x6YkNhV0swN2pYOXFYcV85N0M5U0JGMFhyNi00dnV1ajEwVG5KZXprSHloSUo5NlRKM2FtVC04U29fV2FWUjlyT3FtSzZLZlVqc2Z3RFA3a2NLcGNZcndKQzJpVzZoOW9sd0Y0QmFrdWlqN2U2amtoT3JGZjJWRUU2YXRva0ZWRFBiN2NKMEpxRjNSZkJjQVJxM3cwaE92dGU4bUJRaVlubnJYdHpoSHpBT29sVnBTRzNNZDhEajdWYWZHSmpwa1JJVDBfU0Z2WHJmQzNJbXh0dGJDMHdhUTVrUWMxNGViRDQyam90RzhXWVpJaDRBRk5mNFdVTFdjMzZwWmFlQ2NmN2s?oc=5",
-        "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tuMS1IbXJlWmFGUFEzRENGZmtLd0IyZmVGQ0dRM3dRYm92c185T3NYd2laRUIzN1lQRlM3aGlTT2dxVHE0bmZ3Rl9ST1JDTzI1bEw4bExwd0gxVDZTQlpaVXo5dG9tNkx3RG13NnVpYXdiTGhvNnJsMThYN0hjRGROWmxWN3R3MjBaclgtOW9JX2ZpYU9IWmJR0gGWAUFVX3lxTE5oSlE3V3RoQndlWXdHRnVEMGgxeklDWjE5ZEpNQ1ExSE5mdXFJTUVveEpxS0dtaXNtcTNkd3Z6bEFNaG5UejVFNW5RR1NLNFFMMzdBMktUcVZzazNocjZ5UFlFOGpiR2oweUlEVlltb0pQTnNCWlhLSElFcHluYVVUczBOX3NtYXI5WkViOTFPOVBLQzRvQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tuMS1IbXJlWmFGUFEzRENGZmtLd0IyZmVGQ0dRM3dRYm92c185T3NYd2laRUIzN1lQRlM3aGlTT2dxVHE0bmZ3Rl9ST1JDTzI1bEw4bExwd0gxVDZTQlpaVXo5dG9tNkx3RG13NnVpYXdiTGhvNnJsMThYN0hjRGROWmxWN3R3MjBaclgtOW9JX2ZpYU9IWmJR0gGWAUFVX3lxTE5oSlE3V3RoQndlWXdHRnVEMGgxeklDWjE5ZEpNQ1ExSE5mdXFJTUVveEpxS0dtaXNtcTNkd3Z6bEFNaG5UejVFNW5RR1NLNFFMMzdBMktUcVZzazNocjZ5UFlFOGpiR2oweUlEVlltb0pQTnNCWlhLSElFcHluYVVUczBOX3NtYXI5WkViOTFPOVBLQzRvQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tuMS1IbXJlWmFGUFEzRENGZmtLd0IyZmVGQ0dRM3dRYm92c185T3NYd2laRUIzN1lQRlM3aGlTT2dxVHE0bmZ3Rl9ST1JDTzI1bEw4bExwd0gxVDZTQlpaVXo5dG9tNkx3RG13NnVpYXdiTGhvNnJsMThYN0hjRGROWmxWN3R3MjBaclgtOW9JX2ZpYU9IWmJR0gGWAUFVX3lxTE5oSlE3V3RoQndlWXdHRnVEMGgxeklDWjE5ZEpNQ1ExSE5mdXFJTUVveEpxS0dtaXNtcTNkd3Z6bEFNaG5UejVFNW5RR1NLNFFMMzdBMktUcVZzazNocjZ5UFlFOGpiR2oweUlEVlltb0pQTnNCWlhLSElFcHluYVVUczBOX3NtYXI5WkViOTFPOVBLQzRvQQ?oc=5"
+      ]
+    },
+    {
+      "title": "motorola signature 27 ranked by DXOMARK as having the world’s best camera system launched in 2026",
+      "score": 23.44,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzlmRnJZNDIyc2hRY0V3Qzd5Z2NpcDZLdTB0QWI0aElXWVRabENhdWZCSkxUQ0pGUXctOUpBWlZQQnE2RENGWWMtM1Q3ZnZ3U1BoNTZpV2xoOWVtRmRBVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzlmRnJZNDIyc2hRY0V3Qzd5Z2NpcDZLdTB0QWI0aElXWVRabENhdWZCSkxUQ0pGUXctOUpBWlZQQnE2RENGWWMtM1Q3ZnZ3U1BoNTZpV2xoOWVtRmRBVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzlmRnJZNDIyc2hRY0V3Qzd5Z2NpcDZLdTB0QWI0aElXWVRabENhdWZCSkxUQ0pGUXctOUpBWlZQQnE2RENGWWMtM1Q3ZnZ3U1BoNTZpV2xoOWVtRmRBVQ?oc=5"
+      ]
+    },
+    {
+      "title": "TORRAS Launches FlashEye Dot, a Smart Charger That Displays iPhone Model and Charging Status",
+      "score": 20.63,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTTZrZFhWQnFWLUVHNXFmcUw5bHJ1Y0N0dURKT01TVlB2elRQQXZBR2x0Rm9tTVFUcDY0WE9CeE1YZnZacXdLV1V0TVAxYzlHS1hXMWt3WTBQWTJYcFo0QTJNZVd4dDhrRnJ3VE95Z2VVMXlDSGFfdVF5UFJWTTh0S1Bueno4TnRhMVZSRjBySEV6ZW0zY1lhbGhaQ3J3cjhYbFdqdXRPRFVqTnFYWFBDZU9pOEFMazYzSVpiSjZscFkyM3JmVFJqTjNQblBFTFlfLU8tdWVTWmQtLUNrSDdycTNyMXlwU1pQZXN2Nkg0Z2hpZ9IB9wFBVV95cUxNbkNHam9nTWxPV2Qzd3RIclNZYmZKZ0h1YTdxRVRZNWVUbWkwRXhBSFhzWXkwLW53b0oyU1Bpb3JiXzJiWTlPZFBPU2IybUxKODlGRlgyeThDZ0RPVnZKX2l5ZC1xRnhMQjZzV2hyWFMyRFA3eVMyQ3BCczFqSE00MW5oRXlUaFpSRTFiVFJRT2V3SFp0QXFiLVJiaUhSMldpdUs5TUVKXzJ0eFZTYTVoUy1QcThiRW4xQ01nZWhqRVplOWtZOFJoWlotMklxdXhrRUtHdkNsc3NZZ2FNczNtUDQ1RHVXTW9DU2NFYmRxNG9tS3c1bmpN?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdllTUFdtSUVNUy1xb1NJaGlwR2l0dHc2eHVUR3kwdGl1bm9vNTlTMGFhUHByUkQxeEtZV2pEdUlldWQ2bjBmYm0xazJiNWZlV2pSTHJsX092NkZwX0JyTWJkNDV1RlFrdnl4TzN5RU5FQXVreE5xSFlPWUtuNjFLTVpsS0laTVotcWRRckpuenJZcC1qZUZ1WVVVM1p6UkNhZ0hUelVNMDYtQ1BucUE?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdllTUFdtSUVNUy1xb1NJaGlwR2l0dHc2eHVUR3kwdGl1bm9vNTlTMGFhUHByUkQxeEtZV2pEdUlldWQ2bjBmYm0xazJiNWZlV2pSTHJsX092NkZwX0JyTWJkNDV1RlFrdnl4TzN5RU5FQXVreE5xSFlPWUtuNjFLTVpsS0laTVotcWRRckpuenJZcC1qZUZ1WVVVM1p6UkNhZ0hUelVNMDYtQ1BucUE?oc=5"
+      ]
+    },
+    {
+      "title": "Apple iPhone 18 Launch: Check Expected India Price, Design, Camera, Battery And More",
+      "score": 18.77,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclMxNml3TTdSblVPZWlkLVlNbWJ1NUpaSTUwbUJ2UEppakwydDZCVkdEM2VrNndmckNKNlRhcU5uWlFkSy1PeG5xeUw5b1E2eHNwT2pPeXdZeWh3b3lKODlJNlBNbTd6YnpjbEczWWtBQ0NKdXJhYl9wUjBhLXQyR2syWG1oVzE4blBreGJhaFdQSXl5cnRxZnNIUDB2Y19lOWswa2dlZjdaWFRBcGpTSXByeGVFODl3MmdlcldPQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFlJQ0pCaDhzd2l6YkdEU2hta3NybVptYXJmOGhNMWw4UzJzWWsya1lVZUYzMG1kTzRuMmdiOVR6Wms4U1E2VGItRmxQZUNOLWU5emJBZjhudDdfemtDek1IcWVJNHYzYTZMS1FjQUlTamhBVUxyMjhOVllReExQMldlMzFuc2FUZDBtN0hiUjE1OVJlUFJuQzJHLXAwbENjaDF1T0VockVSV2EzM3pGN2JPZ1RSdjJJMmZjaURTQnFiWDN0LTZBTGJDdThvTWVKRlZiY0VlSk01QjVu0gHcAUFVX3lxTE9QWUlDSkJoOHN3aXpiR0RTaG1rc3JtWm1hcmY4aE0xbDhTMnNZazJrWVVlRjMwbWRPNG4yZ2I5VHpaazhTUTZUYi1GbFBlQ04tZTl6YkFmOG50N196a0N6TUhxZUk0djNhNkxLUWNBSVNqaEFVTHIyOE5WWVF4TFAyV2UzMW5zYVRkMG03SGJSMTU5UmVQUm5DMkctcDBsQ2NoMXVPRWhyRVJXYTMzekY3Yk9nVFJ2MkkyZmNpRFNCcWJYM3QtNkFMYkN1OG9NZUpGVmJjRWVKTTVCNW4?oc=5"
+      ]
+    },
+    {
+      "title": "22feet and AJIO take Diwali shopping into space with new ‘Ghar Wapsi Deals’ campaign",
+      "score": 20.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak1YV3hzMnJjalhVM3BfSTBqUDhidEFGUDBQTFJBVEhYT3pGaEh5YnloVnN4U2NiVmtPZVdGY0hfOXlRbGpMZnhFbHp1dURhT1IycFh0OUgyX3FGMW01Y3cybDFUMU9pWEttWHlKN2Z0MlhaN2lzVW5ERzVGZldMVWVERk1JSGtjWE5QM0JIaHBjdUZTd0dFRHFBVk1Gc0MxQWhERmJSTmNEZFFIUjVHVFVQNE14OURGT29RdmhGdUJSdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak1YV3hzMnJjalhVM3BfSTBqUDhidEFGUDBQTFJBVEhYT3pGaEh5YnloVnN4U2NiVmtPZVdGY0hfOXlRbGpMZnhFbHp1dURhT1IycFh0OUgyX3FGMW01Y3cybDFUMU9pWEttWHlKN2Z0MlhaN2lzVW5ERzVGZldMVWVERk1JSGtjWE5QM0JIaHBjdUZTd0dFRHFBVk1Gc0MxQWhERmJSTmNEZFFIUjVHVFVQNE14OURGT29RdmhGdUJSdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak1YV3hzMnJjalhVM3BfSTBqUDhidEFGUDBQTFJBVEhYT3pGaEh5YnloVnN4U2NiVmtPZVdGY0hfOXlRbGpMZnhFbHp1dURhT1IycFh0OUgyX3FGMW01Y3cybDFUMU9pWEttWHlKN2Z0MlhaN2lzVW5ERzVGZldMVWVERk1JSGtjWE5QM0JIaHBjdUZTd0dFRHFBVk1Gc0MxQWhERmJSTmNEZFFIUjVHVFVQNE14OURGT29RdmhGdUJSdw?oc=5"
       ]
     }
   ]
