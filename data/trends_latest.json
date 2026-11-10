@@ -1,26 +1,13 @@
 {
-  "job_id": "2026-11-11-morning-0016",
-  "chosen": "Google Cloud launches Gemini for healthcare.",
-  "reason": "Google's launch of Gemini for healthcare marks a major enterprise expansion of specialized AI models that impacts developers, medical professionals, and tech innovators.",
+  "job_id": "2026-11-11-morning-0128",
+  "chosen": "Gemini 4 Carbon is now available",
+  "reason": "Google's release of Gemini 4 Carbon brings a powerful new AI capability that viewers will want to learn about and start testing right away.",
   "candidates": [
     {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "score": 36.79,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2VJTXRQNTNRWVF0RU5JSmlZUTlzY1lLbW1WQVIydnhkRnktS0syRU5DeWxEUUdSZ01uNUlLbmhVN0Q5VVZabm5IMFI3MnltTm5tdWRkZ2FjX2lRekI0a2ZmSGJ3ejF5MnlmOWVEVnJVY3o5MW5EazhrTWNYWFlYM1ctYVhnN2swMVBzZVU0ZkxuejNERHlzX2xaT0xEdw?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYm92cWJnemR2VEFTUWMtNE9JV1JjZ0hjT2xHeGpPb3ZaTWZ0M0NVczVJakY2c29kUnJLNHZOWk5ncXFPM2diWWs4d05wUlMzN21sWXdpNnRWT08tRVB6eENzc192dWRLcTZoQTkwNklmbXFCb3pib25YY2FGd0VYNUk0MHlJY0lsNWtZQkphcU4zTnhFZGlxeEVpM2RlMmxGOWVhRG5fYWNNbTlUbmc?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjhqRF9QRmhSOGk3dGZjNFY1TFJZdGVfejQtRVVBUVFIS2RZQ0JZWVI1Z3ZzekdfYkYxVFNkWWN2VFgxSlRuc2dVcV9hQ3BjVDlheGQwUG94UzkzbkNtU2syZ3pBYWstRENIWFRVT0F1RUd0LWNlOThtSnFYb0c0RG9TdEpRdmc?oc=5"
-      ]
-    },
-    {
       "title": "Gemini 4 Carbon is now available",
-      "score": 36.56,
+      "score": 36.26,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
@@ -28,12 +15,41 @@
       "links": [
         "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5",
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU1HeWZ3MzY3RTRteTE5NDEwRFdjWElJMFJ1c2d4MXRRX0ViNlFoTkZuUXBHVE1BYU8yNEtmb0VvcEtqamlZUWZITzY4Nkp4RmRkRGN5Zk1EeG5QQ2toOFJ2WFJMM2ZVbC04STc2eHZDOXFiZTlxVjNPWmpSYk8tVEQ4S0x3UW9CTy1XbzZjQWNObllReV9Ud05CaWp0bXA4SzdGd3VhTmJ3cmxLVUpkdHM5d3l2V2VJT0RUNDEySQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU1HeWZ3MzY3RTRteTE5NDEwRFdjWElJMFJ1c2d4MXRRX0ViNlFoTkZuUXBHVE1BYU8yNEtmb0VvcEtqamlZUWZITzY4Nkp4RmRkRGN5Zk1EeG5QQ2toOFJ2WFJMM2ZVbC04STc2eHZDOXFiZTlxVjNPWmpSYk8tVEQ4S0x3UW9CTy1XbzZjQWNObllReV9Ud05CaWp0bXA4SzdGd3VhTmJ3cmxLVUpkdHM5d3l2V2VJT0RUNDEySQ?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5"
+      ]
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "score": 26.69,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE43UzlBME1xcXA2UVRBX0stek9uS3ZlNnU1U2txLURWekZCbHZrbVlLMHNDcHZmLUJsUDh2Q09QZkxGc0o1cnJxMUhpRHRBaEg3V2JWUVgwYk00bFVPTEFQNjcxMzY3c0ZvZXFYdw?oc=5",
+        "https://openai.com/index/introducing-businesses-chatgpt"
+      ]
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "score": 25.77,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
+        "https://openai.com/index/ai-effect-on-freelance-work",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5"
       ]
     },
     {
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "score": 21.31,
+      "score": 21.02,
       "kinds": [
         "backlog",
         "official"
@@ -45,24 +61,51 @@
       ]
     },
     {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "score": 28.89,
+      "title": "Gemini Intelligence: New features, on more devices",
+      "score": 20.76,
       "kinds": [
-        "community",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+      ]
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "score": 24.26,
+      "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
-        "https://openai.com/index/ai-effect-on-freelance-work",
-        "https://openai.com/index/ai-effect-on-freelance-work"
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5",
+        "https://openai.com/index/closing-ai-guidance-gap-education",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5"
+      ]
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "score": 25.04,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5",
+        "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5"
       ]
     },
     {
       "title": "India not a refuge but 'compelling' AI opportunity: Anand Mahindra",
-      "score": 21.39,
+      "score": 23.1,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -73,86 +116,35 @@
       ]
     },
     {
-      "title": "Helping caregivers use AI in everyday life",
-      "score": 25.34,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5",
-        "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-      ]
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "score": 24.55,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5",
-        "https://openai.com/index/closing-ai-guidance-gap-education",
-        "https://openai.com/index/closing-ai-guidance-gap-education"
-      ]
-    },
-    {
-      "title": "UPI volume jumps 32% on Diwali to 916.9 mn",
-      "score": 21.09,
+      "title": "Qantas to outsource 850 roles to India as part of major AI drive",
+      "score": 20.36,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjdEUTE4OUo3aUw0T0tqcHM3WlMtQ2RhNWFROHZYdkx5dUNrazhoWjNITkowd1ZiRzAzaE02cWxrN3JQUk54bzBHWmRnY1g5SUlqM0paNGxDcnNKRlFnVmdpSUlZUlU0T0k5S1lDNG5nbXBETmZ4S3huR2hoaGZFS19YcnVxYTUycmVXM1NnM3pJdjFDUTRrZ3BFWWRpRnZpSm5MeGlzNHpIamRCYzhiT3pwZ29RcHVzckRKWnkteHhRajQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFBBQktvZEs3TzkzdnEtcU5EV08tNlVTcXg3ek8ybWNEaXFZRDVyNld6LWkxYjRSU3RxZ19IcGxJb19ORk96V3NfMjRQcnd0XzAwekxfaVk1YnNacnJNVWUxZU50MUdkQjhlMGdPcFI5Y2hoaFdlMjFBZnZ1RjAtQ1hZWFI4NzNnWTBWWEFqSHdkQlB4dFdSclQtRmhUX0FMWHhGd3F3ZkI1ajVEUzFjUjM5M2FqNnhWNE44M0lOWGhnMTF2a2dmelJ30gHQAUFVX3lxTE5xcjRMdTJ5RnFXekhMWXY2OUhVSmhBSnBGRU9LeGYzaHVQYVprOGRILWVCM2VsdVJXdER0ZWt4LTdwWkFfWEdrbktRaktfdzd4eGFhTlB2WkNaMnJGUlhUeWhDUnZmQlVGeThHeWR3SVBUUW5lWGxBMF8wUW9tVDROakJPejhKcVYwdERvRS1hZGlobldzQ1ljR1F0cWJrVmU1T3Z5Y1ZwVzJwWmJCbk9vWjlVaG1oSFg1VW1kNFVNV1MzSGJhU2pjWnZFX25IcVc?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUtIR3VXV0xwdG44NUItMHZIR1VhdERLQTUzaHFRa3ItZjNRYjRCSjFFZHRSaGl6dGd1ZnNXMDg5OEtFa0JHaEtpZlc4czdOVkg5QWlTM0VlbjhhbWpER3Zqa2F5Yi1tYzdSUWh0M2UwVWxqdkRMNFVBWVdhbC1kSHNvanhGWWVuaUk4S1NtblA4SzJSVTgzZGYybG5OVEFT0gGmAUFVX3lxTE9ha29vamUxSGs1SFBwLTZQQjFTWjktSVlLTnFDWVJzZHV5amZKRVdseGFkRGNPQU9Bdnk5X29fMnRMN3F3eVlWWFEzVnlaVVF3UklyWUFxeUdDMWZXTnNkVy1QQzBLQlFUX283Skc3S2QzTUw0ODI4YU9rbzYzdzRsc3lrbmwtN0FmTHhlZU4yNFQwRzdpckJYNmtOcG5CU3M2MTBpWlE?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhZUFp3RWV1OXk3enFERC1YczJTeU0xZ1pENG9PalZpZ3ZvNG40NHM1eHVIMnBVTExXR1gtaV9oY2VpYW8wcUxteE5wTU5nR0d5bmhpNndBaHdRU0ljVDFrUmctbm1HSTAwQnYzS2hXQkZQa2QydFJTek41LTY0SU5JUTZzYm54TWVWTlp5NjF1MGdEMHJBeVhuLWRBTGNKNU5zdGtoX3ZkNWxBb1Ew?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFJRLVd6YmtoOU1CRUxNeGZzUGFHS2ZlTVJxUk5Od2NLT24xTmY4MFQzSE45RTlEclpJRFRqWXd4REo1Zm4zSVdTcEI1YWtORWxGMnE5T2ZyODhEcnFPXy03d2Y4R1NZQjhMN3ZLamcwdW84UlhvMXo1UlBjRzhqbVM5Vy1VZGh2Q2JrZ2U1UlBsMS1oMk5JY1ZVZlRsRVIyZm5R?oc=5"
+      ]
+    },
+    {
+      "title": "UPI volume jumps 32 pc on Diwali to 916.9 million",
+      "score": 24.79,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmcxV3I3dnZYd0ptQUdzMl95VXhmMkxGbGxCb0dhd3pKdXJsS2VHSXpxdnhaZ1NRVDA3TE5DUU83ZUJfQ0hmRG9LcWR5NXBFS1VnWWlOZklWaGE2V3J4dld4ekhHMW9YOXQ3ZHpOekw4V1J4QlcyZDhJWUo3dEcwV3hlbnZYNjdxc3BpMHFrSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXI0THUyeUZxV3pITFl2NjlIVUpoQUpwRkVPS3hmM2h1UGFaazhkSC1lQjNlbHVSV3REdGVreC03cFpBX1hHa25LUWpLX3c3eHhhYU5QdlpDWjJyRlJYVHloQ1J2ZkJVRnk4R3lkd0lQVFFuZVhsQTBfMFFvbVQ0TmpCT3o4SnFWMHREb0UtYWRpaG5Xc0NZY0dRdHFia1ZlNU92eWNWcFcycFpiQm5Pb1o5VWhtaEhYNVVtZDRVTVdTM0hiYVNqY1p2RV9uSHFX0gHQAUFVX3lxTE5xcjRMdTJ5RnFXekhMWXY2OUhVSmhBSnBGRU9LeGYzaHVQYVprOGRILWVCM2VsdVJXdER0ZWt4LTdwWkFfWEdrbktRaktfdzd4eGFhTlB2WkNaMnJGUlhUeWhDUnZmQlVGeThHeWR3SVBUUW5lWGxBMF8wUW9tVDROakJPejhKcVYwdERvRS1hZGlobldzQ1ljR1F0cWJrVmU1T3Z5Y1ZwVzJwWmJCbk9vWjlVaG1oSFg1VW1kNFVNV1MzSGJhU2pjWnZFX25IcVc?oc=5",
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGpOQkxiUFJxSV9YOHVrTnpFdmJlUndvN3l0YUNldTFxX2dTcXVHSVlGSURXaXBWUmJZR0RXOWpSdXMxRWRraTN4bWNBSzlQTlkzMjBDV2RpZXN6bWdjN3MwMnhORERXSUl1ampJM3R6RjVFUnV6dld1SnZPU2d6UTNyZTdfWThPRVlfM2JQbFNwbXA3MXl3UjFaNHdtYjYzSkk3RzFSVUo4cUU?oc=5"
       ]
     },
     {
-      "title": "C++ language server now auto-configures MSBuild builds",
-      "score": 20.57,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds"
-      ]
-    },
-    {
-      "title": "Dependabot alerts will pause on inactive repositories",
-      "score": 19.89,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories"
-      ]
-    },
-    {
-      "title": "Samsung Display Raises Automotive Cybersecurity Standards with Two Major Certifications",
-      "score": 21.43,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVZOdngwNnVLci1SVkFMOUhEY3JKWmo5bnMwaFVCaTkzc1paZzJKQlVKNzN5QXdXNjI0SlNWZnJJSTlSb2RMSkJDOUtjY1BkeDBlbWluNGliMWFMUXE0Y2ZURkMzYWJxT2xuZVI1UTBsaUhOQS1RWG5jQXhKekpMWEM4bHJ5TTFBSzFfYkkxdWhYX0xJX1QybGYzYzBzZVY5alNsUUxnZk9Icm81LVRN?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG9QTVBkUGl5RlJuOHpGcHMySUEyRy03ZmRmbFJPaWZ1Q0h4UWFhNWlLdGtQMmNzTi16VThkczBKVTJOb3lvdEVlcUU5REhYUzlhMWxyWXZnYmJSY3dGV3ZUM1Q5YThVOG5sc1hBZ3V2bjdxdlNEc2RNMDRIVVAyb1hUV2UybzVseGctWjRDeFBTZmc3ZWlpYVZnUFZsamZS?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGRxNjNvYUY5eWhWUWRmWTZnUS1hVkNJVW9mVmNJQXJtQzRTajJuXzBRSFlEa1l2N09hTDh5WlJQNzJjRWE2emhpSW8wbzU3NHRrTi1rZWVPQmp0VElYZDhyaTRvWjNCMS1hQV9Ic2Nsa1ZOZlpxc3FiUEo4amowMVpuZHh6WW8zbG5SYURMOVpTRUUwZ1NVQmhrT3F4VEhxS3JGdDVLZ9IBrwFBVV95cUxPZGp3TjY1dWRFVU5nZ2lWSUdya1FqckpLcENPb0c0UHdlRFZsLWR1SEt3WEF4cHlRT1VZcUxtTEQ5Z1V3S2FRTGt0WTBjQklWVUZlYlo4WjUwZUdHejI4cjJkV1ZNN0MwT2o2WlVNM0lJUjdENHE3bWZJWWMwcWdEUnd5X1oxRGozb2lTN2R6enEzWHllc2pFTEoyMnlCQVdyZDZqTUVhM1M3cTZpODhZ?oc=5"
-      ]
-    },
-    {
       "title": "Vivo X500 Series India Prices Leaked: X500 Ultra, Pro Max May Cost Up To Rs 2.29 Lakh",
-      "score": 20.67,
+      "score": 20.38,
       "kinds": [
         "news"
       ],
@@ -161,6 +153,19 @@
         "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEk2TktlUFBmN0VpMmdTNDZNYjk0c3VTdC1aNDdid0E4SDlIa3pQa1hsMXJ2TnBqOHQya05KUDRVN2Z6eFJlcUozYzVQU0kxd05CeUwzVHJfd3JRUG9ORWk0N3lZbWs5S1VWQU1rTDNVeHI1aVh0TEFkdzVFTHVUdXRNVzJMdmZDRHEyYnJWdmVBOFVEZk9VOVZzbTNzWXhvdmoyaWdQaWdIeHNXTlJ1S2dhaUplOHVENTdZMjlDMEhUMkpOcnhIMWxmMlXSAdIBQVVfeXFMTzBlVm1iOVN3akYyVlpsakVkYnlXUkxLbDdrWFdCRUdUNlVqaGE4NUdvbXBJdG1GbEN2am5ScDdXUDEtblVtODE0T3A0R2JzQ2l0UDloa0UxZmtKd0xzM1JadS01cHozU2lkNnFNWGlCOEMtTHlTSF9aUlNPU25DWENTRnd3c2VKSnZ3R0J3ZzJZcHVkQVBoWC1qY0hzU2xYckZkVE1fbGpVdWhtN3FlczBTSndQWks3X0ZOeG1JWTVZRTBYd0JOWUNnWVpoUXZTSHBB?oc=5",
         "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkMDFPckozODRRdlBkM1JyWVZxQnFORURhTW9ic050Tk1yTlZTMk9iYTd0SGF5TTZnYWhYbWk4b0V6OEZhck5Sc0VVMlJhbkg2d1FhalpCVDUzWnhFU1I2LXVhTGhtWmVpWWtEdHliLXNrYzdSc3VSOEY1a9IBe0FVX3lxTFBkMDFPckozODRRdlBkM1JyWVZxQnFORURhTW9ic050Tk1yTlZTMk9iYTd0SGF5TTZnYWhYbWk4b0V6OEZhck5Sc0VVMlJhbkg2d1FhalpCVDUzWnhFU1I2LXVhTGhtWmVpWWtEdHliLXNrYzdSc3VSOEY1aw?oc=5",
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHlQQ19rTlJwLUE4ajlnei1fZlN3Q0E0bXd2YWcwVGQwX0pUNWhnTFZSa3ZseXFwSVVWcTkzQWJ4enh1SWd6bS14ZWZ5dEdaeXJPTnVSVnVtRHNtR3VIZHJvUzIwMlZkdE9DVUpuakFCaTBXSU51a1RRQ2s1TGVWdjRTQjZDc2xEZ3NGU0c2S2lmeEthbHhqbWFURXNCZXNuMUpMV1VvMHVCUG8?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Display Raises Automotive Cybersecurity Standards with Two Major Certifications",
+      "score": 21.13,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVZOdngwNnVLci1SVkFMOUhEY3JKWmo5bnMwaFVCaTkzc1paZzJKQlVKNzN5QXdXNjI0SlNWZnJJSTlSb2RMSkJDOUtjY1BkeDBlbWluNGliMWFMUXE0Y2ZURkMzYWJxT2xuZVI1UTBsaUhOQS1RWG5jQXhKekpMWEM4bHJ5TTFBSzFfYkkxdWhYX0xJX1QybGYzYzBzZVY5alNsUUxnZk9Icm81LVRN?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG9QTVBkUGl5RlJuOHpGcHMySUEyRy03ZmRmbFJPaWZ1Q0h4UWFhNWlLdGtQMmNzTi16VThkczBKVTJOb3lvdEVlcUU5REhYUzlhMWxyWXZnYmJSY3dGV3ZUM1Q5YThVOG5sc1hBZ3V2bjdxdlNEc2RNMDRIVVAyb1hUV2UybzVseGctWjRDeFBTZmc3ZWlpYVZnUFZsamZS?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGRxNjNvYUY5eWhWUWRmWTZnUS1hVkNJVW9mVmNJQXJtQzRTajJuXzBRSFlEa1l2N09hTDh5WlJQNzJjRWE2emhpSW8wbzU3NHRrTi1rZWVPQmp0VElYZDhyaTRvWjNCMS1hQV9Ic2Nsa1ZOZlpxc3FiUEo4amowMVpuZHh6WW8zbG5SYURMOVpTRUUwZ1NVQmhrT3F4VEhxS3JGdDVLZ9IBrwFBVV95cUxPZGp3TjY1dWRFVU5nZ2lWSUdya1FqckpLcENPb0c0UHdlRFZsLWR1SEt3WEF4cHlRT1VZcUxtTEQ5Z1V3S2FRTGt0WTBjQklWVUZlYlo4WjUwZUdHejI4cjJkV1ZNN0MwT2o2WlVNM0lJUjdENHE3bWZJWWMwcWdEUnd5X1oxRGozb2lTN2R6enEzWHllc2pFTEoyMnlCQVdyZDZqTUVhM1M3cTZpODhZ?oc=5"
       ]
     }
   ]
