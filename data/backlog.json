@@ -1,14 +1,25 @@
 [
   {
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-    "source": "OpenAI",
+    "title": "Amazon eyes AI agents for 2 mn Indian sellers, targets 15 mn businesses",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEV0eTZjUGpQY254cmI1X0NQdkM4MERpSUJxcEdxQk1zMTlNNEFybVhCRWdpT29qaWpaNTR6SGRya2Z3Y0JJQ2hfTWN1ZUg1QWJvd3d4cEFBaVR2bWlBQmNzTmVUaWUxckNnaFBUS0dfazN2bkFmWGs0NEV2WFZLWUoxOXV5eWhabzZuaEFWMGRqZ2VVMHA3NWw5QXlXZnkzYlZvYUFLc1h3bHJQY2xFVHVKRDNMSWYwR3E5QWlR0gHDAUFVX3lxTE9aWHNyUEV0Nk9RVVFXaHNKUzZsWXViQWgtQ3VMNm1MZ21ZRFNFYzVmdDNIVHVBZWd6WFZDY0FXWHNoNDZiSlRvSHFiSzBpNmx5Ukl5bzJVeGhuTEIwRWgwdzA3VEdmRU9BYUtyZlJCNFAyNWROdnFuNzRrYnoyREIzelZ3dnVKbEJfQVlNRThMRmdEQzFydFlTUVp0dEpZUmJMVVduTEJzbXFSNGF2dWpNTkZOLV84R1BvRnZuZzVaZTE3cw?oc=5",
+    "source": "Business Standard",
     "kind": "news",
-    "summary": " CodeRabbit scales agentic software development and ships 20x more &nbsp;&nbsp; OpenAI ",
+    "summary": " Amazon eyes AI agents for 2 mn Indian sellers, targets 15 mn businesses &nbsp;&nbsp; Business Standard ",
     "country": "IN",
-    "published": "2026-11-09T18:30:12+00:00",
+    "published": "2026-11-10T09:54:34+00:00",
     "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
+    "saved": "2026-11-10T12:49:45.992814+00:00"
+  },
+  {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "source": "Google DeepMind",
+    "kind": "official",
+    "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+    "country": "GLOBAL",
+    "published": "2026-11-10T12:02:28+00:00",
+    "engagement": 0,
+    "saved": "2026-11-10T12:49:45.992814+00:00"
   },
   {
     "title": "Meta sets India pricing for Muse AI agent ahead of launch",
@@ -19,7 +30,7 @@
     "country": "IN",
     "published": "2026-11-09T15:25:38+00:00",
     "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
+    "saved": "2026-11-10T12:49:45.992814+00:00"
   },
   {
     "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -30,18 +41,29 @@
     "country": "IN",
     "published": "2026-11-09T19:19:41+00:00",
     "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
+    "saved": "2026-11-10T12:49:45.992814+00:00"
   },
   {
     "title": "Closing the AI guidance gap in education",
     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
     "source": "OpenAI",
     "kind": "official",
-    "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
     "country": "GLOBAL",
     "published": "2026-11-10T09:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
+    "saved": "2026-11-10T12:49:45.992814+00:00"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "kind": "official",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "country": "GLOBAL",
+    "published": "2026-11-10T12:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-10T12:49:45.992814+00:00"
   },
   {
     "title": "India May Benefit From Global AI Investment Slowdown: SBI Funds Report",
@@ -52,28 +74,6 @@
     "country": "IN",
     "published": "2026-11-10T01:21:11+00:00",
     "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
-  },
-  {
-    "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakxXazZnZTdKVzlKMTl1S25Rc3V6djdscmxjQmpPS2hzbzJIVG1qT2pXV2c5QThwN2tMVDNsSEVEQnRFUzhuUUc4WHBJYnZoVDVPWkVpX2xqeURSZzZiMEZLQTFKQ2twQkViQl91bnIxa3VaWk83MmwwX2RuYWtnRlBMa3pTb29PXzJEN0pCbnBVTmlmam1Cd2RYQUZKaWxib1JtMU1UNEJZckJzTm1Jdkw1RzNOT19SWHJVS2dZWWhjdmtpLTBwcUMzY19ZdUx0VExEQXdJbVo1Q0U2ejdzcTJ0emNEdldMYnBOUWpYV2NhM1dVZFFxal83M002ck1sMkZ2UDFtVdIBgAJBVV95cUxOQnlSa25QSTRfamg3S3h0bHRGdm80dzNfNVc4OVZuamFkN2d4Mll4TlRxVFFRdG5ja0c2ZHNZYkhERDFBR0g4emMzVkhxWUl1RFg0Q29jT0F5MlV5SldWX1o0WWFrLUFIcWRKMV9GSWVzaG1UWGJ4dGpqelZfZkFaSk1QLVQ1bTM2eTE1OXBfM001VlNkbW84UUtwUThpajdndUxnOVpSY1NHQ1p6bzlxYzNTbzIyZXNpdkg5OHB2WjN6UkZ1MG5ZNEhCRUxQNG1rYlNYSURBeVdzVUYyZHFuODJpdTRKdmZ5bTZzcjRvZ1NQZ3A1QkRNMDV1MkVZdFhC?oc=5",
-    "source": "The Economic Times",
-    "kind": "news",
-    "summary": " Australia tightens AI oversight rules after OpenAI agent breached government website &nbsp;&nbsp; The Economic Times ",
-    "country": "IN",
-    "published": "2026-11-10T09:37:37+00:00",
-    "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
-  },
-  {
-    "title": "UPI: Transforming India's Payment Landscape",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
-    "source": "www.pib.gov.in",
-    "kind": "news",
-    "summary": " UPI: Transforming India's Payment Landscape &nbsp;&nbsp; www.pib.gov.in ",
-    "country": "IN",
-    "published": "2026-11-10T10:59:06+00:00",
-    "engagement": 0,
-    "saved": "2026-11-10T11:52:01.409588+00:00"
+    "saved": "2026-11-10T12:49:45.992814+00:00"
   }
 ]
