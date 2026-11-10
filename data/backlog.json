@@ -1,36 +1,25 @@
 [
   {
-    "title": "Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TLW5iNWYxV0hWaTliVjIwRDFMSjAteEd1bjZSWm5LS0ZRNFdGN2dia1hKemdjMW4wd3AtWElDa2o5VzQ3eUFHd1RrN0k3dVVlX2tmdXJfZUdTM1FTQVR1RENIZEpGLXQ4YTRuRUtXNA?oc=5",
-    "source": "Sarvam AI",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": " Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer &nbsp;&nbsp; Sarvam AI ",
+    "summary": " CodeRabbit scales agentic software development and ships 20x more &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-09T08:03:05+00:00",
+    "published": "2026-11-09T18:30:12+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
+    "saved": "2026-11-10T11:52:01.409588+00:00"
   },
   {
-    "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
-    "link": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How&#8230; \n The post  Secret scanning detects secrets in GitHub Actions workflow logs  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-11-09T09:01:37+00:00",
+    "title": "Meta sets India pricing for Muse AI agent ahead of launch",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckVyaktjZkwxVzZ0Y0o2aVhFVHljX3hpXzJKYkRXN3B4eUNoYVowT3loRzFrMHBkanNDa053WVJMcEo3cXdrNkI3YVhXTmd0VXM4YjhNSUhGRGdNQlh5aE5CZnIyT2JoZW1CVGpGaUNuTEdUc3hTNEtHSTlFTzAyOC1mVUJVdVFlaEVDaDJfczdaZHNxZ3REbFpMTHU4Nm15aGozOXF5ZGM5bWYwaDUtYmQ5am80RkZHb0kycNIBwwFBVV95cUxQN0lZTDRmQXZzZjhKVGZ3QXg5YkpELVlrYmRlb2xhOXBKUGw0MHpkTGRPX1BtdHg0Q1pTWXpRdlRhVE5HMFk5aW1DTlVtNzYwWXk2TXFSSUtRdE8wbkZtdkdBSWE3YkZmWkdKaEYxSElvbVA2WElIR2JiWnY4eHI4ckNrd2I3QnRrU0FxRlhnRktQUXRVSU5kTG5aZTFZSkFBR3kwZHdCdDdOTG9GM1VRaFRuZlcwSXhvd0s2ajlXLUhKWGM?oc=5",
+    "source": "The Hindu",
+    "kind": "news",
+    "summary": " Meta sets India pricing for Muse AI agent ahead of launch &nbsp;&nbsp; The Hindu ",
+    "country": "IN",
+    "published": "2026-11-09T15:25:38+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
-  },
-  {
-    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-    "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-    "source": "NVIDIA",
-    "kind": "official",
-    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [&#8230;]",
-    "country": "GLOBAL",
-    "published": "2026-11-09T08:00:53+00:00",
-    "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
+    "saved": "2026-11-10T11:52:01.409588+00:00"
   },
   {
     "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -41,39 +30,50 @@
     "country": "IN",
     "published": "2026-11-09T19:19:41+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
+    "saved": "2026-11-10T11:52:01.409588+00:00"
   },
   {
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "link": "https://openai.com/index/control-room",
+    "title": "Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
     "source": "OpenAI",
     "kind": "official",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
     "country": "GLOBAL",
-    "published": "2026-11-09T13:00:00+00:00",
+    "published": "2026-11-10T09:00:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
+    "saved": "2026-11-10T11:52:01.409588+00:00"
   },
   {
-    "title": "OpenAI Deploys Control Room to Cut Off Research Model Output",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVRBOW53U1JIR3RiYzRvcEl2a1o2UHU5cWxYbWRZUm9EWXpDX1F4a05lVmNTajBSNUx6XzZIdDNqNG0tcUV0SDVRZDJad2gtYVk3czNpU3FvXzlPc2dRWlIzcHY4aTlvN3JKaGU5UWlCX2NTSlVYODVHRmlpdEI5VzdHMnR0ZG90MXc?oc=5",
-    "source": "Unite.AI",
+    "title": "India May Benefit From Global AI Investment Slowdown: SBI Funds Report",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTFDbEVIUnpkLWRyS1k4UWN2MXU1MWlGWnlETnNWbDR1S3RkTjRmQk9SM2lmd1E4TnNoclVXdHh4ME1INzR3bllQZGNMbkxSVExuaDVSTEVDSFFPMDNqZHlJZEl3TlgyMklFbnlvZzZRREVmQlFEYS1jbkRhZjB1WEw2UGF5UXUxZ3BZVFZtYXZTQQ?oc=5",
+    "source": "Sarkaritel.com",
     "kind": "news",
-    "summary": " OpenAI Deploys Control Room to Cut Off Research Model Output &nbsp;&nbsp; Unite.AI ",
+    "summary": " India May Benefit From Global AI Investment Slowdown: SBI Funds Report &nbsp;&nbsp; Sarkaritel.com ",
     "country": "IN",
-    "published": "2026-11-09T22:10:28+00:00",
+    "published": "2026-11-10T01:21:11+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
+    "saved": "2026-11-10T11:52:01.409588+00:00"
   },
   {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-09T15:05:57+00:00",
+    "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakxXazZnZTdKVzlKMTl1S25Rc3V6djdscmxjQmpPS2hzbzJIVG1qT2pXV2c5QThwN2tMVDNsSEVEQnRFUzhuUUc4WHBJYnZoVDVPWkVpX2xqeURSZzZiMEZLQTFKQ2twQkViQl91bnIxa3VaWk83MmwwX2RuYWtnRlBMa3pTb29PXzJEN0pCbnBVTmlmam1Cd2RYQUZKaWxib1JtMU1UNEJZckJzTm1Jdkw1RzNOT19SWHJVS2dZWWhjdmtpLTBwcUMzY19ZdUx0VExEQXdJbVo1Q0U2ejdzcTJ0emNEdldMYnBOUWpYV2NhM1dVZFFxal83M002ck1sMkZ2UDFtVdIBgAJBVV95cUxOQnlSa25QSTRfamg3S3h0bHRGdm80dzNfNVc4OVZuamFkN2d4Mll4TlRxVFFRdG5ja0c2ZHNZYkhERDFBR0g4emMzVkhxWUl1RFg0Q29jT0F5MlV5SldWX1o0WWFrLUFIcWRKMV9GSWVzaG1UWGJ4dGpqelZfZkFaSk1QLVQ1bTM2eTE1OXBfM001VlNkbW84UUtwUThpajdndUxnOVpSY1NHQ1p6bzlxYzNTbzIyZXNpdkg5OHB2WjN6UkZ1MG5ZNEhCRUxQNG1rYlNYSURBeVdzVUYyZHFuODJpdTRKdmZ5bTZzcjRvZ1NQZ3A1QkRNMDV1MkVZdFhC?oc=5",
+    "source": "The Economic Times",
+    "kind": "news",
+    "summary": " Australia tightens AI oversight rules after OpenAI agent breached government website &nbsp;&nbsp; The Economic Times ",
+    "country": "IN",
+    "published": "2026-11-10T09:37:37+00:00",
     "engagement": 0,
-    "saved": "2026-11-09T22:42:16.255060+00:00"
+    "saved": "2026-11-10T11:52:01.409588+00:00"
+  },
+  {
+    "title": "UPI: Transforming India's Payment Landscape",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
+    "source": "www.pib.gov.in",
+    "kind": "news",
+    "summary": " UPI: Transforming India's Payment Landscape &nbsp;&nbsp; www.pib.gov.in ",
+    "country": "IN",
+    "published": "2026-11-10T10:59:06+00:00",
+    "engagement": 0,
+    "saved": "2026-11-10T11:52:01.409588+00:00"
   }
 ]

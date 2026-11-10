@@ -1,35 +1,5 @@
 [
   {
-    "title": "franzenzenhofer/big-arrow-on-the-screen: Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-    "category": "AI Tools You Should Know",
-    "date": "2026-10-10"
-  },
-  {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "category": "AI Experiments",
-    "date": "2026-10-10"
-  },
-  {
-    "title": "LosaLosSantos/aurelio-finance: Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-    "category": "AI Tools You Should Know",
-    "date": "2026-10-10"
-  },
-  {
-    "title": "GitHub Copilot weekly releases — October 5",
-    "category": "New AI Features",
-    "date": "2026-10-10"
-  },
-  {
-    "title": "India's AI talent demand outstrips supply by over 3.5 times: Report",
-    "category": "Trending Technology",
-    "date": "2026-10-10"
-  },
-  {
-    "title": "India Mobile Congress 2026 Concludes 10th Edition with Focus on AI, Robotics and Digital Inclusion",
-    "category": "Trending Technology",
-    "date": "2026-10-10"
-  },
-  {
     "title": "New controls and chat improvements in Copilot for JetBrains",
     "category": "New AI Features",
     "date": "2026-10-11"
@@ -578,5 +548,10 @@
     "title": "Introducing Claude Fable 5.2 on AWS",
     "category": "New AI Models",
     "date": "2026-11-09"
+  },
+  {
+    "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with faster AI capabilities",
+    "category": "New AI Models",
+    "date": "2026-11-10"
   }
 ]

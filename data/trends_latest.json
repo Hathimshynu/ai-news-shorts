@@ -1,66 +1,50 @@
 {
-  "job_id": "2026-11-10-morning-0409",
-  "chosen": "Introducing Claude Fable 5.2 on AWS",
-  "reason": "The availability of Anthropic's latest Claude model on AWS gives developers and enterprises immediate access to upgraded AI capabilities for their cloud applications.",
+  "job_id": "2026-11-10-evening-1710",
+  "chosen": "Anthropic launches Fable 5.2 and Mythos 5.2 with faster AI capabilities",
+  "reason": "Anthropic's official launch of Fable 5.2 and Mythos 5.2 brings faster AI capabilities that give developers and creators powerful new model updates to experiment with.",
   "candidates": [
     {
-      "title": "Introducing Claude Fable 5.2 on AWS",
-      "score": 29.63,
+      "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with faster AI capabilities",
+      "score": 26.08,
       "kinds": [
-        "backlog",
         "community",
         "news"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2JVY2R2SzNCdEtZdXlHOG85RU1qSkVTYndPS3c0ZWtnRm5scXZaNUhzZE5QR0t3VTRmMGxXQk9SaTJrY0ZTOElUSjZ0czN1VGFQZW9LVlRpWTRpRnVjcHhDcVNLd2ZHcWRZWlJIVkRsb1RCWTFPNVQySm9XWGZlT3BvYmtMWHJKb0E?oc=5",
-        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2JVY2R2SzNCdEtZdXlHOG85RU1qSkVTYndPS3c0ZWtnRm5scXZaNUhzZE5QR0t3VTRmMGxXQk9SaTJrY0ZTOElUSjZ0czN1VGFQZW9LVlRpWTRpRnVjcHhDcVNLd2ZHcWRZWlJIVkRsb1RCWTFPNVQySm9XWGZlT3BvYmtMWHJKb0E?oc=5"
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlhlekRnZlZvSGt5RkMxamtEczlCcnRQMmJ3SkUyUTlQdjE2RFlCR0RIb1kwNDZtQ1c5OHVHSWliSUFaaHlObzJ6S3dSZHA4Z0szRV9WSW5XNHh0bXMtNXE0OTJsb0VZZDREdDdEVzB6blBUMDVGTFdCOEhfclI4NHRsNDM5U3d3c1JVdUtlRUNmbHo3VWphS3JIVzc5eVRTVGdudjUtdHlJaEVsbV9lZGh5RWJzaWZZMXJERWtCMEY3aGs5SXVUOENDcG4xYUJVa2RsbHFVV2dJclFKUWJrcmVWN0RJNEtybWdxblBSblBYUdIB9wFBVV95cUxNbTQ5MTNoYTBkVF9jWmM5dUtPQ2VjUmRjaXUxZ09CMi1WRUdxWjA5MTVtV1VKalBJcngwc2F5ZDhxZDVOYjQxMEc5UnJxeVNJZzJndHBhUjJ3dWFWbXpkNEdHTl8teWhieWd3dnZDMFBIR3FlRUo2dXF0U2RDVXFJT1JPMk1PZ1JLdGFCd0xlZVV5UHhYUVBDSVQwRHBVOEtkWlVfenpmMDB6cmpNU3dWd24zUEVKb1kxZkIyZ1RUR3lGWVNmbTh6a2s3X3Q0dVA4a0dIS21UbHE3aGtKNWd2UERzakZNdFlWT3NuOXVvZHN5cy02V2tr?oc=5",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2"
       ]
     },
     {
-      "title": "Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer",
-      "score": 21.18,
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "score": 20.71,
       "kinds": [
-        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+        "https://openai.com/index/coderabbit-codex-daybreak"
+      ]
+    },
+    {
+      "title": "Meta sets India pricing for Muse AI agent ahead of launch",
+      "score": 27.24,
+      "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TLW5iNWYxV0hWaTliVjIwRDFMSjAteEd1bjZSWm5LS0ZRNFdGN2dia1hKemdjMW4wd3AtWElDa2o5VzQ3eUFHd1RrN0k3dVVlX2tmdXJfZUdTM1FTQVR1RENIZEpGLXQ4YTRuRUtXNA?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXNWV1hvRXZoQzBDRVdMc2FSWFJTTl94UHd4THZUcFFEMUpqbHFfTGg3LUs2Rk1KTlZmVHllV2Z0cnBsLWY2Sk9LdDFvM2ttdzV3bTNTeW9hQmtXdnhXd1dlUG9kLVc4N19hb2hUTlVvVmtOQ0hRVGpVY1A4MVh3WHV3NDFYTjJ4NnhpWkFrTHd3akx6WjU2U01FeDFmRnZxOFptQnVTdTdmTmd1cFpTN1lvLVowWWxGUWZlTG95cWl5Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ01fVlVvQUxsdEFQdHIyTkdLeGVhVzEtZmRYRlFIb2dqempzdnBYTjhDZE94eW94VkFRd3RCd1NNRlZXVWJ3bGxGSjBnaXRuTndpVkZjNUlCVmpkNnlWSVczeWU1aUtNcGJfSVA3N3IzQlV5SkNubFFocTFRU1owb1FCRVJSYWlHMEY1ZFhtWnpDSXRBNHZrV3duZGhWdk1BMFdYdjdfNUswSjlFYUN2aFkzemEwcUhseERTakdOZ3RZMUNZYloyalNWdXlyZTR1S0N4NjdzMGZic1FOeEtfVGRFcUI3OVh6VTdZbUpaZDlLNzdqSFHSAfwBQVVfeXFMUHNtdHNwSW1fOEprbXVyN3lPOTB5RmtQZFRkVlJITU8zODRGOVZkYzBNVzNhUWRSeVdta1lhMndpb2s2eEJjLWFubkJlZHZwT3d2Y2dRRDdpUHBsUjVseC1KSW1lRTVZSzFWRWZibVhheXU3c1JHZ0VrTUhNaC1vYUtndFRzeEF2dEd2T0xRNlNVdXl1aEtBTjFMemc1Z0ZiTUE2SzhLWWExeXZlSlAwdUROc0FJWFZQQlFESG9oUGpqQ1pkbld4MVJaUzVTZkFLQ0ZEWVBVM09Ia053d2hwYVFBTU9Zc1U0NmRRWFVNNUgtYV94bThWejRjWkJp?oc=5"
-      ]
-    },
-    {
-      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
-      "score": 19.59,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-        "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
-      ]
-    },
-    {
-      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "score": 19.34,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-        "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckVyaktjZkwxVzZ0Y0o2aVhFVHljX3hpXzJKYkRXN3B4eUNoYVowT3loRzFrMHBkanNDa053WVJMcEo3cXdrNkI3YVhXTmd0VXM4YjhNSUhGRGdNQlh5aE5CZnIyT2JoZW1CVGpGaUNuTEdUc3hTNEtHSTlFTzAyOC1mVUJVdVFlaEVDaDJfczdaZHNxZ3REbFpMTHU4Nm15aGozOXF5ZGM5bWYwaDUtYmQ5am80RkZHb0kycNIBwwFBVV95cUxQN0lZTDRmQXZzZjhKVGZ3QXg5YkpELVlrYmRlb2xhOXBKUGw0MHpkTGRPX1BtdHg0Q1pTWXpRdlRhVE5HMFk5aW1DTlVtNzYwWXk2TXFSSUtRdE8wbkZtdkdBSWE3YkZmWkdKaEYxSElvbVA2WElIR2JiWnY4eHI4ckNrd2I3QnRrU0FxRlhnRktQUXRVSU5kTG5aZTFZSkFBR3kwZHdCdDdOTG9GM1VRaFRuZlcwSXhvd0s2ajlXLUhKWGM?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnNOY0d0UmVXRlNNQUItU3h0SUxFcVFVa1h1X21sUnVxUU1BNTdBT1ppcWo0bHFPb1o3aml2SW9QbDc4SUxVdkhSMEI2SFV4Zl9HbVRRZkRmc2trODNJamxOMEtUSWFOY1RfU0gtMC01RC11LTlDYzVBOS1KOFVhUXhLV3NZRnFDTXpBemRNR25mc1ZOd2xsRjNoUG1TaWVnZGdQbE91UW5sWFBDZGN5b0VCZmUtRUtpdUdhYXJoYVRocE9rR29TV2dR0gHPAUFVX3lxTE9BOC1GSWppQjJUVGdLTnRXa3Q4TUVfRXhiYWRuQ1lYMmpaVDZJYnVBcnV3S0dIQTZuai1XNEYtTGdhN3BORl91ZW10dGVmQWtWSWlXLXhUWTFCdVd1clk4SlItSWRKVlA1el9scExMN2FEak1zUy1EcUZhd0Fmem5YTHFpczFjaVJ2WGdmSzdlYXc5S09FbHRTN1ZrSnZCOE4xYkZvOEQwbFh2WHNtN2lTVTVHOG9WcWc3NFdvRUd3bkVXX2wyU1pXaEhUYmVWOA?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMU5YT2wyeGdXR1p5ajItbWltWS02Q1hrNndCb3g5bExMd08tMi1KR1pYREdCeFZFQ3pobDdwYzdmNnN6OVRFMUI3dXJGbG94NVN6TlhzQlgyVk5zbHFUQjhDM3k5Mjkzenp0WXA1YkhWb09FSkpZZ20zX3JUMHFPTmJncnhRbmMtNVNkTGs4SFFMazFTNDlXbmUyZUNiTDZCS1RrZm1McTREdGJLc0ZCeW5rTGFqTF9sUDJmUW9JV3JNV0hDZDFpYjJ4OG5Bbld0MGZSVXpuUFNMQdIB3wFBVV95cUxQb2o4ZGs5eGFITVI5ZFJCTzVtdDJENWk0SWF1eVFqcl92YXJUcFpCT1hENkszZmZCUWJ1bE9PVm1qUXRRVUY5SWxXQ3F6LWJWYkNXeWt2NndWM01rbS1xWVlmOEVBZ1RqM2tnbHViRkxKcjBoYlB6WUhUMW5mWHJpT3RJLXVQcFBucy1sZnlYY2JZcUt1cENWVUI4N3A2V0p6QTlxMFRqU2F1Y01HZkVibC1Hek5aVXZFY05jS09rZzVkQTkxek5IX1RacWljenlIcHYwai0wLXMyeEhNNkZN?oc=5"
       ]
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "score": 26.16,
+      "score": 22.91,
       "kinds": [
         "backlog",
         "news",
@@ -74,86 +58,101 @@
       ]
     },
     {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "score": 18.58,
+      "title": "Closing the AI guidance gap in education",
+      "score": 20.33,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/index/control-room"
+        "https://openai.com/index/closing-ai-guidance-gap-education"
       ]
     },
     {
-      "title": "OpenAI Deploys Control Room to Cut Off Research Model Output",
-      "score": 17.98,
+      "title": "India May Benefit From Global AI Investment Slowdown: SBI Funds Report",
+      "score": 19.24,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVRBOW53U1JIR3RiYzRvcEl2a1o2UHU5cWxYbWRZUm9EWXpDX1F4a05lVmNTajBSNUx6XzZIdDNqNG0tcUV0SDVRZDJad2gtYVk3czNpU3FvXzlPc2dRWlIzcHY4aTlvN3JKaGU5UWlCX2NTSlVYODVHRmlpdEI5VzdHMnR0ZG90MXc?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0kwZnpCQWU1QzZLb1FuUmZ1ZTR5S1Y4RkRXZXR4YTVIdUppNFFwTXBTNWxHLVlDOGV6Wk1rTXdMT2VoM0ZsNUZRQUt5RTRITzZ2QUMxaXlLLWhkN3R3VmlKbG9OcXJVcVJ0NGdLcUNVbjFmaEVfVGFRWXh3bWpQYTlSaFRaUmcyVjZhTg?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamVhb2JIQ3hqdHdzRUVvdkdKbHE2eDZKSlBQNU5jTGpVakdQZFZQemlJYnJneHlqM1docXA3STRFZ3pJT3ctQ2Q4UVpsWmJYb0dCUXhkT3djdzdfd0Nnb0RNOGVMdVB6eHkxNThJVHZ5cWptTkROSkFGdDVDYmlXZ0tEQ0l5dWFPUVVlYjhUTk5Ga2VhUTlOSEstTnVESW1KZ1VKRjIxYU5fNjUwWWNWWXdJamNVVHZCdXlRYmVvM2cyajQ?oc=5"
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTFDbEVIUnpkLWRyS1k4UWN2MXU1MWlGWnlETnNWbDR1S3RkTjRmQk9SM2lmd1E4TnNoclVXdHh4ME1INzR3bllQZGNMbkxSVExuaDVSTEVDSFFPMDNqZHlJZEl3TlgyMklFbnlvZzZRREVmQlFEYS1jbkRhZjB1WEw2UGF5UXUxZ3BZVFZtYXZTQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJ2c1NoczQ3bEtXdldBNTA1aTFXQWk3NTUtLWlyVHE0ZjBmLWctSXFxTU96S0ZoMFBlbzZBUF9jNmIxcE51ZVJFM3d6dmFDaUNnX0ZzTzNIZEhrQUZxeXpjbHhRekpLQjdYMGhyZlYzREdQZ0ZaaHdwQUxFYUx2VEctbEt5dkRDM0xCSTBoRGc3NldKZ3h0VXlFRWJiM3QySkFnRV9yQzFLd0dwaG1PSmk3VQ?oc=5"
       ]
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "score": 21.11,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-        "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
-      ]
-    },
-    {
-      "title": "Venomics AI Raises $2.7M in Pre-Seed Funding",
-      "score": 18.28,
+      "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+      "score": 19.49,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG8yZmdsYTF1eDg2eWhNcmRvMERrcjN0UWQycDVudlRqdC1yLWUydTI3cE9ZbDlScXJ2eEgyM2VmNWI1TWZybklPTUs3VGstWEdKQzFDa2tyRlVpSVZ3eVNoejhpbFF4NndPTXU0NnRlTi1lVk9yMEtSM2E2UU9YVUpvOU1HbUE?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdklvbWtnQ2wxTkFfX0EyYlZJQW96dTh0c0p6YUpwOXZKcVBhelN2ZXFDazVxZkZRUHlLbXU0SWtHS044YlRnQmtFOU00VkN4TlNsRHcySjNvQ0xZQ0ZCWF9OYjhaUjY0THRuUmhCcHllRTdVcnpoWV9FVURuM3NsRTB6a2lfLUlzcXRZN3pjZ0VXSlJMZEJhSlQ1WQ?oc=5"
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakxXazZnZTdKVzlKMTl1S25Rc3V6djdscmxjQmpPS2hzbzJIVG1qT2pXV2c5QThwN2tMVDNsSEVEQnRFUzhuUUc4WHBJYnZoVDVPWkVpX2xqeURSZzZiMEZLQTFKQ2twQkViQl91bnIxa3VaWk83MmwwX2RuYWtnRlBMa3pTb29PXzJEN0pCbnBVTmlmam1Cd2RYQUZKaWxib1JtMU1UNEJZckJzTm1Jdkw1RzNOT19SWHJVS2dZWWhjdmtpLTBwcUMzY19ZdUx0VExEQXdJbVo1Q0U2ejdzcTJ0emNEdldMYnBOUWpYV2NhM1dVZFFxal83M002ck1sMkZ2UDFtVdIBgAJBVV95cUxOQnlSa25QSTRfamg3S3h0bHRGdm80dzNfNVc4OVZuamFkN2d4Mll4TlRxVFFRdG5ja0c2ZHNZYkhERDFBR0g4emMzVkhxWUl1RFg0Q29jT0F5MlV5SldWX1o0WWFrLUFIcWRKMV9GSWVzaG1UWGJ4dGpqelZfZkFaSk1QLVQ1bTM2eTE1OXBfM001VlNkbW84UUtwUThpajdndUxnOVpSY1NHQ1p6bzlxYzNTbzIyZXNpdkg5OHB2WjN6UkZ1MG5ZNEhCRUxQNG1rYlNYSURBeVdzVUYyZHFuODJpdTRKdmZ5bTZzcjRvZ1NQZ3A1QkRNMDV1MkVZdFhC?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTdtRDV1QnVscGFsb2I0OFRxZkdVQTdtZHpvTjctYnNLcFBiYU04UC1oRE9MTnBaQXJRaGZMdXAyTjB3c0VMS3dFOVpsNmw0YkVJN2NFb0sySWs1S24zVDFTNlhwR2tMVDczdGlFMkJmaXZXbms5UkJBQnFqMEo5MW9LRzJnUUNqZWVGWVdmbXBWSGhkNUwwN2JwSWpmNEVGcW00T2JJSkpvQmgxdnIzQThva2J2M1hnQXRSWm9RU2VMd9IBxwFBVV95cUxPZHdtYkdXWjhvWm9Cd1NUNkxEMVRlOEdDRzM5WnJZTzlVV2VyTmNITk5hTGFQMUtXbEtFSXM5aUtmQ3NwTU5tT2t2VkVUQVRkZzRNZllSTGhGdzJkNExCcTNrdk1zbjZZN1pKLXlmQkxqTkZ0Z2pPUFdwTXdHakF6UkhzeDgyZWdxRjNXUnlFZ2FwdkluTk9Vc21yVVo5RDFIdG9JZGlVT0tMX3QtZmp6Z0FWTGFNUU1Jb1lETXlNcEdtTi1HT05N?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2JTVlN1ZHYyandfVGhibEJ6djM1SVYwNi12UHJ3NlBldWhoMWVudWNQOS1VRk44bFk4MlJGTFBkdHUydC1sQnlrcmlIaG9fbVdjczlUdjFfanoyTjhtanJXSzlwaGtzOEswdHh4UUNLaVBjZVdVVFVEbk9ETWVDVzIzQU1oZnNQcjBtWWZzS001Q2w4dzFPeFFDT1I2NVZZTms4RDczNUVkc0luLWhTaDJyN0RSbi1XOWpoRDM5REpXYXA3SHRrUjRPTDYyVk51ck5GQW5GTWhWYjlRTGphUDVPVdIB6gFBVV95cUxQTGxlQ0lFT0t1ZEIzbWRGN2ZuQl9UOVowdFQ2MEM5RXY5ZUR1S21HTW13Q3FHS0hCVlBZNDJxTFNVQkV0eFBOOGxxODJuci1rSkxhZU9xdTNVN1d1QURYeXY5TjVQOEQtOGltMV9zSHJxVWNsdkNHLWdmV3dQLUVURFBiWllpX2hwendGc2pEM0V3X2VfOElrV3o4NjlKb2F4aFZWSGtjQmtHeTViWENoc0NDUFlieWU4NXdRVG9ILXVmOG5MblZSMEthNlRDRDRLN0w2bVN3bTAxczczZ3lId0N4S0x5VVdzelE?oc=5"
       ]
     },
     {
-      "title": "Goa State Cooperative Bank Plans UPI, Netbanking by March",
-      "score": 17.99,
+      "title": "UPI: Transforming India's Payment Landscape",
+      "score": 19.83,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1RvMmJiVnB0VjFzY0FBYWlWX3h5MUhib0t3a1Nkam1keVRfOGFvVjdnQVhuc3BfWi1Jd0s0a1FMTklHUXpqb3YwbVJfbDlNQlhISzc3SkJyYl9IUXE1QlJVUmxkclhIZFFRRkhvV0NPaDg4T0h2UENZZUlpb0tvQmhPTDNiQ1RUYlhVcklGNA?oc=5"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReC1CZ2NIVGNWN3J1MGNmTEE0dzc3UFVJRGdWM196a053MTc0S1g5eS1WTllBNFVOa1lVbUtMMk85Y0RCa2lCdDBtQ29wRHF6VTVfVnhmb2NGREFVbGhfV21xWUk4YkJuNWctb2tER19NUjlaVl93?oc=5"
       ]
     },
     {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "score": 18.48,
+      "title": "CNBC-TV18 IBLA 2026 jury to deliberate on India’s AI advantage",
+      "score": 19.67,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkR0VEk5OTR3Qk96Q0JVQ2hYU1dQeXZNTVFfQW8xM0ttbG9OSEVobkxwQmRybC1CQlE1b0VGR3E2N184amFTZ3RJWXMyTFp2RFI1RnU3VE11S2NjbldJU1Yta3Z6WDV2WjBhY0xOUlNZLVZreFRQSk9pckR3bUFkYVI5VE9fY2k5RDRnN0pzemE1Q1BIdVBOV09VMkQ?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0s0dDZyekRTV3RpeHVrRzNXZWFmZDN3Rjh0YzJub2M3ei1HNXFrbEtZdzFMSDJJbkk4MnZoVC10M2sxWWZiOExhODU2YzlSeTlPOU1BR3B6Z2VBUEFxbGlaSjlwQzlabzVhSXJiWkJFZTlKMmVkdWtXQUZFQ2E4RWU2dUlYYmdlVUoxcUFtbk5fYjk5RFpXbEJEeTNuclZCZ3pLc29RSU1Jb2wxemVoUg?oc=5"
       ]
     },
     {
-      "title": "More than 2 million people gather for Pope Leo XIV’s Mass in Buenos Aires — UPI",
+      "title": "Samsung Display Earns Dual Automotive Cybersecurity Certifications",
+      "score": 18.91,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGRxNjNvYUY5eWhWUWRmWTZnUS1hVkNJVW9mVmNJQXJtQzRTajJuXzBRSFlEa1l2N09hTDh5WlJQNzJjRWE2emhpSW8wbzU3NHRrTi1rZWVPQmp0VElYZDhyaTRvWjNCMS1hQV9Ic2Nsa1ZOZlpxc3FiUEo4amowMVpuZHh6WW8zbG5SYURMOVpTRUUwZ1NVQmhrT3F4VEhxS3JGdDVLZ9IBrwFBVV95cUxPZGp3TjY1dWRFVU5nZ2lWSUdya1FqckpLcENPb0c0UHdlRFZsLWR1SEt3WEF4cHlRT1VZcUxtTEQ5Z1V3S2FRTGt0WTBjQklWVUZlYlo4WjUwZUdHejI4cjJkV1ZNN0MwT2o2WlVNM0lJUjdENHE3bWZJWWMwcWdEUnd5X1oxRGozb2lTN2R6enEzWHllc2pFTEoyMnlCQVdyZDZqTUVhM1M3cTZpODhZ?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQMW1DMDk5b3NNY01udXJ6UVNUbTYzNnpleTJxaGJYRmhJcGw4R2wxSE1xOEtZTlB4NGN0bkZMelBMNkQ1WlR0eVVnUVF1akp2WjdlSUtZbVNsaGUxaEU4emMyWVp1WFZMdzladWJkYWYwVlpZUFhxWEdUR0RUX0NPN2pJSF9CZU1YakJraWR1bkVtWjJQUk83cl9SanViZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PMkFTNERYR3N6TkM2Q2tHa2p3bkxuWlN4NGk0T1BwTDk5YkJsa1ZGNnhfZy1MWTYtbVNzM1h3YWhsMHF2aFE2aWpOQUY0NDF2?oc=5"
+      ]
+    },
+    {
+      "title": "OPPO Reno 17 Series India Launch Expected December",
       "score": 18.86,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWp5SHdtWDJoVFdSLVE3LVJGaGc3UzhnSlRJaFR3RDA1eHNIeHhvaDBoVmo1SVBlODl3YUJBV2lBSVBYS2pPVl9IdmNKd1VPZTg3N3ppdzhwS1R0YUdFSmRCMlhpU2R2Q3NGTWhzNUJzcFhCOWZ6RXZzODVXbTk4MVhBM0t2WkRvcmw0MFlCNzRCSEh4d0FrMEJhMElkZmYweEN2N0JZSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnBoNHQtWXFsYUxMTDBla09fNklwOVJBUEVEd3Z4Zmtfb1hOYTFZSDNtU3JHZExVWG9IdHgxcFZkY3ZWR21wRWVCNnN2Z0k0aW12ckpuQUxxaWlidy1kRG5xN0JuUXlXYl9hSXpxN0lGYnctdUNta1AxTTJvTDF0b3RyS2IydFdpY3VhOXRodEhsaWFmS2fSAZsBQVVfeXFMTS16NzdaNjdFQzRMalpVRW1ZMUhvR0RmYmFqMUd1bWlCZXBZQXZtVUZOLXJuWExwMnF6aFdDZVJJUzhJRDZvOWpfM21MZzJNWEE5TVJJOW9uQTRGYU9STk5XZm5kRDdnOXNPdU50b0lWX2JVbTcxSDdKWlBnS09hSDI2b3VDRkdONFlDNkVqMVZBd253a3VjMDdYbnc?oc=5"
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUxKakNZaEphSnlIeUVpeGQ1X3Vkak8yajdNMUh3RjNOMDkzNzQybDJVQTVOaGpLTG5wV3dBdEN3d0gyZzJCRVFKbFJSVXRseW1HQzZkSVZXNlcwWVhJZWR3aEZPX3FzR3ZMZVJKd0ZTRVJjbzFfSEZkTHVsX2s3amxtb21RLUxCZnBxM1ZsTGpVSE0?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNy1wWU1zRUNCTERNTUdGRm5Wa2lKYlZfRkc3RU9TYXZ0NmZCTkF6MXBiMlMyQmV6bzQxTjhKUkVkeTdLQl9TMU95Y1kxLUJqcGJxLTNjNEJpV3lCbi1CZm80XzZlejRORGw4Mnc5LWV0a0dtQTl5NGF6UGVxQ05OZ211Vk9MVmZXT0lWX2NGbENuVmZJTnNQcVhMVlZDN3hRUUhZYlRkMG9xNVNrU1llazZJSVJBVFpyeHB6aFlBTHFvNXQzdWFYcg?oc=5"
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs - GSMArena.com news",
+      "score": 18.58,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9wem1fZW93Sk9BT2lEZng1QmhkdFphRjk2QWVWRnlPWW1SczdBRldnaUlDdzdHNmwxQkctNndJVlFjLTNBNERSNExIWnBfZnVKUjlpNlhpeWxDZzJYTzhYWXItNnlVenBLUGtFYmpxLTN6UzVReFhsYnJxSmdaNkNxcElqNzd5c2NPYUM5S0FhSElvYmlia0FHVGFZT014YnJEVlhTUXRmUdIBpgFBVV95cUxPNUdTV2VsWHRDSU9XMGRGd2FqMWNuc3ZpQk53YnNHNERpVmZQMmNZUXdldTlDMjFNanlvNHMyYU5YblRfZjk1R0Z5ZGJldzVGNXdOUU5mN2RpZklianlIRXg5UUUyUlNNQ2gtQmloOWNmeFRITjFlNkZTTGJ1ZUhqZVZQc1ZRQm5GRkVsT3BqclFFYk91Rmw5a1lETi15Um5DbjZHTXVR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9wem1fZW93Sk9BT2lEZng1QmhkdFphRjk2QWVWRnlPWW1SczdBRldnaUlDdzdHNmwxQkctNndJVlFjLTNBNERSNExIWnBfZnVKUjlpNlhpeWxDZzJYTzhYWXItNnlVenBLUGtFYmpxLTN6UzVReFhsYnJxSmdaNkNxcElqNzd5c2NPYUM5S0FhSElvYmlia0FHVGFZT014YnJEVlhTUXRmUdIBpgFBVV95cUxPNUdTV2VsWHRDSU9XMGRGd2FqMWNuc3ZpQk53YnNHNERpVmZQMmNZUXdldTlDMjFNanlvNHMyYU5YblRfZjk1R0Z5ZGJldzVGNXdOUU5mN2RpZklianlIRXg5UUUyUlNNQ2gtQmloOWNmeFRITjFlNkZTTGJ1ZUhqZVZQc1ZRQm5GRkVsT3BqclFFYk91Rmw5a1lETi15Um5DbjZHTXVR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9wem1fZW93Sk9BT2lEZng1QmhkdFphRjk2QWVWRnlPWW1SczdBRldnaUlDdzdHNmwxQkctNndJVlFjLTNBNERSNExIWnBfZnVKUjlpNlhpeWxDZzJYTzhYWXItNnlVenBLUGtFYmpxLTN6UzVReFhsYnJxSmdaNkNxcElqNzd5c2NPYUM5S0FhSElvYmlia0FHVGFZT014YnJEVlhTUXRmUdIBpgFBVV95cUxPNUdTV2VsWHRDSU9XMGRGd2FqMWNuc3ZpQk53YnNHNERpVmZQMmNZUXdldTlDMjFNanlvNHMyYU5YblRfZjk1R0Z5ZGJldzVGNXdOUU5mN2RpZklianlIRXg5UUUyUlNNQ2gtQmloOWNmeFRITjFlNkZTTGJ1ZUhqZVZQc1ZRQm5GRkVsT3BqclFFYk91Rmw5a1lETi15Um5DbjZHTXVR?oc=5"
       ]
     }
   ]
