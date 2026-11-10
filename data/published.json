@@ -1,65 +1,4 @@
 {
-  "2026-10-15-evening-2248": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
-  },
-  "2026-10-16-evening-1701": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/D_IyqeGukY0",
-      "facebook": "https://www.facebook.com/reel/1412984417266778"
-    },
-    "approved_at": "2026-10-16T14:01:33.002956+00:00",
-    "ids": {
-      "youtube": "D_IyqeGukY0",
-      "facebook": "1412984417266778"
-    },
-    "yt_scheduled_for": "2026-10-16T20:00:00+05:30",
-    "attempts": 3,
-    "last_try": "2026-10-16T14:50:12.653211+00:00",
-    "info": {
-      "title": "CERT-In AI Agents Accessing Indian Systems #Shorts",
-      "topic": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
-      "category": "Breaking AI News",
-      "hook": "CERT-In just issued a critical alert.",
-      "seconds": 53.0,
-      "primary_keyword": "CERT-In AI agents",
-      "qa_passed": false
-    }
-  },
-  "2026-10-16-evening-1801": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/TWd-eRyO_wQ",
-      "instagram": "https://www.instagram.com/reel/Dej281rDX4S/",
-      "facebook": "https://www.facebook.com/reel/1877526643598870"
-    },
-    "approved_at": "2026-10-16T14:01:45.176807+00:00",
-    "ids": {
-      "youtube": "TWd-eRyO_wQ",
-      "instagram": "18070134071781062",
-      "facebook": "1877526643598870"
-    },
-    "yt_scheduled_for": "2026-10-16T21:00:00+05:30",
-    "attempts": 1,
-    "last_try": "2026-10-16T15:30:02.623224+00:00",
-    "info": {
-      "title": "Android AI Scam Alerts Block Bank Impostors #Shorts",
-      "topic": "Android adds AI-powered scam alerts, hangs up on bank impostors",
-      "category": "New AI Features",
-      "hook": "Android will now hang up on bank scammers.",
-      "seconds": 45.3,
-      "primary_keyword": "android ai scam alerts",
-      "qa_passed": false,
-      "posted_at": "2026-10-16T15:31:19.260049+00:00"
-    }
-  },
-  "2026-10-16-evening-2057": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
-  },
   "2026-10-17-evening-1701": {
     "status": "published",
     "platforms": {
@@ -1219,6 +1158,26 @@
     "late_offer": true
   },
   "2026-11-09-evening-1802": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-10-evening-1710": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-10-evening-1810": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-10-morning-0304": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-10-morning-0409": {
     "status": "expired",
     "platforms": {},
     "late_offer": true
