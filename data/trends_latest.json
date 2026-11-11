@@ -1,26 +1,11 @@
 {
-  "job_id": "2026-11-11-evening-1701",
-  "chosen": "Introducing Businesses in ChatGPT",
-  "reason": "OpenAI's official rollout of new business capabilities in ChatGPT gives professionals and entrepreneurs actionable tools to upgrade their workplace productivity.",
+  "job_id": "2026-11-11-evening-1801",
+  "chosen": "Work at the Frontier: AI’s effect on freelance work",
+  "reason": "This official OpenAI study provides essential insights for Asian and Indian freelancers on how AI tools are actively impacting job demand, skills, and earning potential.",
   "candidates": [
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "score": 32.68,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenFzSTZuSlQySHlmZ0d2a2RRNFJCb1Z0LWVDLTV2M1djVTZUdFNJak5kb0hpSlFpai1PLVNaZlZ2WTcwOTRyQXJOZW1ETEpXLXJkNk56bDlfRFdXVmhVcTUyTjFVVlFpQUlxSVBfaS14QWQ4Q2d4SjR4Y0NqdDhYSXhqTU4xaXNOcDBOdDd1UmpzUFUxNmpoZThYQ3VUSUlJdzEyakdIRDg3R3VQNVg5NUdBOEVRTnk5WGlJdUV1bUpZMVZUU3pNT1NiVkRLQm9DNzk5UDdubWxudGNGYk1N?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDBZdGkxSDZnRUxBZVY5REVEdFA4ZzBqRUxXZjZzSHlKT0NvbTlOYldEMUNDbVJZWHJ2NHdDYjVGNC00Yk1sVUZYM2NtbFFSbG0zRUFZMURBcVVFbzhtQzJWQlZ5NFB1VkdsbkVIcmh1RHlCbEJHTG1uaXFEUmpxa2Y3M1hnX1BCSTBoOWhZUnkyZEl5YU4zLXNURkVfc1VNV1NIT0Izdm0zQQ?oc=5"
-      ]
-    },
-    {
       "title": "Work at the Frontier: AI’s effect on freelance work",
-      "score": 21.88,
+      "score": 21.63,
       "kinds": [
         "backlog",
         "news",
@@ -35,84 +20,66 @@
     },
     {
       "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "score": 23.42,
+      "score": 25.17,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5TnE1UjlpM1pERzg3engxOXBzbXNnMWNhSTNSbWVESzVQdXZJeGNyUVJTdk5tR25LNGc3d05CVkFXTGdHWHFtaEk5OTNOWHBQeXlB?oc=5",
-        "https://openai.com/index/cogent-security"
+        "https://openai.com/index/cogent-security",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5TnE1UjlpM1pERzg3engxOXBzbXNnMWNhSTNSbWVESzVQdXZJeGNyUVJTdk5tR25LNGc3d05CVkFXTGdHWHFtaEk5OTNOWHBQeXlB?oc=5"
       ]
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 28.12,
+      "score": 29.87,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5",
-        "https://openai.com/index/gilbert-tobin-sam-nickless"
+        "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5"
       ]
     },
     {
       "title": "UPI volume jumps 32% on Diwali as last-minute festival buying drives digital payments",
-      "score": 19.91,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkRQT0lxT1V4SExPTG1NeUdId05yR0Z1T2Z4WlVmZXdTT1h2YnE1ZzY0T0U3TDVOamh2MXJMQWJ5eVl5RTA2WTdqZ0FxSWJqMW5DbVA2djk4Wm1oWFZqVUEwdjg0YlFHSFNGQXNlSmlzQTlEZldGYW81MHZ0RlJyS2JiN0ZIbl9OUGdwWFRubDgwMXZma1N6MUoxc2tJWFRya18zZDN3NFJFcnhy?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUxRUDVvOTNLdHlOdkhjNFJvUDNLakZaVGV2RExJcE5VUTAtamIyMGRtVUhwZVpMSlR2bGRtRVRwYjdFTWltSEZ0bHlkVk9kajdIcDdqWEZ5TmZUWEtpNTlvVmdsVktNX29oV1llY3p5b2NKMkpfQlhmLVc5QnNQQWpqZHpXUGctUWFmRzRqZ1liTkJEbGFJcGMxYVNkRXdmLTdlbl8xa1Q2R3BydlZnaEZtYXprVWZqLXFxaG9tRWJNclljQXRubXB0SlotWVXSAdQBQVVfeXFMT0JHaVBYSFItTnFibG5zM3ZFbW0yemNmcEV2TnJHaGFiYm1VenZwbTRIa2dIX3YxWUxpb3JjU2VDa0hWOUdMaGdlTlBYallCT0Ntb3o1MkJScmU4ZGlBaXFhRXlENXpnTzNNUlA0MlBFLTZCZE1ZSGFEY0ZhOHBEX2s1dzJzUmVIUGpLcm1udENJLXNZWHNZdGQ1MkJhYWdLOHRxUm1IM1JxZURvTEtyRmJFR29MejJuTUU4clV1NlcyVGctM0JuYjBGZ2VZalpBZmp0MXk?oc=5"
-      ]
-    },
-    {
-      "title": "India has compelling AI opportunity: Anand Mahindra",
-      "score": 20.71,
+      "score": 21.66,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQko3X2FDNm9kSUpDeVNVTjB1Y1BsSzVwWUs2T3dwSE4xYzVlVGlZTW9tTU5VT3Z6QXNBVEFKVmRJdUNOeWp0NkJIdXRKMXJfbGpLUHZkcTNpWjA4eFJLUzdpVHFNV1JEME1jTmpPcDlxeF9KV3NjTXlqUDEwRkRncFNuOU5PWk5rU1AwRlBmYWNQU0N1enMyV3prc3ljZ21qdXhoSXp5MWNTR2Y2cEV1dDFNMHVxN3djLVE0?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNS1DWWJsbGxVdENSTVJLbmx0UEs5NXdrWTlLNnhSMUZkWEZDeHB4UTVqTUtuSjhfSWt0NWN2bUVmTnlWeUpnVXlNb0MxaUM5TmRZZ0tOWlZBNmktWWt2OGV4TW10TGRNQldqS2xnU0FCeGdpbFZhcWhUX1ZpSThhX2t6M3BWcmJKcUVDc3pMMjVDVWoycHNlUHRjQkR6em0yVG10aDFfci1QcThyYm5abFdoMDYwQ0oyQWZUS0xRMlZ2Tl9VVVIydDNYenR1U1ZVZDQyajAxZ3BsbW1VXzZOdlVWZWVTZUHSAewBQVVfeXFMTV9SVDhzMWhka2xNYnFlNXpzdFdxVDZQS1lBU0tQWFQzaUg4cHJvU0RGNHV5VHFyeDMwdk1hTzNRQmRxdTNlUkNoa3J2aHdHQ2hqdzlyUnhzbGNzUXlhaUpWcTV1cFo2OTZCcF91SEdlaXhKY05qYVRmMVBhRWRqVy13amlFUjdUdnN1dE50N01ISW5DOFZ3US1CbWdkRHhFLU5PUUhFZjdrM1BWWVpIYmhaTXU2dXVpbGJSYXowUmk5RW5qV2phd2VPWEEtMU5Oak0xSXBNRk1mRXZGeXBKb0xMQjhSaWI5TzBYejk?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkRQT0lxT1V4SExPTG1NeUdId05yR0Z1T2Z4WlVmZXdTT1h2YnE1ZzY0T0U3TDVOamh2MXJMQWJ5eVl5RTA2WTdqZ0FxSWJqMW5DbVA2djk4Wm1oWFZqVUEwdjg0YlFHSFNGQXNlSmlzQTlEZldGYW81MHZ0RlJyS2JiN0ZIbl9OUGdwWFRubDgwMXZma1N6MUoxc2tJWFRya18zZDN3NFJFcnhy?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUxRUDVvOTNLdHlOdkhjNFJvUDNLakZaVGV2RExJcE5VUTAtamIyMGRtVUhwZVpMSlR2bGRtRVRwYjdFTWltSEZ0bHlkVk9kajdIcDdqWEZ5TmZUWEtpNTlvVmdsVktNX29oV1llY3p5b2NKMkpfQlhmLVc5QnNQQWpqZHpXUGctUWFmRzRqZ1liTkJEbGFJcGMxYVNkRXdmLTdlbl8xa1Q2R3BydlZnaEZtYXprVWZqLXFxaG9tRWJNclljQXRubXB0SlotWVXSAdQBQVVfeXFMT0JHaVBYSFItTnFibG5zM3ZFbW0yemNmcEV2TnJHaGFiYm1VenZwbTRIa2dIX3YxWUxpb3JjU2VDa0hWOUdMaGdlTlBYallCT0Ntb3o1MkJScmU4ZGlBaXFhRXlENXpnTzNNUlA0MlBFLTZCZE1ZSGFEY0ZhOHBEX2s1dzJzUmVIUGpLcm1udENJLXNZWHNZdGQ1MkJhYWdLOHRxUm1IM1JxZURvTEtyRmJFR29MejJuTUU4clV1NlcyVGctM0JuYjBGZ2VZalpBZmp0MXk?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkRQT0lxT1V4SExPTG1NeUdId05yR0Z1T2Z4WlVmZXdTT1h2YnE1ZzY0T0U3TDVOamh2MXJMQWJ5eVl5RTA2WTdqZ0FxSWJqMW5DbVA2djk4Wm1oWFZqVUEwdjg0YlFHSFNGQXNlSmlzQTlEZldGYW81MHZ0RlJyS2JiN0ZIbl9OUGdwWFRubDgwMXZma1N6MUoxc2tJWFRya18zZDN3NFJFcnhy?oc=5"
       ]
     },
     {
       "title": "ChatGPT Plus for veterans and servicemembers",
-      "score": 24.12,
+      "score": 25.87,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZDVqU2NMbXRqaFZkVEJfcnRlUHMzT3hTUEV6V21mQmk2aS1MOW1Wb0pXYlZxd3JPTlJZcmxvSjZydzRtWGlMcG1WaTIwa2dMbjZLRnQ2XzFqX25SQ1FFSQ?oc=5",
-        "https://openai.com/index/chatgpt-plus-for-veterans"
-      ]
-    },
-    {
-      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-      "score": 19.82,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNzRzNMbFdRYllVV3d2QUlfMnFRSmtoTXRXR3N3Tl9Ba3ZIZDRWVVFxUjhtZzl0QzNqQ19ZN1R5dDJZbzdWUWxkV3E2cmU3aGo0aDJnN0FYSENCRjgwejJlbjBabjVpbTVraVEwUDR5NTN6N1RsUDNHT3U1TkhMSTVtVGN3MjN2YXQ0RV9rZmdmLVVoQ2JUU3pGYU9yV0NLRVBnZ1htVUI2bjhTd2c2MVo3bTTSAboBQVVfeXFMT0FRdDZJNzZxQ2kyMnhLc1Z5N1hJUEo2RkFvU2FseElhZDk5aWhtVE9JREhCUFdaeHgwaUN2U3laZC1tMjJxTV9MdXV1QUY4U1JoamhQREc3YWo2V0t5NzJaelp6cUs4YXpvUjRKcFh6NXdkVEozOXRuNGlxelhYVFMxSkxsdUZIeUtBZ2tRYUtLWnQwN1VWNGZ5aGpfYmRKU2NoVmxiN0dXV0ZSR0xGZkJXNXlQTkMxcG93?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1hSUEdDUS10Z1lhVUt5WHFhNVZQWTdac2NXYTBBX3dhRXBEaENyQ0JLOWF1TTBIQXF1ZzlRUTdTZ1FrdVAyakcyX05zV3RNeGdiWDZwdHE3WDJvZmdPNjhTOWlxMmZZdGw2eV9zOHF5Yk9FRk1tRURYMnlUYjBkdFJQTC0zN3NheGdHZ2ZZTmpKQXIzZ0lpdFl0bWJXWW9LTWxBRjVQS0hYUHkzSDVsRjdmSW1oOXRkdUtwTHBvRkZpWW0ydUlldm95REZuTnF4TUxaaXlueXRGVFZz?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORVc3U1pFUWRPc21aRlg3ckh4NmhtQjBRZVBmTEFiQm40cmVGMnRyZnEtOUt6TW9IUW9RSExrNE1XYlhYRWtsWnBHZ2VlWTJnTGNzZkRKd1Jycnk5c1dIYmVNdGJlQ1JteS0wTkJKcDg1TzZVQTc1clU5V1ZMcDdMT3lkMGliYlcyLWxuQzhnNTJQS2ZOZTJSTWo2ZkVnNUNLSHpJWlZpbjg2d3lGaHNGLTZ2NnhISEFQYjVyRUpoYWF0M1VSTURiOWlnbEhybHgwV0o2aXNnSmgwYWlzQlJ2amdPRmlLZGZEYWlINmp6TGpUZFdNbndn0gH8AUFVX3lxTE1NUDZLLU5hWGRSLUcxcl9kMEw0MkF0UUp3WmxBamtNSkNvMHFBaHBBVXVpcmp3b2g0LTZtdjZZTjFRMmdpNl9iWUJlX2FDZlRnLUg0V3hXSFR0eEdRWkdnMWlOT2JzNWhmcG53UDVydEtndUhhdmNmQl96YVh1SVE2MHItSy00TWhBSzVEelJEbmVId21nY3FLNHk3eXptUDlYNTlRQ21SdUlEWFRONWpFaXV3Nk5VX0tXTEJ1eFpwV2w0QXhndE53TjhsX1M5S3I5Z2p1THpwUVdRZkhHa1pfeXZqRTBHYVRfd21wUHdMQnF4a1JLNGxFY1lENA?oc=5"
+        "https://openai.com/index/chatgpt-plus-for-veterans",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZDVqU2NMbXRqaFZkVEJfcnRlUHMzT3hTUEV6V21mQmk2aS1MOW1Wb0pXYlZxd3JPTlJZcmxvSjZydzRtWGlMcG1WaTIwa2dMbjZLRnQ2XzFqX25SQ1FFSQ?oc=5"
       ]
     },
     {
       "title": "Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next?",
-      "score": 19.44,
+      "score": 19.19,
       "kinds": [
         "news"
       ],
@@ -123,8 +90,22 @@
       ]
     },
     {
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "score": 19.57,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNzRzNMbFdRYllVV3d2QUlfMnFRSmtoTXRXR3N3Tl9Ba3ZIZDRWVVFxUjhtZzl0QzNqQ19ZN1R5dDJZbzdWUWxkV3E2cmU3aGo0aDJnN0FYSENCRjgwejJlbjBabjVpbTVraVEwUDR5NTN6N1RsUDNHT3U1TkhMSTVtVGN3MjN2YXQ0RV9rZmdmLVVoQ2JUU3pGYU9yV0NLRVBnZ1htVUI2bjhTd2c2MVo3bTTSAboBQVVfeXFMT0FRdDZJNzZxQ2kyMnhLc1Z5N1hJUEo2RkFvU2FseElhZDk5aWhtVE9JREhCUFdaeHgwaUN2U3laZC1tMjJxTV9MdXV1QUY4U1JoamhQREc3YWo2V0t5NzJaelp6cUs4YXpvUjRKcFh6NXdkVEozOXRuNGlxelhYVFMxSkxsdUZIeUtBZ2tRYUtLWnQwN1VWNGZ5aGpfYmRKU2NoVmxiN0dXV0ZSR0xGZkJXNXlQTkMxcG93?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORVc3U1pFUWRPc21aRlg3ckh4NmhtQjBRZVBmTEFiQm40cmVGMnRyZnEtOUt6TW9IUW9RSExrNE1XYlhYRWtsWnBHZ2VlWTJnTGNzZkRKd1Jycnk5c1dIYmVNdGJlQ1JteS0wTkJKcDg1TzZVQTc1clU5V1ZMcDdMT3lkMGliYlcyLWxuQzhnNTJQS2ZOZTJSTWo2ZkVnNUNLSHpJWlZpbjg2d3lGaHNGLTZ2NnhISEFQYjVyRUpoYWF0M1VSTURiOWlnbEhybHgwV0o2aXNnSmgwYWlzQlJ2amdPRmlLZGZEYWlINmp6TGpUZFdNbndn0gH8AUFVX3lxTE1NUDZLLU5hWGRSLUcxcl9kMEw0MkF0UUp3WmxBamtNSkNvMHFBaHBBVXVpcmp3b2g0LTZtdjZZTjFRMmdpNl9iWUJlX2FDZlRnLUg0V3hXSFR0eEdRWkdnMWlOT2JzNWhmcG53UDVydEtndUhhdmNmQl96YVh1SVE2MHItSy00TWhBSzVEelJEbmVId21nY3FLNHk3eXptUDlYNTlRQ21SdUlEWFRONWpFaXV3Nk5VX0tXTEJ1eFpwV2w0QXhndE53TjhsX1M5S3I5Z2p1THpwUVdRZkhHa1pfeXZqRTBHYVRfd21wUHdMQnF4a1JLNGxFY1lENA?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1hSUEdDUS10Z1lhVUt5WHFhNVZQWTdac2NXYTBBX3dhRXBEaENyQ0JLOWF1TTBIQXF1ZzlRUTdTZ1FrdVAyakcyX05zV3RNeGdiWDZwdHE3WDJvZmdPNjhTOWlxMmZZdGw2eV9zOHF5Yk9FRk1tRURYMnlUYjBkdFJQTC0zN3NheGdHZ2ZZTmpKQXIzZ0lpdFl0bWJXWW9LTWxBRjVQS0hYUHkzSDVsRjdmSW1oOXRkdUtwTHBvRkZpWW0ydUlldm95REZuTnF4TUxaaXlueXRGVFZz?oc=5"
+      ]
+    },
+    {
       "title": "U.S. loses grip on $121 billion mobile gaming sector to China",
-      "score": 21.35,
+      "score": 21.1,
       "kinds": [
         "news"
       ],
@@ -136,8 +117,21 @@
       ]
     },
     {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "score": 21.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5"
+      ]
+    },
+    {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "score": 20.37,
+      "score": 20.12,
       "kinds": [
         "official"
       ],
@@ -147,8 +141,20 @@
       ]
     },
     {
+      "title": "Air India passengers evacuated after hijack alert at Kolkata airport",
+      "score": 19.98,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRkxDSUh5WFM4NGdSc0RJdkJHMVFNQnJoN090cXpKcG91S1FydUE0QUpOZldQc3MwNldRaE9iSEk3NDU1R0xsTnNNOUZLX25Tb2hKb0tpanNjdGRJYVZLamRUVTRRYVEwS1B5NmRMTlJZczBkQ0lvdHVQV18tUHBScnYyTVVGMzBPNlBaZG1BOEs1ZGU4SnhHZEZjRXBzcWJ1c0hXanRBSDg5M2tmXzZv?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1JnUllzZDlKWWhzOThTQjZ5UmVoZU4tVlg1aFotNXdxcGRRR2hsRFJpNzJuMVhOeDlGdFJDM1hqY082QlB2UnVSUmJBNGpwcElRM01vcU9KOWF4UzRRZmhFbVF4T1BMcVJIcXF6aGZvOUxVSFJhZE1pRkgzUGJMRlY1ME9CSlV0SVZ5Q0JIb0cwX2FQdF9leDFoZy1SX1hEV3g5VnIydnpHa3A1YnBoYXZISWFFUzBV0gHAAUFVX3lxTE5mVEE1SjBTYUtYTUJNOThlcW5ocTRpdnVodVU1Vy1MQ3ZRVVJhWUJqd0tLYmFfYmF5WUlUYnNVY2tSbzMzWmoyb2N5Q3pVNV9OZEdZdDQ3MC1EY3o3czJLZ2hsZkQ5OTBYdjVwOWtRdGVUXzM5b081MzRSeU1LOWxVZnpLNWc4bmRZVFpteFpxOGZpUU12TFRwd1dtMHhjWjdEVEhmTGZodmRuX0Zpa3M0a0hvbk00ZlRhNEhRRS1ENQ?oc=5"
+      ]
+    },
+    {
       "title": "Today's NYT Strands Hints (and Answer) for Wednesday, November 11, 2026",
-      "score": 21.12,
+      "score": 20.87,
       "kinds": [
         "news"
       ],
