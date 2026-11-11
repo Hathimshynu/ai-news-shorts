@@ -1,26 +1,33 @@
 {
-  "job_id": "2026-11-11-evening-1801",
-  "chosen": "Work at the Frontier: AI’s effect on freelance work",
-  "reason": "This official OpenAI study provides essential insights for Asian and Indian freelancers on how AI tools are actively impacting job demand, skills, and earning potential.",
+  "job_id": "2026-11-12-morning-0022",
+  "chosen": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "reason": "It offers valuable engineering insights into how AI drives content discovery at a massive 500-million user scale specifically for the Indian audience.",
   "candidates": [
     {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "score": 21.63,
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "score": 20.28,
       "kinds": [
-        "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
-        "https://openai.com/index/ai-effect-on-freelance-work",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5"
+        "https://openai.com/index/jiostar-vijay-seshadri"
+      ]
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "score": 20.03,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
       ]
     },
     {
       "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "score": 25.17,
+      "score": 23.58,
       "kinds": [
         "backlog",
         "news",
@@ -35,7 +42,7 @@
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 29.87,
+      "score": 28.28,
       "kinds": [
         "backlog",
         "news",
@@ -49,22 +56,32 @@
       ]
     },
     {
-      "title": "UPI volume jumps 32% on Diwali as last-minute festival buying drives digital payments",
-      "score": 21.66,
+      "title": "Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million",
+      "score": 18.76,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkRQT0lxT1V4SExPTG1NeUdId05yR0Z1T2Z4WlVmZXdTT1h2YnE1ZzY0T0U3TDVOamh2MXJMQWJ5eVl5RTA2WTdqZ0FxSWJqMW5DbVA2djk4Wm1oWFZqVUEwdjg0YlFHSFNGQXNlSmlzQTlEZldGYW81MHZ0RlJyS2JiN0ZIbl9OUGdwWFRubDgwMXZma1N6MUoxc2tJWFRya18zZDN3NFJFcnhy?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUxRUDVvOTNLdHlOdkhjNFJvUDNLakZaVGV2RExJcE5VUTAtamIyMGRtVUhwZVpMSlR2bGRtRVRwYjdFTWltSEZ0bHlkVk9kajdIcDdqWEZ5TmZUWEtpNTlvVmdsVktNX29oV1llY3p5b2NKMkpfQlhmLVc5QnNQQWpqZHpXUGctUWFmRzRqZ1liTkJEbGFJcGMxYVNkRXdmLTdlbl8xa1Q2R3BydlZnaEZtYXprVWZqLXFxaG9tRWJNclljQXRubXB0SlotWVXSAdQBQVVfeXFMT0JHaVBYSFItTnFibG5zM3ZFbW0yemNmcEV2TnJHaGFiYm1VenZwbTRIa2dIX3YxWUxpb3JjU2VDa0hWOUdMaGdlTlBYallCT0Ntb3o1MkJScmU4ZGlBaXFhRXlENXpnTzNNUlA0MlBFLTZCZE1ZSGFEY0ZhOHBEX2s1dzJzUmVIUGpLcm1udENJLXNZWHNZdGQ1MkJhYWdLOHRxUm1IM1JxZURvTEtyRmJFR29MejJuTUU4clV1NlcyVGctM0JuYjBGZ2VZalpBZmp0MXk?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkRQT0lxT1V4SExPTG1NeUdId05yR0Z1T2Z4WlVmZXdTT1h2YnE1ZzY0T0U3TDVOamh2MXJMQWJ5eVl5RTA2WTdqZ0FxSWJqMW5DbVA2djk4Wm1oWFZqVUEwdjg0YlFHSFNGQXNlSmlzQTlEZldGYW81MHZ0RlJyS2JiN0ZIbl9OUGdwWFRubDgwMXZma1N6MUoxc2tJWFRya18zZDN3NFJFcnhy?oc=5"
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzd0RlpsLWF3NzBEdXczamZYU1d0M29sREx1d1hjXzVyQlppSzRCMEhDTTRXMy1Da3FodUQxR3E5N0lSSTlnclB6OFUyV051VXVCN004elRLa3VGQXhtTGR1VXF3STBtZGZPRXBjVUd0V2FNai1Jc3VCb0VQd3F3SThGckZ5ZUN3eHJlQzNBSVdMSlpLaWxqYXFTSnk0QzVDa2tYSjFiUG1TUm53S3hGeTFqWdIBwAFBVV95cUxNOFdVNHZDLW5Tdy1SN18xNlhXSTEtcGlWSEVMUm03aW90ZFRVRzJXNGhmeU93TUktOGlDa1N6WkdieE4yN3VhSFpMYUZIY0VwWDNyTmZtQ0RwWU9BNU14ZzVVdEdvLXZSTUNfZHRHbGZrMnp5eS1pUVZBMVpScXVPcWZDZlhhSmItaEc2U01QdGxjMnlmbkpoSk5semtEZW9fRUhBM2ZJTFBxVTlzUjU3Y0d0bU8yd001MnE0TnRZNlE?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTZSeUxuNzZKdUVWSm5OR0Y5Q3U2cWdGLTMxM3k2aC0zZHhwd0pSY2tUWEg2N1VvZnJGMTFodkNQc1dlOUl4d0RCT0x4b1JNUzU4MG1BS2VCYlFEYlB3T0tGNnBaRTI5TEZXcGRreEljenZPOWdNeVN3NGxrOHc1eDZ0SXJmZkVnU0tXRXprTmRuUmRFR2JlT3pQTS05d3owZERERHNpOFNSbGxqVXlMSndJNlMySGdPeXNCRlJEeGtpZUtnYmU2S25heThQXzhtd2I4N2FwTjJuTHExT0c5TWNCMDg?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWV2WU02VzhvQWlxQ2RoWFpmUnBaSE9UaG1rMlNPa2dzSm16UHZaRm5zblN3cEJkamNjcHAtUkcyejVXUmxydVByRUJqRk55QW1YVTg2TnVwNS1yTVlMakk1OGw2TmdxTVBYbDJydDdSYl9KV3dfbHdCa3JScXotUVBn0gGGAUFVX3lxTE9wSXFCNzFYVVZtNkNhN2NVUFhNSXl6REc0amh1WGhwN29aZzVZWjlMNkxPU0Y0bldNSUFUMk9RdmpOT3hqMHdZMmxTSGwtaGV2MWZpLUZETjYzSHc1czU5RTlubUZqSVQtZW9Ddm4yeU5DRXQxZHN6My0yRndibHhJc0FVcVB3?oc=5"
+      ]
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "score": 20.28,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
       ]
     },
     {
       "title": "ChatGPT Plus for veterans and servicemembers",
-      "score": 25.87,
+      "score": 24.28,
       "kinds": [
         "backlog",
         "news",
@@ -78,60 +95,44 @@
       ]
     },
     {
-      "title": "Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next?",
-      "score": 19.19,
+      "title": "Issue types and fields are available for personal accounts",
+      "score": 20.6,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVE1b2RIa1hqdHBtOHZsNFJiRmhrNmYtMFRlN1M1X2RQeWZfby05Y1ZTYmhzVzNOYkxDbzU3cVpINWExbkR6MDU5T0xBai1DTjJEMlZCc0NnaE5YQk5oamJ6MTNrZkxINEc3ak5vZWVJU2syTmFYbV9Bd0ZsdFJrS3VKM09uaHpKV3dnNWVVbm1PTzFaa0o4SjZWbTZFel9rLXVNZjZ3ZWFTMHNuWV96aEhPZFFNTUJZUmhn?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGhCVG1SYUFMX25PY3BSTFRMS3BhMzJLdVB5RWxFeHlNTTNacWhKc2V6aUZaaHZmMENfM2hNUjZ4Smdab0NFcXJHMFA2OV80U1pKclRnaE9FU2U1bjc4TEt0YVZJWHlaZ3lGakZZdTJCUmVfd0s0NTd3OU0tcDM1bVFiLW4tU1VBM3A0UExHTUl4WXZOT3d0SWphNTN3V0ozUFBWbHBTOHd2OVhyNmk1OFlsU3lVWGtDRFdnYdIBwgFBVV95cUxOYzRYTWpqX3NpcVNyTTVHckJUSno1dDVDcWxOaHNEcnlLVDZYQmF5N0M1b0lORXdkeURuMHh1OGpxVWVJcnhPbXNkVkpaWFYzNWJobWhKUFNnMXM0MFRMb3Q5UmVoNzlUMGwzM3JQRXZSUmhQOW43eWVxM0J4VlhGZzVHaUxmT0Z6VTZqTUJ6dU1VVnZwQnY0c3NldXZjMEJOcjhPZVE2aE80N2VwbjNpQkc4NmQxYUxYNGQ2cV9wQjZpZw?oc=5"
+        "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts"
       ]
     },
     {
-      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-      "score": 19.57,
+      "title": "Vivo X500 Series India Launch Tipped For November 26: Prices, Specifications and Sale Date Revealed",
+      "score": 18.96,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNzRzNMbFdRYllVV3d2QUlfMnFRSmtoTXRXR3N3Tl9Ba3ZIZDRWVVFxUjhtZzl0QzNqQ19ZN1R5dDJZbzdWUWxkV3E2cmU3aGo0aDJnN0FYSENCRjgwejJlbjBabjVpbTVraVEwUDR5NTN6N1RsUDNHT3U1TkhMSTVtVGN3MjN2YXQ0RV9rZmdmLVVoQ2JUU3pGYU9yV0NLRVBnZ1htVUI2bjhTd2c2MVo3bTTSAboBQVVfeXFMT0FRdDZJNzZxQ2kyMnhLc1Z5N1hJUEo2RkFvU2FseElhZDk5aWhtVE9JREhCUFdaeHgwaUN2U3laZC1tMjJxTV9MdXV1QUY4U1JoamhQREc3YWo2V0t5NzJaelp6cUs4YXpvUjRKcFh6NXdkVEozOXRuNGlxelhYVFMxSkxsdUZIeUtBZ2tRYUtLWnQwN1VWNGZ5aGpfYmRKU2NoVmxiN0dXV0ZSR0xGZkJXNXlQTkMxcG93?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORVc3U1pFUWRPc21aRlg3ckh4NmhtQjBRZVBmTEFiQm40cmVGMnRyZnEtOUt6TW9IUW9RSExrNE1XYlhYRWtsWnBHZ2VlWTJnTGNzZkRKd1Jycnk5c1dIYmVNdGJlQ1JteS0wTkJKcDg1TzZVQTc1clU5V1ZMcDdMT3lkMGliYlcyLWxuQzhnNTJQS2ZOZTJSTWo2ZkVnNUNLSHpJWlZpbjg2d3lGaHNGLTZ2NnhISEFQYjVyRUpoYWF0M1VSTURiOWlnbEhybHgwV0o2aXNnSmgwYWlzQlJ2amdPRmlLZGZEYWlINmp6TGpUZFdNbndn0gH8AUFVX3lxTE1NUDZLLU5hWGRSLUcxcl9kMEw0MkF0UUp3WmxBamtNSkNvMHFBaHBBVXVpcmp3b2g0LTZtdjZZTjFRMmdpNl9iWUJlX2FDZlRnLUg0V3hXSFR0eEdRWkdnMWlOT2JzNWhmcG53UDVydEtndUhhdmNmQl96YVh1SVE2MHItSy00TWhBSzVEelJEbmVId21nY3FLNHk3eXptUDlYNTlRQ21SdUlEWFRONWpFaXV3Nk5VX0tXTEJ1eFpwV2w0QXhndE53TjhsX1M5S3I5Z2p1THpwUVdRZkhHa1pfeXZqRTBHYVRfd21wUHdMQnF4a1JLNGxFY1lENA?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1hSUEdDUS10Z1lhVUt5WHFhNVZQWTdac2NXYTBBX3dhRXBEaENyQ0JLOWF1TTBIQXF1ZzlRUTdTZ1FrdVAyakcyX05zV3RNeGdiWDZwdHE3WDJvZmdPNjhTOWlxMmZZdGw2eV9zOHF5Yk9FRk1tRURYMnlUYjBkdFJQTC0zN3NheGdHZ2ZZTmpKQXIzZ0lpdFl0bWJXWW9LTWxBRjVQS0hYUHkzSDVsRjdmSW1oOXRkdUtwTHBvRkZpWW0ydUlldm95REZuTnF4TUxaaXlueXRGVFZz?oc=5"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0FUbHhrNE01cHBZbGM0czJRbWRJX1h2a2ViZnNrazhYeF9SRV9pNU1UZlJGeHhuNDFkNWdqNEoxQVJiX2drWnk1ZGR0dHlvTmV6SlR1UW9jX05RNjhJMFJaenN3OFdUQmZzbGRwQjJ1WHJWQ2FUTWN6RHZWN1lBanptdmJsMVZsRk5tMS1tbmgxUGVoaFhicGZ2U2xGRmVlNWh1Uk43VmFvV0dTRnhfTXBaVFdiSGJLVkZZZlZuZ05FSThpaDQ0?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpZXdTVDBrWktwb3h2MFhrRUhNdThyWkJLR2kyVzI2X0JLaTMxcGJYcXJfQlprbUtJejBNaDRCSVB4Q1ctVl9zV0pTZDFicGNoLTA4bThhMV9nNklTamJkMnl3R2xvNGQ5QzEzN3ZYWkxySmVvQUJ1bXF5ZXg?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlBEOC1LX2N6UklvY2EwMU1NbTJMT3RtbjZrdjJBZGc1Q1owOW9JTUNWLXdUSWt0cXVPeGR0dElIUlZNNnNGUl81OXJjS1A0SFZJUHNiVFBSbGY4Q0w0dGVveFJNWUZiZWw2NFlzb0pEV1FLbnFYQkQxY0g0WTBaVEJIblpFZFJiR1Brb0M0UE5qa2hfMm9sU2NZSWJXb2JtemVRUElUZ085UllJMDZ6bV9nTkVYcGhjdnU0eFItM0NjODRfLUZJME52dmpHMF8zenprcUUyakRwNWpDRWkw0gHfAUFVX3lxTE0yUEQ4LUtfY3pSSW9jYTAxTU1tMkxPdG1uNmt2MkFkZzVDWjA5b0lNQ1Ytd1RJa3RxdU94ZHR0SUhSVk02c0ZSXzU5cmNLUDRIVklQc2JUUFJsZjhDTDR0ZW94Uk1ZRmJlbDY0WXNvSkRXUUtucVhCRDFjSDRZMFpUQkhuWkVkUmJHUGtvQzRQTmpraF8yb2xTY1lJYldvYm16ZVFQSVRnTzlSWUkwNnptX2dORVhwaGN2dTR4Ui0zQ2M4NF8tRkkwTnZ2akcwXzN6emtxRTJqRHA1akNFaTA?oc=5"
       ]
     },
     {
-      "title": "U.S. loses grip on $121 billion mobile gaming sector to China",
-      "score": 21.1,
+      "title": "Samsung Galaxy S27+ Clears BIS Certification in India Ahead of Launch",
+      "score": 18.74,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVJYdXlTcTdTZWtjbVc1S0JfUFl6bzdObEdHZkhzakFFaFZEXy10V192cWR1NHk5eHYxUWtQXzEwZV80WUg2MGNEaDM4Q1NlY2JXWGNuYndTUWVxQTRoZTdLRnZTOVRUenMyNGpfcDJ5WjkzeDkzVzJ4dk5mZlZMQ2JKSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vSDZrWHlqdE5JMWZiY2txYkpCdWdGY05XVzVJdkdQaGpfQWw4c0VzbzVRM3dXV2FxU3otVUtpRFVfUHB4WDkySVJTdHJOMWhs?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVJYdXlTcTdTZWtjbVc1S0JfUFl6bzdObEdHZkhzakFFaFZEXy10V192cWR1NHk5eHYxUWtQXzEwZV80WUg2MGNEaDM4Q1NlY2JXWGNuYndTUWVxQTRoZTdLRnZTOVRUenMyNGpfcDJ5WjkzeDkzVzJ4dk5mZlZMQ2JKSQ?oc=5"
-      ]
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "score": 21.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5"
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWxNTUZEa290dWlTQ2JCakhSV3JTTG5XbThCUGh1a1M3djRRZ2Vpc1g5eS0zUVRlRFF0Q0xMV1FaczI2dGl1TDAzTkxzQ3NaQ0w5b1VXTzBzaG9jZG9uSHBpMEo2MlZWNmRCWmo2bk5ya2IyTS1HWVFBZVdfR1g4VDUyVGQ?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sZ0pZdjlzc2NUWjRCSGhnTTJOSXdsVUo4Q1E1QlRlOE1vNmtObi02NUpZYkJKdE50QmQtU21MMFpUbk1PT0dGaWxPY1c2S3FkSXdYamJYRXpUOUh0YXVxTmhhRTJyX1FkYzctWGhFVGdIRDlSUU9B?oc=5"
       ]
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "score": 20.12,
+      "score": 18.53,
       "kinds": [
         "official"
       ],
@@ -141,27 +142,15 @@
       ]
     },
     {
-      "title": "Air India passengers evacuated after hijack alert at Kolkata airport",
-      "score": 19.98,
+      "title": "14 suspected Sinaloa cartel members detained in Mexico — UPI",
+      "score": 19.99,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRkxDSUh5WFM4NGdSc0RJdkJHMVFNQnJoN090cXpKcG91S1FydUE0QUpOZldQc3MwNldRaE9iSEk3NDU1R0xsTnNNOUZLX25Tb2hKb0tpanNjdGRJYVZLamRUVTRRYVEwS1B5NmRMTlJZczBkQ0lvdHVQV18tUHBScnYyTVVGMzBPNlBaZG1BOEs1ZGU4SnhHZEZjRXBzcWJ1c0hXanRBSDg5M2tmXzZv?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1JnUllzZDlKWWhzOThTQjZ5UmVoZU4tVlg1aFotNXdxcGRRR2hsRFJpNzJuMVhOeDlGdFJDM1hqY082QlB2UnVSUmJBNGpwcElRM01vcU9KOWF4UzRRZmhFbVF4T1BMcVJIcXF6aGZvOUxVSFJhZE1pRkgzUGJMRlY1ME9CSlV0SVZ5Q0JIb0cwX2FQdF9leDFoZy1SX1hEV3g5VnIydnpHa3A1YnBoYXZISWFFUzBV0gHAAUFVX3lxTE5mVEE1SjBTYUtYTUJNOThlcW5ocTRpdnVodVU1Vy1MQ3ZRVVJhWUJqd0tLYmFfYmF5WUlUYnNVY2tSbzMzWmoyb2N5Q3pVNV9OZEdZdDQ3MC1EY3o3czJLZ2hsZkQ5OTBYdjVwOWtRdGVUXzM5b081MzRSeU1LOWxVZnpLNWc4bmRZVFpteFpxOGZpUU12TFRwd1dtMHhjWjdEVEhmTGZodmRuX0Zpa3M0a0hvbk00ZlRhNEhRRS1ENQ?oc=5"
-      ]
-    },
-    {
-      "title": "Today's NYT Strands Hints (and Answer) for Wednesday, November 11, 2026",
-      "score": 20.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzdHM0EwTWJpUEZtdXhIWWZibFVfUkJJdHFQZ2tObUxmbnI5T0pRajN4T0R5YkhPZFViVl9rMVNTdTF1QzBCOUFFTFBIUXB4QVFmaDE5M0ZvMG82LVB2c1A0T1gyenRoUVJ6V29HclZKTDlZRVFmaEJzdXBXQXY0UjFzV1V2bkN6VXFjQzYyZE1IUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclNaWVJqbkZMUmQ0ajU4Z2VaM2RpNlZPOUNLODVEbXYtSVpSMHJlVW5NMWhmMUxlcGtfOHNyOUp4a3M4ZDY2di1LX293VkMwOFRveEhrYlZQbFlzOG14c3dCeER2b0dkQlU4cGxNZ1dUOEhUX3VqMVZWVjJWYThsYjQ3WUE2d3ZKeVVEN0hPT0VqS3RIcGpZ0gGcAUFVX3lxTFBsQWNpZTZWQzlrSE1UZUNXVFNKS0N2RnpUa0ZZN2hKb1BvUlJCbk5HUFNZZk9DX2pGbEwwQWxkUXBIWFFJT1FILTNfaFdwM3o2V1c2dlgyNHhCTWFBYWRubTZZVWRUcXkySkMzMmVPVnZOdElaMFd5SEFRR0p2c1gwYUE2a0hEaG5yS1RGbjRmckNLUFpoYWVScjhWWQ?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5NVHVHaEw5Y0c1cmk2MmlDbElRTk1JeXBrZ2NXQUhZVDg4ODJ2M2FyQnpZQjVoT0doRW9uNTBOVm5mdlRpaDUtVG9NdjlhTnhnYnpVS0V4N0ZSTjRfOEdjUF9JWWRoQzlmQWZFM0l4aDRDTk8xbzhtUGpvaEtnS3ZWajNsaXY2YXVoZ0ZFTFRrSzhBcmNmLU9rX3k?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzRaQ2pNSHRyQnBMLS02MHhJd2RZbEhseUp4Z2pxcEE3VUZGdUhrb0ktWFpUMktoUzF4Um55UDFfcVlqYjRCczZtbGJySnNuSUdXXzkyMGpTR1hRbzAxZkEtTzdRemRRazVQdFF4RmNvVWlfTlI1ZjNmZTFCak5jVU5KNFkxQmIwQ3ZPSXFrRkotbnYwMVZQOXlFODhxRGxQTWNIbWpfd3dwR0l6d05pS9IBtgFBVV95cUxNOVVnZ3BRb291enlqd05rSXZRSExrd2pOOUtacmtxOVlHQ21DSlJMMFNGWUlDVjhRRmZFUGl2Y3NqclBKczhoRU9XYW1NMmNBeWdlU1R0MmZ3UjZFSl9uU2lpR0hBRUIxVTMzS1hTNHB2WkFkLU5CZmlLbmpFb3pYX0VlbmtQaHVzSFFjSEVXazd0dDVpM04xMmhjcVU1T05RbjRmUUgyY1hlR0RrQkg4dmQzbDZ5Zw?oc=5"
       ]
     }
   ]
