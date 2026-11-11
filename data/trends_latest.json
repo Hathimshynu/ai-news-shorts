@@ -1,11 +1,11 @@
 {
-  "job_id": "2026-11-11-morning-0128",
-  "chosen": "Gemini 4 Carbon is now available",
-  "reason": "Google's release of Gemini 4 Carbon brings a powerful new AI capability that viewers will want to learn about and start testing right away.",
+  "job_id": "2026-11-11-evening-1701",
+  "chosen": "Introducing Businesses in ChatGPT",
+  "reason": "OpenAI's official rollout of new business capabilities in ChatGPT gives professionals and entrepreneurs actionable tools to upgrade their workplace productivity.",
   "candidates": [
     {
-      "title": "Gemini 4 Carbon is now available",
-      "score": 36.26,
+      "title": "Introducing Businesses in ChatGPT",
+      "score": 32.68,
       "kinds": [
         "backlog",
         "news",
@@ -13,28 +13,14 @@
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU1HeWZ3MzY3RTRteTE5NDEwRFdjWElJMFJ1c2d4MXRRX0ViNlFoTkZuUXBHVE1BYU8yNEtmb0VvcEtqamlZUWZITzY4Nkp4RmRkRGN5Zk1EeG5QQ2toOFJ2WFJMM2ZVbC04STc2eHZDOXFiZTlxVjNPWmpSYk8tVEQ4S0x3UW9CTy1XbzZjQWNObllReV9Ud05CaWp0bXA4SzdGd3VhTmJ3cmxLVUpkdHM5d3l2V2VJT0RUNDEySQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU1TdlZqOVJZbDFVTzdSMjJzc3NxNnhCd3N0bkRxakJETEZTSm05MHJYUzFNenIxeDkxNzR0ODJudHlCUldRR3J3QWU3bWZIcjQtakx3TXdES2NqVUtLTTJ4c1pULWN2TnpwbHlEQ00tT3VCMHctaU1fbkFZVTkxZnVsZw?oc=5"
-      ]
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "score": 26.69,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
         "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE43UzlBME1xcXA2UVRBX0stek9uS3ZlNnU1U2txLURWekZCbHZrbVlLMHNDcHZmLUJsUDh2Q09QZkxGc0o1cnJxMUhpRHRBaEg3V2JWUVgwYk00bFVPTEFQNjcxMzY3c0ZvZXFYdw?oc=5",
-        "https://openai.com/index/introducing-businesses-chatgpt"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenFzSTZuSlQySHlmZ0d2a2RRNFJCb1Z0LWVDLTV2M1djVTZUdFNJak5kb0hpSlFpai1PLVNaZlZ2WTcwOTRyQXJOZW1ETEpXLXJkNk56bDlfRFdXVmhVcTUyTjFVVlFpQUlxSVBfaS14QWQ4Q2d4SjR4Y0NqdDhYSXhqTU4xaXNOcDBOdDd1UmpzUFUxNmpoZThYQ3VUSUlJdzEyakdIRDg3R3VQNVg5NUdBOEVRTnk5WGlJdUV1bUpZMVZUU3pNT1NiVkRLQm9DNzk5UDdubWxudGNGYk1N?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDBZdGkxSDZnRUxBZVY5REVEdFA4ZzBqRUxXZjZzSHlKT0NvbTlOYldEMUNDbVJZWHJ2NHdDYjVGNC00Yk1sVUZYM2NtbFFSbG0zRUFZMURBcVVFbzhtQzJWQlZ5NFB1VkdsbkVIcmh1RHlCbEJHTG1uaXFEUmpxa2Y3M1hnX1BCSTBoOWhZUnkyZEl5YU4zLXNURkVfc1VNV1NIT0Izdm0zQQ?oc=5"
       ]
     },
     {
       "title": "Work at the Frontier: AI’s effect on freelance work",
-      "score": 25.77,
+      "score": 21.88,
       "kinds": [
         "backlog",
         "news",
@@ -48,124 +34,128 @@
       ]
     },
     {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "score": 21.02,
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "score": 23.42,
       "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "https://deepmind.google/blog/introducing-alphaproof-code/"
-      ]
-    },
-    {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "score": 20.76,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
-      ]
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "score": 24.26,
-      "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5",
-        "https://openai.com/index/closing-ai-guidance-gap-education",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5"
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5TnE1UjlpM1pERzg3engxOXBzbXNnMWNhSTNSbWVESzVQdXZJeGNyUVJTdk5tR25LNGc3d05CVkFXTGdHWHFtaEk5OTNOWHBQeXlB?oc=5",
+        "https://openai.com/index/cogent-security"
       ]
     },
     {
-      "title": "Helping caregivers use AI in everyday life",
-      "score": 25.04,
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "score": 28.12,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5",
-        "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5"
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5",
+        "https://openai.com/index/gilbert-tobin-sam-nickless"
       ]
     },
     {
-      "title": "India not a refuge but 'compelling' AI opportunity: Anand Mahindra",
-      "score": 23.1,
+      "title": "UPI volume jumps 32% on Diwali as last-minute festival buying drives digital payments",
+      "score": 19.91,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkRQT0lxT1V4SExPTG1NeUdId05yR0Z1T2Z4WlVmZXdTT1h2YnE1ZzY0T0U3TDVOamh2MXJMQWJ5eVl5RTA2WTdqZ0FxSWJqMW5DbVA2djk4Wm1oWFZqVUEwdjg0YlFHSFNGQXNlSmlzQTlEZldGYW81MHZ0RlJyS2JiN0ZIbl9OUGdwWFRubDgwMXZma1N6MUoxc2tJWFRya18zZDN3NFJFcnhy?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUxRUDVvOTNLdHlOdkhjNFJvUDNLakZaVGV2RExJcE5VUTAtamIyMGRtVUhwZVpMSlR2bGRtRVRwYjdFTWltSEZ0bHlkVk9kajdIcDdqWEZ5TmZUWEtpNTlvVmdsVktNX29oV1llY3p5b2NKMkpfQlhmLVc5QnNQQWpqZHpXUGctUWFmRzRqZ1liTkJEbGFJcGMxYVNkRXdmLTdlbl8xa1Q2R3BydlZnaEZtYXprVWZqLXFxaG9tRWJNclljQXRubXB0SlotWVXSAdQBQVVfeXFMT0JHaVBYSFItTnFibG5zM3ZFbW0yemNmcEV2TnJHaGFiYm1VenZwbTRIa2dIX3YxWUxpb3JjU2VDa0hWOUdMaGdlTlBYallCT0Ntb3o1MkJScmU4ZGlBaXFhRXlENXpnTzNNUlA0MlBFLTZCZE1ZSGFEY0ZhOHBEX2s1dzJzUmVIUGpLcm1udENJLXNZWHNZdGQ1MkJhYWdLOHRxUm1IM1JxZURvTEtyRmJFR29MejJuTUU4clV1NlcyVGctM0JuYjBGZ2VZalpBZmp0MXk?oc=5"
+      ]
+    },
+    {
+      "title": "India has compelling AI opportunity: Anand Mahindra",
+      "score": 20.71,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNS1DWWJsbGxVdENSTVJLbmx0UEs5NXdrWTlLNnhSMUZkWEZDeHB4UTVqTUtuSjhfSWt0NWN2bUVmTnlWeUpnVXlNb0MxaUM5TmRZZ0tOWlZBNmktWWt2OGV4TW10TGRNQldqS2xnU0FCeGdpbFZhcWhUX1ZpSThhX2t6M3BWcmJKcUVDc3pMMjVDVWoycHNlUHRjQkR6em0yVG10aDFfci1QcThyYm5abFdoMDYwQ0oyQWZUS0xRMlZ2Tl9VVVIydDNYenR1U1ZVZDQyajAxZ3BsbW1VXzZOdlVWZWVTZUHSAewBQVVfeXFMTV9SVDhzMWhka2xNYnFlNXpzdFdxVDZQS1lBU0tQWFQzaUg4cHJvU0RGNHV5VHFyeDMwdk1hTzNRQmRxdTNlUkNoa3J2aHdHQ2hqdzlyUnhzbGNzUXlhaUpWcTV1cFo2OTZCcF91SEdlaXhKY05qYVRmMVBhRWRqVy13amlFUjdUdnN1dE50N01ISW5DOFZ3US1CbWdkRHhFLU5PUUhFZjdrM1BWWVpIYmhaTXU2dXVpbGJSYXowUmk5RW5qV2phd2VPWEEtMU5Oak0xSXBNRk1mRXZGeXBKb0xMQjhSaWI5TzBYejk?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNS1DWWJsbGxVdENSTVJLbmx0UEs5NXdrWTlLNnhSMUZkWEZDeHB4UTVqTUtuSjhfSWt0NWN2bUVmTnlWeUpnVXlNb0MxaUM5TmRZZ0tOWlZBNmktWWt2OGV4TW10TGRNQldqS2xnU0FCeGdpbFZhcWhUX1ZpSThhX2t6M3BWcmJKcUVDc3pMMjVDVWoycHNlUHRjQkR6em0yVG10aDFfci1QcThyYm5abFdoMDYwQ0oyQWZUS0xRMlZ2Tl9VVVIydDNYenR1U1ZVZDQyajAxZ3BsbW1VXzZOdlVWZWVTZUHSAewBQVVfeXFMTV9SVDhzMWhka2xNYnFlNXpzdFdxVDZQS1lBU0tQWFQzaUg4cHJvU0RGNHV5VHFyeDMwdk1hTzNRQmRxdTNlUkNoa3J2aHdHQ2hqdzlyUnhzbGNzUXlhaUpWcTV1cFo2OTZCcF91SEdlaXhKY05qYVRmMVBhRWRqVy13amlFUjdUdnN1dE50N01ISW5DOFZ3US1CbWdkRHhFLU5PUUhFZjdrM1BWWVpIYmhaTXU2dXVpbGJSYXowUmk5RW5qV2phd2VPWEEtMU5Oak0xSXBNRk1mRXZGeXBKb0xMQjhSaWI5TzBYejk?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFpNaTFFc3hGWU0xWGZGUnhlSWFPS2FyZEhDOVFpY093OGJsWWhtUEh5OHNnVHpaWHRkZEJ2akVwNDgyTU9xV1k3NHJ0Y2MxSmlUTjBsUmp1MXRLczBBd2I3M3c1MVBzNmNlZ2N3N2tfUTlPVWlIWjFXNzJaRDFyVHZDMWJuMUhqZHBMTWFHZDRWOXBxVm5aVUZNdWhWU0hLd1ZxMnF2TQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQko3X2FDNm9kSUpDeVNVTjB1Y1BsSzVwWUs2T3dwSE4xYzVlVGlZTW9tTU5VT3Z6QXNBVEFKVmRJdUNOeWp0NkJIdXRKMXJfbGpLUHZkcTNpWjA4eFJLUzdpVHFNV1JEME1jTmpPcDlxeF9KV3NjTXlqUDEwRkRncFNuOU5PWk5rU1AwRlBmYWNQU0N1enMyV3prc3ljZ21qdXhoSXp5MWNTR2Y2cEV1dDFNMHVxN3djLVE0?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNS1DWWJsbGxVdENSTVJLbmx0UEs5NXdrWTlLNnhSMUZkWEZDeHB4UTVqTUtuSjhfSWt0NWN2bUVmTnlWeUpnVXlNb0MxaUM5TmRZZ0tOWlZBNmktWWt2OGV4TW10TGRNQldqS2xnU0FCeGdpbFZhcWhUX1ZpSThhX2t6M3BWcmJKcUVDc3pMMjVDVWoycHNlUHRjQkR6em0yVG10aDFfci1QcThyYm5abFdoMDYwQ0oyQWZUS0xRMlZ2Tl9VVVIydDNYenR1U1ZVZDQyajAxZ3BsbW1VXzZOdlVWZWVTZUHSAewBQVVfeXFMTV9SVDhzMWhka2xNYnFlNXpzdFdxVDZQS1lBU0tQWFQzaUg4cHJvU0RGNHV5VHFyeDMwdk1hTzNRQmRxdTNlUkNoa3J2aHdHQ2hqdzlyUnhzbGNzUXlhaUpWcTV1cFo2OTZCcF91SEdlaXhKY05qYVRmMVBhRWRqVy13amlFUjdUdnN1dE50N01ISW5DOFZ3US1CbWdkRHhFLU5PUUhFZjdrM1BWWVpIYmhaTXU2dXVpbGJSYXowUmk5RW5qV2phd2VPWEEtMU5Oak0xSXBNRk1mRXZGeXBKb0xMQjhSaWI5TzBYejk?oc=5"
       ]
     },
     {
-      "title": "Qantas to outsource 850 roles to India as part of major AI drive",
-      "score": 20.36,
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "score": 24.12,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZDVqU2NMbXRqaFZkVEJfcnRlUHMzT3hTUEV6V21mQmk2aS1MOW1Wb0pXYlZxd3JPTlJZcmxvSjZydzRtWGlMcG1WaTIwa2dMbjZLRnQ2XzFqX25SQ1FFSQ?oc=5",
+        "https://openai.com/index/chatgpt-plus-for-veterans"
+      ]
+    },
+    {
+      "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+      "score": 19.82,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUtIR3VXV0xwdG44NUItMHZIR1VhdERLQTUzaHFRa3ItZjNRYjRCSjFFZHRSaGl6dGd1ZnNXMDg5OEtFa0JHaEtpZlc4czdOVkg5QWlTM0VlbjhhbWpER3Zqa2F5Yi1tYzdSUWh0M2UwVWxqdkRMNFVBWVdhbC1kSHNvanhGWWVuaUk4S1NtblA4SzJSVTgzZGYybG5OVEFT0gGmAUFVX3lxTE9ha29vamUxSGs1SFBwLTZQQjFTWjktSVlLTnFDWVJzZHV5amZKRVdseGFkRGNPQU9Bdnk5X29fMnRMN3F3eVlWWFEzVnlaVVF3UklyWUFxeUdDMWZXTnNkVy1QQzBLQlFUX283Skc3S2QzTUw0ODI4YU9rbzYzdzRsc3lrbmwtN0FmTHhlZU4yNFQwRzdpckJYNmtOcG5CU3M2MTBpWlE?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHhZUFp3RWV1OXk3enFERC1YczJTeU0xZ1pENG9PalZpZ3ZvNG40NHM1eHVIMnBVTExXR1gtaV9oY2VpYW8wcUxteE5wTU5nR0d5bmhpNndBaHdRU0ljVDFrUmctbm1HSTAwQnYzS2hXQkZQa2QydFJTek41LTY0SU5JUTZzYm54TWVWTlp5NjF1MGdEMHJBeVhuLWRBTGNKNU5zdGtoX3ZkNWxBb1Ew?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFJRLVd6YmtoOU1CRUxNeGZzUGFHS2ZlTVJxUk5Od2NLT24xTmY4MFQzSE45RTlEclpJRFRqWXd4REo1Zm4zSVdTcEI1YWtORWxGMnE5T2ZyODhEcnFPXy03d2Y4R1NZQjhMN3ZLamcwdW84UlhvMXo1UlBjRzhqbVM5Vy1VZGh2Q2JrZ2U1UlBsMS1oMk5JY1ZVZlRsRVIyZm5R?oc=5"
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNzRzNMbFdRYllVV3d2QUlfMnFRSmtoTXRXR3N3Tl9Ba3ZIZDRWVVFxUjhtZzl0QzNqQ19ZN1R5dDJZbzdWUWxkV3E2cmU3aGo0aDJnN0FYSENCRjgwejJlbjBabjVpbTVraVEwUDR5NTN6N1RsUDNHT3U1TkhMSTVtVGN3MjN2YXQ0RV9rZmdmLVVoQ2JUU3pGYU9yV0NLRVBnZ1htVUI2bjhTd2c2MVo3bTTSAboBQVVfeXFMT0FRdDZJNzZxQ2kyMnhLc1Z5N1hJUEo2RkFvU2FseElhZDk5aWhtVE9JREhCUFdaeHgwaUN2U3laZC1tMjJxTV9MdXV1QUY4U1JoamhQREc3YWo2V0t5NzJaelp6cUs4YXpvUjRKcFh6NXdkVEozOXRuNGlxelhYVFMxSkxsdUZIeUtBZ2tRYUtLWnQwN1VWNGZ5aGpfYmRKU2NoVmxiN0dXV0ZSR0xGZkJXNXlQTkMxcG93?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1hSUEdDUS10Z1lhVUt5WHFhNVZQWTdac2NXYTBBX3dhRXBEaENyQ0JLOWF1TTBIQXF1ZzlRUTdTZ1FrdVAyakcyX05zV3RNeGdiWDZwdHE3WDJvZmdPNjhTOWlxMmZZdGw2eV9zOHF5Yk9FRk1tRURYMnlUYjBkdFJQTC0zN3NheGdHZ2ZZTmpKQXIzZ0lpdFl0bWJXWW9LTWxBRjVQS0hYUHkzSDVsRjdmSW1oOXRkdUtwTHBvRkZpWW0ydUlldm95REZuTnF4TUxaaXlueXRGVFZz?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORVc3U1pFUWRPc21aRlg3ckh4NmhtQjBRZVBmTEFiQm40cmVGMnRyZnEtOUt6TW9IUW9RSExrNE1XYlhYRWtsWnBHZ2VlWTJnTGNzZkRKd1Jycnk5c1dIYmVNdGJlQ1JteS0wTkJKcDg1TzZVQTc1clU5V1ZMcDdMT3lkMGliYlcyLWxuQzhnNTJQS2ZOZTJSTWo2ZkVnNUNLSHpJWlZpbjg2d3lGaHNGLTZ2NnhISEFQYjVyRUpoYWF0M1VSTURiOWlnbEhybHgwV0o2aXNnSmgwYWlzQlJ2amdPRmlLZGZEYWlINmp6TGpUZFdNbndn0gH8AUFVX3lxTE1NUDZLLU5hWGRSLUcxcl9kMEw0MkF0UUp3WmxBamtNSkNvMHFBaHBBVXVpcmp3b2g0LTZtdjZZTjFRMmdpNl9iWUJlX2FDZlRnLUg0V3hXSFR0eEdRWkdnMWlOT2JzNWhmcG53UDVydEtndUhhdmNmQl96YVh1SVE2MHItSy00TWhBSzVEelJEbmVId21nY3FLNHk3eXptUDlYNTlRQ21SdUlEWFRONWpFaXV3Nk5VX0tXTEJ1eFpwV2w0QXhndE53TjhsX1M5S3I5Z2p1THpwUVdRZkhHa1pfeXZqRTBHYVRfd21wUHdMQnF4a1JLNGxFY1lENA?oc=5"
       ]
     },
     {
-      "title": "UPI volume jumps 32 pc on Diwali to 916.9 million",
-      "score": 24.79,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmcxV3I3dnZYd0ptQUdzMl95VXhmMkxGbGxCb0dhd3pKdXJsS2VHSXpxdnhaZ1NRVDA3TE5DUU83ZUJfQ0hmRG9LcWR5NXBFS1VnWWlOZklWaGE2V3J4dld4ekhHMW9YOXQ3ZHpOekw4V1J4QlcyZDhJWUo3dEcwV3hlbnZYNjdxc3BpMHFrSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXI0THUyeUZxV3pITFl2NjlIVUpoQUpwRkVPS3hmM2h1UGFaazhkSC1lQjNlbHVSV3REdGVreC03cFpBX1hHa25LUWpLX3c3eHhhYU5QdlpDWjJyRlJYVHloQ1J2ZkJVRnk4R3lkd0lQVFFuZVhsQTBfMFFvbVQ0TmpCT3o4SnFWMHREb0UtYWRpaG5Xc0NZY0dRdHFia1ZlNU92eWNWcFcycFpiQm5Pb1o5VWhtaEhYNVVtZDRVTVdTM0hiYVNqY1p2RV9uSHFX0gHQAUFVX3lxTE5xcjRMdTJ5RnFXekhMWXY2OUhVSmhBSnBGRU9LeGYzaHVQYVprOGRILWVCM2VsdVJXdER0ZWt4LTdwWkFfWEdrbktRaktfdzd4eGFhTlB2WkNaMnJGUlhUeWhDUnZmQlVGeThHeWR3SVBUUW5lWGxBMF8wUW9tVDROakJPejhKcVYwdERvRS1hZGlobldzQ1ljR1F0cWJrVmU1T3Z5Y1ZwVzJwWmJCbk9vWjlVaG1oSFg1VW1kNFVNV1MzSGJhU2pjWnZFX25IcVc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGpOQkxiUFJxSV9YOHVrTnpFdmJlUndvN3l0YUNldTFxX2dTcXVHSVlGSURXaXBWUmJZR0RXOWpSdXMxRWRraTN4bWNBSzlQTlkzMjBDV2RpZXN6bWdjN3MwMnhORERXSUl1ampJM3R6RjVFUnV6dld1SnZPU2d6UTNyZTdfWThPRVlfM2JQbFNwbXA3MXl3UjFaNHdtYjYzSkk3RzFSVUo4cUU?oc=5"
-      ]
-    },
-    {
-      "title": "Vivo X500 Series India Prices Leaked: X500 Ultra, Pro Max May Cost Up To Rs 2.29 Lakh",
-      "score": 20.38,
+      "title": "Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next?",
+      "score": 19.44,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEk2TktlUFBmN0VpMmdTNDZNYjk0c3VTdC1aNDdid0E4SDlIa3pQa1hsMXJ2TnBqOHQya05KUDRVN2Z6eFJlcUozYzVQU0kxd05CeUwzVHJfd3JRUG9ORWk0N3lZbWs5S1VWQU1rTDNVeHI1aVh0TEFkdzVFTHVUdXRNVzJMdmZDRHEyYnJWdmVBOFVEZk9VOVZzbTNzWXhvdmoyaWdQaWdIeHNXTlJ1S2dhaUplOHVENTdZMjlDMEhUMkpOcnhIMWxmMlXSAdIBQVVfeXFMTzBlVm1iOVN3akYyVlpsakVkYnlXUkxLbDdrWFdCRUdUNlVqaGE4NUdvbXBJdG1GbEN2am5ScDdXUDEtblVtODE0T3A0R2JzQ2l0UDloa0UxZmtKd0xzM1JadS01cHozU2lkNnFNWGlCOEMtTHlTSF9aUlNPU25DWENTRnd3c2VKSnZ3R0J3ZzJZcHVkQVBoWC1qY0hzU2xYckZkVE1fbGpVdWhtN3FlczBTSndQWks3X0ZOeG1JWTVZRTBYd0JOWUNnWVpoUXZTSHBB?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkMDFPckozODRRdlBkM1JyWVZxQnFORURhTW9ic050Tk1yTlZTMk9iYTd0SGF5TTZnYWhYbWk4b0V6OEZhck5Sc0VVMlJhbkg2d1FhalpCVDUzWnhFU1I2LXVhTGhtWmVpWWtEdHliLXNrYzdSc3VSOEY1a9IBe0FVX3lxTFBkMDFPckozODRRdlBkM1JyWVZxQnFORURhTW9ic050Tk1yTlZTMk9iYTd0SGF5TTZnYWhYbWk4b0V6OEZhck5Sc0VVMlJhbkg2d1FhalpCVDUzWnhFU1I2LXVhTGhtWmVpWWtEdHliLXNrYzdSc3VSOEY1aw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHlQQ19rTlJwLUE4ajlnei1fZlN3Q0E0bXd2YWcwVGQwX0pUNWhnTFZSa3ZseXFwSVVWcTkzQWJ4enh1SWd6bS14ZWZ5dEdaeXJPTnVSVnVtRHNtR3VIZHJvUzIwMlZkdE9DVUpuakFCaTBXSU51a1RRQ2s1TGVWdjRTQjZDc2xEZ3NGU0c2S2lmeEthbHhqbWFURXNCZXNuMUpMV1VvMHVCUG8?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVE1b2RIa1hqdHBtOHZsNFJiRmhrNmYtMFRlN1M1X2RQeWZfby05Y1ZTYmhzVzNOYkxDbzU3cVpINWExbkR6MDU5T0xBai1DTjJEMlZCc0NnaE5YQk5oamJ6MTNrZkxINEc3ak5vZWVJU2syTmFYbV9Bd0ZsdFJrS3VKM09uaHpKV3dnNWVVbm1PTzFaa0o4SjZWbTZFel9rLXVNZjZ3ZWFTMHNuWV96aEhPZFFNTUJZUmhn?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGhCVG1SYUFMX25PY3BSTFRMS3BhMzJLdVB5RWxFeHlNTTNacWhKc2V6aUZaaHZmMENfM2hNUjZ4Smdab0NFcXJHMFA2OV80U1pKclRnaE9FU2U1bjc4TEt0YVZJWHlaZ3lGakZZdTJCUmVfd0s0NTd3OU0tcDM1bVFiLW4tU1VBM3A0UExHTUl4WXZOT3d0SWphNTN3V0ozUFBWbHBTOHd2OVhyNmk1OFlsU3lVWGtDRFdnYdIBwgFBVV95cUxOYzRYTWpqX3NpcVNyTTVHckJUSno1dDVDcWxOaHNEcnlLVDZYQmF5N0M1b0lORXdkeURuMHh1OGpxVWVJcnhPbXNkVkpaWFYzNWJobWhKUFNnMXM0MFRMb3Q5UmVoNzlUMGwzM3JQRXZSUmhQOW43eWVxM0J4VlhGZzVHaUxmT0Z6VTZqTUJ6dU1VVnZwQnY0c3NldXZjMEJOcjhPZVE2aE80N2VwbjNpQkc4NmQxYUxYNGQ2cV9wQjZpZw?oc=5"
       ]
     },
     {
-      "title": "Samsung Display Raises Automotive Cybersecurity Standards with Two Major Certifications",
-      "score": 21.13,
+      "title": "U.S. loses grip on $121 billion mobile gaming sector to China",
+      "score": 21.35,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVZOdngwNnVLci1SVkFMOUhEY3JKWmo5bnMwaFVCaTkzc1paZzJKQlVKNzN5QXdXNjI0SlNWZnJJSTlSb2RMSkJDOUtjY1BkeDBlbWluNGliMWFMUXE0Y2ZURkMzYWJxT2xuZVI1UTBsaUhOQS1RWG5jQXhKekpMWEM4bHJ5TTFBSzFfYkkxdWhYX0xJX1QybGYzYzBzZVY5alNsUUxnZk9Icm81LVRN?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG9QTVBkUGl5RlJuOHpGcHMySUEyRy03ZmRmbFJPaWZ1Q0h4UWFhNWlLdGtQMmNzTi16VThkczBKVTJOb3lvdEVlcUU5REhYUzlhMWxyWXZnYmJSY3dGV3ZUM1Q5YThVOG5sc1hBZ3V2bjdxdlNEc2RNMDRIVVAyb1hUV2UybzVseGctWjRDeFBTZmc3ZWlpYVZnUFZsamZS?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGRxNjNvYUY5eWhWUWRmWTZnUS1hVkNJVW9mVmNJQXJtQzRTajJuXzBRSFlEa1l2N09hTDh5WlJQNzJjRWE2emhpSW8wbzU3NHRrTi1rZWVPQmp0VElYZDhyaTRvWjNCMS1hQV9Ic2Nsa1ZOZlpxc3FiUEo4amowMVpuZHh6WW8zbG5SYURMOVpTRUUwZ1NVQmhrT3F4VEhxS3JGdDVLZ9IBrwFBVV95cUxPZGp3TjY1dWRFVU5nZ2lWSUdya1FqckpLcENPb0c0UHdlRFZsLWR1SEt3WEF4cHlRT1VZcUxtTEQ5Z1V3S2FRTGt0WTBjQklWVUZlYlo4WjUwZUdHejI4cjJkV1ZNN0MwT2o2WlVNM0lJUjdENHE3bWZJWWMwcWdEUnd5X1oxRGozb2lTN2R6enEzWHllc2pFTEoyMnlCQVdyZDZqTUVhM1M3cTZpODhZ?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVJYdXlTcTdTZWtjbVc1S0JfUFl6bzdObEdHZkhzakFFaFZEXy10V192cWR1NHk5eHYxUWtQXzEwZV80WUg2MGNEaDM4Q1NlY2JXWGNuYndTUWVxQTRoZTdLRnZTOVRUenMyNGpfcDJ5WjkzeDkzVzJ4dk5mZlZMQ2JKSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vSDZrWHlqdE5JMWZiY2txYkpCdWdGY05XVzVJdkdQaGpfQWw4c0VzbzVRM3dXV2FxU3otVUtpRFVfUHB4WDkySVJTdHJOMWhs?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVJYdXlTcTdTZWtjbVc1S0JfUFl6bzdObEdHZkhzakFFaFZEXy10V192cWR1NHk5eHYxUWtQXzEwZV80WUg2MGNEaDM4Q1NlY2JXWGNuYndTUWVxQTRoZTdLRnZTOVRUenMyNGpfcDJ5WjkzeDkzVzJ4dk5mZlZMQ2JKSQ?oc=5"
+      ]
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "score": 20.37,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+      ]
+    },
+    {
+      "title": "Today's NYT Strands Hints (and Answer) for Wednesday, November 11, 2026",
+      "score": 21.12,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzdHM0EwTWJpUEZtdXhIWWZibFVfUkJJdHFQZ2tObUxmbnI5T0pRajN4T0R5YkhPZFViVl9rMVNTdTF1QzBCOUFFTFBIUXB4QVFmaDE5M0ZvMG82LVB2c1A0T1gyenRoUVJ6V29HclZKTDlZRVFmaEJzdXBXQXY0UjFzV1V2bkN6VXFjQzYyZE1IUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclNaWVJqbkZMUmQ0ajU4Z2VaM2RpNlZPOUNLODVEbXYtSVpSMHJlVW5NMWhmMUxlcGtfOHNyOUp4a3M4ZDY2di1LX293VkMwOFRveEhrYlZQbFlzOG14c3dCeER2b0dkQlU4cGxNZ1dUOEhUX3VqMVZWVjJWYThsYjQ3WUE2d3ZKeVVEN0hPT0VqS3RIcGpZ0gGcAUFVX3lxTFBsQWNpZTZWQzlrSE1UZUNXVFNKS0N2RnpUa0ZZN2hKb1BvUlJCbk5HUFNZZk9DX2pGbEwwQWxkUXBIWFFJT1FILTNfaFdwM3o2V1c2dlgyNHhCTWFBYWRubTZZVWRUcXkySkMzMmVPVnZOdElaMFd5SEFRR0p2c1gwYUE2a0hEaG5yS1RGbjRmckNLUFpoYWVScjhWWQ?oc=5"
       ]
     }
   ]
