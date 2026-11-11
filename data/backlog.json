@@ -1,16 +1,5 @@
 [
   {
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "source": "Google DeepMind",
-    "kind": "official",
-    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "country": "GLOBAL",
-    "published": "2026-11-11T15:00:15+00:00",
-    "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
-  },
-  {
     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5TnE1UjlpM1pERzg3engxOXBzbXNnMWNhSTNSbWVESzVQdXZJeGNyUVJTdk5tR25LNGc3d05CVkFXTGdHWHFtaEk5OTNOWHBQeXlB?oc=5",
     "source": "OpenAI",
@@ -19,7 +8,18 @@
     "country": "IN",
     "published": "2026-11-11T05:12:16+00:00",
     "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
+    "saved": "2026-11-11T19:53:31.255980+00:00"
+  },
+  {
+    "title": "OpenAI Revenue Hits $10 Billion As Losses Mount",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUkwM0VlVzJ0bktHVWNReTBqb29sMy13UGppSVpqdW9Kei01RHlFMnBTWk1vZ3p1YVBtbDl4eURfT1ZmWGxtVk1RQWJnM0pLQ3pGTVBqdVhpM2xCWFI0eUdNQk5oUWxSeGUxNU4za1Q3ejl6bmQ3QUdQM0h5ODhOODNqQUZ1YUJ4RDRRVg?oc=5",
+    "source": "PYMNTS.com",
+    "kind": "news",
+    "summary": " OpenAI Revenue Hits $10 Billion As Losses Mount &nbsp;&nbsp; PYMNTS.com ",
+    "country": "IN",
+    "published": "2026-11-11T18:34:51+00:00",
+    "engagement": 0,
+    "saved": "2026-11-11T19:53:31.255980+00:00"
   },
   {
     "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -30,29 +30,7 @@
     "country": "IN",
     "published": "2026-11-11T11:57:38+00:00",
     "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
-  },
-  {
-    "title": "Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzd0RlpsLWF3NzBEdXczamZYU1d0M29sREx1d1hjXzVyQlppSzRCMEhDTTRXMy1Da3FodUQxR3E5N0lSSTlnclB6OFUyV051VXVCN004elRLa3VGQXhtTGR1VXF3STBtZGZPRXBjVUd0V2FNai1Jc3VCb0VQd3F3SThGckZ5ZUN3eHJlQzNBSVdMSlpLaWxqYXFTSnk0QzVDa2tYSjFiUG1TUm53S3hGeTFqWdIBwAFBVV95cUxNOFdVNHZDLW5Tdy1SN18xNlhXSTEtcGlWSEVMUm03aW90ZFRVRzJXNGhmeU93TUktOGlDa1N6WkdieE4yN3VhSFpMYUZIY0VwWDNyTmZtQ0RwWU9BNU14ZzVVdEdvLXZSTUNfZHRHbGZrMnp5eS1pUVZBMVpScXVPcWZDZlhhSmItaEc2U01QdGxjMnlmbkpoSk5semtEZW9fRUhBM2ZJTFBxVTlzUjU3Y0d0bU8yd001MnE0TnRZNlE?oc=5",
-    "source": "Outlook Money",
-    "kind": "news",
-    "summary": " Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million &nbsp;&nbsp; Outlook Money ",
-    "country": "IN",
-    "published": "2026-11-11T05:55:53+00:00",
-    "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
-  },
-  {
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "source": "Google AI",
-    "kind": "official",
-    "summary": " Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "country": "GLOBAL",
-    "published": "2026-11-11T16:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
+    "saved": "2026-11-11T19:53:31.255980+00:00"
   },
   {
     "title": "ChatGPT Plus for veterans and servicemembers",
@@ -63,7 +41,29 @@
     "country": "IN",
     "published": "2026-11-11T05:05:22+00:00",
     "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
+    "saved": "2026-11-11T19:53:31.255980+00:00"
+  },
+  {
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "source": "Google AI",
+    "kind": "official",
+    "summary": " Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "country": "GLOBAL",
+    "published": "2026-11-11T16:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-11T19:53:31.255980+00:00"
+  },
+  {
+    "title": "Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzd0RlpsLWF3NzBEdXczamZYU1d0M29sREx1d1hjXzVyQlppSzRCMEhDTTRXMy1Da3FodUQxR3E5N0lSSTlnclB6OFUyV051VXVCN004elRLa3VGQXhtTGR1VXF3STBtZGZPRXBjVUd0V2FNai1Jc3VCb0VQd3F3SThGckZ5ZUN3eHJlQzNBSVdMSlpLaWxqYXFTSnk0QzVDa2tYSjFiUG1TUm53S3hGeTFqWdIBwAFBVV95cUxNOFdVNHZDLW5Tdy1SN18xNlhXSTEtcGlWSEVMUm03aW90ZFRVRzJXNGhmeU93TUktOGlDa1N6WkdieE4yN3VhSFpMYUZIY0VwWDNyTmZtQ0RwWU9BNU14ZzVVdEdvLXZSTUNfZHRHbGZrMnp5eS1pUVZBMVpScXVPcWZDZlhhSmItaEc2U01QdGxjMnlmbkpoSk5semtEZW9fRUhBM2ZJTFBxVTlzUjU3Y0d0bU8yd001MnE0TnRZNlE?oc=5",
+    "source": "Outlook Money",
+    "kind": "news",
+    "summary": " Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million &nbsp;&nbsp; Outlook Money ",
+    "country": "IN",
+    "published": "2026-11-11T05:55:53+00:00",
+    "engagement": 0,
+    "saved": "2026-11-11T19:53:31.255980+00:00"
   },
   {
     "title": "Issue types and fields are available for personal accounts",
@@ -74,6 +74,6 @@
     "country": "GLOBAL",
     "published": "2026-11-11T17:16:46+00:00",
     "engagement": 0,
-    "saved": "2026-11-11T18:58:34.058390+00:00"
+    "saved": "2026-11-11T19:53:31.255980+00:00"
   }
 ]

@@ -1,33 +1,24 @@
 {
-  "job_id": "2026-11-12-morning-0022",
-  "chosen": "JioStar’s chief architect on AI discovery at 500M-user scale",
-  "reason": "It offers valuable engineering insights into how AI drives content discovery at a massive 500-million user scale specifically for the Indian audience.",
+  "job_id": "2026-11-12-morning-0119",
+  "chosen": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "reason": "AlphaGenome 2 represents a major breakthrough in biological AI, showing how advanced models can decode human DNA to transform disease research.",
   "candidates": [
     {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "score": 20.28,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/jiostar-vijay-seshadri"
-      ]
-    },
-    {
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "score": 20.03,
+      "score": 21.79,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
         "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
       ]
     },
     {
       "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "score": 23.58,
+      "score": 23.34,
       "kinds": [
         "backlog",
         "news",
@@ -41,8 +32,21 @@
       ]
     },
     {
+      "title": "OpenAI Revenue Hits $10 Billion As Losses Mount",
+      "score": 19.8,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUkwM0VlVzJ0bktHVWNReTBqb29sMy13UGppSVpqdW9Kei01RHlFMnBTWk1vZ3p1YVBtbDl4eURfT1ZmWGxtVk1RQWJnM0pLQ3pGTVBqdVhpM2xCWFI0eUdNQk5oUWxSeGUxNU4za1Q3ejl6bmQ3QUdQM0h5ODhOODNqQUZ1YUJ4RDRRVg?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5"
+      ]
+    },
+    {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 28.28,
+      "score": 28.04,
       "kinds": [
         "backlog",
         "news",
@@ -56,32 +60,8 @@
       ]
     },
     {
-      "title": "Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million",
-      "score": 18.76,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzd0RlpsLWF3NzBEdXczamZYU1d0M29sREx1d1hjXzVyQlppSzRCMEhDTTRXMy1Da3FodUQxR3E5N0lSSTlnclB6OFUyV051VXVCN004elRLa3VGQXhtTGR1VXF3STBtZGZPRXBjVUd0V2FNai1Jc3VCb0VQd3F3SThGckZ5ZUN3eHJlQzNBSVdMSlpLaWxqYXFTSnk0QzVDa2tYSjFiUG1TUm53S3hGeTFqWdIBwAFBVV95cUxNOFdVNHZDLW5Tdy1SN18xNlhXSTEtcGlWSEVMUm03aW90ZFRVRzJXNGhmeU93TUktOGlDa1N6WkdieE4yN3VhSFpMYUZIY0VwWDNyTmZtQ0RwWU9BNU14ZzVVdEdvLXZSTUNfZHRHbGZrMnp5eS1pUVZBMVpScXVPcWZDZlhhSmItaEc2U01QdGxjMnlmbkpoSk5semtEZW9fRUhBM2ZJTFBxVTlzUjU3Y0d0bU8yd001MnE0TnRZNlE?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTZSeUxuNzZKdUVWSm5OR0Y5Q3U2cWdGLTMxM3k2aC0zZHhwd0pSY2tUWEg2N1VvZnJGMTFodkNQc1dlOUl4d0RCT0x4b1JNUzU4MG1BS2VCYlFEYlB3T0tGNnBaRTI5TEZXcGRreEljenZPOWdNeVN3NGxrOHc1eDZ0SXJmZkVnU0tXRXprTmRuUmRFR2JlT3pQTS05d3owZERERHNpOFNSbGxqVXlMSndJNlMySGdPeXNCRlJEeGtpZUtnYmU2S25heThQXzhtd2I4N2FwTjJuTHExT0c5TWNCMDg?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWV2WU02VzhvQWlxQ2RoWFpmUnBaSE9UaG1rMlNPa2dzSm16UHZaRm5zblN3cEJkamNjcHAtUkcyejVXUmxydVByRUJqRk55QW1YVTg2TnVwNS1yTVlMakk1OGw2TmdxTVBYbDJydDdSYl9KV3dfbHdCa3JScXotUVBn0gGGAUFVX3lxTE9wSXFCNzFYVVZtNkNhN2NVUFhNSXl6REc0amh1WGhwN29aZzVZWjlMNkxPU0Y0bldNSUFUMk9RdmpOT3hqMHdZMmxTSGwtaGV2MWZpLUZETjYzSHc1czU5RTlubUZqSVQtZW9Ddm4yeU5DRXQxZHN6My0yRndibHhJc0FVcVB3?oc=5"
-      ]
-    },
-    {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "score": 20.28,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
-      ]
-    },
-    {
       "title": "ChatGPT Plus for veterans and servicemembers",
-      "score": 24.28,
+      "score": 24.04,
       "kinds": [
         "backlog",
         "news",
@@ -95,19 +75,48 @@
       ]
     },
     {
-      "title": "Issue types and fields are available for personal accounts",
-      "score": 20.6,
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "score": 22.04,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+        "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+      ]
+    },
+    {
+      "title": "Diwali Spending Pushes UPI Transaction Volume Up 32 Per Cent To 916.9 Million",
+      "score": 20.52,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzd0RlpsLWF3NzBEdXczamZYU1d0M29sREx1d1hjXzVyQlppSzRCMEhDTTRXMy1Da3FodUQxR3E5N0lSSTlnclB6OFUyV051VXVCN004elRLa3VGQXhtTGR1VXF3STBtZGZPRXBjVUd0V2FNai1Jc3VCb0VQd3F3SThGckZ5ZUN3eHJlQzNBSVdMSlpLaWxqYXFTSnk0QzVDa2tYSjFiUG1TUm53S3hGeTFqWdIBwAFBVV95cUxNOFdVNHZDLW5Tdy1SN18xNlhXSTEtcGlWSEVMUm03aW90ZFRVRzJXNGhmeU93TUktOGlDa1N6WkdieE4yN3VhSFpMYUZIY0VwWDNyTmZtQ0RwWU9BNU14ZzVVdEdvLXZSTUNfZHRHbGZrMnp5eS1pUVZBMVpScXVPcWZDZlhhSmItaEc2U01QdGxjMnlmbkpoSk5semtEZW9fRUhBM2ZJTFBxVTlzUjU3Y0d0bU8yd001MnE0TnRZNlE?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeTZSeUxuNzZKdUVWSm5OR0Y5Q3U2cWdGLTMxM3k2aC0zZHhwd0pSY2tUWEg2N1VvZnJGMTFodkNQc1dlOUl4d0RCT0x4b1JNUzU4MG1BS2VCYlFEYlB3T0tGNnBaRTI5TEZXcGRreEljenZPOWdNeVN3NGxrOHc1eDZ0SXJmZkVnU0tXRXprTmRuUmRFR2JlT3pQTS05d3owZERERHNpOFNSbGxqVXlMSndJNlMySGdPeXNCRlJEeGtpZUtnYmU2S25heThQXzhtd2I4N2FwTjJuTHExT0c5TWNCMDg?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWV2WU02VzhvQWlxQ2RoWFpmUnBaSE9UaG1rMlNPa2dzSm16UHZaRm5zblN3cEJkamNjcHAtUkcyejVXUmxydVByRUJqRk55QW1YVTg2TnVwNS1yTVlMakk1OGw2TmdxTVBYbDJydDdSYl9KV3dfbHdCa3JScXotUVBn0gGGAUFVX3lxTE9wSXFCNzFYVVZtNkNhN2NVUFhNSXl6REc0amh1WGhwN29aZzVZWjlMNkxPU0Y0bldNSUFUMk9RdmpOT3hqMHdZMmxTSGwtaGV2MWZpLUZETjYzSHc1czU5RTlubUZqSVQtZW9Ddm4yeU5DRXQxZHN6My0yRndibHhJc0FVcVB3?oc=5"
+      ]
+    },
+    {
+      "title": "Issue types and fields are available for personal accounts",
+      "score": 22.36,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
         "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts"
       ]
     },
     {
       "title": "Vivo X500 Series India Launch Tipped For November 26: Prices, Specifications and Sale Date Revealed",
-      "score": 18.96,
+      "score": 18.72,
       "kinds": [
         "news"
       ],
@@ -120,7 +129,7 @@
     },
     {
       "title": "Samsung Galaxy S27+ Clears BIS Certification in India Ahead of Launch",
-      "score": 18.74,
+      "score": 18.5,
       "kinds": [
         "news"
       ],
@@ -132,7 +141,7 @@
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "score": 18.53,
+      "score": 18.29,
       "kinds": [
         "official"
       ],
@@ -142,15 +151,15 @@
       ]
     },
     {
-      "title": "14 suspected Sinaloa cartel members detained in Mexico — UPI",
-      "score": 19.99,
+      "title": "Mumbai-bound Air India flight isolated at Kolkata Airport following hijack alert",
+      "score": 18.15,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdE5NVHVHaEw5Y0c1cmk2MmlDbElRTk1JeXBrZ2NXQUhZVDg4ODJ2M2FyQnpZQjVoT0doRW9uNTBOVm5mdlRpaDUtVG9NdjlhTnhnYnpVS0V4N0ZSTjRfOEdjUF9JWWRoQzlmQWZFM0l4aDRDTk8xbzhtUGpvaEtnS3ZWajNsaXY2YXVoZ0ZFTFRrSzhBcmNmLU9rX3k?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzRaQ2pNSHRyQnBMLS02MHhJd2RZbEhseUp4Z2pxcEE3VUZGdUhrb0ktWFpUMktoUzF4Um55UDFfcVlqYjRCczZtbGJySnNuSUdXXzkyMGpTR1hRbzAxZkEtTzdRemRRazVQdFF4RmNvVWlfTlI1ZjNmZTFCak5jVU5KNFkxQmIwQ3ZPSXFrRkotbnYwMVZQOXlFODhxRGxQTWNIbWpfd3dwR0l6d05pS9IBtgFBVV95cUxNOVVnZ3BRb291enlqd05rSXZRSExrd2pOOUtacmtxOVlHQ21DSlJMMFNGWUlDVjhRRmZFUGl2Y3NqclBKczhoRU9XYW1NMmNBeWdlU1R0MmZ3UjZFSl9uU2lpR0hBRUIxVTMzS1hTNHB2WkFkLU5CZmlLbmpFb3pYX0VlbmtQaHVzSFFjSEVXazd0dDVpM04xMmhjcVU1T05RbjRmUUgyY1hlR0RrQkg4dmQzbDZ5Zw?oc=5"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU25odWEzVWViUWtaSk9pdVhId3JwVGxoNFhyUFIxWHFCWEIyc2VmYzZYQWQzVnFsdUlNclpjY0F0ODFvRUVWUFNmcU44LU1SZHFKYlphVzE3ZDlRQ0JXUFJnc0w4VEl5cE84WXdvdXpRLXBTanoydm1yYUVPdDJMVUtmdy1NM29ZMEwtbXF1NXJYYzd2Y0wyMkJzQUVYVk9pWWxzOGc4VnRfOHFTbkx6bGhueWY3c3VseGZNcjFtM1l4eFA0ekktWjk3YW14SDk3QkNfNjln0gHcAUFVX3lxTE1WM1pLd3JFTG9JLXFHcUdheDA5dFVVcF9GNDdwTF9WQVhKYU9STWpYcGdCWlpmZm1CODJxM1hyUU1LY3REdUpjejVTUWtTSUN6RXlrd3BNZlFtWUZORGJGeDFTR0VqY1ZzMUliLS1iZnBvZDFlOGxEMkswVmVhdkxLaDRiRDFmd0pYN1JwajdkaVRiZXhqaW1lejNJbkxLTWU3OXFzWGtwU0VNcDZ6dTY2eXQ4NENyRTBGWGVvT2R6Y2kxbVRhQjFuY0hLQU5TM3lpeFQ4a3FDWlpTZ3o?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlFjTFdYMGJ4dC12VFFJSmt1d0czSGNfTnlqbU1ULWJTRy1PZ3VxTkZLMnF1OS1JcmlwVC13cE8zRTljU1RpSDd2XzhVdmdxR2JDZkRIZkV5Q1paMVRCS2dJWGlSSDdqRXFCNHNEekRLNEg1azdzVy1NUDljZWlmeDh3U1RXUHZmZHpTWm5IVnZONHZqbnpfamN1NHpZSUxJQUZCMXMwTFp1MUpLbUwzdg?oc=5"
       ]
     }
   ]
