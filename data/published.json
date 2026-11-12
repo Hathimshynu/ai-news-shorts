@@ -1,62 +1,4 @@
 {
-  "2026-10-18-evening-1701": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/37XLMUezuIo",
-      "facebook": "https://www.facebook.com/reel/2675586012899878"
-    },
-    "approved_at": "2026-10-18T13:39:18.477758+00:00",
-    "ids": {
-      "youtube": "37XLMUezuIo",
-      "facebook": "2675586012899878"
-    },
-    "yt_scheduled_for": "2026-10-18T20:00:00+05:30",
-    "attempts": 3,
-    "last_try": "2026-10-18T14:50:07.872049+00:00",
-    "info": {
-      "title": "Scout Browser Agent Automates Web Tasks #Shorts",
-      "topic": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "category": "AI Tools You Should Know",
-      "hook": "This new open-source AI controls your browser.",
-      "seconds": 43.6,
-      "primary_keyword": "Scout browser agent",
-      "qa_passed": true
-    }
-  },
-  "2026-10-18-evening-1801": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/NI_91Sfd_ho",
-      "facebook": "https://www.facebook.com/reel/1694780248969073"
-    },
-    "approved_at": "2026-10-18T13:39:40.263045+00:00",
-    "ids": {
-      "youtube": "NI_91Sfd_ho",
-      "facebook": "1694780248969073"
-    },
-    "yt_scheduled_for": "2026-10-18T21:00:00+05:30",
-    "attempts": 3,
-    "last_try": "2026-10-18T15:50:12.516805+00:00",
-    "info": {
-      "title": "Git AI Agents: Why Traditional Git Is Obsolete #Shorts",
-      "topic": "feder-cr/git-ai: Git designed for AI agents.",
-      "category": "AI Tools You Should Know",
-      "hook": "Classic Git was never built for AI agents.",
-      "seconds": 51.5,
-      "primary_keyword": "git ai agents",
-      "qa_passed": true
-    }
-  },
-  "2026-10-18-evening-2015": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
-  },
-  "2026-10-18-evening-2136": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
-  },
   "2026-10-19-evening-1701": {
     "status": "published",
     "platforms": {
@@ -1138,6 +1080,26 @@
     "late_offer": true
   },
   "2026-11-11-morning-0128": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-12-evening-1701": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-12-evening-1801": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-12-morning-0022": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-12-morning-0119": {
     "status": "expired",
     "platforms": {},
     "late_offer": true
