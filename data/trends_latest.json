@@ -1,37 +1,39 @@
 {
-  "job_id": "2026-11-12-evening-1701",
-  "chosen": "OpenAI announces local AI processing in India with API inference residency",
-  "reason": "OpenAI establishing local API inference residency in India is a major milestone for Indian developers and enterprises facing strict data sovereignty and compliance requirements.",
+  "job_id": "2026-11-12-evening-1801",
+  "chosen": "OpenAI and Anthropic Incidents Expose AI’s Next Challenge",
+  "reason": "It reveals fresh safety challenges after recent OpenAI and Anthropic incidents, giving viewers a must‑know update on the next big AI risk.",
   "candidates": [
     {
-      "title": "OpenAI announces local AI processing in India with API inference residency",
-      "score": 23.68,
+      "title": "OpenAI and Anthropic Incidents Expose AI’s Next Challenge",
+      "score": 23.33,
       "kinds": [
+        "community",
         "news"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDJON180YjRGSmdET21RTFpXSmlsYVdYdG1oNzJ0dlljVFpUUmY3WkV5RkVucFIzRzBNQ1VUeW5uN19uLUxfUnBtOUxEblZYSTZxZ19fd0Ixd3dNdV9BTDhBeUh3SWhHMmJiMnN4WFVHcnNQa09wdVVZYTlxZnhUVEFUQTM4alhlaGFyODZ5Qk1oU2hxeVNULUpwRjFNSG9RSzVOcjFQUVZ3S1J1Nl9ZdmpwN214N25GOWVHN1JjR1lfOThHN1RLX1l6azHSAdMBQVVfeXFMUDY1OHBxWWFmSkp4NjR1LTBHaUVFLW1HNXR4ZUVib0M2N210ZFJRNWE5UXpTVTRDQUhMUEQtbHZhY0ZsQ0pPQjZtNkFVOUpCa2dMTnJhZU9HVzk5UG9qSHptU3J2dzBJVmx6c1FWVm40YzI4Y05RWnpXNmRWY29xdDRLUnpaMENwRV9YeTJxTE0yUno5YWNXOUNPOGV4Snk4QWNueHZ1VHFfVEVONWN4aG1GS0FUWXVpdXMxRjNFZlFBdS01S0NEMFA4VzJyek1GX1Z5NA?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE5ubmtfZGhmeTliU056cHBEUTktUmRKQnFBVnA1Q1E0aFVlT1YtU05SekZRR2RDdnBQdnBNRDNxYmk5MGl2U2x6NlFuMk43SlRFMmxFM1dhSlY4RkNZeFpLWGJSUUlTYUJlYzRES2dMYlZMTmFmaVVXOG1vQU16LXh0SEw3UUVZRlhJdEVnWkhrR0hnazhXdzVHcW9HM29vZ2JWcUQtQk5aUWRRQXo3RVdFN1hCUUtpU3RSWVJhbVVGZ9IBwgFBVV95cUxQZE5ubmtfZGhmeTliU056cHBEUTktUmRKQnFBVnA1Q1E0aFVlT1YtU05SekZRR2RDdnBQdnBNRDNxYmk5MGl2U2x6NlFuMk43SlRFMmxFM1dhSlY4RkNZeFpLWGJSUUlTYUJlYzRES2dMYlZMTmFmaVVXOG1vQU16LXh0SEw3UUVZRlhJdEVnWkhrR0hnazhXdzVHcW9HM29vZ2JWcUQtQk5aUWRRQXo3RVdFN1hCUUtpU3RSWVJhbVVGZw?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlhFd2w5S2diVjctSUdfYkVWODNwR3BhdVdfRll6VUlUNGZvWG52TGNIV04yS1Zlb28wUlY2YjVBdXk5ZWQ4eW8wT0RvMzkxZzlwd01oMXp6bjg2SnZnOFJZRjhhYkthLU0zSXFWc3JUd0xFR2RfbjNTQndLQ3NMdUFYOHg1MzhzUm1rNDNsWQ?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU1HWklWSm9jOWszZnBuMFR6TDcwNG5tOUV5eFZIQVkzR1IwUmJNQWxtdnBqYm9jXzJFb1BTSXFNV3hucUVOT0ZRM3BxS3hSZTRINUdYamVRYlBTaUY5Q3g3WTlIa0VZTUhBWUxzME5yU2kwdFNVM1lxaVo4VHh6eVRXNGdWRW8yeGRQbEJkLUtuVllfYngyWFlPeXc?oc=5",
+        "https://ipo.anthropic.com/us/"
       ]
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
-      "score": 24.53,
+      "score": 26.28,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5",
-        "https://openai.com/business/customer-stories/holidays-extras-codex"
+        "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5"
       ]
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 24.12,
+      "score": 25.5,
       "kinds": [
         "backlog",
         "news",
@@ -45,71 +47,8 @@
       ]
     },
     {
-      "title": "United Airlines bans AI Agents from booking tickets; tell customers: We have a problem with …",
-      "score": 23.65,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZDNKZ2lCSmxjd3A1YjU3NmxTM2ZZZ3RIT21mRG9SUWlBMFpmNVRXUHQ2OEJMSjhTbk9meWhNYlE4RUR5a1pJdUxpU3owWG9uNnNmaDAwdGJrbllsR1h3YVEyWkw4WVN3SjJ3QXB5Y2p2RDRXTkFXZ0NrQWl6LTliVXdmdXhDRDNuZXhITzFMeUJsLTAwWTN1Z1JwRmVNMmp3UnU4X1MyWnNORmg1Vm5UM1pfQWxPZUk1Tm94akhJd28yTGhqaExvWm1YRTFxdTNncllHWnBILUxjQzJ1dWdpbktZZDBESExCdzFlcHlqcWxfQkstcVVHM3hBYjRibktvUGhZ0gGIAkFVX3lxTFA2Z2JzNng1Nzk4UmFiTXFHaDlBOTZkeVhBdjBKNVNEZzBwaVkxblNVdl8xbHlScWN3eTB4RHNqM3lhTHdMb3ppZlFhSmxhUm9hVXd0YzAwSy1EVnBDcXExNV94WWRnYkpTWXFDZVVPa2FmOURnQV9ZVF9XNW5PNVlYUkI2YUpCWU9pbXdINmk5TEc1aVdEa1drN2xGdHpFME5BUHZYcHFzYkgtR2pjT2hVaVRiOUhCWUpvRjRFUGRtSkQydWNNN2xGUFltTHNXY1pQdVI2TXZQVVNRdUd2Q2NNak5ndzAwUW04WUV1eUtybUVZanBOQnFrV2k5UXNrbHctSHN2Uy0xMQ?oc=5",
-        "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
-      ]
-    },
-    {
-      "title": "OpenAI names Aleph exclusive ChatGPT Ads reseller across 44 global markets",
-      "score": 19.71,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkI5bmY5eVRTbDJvTG41ZXJHbVZ0RTF4RmoyMUhKMDFqSjIwejJ0YlR1NkdSQ2tjdDhIZHpfakExZDNZODc3N0wwSDkxLUFTVjJkSk82QkZ5TWgzMnFzZVB4T2M4Q1R6NHFuTVNYakdBS2VqM3AzSWhQdWxBREU1b2F0RjVLSHVvaU0yekhtVFU4eEozY1lCRHY3VnBZWnFKTGdMWlc0OHRsVmlXV3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVp0b212NXlxd1kzWl9LNE4zcm00b2NvRHhZWGRfVFBjejJvMXlHMGlRdVZqRlVuNjE0RzFhTEVleEw0WVVndTFkNHdtQkRMdVc4UTRvRlRlRWdwbG9Uajh2MklaNHhWX1ptMndQQ1ZQUEg5WWVPMEJRT3ZFUngxY2FWcThWdjVRQjBPc25YSWgtY1BNejVmM1NfYVlPS2tnTUZpZEd1X2JrOE5YYi1nRE85MWlFSmtJRHhZ?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUdKQTdldlg0VGROZlMza01xOUxodWlVdk0zRzFwdGp3ekVQV2xfdFpzY1ppa3FDSVl0ckMyLUpZbVBvMFZBU25hMlUtM3M2bnBRUlhGdXFNS1VMYzJvVE5xbEFYYTdtcFd4UU1lNWp4ZDFSYzhzTU41MmtjajhISzZYdUVGRFVBWnR3Vl8wNFItSk1N?oc=5"
-      ]
-    },
-    {
-      "title": "Vivo X500 Series India Launch Date Officially Confirmed for November 26",
-      "score": 25.59,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUJ1M2tOVGRXVXVsMU1RS1I4ZFNxeWtQUlRhWnpPcDJUWXdZUzktUGoyOEVwR3FqejFJYVhDTGRYTVhiejhLbjlDWk8wdE55cDlIYUl2eTQxdFNkRjY3dDFJU0VqOTFMODZJOHZ0RjQ1OTN5QUZDdWE2andkRGFsRzlTR1EtWll6a1RTekxidzRLakR3RHpkblZZYXRPSHAtOEF6Rw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0doV3RxTzlRbHJ6U1I0RHFXMW42azlDZHJCRGFHaVBiYy1SdEgxLUFhS2xXZndlVThUSVpwVkhNNlNzTXViX0QyQ3Y5VGRXSm5TeWhRNGdieE4wWVIxcXdTdjRJLU9QdHRQUnhWYjFESnZ1NUdZM1pIT3pZT2s0WXk5RlJSdnNtblM4eDA1bWctdnJ2bzJMYVduS0xWSFAyQXUxd0l0Z0RlZk9Ea05RS1V5X0EtVlZnTUtKLXdmRUNySzg0VFJERl9YRktPSEltZzN2cExObHjSAd4BQVVfeXFMUHNZYWtDRURHcTF5MkZXbHUxVUREQkpHbnQ5cW00X3Rfay1kNEVfamNUWlNqTGE4VVNQSlZGMnotRTFabEZ3MlowcTRybTFaaWh5bHp6MkNFSkpqN1Q4X2l6VXVEc1lGQ2x5UjNxOUQ1MjdkaHlvSC13Q3JoNUxCN0NRaWV1QzROT1lYbXFLdGFOU2o1d2ZUeWhzS0dRNDRtX3o1MFBRSEtjQmk4N1JTYk5vWDRsMHZRc3lXbFAzTFNNVWJIVFl0Rkx4a2dxR3dKNFFLMlducTUwcU1ja19B?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0FUbHhrNE01cHBZbGM0czJRbWRJX1h2a2ViZnNrazhYeF9SRV9pNU1UZlJGeHhuNDFkNWdqNEoxQVJiX2drWnk1ZGR0dHlvTmV6SlR1UW9jX05RNjhJMFJaenN3OFdUQmZzbGRwQjJ1WHJWQ2FUTWN6RHZWN1lBanptdmJsMVZsRk5tMS1tbmgxUGVoaFhicGZ2U2xGRmVlNWh1Uk43VmFvV0dTRnhfTXBaVFdiSGJLVkZZZlZuZ05FSThpaDQ0?oc=5"
-      ]
-    },
-    {
-      "title": "NPCI notifies UPI Vyapaar Saksham scheme to push small-merchant acceptance, to be funded from UPI MDR - CNBC TV18",
-      "score": 19.32,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2o1dWtidnpVaFc3Ty1VeVVoSnN6VjhFckRGRDNLOUlfZDljZ0xTMlV4Q0ZWV3NFX2tpaDBpMldkLWhOT3BUSV8wdHN3SGtaSlZLZnAtSUhWSHZ4dWwxWHFyV3JBdFZYZTl1UGZFU2FrVWhPb08wSF90NlFPbXBpQU8xLUs3VnpVOUtwRm9jU1BDVzVFOGpqcWpZa0hnaVFHOFFLa2s1QUxvSllMeVhrVFdLdEJ3Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWROOWZheW81QjE3cGtydGg5OW9TUXphdTRzM3g5c1B1cm5IaUdpQ2FXNzV0LVNCM2E4R0QteVlPV3ZCdHVzYk5GMGtMeVdaQllIX3Bvbnh2ejdvTnp2ZVdGZnF3b3VxQ3YwdnNwNEl3OGp1Y3hTdmthdjdlajczVW10N0lkV184bUZDYmIzS19rdjI4TnozcV94TWdUM2poUURSM0RoX3NiNW5SR0pXR3dIYkRlSExvenJZWldkRUhaZ0p5THpNeVFZX1NPR1dVbzJwQUFSNUNOcW5XRXpYbTJuSDJxeVA4LUVJ0gHwAUFVX3lxTFBjT25LQ2JZaHRxS0lMRThRYjNqcFl6WENCVUpOOTd6U0JGU1d0V2tnOEVqTU9OQzV4Zmh3YUE4dTF4WG50ZjRsTmdMUnFpX1dNUXF5VGs2RXlhcmxTSnVJZHR0dzBJZHpVNGJLNGRIeDVqYURXZVIwZmxOU1Nxd24yYXpESC05RDV5RFpoaF83OEY4N3BfdXlsLUtjRXVVaFVQZUhWb3ZDYXFuQkI1OEotUm8xQ3N1RTRqR0JLRG16QVdvalMySzdZeWFTMy1VcEFUSHFnU2lvQ1hKeFF0VkxtRzRNeEstQ3UtSDh0SF9NSg?oc=5"
-      ]
-    },
-    {
-      "title": "Keralam to set up 10 research-driven incubators, nurture 100 high-revenue startups: CM Satheesan",
-      "score": 19.42,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHdjUGFNSlNtTFFXTFpoaTZCUC1DVDJJY1Fvb01vbnd0WUlyWlZDVWFYLTNKeHVSUnNaeDlrZW9kWTg3dGtnNW1CNmt4bVNCSWxUQ0wtc1U2VjVodElYaFlwMUxJbmNCWlZveGpyNE82UmhwTmF2anltOHJYOHpzYVczN0RtVGFEd1NyX1NtSGhNTGFNVVRQMmFhR2N2d0JTbC1uZXQxVFNIRzJkZ1piV09RdkZBRHprMzI5azB4M0wwNTBaTkUxStIBzgFBVV95cUxNRV9OZGFJQXpTc2JPZ1plVFV0ZENXYVdJOEFvNE5XSmJJNGNjazhRcmpEbUFCOWV4OGVwNURaWGtEbUVGZnVvU0NxUXhnTHR5NEFVR0hsS1NfSE1XNXNrbHFrLXZvekIwOTFzMjZaZG5udkJBQjA2VmNLMlNreDhvZzZKbk9YcXluQXNyWXNQazBLblNNa3ctNVZ6NEhKY3QtVWJTbTNvY0VheWI1YnJld1RIbGpXWjRkOGh1TTVqMGhHSmRLWWZMNnJZUXEzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN2F1a0E0TmRQMlZXUERmZENuMmVDdURPZWhidWtuNWtkWmRuR0ZJS0xQSFlaWVJnMXZLWkM1LU5LLWFzVmQzb0tIR1hJT0Vzdmp1QUptV2R3aWpuSnlSZEoxU3l0WmNXWHlsMU1odUlpaGUwQUE4cHowdGtkOTdfSV9HODBmLW5fbzVGRTVwR2lXMGdhUDJmN0FZMHFDUm1fZkZ3ZWQ5OW1uU0ZPaFlrMDA5ZVhSY3NWWl91aW9LcEpMWjB6eGJENUhkMVVvMDE3NzNsTWNLYkpkUWJWaDJRUjZKMlFBUDFvZF9qMHUwamxqc3FXdzl6QWxoZk7SAfwBQVVfeXFMTTdhdWtBNE5kUDJWV1BEZmRDbjJlQ3VET2VoYnVrbjVrZFpkbkdGSUtMUEhZWllSZzF2S1pDNS1OSy1hc1ZkM29LSEdYSU9Fc3ZqdUFKbVdkd2lqbkp5UmRKMVN5dFpjV1h5bDFNaHVJaWhlMEFBOHB6MHRrZDk3X0lfRzgwZi1uX281RkU1cEdpVzBnYVAyZjdBWTBxQ1JtX2ZGd2VkOTltblNGT2hZazAwOWVYUmNzVlpfdWlvS3BKTFowenhiRDVIZDFVbzAxNzczbE1jS2JKZFFiVmgyUVI2SjJRQVAxb2RfajB1MGpsanNxV3c5ekFsaGZO?oc=5"
-      ]
-    },
-    {
       "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang",
-      "score": 25.47,
+      "score": 27.97,
       "kinds": [
         "community",
         "news"
@@ -122,8 +61,65 @@
       ]
     },
     {
+      "title": "Vivo X500 Series India Launch Date Officially Confirmed for November 26",
+      "score": 27.34,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUJ1M2tOVGRXVXVsMU1RS1I4ZFNxeWtQUlRhWnpPcDJUWXdZUzktUGoyOEVwR3FqejFJYVhDTGRYTVhiejhLbjlDWk8wdE55cDlIYUl2eTQxdFNkRjY3dDFJU0VqOTFMODZJOHZ0RjQ1OTN5QUZDdWE2andkRGFsRzlTR1EtWll6a1RTekxidzRLakR3RHpkblZZYXRPSHAtOEF6Rw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0doV3RxTzlRbHJ6U1I0RHFXMW42azlDZHJCRGFHaVBiYy1SdEgxLUFhS2xXZndlVThUSVpwVkhNNlNzTXViX0QyQ3Y5VGRXSm5TeWhRNGdieE4wWVIxcXdTdjRJLU9QdHRQUnhWYjFESnZ1NUdZM1pIT3pZT2s0WXk5RlJSdnNtblM4eDA1bWctdnJ2bzJMYVduS0xWSFAyQXUxd0l0Z0RlZk9Ea05RS1V5X0EtVlZnTUtKLXdmRUNySzg0VFJERl9YRktPSEltZzN2cExObHjSAd4BQVVfeXFMUHNZYWtDRURHcTF5MkZXbHUxVUREQkpHbnQ5cW00X3Rfay1kNEVfamNUWlNqTGE4VVNQSlZGMnotRTFabEZ3MlowcTRybTFaaWh5bHp6MkNFSkpqN1Q4X2l6VXVEc1lGQ2x5UjNxOUQ1MjdkaHlvSC13Q3JoNUxCN0NRaWV1QzROT1lYbXFLdGFOU2o1d2ZUeWhzS0dRNDRtX3o1MFBRSEtjQmk4N1JTYk5vWDRsMHZRc3lXbFAzTFNNVWJIVFl0Rkx4a2dxR3dKNFFLMlducTUwcU1ja19B?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0FUbHhrNE01cHBZbGM0czJRbWRJX1h2a2ViZnNrazhYeF9SRV9pNU1UZlJGeHhuNDFkNWdqNEoxQVJiX2drWnk1ZGR0dHlvTmV6SlR1UW9jX05RNjhJMFJaenN3OFdUQmZzbGRwQjJ1WHJWQ2FUTWN6RHZWN1lBanptdmJsMVZsRk5tMS1tbmgxUGVoaFhicGZ2U2xGRmVlNWh1Uk43VmFvV0dTRnhfTXBaVFdiSGJLVkZZZlZuZ05FSThpaDQ0?oc=5"
+      ]
+    },
+    {
+      "title": "United Airlines bans AI Agents from booking tickets; tell customers: We have a problem with …",
+      "score": 25.46,
+      "kinds": [
+        "backlog",
+        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZDNKZ2lCSmxjd3A1YjU3NmxTM2ZZZ3RIT21mRG9SUWlBMFpmNVRXUHQ2OEJMSjhTbk9meWhNYlE4RUR5a1pJdUxpU3owWG9uNnNmaDAwdGJrbllsR1h3YVEyWkw4WVN3SjJ3QXB5Y2p2RDRXTkFXZ0NrQWl6LTliVXdmdXhDRDNuZXhITzFMeUJsLTAwWTN1Z1JwRmVNMmp3UnU4X1MyWnNORmg1Vm5UM1pfQWxPZUk1Tm94akhJd28yTGhqaExvWm1YRTFxdTNncllHWnBILUxjQzJ1dWdpbktZZDBESExCdzFlcHlqcWxfQkstcVVHM3hBYjRibktvUGhZ0gGIAkFVX3lxTFA2Z2JzNng1Nzk4UmFiTXFHaDlBOTZkeVhBdjBKNVNEZzBwaVkxblNVdl8xbHlScWN3eTB4RHNqM3lhTHdMb3ppZlFhSmxhUm9hVXd0YzAwSy1EVnBDcXExNV94WWRnYkpTWXFDZVVPa2FmOURnQV9ZVF9XNW5PNVlYUkI2YUpCWU9pbXdINmk5TEc1aVdEa1drN2xGdHpFME5BUHZYcHFzYkgtR2pjT2hVaVRiOUhCWUpvRjRFUGRtSkQydWNNN2xGUFltTHNXY1pQdVI2TXZQVVNRdUd2Q2NNak5ndzAwUW04WUV1eUtybUVZanBOQnFrV2k5UXNrbHctSHN2Uy0xMQ?oc=5",
+        "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZDNKZ2lCSmxjd3A1YjU3NmxTM2ZZZ3RIT21mRG9SUWlBMFpmNVRXUHQ2OEJMSjhTbk9meWhNYlE4RUR5a1pJdUxpU3owWG9uNnNmaDAwdGJrbllsR1h3YVEyWkw4WVN3SjJ3QXB5Y2p2RDRXTkFXZ0NrQWl6LTliVXdmdXhDRDNuZXhITzFMeUJsLTAwWTN1Z1JwRmVNMmp3UnU4X1MyWnNORmg1Vm5UM1pfQWxPZUk1Tm94akhJd28yTGhqaExvWm1YRTFxdTNncllHWnBILUxjQzJ1dWdpbktZZDBESExCdzFlcHlqcWxfQkstcVVHM3hBYjRibktvUGhZ0gGIAkFVX3lxTFA2Z2JzNng1Nzk4UmFiTXFHaDlBOTZkeVhBdjBKNVNEZzBwaVkxblNVdl8xbHlScWN3eTB4RHNqM3lhTHdMb3ppZlFhSmxhUm9hVXd0YzAwSy1EVnBDcXExNV94WWRnYkpTWXFDZVVPa2FmOURnQV9ZVF9XNW5PNVlYUkI2YUpCWU9pbXdINmk5TEc1aVdEa1drN2xGdHpFME5BUHZYcHFzYkgtR2pjT2hVaVRiOUhCWUpvRjRFUGRtSkQydWNNN2xGUFltTHNXY1pQdVI2TXZQVVNRdUd2Q2NNak5ndzAwUW04WUV1eUtybUVZanBOQnFrV2k5UXNrbHctSHN2Uy0xMQ?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI names Aleph exclusive ChatGPT Ads reseller across 44 global markets",
+      "score": 21.76,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkI5bmY5eVRTbDJvTG41ZXJHbVZ0RTF4RmoyMUhKMDFqSjIwejJ0YlR1NkdSQ2tjdDhIZHpfakExZDNZODc3N0wwSDkxLUFTVjJkSk82QkZ5TWgzMnFzZVB4T2M4Q1R6NHFuTVNYakdBS2VqM3AzSWhQdWxBREU1b2F0RjVLSHVvaU0yekhtVFU4eEozY1lCRHY3VnBZWnFKTGdMWlc0OHRsVmlXV3c?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVp0b212NXlxd1kzWl9LNE4zcm00b2NvRHhZWGRfVFBjejJvMXlHMGlRdVZqRlVuNjE0RzFhTEVleEw0WVVndTFkNHdtQkRMdVc4UTRvRlRlRWdwbG9Uajh2MklaNHhWX1ptMndQQ1ZQUEg5WWVPMEJRT3ZFUngxY2FWcThWdjVRQjBPc25YSWgtY1BNejVmM1NfYVlPS2tnTUZpZEd1X2JrOE5YYi1nRE85MWlFSmtJRHhZ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtY2s2QzRwRWUyVVNQOUtkdkdoMS1WY29nYXJjeDY5UUxXWTUxQXFCUE9Sa0lpSF91SU8zQW5CZC1JRE1lclR2V1NvR0lkcWVLOUJZWlVjWWx0UkVDeFkyLVdHUVJMWmJ0Sm5EMHRSZGV6M1pwM2VCR3czMEt3RVk?oc=5"
+      ]
+    },
+    {
+      "title": "NPCI notifies UPI Vyapaar Saksham scheme to push small-merchant acceptance, to be funded from UPI MDR - CNBC TV18",
+      "score": 21.07,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2o1dWtidnpVaFc3Ty1VeVVoSnN6VjhFckRGRDNLOUlfZDljZ0xTMlV4Q0ZWV3NFX2tpaDBpMldkLWhOT3BUSV8wdHN3SGtaSlZLZnAtSUhWSHZ4dWwxWHFyV3JBdFZYZTl1UGZFU2FrVWhPb08wSF90NlFPbXBpQU8xLUs3VnpVOUtwRm9jU1BDVzVFOGpqcWpZa0hnaVFHOFFLa2s1QUxvSllMeVhrVFdLdEJ3Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWROOWZheW81QjE3cGtydGg5OW9TUXphdTRzM3g5c1B1cm5IaUdpQ2FXNzV0LVNCM2E4R0QteVlPV3ZCdHVzYk5GMGtMeVdaQllIX3Bvbnh2ejdvTnp2ZVdGZnF3b3VxQ3YwdnNwNEl3OGp1Y3hTdmthdjdlajczVW10N0lkV184bUZDYmIzS19rdjI4TnozcV94TWdUM2poUURSM0RoX3NiNW5SR0pXR3dIYkRlSExvenJZWldkRUhaZ0p5THpNeVFZX1NPR1dVbzJwQUFSNUNOcW5XRXpYbTJuSDJxeVA4LUVJ0gHwAUFVX3lxTFBjT25LQ2JZaHRxS0lMRThRYjNqcFl6WENCVUpOOTd6U0JGU1d0V2tnOEVqTU9OQzV4Zmh3YUE4dTF4WG50ZjRsTmdMUnFpX1dNUXF5VGs2RXlhcmxTSnVJZHR0dzBJZHpVNGJLNGRIeDVqYURXZVIwZmxOU1Nxd24yYXpESC05RDV5RFpoaF83OEY4N3BfdXlsLUtjRXVVaFVQZUhWb3ZDYXFuQkI1OEotUm8xQ3N1RTRqR0JLRG16QVdvalMySzdZeWFTMy1VcEFUSHFnU2lvQ1hKeFF0VkxtRzRNeEstQ3UtSDh0SF9NSg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2o1dWtidnpVaFc3Ty1VeVVoSnN6VjhFckRGRDNLOUlfZDljZ0xTMlV4Q0ZWV3NFX2tpaDBpMldkLWhOT3BUSV8wdHN3SGtaSlZLZnAtSUhWSHZ4dWwxWHFyV3JBdFZYZTl1UGZFU2FrVWhPb08wSF90NlFPbXBpQU8xLUs3VnpVOUtwRm9jU1BDVzVFOGpqcWpZa0hnaVFHOFFLa2s1QUxvSllMeVhrVFdLdEJ3Zw?oc=5"
+      ]
+    },
+    {
       "title": "ISRO Scientist Engineer Answer Key 2026 Out, Raise Objection till 15 November",
-      "score": 25.73,
+      "score": 25.49,
       "kinds": [
         "news"
       ],
@@ -135,21 +131,8 @@
       ]
     },
     {
-      "title": "Grand Theft Auto Online: top video game's roleplay cash cow",
-      "score": 20.08,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaQThKRHFXWExLSDNYVmtIWUhlVDZ6c0ttQVFpR0M3M0VvelhwRGdobGstTFFPQk5QT2VSemtkXy1sNEpWa2lvOVVucTh2YnQ1Wlp6WkdLbGFtdWRzX2EtODhZWFd3U21vWThQN3BBdTdQRUE1ZzRn?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1VQZTV0TC00NndiVkctY0U2NWkzZUdiN2ZOZ01JeDVMcWt4dl9BX3d1djlDM3BSZkpscXRTcE96R3RrOFRIZzhtc2VxSWpVbEg2Zm1KTFVzczFScFV6bFQwTl9fV2JmTXBpTnpSMEIyNlZneUFOVGN5OFlaRzlnU2pjcVVDQWdaME9jdzhwVE9PWFRtMi1oQmozUVc2Yl9CWFpn?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeVVJNEZMa1FDOEF4N0RRQXpGZGdWTTlUcHpuaFBkMENENUFiVHZBRF9LY3lWeUNSRkYxbVRDdldTTWdxbVpIUWtLRGl5MzE4b0NFM3k0Y1hlWlR0Tlp1Z19ZdVU5dDctb1A0cjFJb3JQRFBOVE1HeE52X3V4M2FqV3F3?oc=5"
-      ]
-    },
-    {
       "title": "Today’s NYT Strands Hints, Spangram and Answers for Thursday, Nov. 12, #984",
-      "score": 21.12,
+      "score": 20.87,
       "kinds": [
         "news"
       ],
@@ -158,6 +141,31 @@
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdpTHIyaWlQRTFuOVBBYzBGbnBwQ3FwcC05Wjd1VXZXRkZvQzU5dkRqdTBLaFRmaUZQdzg0Zi1VdzZZYUFiYkNQMC13ai1VZVE5YmtfaFc1QW1UWnJlQkVmVFZfTDBleWdBVWRsLXpBUl84cmtGRWhyWlg5SE5OVzJVYjg1THVzUE5rSkFNOG9RdmhTekE?oc=5",
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdpTHIyaWlQRTFuOVBBYzBGbnBwQ3FwcC05Wjd1VXZXRkZvQzU5dkRqdTBLaFRmaUZQdzg0Zi1VdzZZYUFiYkNQMC13ai1VZVE5YmtfaFc1QW1UWnJlQkVmVFZfTDBleWdBVWRsLXpBUl84cmtGRWhyWlg5SE5OVzJVYjg1THVzUE5rSkFNOG9RdmhTekE?oc=5",
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWV2MlVEc3ppdy1ZdWhNbFdoQVpKOVcxQTctV2R4VjNlSi1Zc0lsVU1VV25lNUl4RllGYWFTVnJlRURmems2VXFuZGRnY0dySFhHZTBWMy1wZjlVYnd0LXJxdlNpLW80OUp4NExRcjZDUU9hU0ZFQzZGTldGV3FETGRpSG83UTV6RnJ3X2dna2c4NWVGblHSAZsBQVVfeXFMTmxvZW1QY0lyYXNONFJhd2FvQnp5VGo0WW95MXhiRVhWQVhHV0hrSWttVFpiZjZCaTE4TjJvSGwtV09yZUw0VVRtZ3RFVFdhU3ZOT1JybEZvenFPQnVOX1RVSDlXNllXU0VwQzFNaVJUZ2NGdnpMZjZkcHJTNXlkZXk3TUQ3MFBHcDN0UklZUlpKMFE3Wk9pT0ludk0?oc=5"
+      ]
+    },
+    {
+      "title": "From India to the World",
+      "score": 19.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1neUh2ZjFxMHhVS19BQXhyd3pVa05oSkRsS01CQTEyU2t2MlVnbkt2bG5HWE9YNURZNmhlTHNYWkF0d3JWR2FvVUt0TE1jR21GNkZNSDhrOS1leXhwVFZpaDRWTDUtTlJqS2pVSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkpoSUItUGZwWTNlaC11WkhLbXRCYWtCcGs5bHVSWUdkZVgxSThhSng1TGtQajJHelZ3MVV5eUdwN2M0RlN0bWtjNGo1OG00R05yaVlFdW40UURIV1BZU0x2dEVkcmJWdjZGeHVTWF8yWF9CZFNfcHdQT1g1ZDBTdjVXUUc2SjZwOWxLM0N6S2dsVjhFdEl1dHBuV0thdFBLRUZIblBnM1lpRDBxVGh1QWMzR0M5Rk84WWpuSHZ3?oc=5"
+      ]
+    },
+    {
+      "title": "Grand Theft Auto Online: top video game's roleplay cash cow",
+      "score": 19.83,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaQThKRHFXWExLSDNYVmtIWUhlVDZ6c0ttQVFpR0M3M0VvelhwRGdobGstTFFPQk5QT2VSemtkXy1sNEpWa2lvOVVucTh2YnQ1Wlp6WkdLbGFtdWRzX2EtODhZWFd3U21vWThQN3BBdTdQRUE1ZzRn?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1VQZTV0TC00NndiVkctY0U2NWkzZUdiN2ZOZ01JeDVMcWt4dl9BX3d1djlDM3BSZkpscXRTcE96R3RrOFRIZzhtc2VxSWpVbEg2Zm1KTFVzczFScFV6bFQwTl9fV2JmTXBpTnpSMEIyNlZneUFOVGN5OFlaRzlnU2pjcVVDQWdaME9jdzhwVE9PWFRtMi1oQmozUVc2Yl9CWFpn?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeVVJNEZMa1FDOEF4N0RRQXpGZGdWTTlUcHpuaFBkMENENUFiVHZBRF9LY3lWeUNSRkYxbVRDdldTTWdxbVpIUWtLRGl5MzE4b0NFM3k0Y1hlWlR0Tlp1Z19ZdVU5dDctb1A0cjFJb3JQRFBOVE1HeE52X3V4M2FqV3F3?oc=5"
       ]
     }
   ]
