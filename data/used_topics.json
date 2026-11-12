@@ -573,5 +573,10 @@
     "title": "Introducing Gemini 4 Hydrogen",
     "category": "New AI Models",
     "date": "2026-11-12"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "category": "New AI Models",
+    "date": "2026-11-12"
   }
 ]

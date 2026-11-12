@@ -1,54 +1,37 @@
 {
-  "job_id": "2026-11-13-morning-0032",
-  "chosen": "Introducing Gemini 4 Hydrogen",
-  "reason": "A major new Gemini model announcement from Google gives viewers an exciting look at the next evolution of AI capabilities and tools.",
+  "job_id": "2026-11-13-morning-0151",
+  "chosen": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "reason": "LLMON introduces a native markup language for LLMs, letting creators build smarter prompts and workflows instantly—perfect for Indian developers eager to harness the latest AI capabilities.",
   "candidates": [
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "score": 38.24,
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "score": 20.69,
       "kinds": [
-        "community",
-        "news",
-        "official",
-        "search"
+        "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDJ0WjZmc2FHZ3BoRV9mLWJweTlXelBQNlhZemVWMmJCdFFnZzRhRkxtQ1VFbFF2TVdlcmJlMFRTaGoyMjV4ZkxlUklMS1U1VFdsQ2hsQUlzR01ZODdybWxFUDlucTJfTjlTZjlfVVFIRjRyeUpoZzlVTUZiczRhR01OcDhmMzFaY2UxRFIwQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJnSDNidWM0SVJfeVVCbDJXelYxX0pRejVJakk1dEVTSzAzd1BoODdSU3FkeG5tZ2xhVnE2M2ZOMmVGUzFEMFIzNzNJOW15WWRfNXBDM3pUZGxXQmo5SmQwcW5OVG91eDZNSjBTNlY2QVdpOXE1MDl6TldJSVFJSGpxc1ZtZzJZaHpreS1xeVVsN0FrZklFS1JOOA?oc=5"
-      ]
-    },
-    {
-      "title": "NPCI Introduces UPI Vyapaar Saksham Scheme To Boost QR Code, Soundbox Adoption Among Small Merchants",
-      "score": 21.62,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGNQeGFSQWpNcU5laENtX2ljdnd2eEppcXJMUG1oUUtGTlRoVDNwZUYxV2V6LVU5NDVtSkZsbG5xazJRa2o0N1JOcHFUclJXVUxoQlZrOUR4LWtlQmVpTDR6OUk1VDQ1ZjdIQ1RFR1Q3dG5QZlFNdzdHOW1kdUZQcnhEWDQ2UGtiZWhEV1hkODRyVkRWYm1nUGc5MzFpb05mZU5xSjBLNVN5QjJBU3ByYlZDaTgxUkRSdG5vbUFaUGdtRklsSXI1Q1lhakgteVhrSHVOWVVUTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowJBVV95cUxOa2s4QV9HSEtmZFJBVkJjSXQ1YjgtZURrbWRyZHJHVWtRek5Ga285UDJIczllLW5JSi01T3RiRHdBQTlQd2tHdEFNbDEyMTNoeEVBSlRTSjJnUWxqSGdSNEtLd1ZUUEpGT2NCS0lwT1ZBdGRYV3lnUGVzeS0tYjlJTC1EX0tnODJJV3AzWkp3akNNcXhfSmc1bzQybzhocnVocHUzN1B2WlU2dFhBRXhnRUlHTElHOEdUQUtySVVUd3lvdVc0a0pLQ0FHZ1RUNGRQanI3TjRlMUpMNEk3c2F3SG9YZmpNWm8tNk8tX3NQaGQyNmlvbFBabVU5TjkzUFJlOTVEZ2VhNUNNMGRTRWo2MEVxNDFDM1ZSbHR4RHUtZ1pGRWfSAagCQVVfeXFMTmFuWWF2UTRSTkQtQXhGaUg1NzNnc1kwMmZ0NGpDbWI5MmZHR0pxREhNekxxamFTdDk5V194T1ZNZksxbGlVX3lxQkNHN0VqWnJvTlNwTVBzT1BHRENLVjlsNlFibjV0bThzQkcxZGlTcXZqWWV5a056M3RuM21mbFp4aXg0dXdVWG5CSjhKSjZtbVhIMEh1SGE2TTU5RzUwNnU4eXFzcWtUS2E2NDBPVzQ2NDQ4RWpmM3dzVDBHUEJjeUNOZkRCdXF1bDAxRWI3V3lCZmJPeDV3RTlpSzQza1d3bDU2X0FXMUFnUXJYNHBWNURZSUNmUkYwa3Q0bV9CYVJZazV6NjV2RHl4eG9aTTFrRVpiWlVkLXl3elhPald5WVo4RVlVWGQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllVb2Nuc1A2X2F5VVlSWlNjeHhiQ05WN01IekljX2pOcVhCYlZDX1lQaWMxNG1kUXN2ZGNQdlgwRXZUS2EwbkFJOUdROC0xY1FXWUQ3RlhuMGIySXBfdWVaVHpZZjFydVgxaC1OWXlyT2U3VEViTnowdjZPMmdRdW56eEFuM3NhOFR1YkI1LUFmd2RuZDAwMS1wVQ?oc=5"
+        "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
       ]
     },
     {
       "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
-      "score": 25.87,
+      "score": 27.8,
       "kinds": [
+        "backlog",
         "community",
         "news"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5",
-        "https://ipo.anthropic.com/us/"
+        "https://ipo.anthropic.com/us/",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5"
       ]
     },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
-      "score": 24.65,
+      "score": 24.33,
       "kinds": [
         "backlog",
         "news",
@@ -62,21 +45,8 @@
       ]
     },
     {
-      "title": "Ground test of third stage of PSLV (PS3) conducted successfully",
-      "score": 25.6,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSUNOUzNMWmg3YUxkRnVFeXJKWFpFbkJNRV9JWHFkVEdYVDlxSEU0OHJCVkpabWtJSFkyT2xEam5HNDhzaTZ5TUVjTXA4MWJXYUFOb0VnNHVmcTY1UE5aMHVKcjRDWkpVQ2p5WTc5ZW1pS3IzNWlTUmF3N0xhci05Wm84QWhBY25BVmQtNnRVZWxCVGYtMXJKbnVQbHZKRW1QOW5rVlVMYzNpV1pCVmFVaDhOOHZ5N1hsT2xfZ3dmTHZoR2pIZlBXdWJfUFJQeGc50gHQAUFVX3lxTE1JQ05TM0xaaDdhTGRGdUV5ckpYWkVuQk1FX0lYcWRUR1hUOXFIRTQ4ckJWSlpta0lIWTJPbERqbkc0OHNpNnlNRWNNcDgxYldhQU5vRWc0dWZxNjVQTlowdUpyNENaSlVDanlZNzllbWlLcjM1aVNSYXc3TGFyLTlabzhBaEFjbkFWZC02dFVlbEJUZi0xckpudVBsdkpFbVA5bmtWVUxjM2lXWkJWYVVoOE44dnk3WGxPbF9nd2ZMdmhHakhmUFd1Yl9QUlB4Zzk?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVlpY2hsaFNvOVVjcE1xTXdtcHhnc3VvR2x1aG1fOXBxMWlqZjYwNjZuOHdJQzByUF9kSmhsbjBodjhNOFFMQVMyaEpoakJ3ZEdfWk5lTVpEOEplNHY2U2pqTG5jMElZTXRVQXIxWFUtMlRGNHhKYkM5WVhaTDZ6WE9jeVZ5LVhZQkkzOFJQQjdSQThOM2pyNmVoZ2pVQQ?oc=5"
-      ]
-    },
-    {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 23.87,
+      "score": 23.54,
       "kinds": [
         "backlog",
         "news",
@@ -90,9 +60,24 @@
       ]
     },
     {
-      "title": "After back-to-back failures, Isro successfully tests modified PSLV 3rd stage",
-      "score": 21.63,
+      "title": "Ground test of third stage of PSLV (PS3) conducted successfully",
+      "score": 29.97,
       "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkRLbk5rVlBZT2N2RXpnTWtaTTlNTHJ3Q002clpGcEs2czdHZHRtQkM3SV9GU19TYkFxZEwwY0RXeDFiNW9HcDJCc05UNkIyNVVVOGlGWlhEX1BQMDdJaVNmZmp3bU0zaFB1NFpSV25yV3RKZ0FKdG5YRXk0X2NQaFA2OEd2TmZSd0lnYkRMZE8xejRvRnF5UlNRVHU3NUlwa2JqdTN1WU5BcUdLaUE2Wi1EU1YwR2s1UkNPdlZFdmJCRlhVT2pjWUxB?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalNPRHdwcldHdG5GUUNFUEloUTBNSEtqUTNBOHFLNm55YkdKeU92LWxOeGNqR1RfNXgzdVp4anlnNHVQVGlqV3RYVmlPSTV6Ukg3TVFtWTJFaGVwYVRrdUdCcFlUbk45ZzF0czBKYXh2ZzdwNjVXRkF2TmE3WGp4ckl1ZkFYSXlQV1lMLWxCcEp4SlZTbVYtWDIwX3BGQml6OWUtTURDUUE1ZXRtTkkxQ293M1MzcEhRcDNrYzRJRHY1OXBMY0ZFRjdKaHgyY2JpU3fSAdcBQVVfeXFMT01IM0tHeWY1b0p2Q0x4REJkNTROZDd5QXpUNEluNGdKZzBLakM4SzUtUDhjc3NVUGdmRElFQlJ5bTJ1VzlOZk54N2tZckgxNlJCOVUtNFpxVHB1XzNiY3VtX1NYcHgxMUdNbzAyTktjSVp5LS1IX2ljeWVid3V4RXYtUjFHcnRHXzRzOC1YWmxDbGV6ZHJxQllkZ01lajZiaGdPd3dDLXFzY3dsVHEzRGFrWk9IWnNpcDZlS3NyWFdONU40Z0ZkdkV3b3NURk5YQ2VzNkE0VlE?oc=5"
+      ]
+    },
+    {
+      "title": "After back-to-back failures, Isro successfully tests modified PSLV 3rd stage",
+      "score": 23.3,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -103,8 +88,22 @@
       ]
     },
     {
+      "title": "NPCI Introduces UPI Vyapaar Saksham Scheme To Boost QR Code, Soundbox Adoption Among Small Merchants",
+      "score": 23.29,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGNQeGFSQWpNcU5laENtX2ljdnd2eEppcXJMUG1oUUtGTlRoVDNwZUYxV2V6LVU5NDVtSkZsbG5xazJRa2o0N1JOcHFUclJXVUxoQlZrOUR4LWtlQmVpTDR6OUk1VDQ1ZjdIQ1RFR1Q3dG5QZlFNdzdHOW1kdUZQcnhEWDQ2UGtiZWhEV1hkODRyVkRWYm1nUGc5MzFpb05mZU5xSjBLNVN5QjJBU3ByYlZDaTgxUkRSdG5vbUFaUGdtRklsSXI1Q1lhakgteVhrSHVOWVVUTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiowJBVV95cUxOa2s4QV9HSEtmZFJBVkJjSXQ1YjgtZURrbWRyZHJHVWtRek5Ga285UDJIczllLW5JSi01T3RiRHdBQTlQd2tHdEFNbDEyMTNoeEVBSlRTSjJnUWxqSGdSNEtLd1ZUUEpGT2NCS0lwT1ZBdGRYV3lnUGVzeS0tYjlJTC1EX0tnODJJV3AzWkp3akNNcXhfSmc1bzQybzhocnVocHUzN1B2WlU2dFhBRXhnRUlHTElHOEdUQUtySVVUd3lvdVc0a0pLQ0FHZ1RUNGRQanI3TjRlMUpMNEk3c2F3SG9YZmpNWm8tNk8tX3NQaGQyNmlvbFBabVU5TjkzUFJlOTVEZ2VhNUNNMGRTRWo2MEVxNDFDM1ZSbHR4RHUtZ1pGRWfSAagCQVVfeXFMTmFuWWF2UTRSTkQtQXhGaUg1NzNnc1kwMmZ0NGpDbWI5MmZHR0pxREhNekxxamFTdDk5V194T1ZNZksxbGlVX3lxQkNHN0VqWnJvTlNwTVBzT1BHRENLVjlsNlFibjV0bThzQkcxZGlTcXZqWWV5a056M3RuM21mbFp4aXg0dXdVWG5CSjhKSjZtbVhIMEh1SGE2TTU5RzUwNnU4eXFzcWtUS2E2NDBPVzQ2NDQ4RWpmM3dzVDBHUEJjeUNOZkRCdXF1bDAxRWI3V3lCZmJPeDV3RTlpSzQza1d3bDU2X0FXMUFnUXJYNHBWNURZSUNmUkYwa3Q0bV9CYVJZazV6NjV2RHl4eG9aTTFrRVpiWlVkLXl3elhPald5WVo4RVlVWGQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllVb2Nuc1A2X2F5VVlSWlNjeHhiQ05WN01IekljX2pOcVhCYlZDX1lQaWMxNG1kUXN2ZGNQdlgwRXZUS2EwbkFJOUdROC0xY1FXWUQ3RlhuMGIySXBfdWVaVHpZZjFydVgxaC1OWXlyT2U3VEViTnowdjZPMmdRdW56eEFuM3NhOFR1YkI1LUFmd2RuZDAwMS1wVQ?oc=5"
+      ]
+    },
+    {
       "title": "Vivo X500 Series India Launch Date Officially Confirmed for November 26",
-      "score": 27.71,
+      "score": 27.38,
       "kinds": [
         "backlog",
         "news"
@@ -117,45 +116,35 @@
       ]
     },
     {
-      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-      "score": 19.74,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/"
-      ]
-    },
-    {
-      "title": "ISRO Scientist Engineer Answer Key 2026 Out, Raise Objection till 15 November",
-      "score": 21.86,
+      "title": "From India to the World",
+      "score": 21.18,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR2JDSXgxTHRfNXIzeExldE5qeTByUkczS2tlSEZTb1ZwSTBNRnhURkdMWFM3Zl9nZTFSdzgzbllhYU5GM2lrdmFuOVJtcnpiZnVXSXFuS1hyU3M0RFBRMEliZzEtVEE2VGFOdGhuVnJ1MTkyRkRwbnB6ZWpUMkNBaG9Ob3FDLUU?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTJNSHNDUTMzZzFaX19SYVZXdGRLQjc1ZVl4YUJ4bXZuNHIzRjdIX3hXRkp3WFhnblBIWURtRUhsTjVxVjhVVk1QNmFXVXJpcWsyV2czRnFfNkdWV2lVMHoyVWxhc2NXenRaZ0NPcTBjMlRMUng5U21NS3F1aEZ1bUYxcWpzdXJtdW9VemU3N1FiWU5JXzRoeE9aNkE4dXpzZXBPV0ozbnZUSWh3TjFScllQblpNTXJrR01NR2RCOWIwR0Y2WUd5NXVCQVJ0N09LaUZaci0xVHdOTHRMZEJrRjB3?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sLXpkVndOV083QU51UWJfMk1vZHVEeHhrdW0yVHppdHZQZ0JvVzlfUGM3NzJzSDV4aEtuQ0R5WUtjOW9ENGduTlIwS2VGdEx4Ukt2RUJLc3lBY0xVcEJ4UTlSX2RxZWRxemNuM2ZacDN0cVZlUEQw?oc=5"
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1neUh2ZjFxMHhVS19BQXhyd3pVa05oSkRsS01CQTEyU2t2MlVnbkt2bG5HWE9YNURZNmhlTHNYWkF0d3JWR2FvVUt0TE1jR21GNkZNSDhrOS1leXhwVFZpaDRWTDUtTlJqS2pVSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFZpZVJYTE9EU1pXQUZVVUtPbDRaVy01b2RSMDYzVmJHTi0xYkxXNm9wVjF5aG02UGxKN0dHajdkb1NlQWFkcEVjT1V4NmJHdW5sNGtaM3ozWjZWc1FqSEoya2p3d2otWThVeDlYYVhUdnhObkZCVzhPaFlvWWR3b294VVM1WFpwR0hwakEzTDRuWDJGOVRfSDlacUxoOUloSUM5U3N0R1E?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRFFlbUdQbHNkaHZCVTd6U3g4NU5vTE82cXNrT0ZYUmNfTW45M3NLbTRveEVXQ2tMcm1yX1B0aTZmSlhHWUhsTThDQ3pIQVFHMFJvNUVoaTEzY3J3bWF4SWhlc1doWTB2YllIamNraXl5RnFJRnhJSzNRVzZjbnV1dk1fRWZiTGdfVHE4TkJJLUpUNU1Jekd5NTZ6TWZMeDZEaEJ0dVV3RWQ0OWsyQmV1c0c0cDU3VHBXek1obVMwRkI2RXBEb1FOZkc4N2R3MERJbUhQTDFn0gHWAUFVX3lxTE9EUWVtR1Bsc2RodkJVN3pTeDg1Tm9MTzZxc2tPRlhSY19Nbjkzc0ttNG94RVdDa0xybXJfUHRpNmZKWEdZSGxNOENDekhBUUcwUm81RWhpMTNjcndtYXhJaGVzV2hZMHZiWUhqY2tpeXlGcUlGeElLM1FXNmNudXV2TV9FZmJMZ19UcThOQkktSlQ1TUl6R3k1NnpNZkx4NkRoQnR1VXdFZDQ5azJCZXVzRzRwNTdUcFd6TWhtUzBGQjZFcERvUU5mRzg3ZHcwREltSFBMMWc?oc=5"
       ]
     },
     {
-      "title": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair",
-      "score": 23.86,
+      "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "score": 22.1,
       "kinds": [
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFpSNEtKZFR5emFqNEhGeXR6bmpfZHNZaFFBMktmTkVBaUhTQm9iSWd4SlRTNjMwNmN3VFMwX21WY2JkQmx2SHFicmJyUVdUUTlIT2Z6aklYZ05LQ3JOX3N2OHhPT3FDTUd0NEx3VFZGdDI1bWpKNU5ldHBCamhTRVBLTlZZaUhVUGJHMlpDY1VSOEdiQURFTElyQldQaE01cXRnQzlpZV9JRUE4M21Zbjdrclo1M2JLRzk4S2JuaHRNemRCRFBuWHJ6Rko?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQlgxS1A4c1pSc2tTZThwSTdLVnVOWWpqVnZNa2tTWGFMcmZvT2hxdHlxQlF5VXpGcE1CVl9BTnlmakJpMmF0eHh6c2FjdVZib0k4MXZuY2RIS09TVk52U1IwZGVtcDJxLVZTdGozSE1haFZnYmU3T1o0OGQtaHlMOG03Q3dwSy1IeFpQWjR1VXVXRmpRdDVaQzBLcy1ZRU5iVmwxRkw3Ui1OcHFJV2t6Q01aWkxGYjVUM1lkLWE2ckNhc0dWUEdLaDlHN3M0TEdPa1NBa3lFSEtuM0tzUDByblFlLWRmMlU4SHpQaTM3ZXkySWRuM3REUXRhQ29NYWt6V2JrQ2ZKeE0?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRzVjNFlNREE4ZkZiOW5vLTBDT3dxZW84b3MwdHZSdTNHOVFlVHQwQ2RTYjFRUElwZEFaRUJuUlMyZWpUQjUwQ2ZQRGlHSVh1aXFfRF9FVnNJOWxuNG10bkxSdE9YbVp0bl9KUUxwbW52NGUxdnkwWVowVjlrZVhEU1FfdUx3b0NrUGRNVlh0MW1vZkZWSXhfYzMwQjFDLW1tVFF5TkJlUElzVzlCWGw1UU1BNkhvVWdUbmFLN3pHMHEtdw?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWhsc3hxU0xHRWloRTlLcEU5QkdUYjhVVS1yc2NLMkJ4dGZQUDF4NkJqZWpfU3hJcXd6M3M0WGlkZXBTSDNjd3phWDhTa2hONkVjYUQ4c0FtaFBDUkU1ZU5RTndaVkRDTlVoR1NvREZ3SzRmaF9IVlFYWTZVRmR5UThEVlozeWJsN2JId2dEUlFPSjRETzlXN2tZODNadXhWbkdWZ19yT0RXQXJjdUp2NGFn?oc=5",
+        "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
       ]
     },
     {
       "title": "Jensen Huang Has Been Ousted as Nvidia CEO",
-      "score": 21.78,
+      "score": 21.54,
       "kinds": [
         "news"
       ],
@@ -164,6 +153,19 @@
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWVZVkVvX3UtNnFXSVJETEx3Yl9HYzM4cnc5YTEteEdUdXlfQllBdzlod3p1NEtUUWQzcHktdVdEYWR1c2dhYkNPQjJzcXJNVVdCcWNFWlI4a1NjMkNJV3BGVXl2TGFPQ0FlY2xrYS1Ua01WdmNNaFNnZ2k3ZVBhY1JFemVfVm4wZHc?oc=5",
         "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFFZOGJTVzVWMzJyR1ZpdXV1Ynd6UGpKUTVnVzFrc1haZjdRaWZreWNjSTZvR3FNYjkwemdzV1liQ0FlQzB0Q2Q0VVBzUjV4NnUxTlc4U3lnaWRybUc1ZHJlZF8zaUM3X2t5SFB5ekR4V1JUWnFXUGVOSWVZU3A5b0JOZlp2aGZSVG9vTHRpT0Eyc0FTaGoyemMwcExCQUxqeC1teHF0cExpMFBveHc3YVJKV2xpZGNGV0Zxa3dTN2t2UdIBygFBVV95cUxOaTRSbV9QSmN0VWxaM0E4SjE0NDd3Sk1mMkRMUnpKUDk2N0F3RHcxTmpuQjNMTDdMRFVFeEprUTZVUTR0bEkzWV95VTYtdE1wZ0dKb0Z3bk9oN2U1N2hmamNJeXZWYldfN3p3S0tDQ19lT0IzMWRTRWdXT0psdFVwSmdldVo0b1hkTTg3c0FTT2ZtVjFuVnQ1dkVrT1NFYVczSVFpU3NvVWdFMDd1dDVKWFh1ZkxOcDRYcDJTTFJQU0ZWRzltTDJnNmNR?oc=5"
+      ]
+    },
+    {
+      "title": "ISRO Scientist Engineer Answer Key 2026 Out, Raise Objection till 15 November",
+      "score": 21.53,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR2JDSXgxTHRfNXIzeExldE5qeTByUkczS2tlSEZTb1ZwSTBNRnhURkdMWFM3Zl9nZTFSdzgzbllhYU5GM2lrdmFuOVJtcnpiZnVXSXFuS1hyU3M0RFBRMEliZzEtVEE2VGFOdGhuVnJ1MTkyRkRwbnB6ZWpUMkNBaG9Ob3FDLUU?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTJNSHNDUTMzZzFaX19SYVZXdGRLQjc1ZVl4YUJ4bXZuNHIzRjdIX3hXRkp3WFhnblBIWURtRUhsTjVxVjhVVk1QNmFXVXJpcWsyV2czRnFfNkdWV2lVMHoyVWxhc2NXenRaZ0NPcTBjMlRMUng5U21NS3F1aEZ1bUYxcWpzdXJtdW9VemU3N1FiWU5JXzRoeE9aNkE4dXpzZXBPV0ozbnZUSWh3TjFScllQblpNTXJrR01NR2RCOWIwR0Y2WUd5NXVCQVJ0N09LaUZaci0xVHdOTHRMZEJrRjB3?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sLXpkVndOV083QU51UWJfMk1vZHVEeHhrdW0yVHppdHZQZ0JvVzlfUGM3NzJzSDV4aEtuQ0R5WUtjOW9ENGduTlIwS2VGdEx4Ukt2RUJLc3lBY0xVcEJ4UTlSX2RxZWRxemNuM2ZacDN0cVZlUEQw?oc=5"
       ]
     }
   ]
