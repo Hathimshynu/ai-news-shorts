@@ -1,160 +1,154 @@
 {
-  "job_id": "2026-11-13-evening-1801",
-  "chosen": "OpenAI brings AI processing closer to Indian businesses",
-  "reason": "OpenAI bringing local AI processing to India is a huge milestone for Indian developers and enterprises looking for lower latency and better data compliance.",
+  "job_id": "2026-11-14-morning-0010",
+  "chosen": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+  "reason": "OpenAI equipping AI agents with purchasing capabilities is a major leap toward fully autonomous agentic workflows that viewers will want to learn about and share.",
   "candidates": [
     {
-      "title": "OpenAI brings AI processing closer to Indian businesses",
-      "score": 19.95,
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "score": 33.8,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnk5d0FVNUpMdlpnekl5ME1KWktrOEFUQXhNeWo2dFRtWmxCcVU2NGxVVlVCMEpIOHl4b1ZnZVk5QVpTSFVKMzByV2lWX0pXMzhJMXFGRnZycklGb2JiU0NwMWJRaHNCOGJ0QnNHVVpmNjdGOEdvcnlRNHZWYk5XM3FVVmpodS1aU19Lbm85dw?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenB3V2ZYSU9FMGw4WEZpQlpVSmtrWkFwTlZhVUFrVk5IUkhkSXo0VGVqaW1MRW1Sc01wUXJ6RDZ5dzdIc1hkMDB4eHNvamxKZG5wRHkyeGRLSlJaZHJCRHQ1cXhXVzlwQ3BXZTVoT1lGQVcydlRSNk10UFNBS0dha0tOWkJBM094dXlKQTRFcE1ya2FzbGgwd1pYWk0zemF3LWFJTTFMSU5kWkJsTDlETzR6OXdJQUZWcU04OWJn0gHDAUFVX3lxTFBaRGdmNVBETUdnMEtzNzFRQ3REeVlKMHM1Njk1QlBaSHhLMmh6MEVUWjFKdlB3eFBzZVdGdHdMRURTZzVUZVZoZ0RDNXQ3em5FbEgwN1UzcGo4b1B5ZDZ6YkZzcHAweEhuc3hMNk1EZ2JIbWh6OFBKdnVXS2Vfa3cyQmlXNlBHTzZpQVdPZmRselpxQjktMGp0RVhlUnVRU0g3ekNjcTVvdUJMN0VESUkyMXllamd6R3l3Wk02SnFZVFdaZw?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnk5d0FVNUpMdlpnekl5ME1KWktrOEFUQXhNeWo2dFRtWmxCcVU2NGxVVlVCMEpIOHl4b1ZnZVk5QVpTSFVKMzByV2lWX0pXMzhJMXFGRnZycklGb2JiU0NwMWJRaHNCOGJ0QnNHVVpmNjdGOEdvcnlRNHZWYk5XM3FVVmpodS1aU19Lbm85dw?oc=5"
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWdYTXNlaU80Vm0zR2h3bk52N1ktVFVLZkY0aDVwME1hYzdoaXk3NGJhZXJIVTZIY0liQ0NmQ3BoWTdUZVM5SWFVa1Y3M3l2bEM0UGd3TVJValE2THB1UjViaExoZEladU1yV2ZUSFhJMTNXX0ZfejQyNUdMNC04N2RjT19ic0xvaWZYaDdGaU1SS2xaS1FHVVc1bzNaNE9EYmFGaHBIZ2o?oc=5"
       ]
     },
     {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "score": 23.67,
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "score": 19.85,
       "kinds": [
-        "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMTBPN0FPc1ZkXzVUNk5ER055RWJwMGNkM2hXSmV3QTNtcVNBdk9ZTVZ5V2ZxQXFxRTdiMlQzU3lJX1dfbHRPMEpoek85UmdxNXBGbnJMeUVzNmpiNVRSMFZHNA?oc=5",
+        "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      ]
+    },
+    {
+      "title": "Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward?",
+      "score": 19.66,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5"
+      ]
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "score": 20.13,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
         "https://openai.com/business/customer-stories/gondola",
         "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMTBPN0FPc1ZkXzVUNk5ER055RWJwMGNkM2hXSmV3QTNtcVNBdk9ZTVZ5V2ZxQXFxRTdiMlQzU3lJX1dfbHRPMEpoek85UmdxNXBGbnJMeUVzNmpiNVRSMFZHNA?oc=5"
       ]
     },
     {
-      "title": "Ground test of third stage of PSLV (PS3) conducted successfully",
-      "score": 25.46,
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "score": 20.83,
       "kinds": [
-        "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkRLbk5rVlBZT2N2RXpnTWtaTTlNTHJ3Q002clpGcEs2czdHZHRtQkM3SV9GU19TYkFxZEwwY0RXeDFiNW9HcDJCc05UNkIyNVVVOGlGWlhEX1BQMDdJaVNmZmp3bU0zaFB1NFpSV25yV3RKZ0FKdG5YRXk0X2NQaFA2OEd2TmZSd0lnYkRMZE8xejRvRnF5UlNRVHU3NUlwa2JqdTN1WU5BcUdLaUE2Wi1EU1YwR2s1UkNPdlZFdmJCRlhVT2pjWUxB0gHQAUFVX3lxTE1JQ05TM0xaaDdhTGRGdUV5ckpYWkVuQk1FX0lYcWRUR1hUOXFIRTQ4ckJWSlpta0lIWTJPbERqbkc0OHNpNnlNRWNNcDgxYldhQU5vRWc0dWZxNjVQTlowdUpyNENaSlVDanlZNzllbWlLcjM1aVNSYXc3TGFyLTlabzhBaEFjbkFWZC02dFVlbEJUZi0xckpudVBsdkpFbVA5bmtWVUxjM2lXWkJWYVVoOE44dnk3WGxPbF9nd2ZMdmhHakhmUFd1Yl9QUlB4Zzk?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLTNtUGY3RXh3VENwaE5QODlRZmVGNmRqa2c5bEdzTkhZM19wMHZtYUluVlQ4S0ZXTmR2WUk5OFgyRXM3NHRHOG5OZTJYaUkxVFVsZTVYNGtnRGtGTWd6SDJsX1RBYUcxSFBvd2ozQmljR21SWE9STi1GYnA4ZFIzX29ueGt3UkhfVzJNbW5QQjdnQnlVREhrZGxoeXRYV0lUVUlyeDRJdHpLWVVWcldvcVh4WjRyd3ZLbGhVVW9UZWwxYnpQdDNsZUdBZU_SAcwBQVVfeXFMTy0zbVBmN0V4d1RDcGhOUDg5UWZlRjZkamtnOWxHc05IWTNfcDB2bWFJblZUOEtGV05kdllJOThYMkVzNzR0RzhuTmUyWGlJMVRVbGU1WDRrZ0RrRk1nekgybF9UQWFHMUhQb3dqM0JpY0dtUlhPUk4tRmJwOGRSM19vbnhrd1JIX1cyTW1uUEI3Z0J5VURIa2RsaHl0WFdJVFVJcng0SXR6S1lVVnJXb3FYeFo0cnd2S2xoVVVvVGVsMWJ6UHQzbGVHQWVP?oc=5"
+        "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+      ]
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "score": 20.59,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/allenai/xybench"
       ]
     },
     {
       "title": "ISRO successfully tests upgraded PSLV third stage after mission anomalies",
-      "score": 24.91,
+      "score": 21.37,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbjdNbWl6M0tIV3NvaGFFRC1aQlRsblBKTTBIU0tJRWQtYXhtUkh0R0pId0pLSlkxLURoTnAzVVROcGZDX0xMZGVXbnAwcHBXcWloYWhCQmhjRVI2S0RpTzZsMy1QMFo1dFpHN2VqQnp3U2k2T3BsOENmNmN4QW5ja0o3d3RHUGZQRm5fMk9ZMnk4cGktVHc4MkVZN1JySDZKMENZQURsbVgyTHB4WjhfZl9zRS1tT01pQ0RBRnc0cnlMUTFxeXBLLVl5MV9nN2dqQmszMWwtZFpOUnpjX3BXcDhBSzBUQdIB7AFBVV95cUxPdTJwYklWN0NqTFRhXzVTM3hpVUx5blowM0ZBemN1c1p6SW1pei1feEhMODZDQ3RVUjgtOHBNcm02M1Q0Y2VMdkRFUnlfVGhRM19FMVlHWVMtWlVtZ1EtdVhoMC1aWVpyUElQSm1hQTJrR2pQYzZGTVhSb1JaY1piSGhQYVFOM3hNaWJDSWsxWGpaa0NmWmhvVUF2Sk1jaEpwZXFCb2hHWHAyN2lDTi02RWhNLUZWWkxKVEVBVGhtOW92eHhGZjUyVzZyRE5yZ2Q1c2Z6V2R2eW42U2g0SDhPVGRTZEN3U09nNTJXZw?oc=5",
         "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9lc3RZVVJEdW96OHBicS0yNXc0Q3lJWWNQdERLNDZsQW9yUk5JeEI2Vl9mX2c5Q1lIeW1KZGEyZ0VBV3dOa0NEeWo1SGtXc0JPc3NaTFhJQ01IOXZ2RlZlZmx6NjV1VUtNVzVZUl9UM3Y4TEJoTU9aNmxFOS1PZmNoaC1xczVuQ01CeE9iZ3NOdw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEY2SXVvV0h0REUwSGlYSHZZeWQtcHFVcndTQ3paLWZjR3UxTDdseU91aWdpXzlLbmd2ZFBEZjhaNGxkTVdiYXhXQmgzbGUxUVpsdHdTWFNOWUROVmRqZVcwLUFqeDhrNjJmTi1lQnhRUmxWQnBBSGVoS0EzeWpBMlNEdGZMMUt0bzJkUTdTano1NEdZZlhWNy1DRHVaa2NiQXExTE9wcDE3bTlWTndzQldtTnpON1JWTndEX2xwcjB3X2xlVnZ1MnAxU2FRUVZNZWVDcHBXUll1dWvSAeABQVVfeXFMT204SXFsYUlqcjFGb0x4Mk5ERU9lWXFkQ2txSnNMQkJjeUY5TjlBMXNORkkxbVhSOWJVNDd5a01VZUdrLU9QMWNwRGs4Y3VjenZIdVNlOXZYQVI5YmpPS2dubmhzeGpaUERjZVVWSFNnMTlxdzRDeFFXQ0ZnU25nQzg1NklWZFo5VHpkcE5PQmthRk5DNko0ZW1fRkIycmhuZHJlNndxUkktWUFrZVlFaGpIT2kxLTFqd2k0bGVJS1h4UExFV0ZKM19TSnBuNFNoRGxJcVI4X3Q3Y3owSmdqLWY?oc=5"
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFZoWUNvUm5rVXI2aTZtQ2l4VEwxdllaUER1YVpUbWZ5RUItRElwb251OEZ2b0J0TWMweGpmTWstT2dPTjZiRWQxY2dMRVVXZXVuQ1VFZklFUnB0dWNaWXhkZXgzQ21XaUtIZ05rY1JmZzh1V3kta25iTUlZQTE0T19CbTRvZWtIaTdIbGIxVjR6bGdBQV82Mg?oc=5"
       ]
     },
     {
-      "title": "NPCI Introduces UPI Vyapaar Saksham Scheme To Boost QR Code, Soundbox Adoption Among Small Merchants",
-      "score": 19.25,
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "score": 19.58,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"
+      ]
+    },
+    {
+      "title": "Manage AI Scan for repositories using the REST API",
+      "score": 19.42,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api"
+      ]
+    },
+    {
+      "title": "Vivo X500 Series India Launch on November 26: Expected Price & Specs",
+      "score": 23.79,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGNQeGFSQWpNcU5laENtX2ljdnd2eEppcXJMUG1oUUtGTlRoVDNwZUYxV2V6LVU5NDVtSkZsbG5xazJRa2o0N1JOcHFUclJXVUxoQlZrOUR4LWtlQmVpTDR6OUk1VDQ1ZjdIQ1RFR1Q3dG5QZlFNdzdHOW1kdUZQcnhEWDQ2UGtiZWhEV1hkODRyVkRWYm1nUGc5MzFpb05mZU5xSjBLNVN5QjJBU3ByYlZDaTgxUkRSdG5vbUFaUGdtRklsSXI1Q1lhakgteVhrSHVOWVVUTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowJBVV95cUxOa2s4QV9HSEtmZFJBVkJjSXQ1YjgtZURrbWRyZHJHVWtRek5Ga285UDJIczllLW5JSi01T3RiRHdBQTlQd2tHdEFNbDEyMTNoeEVBSlRTSjJnUWxqSGdSNEtLd1ZUUEpGT2NCS0lwT1ZBdGRYV3lnUGVzeS0tYjlJTC1EX0tnODJJV3AzWkp3akNNcXhfSmc1bzQybzhocnVocHUzN1B2WlU2dFhBRXhnRUlHTElHOEdUQUtySVVUd3lvdVc0a0pLQ0FHZ1RUNGRQanI3TjRlMUpMNEk3c2F3SG9YZmpNWm8tNk8tX3NQaGQyNmlvbFBabVU5TjkzUFJlOTVEZ2VhNUNNMGRTRWo2MEVxNDFDM1ZSbHR4RHUtZ1pGRWfSAagCQVVfeXFMTmFuWWF2UTRSTkQtQXhGaUg1NzNnc1kwMmZ0NGpDbWI5MmZHR0pxREhNekxxamFTdDk5V194T1ZNZksxbGlVX3lxQkNHN0VqWnJvTlNwTVBzT1BHRENLVjlsNlFibjV0bThzQkcxZGlTcXZqWWV5a056M3RuM21mbFp4aXg0dXdVWG5CSjhKSjZtbVhIMEh1SGE2TTU5RzUwNnU4eXFzcWtUS2E2NDBPVzQ2NDQ4RWpmM3dzVDBHUEJjeUNOZkRCdXF1bDAxRWI3V3lCZmJPeDV3RTlpSzQza1d3bDU2X0FXMUFnUXJYNHBWNURZSUNmUkYwa3Q0bV9CYVJZazV6NjV2RHl4eG9aTTFrRVpiWlVkLXl3elhPald5WVo4RVlVWGQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllVb2Nuc1A2X2F5VVlSWlNjeHhiQ05WN01IekljX2pOcVhCYlZDX1lQaWMxNG1kUXN2ZGNQdlgwRXZUS2EwbkFJOUdROC0xY1FXWUQ3RlhuMGIySXBfdWVaVHpZZjFydVgxaC1OWXlyT2U3VEViTnowdjZPMmdRdW56eEFuM3NhOFR1YkI1LUFmd2RuZDAwMS1wVQ?oc=5"
-      ]
-    },
-    {
-      "title": "Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward?",
-      "score": 17.84,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5"
-      ]
-    },
-    {
-      "title": "vivo X500 Series to launch in India on November 26 alongside vivo Watch GT2",
-      "score": 23.33,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0ctVmJEQW1ZcllDSUxibTBHTUN0eXFISzl5RkJELWd5VUVudVA4cEpOdVNvbENXbER6dzVocXU0dDFQQWhJdEE2MWxTS1d1Sm9YTUl2WjMzcThUT25aUXlDa2RyTk9mVm5kamNJQTdybU1CVFlmemxjOFdReXFObElvTkpLNFBzSmZfWmR6c3c?oc=5",
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWE8tM2xUd09xa2tOVU0xamp2OHVtWDJhVGFFazdyRExiZXJFbHp5OGpSQlFlcjBRT18tWnhrQUFPVGZNMzl5UC1zdzNtR1NGalMzNUNEOUVOTlBEVjJ0VzR6Q1hkY0Zra3ktNjg0a1RTWU5QeldNY0hNZVRURVYyTXpKVG13TkRnNFE?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9qbVVnM3NuWm1VRVE2dDF1VWNoU2gzSlZ6OG5WNEdUa256Vk9BbTlYWUF5WFR0ZXF1RnVydmFlUHMzZm9qTDMwazFUemt5ME1oSlFSUTNyd185R1gxZWpPUjZZUkxmQjVSZm9malJrRFVjRUVzNFIzUjhXcHRldWFMN05abXhfSEhLVlluOFpTMXoxQ2Jta29UQ2xhTWlJQllGazBJaw?oc=5"
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9qbVVnM3NuWm1VRVE2dDF1VWNoU2gzSlZ6OG5WNEdUa256Vk9BbTlYWUF5WFR0ZXF1RnVydmFlUHMzZm9qTDMwazFUemt5ME1oSlFSUTNyd185R1gxZWpPUjZZUkxmQjVSZm9malJrRFVjRUVzNFIzUjhXcHRldWFMN05abXhfSEhLVlluOFpTMXoxQ2Jta29UQ2xhTWlJQllGazBJaw?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0ctVmJEQW1ZcllDSUxibTBHTUN0eXFISzl5RkJELWd5VUVudVA4cEpOdVNvbENXbER6dzVocXU0dDFQQWhJdEE2MWxTS1d1Sm9YTUl2WjMzcThUT25aUXlDa2RyTk9mVm5kamNJQTdybU1CVFlmemxjOFdReXFObElvTkpLNFBzSmZfWmR6c3c?oc=5"
       ]
     },
     {
-      "title": "Vivo X500 Series India Launch Date Confirmed: Check Expected Camera, Battery and Price Details",
-      "score": 18.25,
+      "title": "AI, AI Express suspend Riyadh, Dammam flights till Nov 30",
+      "score": 20.82,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWduZTJ4M0kwckltd1c3b0xZZzUyaFZiYm5kN2JxSktlR1BMRmpJTmhvdWM4MG84SnhyQkFiOUVmdXF4bTcyQldsYUZRWkR2bGI4RktLd0JSa3NXZFBaeS1lNGpHSkRvMkgxT1FsRHUyVjRGeVE1Z1dvbndfOTlZeGI2T3Y0SmpvbzctcGxPRm5vZlRRbzA5V0QtSm5yNTFQa2RCS1FCXzZ4bTRyZlkxUDF3eGtyZTdUbUNpYWUydlRNMWdRNC0td1owRjJuVjRiUHFtN2dvQl9iYTZnbHNoNmJ30gHoAUFVX3lxTE1hYW5lbkZtaFpRbVYzWHVUSjBrcFc4dGM0bEtOYmpRbWNTeDd2d1BKb0xaY21xQTNqUFJRb0hqR1BZV29QS3FfdnZvenFZRzFSY2wyeVlmMmJPWmZmYTd2RndfSGJacTM4aEItSGc4UFJpY0prc2E4NmVTWUcyaGhHYVU1R3MzQkVHU1lMQThFbjRIY3BQVXViOElDX2xfalZNaVE1aU00bWRVQWtMWnBjY1B0cGNZTHE3V3hWeVk0ajVLRVlIbUJwRC0zb3puam9ReFRySEk1MHZ1SHZLekdidU1oQ1FJRzY?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSZU03VHl1ZmFROGY5WkszMzBvb1p1dGR6dUNtV0RKSGh0Vmt1dGFGa1Bnc2lzU0JycmVpc3pZbmk0cmRMblgwR0tubWRISGZHZVVrajdNdEFKQ0FfVWJObDlxOUhkRzh4d2FWTG9n?oc=5"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdFFFSXc1SXdJOW5kMUdKUEFfRXVoanFacHJNY21xVk9EN1l2T24tSUlXX2dwWDFqWVlqMTBjOFk1c1J4V2cwXzZZcU9OMGhDaU04UmMzT2daSHB2a1lwZTFGeFFUUFFEX1ZiYjZNN2piblBGYW0yNTM2QkR6aXR0dUdWaFVxY2NRbUFTVkFKTkFyRGlBUEItb0ZLSkhNaFVMM0NET0JhSk40VlBsSm9pN3RncEhYM2FKWUpBTzFxTmpQVzhrMVY5RjZJMUxvSVFUUms1R2J30gHYAUFVX3lxTFB4Ny1zaEdwS1V6bHRDeUE4Q0dnQmt2bWR4OTdVbFlzWk5HSTB3SUdDT0E1bDByYXF0bmFGVTRpRzF5a3pKZmMzYXhEXzNDdS1pSGJLcGY2bzFmSXZsMHNGSG1hQ0wtV0tZZlpVSmwxX1VwcUhvUHd0WEFrQk9xTXNEUjgtMEtreTF4Z1dtLVNFRnlLMUNhNEcwbGIxLVV6Q2RIOElwdFJEN3p4MFdaeGNZM1FFTWhycWRoaFB2REJLTm8xVEF4djZLSlVIeVdVbFV4V01MMERXZg?oc=5",
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMkxkcHAwQXNxYmtZS1pmUDRrNkFKLTNRUjRvRFZ6SU5EYzBMREY2ZEtzWDUyQmhzdy1LS3IwdTdXdG1jRTJySGZjN2R6X0hhY0NtVHQ5VXpzRkRmRC1RNDkwVzktSWJGQlNkdE1NUUw1a3pwbUNOZUtubHljQlpYZzFiOGJaRi1tNzh3Y2V3dGZwWWJxUzdFTko3c1NPcVplT0dNVHNYSzZLNE1xUlZmSUJXeHFXQkI4NXQ1UWZ6ZVkzSml5UlhyOUtfUHBZaWdwdGtvQk9DMnNQMDBWNWdZcVYzb3Nhd1FCRXhVOGU0cmhHbnJDVmZHbjZDZC1IZ3Z00gGGAkFVX3lxTE1qQXFPdkstSDkzOTdWNVBRV3dRT2NQNDMzRWRQZlZCMnNDYlpJSlJ6YzY4b1NwNDM3TnlILWJQR2wwRjVJTWhyWEQ0cGh2X0x2UjJEWTdXRXA2N1pra2lUT2dPRTYtbEVELWdVNnR5WThyY3JaaU5hLUVYakE5dklIME9icWFtVm55YWxxZmNzMHJKeUJ3Z3gyRjJ4Tm1mTEZpR3F4alJuMFd4a0ZRTTJqZ2s5dlo3Znd4TXRvN2U1c1hIdHlvaHRKeEhXVmhibDBSQTljQU5BWnd2VEVBYkpqM1ZZc0tzRXVtRTlQUjh0dkFrRmdsUjg5VHA1aGk3cWVvT0MwREE?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkxRaGVnTndHN3dqeHFqeE1MdTFPaVRTa1lfZERtZG5GaElzdVJUYWgyR1V2X3RYaURPdU5BYnlyZTB2Ymp2UTlOZmlEaG5ySV9pajFkY3FXdVM4UjFOT0VfaDJmQVBLQjJhZDVmdFBVTHdhTDFQNUdnZHA5VmdtVjBvUTNrMFdBdXI2OE5BV3RJZWVxUlUwT09VLVRJRTFLajhXdlMwZUNKYzRn?oc=5"
       ]
     },
     {
-      "title": "Xiaomi 18 Pro, Redmi Note 17 Aura India launch tipped for January; Xiaomi 18T coming in 2027",
-      "score": 17.92,
+      "title": "Black Friday is two weeks out, but these Shokz open-ear earbuds already hit a record low",
+      "score": 19.68,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOURvclFIZktGZWVUR0ZUM2VkLVNxbEFPdjNpLVFKTFFLYW5jd1FYaW9seEJDc05GOFp3TmprUHdBaV9JeDgxd2l2VGZCSDhOLXNsZXplbkVKeDJTeXUtUGs5R05fTjFxcjZBQzFIQW5mR010aWNVTHJfYzFzVGNiUFBFVHUtV1B4Znk00gGQAUFVX3lxTE5aaktLVnY4b092MWlNemtodUJUUVVQaXpxRUI4TTh1UnQ1VHlQWnlHTjBRZFdfZDhtWjNSR1J5eDBKSHZEc3ktZ3hjM0FwdFFacFlSMW5IN2p0VUZXTWRmSUpzbXMwSnZ3eW1USnNqQ3FJOHk4VnRrR0FITkRuMHM1dUlsQzVDSHdRNHZRUzhRNA?oc=5"
-      ]
-    },
-    {
-      "title": "Microsoft confirms Outlook outage affecting users worldwide",
-      "score": 19.59,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa00wNEdJMHdlejNBR3c2Q3FLckxZeFhtaW9nRXBMVkN1NEdxRkpuSE4tQnlVSG5yTS1Cdm5ZTkg4Tjh3NGJ6bDhfaXVZXzhJMHhINkFBZ0ZCUld3VlNNQXRKMmlOdUdseWk2d1AtUUk0VUJGUDZGT1JRUEsyZk5FMHdNYlVmQTVqN1RuYmF0ODhZUklWUWhiSnBOcFk0R3M?oc=5",
-        "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk"
-      ]
-    },
-    {
-      "title": "India's Air Pollution Watch Has Blind Spots: Inactive Monitoring Stations",
-      "score": 17.87,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXdKd1RUNFVOS2dNTDN2S0F3TEhlUXJoZ1FiT3hCVE5XVnhmaldxNS03U3pVaHZxcjFSbGFjRVlSMy0zaGVqc1JObENVNWJtQjRLT0tnbzVTN2xVUUY2dkZRN1pMZUh6Z3dZcTdPVDlPOE5oWDlOZEZ5LVNZaXZtcHNFLXZoLXJxTktaN2ZSTkM3aDZaSlFnZFVGaWdHV3JncVd0WmZ6XzZXeUlwUk82Y0F30gG6AUFVX3lxTFBmT3AyN0t4LVZsZVZTWWFmT3h4RHF4dTgwWENHbkdoR3JGc05LZHE5bHZqYm1vMWZDS3VFSU1DNzZ6RV85Y3QtdXcyeG1ZbXkwU3VRLUt1b0JkcHo3V3JlelZTbVAxdDR4dTh4V05LcWNuYWdCOURZXzZNNy1CNG1TTGhaMmVkSkYxenI3bEJmMU1TYWZmX1c5SUliaF9SWWNqQzBCTjBBRzlaRWxNVDdQMW90Q2dhSjJsUQ?oc=5"
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "score": 17.93,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
-        "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2lfNEp2SXFXSVFBWE5kand2U1BsMmNBanlfOXo4OWt3YXQ5WUdNbXhjenNwTTRwOGNSOW4zZWxVU243a2Q4WmFORThJa0tiR0hmMEhRZWN3NXZBcHF5S1FDcHpiMzBUdVg2cldOSTIzM19NN19fZ1g0OEdBZkt1TDV1RHJ3UlVBRnVvRHk0YVRYV28zOXhR?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2lfNEp2SXFXSVFBWE5kand2U1BsMmNBanlfOXo4OWt3YXQ5WUdNbXhjenNwTTRwOGNSOW4zZWxVU243a2Q4WmFORThJa0tiR0hmMEhRZWN3NXZBcHF5S1FDcHpiMzBUdVg2cldOSTIzM19NN19fZ1g0OEdBZkt1TDV1RHJ3UlVBRnVvRHk0YVRYV28zOXhR?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2lfNEp2SXFXSVFBWE5kand2U1BsMmNBanlfOXo4OWt3YXQ5WUdNbXhjenNwTTRwOGNSOW4zZWxVU243a2Q4WmFORThJa0tiR0hmMEhRZWN3NXZBcHF5S1FDcHpiMzBUdVg2cldOSTIzM19NN19fZ1g0OEdBZkt1TDV1RHJ3UlVBRnVvRHk0YVRYV28zOXhR?oc=5"
       ]
     }
   ]
