@@ -1,39 +1,39 @@
 {
-  "job_id": "2026-11-13-evening-1701",
-  "chosen": "DomoAI Launches InkoAI Agent – One Sentence to Ready-to-Post Video",
-  "reason": "This new AI agent lets creators generate a complete, ready-to-post video from just a single text prompt, offering an actionable workflow tool viewers will want to try and share.",
+  "job_id": "2026-11-13-evening-1801",
+  "chosen": "OpenAI brings AI processing closer to Indian businesses",
+  "reason": "OpenAI bringing local AI processing to India is a huge milestone for Indian developers and enterprises looking for lower latency and better data compliance.",
   "candidates": [
     {
-      "title": "DomoAI Launches InkoAI Agent – One Sentence to Ready-to-Post Video",
-      "score": 20.67,
+      "title": "OpenAI brings AI processing closer to Indian businesses",
+      "score": 19.95,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHF3UDVmM3BFNERTUVprT1BqV3hwNTJFbjdRQTRZc2hHZDZrVWlUck5jS0hRc21IQW1LMjEwdDJ6bC00dUxFVGxFVWllZUZwRWFGdE5Ba0xJcHhNaXRKMjl4V3dqUk5XNFNIdzhGZ2FIV2hWUG84UHJvVFJvRk1rTC1fLXlDbFo3TXkwQTNyOWdzZno4TEZWdThHT2FSdw?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHF3UDVmM3BFNERTUVprT1BqV3hwNTJFbjdRQTRZc2hHZDZrVWlUck5jS0hRc21IQW1LMjEwdDJ6bC00dUxFVGxFVWllZUZwRWFGdE5Ba0xJcHhNaXRKMjl4V3dqUk5XNFNIdzhGZ2FIV2hWUG84UHJvVFJvRk1rTC1fLXlDbFo3TXkwQTNyOWdzZno4TEZWdThHT2FSdw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2JQYXVXMVVBV254cWRncUg3WXNhYWxwVDAzN3RXMkFMdUZnaElCWk1HdFpfODBzMlVJS2JmMmtrQ0hCRXppNW9CWjNkdlJNbnRJR3dFUW02alYxbzYyaTk1aGlUWmY5SEhpM1hZZEJMVVg2aERzRHpKaTFEWEF3cS1CMG9rMWxWeWU4V21RWkFDcTFFNGc?oc=5"
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnk5d0FVNUpMdlpnekl5ME1KWktrOEFUQXhNeWo2dFRtWmxCcVU2NGxVVlVCMEpIOHl4b1ZnZVk5QVpTSFVKMzByV2lWX0pXMzhJMXFGRnZycklGb2JiU0NwMWJRaHNCOGJ0QnNHVVpmNjdGOEdvcnlRNHZWYk5XM3FVVmpodS1aU19Lbm85dw?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenB3V2ZYSU9FMGw4WEZpQlpVSmtrWkFwTlZhVUFrVk5IUkhkSXo0VGVqaW1MRW1Sc01wUXJ6RDZ5dzdIc1hkMDB4eHNvamxKZG5wRHkyeGRLSlJaZHJCRHQ1cXhXVzlwQ3BXZTVoT1lGQVcydlRSNk10UFNBS0dha0tOWkJBM094dXlKQTRFcE1ya2FzbGgwd1pYWk0zemF3LWFJTTFMSU5kWkJsTDlETzR6OXdJQUZWcU04OWJn0gHDAUFVX3lxTFBaRGdmNVBETUdnMEtzNzFRQ3REeVlKMHM1Njk1QlBaSHhLMmh6MEVUWjFKdlB3eFBzZVdGdHdMRURTZzVUZVZoZ0RDNXQ3em5FbEgwN1UzcGo4b1B5ZDZ6YkZzcHAweEhuc3hMNk1EZ2JIbWh6OFBKdnVXS2Vfa3cyQmlXNlBHTzZpQVdPZmRselpxQjktMGp0RVhlUnVRU0g3ekNjcTVvdUJMN0VESUkyMXllamd6R3l3Wk02SnFZVFdaZw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnk5d0FVNUpMdlpnekl5ME1KWktrOEFUQXhNeWo2dFRtWmxCcVU2NGxVVlVCMEpIOHl4b1ZnZVk5QVpTSFVKMzByV2lWX0pXMzhJMXFGRnZycklGb2JiU0NwMWJRaHNCOGJ0QnNHVVpmNjdGOEdvcnlRNHZWYk5XM3FVVmpodS1aU19Lbm85dw?oc=5"
       ]
     },
     {
-      "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
-      "score": 25.3,
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "score": 23.67,
       "kinds": [
         "backlog",
-        "community",
-        "news"
+        "news",
+        "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5",
-        "https://ipo.anthropic.com/us/",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlh1MGktTFl3SEdkWkN3Rlk2ZHNtTlhabzY2UkFuelZ5dFJfaHZ4U0VHc2dacDZ0bHoyVU1vSmRwTHdad1U3a3NDTUFHeEtGWlZreUxJMnJaRXFNaEV6VjY0bnVEVGhLWlVGR05CUnM4eldSZFJBXzRLT1F3Uk1VRm94c2ZaekR0S2hqTEVkRFhuX0d5MWx4ZDhVdnZqaHNfZVdIV3VLNS0yeTA?oc=5"
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMTBPN0FPc1ZkXzVUNk5ER055RWJwMGNkM2hXSmV3QTNtcVNBdk9ZTVZ5V2ZxQXFxRTdiMlQzU3lJX1dfbHRPMEpoek85UmdxNXBGbnJMeUVzNmpiNVRSMFZHNA?oc=5",
+        "https://openai.com/business/customer-stories/gondola",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMTBPN0FPc1ZkXzVUNk5ER055RWJwMGNkM2hXSmV3QTNtcVNBdk9ZTVZ5V2ZxQXFxRTdiMlQzU3lJX1dfbHRPMEpoek85UmdxNXBGbnJMeUVzNmpiNVRSMFZHNA?oc=5"
       ]
     },
     {
       "title": "Ground test of third stage of PSLV (PS3) conducted successfully",
-      "score": 29.16,
+      "score": 25.46,
       "kinds": [
         "backlog",
         "news"
@@ -46,8 +46,21 @@
       ]
     },
     {
+      "title": "ISRO successfully tests upgraded PSLV third stage after mission anomalies",
+      "score": 24.91,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbjdNbWl6M0tIV3NvaGFFRC1aQlRsblBKTTBIU0tJRWQtYXhtUkh0R0pId0pLSlkxLURoTnAzVVROcGZDX0xMZGVXbnAwcHBXcWloYWhCQmhjRVI2S0RpTzZsMy1QMFo1dFpHN2VqQnp3U2k2T3BsOENmNmN4QW5ja0o3d3RHUGZQRm5fMk9ZMnk4cGktVHc4MkVZN1JySDZKMENZQURsbVgyTHB4WjhfZl9zRS1tT01pQ0RBRnc0cnlMUTFxeXBLLVl5MV9nN2dqQmszMWwtZFpOUnpjX3BXcDhBSzBUQdIB7AFBVV95cUxPdTJwYklWN0NqTFRhXzVTM3hpVUx5blowM0ZBemN1c1p6SW1pei1feEhMODZDQ3RVUjgtOHBNcm02M1Q0Y2VMdkRFUnlfVGhRM19FMVlHWVMtWlVtZ1EtdVhoMC1aWVpyUElQSm1hQTJrR2pQYzZGTVhSb1JaY1piSGhQYVFOM3hNaWJDSWsxWGpaa0NmWmhvVUF2Sk1jaEpwZXFCb2hHWHAyN2lDTi02RWhNLUZWWkxKVEVBVGhtOW92eHhGZjUyVzZyRE5yZ2Q1c2Z6V2R2eW42U2g0SDhPVGRTZEN3U09nNTJXZw?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9lc3RZVVJEdW96OHBicS0yNXc0Q3lJWWNQdERLNDZsQW9yUk5JeEI2Vl9mX2c5Q1lIeW1KZGEyZ0VBV3dOa0NEeWo1SGtXc0JPc3NaTFhJQ01IOXZ2RlZlZmx6NjV1VUtNVzVZUl9UM3Y4TEJoTU9aNmxFOS1PZmNoaC1xczVuQ01CeE9iZ3NOdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEY2SXVvV0h0REUwSGlYSHZZeWQtcHFVcndTQ3paLWZjR3UxTDdseU91aWdpXzlLbmd2ZFBEZjhaNGxkTVdiYXhXQmgzbGUxUVpsdHdTWFNOWUROVmRqZVcwLUFqeDhrNjJmTi1lQnhRUmxWQnBBSGVoS0EzeWpBMlNEdGZMMUt0bzJkUTdTano1NEdZZlhWNy1DRHVaa2NiQXExTE9wcDE3bTlWTndzQldtTnpON1JWTndEX2xwcjB3X2xlVnZ1MnAxU2FRUVZNZWVDcHBXUll1dWvSAeABQVVfeXFMT204SXFsYUlqcjFGb0x4Mk5ERU9lWXFkQ2txSnNMQkJjeUY5TjlBMXNORkkxbVhSOWJVNDd5a01VZUdrLU9QMWNwRGs4Y3VjenZIdVNlOXZYQVI5YmpPS2dubmhzeGpaUERjZVVWSFNnMTlxdzRDeFFXQ0ZnU25nQzg1NklWZFo5VHpkcE5PQmthRk5DNko0ZW1fRkIycmhuZHJlNndxUkktWUFrZVlFaGpIT2kxLTFqd2k0bGVJS1h4UExFV0ZKM19TSnBuNFNoRGxJcVI4X3Q3Y3owSmdqLWY?oc=5"
+      ]
+    },
+    {
       "title": "NPCI Introduces UPI Vyapaar Saksham Scheme To Boost QR Code, Soundbox Adoption Among Small Merchants",
-      "score": 19.5,
+      "score": 19.25,
       "kinds": [
         "backlog",
         "news"
@@ -60,47 +73,19 @@
       ]
     },
     {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "score": 21.92,
+      "title": "Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward?",
+      "score": 17.84,
       "kinds": [
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMTBPN0FPc1ZkXzVUNk5ER055RWJwMGNkM2hXSmV3QTNtcVNBdk9ZTVZ5V2ZxQXFxRTdiMlQzU3lJX1dfbHRPMEpoek85UmdxNXBGbnJMeUVzNmpiNVRSMFZHNA?oc=5",
-        "https://openai.com/business/customer-stories/gondola"
-      ]
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5"
-      ]
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5"
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5"
       ]
     },
     {
       "title": "vivo X500 Series to launch in India on November 26 alongside vivo Watch GT2",
-      "score": 27.58,
+      "score": 23.33,
       "kinds": [
         "backlog",
         "news"
@@ -108,13 +93,36 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0ctVmJEQW1ZcllDSUxibTBHTUN0eXFISzl5RkJELWd5VUVudVA4cEpOdVNvbENXbER6dzVocXU0dDFQQWhJdEE2MWxTS1d1Sm9YTUl2WjMzcThUT25aUXlDa2RyTk9mVm5kamNJQTdybU1CVFlmemxjOFdReXFObElvTkpLNFBzSmZfWmR6c3c?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9qbVVnM3NuWm1VRVE2dDF1VWNoU2gzSlZ6OG5WNEdUa256Vk9BbTlYWUF5WFR0ZXF1RnVydmFlUHMzZm9qTDMwazFUemt5ME1oSlFSUTNyd185R1gxZWpPUjZZUkxmQjVSZm9malJrRFVjRUVzNFIzUjhXcHRldWFMN05abXhfSEhLVlluOFpTMXoxQ2Jta29UQ2xhTWlJQllGazBJaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWE8tM2xUd09xa2tOVU0xamp2OHVtWDJhVGFFazdyRExiZXJFbHp5OGpSQlFlcjBRT18tWnhrQUFPVGZNMzl5UC1zdzNtR1NGalMzNUNEOUVOTlBEVjJ0VzR6Q1hkY0Zra3ktNjg0a1RTWU5QeldNY0hNZVRURVYyTXpKVG13TkRnNFE?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWE8tM2xUd09xa2tOVU0xamp2OHVtWDJhVGFFazdyRExiZXJFbHp5OGpSQlFlcjBRT18tWnhrQUFPVGZNMzl5UC1zdzNtR1NGalMzNUNEOUVOTlBEVjJ0VzR6Q1hkY0Zra3ktNjg0a1RTWU5QeldNY0hNZVRURVYyTXpKVG13TkRnNFE?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9qbVVnM3NuWm1VRVE2dDF1VWNoU2gzSlZ6OG5WNEdUa256Vk9BbTlYWUF5WFR0ZXF1RnVydmFlUHMzZm9qTDMwazFUemt5ME1oSlFSUTNyd185R1gxZWpPUjZZUkxmQjVSZm9malJrRFVjRUVzNFIzUjhXcHRldWFMN05abXhfSEhLVlluOFpTMXoxQ2Jta29UQ2xhTWlJQllGazBJaw?oc=5"
+      ]
+    },
+    {
+      "title": "Vivo X500 Series India Launch Date Confirmed: Check Expected Camera, Battery and Price Details",
+      "score": 18.25,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWduZTJ4M0kwckltd1c3b0xZZzUyaFZiYm5kN2JxSktlR1BMRmpJTmhvdWM4MG84SnhyQkFiOUVmdXF4bTcyQldsYUZRWkR2bGI4RktLd0JSa3NXZFBaeS1lNGpHSkRvMkgxT1FsRHUyVjRGeVE1Z1dvbndfOTlZeGI2T3Y0SmpvbzctcGxPRm5vZlRRbzA5V0QtSm5yNTFQa2RCS1FCXzZ4bTRyZlkxUDF3eGtyZTdUbUNpYWUydlRNMWdRNC0td1owRjJuVjRiUHFtN2dvQl9iYTZnbHNoNmJ30gHoAUFVX3lxTE1hYW5lbkZtaFpRbVYzWHVUSjBrcFc4dGM0bEtOYmpRbWNTeDd2d1BKb0xaY21xQTNqUFJRb0hqR1BZV29QS3FfdnZvenFZRzFSY2wyeVlmMmJPWmZmYTd2RndfSGJacTM4aEItSGc4UFJpY0prc2E4NmVTWUcyaGhHYVU1R3MzQkVHU1lMQThFbjRIY3BQVXViOElDX2xfalZNaVE1aU00bWRVQWtMWnBjY1B0cGNZTHE3V3hWeVk0ajVLRVlIbUJwRC0zb3puam9ReFRySEk1MHZ1SHZLekdidU1oQ1FJRzY?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSZU03VHl1ZmFROGY5WkszMzBvb1p1dGR6dUNtV0RKSGh0Vmt1dGFGa1Bnc2lzU0JycmVpc3pZbmk0cmRMblgwR0tubWRISGZHZVVrajdNdEFKQ0FfVWJObDlxOUhkRzh4d2FWTG9n?oc=5"
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro, Redmi Note 17 Aura India launch tipped for January; Xiaomi 18T coming in 2027",
+      "score": 17.92,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOURvclFIZktGZWVUR0ZUM2VkLVNxbEFPdjNpLVFKTFFLYW5jd1FYaW9seEJDc05GOFp3TmprUHdBaV9JeDgxd2l2VGZCSDhOLXNsZXplbkVKeDJTeXUtUGs5R05fTjFxcjZBQzFIQW5mR010aWNVTHJfYzFzVGNiUFBFVHUtV1B4Znk00gGQAUFVX3lxTE5aaktLVnY4b092MWlNemtodUJUUVVQaXpxRUI4TTh1UnQ1VHlQWnlHTjBRZFdfZDhtWjNSR1J5eDBKSHZEc3ktZ3hjM0FwdFFacFlSMW5IN2p0VUZXTWRmSUpzbXMwSnZ3eW1USnNqQ3FJOHk4VnRrR0FITkRuMHM1dUlsQzVDSHdRNHZRUzhRNA?oc=5"
       ]
     },
     {
       "title": "Microsoft confirms Outlook outage affecting users worldwide",
-      "score": 19.62,
+      "score": 19.59,
       "kinds": [
         "community",
         "news"
@@ -126,40 +134,27 @@
       ]
     },
     {
-      "title": "ISRO successfully tests upgraded PSLV third stage after mission anomalies",
-      "score": 22.48,
+      "title": "India's Air Pollution Watch Has Blind Spots: Inactive Monitoring Stations",
+      "score": 17.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbjdNbWl6M0tIV3NvaGFFRC1aQlRsblBKTTBIU0tJRWQtYXhtUkh0R0pId0pLSlkxLURoTnAzVVROcGZDX0xMZGVXbnAwcHBXcWloYWhCQmhjRVI2S0RpTzZsMy1QMFo1dFpHN2VqQnp3U2k2T3BsOENmNmN4QW5ja0o3d3RHUGZQRm5fMk9ZMnk4cGktVHc4MkVZN1JySDZKMENZQURsbVgyTHB4WjhfZl9zRS1tT01pQ0RBRnc0cnlMUTFxeXBLLVl5MV9nN2dqQmszMWwtZFpOUnpjX3BXcDhBSzBUQdIB7AFBVV95cUxPdTJwYklWN0NqTFRhXzVTM3hpVUx5blowM0ZBemN1c1p6SW1pei1feEhMODZDQ3RVUjgtOHBNcm02M1Q0Y2VMdkRFUnlfVGhRM19FMVlHWVMtWlVtZ1EtdVhoMC1aWVpyUElQSm1hQTJrR2pQYzZGTVhSb1JaY1piSGhQYVFOM3hNaWJDSWsxWGpaa0NmWmhvVUF2Sk1jaEpwZXFCb2hHWHAyN2lDTi02RWhNLUZWWkxKVEVBVGhtOW92eHhGZjUyVzZyRE5yZ2Q1c2Z6V2R2eW42U2g0SDhPVGRTZEN3U09nNTJXZw?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9lc3RZVVJEdW96OHBicS0yNXc0Q3lJWWNQdERLNDZsQW9yUk5JeEI2Vl9mX2c5Q1lIeW1KZGEyZ0VBV3dOa0NEeWo1SGtXc0JPc3NaTFhJQ01IOXZ2RlZlZmx6NjV1VUtNVzVZUl9UM3Y4TEJoTU9aNmxFOS1PZmNoaC1xczVuQ01CeE9iZ3NOdw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEY2SXVvV0h0REUwSGlYSHZZeWQtcHFVcndTQ3paLWZjR3UxTDdseU91aWdpXzlLbmd2ZFBEZjhaNGxkTVdiYXhXQmgzbGUxUVpsdHdTWFNOWUROVmRqZVcwLUFqeDhrNjJmTi1lQnhRUmxWQnBBSGVoS0EzeWpBMlNEdGZMMUt0bzJkUTdTano1NEdZZlhWNy1DRHVaa2NiQXExTE9wcDE3bTlWTndzQldtTnpON1JWTndEX2xwcjB3X2xlVnZ1MnAxU2FRUVZNZWVDcHBXUll1dWvSAeABQVVfeXFMT204SXFsYUlqcjFGb0x4Mk5ERU9lWXFkQ2txSnNMQkJjeUY5TjlBMXNORkkxbVhSOWJVNDd5a01VZUdrLU9QMWNwRGs4Y3VjenZIdVNlOXZYQVI5YmpPS2dubmhzeGpaUERjZVVWSFNnMTlxdzRDeFFXQ0ZnU25nQzg1NklWZFo5VHpkcE5PQmthRk5DNko0ZW1fRkIycmhuZHJlNndxUkktWUFrZVlFaGpIT2kxLTFqd2k0bGVJS1h4UExFV0ZKM19TSnBuNFNoRGxJcVI4X3Q3Y3owSmdqLWY?oc=5"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXdKd1RUNFVOS2dNTDN2S0F3TEhlUXJoZ1FiT3hCVE5XVnhmaldxNS03U3pVaHZxcjFSbGFjRVlSMy0zaGVqc1JObENVNWJtQjRLT0tnbzVTN2xVUUY2dkZRN1pMZUh6Z3dZcTdPVDlPOE5oWDlOZEZ5LVNZaXZtcHNFLXZoLXJxTktaN2ZSTkM3aDZaSlFnZFVGaWdHV3JncVd0WmZ6XzZXeUlwUk82Y0F30gG6AUFVX3lxTFBmT3AyN0t4LVZsZVZTWWFmT3h4RHF4dTgwWENHbkdoR3JGc05LZHE5bHZqYm1vMWZDS3VFSU1DNzZ6RV85Y3QtdXcyeG1ZbXkwU3VRLUt1b0JkcHo3V3JlelZTbVAxdDR4dTh4V05LcWNuYWdCOURZXzZNNy1CNG1TTGhaMmVkSkYxenI3bEJmMU1TYWZmX1c5SUliaF9SWWNqQzBCTjBBRzlaRWxNVDdQMW90Q2dhSjJsUQ?oc=5"
       ]
     },
     {
-      "title": "Vivo X500 Series India Launch Date Confirmed: Check Expected Camera, Battery and Price Details",
-      "score": 18.5,
+      "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "score": 17.93,
       "kinds": [
+        "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWduZTJ4M0kwckltd1c3b0xZZzUyaFZiYm5kN2JxSktlR1BMRmpJTmhvdWM4MG84SnhyQkFiOUVmdXF4bTcyQldsYUZRWkR2bGI4RktLd0JSa3NXZFBaeS1lNGpHSkRvMkgxT1FsRHUyVjRGeVE1Z1dvbndfOTlZeGI2T3Y0SmpvbzctcGxPRm5vZlRRbzA5V0QtSm5yNTFQa2RCS1FCXzZ4bTRyZlkxUDF3eGtyZTdUbUNpYWUydlRNMWdRNC0td1owRjJuVjRiUHFtN2dvQl9iYTZnbHNoNmJ30gHoAUFVX3lxTE1hYW5lbkZtaFpRbVYzWHVUSjBrcFc4dGM0bEtOYmpRbWNTeDd2d1BKb0xaY21xQTNqUFJRb0hqR1BZV29QS3FfdnZvenFZRzFSY2wyeVlmMmJPWmZmYTd2RndfSGJacTM4aEItSGc4UFJpY0prc2E4NmVTWUcyaGhHYVU1R3MzQkVHU1lMQThFbjRIY3BQVXViOElDX2xfalZNaVE1aU00bWRVQWtMWnBjY1B0cGNZTHE3V3hWeVk0ajVLRVlIbUJwRC0zb3puam9ReFRySEk1MHZ1SHZLekdidU1oQ1FJRzY?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSZU03VHl1ZmFROGY5WkszMzBvb1p1dGR6dUNtV0RKSGh0Vmt1dGFGa1Bnc2lzU0JycmVpc3pZbmk0cmRMblgwR0tubWRISGZHZVVrajdNdEFKQ0FfVWJObDlxOUhkRzh4d2FWTG9n?oc=5"
-      ]
-    },
-    {
-      "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
-      "score": 19.29,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0k4U0h0a2tyYzNJWmxVaUo4VXdoRzFLTjRuUC1mWFM2ZDBnR3JpakF6TkxIc3FBMHdsSG5VMzZZNDBtdFRWQnh2ZXVlVHBpalNtUGUwczZlbXVjc2JQUU5sc2x2Tk1PR2g0VW12alRHcHVKZklvSzRCUGJiaTNFaDdOVURIMXN6ZGZCYS1yeld4Y3VsUlIyUHhjd3dnaVljVno5clBvU28xVmdBN0x5Nl9YLW5ieXpfR0xldThVMldGMkwwblFfUDB5WW82Vmk2c0VhM3VNTjdScXpHZ3hadFE1VExUUktpdkNnR1Ywei03Qkxo0gH6AUFVX3lxTE0ta3NFTDVWZFdfb2tzYVFMR1FMVnB1WXpHUkEzNml6bjhKX1BpQW5rOWJLbUNwMlFUV2pYRVRZNmlhcmNRUndfMGVBUk5NSDViMUNJanFOYVlTV0ZqZUlNdTBlWk13X0dIZHVSZXdFY09EX3VRY2RhVnRRNHRsVGVQWDBhMDAtaTNDdzVYQXE1QTdXR3B3Sm1YUWs4cmx5ZEhuRnZBa1RaelVZMWJLZUZYZHlEeUJYdHMzblYzZ3ZWVWUzeGdubF9NU3hpczlhUjR3NEdHNkFEclUxblhUZXZHbXQwVGlMcnpSR1RtdUl6QVRXdW9jVGtVbFE?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFQwYlVwYk5qajR1M1NVX1NySjJzZTNqa2ZLcnFJQkhEMnNiM0xsNjNDWFpLUGFzdUtHRV9ON3VCSWF6enFSVTM2MW1MLUotZEpYSV9QT0dEVEoydU8zdG5Jd2RfclFkN1R3WW5IYVB0QzAyQm5kb19vdE9LQ0pMVzhrTDBWTU5ZWXdiNkZOdXFuY2c0LUVib3BRVkdGMGZwd2ViTnFkdkRGRGlqRzFlSlJ0M0RVc2RyLV9ZaG1QdkNHN0pyVVZ2NUljQmM0XzU5Ykk00gHYAUFVX3lxTE52eWRRX2VNck54UURrX2pjRF8xeDJlbi1VMUpoYVhUN0VLVE9UNUdFTkRlNHZvZnplN1RhOTVrd3RBYXk0eTRlZGVJejJCY29KdzJtR2tVVHpRWFpXbUtxb2hzc3RqSkY0X3NJQWJTczVkaU1EWU5LYThkRGh4VFExcWtGcXpIM0o5a29LRlEtZk1jenpYMDVEdm9PNURfbFNNUUh1c1JheXRYWUd6OXVMQ0JRVnlHLXFsS3d2OEtlbEdqdW1oenREQVZvVXlMNUVGcnBna21oZw?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+        "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
       ]
     }
   ]
