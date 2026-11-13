@@ -1,38 +1,5 @@
 [
   {
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-13T14:05:22+00:00",
-    "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
-  },
-  {
-    "title": "Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward?",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5",
-    "source": "CXOToday.com",
-    "kind": "news",
-    "summary": " Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward? &nbsp;&nbsp; CXOToday.com ",
-    "country": "IN",
-    "published": "2026-11-13T17:19:24+00:00",
-    "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
-  },
-  {
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "link": "https://openai.com/business/customer-stories/gondola",
-    "source": "OpenAI",
-    "kind": "official",
-    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "country": "GLOBAL",
-    "published": "2026-11-12T12:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
-  },
-  {
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "source": "Hugging Face",
@@ -41,7 +8,18 @@
     "country": "GLOBAL",
     "published": "2026-11-13T18:00:39+00:00",
     "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
+    "saved": "2026-11-13T20:01:12.282633+00:00"
+  },
+  {
+    "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+    "link": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This&#8230; \n The post  GitHub Enterprise Server support in the GitHub Copilot app  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-13T18:27:13+00:00",
+    "engagement": 0,
+    "saved": "2026-11-13T20:01:12.282633+00:00"
   },
   {
     "title": "XYBench: Helping with the problem behind the question",
@@ -52,7 +30,18 @@
     "country": "GLOBAL",
     "published": "2026-11-13T17:02:35+00:00",
     "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
+    "saved": "2026-11-13T20:01:12.282633+00:00"
+  },
+  {
+    "title": "Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward?",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5",
+    "source": "CXOToday.com",
+    "kind": "news",
+    "summary": " Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward? &nbsp;&nbsp; CXOToday.com ",
+    "country": "IN",
+    "published": "2026-11-13T17:19:24+00:00",
+    "engagement": 0,
+    "saved": "2026-11-13T20:01:12.282633+00:00"
   },
   {
     "title": "ISRO successfully tests upgraded PSLV third stage after mission anomalies",
@@ -63,7 +52,18 @@
     "country": "IN",
     "published": "2026-11-12T23:23:47+00:00",
     "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
+    "saved": "2026-11-13T20:01:12.282633+00:00"
+  },
+  {
+    "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+    "source": "Fortune",
+    "kind": "news",
+    "summary": " Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots &nbsp;&nbsp; Fortune ",
+    "country": "IN",
+    "published": "2026-11-13T17:05:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-13T20:01:12.282633+00:00"
   },
   {
     "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
@@ -74,6 +74,6 @@
     "country": "GLOBAL",
     "published": "2026-11-13T13:00:42+00:00",
     "engagement": 0,
-    "saved": "2026-11-13T18:42:02.919307+00:00"
+    "saved": "2026-11-13T20:01:12.282633+00:00"
   }
 ]
