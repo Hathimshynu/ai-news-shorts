@@ -1,82 +1,4 @@
 {
-  "2026-10-19-evening-1701": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/MmEi4JSOIQs",
-      "facebook": "https://www.facebook.com/reel/1088257697346410"
-    },
-    "approved_at": "2026-10-19T15:37:24.116524+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-19T15:57:41.324264+00:00",
-    "ids": {
-      "youtube": "MmEi4JSOIQs",
-      "facebook": "1088257697346410"
-    },
-    "info": {
-      "title": "Volvo NVIDIA Automated Driving Deal Expands #Shorts",
-      "topic": "Volvo Cars expands NVIDIA partnership for automated driving",
-      "category": "Trending Technology",
-      "hook": "Nvidia is powering your next car.",
-      "seconds": 48.6,
-      "primary_keyword": "Volvo NVIDIA automated driving",
-      "qa_passed": false
-    }
-  },
-  "2026-10-19-evening-1801": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/WikRTOewO44",
-      "facebook": "https://www.facebook.com/reel/3648281462005561",
-      "instagram": "https://www.instagram.com/reel/DeropmYDolq/"
-    },
-    "approved_at": "2026-10-19T15:38:48.972056+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-19T15:59:00.694254+00:00",
-    "ids": {
-      "youtube": "WikRTOewO44",
-      "facebook": "3648281462005561",
-      "instagram": "17987861682084581"
-    },
-    "info": {
-      "title": "MeitY AI Conclave Focuses On Healthcare Tech #Shorts",
-      "topic": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
-      "category": "Trending Technology",
-      "hook": "India is backing AI in healthcare.",
-      "seconds": 50.1,
-      "primary_keyword": "MeitY AI conclave",
-      "qa_passed": false,
-      "posted_at": "2026-10-19T15:59:39.830633+00:00"
-    }
-  },
-  "2026-10-19-evening-2309": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
-  },
-  "2026-10-20-evening-1701": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/_qNtDUnaMwY",
-      "facebook": "https://www.facebook.com/reel/1695163018609767"
-    },
-    "approved_at": "2026-10-20T13:47:19.907650+00:00",
-    "ids": {
-      "youtube": "_qNtDUnaMwY",
-      "facebook": "1695163018609767"
-    },
-    "yt_scheduled_for": "2026-10-20T20:00:00+05:30",
-    "attempts": 3,
-    "last_try": "2026-10-20T14:50:13.432006+00:00",
-    "info": {
-      "title": "DeepInfer Open Source: Fast Offline AI Inference Engine #Shorts",
-      "topic": "DeepSeek just open-sourced its inference engine",
-      "category": "AI Tools You Should Know",
-      "hook": "Open source inference engine just dropped",
-      "seconds": 51.1,
-      "primary_keyword": "DeepInfer open source",
-      "qa_passed": false
-    }
-  },
   "2026-10-20-evening-1801": {
     "status": "published",
     "platforms": {
@@ -1100,6 +1022,26 @@
     "late_offer": true
   },
   "2026-11-12-morning-0119": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-13-evening-1701": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-13-evening-1801": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-13-morning-0032": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-13-morning-0151": {
     "status": "expired",
     "platforms": {},
     "late_offer": true
