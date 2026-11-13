@@ -1,22 +1,24 @@
 {
-  "job_id": "2026-11-13-morning-0151",
-  "chosen": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-  "reason": "LLMON introduces a native markup language for LLMs, letting creators build smarter prompts and workflows instantly—perfect for Indian developers eager to harness the latest AI capabilities.",
+  "job_id": "2026-11-13-evening-1701",
+  "chosen": "DomoAI Launches InkoAI Agent – One Sentence to Ready-to-Post Video",
+  "reason": "This new AI agent lets creators generate a complete, ready-to-post video from just a single text prompt, offering an actionable workflow tool viewers will want to try and share.",
   "candidates": [
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "score": 20.69,
+      "title": "DomoAI Launches InkoAI Agent – One Sentence to Ready-to-Post Video",
+      "score": 20.67,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHF3UDVmM3BFNERTUVprT1BqV3hwNTJFbjdRQTRZc2hHZDZrVWlUck5jS0hRc21IQW1LMjEwdDJ6bC00dUxFVGxFVWllZUZwRWFGdE5Ba0xJcHhNaXRKMjl4V3dqUk5XNFNIdzhGZ2FIV2hWUG84UHJvVFJvRk1rTC1fLXlDbFo3TXkwQTNyOWdzZno4TEZWdThHT2FSdw?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHF3UDVmM3BFNERTUVprT1BqV3hwNTJFbjdRQTRZc2hHZDZrVWlUck5jS0hRc21IQW1LMjEwdDJ6bC00dUxFVGxFVWllZUZwRWFGdE5Ba0xJcHhNaXRKMjl4V3dqUk5XNFNIdzhGZ2FIV2hWUG84UHJvVFJvRk1rTC1fLXlDbFo3TXkwQTNyOWdzZno4TEZWdThHT2FSdw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2JQYXVXMVVBV254cWRncUg3WXNhYWxwVDAzN3RXMkFMdUZnaElCWk1HdFpfODBzMlVJS2JmMmtrQ0hCRXppNW9CWjNkdlJNbnRJR3dFUW02alYxbzYyaTk1aGlUWmY5SEhpM1hZZEJMVVg2aERzRHpKaTFEWEF3cS1CMG9rMWxWeWU4V21RWkFDcTFFNGc?oc=5"
       ]
     },
     {
       "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
-      "score": 27.8,
+      "score": 25.3,
       "kinds": [
         "backlog",
         "community",
@@ -30,38 +32,8 @@
       ]
     },
     {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "score": 24.33,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5",
-        "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5"
-      ]
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "score": 23.54,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5",
-        "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5"
-      ]
-    },
-    {
       "title": "Ground test of third stage of PSLV (PS3) conducted successfully",
-      "score": 29.97,
+      "score": 29.16,
       "kinds": [
         "backlog",
         "news"
@@ -69,27 +41,13 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jM0FPazVCR09FcTd0VmdvQmhReXVfaDVpa1ZDemlQbHJqTVhNUVBfU2V5TTFHS3pGTkFicXhIck1UUUl2R0FXNVFvdHVSeGlKemh1eUFEMV9hX1pNTEo0S3dlTTVQdUxsZ096MS1tRURSeGZzNVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkRLbk5rVlBZT2N2RXpnTWtaTTlNTHJ3Q002clpGcEs2czdHZHRtQkM3SV9GU19TYkFxZEwwY0RXeDFiNW9HcDJCc05UNkIyNVVVOGlGWlhEX1BQMDdJaVNmZmp3bU0zaFB1NFpSV25yV3RKZ0FKdG5YRXk0X2NQaFA2OEd2TmZSd0lnYkRMZE8xejRvRnF5UlNRVHU3NUlwa2JqdTN1WU5BcUdLaUE2Wi1EU1YwR2s1UkNPdlZFdmJCRlhVT2pjWUxB?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalNPRHdwcldHdG5GUUNFUEloUTBNSEtqUTNBOHFLNm55YkdKeU92LWxOeGNqR1RfNXgzdVp4anlnNHVQVGlqV3RYVmlPSTV6Ukg3TVFtWTJFaGVwYVRrdUdCcFlUbk45ZzF0czBKYXh2ZzdwNjVXRkF2TmE3WGp4ckl1ZkFYSXlQV1lMLWxCcEp4SlZTbVYtWDIwX3BGQml6OWUtTURDUUE1ZXRtTkkxQ293M1MzcEhRcDNrYzRJRHY1OXBMY0ZFRjdKaHgyY2JpU3fSAdcBQVVfeXFMT01IM0tHeWY1b0p2Q0x4REJkNTROZDd5QXpUNEluNGdKZzBLakM4SzUtUDhjc3NVUGdmRElFQlJ5bTJ1VzlOZk54N2tZckgxNlJCOVUtNFpxVHB1XzNiY3VtX1NYcHgxMUdNbzAyTktjSVp5LS1IX2ljeWVid3V4RXYtUjFHcnRHXzRzOC1YWmxDbGV6ZHJxQllkZ01lajZiaGdPd3dDLXFzY3dsVHEzRGFrWk9IWnNpcDZlS3NyWFdONU40Z0ZkdkV3b3NURk5YQ2VzNkE0VlE?oc=5"
-      ]
-    },
-    {
-      "title": "After back-to-back failures, Isro successfully tests modified PSLV 3rd stage",
-      "score": 23.3,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSi0zVlBVcGk2RUxNdlNWc01nT3V3VmVTTm00WVYyRkJkLUk1akNtbW9rN29PQXFCc2xOM0ZZTHlYd3NqMnE3WTA2VUFWOGNlOERCQnF4dnFSa1BqX2ZsdlRoUlJLSDlndDgtR24wWlZLRU82TDhVaFVTalN2R3J3eTJlb0V6TEY4OGpLQ29LSE9SMUhqR0RMTDN6bG9OTDV5c1hIMmQ5MUVJRU9EZkNKUThZb2JmSXotVFRZazhic3BQMmotSHVCQlhaSjBHbWVLWThLd1dCYUZYakXSAeABQVVfeXFMUEtmTXZxM2pkRUpQSjM2Z0NQUi1zbUZFekEtNGQtZW1JdmFOWXpiVDZiSmFtSnNmQzVQVTNWZ0M1M2hkaVRsRnp0aFdjaGpJVGU4VnBFbjhuODdiTkR2QlplUmRjYmhKTHFvV2xIY0h0SlBKdEtXY2JFSmloWDVmM0ZzcnNBWE13aFBsNW9LUGNYUFhTQjF4UmtOdVBQaHJHVGwtU0pmaG4zU1RuVGpsTjcxdzhGUE9NbkttWHdmTWx0QjV3MFNkU3NsTGlfSjZOcHNvTGhROGNDSUUzUlk3aTk?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEY2SXVvV0h0REUwSGlYSHZZeWQtcHFVcndTQ3paLWZjR3UxTDdseU91aWdpXzlLbmd2ZFBEZjhaNGxkTVdiYXhXQmgzbGUxUVpsdHdTWFNOWUROVmRqZVcwLUFqeDhrNjJmTi1lQnhRUmxWQnBBSGVoS0EzeWpBMlNEdGZMMUt0bzJkUTdTano1NEdZZlhWNy1DRHVaa2NiQXExTE9wcDE3bTlWTndzQldtTnpON1JWTndEX2xwcjB3X2xlVnZ1MnAxU2FRUVZNZWVDcHBXUll1dWvSAeABQVVfeXFMT204SXFsYUlqcjFGb0x4Mk5ERU9lWXFkQ2txSnNMQkJjeUY5TjlBMXNORkkxbVhSOWJVNDd5a01VZUdrLU9QMWNwRGs4Y3VjenZIdVNlOXZYQVI5YmpPS2dubmhzeGpaUERjZVVWSFNnMTlxdzRDeFFXQ0ZnU25nQzg1NklWZFo5VHpkcE5PQmthRk5DNko0ZW1fRkIycmhuZHJlNndxUkktWUFrZVlFaGpIT2kxLTFqd2k0bGVJS1h4UExFV0ZKM19TSnBuNFNoRGxJcVI4X3Q3Y3owSmdqLWY?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY19ZRDFJM18zbkttaERIbGZMZ2NsMEZKWlc0SmJVRDJTNng3SXRMbDhjaC1ORGdXa3NNOG5ldHppakFvdHAwQTJTYWthaVZlajhTRUVIN0R6Q2FURG45NmxxdEhUSGQyVEV1ODF6dzNMcm9JWUptSjRhSlZaekJqZ2puTll0V2tGaGxkWnN0cU9hWUJpeWxYZ0N5clQ0Vm1DdlAycE0wWEtocG1NbWxqRw?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkRLbk5rVlBZT2N2RXpnTWtaTTlNTHJ3Q002clpGcEs2czdHZHRtQkM3SV9GU19TYkFxZEwwY0RXeDFiNW9HcDJCc05UNkIyNVVVOGlGWlhEX1BQMDdJaVNmZmp3bU0zaFB1NFpSV25yV3RKZ0FKdG5YRXk0X2NQaFA2OEd2TmZSd0lnYkRMZE8xejRvRnF5UlNRVHU3NUlwa2JqdTN1WU5BcUdLaUE2Wi1EU1YwR2s1UkNPdlZFdmJCRlhVT2pjWUxB0gHQAUFVX3lxTE1JQ05TM0xaaDdhTGRGdUV5ckpYWkVuQk1FX0lYcWRUR1hUOXFIRTQ4ckJWSlpta0lIWTJPbERqbkc0OHNpNnlNRWNNcDgxYldhQU5vRWc0dWZxNjVQTlowdUpyNENaSlVDanlZNzllbWlLcjM1aVNSYXc3TGFyLTlabzhBaEFjbkFWZC02dFVlbEJUZi0xckpudVBsdkpFbVA5bmtWVUxjM2lXWkJWYVVoOE44dnk3WGxPbF9nd2ZMdmhHakhmUFd1Yl9QUlB4Zzk?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLTNtUGY3RXh3VENwaE5QODlRZmVGNmRqa2c5bEdzTkhZM19wMHZtYUluVlQ4S0ZXTmR2WUk5OFgyRXM3NHRHOG5OZTJYaUkxVFVsZTVYNGtnRGtGTWd6SDJsX1RBYUcxSFBvd2ozQmljR21SWE9STi1GYnA4ZFIzX29ueGt3UkhfVzJNbW5QQjdnQnlVREhrZGxoeXRYV0lUVUlyeDRJdHpLWVVWcldvcVh4WjRyd3ZLbGhVVW9UZWwxYnpQdDNsZUdBZU_SAcwBQVVfeXFMTy0zbVBmN0V4d1RDcGhOUDg5UWZlRjZkamtnOWxHc05IWTNfcDB2bWFJblZUOEtGV05kdllJOThYMkVzNzR0RzhuTmUyWGlJMVRVbGU1WDRrZ0RrRk1nekgybF9UQWFHMUhQb3dqM0JpY0dtUlhPUk4tRmJwOGRSM19vbnhrd1JIX1cyTW1uUEI3Z0J5VURIa2RsaHl0WFdJVFVJcng0SXR6S1lVVnJXb3FYeFo0cnd2S2xoVVVvVGVsMWJ6UHQzbGVHQWVP?oc=5"
       ]
     },
     {
       "title": "NPCI Introduces UPI Vyapaar Saksham Scheme To Boost QR Code, Soundbox Adoption Among Small Merchants",
-      "score": 23.29,
+      "score": 19.5,
       "kinds": [
         "backlog",
         "news"
@@ -102,70 +60,106 @@
       ]
     },
     {
-      "title": "Vivo X500 Series India Launch Date Officially Confirmed for November 26",
-      "score": 27.38,
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "score": 21.92,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKMTBPN0FPc1ZkXzVUNk5ER055RWJwMGNkM2hXSmV3QTNtcVNBdk9ZTVZ5V2ZxQXFxRTdiMlQzU3lJX1dfbHRPMEpoek85UmdxNXBGbnJMeUVzNmpiNVRSMFZHNA?oc=5",
+        "https://openai.com/business/customer-stories/gondola"
+      ]
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "score": 19.0,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rU0xFcEtSZzVFa2dqY0ZpNmxycDE3UnI1ZEJ4QmJ1bzVWNlNPaGJtMHRodnl6bl92ZWowdzF4UEJfXzlZeTdmRy00RF85a3VKMFdFbWpSWm9yQll4RWZEM0ZVOUlhTnM3TTJDZTFYRU83WjBvM3c?oc=5"
+      ]
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "score": 19.0,
+      "kinds": [
+        "backlog",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlU3UxRF83THdKRE1tMTJwVzA3YVZiY0c3R3pTTVJwYU1zU1dQcEtwRVRNNHJrM19SeWNWS1JJelVxV1EtNmdNQ0x2bk1PMWwwSW53anVWNmRoZjY0LWFoVVFB?oc=5"
+      ]
+    },
+    {
+      "title": "vivo X500 Series to launch in India on November 26 alongside vivo Watch GT2",
+      "score": 27.58,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUJ1M2tOVGRXVXVsMU1RS1I4ZFNxeWtQUlRhWnpPcDJUWXdZUzktUGoyOEVwR3FqejFJYVhDTGRYTVhiejhLbjlDWk8wdE55cDlIYUl2eTQxdFNkRjY3dDFJU0VqOTFMODZJOHZ0RjQ1OTN5QUZDdWE2andkRGFsRzlTR1EtWll6a1RTekxidzRLakR3RHpkblZZYXRPSHAtOEF6Rw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0doV3RxTzlRbHJ6U1I0RHFXMW42azlDZHJCRGFHaVBiYy1SdEgxLUFhS2xXZndlVThUSVpwVkhNNlNzTXViX0QyQ3Y5VGRXSm5TeWhRNGdieE4wWVIxcXdTdjRJLU9QdHRQUnhWYjFESnZ1NUdZM1pIT3pZT2s0WXk5RlJSdnNtblM4eDA1bWctdnJ2bzJMYVduS0xWSFAyQXUxd0l0Z0RlZk9Ea05RS1V5X0EtVlZnTUtKLXdmRUNySzg0VFJERl9YRktPSEltZzN2cExObHjSAd4BQVVfeXFMUHNZYWtDRURHcTF5MkZXbHUxVUREQkpHbnQ5cW00X3Rfay1kNEVfamNUWlNqTGE4VVNQSlZGMnotRTFabEZ3MlowcTRybTFaaWh5bHp6MkNFSkpqN1Q4X2l6VXVEc1lGQ2x5UjNxOUQ1MjdkaHlvSC13Q3JoNUxCN0NRaWV1QzROT1lYbXFLdGFOU2o1d2ZUeWhzS0dRNDRtX3o1MFBRSEtjQmk4N1JTYk5vWDRsMHZRc3lXbFAzTFNNVWJIVFl0Rkx4a2dxR3dKNFFLMlducTUwcU1ja19B?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHM1bTBKMlhMT1duTUZRa3Y1T1VLRDFWSWNlSDQwVmVUNDVvbnNqcy1VUXc4ZWQ5V05VekMzN1FqdDMxU3RxWFcxb0RxZnRRd1E4UTNTUmgxUS1IU2txN016Tk1WNXRNanJyWW5PNXIya1lpNlRDTHoybHBnMHNHTHdJTWUzRWpEVEZRbUdSRkhlenR3MWZoWjhiTF85OWtJZGRJdmkyNnBYeThEcnRnaDAxU2R2UFYxbEE3WFIyVnFyX3FDcTNlaA?oc=5"
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0ctVmJEQW1ZcllDSUxibTBHTUN0eXFISzl5RkJELWd5VUVudVA4cEpOdVNvbENXbER6dzVocXU0dDFQQWhJdEE2MWxTS1d1Sm9YTUl2WjMzcThUT25aUXlDa2RyTk9mVm5kamNJQTdybU1CVFlmemxjOFdReXFObElvTkpLNFBzSmZfWmR6c3c?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVW9qbVVnM3NuWm1VRVE2dDF1VWNoU2gzSlZ6OG5WNEdUa256Vk9BbTlYWUF5WFR0ZXF1RnVydmFlUHMzZm9qTDMwazFUemt5ME1oSlFSUTNyd185R1gxZWpPUjZZUkxmQjVSZm9malJrRFVjRUVzNFIzUjhXcHRldWFMN05abXhfSEhLVlluOFpTMXoxQ2Jta29UQ2xhTWlJQllGazBJaw?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWE8tM2xUd09xa2tOVU0xamp2OHVtWDJhVGFFazdyRExiZXJFbHp5OGpSQlFlcjBRT18tWnhrQUFPVGZNMzl5UC1zdzNtR1NGalMzNUNEOUVOTlBEVjJ0VzR6Q1hkY0Zra3ktNjg0a1RTWU5QeldNY0hNZVRURVYyTXpKVG13TkRnNFE?oc=5"
       ]
     },
     {
-      "title": "From India to the World",
-      "score": 21.18,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1neUh2ZjFxMHhVS19BQXhyd3pVa05oSkRsS01CQTEyU2t2MlVnbkt2bG5HWE9YNURZNmhlTHNYWkF0d3JWR2FvVUt0TE1jR21GNkZNSDhrOS1leXhwVFZpaDRWTDUtTlJqS2pVSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFZpZVJYTE9EU1pXQUZVVUtPbDRaVy01b2RSMDYzVmJHTi0xYkxXNm9wVjF5aG02UGxKN0dHajdkb1NlQWFkcEVjT1V4NmJHdW5sNGtaM3ozWjZWc1FqSEoya2p3d2otWThVeDlYYVhUdnhObkZCVzhPaFlvWWR3b294VVM1WFpwR0hwakEzTDRuWDJGOVRfSDlacUxoOUloSUM5U3N0R1E?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRFFlbUdQbHNkaHZCVTd6U3g4NU5vTE82cXNrT0ZYUmNfTW45M3NLbTRveEVXQ2tMcm1yX1B0aTZmSlhHWUhsTThDQ3pIQVFHMFJvNUVoaTEzY3J3bWF4SWhlc1doWTB2YllIamNraXl5RnFJRnhJSzNRVzZjbnV1dk1fRWZiTGdfVHE4TkJJLUpUNU1Jekd5NTZ6TWZMeDZEaEJ0dVV3RWQ0OWsyQmV1c0c0cDU3VHBXek1obVMwRkI2RXBEb1FOZkc4N2R3MERJbUhQTDFn0gHWAUFVX3lxTE9EUWVtR1Bsc2RodkJVN3pTeDg1Tm9MTzZxc2tPRlhSY19Nbjkzc0ttNG94RVdDa0xybXJfUHRpNmZKWEdZSGxNOENDekhBUUcwUm81RWhpMTNjcndtYXhJaGVzV2hZMHZiWUhqY2tpeXlGcUlGeElLM1FXNmNudXV2TV9FZmJMZ19UcThOQkktSlQ1TUl6R3k1NnpNZkx4NkRoQnR1VXdFZDQ5azJCZXVzRzRwNTdUcFd6TWhtUzBGQjZFcERvUU5mRzg3ZHcwREltSFBMMWc?oc=5"
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "score": 22.1,
+      "title": "Microsoft confirms Outlook outage affecting users worldwide",
+      "score": 19.62,
       "kinds": [
         "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWhsc3hxU0xHRWloRTlLcEU5QkdUYjhVVS1yc2NLMkJ4dGZQUDF4NkJqZWpfU3hJcXd6M3M0WGlkZXBTSDNjd3phWDhTa2hONkVjYUQ4c0FtaFBDUkU1ZU5RTndaVkRDTlVoR1NvREZ3SzRmaF9IVlFYWTZVRmR5UThEVlozeWJsN2JId2dEUlFPSjRETzlXN2tZODNadXhWbkdWZ19yT0RXQXJjdUp2NGFn?oc=5",
-        "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa00wNEdJMHdlejNBR3c2Q3FLckxZeFhtaW9nRXBMVkN1NEdxRkpuSE4tQnlVSG5yTS1Cdm5ZTkg4Tjh3NGJ6bDhfaXVZXzhJMHhINkFBZ0ZCUld3VlNNQXRKMmlOdUdseWk2d1AtUUk0VUJGUDZGT1JRUEsyZk5FMHdNYlVmQTVqN1RuYmF0ODhZUklWUWhiSnBOcFk0R3M?oc=5",
+        "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk"
       ]
     },
     {
-      "title": "Jensen Huang Has Been Ousted as Nvidia CEO",
-      "score": 21.54,
+      "title": "ISRO successfully tests upgraded PSLV third stage after mission anomalies",
+      "score": 22.48,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWVZVkVvX3UtNnFXSVJETEx3Yl9HYzM4cnc5YTEteEdUdXlfQllBdzlod3p1NEtUUWQzcHktdVdEYWR1c2dhYkNPQjJzcXJNVVdCcWNFWlI4a1NjMkNJV3BGVXl2TGFPQ0FlY2xrYS1Ua01WdmNNaFNnZ2k3ZVBhY1JFemVfVm4wZHc?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFFZOGJTVzVWMzJyR1ZpdXV1Ynd6UGpKUTVnVzFrc1haZjdRaWZreWNjSTZvR3FNYjkwemdzV1liQ0FlQzB0Q2Q0VVBzUjV4NnUxTlc4U3lnaWRybUc1ZHJlZF8zaUM3X2t5SFB5ekR4V1JUWnFXUGVOSWVZU3A5b0JOZlp2aGZSVG9vTHRpT0Eyc0FTaGoyemMwcExCQUxqeC1teHF0cExpMFBveHc3YVJKV2xpZGNGV0Zxa3dTN2t2UdIBygFBVV95cUxOaTRSbV9QSmN0VWxaM0E4SjE0NDd3Sk1mMkRMUnpKUDk2N0F3RHcxTmpuQjNMTDdMRFVFeEprUTZVUTR0bEkzWV95VTYtdE1wZ0dKb0Z3bk9oN2U1N2hmamNJeXZWYldfN3p3S0tDQ19lT0IzMWRTRWdXT0psdFVwSmdldVo0b1hkTTg3c0FTT2ZtVjFuVnQ1dkVrT1NFYVczSVFpU3NvVWdFMDd1dDVKWFh1ZkxOcDRYcDJTTFJQU0ZWRzltTDJnNmNR?oc=5"
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbjdNbWl6M0tIV3NvaGFFRC1aQlRsblBKTTBIU0tJRWQtYXhtUkh0R0pId0pLSlkxLURoTnAzVVROcGZDX0xMZGVXbnAwcHBXcWloYWhCQmhjRVI2S0RpTzZsMy1QMFo1dFpHN2VqQnp3U2k2T3BsOENmNmN4QW5ja0o3d3RHUGZQRm5fMk9ZMnk4cGktVHc4MkVZN1JySDZKMENZQURsbVgyTHB4WjhfZl9zRS1tT01pQ0RBRnc0cnlMUTFxeXBLLVl5MV9nN2dqQmszMWwtZFpOUnpjX3BXcDhBSzBUQdIB7AFBVV95cUxPdTJwYklWN0NqTFRhXzVTM3hpVUx5blowM0ZBemN1c1p6SW1pei1feEhMODZDQ3RVUjgtOHBNcm02M1Q0Y2VMdkRFUnlfVGhRM19FMVlHWVMtWlVtZ1EtdVhoMC1aWVpyUElQSm1hQTJrR2pQYzZGTVhSb1JaY1piSGhQYVFOM3hNaWJDSWsxWGpaa0NmWmhvVUF2Sk1jaEpwZXFCb2hHWHAyN2lDTi02RWhNLUZWWkxKVEVBVGhtOW92eHhGZjUyVzZyRE5yZ2Q1c2Z6V2R2eW42U2g0SDhPVGRTZEN3U09nNTJXZw?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9lc3RZVVJEdW96OHBicS0yNXc0Q3lJWWNQdERLNDZsQW9yUk5JeEI2Vl9mX2c5Q1lIeW1KZGEyZ0VBV3dOa0NEeWo1SGtXc0JPc3NaTFhJQ01IOXZ2RlZlZmx6NjV1VUtNVzVZUl9UM3Y4TEJoTU9aNmxFOS1PZmNoaC1xczVuQ01CeE9iZ3NOdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEY2SXVvV0h0REUwSGlYSHZZeWQtcHFVcndTQ3paLWZjR3UxTDdseU91aWdpXzlLbmd2ZFBEZjhaNGxkTVdiYXhXQmgzbGUxUVpsdHdTWFNOWUROVmRqZVcwLUFqeDhrNjJmTi1lQnhRUmxWQnBBSGVoS0EzeWpBMlNEdGZMMUt0bzJkUTdTano1NEdZZlhWNy1DRHVaa2NiQXExTE9wcDE3bTlWTndzQldtTnpON1JWTndEX2xwcjB3X2xlVnZ1MnAxU2FRUVZNZWVDcHBXUll1dWvSAeABQVVfeXFMT204SXFsYUlqcjFGb0x4Mk5ERU9lWXFkQ2txSnNMQkJjeUY5TjlBMXNORkkxbVhSOWJVNDd5a01VZUdrLU9QMWNwRGs4Y3VjenZIdVNlOXZYQVI5YmpPS2dubmhzeGpaUERjZVVWSFNnMTlxdzRDeFFXQ0ZnU25nQzg1NklWZFo5VHpkcE5PQmthRk5DNko0ZW1fRkIycmhuZHJlNndxUkktWUFrZVlFaGpIT2kxLTFqd2k0bGVJS1h4UExFV0ZKM19TSnBuNFNoRGxJcVI4X3Q3Y3owSmdqLWY?oc=5"
       ]
     },
     {
-      "title": "ISRO Scientist Engineer Answer Key 2026 Out, Raise Objection till 15 November",
-      "score": 21.53,
+      "title": "Vivo X500 Series India Launch Date Confirmed: Check Expected Camera, Battery and Price Details",
+      "score": 18.5,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR2JDSXgxTHRfNXIzeExldE5qeTByUkczS2tlSEZTb1ZwSTBNRnhURkdMWFM3Zl9nZTFSdzgzbllhYU5GM2lrdmFuOVJtcnpiZnVXSXFuS1hyU3M0RFBRMEliZzEtVEE2VGFOdGhuVnJ1MTkyRkRwbnB6ZWpUMkNBaG9Ob3FDLUU?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTJNSHNDUTMzZzFaX19SYVZXdGRLQjc1ZVl4YUJ4bXZuNHIzRjdIX3hXRkp3WFhnblBIWURtRUhsTjVxVjhVVk1QNmFXVXJpcWsyV2czRnFfNkdWV2lVMHoyVWxhc2NXenRaZ0NPcTBjMlRMUng5U21NS3F1aEZ1bUYxcWpzdXJtdW9VemU3N1FiWU5JXzRoeE9aNkE4dXpzZXBPV0ozbnZUSWh3TjFScllQblpNTXJrR01NR2RCOWIwR0Y2WUd5NXVCQVJ0N09LaUZaci0xVHdOTHRMZEJrRjB3?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sLXpkVndOV083QU51UWJfMk1vZHVEeHhrdW0yVHppdHZQZ0JvVzlfUGM3NzJzSDV4aEtuQ0R5WUtjOW9ENGduTlIwS2VGdEx4Ukt2RUJLc3lBY0xVcEJ4UTlSX2RxZWRxemNuM2ZacDN0cVZlUEQw?oc=5"
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWduZTJ4M0kwckltd1c3b0xZZzUyaFZiYm5kN2JxSktlR1BMRmpJTmhvdWM4MG84SnhyQkFiOUVmdXF4bTcyQldsYUZRWkR2bGI4RktLd0JSa3NXZFBaeS1lNGpHSkRvMkgxT1FsRHUyVjRGeVE1Z1dvbndfOTlZeGI2T3Y0SmpvbzctcGxPRm5vZlRRbzA5V0QtSm5yNTFQa2RCS1FCXzZ4bTRyZlkxUDF3eGtyZTdUbUNpYWUydlRNMWdRNC0td1owRjJuVjRiUHFtN2dvQl9iYTZnbHNoNmJ30gHoAUFVX3lxTE1hYW5lbkZtaFpRbVYzWHVUSjBrcFc4dGM0bEtOYmpRbWNTeDd2d1BKb0xaY21xQTNqUFJRb0hqR1BZV29QS3FfdnZvenFZRzFSY2wyeVlmMmJPWmZmYTd2RndfSGJacTM4aEItSGc4UFJpY0prc2E4NmVTWUcyaGhHYVU1R3MzQkVHU1lMQThFbjRIY3BQVXViOElDX2xfalZNaVE1aU00bWRVQWtMWnBjY1B0cGNZTHE3V3hWeVk0ajVLRVlIbUJwRC0zb3puam9ReFRySEk1MHZ1SHZLekdidU1oQ1FJRzY?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSZU03VHl1ZmFROGY5WkszMzBvb1p1dGR6dUNtV0RKSGh0Vmt1dGFGa1Bnc2lzU0JycmVpc3pZbmk0cmRMblgwR0tubWRISGZHZVVrajdNdEFKQ0FfVWJObDlxOUhkRzh4d2FWTG9n?oc=5"
+      ]
+    },
+    {
+      "title": "3 Indian-origin CEOs in race to replace Jensen Huang as Nvidia chief",
+      "score": 19.29,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0k4U0h0a2tyYzNJWmxVaUo4VXdoRzFLTjRuUC1mWFM2ZDBnR3JpakF6TkxIc3FBMHdsSG5VMzZZNDBtdFRWQnh2ZXVlVHBpalNtUGUwczZlbXVjc2JQUU5sc2x2Tk1PR2g0VW12alRHcHVKZklvSzRCUGJiaTNFaDdOVURIMXN6ZGZCYS1yeld4Y3VsUlIyUHhjd3dnaVljVno5clBvU28xVmdBN0x5Nl9YLW5ieXpfR0xldThVMldGMkwwblFfUDB5WW82Vmk2c0VhM3VNTjdScXpHZ3hadFE1VExUUktpdkNnR1Ywei03Qkxo0gH6AUFVX3lxTE0ta3NFTDVWZFdfb2tzYVFMR1FMVnB1WXpHUkEzNml6bjhKX1BpQW5rOWJLbUNwMlFUV2pYRVRZNmlhcmNRUndfMGVBUk5NSDViMUNJanFOYVlTV0ZqZUlNdTBlWk13X0dIZHVSZXdFY09EX3VRY2RhVnRRNHRsVGVQWDBhMDAtaTNDdzVYQXE1QTdXR3B3Sm1YUWs4cmx5ZEhuRnZBa1RaelVZMWJLZUZYZHlEeUJYdHMzblYzZ3ZWVWUzeGdubF9NU3hpczlhUjR3NEdHNkFEclUxblhUZXZHbXQwVGlMcnpSR1RtdUl6QVRXdW9jVGtVbFE?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFQwYlVwYk5qajR1M1NVX1NySjJzZTNqa2ZLcnFJQkhEMnNiM0xsNjNDWFpLUGFzdUtHRV9ON3VCSWF6enFSVTM2MW1MLUotZEpYSV9QT0dEVEoydU8zdG5Jd2RfclFkN1R3WW5IYVB0QzAyQm5kb19vdE9LQ0pMVzhrTDBWTU5ZWXdiNkZOdXFuY2c0LUVib3BRVkdGMGZwd2ViTnFkdkRGRGlqRzFlSlJ0M0RVc2RyLV9ZaG1QdkNHN0pyVVZ2NUljQmM0XzU5Ykk00gHYAUFVX3lxTE52eWRRX2VNck54UURrX2pjRF8xeDJlbi1VMUpoYVhUN0VLVE9UNUdFTkRlNHZvZnplN1RhOTVrd3RBYXk0eTRlZGVJejJCY29KdzJtR2tVVHpRWFpXbUtxb2hzc3RqSkY0X3NJQWJTczVkaU1EWU5LYThkRGh4VFExcWtGcXpIM0o5a29LRlEtZk1jenpYMDVEdm9PNURfbFNNUUh1c1JheXRYWUd6OXVMQ0JRVnlHLXFsS3d2OEtlbEdqdW1oenREQVZvVXlMNUVGcnBna21oZw?oc=5"
       ]
     }
   ]
