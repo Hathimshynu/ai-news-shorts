@@ -1,24 +1,25 @@
 {
-  "job_id": "2026-11-14-evening-1701",
-  "chosen": "GitHub Enterprise Server support in the GitHub Copilot app",
-  "reason": "This official GitHub Copilot update enables enterprise developers on self-hosted servers to seamlessly integrate AI code assistance into their existing private workflows.",
+  "job_id": "2026-11-14-evening-1801",
+  "chosen": "AI Autonomously Conducts Life Science Experiments; \"AutoDNA\" Raises Dual-Use Concerns, Sparks International Rule Debate",
+  "reason": "AutoDNA demonstrates how autonomous AI systems are beginning to conduct end-to-end scientific experiments, offering a fascinating glimpse into the future of automated laboratory research and global AI safety governance.",
   "candidates": [
     {
-      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-      "score": 18.73,
+      "title": "AI Autonomously Conducts Life Science Experiments; \"AutoDNA\" Raises Dual-Use Concerns, Sparks International Rule Debate",
+      "score": 18.14,
       "kinds": [
         "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5"
       ]
     },
     {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "score": 18.62,
+      "score": 18.37,
       "kinds": [
         "backlog",
         "official"
@@ -31,20 +32,22 @@
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "score": 22.2,
+      "score": 23.95,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT19HREQ2ak94bEpPT0hvWi1MdWlYUlRVRzE5bXRYR0FrZktvM2dTNjBPcHFKbVR4VnlITUNEUXhBUFdKZFN2Vkc5cUJzUC10ZWo4X3hISWh0YWpaeWt6SXR3?oc=5",
-        "https://openai.com/business/customer-stories/shield"
+        "https://openai.com/business/customer-stories/shield",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT19HREQ2ak94bEpPT0hvWi1MdWlYUlRVRzE5bXRYR0FrZktvM2dTNjBPcHFKbVR4VnlITUNEUXhBUFdKZFN2Vkc5cUJzUC10ZWo4X3hISWh0YWpaeWt6SXR3?oc=5"
       ]
     },
     {
       "title": "XYBench: Helping with the problem behind the question",
-      "score": 18.38,
+      "score": 18.13,
       "kinds": [
         "backlog",
         "official"
@@ -56,22 +59,21 @@
       ]
     },
     {
-      "title": "AI Autonomously Conducts Life Science Experiments; \"AutoDNA\" Raises Dual-Use Concerns, Sparks International Rule Debate",
-      "score": 18.39,
+      "title": "An AI enabled underwater robotic arm showcased at the Asia Pacific Economic Cooperation conference in Shenzhen - India Today",
+      "score": 17.96,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5"
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUh0MENSMXVmcmlISTN2TUo0ZS1GM1NScWtVVWljYjJaZUU0VjdXbkUyQ0pJWWlBLUQ2alRNNU5zVHhXejZqUVUtYVFud0VpNEp4bG9yQkNSNGhDS0tSTHRfM1ZTUUVjWUhuc0owZ1FXdkVqR0gwbUZSd1pGTjA1Y3lENnlLcVpjUWVIblFfeWF0TnEzd0VmelEtQzVpOUd6VVVGYkFKcXg2dEkzdmJrUW00NHExZXFBNG9sMVo3TXRpVDdoYVlMSTNmY0wtbHhpRV9uMnJGWkFrUjFoQnfSAd4BQVVfeXFMUHlIdDBDUjF1ZnJpSEkzdk1KNGUtRjNTUnFrVVVpY2IyWmVFNFY3V25FMkNKSVlpQS1ENmpUTTVOc1R4V3o2alFVLWFRbndFaTRKeGxvckJDUjRoQ0tLUkx0XzNWU1FFY1lIbnNKMGdRV3ZFakdIMG1GUndaRk4wNWN5RDZ5S3FaY1FlSG5RX3lhdE5xM3dFZnpRLUM1aTlHelVVRmJBSnF4NnRJM3Zia1FtNDRxMWVxQTRvbDFaN010aVQ3aGFZTEkzZmNMLWx4aUVfbjJyRlpBa1IxaEJ3?oc=5"
       ]
     },
     {
       "title": "Simply Put: Artificial Intelligence",
-      "score": 51.86,
+      "score": 53.61,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -82,22 +84,10 @@
       ]
     },
     {
-      "title": "Musk backs petition to reinstate Jensen Huang as Nvidia CEO",
-      "score": 21.78,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEktVWlMMmV2NnZWZjZLSW9vUWotSk9WQ0MyLTc0cWUtT1IwYWdnQnBmU0xiSEtnbm92bTVlNmRpZVdKNnlhcDV5TF9HRVMzdjVaU3B3S21GZkFfLWFtU3RxUnNWSFV3eVZoTEUycng2MXZmYmpHU3htalZKUjNXSU9kUmF1bXpPOG5LS19TMC1KanZ3ZWZWUw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhlbTRQQ1N5SDNnU3V2a1BObGlkTXFTUm5QalRXS1NIaXVYUU4yajluRkwxdUt4ZllpNVpCVWdHOGM3Q0Jqc3BXRWxobnJzcjdxYkZ1YU9kZ1pmX1gyZ2JTT3BYbWVRTlR1VkZjemZkTmhrRjYtUFlBbmdidTdtQzhpMlR2QldFUlF5ZVlXUzhXb0J5WmhXay1LVkdsVkNCQ3pxaWRHZXk5UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUZsbmhibnh6Tjc0M3pqUjh1ekxhS0JFcUpad2h2YUpDNUUzU3pkbmxxZmFVZE1OdWYzVDFUUnY3aThBTWs5ZmlNNHNKZ2ZiQTE2QXdobk0yVTIwZkNLQ0t0TGdOeDZ4MmZsT1pfSmtMMkwxNWFTWTF5RzBnNDJHNy1fX2Q3dXZpMFpaRDVsLXZMSDVlZzEtc25VVXhUcUZsbmlTbGhiT0pYV2NVZFZrM3hvUU9CVzZvLVdRQlpoaw?oc=5"
-      ]
-    },
-    {
       "title": "Vivo X500 Series Prices Leaked Ahead of November 26 Launch: Box MRP Starts at ₹1,69,999",
-      "score": 22.93,
+      "score": 24.68,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -109,7 +99,7 @@
     },
     {
       "title": "Vivo X500 Series Box Prices Surface Online Ahead of Nov 26 India Launch",
-      "score": 19.83,
+      "score": 19.58,
       "kinds": [
         "news"
       ],
@@ -117,24 +107,37 @@
       "links": [
         "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lVFdPaDdiV0ZwQ0xmNzV5VzZZa2p5a3BTeWMwQWRJdHhGaGh6c0daSlpXVHNzYWJRdFRDeVVuUV9NUk1VTVdmUi1kdWRSUDZqYl9XV2hKWWE1SVZRVWNvWl9XWHdMZjJQaXRYLWNLdHcyTUZ0Q1djbEln?oc=5",
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW4tVm5KSl9YUHdxWUtCbDI3bHFZSms2U2tCTGFIRkdsYVlDbk5TZmkxQXMwZnN4QWZoQUc3a2kyQVhHWC1KVjIyZFYzWTE5Z3RzcGdHSnRRRGc2cDE1YjNBaDVlNDYxSkluRTRKNDNHR213SVBybmx5Um0wOXM4NC1UWTUxY1pQQXYyN0VmWGQwMWM?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEdQR2Ztd1VDdGNSY2RVcklHdkhNUGFhTWZGbHRwdHJHVkNPdDJSY093dFA3b29HandSM2F0VVpWN0FfeDM0cGJLWmdiaXgtakdfTTlxcDBvTjNwZ3ZvZHRUNGdwWjBkSURnZUNVZ2UxZ3dVT3N3aUFhbWVPSVNJTG9ZSEh6WEpPUlhJaThuemRfRk1EZ3kxTzZHSEpoRnhjOFRv?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcU1fZUthNXV6b0U4Mnd1dGVmVHE5bkF0Y0FlSlU2eU8zZkdwMjRNTkRIYlZxdUJkamZkWFVqay1ZQWdnN1lVTEw2NnJQakJWbjltT0V1aFlkLUdveThhRlZXQk12M1BIdFZjSXRkbGFmcWJTRzVrR1ZZV3pSdTlWdDlDMWdlakhRTXgwYlNUNWttMDRNclJQdWJ0enB3a0Jjc3ZFWW5la0w?oc=5"
       ]
     },
     {
-      "title": "Xiaomi 18 Pro, Redmi Note 17 Aura India launch tipped for January; Xiaomi 18T coming in 2027",
-      "score": 19.28,
+      "title": "Xiaomi 18 Pro, Redmi Note 17 Aura India Launch Timeline Leaked: Check Expected Price",
+      "score": 21.03,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOURvclFIZktGZWVUR0ZUM2VkLVNxbEFPdjNpLVFKTFFLYW5jd1FYaW9seEJDc05GOFp3TmprUHdBaV9JeDgxd2l2VGZCSDhOLXNsZXplbkVKeDJTeXUtUGs5R05fTjFxcjZBQzFIQW5mR010aWNVTHJfYzFzVGNiUFBFVHUtV1B4Znk00gGQAUFVX3lxTE5aaktLVnY4b092MWlNemtodUJUUVVQaXpxRUI4TTh1UnQ1VHlQWnlHTjBRZFdfZDhtWjNSR1J5eDBKSHZEc3ktZ3hjM0FwdFFacFlSMW5IN2p0VUZXTWRmSUpzbXMwSnZ3eW1USnNqQ3FJOHk4VnRrR0FITkRuMHM1dUlsQzVDSHdRNHZRUzhRNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGlTVzFGd1VrQWJuMTNhTGRFZ3l1SUw3ZlliQjB4UE5qVEZUajZZNVRwSXUxQWI1N0hIbkh4TExTSFNoN2VtejQ4elJuaGo1LXpHYVpHNjFZZWJJTWhfX3RDaFM1OHZfZ2lqTEVWU0RIZ1d5T3llbUhqNVRKZmNMYlVUd2lmQzctbldqMUc4RE9NNktmTFhrLW9EamM4TTJ1V1dVdGtHQW42cjdxNk9pVFNlRUE4STlXclV0MHRscFVEaThxSUtPU9IB0AFBVV95cUxPTXJmbzFjV3RBcXdfdERUeEViajRBYjJjM2xaZXpDZURUNFlEQjFDSFNEemJENkV3eWVyQ0VVOG1jb0NVRXd5OW5zMnJLWk5iWTdQN3Z1QXRzRkJvY0c5YjJNRmk1QXYyMUVYMGF2QjZiVnczejloUXVpSVRBYjJZUzlReVhPWjVScmpKRGFFbkRxMFFrTzdRUlEzMkkwWkNLWXc4Mjk0Rm9WLXp5QVdFVzRJSTJINjFWVEhURWNiX3JRWWEtRzRPRVQwRTFuRXV4?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODhleHpwek9sZ18yNms4cG5KZTdjdjJCeU42Q0E2SjFVSmpFZFdOX3kzdVp5QU1TUVJPLWxGNmtwQ2llSHpGUzItVXkyaE5BSE1VQXU3bExjYzdZc0JZalRvc2ppYzZ2RmZqNDd4TWU3Q04zOU5IZThuUG4wVTNueUFuUF9qRWFXbUM3UWRiRmJ3eVE4YUU5Y3MyUElTdGp0cnM3V0R4bzk2SWxSTXNNMEVUOVNCR28wcFcxUQ?oc=5",
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUVFNjhSOW80SVlnazlhOWwzRWVpVGk3RURIc2s5V1BXZE1CdzFScGNfNGRCeGE1eHJyMFZPdnpVVnZna1JqV0ZvZE9jR2FhdnYzY0lOc2RlVWx4aEZPWENsd2h6NmxDRmhyUzBNb3RuX1ZXNFdMd08yRGpRZHQ1SGNYeVVFLUVnWENxbHo0WHpLa09ja2tiOGNmR2tHdw?oc=5"
       ]
     },
     {
-      "title": "Huawei's next nova Flip could switch to a wide form factor - GSMArena.com news",
+      "title": "Upcoming Samsung smartphones in India: Samsung Galaxy S27, Samsung Galaxy S27 Plus, Samsung Galaxy S27 Pr",
       "score": 18.37,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNUkyUi15cDMxd0dNa0o2bkVRdG5iVFkydlpTbjlKSkVCZmRzSGdaaGY1NzZNZ2FUYUtrcGtjR2dDRk5LRTNnM1Z2YnlPZXhNb1RYZFRPY0RXcXJ3eTZfcThGNVFveVUtNGp3dExiV25jU2owSXVST2REUzdubjFIbXFuUEpMU0xvWC1BQU8zTWEwTHZCeW5pMmtZb0FJTWhLYV9FWFJxWk1hUTRheVV3VTRmQktqX0ZmMm9hS18wYkIwSkhvVFJnWU5zc1lwTF9HVml5c01HbWJRN3N3QUxvRUhMVGxnSUwxMEJBWnNYMjUzYmNiellrU2p0OElObXdhUVlhcTJrWmU3T0ZHZDE0aFVIa01WQ1dPWm1uTlVJVXZqQndPQWE1cjU5S01CX1ZvNW8xWFQzRkEwaVQ4NlpfbVc2cE84d9IBywJBVV95cUxQcUlPUkZvVG96VFlIZ3VEQ21YdHp2amV3M1k5a1J0VUJyQ0lfeWhtd2N6YWVsM21IU1lqcmExZjI2QkVJaGZYcG5ZVmNXY3hDSUNmSE5BSnFVVUd1dFBTcnlvcVZfcmhsOGI1UDBTQ19VWWF6eHJyMUtIVUx3OFU3c3dLWW5BZmdIeC1pTkFWcTBqMmlJbGJ0UnB0UlRkb09VZzRWekxLMjFTT3E5eDVXZm9tRkJ2VFFNaHpZc1NFX2lZODAwMFR6d2J2MmlvY1VXX2dPRnJxTExKZDh0b2FqUms4cExsSWY2b3VGY04taWVaMTdEcGpINVZBM3hYdzNJSlJTU3k4RTdXV2tyZm90MFFxSkFid1k5U1hYM0xPNFBaLUVaT1FZUEx3bFRmamkzTC1MbUxfLTVUUjJHTjdsUmFYWU5oTlZSVzNr?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM19wNzQ0d052b2IyblAxWXhKclQzOFZDT3pydXdGWWxTcl9OZF9TN1RQZWNWdGRzYkYzSHJ6WEUtUFlkNzhTYlZYb2FQLXdOMl9Cam9uNkltaEZpc1FPZ09lcER4SnVoM3hFeWRKeU5TOUFGM3NiTjhnX2JFeFNZQ1NvQ055RXdjWk1JX2pRa1pmVkNuWXduYXI1bU4yNlVfZVhTcXBoZ3NBb0syc0YwUklPdnhJVEpsUGtSV0xTaWt6dG5fTnYtVFdBSnlBbnJfNlFHbmZKWE1lWmNQMnVQSEZkZVlFUUpZVHZkV1pCdjN4aWY4REFmdDRn0gH_AUFVX3lxTFBqYmlCLTBlbXRJLWxWM25ZdldZWDdsVnZuaHpvMFNJVEQwWWdROUxLeVJ0TUs4QXhSaUtaWTJGcTBsaTdObkw1QlBHdFFBbTJNLUdLUmtjWUhLX0dkNkpjQ3dfcmhxRXZZQmZVVGh5Qk1Ud0FPSGdPdXVOQWpRZVI4SENqeGttdERCeDVHcTltekY4LWhDRHF4YUpabGVjRHlsbDkwZ2ZwMnc1T3FzbE9QVTI4U0xMVFRhMWxZUDJoX3J2eDBQWmROMkJhVUhiazZ5RkxjNVk5Wjgxd2tUa1RHY09ZWkN3R2c3TkVjQTJQNktkcDZ1ZzdtQ2dENGRacw?oc=5"
+      ]
+    },
+    {
+      "title": "Huawei's next nova Flip could switch to a wide form factor - GSMArena.com news",
+      "score": 18.12,
       "kinds": [
         "news"
       ],
@@ -146,16 +149,16 @@
       ]
     },
     {
-      "title": "NYT Strands hints, answers for November 13, 2026",
-      "score": 18.66,
+      "title": "Reports Say GTA6 Physical Edition Codes Visible Through Packaging Under Strong Light",
+      "score": 18.64,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Vkw0VUhpVXQ4U00wZUNKa254M2JJS0J6NnpGSEtwRmNmX3dKVlI0ZDZTTURqck5ndEIxM1J5a1Y3MTQtUVRoSjV0QVRoRjZFb1EtVUY1V0tjbWNSOWtVdWk3ZlJXLUZVdnlLSnFHMWF6Q3BYZEE?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Vkw0VUhpVXQ4U00wZUNKa254M2JJS0J6NnpGSEtwRmNmX3dKVlI0ZDZTTURqck5ndEIxM1J5a1Y3MTQtUVRoSjV0QVRoRjZFb1EtVUY1V0tjbWNSOWtVdWk3ZlJXLUZVdnlLSnFHMWF6Q3BYZEE?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Vkw0VUhpVXQ4U00wZUNKa254M2JJS0J6NnpGSEtwRmNmX3dKVlI0ZDZTTURqck5ndEIxM1J5a1Y3MTQtUVRoSjV0QVRoRjZFb1EtVUY1V0tjbWNSOWtVdWk3ZlJXLUZVdnlLSnFHMWF6Q3BYZEE?oc=5"
       ]
     }
   ]
