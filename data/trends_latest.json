@@ -1,38 +1,11 @@
 {
-  "job_id": "2026-11-14-evening-1801",
-  "chosen": "AI Autonomously Conducts Life Science Experiments; \"AutoDNA\" Raises Dual-Use Concerns, Sparks International Rule Debate",
-  "reason": "AutoDNA demonstrates how autonomous AI systems are beginning to conduct end-to-end scientific experiments, offering a fascinating glimpse into the future of automated laboratory research and global AI safety governance.",
+  "job_id": "2026-11-14-evening-2246",
+  "chosen": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "reason": "It highlights a practical, real-world case study of using OpenAI to automate tedious legacy workflows, offering great practical value for tech professionals.",
   "candidates": [
     {
-      "title": "AI Autonomously Conducts Life Science Experiments; \"AutoDNA\" Raises Dual-Use Concerns, Sparks International Rule Debate",
-      "score": 18.14,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5"
-      ]
-    },
-    {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "score": 18.37,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
-      ]
-    },
-    {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "score": 23.95,
+      "score": 22.76,
       "kinds": [
         "backlog",
         "news",
@@ -46,46 +19,81 @@
       ]
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "score": 18.13,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/allenai/xybench",
-        "https://huggingface.co/blog/allenai/xybench"
-      ]
-    },
-    {
-      "title": "An AI enabled underwater robotic arm showcased at the Asia Pacific Economic Cooperation conference in Shenzhen - India Today",
-      "score": 17.96,
+      "title": "Why India escaped the global Microsoft 365 disruption and how to develop lasting cyber resilience",
+      "score": 17.75,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUh0MENSMXVmcmlISTN2TUo0ZS1GM1NScWtVVWljYjJaZUU0VjdXbkUyQ0pJWWlBLUQ2alRNNU5zVHhXejZqUVUtYVFud0VpNEp4bG9yQkNSNGhDS0tSTHRfM1ZTUUVjWUhuc0owZ1FXdkVqR0gwbUZSd1pGTjA1Y3lENnlLcVpjUWVIblFfeWF0TnEzd0VmelEtQzVpOUd6VVVGYkFKcXg2dEkzdmJrUW00NHExZXFBNG9sMVo3TXRpVDdoYVlMSTNmY0wtbHhpRV9uMnJGWkFrUjFoQnfSAd4BQVVfeXFMUHlIdDBDUjF1ZnJpSEkzdk1KNGUtRjNTUnFrVVVpY2IyWmVFNFY3V25FMkNKSVlpQS1ENmpUTTVOc1R4V3o2alFVLWFRbndFaTRKeGxvckJDUjRoQ0tLUkx0XzNWU1FFY1lIbnNKMGdRV3ZFakdIMG1GUndaRk4wNWN5RDZ5S3FaY1FlSG5RX3lhdE5xM3dFZnpRLUM1aTlHelVVRmJBSnF4NnRJM3Zia1FtNDRxMWVxQTRvbDFaN010aVQ3aGFZTEkzZmNMLWx4aUVfbjJyRlpBa1IxaEJ3?oc=5"
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVBfREU1a09iRTRPbjRkMHhQU0hDU3Y2c2VYMTJpZ1hKbWd1SWFVWW9WcmNGd1NvNF94eno4Tkh4Nkc2MzBscVI0SlQ5VF9Wa1BKemFpaTVxYUNfWFMzTV9xOEF6bXJKTHVfWUx6MWV1bzl4TWd0blNoM3ZGZlpvLUR1cnpKU2xkNzJ3OHo2WUFsak1EdVpLVzdHeEpidlNoN3cxUTNRVlZBQU1yaU1SZXY0OE93UktlcDB6TWJxMC16SF9wNVUyUi1iOTcwRkxPSWJFYlgzS0ltbTZPOExVWUhuM2RHbG04VUxXY0lqdkxUd9IB9gFBVV95cUxNRzBLblBxMC0yTHgzdlN3OExUcEJTWC1ERnJ2ZUJ3WHozZ0h6bVlVUzlERi1NT2FNbXUwQnhyd1NhcWQ4NWw4NGo5b2hBdmVvaWtPT3huUmpBcXhMcDJBbm1UdF9LLVRrdm9jOW5kM2pObE5oYWx0eVhiQzkyRUtoYXh3amE5V215WVQwMXZQMFJLVEVqWUNZLTRuYzhXYVdoMlVDYXJoVXR4NDRCbzFKTEl3SlFpUWhnM195T2FFQXBpYXhENXUxRnlLam14NlBSWEZYMklnOGo2eUsxRDdXQWVHT3ZrNnhfUFJ5eDV2SVd4ME1FaXc?oc=5"
       ]
     },
     {
-      "title": "Simply Put: Artificial Intelligence",
-      "score": 53.61,
+      "title": "What happens to refunds on UPI payments above ₹2,000 when MDR rules kick in? | NPCI yet to announce a fixed implementation date | Inshorts",
+      "score": 17.8,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWx4WGhFUklxTXpzcVJlUnBpLTBEb09QZlpMOVNUUkc3YXN3S2Jnc0VKemNMZVRsZTFvQXlxcGpES2VtWlZFczgzTW5rUjBKWm83a3FGVldtZ3M3dXl3dDNWcVY2LWpJNFZpdHFHNUp5NTJrX0ZYSmNOd2ozTkk2dnVlZC05VlBTR2VGS2Z2MUFtbnppX0N1aTUzekVmNzVqRTNHOXlkT3c3RGItQjlDMmNMM19naTY3SF9n0gHAAUFVX3lxTE52WDlQYUhqNjh6Zy0tRldEOHZtbkRaWm5NenFETWlhNldZMUd6QjZMYlJmVkJ0OVA1aG4xRkxfZzUxbTRRWXNyd1ZDRXB4VEJMdm1jeVNjNjhTZWZwdU1xS2tnS0ljVzR4c3d5VUh5cF9td1U3aF9yaGhja2RKT1JSMFNqWFJKMEJoM2N5eVltbHNmbVBVSHpZRUM1VXQ1SklqVGlrdGtMUTF1cksxZ083SnFaWk81LVZGZ25raE15Sw?oc=5"
+      ]
+    },
+    {
+      "title": "The Future of Tax: Finance, Digitalisation and Artificial Intelligence",
+      "score": 17.76,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1pscEcwMlZtVklOaGdPYnZJM2NrdTE0VUtTa24tQVVLa05pMHdtUWFTSjFLU3JsaFR4eWs4WUxjdEhRNGhNMUF2T3RJOVlLVmxxRzM4aHlYSlNRTTNlLWh4aEJ4UlF0ZnNKbEFEV05hNGdtZUpZVVN0V1ZQQUxkVV9XeEtUQXJLcjZURjA2R2U3MjRGbklidUVJSndsSVpqamVKZVpyazZLRTd6RW56MzVUcHlLbXF1TEVJX3VudnV3SElKRHBVdVk4a2hjWEIxT2dBRzg0OA?oc=5",
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0sxcC1XLXFhT2I4R3pYUV9EYVg5SUN6SWUtZ2hVRWkyQnNwYjlhY2RzN3Y3bFo2Mm4xWjJiVjJCaWoxYXZKbkJ2Z0lVd2pjTk05SEVxMXdvYzloOGYxUkNDVmcyeTM0bnVBaW53WTJaVUlWOTNZQlZlU25oT0pwRW5ORzV5dnNzZHlEQnNKaUY1ZzIz0gGUAUFVX3lxTFAzSzFwLVctcWFPYjhHelhRX0RhWDlJQ3pJZS1naFVFaTJCc3BiOWFjZHM3djdsWjYybjFaMmJWMkJpajFhdkpuQnZnSVV3amNOTTlIRXExd29jOWg4ZjFSQ0NWZzJ5MzRudUFpbndZMlpVSVY5M1lCVmVTbmhPSnBFbk5HNXl2c3NkeURCc0ppRjVnMjM?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzN5UG12WGhfRHdUeUxpLXE2UnQ0eFBuLTJ3QUtHMUZKa19kOW82TUFGeWRrLTNXWDJzQWF1ZjY1WTREek5qUVI3bE4xd1RyMFp0QlZFUk4wX25nbDJYTDZMSWgxU2RDLVA0WW1JdFNHTmRwZW1uV0ZKZWZvbzF4V24wcEFZQU00c0Z4Q194ME1NanFUZzl6a01sNlE2alA2MFpiWGJwWm43bmVPaHp6NzBlVGpLc0tN?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTm9yNU9nZEZ1SU95cWduaG44UGpHQURmcEFZZjgycWFfcnl4UXhLalVGVXVpSmVSanozZXowdW41a3ZMOXJrUkVoWFRraHg4UXpsa09WTkp6ZlJEcExMOVRxZi1IQjFMcHcxN3ppN01LTnIwbmFmME9idlpraTlFWlc3QjZOejJaYXNhcTZBZTFRNGRBTlgyRUh3TlVRRmJPc3ZkbVBwSU5kWkxm0gGyAUFVX3lxTE5fZmVCWkFPSTVBYTlUYWxPUHdNN05zUmgxMVRPSnd6aXpILVVoLTR4MlRJakJIaEhWQ0ZjNUFCT1V2Ym84dnJNXzVzdDdSdXNzLVVpWGI4am1icFZiZTRYSXUtdUkyODl2UGg1SXdtVVRDRW5WbUJSLXE5TFRuU0Vldm9nMFBzRl9VWGJwbjFEdEtXdm1qYTd5SE1wUXhkbGZvV0ZUV1lTQ3lmaWJ2NWRneGc?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0sxcC1XLXFhT2I4R3pYUV9EYVg5SUN6SWUtZ2hVRWkyQnNwYjlhY2RzN3Y3bFo2Mm4xWjJiVjJCaWoxYXZKbkJ2Z0lVd2pjTk05SEVxMXdvYzloOGYxUkNDVmcyeTM0bnVBaW53WTJaVUlWOTNZQlZlU25oT0pwRW5ORzV5dnNzZHlEQnNKaUY1ZzIz0gGUAUFVX3lxTFAzSzFwLVctcWFPYjhHelhRX0RhWDlJQ3pJZS1naFVFaTJCc3BiOWFjZHM3djdsWjYybjFaMmJWMkJpajFhdkpuQnZnSVV3amNOTTlIRXExd29jOWg4ZjFSQ0NWZzJ5MzRudUFpbndZMlpVSVY5M1lCVmVTbmhPSnBFbk5HNXl2c3NkeURCc0ppRjVnMjM?oc=5"
+      ]
+    },
+    {
+      "title": "Motorola's New Flagship Packs Bluetooth 7.0 and Wi-Fi 8 First: A $1,600 \"Insurance Policy on the Future\"",
+      "score": 18.53,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b1BlNGJGSjhwT2JIVlptWVl4ZnZUcjZiTnVfczVQR0t5U2hxaldVN2FDeDhtdi1rQjZKYWM4dXZWQllqd2U4dDlNV0JzNV9RU3VOMFY2TWd0WTZ4Zk43NWEwSHFGalAzUFg4RWJUaVdsQllSOGc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b1BlNGJGSjhwT2JIVlptWVl4ZnZUcjZiTnVfczVQR0t5U2hxaldVN2FDeDhtdi1rQjZKYWM4dXZWQllqd2U4dDlNV0JzNV9RU3VOMFY2TWd0WTZ4Zk43NWEwSHFGalAzUFg4RWJUaVdsQllSOGc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b1BlNGJGSjhwT2JIVlptWVl4ZnZUcjZiTnVfczVQR0t5U2hxaldVN2FDeDhtdi1rQjZKYWM4dXZWQllqd2U4dDlNV0JzNV9RU3VOMFY2TWd0WTZ4Zk43NWEwSHFGalAzUFg4RWJUaVdsQllSOGc?oc=5"
+      ]
+    },
+    {
+      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "score": 19.18,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5"
+      ]
+    },
+    {
+      "title": "Weekly Startup Funding News: Indian Startup Funding Slumps 90% To $25.2 Mn",
+      "score": 17.65,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEo4WWNmeUxPNXdZTTZLYVVOM2tlMnhhMWRfYUthWklXeV9RYjZEQU1GYXotbFRMWjZBeE5tWmxKMXR0YWRoSlN6aE5Zc0lYQ1h2Q3d5YjVoTi1mZDlFdHQ3d3NYemZpTlRIeW55ZkpOd190Z09ORko4TGN0R3VUaWhTOGhsTWJ0c252VUVTUE9BbG02a3A5Qg?oc=5"
       ]
     },
     {
       "title": "Vivo X500 Series Prices Leaked Ahead of November 26 Launch: Box MRP Starts at ₹1,69,999",
-      "score": 24.68,
+      "score": 25.96,
       "kinds": [
         "backlog",
         "news"
@@ -99,66 +107,51 @@
     },
     {
       "title": "Vivo X500 Series Box Prices Surface Online Ahead of Nov 26 India Launch",
-      "score": 19.58,
+      "score": 20.4,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lVFdPaDdiV0ZwQ0xmNzV5VzZZa2p5a3BTeWMwQWRJdHhGaGh6c0daSlpXVHNzYWJRdFRDeVVuUV9NUk1VTVdmUi1kdWRSUDZqYl9XV2hKWWE1SVZRVWNvWl9XWHdMZjJQaXRYLWNLdHcyTUZ0Q1djbEln?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW4tVm5KSl9YUHdxWUtCbDI3bHFZSms2U2tCTGFIRkdsYVlDbk5TZmkxQXMwZnN4QWZoQUc3a2kyQVhHWC1KVjIyZFYzWTE5Z3RzcGdHSnRRRGc2cDE1YjNBaDVlNDYxSkluRTRKNDNHR213SVBybmx5Um0wOXM4NC1UWTUxY1pQQXYyN0VmWGQwMWM?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcU1fZUthNXV6b0U4Mnd1dGVmVHE5bkF0Y0FlSlU2eU8zZkdwMjRNTkRIYlZxdUJkamZkWFVqay1ZQWdnN1lVTEw2NnJQakJWbjltT0V1aFlkLUdveThhRlZXQk12M1BIdFZjSXRkbGFmcWJTRzVrR1ZZV3pSdTlWdDlDMWdlakhRTXgwYlNUNWttMDRNclJQdWJ0enB3a0Jjc3ZFWW5la0w?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEdQR2Ztd1VDdGNSY2RVcklHdkhNUGFhTWZGbHRwdHJHVkNPdDJSY093dFA3b29HandSM2F0VVpWN0FfeDM0cGJLWmdiaXgtakdfTTlxcDBvTjNwZ3ZvZHRUNGdwWjBkSURnZUNVZ2UxZ3dVT3N3aUFhbWVPSVNJTG9ZSEh6WEpPUlhJaThuemRfRk1EZ3kxTzZHSEpoRnhjOFRv?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lVFdPaDdiV0ZwQ0xmNzV5VzZZa2p5a3BTeWMwQWRJdHhGaGh6c0daSlpXVHNzYWJRdFRDeVVuUV9NUk1VTVdmUi1kdWRSUDZqYl9XV2hKWWE1SVZRVWNvWl9XWHdMZjJQaXRYLWNLdHcyTUZ0Q1djbEln?oc=5"
       ]
     },
     {
-      "title": "Xiaomi 18 Pro, Redmi Note 17 Aura India Launch Timeline Leaked: Check Expected Price",
-      "score": 21.03,
+      "title": "OnePlus 16 India launch may depend on Oppo Find X10 sales",
+      "score": 17.75,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGlTVzFGd1VrQWJuMTNhTGRFZ3l1SUw3ZlliQjB4UE5qVEZUajZZNVRwSXUxQWI1N0hIbkh4TExTSFNoN2VtejQ4elJuaGo1LXpHYVpHNjFZZWJJTWhfX3RDaFM1OHZfZ2lqTEVWU0RIZ1d5T3llbUhqNVRKZmNMYlVUd2lmQzctbldqMUc4RE9NNktmTFhrLW9EamM4TTJ1V1dVdGtHQW42cjdxNk9pVFNlRUE4STlXclV0MHRscFVEaThxSUtPU9IB0AFBVV95cUxPTXJmbzFjV3RBcXdfdERUeEViajRBYjJjM2xaZXpDZURUNFlEQjFDSFNEemJENkV3eWVyQ0VVOG1jb0NVRXd5OW5zMnJLWk5iWTdQN3Z1QXRzRkJvY0c5YjJNRmk1QXYyMUVYMGF2QjZiVnczejloUXVpSVRBYjJZUzlReVhPWjVScmpKRGFFbkRxMFFrTzdRUlEzMkkwWkNLWXc4Mjk0Rm9WLXp5QVdFVzRJSTJINjFWVEhURWNiX3JRWWEtRzRPRVQwRTFuRXV4?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODhleHpwek9sZ18yNms4cG5KZTdjdjJCeU42Q0E2SjFVSmpFZFdOX3kzdVp5QU1TUVJPLWxGNmtwQ2llSHpGUzItVXkyaE5BSE1VQXU3bExjYzdZc0JZalRvc2ppYzZ2RmZqNDd4TWU3Q04zOU5IZThuUG4wVTNueUFuUF9qRWFXbUM3UWRiRmJ3eVE4YUU5Y3MyUElTdGp0cnM3V0R4bzk2SWxSTXNNMEVUOVNCR28wcFcxUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUVFNjhSOW80SVlnazlhOWwzRWVpVGk3RURIc2s5V1BXZE1CdzFScGNfNGRCeGE1eHJyMFZPdnpVVnZna1JqV0ZvZE9jR2FhdnYzY0lOc2RlVWx4aEZPWENsd2h6NmxDRmhyUzBNb3RuX1ZXNFdMd08yRGpRZHQ1SGNYeVVFLUVnWENxbHo0WHpLa09ja2tiOGNmR2tHdw?oc=5"
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzJKSEM0TGdTSjFPTjhkaWo3eG5xbUpaNlc3aENaOG8zUExsSE1IY0FGNXgyY2tZQXp2VERMMlgzNElQNFJQT191MzFZTXVvUHZkblM0MmxRMUZhazl4cUUtODNGbVJROGhZY3Y1S3RKRGpZd1JFNE1qSk9PdXhzWmV6WnE4SG50SU5saHh4OA?oc=5"
       ]
     },
     {
-      "title": "Upcoming Samsung smartphones in India: Samsung Galaxy S27, Samsung Galaxy S27 Plus, Samsung Galaxy S27 Pr",
-      "score": 18.37,
+      "title": "Astronauts including Sen. Mark Kelly celebrate the opening of L.A.'s new air and space museum with plenty of kids",
+      "score": 17.88,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNUkyUi15cDMxd0dNa0o2bkVRdG5iVFkydlpTbjlKSkVCZmRzSGdaaGY1NzZNZ2FUYUtrcGtjR2dDRk5LRTNnM1Z2YnlPZXhNb1RYZFRPY0RXcXJ3eTZfcThGNVFveVUtNGp3dExiV25jU2owSXVST2REUzdubjFIbXFuUEpMU0xvWC1BQU8zTWEwTHZCeW5pMmtZb0FJTWhLYV9FWFJxWk1hUTRheVV3VTRmQktqX0ZmMm9hS18wYkIwSkhvVFJnWU5zc1lwTF9HVml5c01HbWJRN3N3QUxvRUhMVGxnSUwxMEJBWnNYMjUzYmNiellrU2p0OElObXdhUVlhcTJrWmU3T0ZHZDE0aFVIa01WQ1dPWm1uTlVJVXZqQndPQWE1cjU5S01CX1ZvNW8xWFQzRkEwaVQ4NlpfbVc2cE84d9IBywJBVV95cUxQcUlPUkZvVG96VFlIZ3VEQ21YdHp2amV3M1k5a1J0VUJyQ0lfeWhtd2N6YWVsM21IU1lqcmExZjI2QkVJaGZYcG5ZVmNXY3hDSUNmSE5BSnFVVUd1dFBTcnlvcVZfcmhsOGI1UDBTQ19VWWF6eHJyMUtIVUx3OFU3c3dLWW5BZmdIeC1pTkFWcTBqMmlJbGJ0UnB0UlRkb09VZzRWekxLMjFTT3E5eDVXZm9tRkJ2VFFNaHpZc1NFX2lZODAwMFR6d2J2MmlvY1VXX2dPRnJxTExKZDh0b2FqUms4cExsSWY2b3VGY04taWVaMTdEcGpINVZBM3hYdzNJSlJTU3k4RTdXV2tyZm90MFFxSkFid1k5U1hYM0xPNFBaLUVaT1FZUEx3bFRmamkzTC1MbUxfLTVUUjJHTjdsUmFYWU5oTlZSVzNr?oc=5",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM19wNzQ0d052b2IyblAxWXhKclQzOFZDT3pydXdGWWxTcl9OZF9TN1RQZWNWdGRzYkYzSHJ6WEUtUFlkNzhTYlZYb2FQLXdOMl9Cam9uNkltaEZpc1FPZ09lcER4SnVoM3hFeWRKeU5TOUFGM3NiTjhnX2JFeFNZQ1NvQ055RXdjWk1JX2pRa1pmVkNuWXduYXI1bU4yNlVfZVhTcXBoZ3NBb0syc0YwUklPdnhJVEpsUGtSV0xTaWt6dG5fTnYtVFdBSnlBbnJfNlFHbmZKWE1lWmNQMnVQSEZkZVlFUUpZVHZkV1pCdjN4aWY4REFmdDRn0gH_AUFVX3lxTFBqYmlCLTBlbXRJLWxWM25ZdldZWDdsVnZuaHpvMFNJVEQwWWdROUxLeVJ0TUs4QXhSaUtaWTJGcTBsaTdObkw1QlBHdFFBbTJNLUdLUmtjWUhLX0dkNkpjQ3dfcmhxRXZZQmZVVGh5Qk1Ud0FPSGdPdXVOQWpRZVI4SENqeGttdERCeDVHcTltekY4LWhDRHF4YUpabGVjRHlsbDkwZ2ZwMnc1T3FzbE9QVTI4U0xMVFRhMWxZUDJoX3J2eDBQWmROMkJhVUhiazZ5RkxjNVk5Wjgxd2tUa1RHY09ZWkN3R2c3TkVjQTJQNktkcDZ1ZzdtQ2dENGRacw?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNkhGdUhtR0o3SWhMRElmV0ZJcnpXM08yeHdUUGVPSW44WXZmdmhjUFJxMEhxN2JBa3ZmNTNXUEl3ZWlkbDBwREdZYktUY1A0M1V3U2R1VUphdmptUFRhU1VDdW0tbnhGWFJ4ZkZfSDdXY0l0T3RMMWV6cDNTd2NjWjJwb2swMklNbHJpS3dkVDRlUkUwSWxESGJBcXdHSEtLbndZLVBxMW5ETEV4d1hxNk8yOUZZcU1yWXZBTVU4ZEk?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNkhGdUhtR0o3SWhMRElmV0ZJcnpXM08yeHdUUGVPSW44WXZmdmhjUFJxMEhxN2JBa3ZmNTNXUEl3ZWlkbDBwREdZYktUY1A0M1V3U2R1VUphdmptUFRhU1VDdW0tbnhGWFJ4ZkZfSDdXY0l0T3RMMWV6cDNTd2NjWjJwb2swMklNbHJpS3dkVDRlUkUwSWxESGJBcXdHSEtLbndZLVBxMW5ETEV4d1hxNk8yOUZZcU1yWXZBTVU4ZEk?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNkhGdUhtR0o3SWhMRElmV0ZJcnpXM08yeHdUUGVPSW44WXZmdmhjUFJxMEhxN2JBa3ZmNTNXUEl3ZWlkbDBwREdZYktUY1A0M1V3U2R1VUphdmptUFRhU1VDdW0tbnhGWFJ4ZkZfSDdXY0l0T3RMMWV6cDNTd2NjWjJwb2swMklNbHJpS3dkVDRlUkUwSWxESGJBcXdHSEtLbndZLVBxMW5ETEV4d1hxNk8yOUZZcU1yWXZBTVU4ZEk?oc=5"
       ]
     },
     {
-      "title": "Huawei's next nova Flip could switch to a wide form factor - GSMArena.com news",
-      "score": 18.12,
+      "title": "Trump, Putin and Xi to hold first trilateral meeting focusing on nuclear talks and AI - India Today",
+      "score": 17.74,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5"
-      ]
-    },
-    {
-      "title": "Reports Say GTA6 Physical Edition Codes Visible Through Packaging Under Strong Light",
-      "score": 18.64,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Vkw0VUhpVXQ4U00wZUNKa254M2JJS0J6NnpGSEtwRmNmX3dKVlI0ZDZTTURqck5ndEIxM1J5a1Y3MTQtUVRoSjV0QVRoRjZFb1EtVUY1V0tjbWNSOWtVdWk3ZlJXLUZVdnlLSnFHMWF6Q3BYZEE?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Vkw0VUhpVXQ4U00wZUNKa254M2JJS0J6NnpGSEtwRmNmX3dKVlI0ZDZTTURqck5ndEIxM1J5a1Y3MTQtUVRoSjV0QVRoRjZFb1EtVUY1V0tjbWNSOWtVdWk3ZlJXLUZVdnlLSnFHMWF6Q3BYZEE?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Vkw0VUhpVXQ4U00wZUNKa254M2JJS0J6NnpGSEtwRmNmX3dKVlI0ZDZTTURqck5ndEIxM1J5a1Y3MTQtUVRoSjV0QVRoRjZFb1EtVUY1V0tjbWNSOWtVdWk3ZlJXLUZVdnlLSnFHMWF6Q3BYZEE?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVlGT2xwTHVHbEtVTmJSRE1PYlhjSXNpSm9jOHNtZ1ltYnVpODl0dkxPaDRnWk1tQm9lNWZUOUVtTDZkb1lGUmJpcHFvYXg0UHRhZVNfXzl3TjVmRkFiMzlvX3VYZmMxaXZrMGlQZFRoR0xROHE0VzZfaGNPaFF6TDlaRVNsamRwNUJ6TFdfbG9NVGRuVGJYVHBodV9NNTRXSHh1R2F2NkFWdy1iRlRxaGRQRUlBSnpzQnN0b0MtWW1LVjDSAcgBQVVfeXFMT3c4WV9RdHBiV0RwS3NuSzlCbFExLUJRT25oUnlCUUFlMXZCb0RBNVYxeHFsVlkyUGlGNEROUGVWSHJWOTBYOTZ6S3E4VWtJRzRjUmpPcUNQUUFfcW1xd21pUy1UVV9oS2ljdC1JSmtPblZGQ201R2FMXzdNS1RycWY3bk12T29QS2VfOXNGNDNDYkNseEQ3bkFlSm1sR25UUU00ZU1HVGRiUmR1cnhERE5UYjBlMEZjTlZQUzJka0hsM1FWSEVLc0Q?oc=5"
       ]
     }
   ]
