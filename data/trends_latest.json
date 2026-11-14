@@ -1,24 +1,24 @@
 {
-  "job_id": "2026-11-14-morning-0128",
-  "chosen": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-  "reason": "The official v1.0.0 release of llama.cpp marks a major milestone for developers and tech enthusiasts running open-source AI models locally with greater performance and stability.",
+  "job_id": "2026-11-14-evening-1701",
+  "chosen": "GitHub Enterprise Server support in the GitHub Copilot app",
+  "reason": "This official GitHub Copilot update enables enterprise developers on self-hosted servers to seamlessly integrate AI code assistance into their existing private workflows.",
   "candidates": [
     {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "score": 21.53,
+      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+      "score": 18.73,
       "kinds": [
         "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+        "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app"
       ]
     },
     {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "score": 22.51,
+      "score": 18.62,
       "kinds": [
         "backlog",
         "official"
@@ -30,20 +30,21 @@
       ]
     },
     {
-      "title": "GitHub Enterprise Server support in the GitHub Copilot app",
-      "score": 20.62,
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "score": 22.2,
       "kinds": [
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management"
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT19HREQ2ak94bEpPT0hvWi1MdWlYUlRVRzE5bXRYR0FrZktvM2dTNjBPcHFKbVR4VnlITUNEUXhBUFdKZFN2Vkc5cUJzUC10ZWo4X3hISWh0YWpaeWt6SXR3?oc=5",
+        "https://openai.com/business/customer-stories/shield"
       ]
     },
     {
       "title": "XYBench: Helping with the problem behind the question",
-      "score": 22.26,
+      "score": 18.38,
       "kinds": [
         "backlog",
         "official"
@@ -55,106 +56,106 @@
       ]
     },
     {
-      "title": "Can AI Help Indian Researchers Find Cancer Drugs That Are Worth Taking Forward?",
-      "score": 19.33,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUduTURKNmN3M3VqbzFoWUNMM2QxZTcwX3h4Nm83Y3dSZDZYVWJvWFVueHduWTFqNVZ4OGZRVGZiQmNELThvbkMwTlFXS2FXbWdCV2loUEdoc1N1aV84SmRlTTdNd2owV1E4QmRCWDVxZEFXcmtuOGJnSzcteUJIMEtOYTFfQnhhN09acWNJcjNvTGRWQS16YnVETzlUaGlsVmsyQTNpZV9IeGc?oc=5"
-      ]
-    },
-    {
-      "title": "ISRO successfully tests upgraded PSLV third stage after mission anomalies",
-      "score": 21.05,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbjdNbWl6M0tIV3NvaGFFRC1aQlRsblBKTTBIU0tJRWQtYXhtUkh0R0pId0pLSlkxLURoTnAzVVROcGZDX0xMZGVXbnAwcHBXcWloYWhCQmhjRVI2S0RpTzZsMy1QMFo1dFpHN2VqQnp3U2k2T3BsOENmNmN4QW5ja0o3d3RHUGZQRm5fMk9ZMnk4cGktVHc4MkVZN1JySDZKMENZQURsbVgyTHB4WjhfZl9zRS1tT01pQ0RBRnc0cnlMUTFxeXBLLVl5MV9nN2dqQmszMWwtZFpOUnpjX3BXcDhBSzBUQdIB7AFBVV95cUxPdTJwYklWN0NqTFRhXzVTM3hpVUx5blowM0ZBemN1c1p6SW1pei1feEhMODZDQ3RVUjgtOHBNcm02M1Q0Y2VMdkRFUnlfVGhRM19FMVlHWVMtWlVtZ1EtdVhoMC1aWVpyUElQSm1hQTJrR2pQYzZGTVhSb1JaY1piSGhQYVFOM3hNaWJDSWsxWGpaa0NmWmhvVUF2Sk1jaEpwZXFCb2hHWHAyN2lDTi02RWhNLUZWWkxKVEVBVGhtOW92eHhGZjUyVzZyRE5yZ2Q1c2Z6V2R2eW42U2g0SDhPVGRTZEN3U09nNTJXZw?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9lc3RZVVJEdW96OHBicS0yNXc0Q3lJWWNQdERLNDZsQW9yUk5JeEI2Vl9mX2c5Q1lIeW1KZGEyZ0VBV3dOa0NEeWo1SGtXc0JPc3NaTFhJQ01IOXZ2RlZlZmx6NjV1VUtNVzVZUl9UM3Y4TEJoTU9aNmxFOS1PZmNoaC1xczVuQ01CeE9iZ3NOdw?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFZoWUNvUm5rVXI2aTZtQ2l4VEwxdllaUER1YVpUbWZ5RUItRElwb251OEZ2b0J0TWMweGpmTWstT2dPTjZiRWQxY2dMRVVXZXVuQ1VFZklFUnB0dWNaWXhkZXgzQ21XaUtIZ05rY1JmZzh1V3kta25iTUlZQTE0T19CbTRvZWtIaTdIbGIxVjR6bGdBQV82Mg?oc=5"
-      ]
-    },
-    {
-      "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots",
-      "score": 19.9,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
-        "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
-      ]
-    },
-    {
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "score": 21.26,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-        "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"
-      ]
-    },
-    {
-      "title": "Manage AI Scan for repositories using the REST API",
-      "score": 19.1,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api"
-      ]
-    },
-    {
-      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "score": 19.63,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOFFMdGZoTHJtVDFvbFkyRjM0Z0dhUGlNNGZzbF9KcUctWUdfaUNkQnpCa3dLY3EtY0tPZ0NRbEljamJyREFubG5mUVM4V1B2c1VtbElHNjhkN2N2MHNoT1JrWS1hS1hWQjBDakI2YkRrX0hmLTgzQQ?oc=5",
-        "https://text.npr.org/nx-s1-6029408"
-      ]
-    },
-    {
-      "title": "AI, AI Express suspend Riyadh, Dammam flights till Nov 30",
-      "score": 20.49,
+      "title": "AI Autonomously Conducts Life Science Experiments; \"AutoDNA\" Raises Dual-Use Concerns, Sparks International Rule Debate",
+      "score": 18.39,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdFFFSXc1SXdJOW5kMUdKUEFfRXVoanFacHJNY21xVk9EN1l2T24tSUlXX2dwWDFqWVlqMTBjOFk1c1J4V2cwXzZZcU9OMGhDaU04UmMzT2daSHB2a1lwZTFGeFFUUFFEX1ZiYjZNN2piblBGYW0yNTM2QkR6aXR0dUdWaFVxY2NRbUFTVkFKTkFyRGlBUEItb0ZLSkhNaFVMM0NET0JhSk40VlBsSm9pN3RncEhYM2FKWUpBTzFxTmpQVzhrMVY5RjZJMUxvSVFUUms1R2J30gHYAUFVX3lxTFB4Ny1zaEdwS1V6bHRDeUE4Q0dnQmt2bWR4OTdVbFlzWk5HSTB3SUdDT0E1bDByYXF0bmFGVTRpRzF5a3pKZmMzYXhEXzNDdS1pSGJLcGY2bzFmSXZsMHNGSG1hQ0wtV0tZZlpVSmwxX1VwcUhvUHd0WEFrQk9xTXNEUjgtMEtreTF4Z1dtLVNFRnlLMUNhNEcwbGIxLVV6Q2RIOElwdFJEN3p4MFdaeGNZM1FFTWhycWRoaFB2REJLTm8xVEF4djZLSlVIeVdVbFV4V01MMERXZg?oc=5",
-        "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMkxkcHAwQXNxYmtZS1pmUDRrNkFKLTNRUjRvRFZ6SU5EYzBMREY2ZEtzWDUyQmhzdy1LS3IwdTdXdG1jRTJySGZjN2R6X0hhY0NtVHQ5VXpzRkRmRC1RNDkwVzktSWJGQlNkdE1NUUw1a3pwbUNOZUtubHljQlpYZzFiOGJaRi1tNzh3Y2V3dGZwWWJxUzdFTko3c1NPcVplT0dNVHNYSzZLNE1xUlZmSUJXeHFXQkI4NXQ1UWZ6ZVkzSml5UlhyOUtfUHBZaWdwdGtvQk9DMnNQMDBWNWdZcVYzb3Nhd1FCRXhVOGU0cmhHbnJDVmZHbjZDZC1IZ3Z00gGGAkFVX3lxTE1qQXFPdkstSDkzOTdWNVBRV3dRT2NQNDMzRWRQZlZCMnNDYlpJSlJ6YzY4b1NwNDM3TnlILWJQR2wwRjVJTWhyWEQ0cGh2X0x2UjJEWTdXRXA2N1pra2lUT2dPRTYtbEVELWdVNnR5WThyY3JaaU5hLUVYakE5dklIME9icWFtVm55YWxxZmNzMHJKeUJ3Z3gyRjJ4Tm1mTEZpR3F4alJuMFd4a0ZRTTJqZ2s5dlo3Znd4TXRvN2U1c1hIdHlvaHRKeEhXVmhibDBSQTljQU5BWnd2VEVBYkpqM1ZZc0tzRXVtRTlQUjh0dkFrRmdsUjg5VHA1aGk3cWVvT0MwREE?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkxRaGVnTndHN3dqeHFqeE1MdTFPaVRTa1lfZERtZG5GaElzdVJUYWgyR1V2X3RYaURPdU5BYnlyZTB2Ymp2UTlOZmlEaG5ySV9pajFkY3FXdVM4UjFOT0VfaDJmQVBLQjJhZDVmdFBVTHdhTDFQNUdnZHA5VmdtVjBvUTNrMFdBdXI2OE5BV3RJZWVxUlUwT09VLVRJRTFLajhXdlMwZUNKYzRn?oc=5"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTXJ0SVhRRm84TWp0MWtlcnB3ZW1PM0pDbkdLMElSRGQ1WG5DaTFjc21SMUg5Wnp6UXdqVXM5N3pPakxTVkJSNlJyRG5DNjNWZjVQSVpLaVZwTGE5dkc5R0dVMWs5WG9HblZKN0c0SVhUWkxnaEE?oc=5"
       ]
     },
     {
-      "title": "Black Friday is two weeks out, but these Shokz open-ear earbuds already hit a record low",
-      "score": 19.36,
+      "title": "Simply Put: Artificial Intelligence",
+      "score": 51.86,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2lfNEp2SXFXSVFBWE5kand2U1BsMmNBanlfOXo4OWt3YXQ5WUdNbXhjenNwTTRwOGNSOW4zZWxVU243a2Q4WmFORThJa0tiR0hmMEhRZWN3NXZBcHF5S1FDcHpiMzBUdVg2cldOSTIzM19NN19fZ1g0OEdBZkt1TDV1RHJ3UlVBRnVvRHk0YVRYV28zOXhR?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2lfNEp2SXFXSVFBWE5kand2U1BsMmNBanlfOXo4OWt3YXQ5WUdNbXhjenNwTTRwOGNSOW4zZWxVU243a2Q4WmFORThJa0tiR0hmMEhRZWN3NXZBcHF5S1FDcHpiMzBUdVg2cldOSTIzM19NN19fZ1g0OEdBZkt1TDV1RHJ3UlVBRnVvRHk0YVRYV28zOXhR?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2lfNEp2SXFXSVFBWE5kand2U1BsMmNBanlfOXo4OWt3YXQ5WUdNbXhjenNwTTRwOGNSOW4zZWxVU243a2Q4WmFORThJa0tiR0hmMEhRZWN3NXZBcHF5S1FDcHpiMzBUdVg2cldOSTIzM19NN19fZ1g0OEdBZkt1TDV1RHJ3UlVBRnVvRHk0YVRYV28zOXhR?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0sxcC1XLXFhT2I4R3pYUV9EYVg5SUN6SWUtZ2hVRWkyQnNwYjlhY2RzN3Y3bFo2Mm4xWjJiVjJCaWoxYXZKbkJ2Z0lVd2pjTk05SEVxMXdvYzloOGYxUkNDVmcyeTM0bnVBaW53WTJaVUlWOTNZQlZlU25oT0pwRW5ORzV5dnNzZHlEQnNKaUY1ZzIz0gGUAUFVX3lxTFAzSzFwLVctcWFPYjhHelhRX0RhWDlJQ3pJZS1naFVFaTJCc3BiOWFjZHM3djdsWjYybjFaMmJWMkJpajFhdkpuQnZnSVV3amNOTTlIRXExd29jOWg4ZjFSQ0NWZzJ5MzRudUFpbndZMlpVSVY5M1lCVmVTbmhPSnBFbk5HNXl2c3NkeURCc0ppRjVnMjM?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzN5UG12WGhfRHdUeUxpLXE2UnQ0eFBuLTJ3QUtHMUZKa19kOW82TUFGeWRrLTNXWDJzQWF1ZjY1WTREek5qUVI3bE4xd1RyMFp0QlZFUk4wX25nbDJYTDZMSWgxU2RDLVA0WW1JdFNHTmRwZW1uV0ZKZWZvbzF4V24wcEFZQU00c0Z4Q194ME1NanFUZzl6a01sNlE2alA2MFpiWGJwWm43bmVPaHp6NzBlVGpLc0tN?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTm9yNU9nZEZ1SU95cWduaG44UGpHQURmcEFZZjgycWFfcnl4UXhLalVGVXVpSmVSanozZXowdW41a3ZMOXJrUkVoWFRraHg4UXpsa09WTkp6ZlJEcExMOVRxZi1IQjFMcHcxN3ppN01LTnIwbmFmME9idlpraTlFWlc3QjZOejJaYXNhcTZBZTFRNGRBTlgyRUh3TlVRRmJPc3ZkbVBwSU5kWkxm0gGyAUFVX3lxTE5fZmVCWkFPSTVBYTlUYWxPUHdNN05zUmgxMVRPSnd6aXpILVVoLTR4MlRJakJIaEhWQ0ZjNUFCT1V2Ym84dnJNXzVzdDdSdXNzLVVpWGI4am1icFZiZTRYSXUtdUkyODl2UGg1SXdtVVRDRW5WbUJSLXE5TFRuU0Vldm9nMFBzRl9VWGJwbjFEdEtXdm1qYTd5SE1wUXhkbGZvV0ZUV1lTQ3lmaWJ2NWRneGc?oc=5"
+      ]
+    },
+    {
+      "title": "Musk backs petition to reinstate Jensen Huang as Nvidia CEO",
+      "score": 21.78,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEktVWlMMmV2NnZWZjZLSW9vUWotSk9WQ0MyLTc0cWUtT1IwYWdnQnBmU0xiSEtnbm92bTVlNmRpZVdKNnlhcDV5TF9HRVMzdjVaU3B3S21GZkFfLWFtU3RxUnNWSFV3eVZoTEUycng2MXZmYmpHU3htalZKUjNXSU9kUmF1bXpPOG5LS19TMC1KanZ3ZWZWUw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhlbTRQQ1N5SDNnU3V2a1BObGlkTXFTUm5QalRXS1NIaXVYUU4yajluRkwxdUt4ZllpNVpCVWdHOGM3Q0Jqc3BXRWxobnJzcjdxYkZ1YU9kZ1pmX1gyZ2JTT3BYbWVRTlR1VkZjemZkTmhrRjYtUFlBbmdidTdtQzhpMlR2QldFUlF5ZVlXUzhXb0J5WmhXay1LVkdsVkNCQ3pxaWRHZXk5UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUZsbmhibnh6Tjc0M3pqUjh1ekxhS0JFcUpad2h2YUpDNUUzU3pkbmxxZmFVZE1OdWYzVDFUUnY3aThBTWs5ZmlNNHNKZ2ZiQTE2QXdobk0yVTIwZkNLQ0t0TGdOeDZ4MmZsT1pfSmtMMkwxNWFTWTF5RzBnNDJHNy1fX2Q3dXZpMFpaRDVsLXZMSDVlZzEtc25VVXhUcUZsbmlTbGhiT0pYV2NVZFZrM3hvUU9CVzZvLVdRQlpoaw?oc=5"
+      ]
+    },
+    {
+      "title": "Vivo X500 Series Prices Leaked Ahead of November 26 Launch: Box MRP Starts at ₹1,69,999",
+      "score": 22.93,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXQydHAyeTFJaWlYbzFHVE1HZUVYcjZHbjBUSHJJRFpMSzB6TURSQ0NDRFdQVDdRWFc2TEdEVTVCLU9uVHRVS2NqVFBsc0MtRHBTY2hjMEVGcTlUNUtMaWxLQWVEbGFqaWNFY2dEbU9NVk9oN0UtMjFPTmhIdXE5OGFENXEzY2w1c1AyUW0xNEVlUjlsdmRjbl9LTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbEhHU181dXZOMVV0NkptZHg1MzRIU3VnbWpDNVJIVGhhd0NWV241MV95a3N3dmhXRU5Bd2x5Q2NoU1AwdTZFLVNqLTZtdjNYWXZjNVg4TU5jbTN0Smo3eEdmM3VTRkhEMDRfcFpwU2NsVHoxVDd3QmstUmNmTF9Ia1NQNmFOT1BzX2R0b3ZFcF9GX3k5SW1wWXlnbXJfVndiOVgzUTJseWg0VUVnVkhiTzI3N3RpdF9MTVBhVmUwNzRBMUU5N3dpWVZiVkJFWHVaZ1ZYWDBGdjdBTDMyMEhscG9SbzJOUdIB6wFBVV95cUxQVC1WM0JETWQyNGhoWjNHbWNQaFhmdjMxYmo2SXF4M3I0Vi15LVdNWGFuMTRoVjh0ZEhwRjM0ZmRmTEYtbTZtLUdHNHhhZFVqa2tKZG0yWTRZWHptdzd0eUNESkxuYko5bzJBeHBGamdtamtadGNsbE1TdlpjY3ZaU0R4VmhUMXZoNllkLWhZc3l5dE52T0RmMDk1RWl6YVVvemZiMnRpdlZCalhTMThYUjZIajltT1pJRDZLbVRJWm9oY2xhT04xd3IzZTRsNnZJc3psajM1SlBpU0c4Y1NvbzhCR0lGLTR1NW5n?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY25wY3BmM0pGQ0xCcVA0ZjBheGltWDBzdUU3aldRclhuR0tza3JPNUlBT0prcm1BMVZUR1N3TUZhNEsyY1pjV3dpZ1dxYk9ZMmNuQklxZmpUUlNoU0NMU0s3UG9pUk1mUDVQM251azVuN0hib25GNWhSWjgwUFRTZGF0WXRuR1hKaEppOEtkblowYzlpV0l1WDhCbUwzdm5QQkxFYWIyY1dqLWxtd1J6TA?oc=5"
+      ]
+    },
+    {
+      "title": "Vivo X500 Series Box Prices Surface Online Ahead of Nov 26 India Launch",
+      "score": 19.83,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lVFdPaDdiV0ZwQ0xmNzV5VzZZa2p5a3BTeWMwQWRJdHhGaGh6c0daSlpXVHNzYWJRdFRDeVVuUV9NUk1VTVdmUi1kdWRSUDZqYl9XV2hKWWE1SVZRVWNvWl9XWHdMZjJQaXRYLWNLdHcyTUZ0Q1djbEln?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW4tVm5KSl9YUHdxWUtCbDI3bHFZSms2U2tCTGFIRkdsYVlDbk5TZmkxQXMwZnN4QWZoQUc3a2kyQVhHWC1KVjIyZFYzWTE5Z3RzcGdHSnRRRGc2cDE1YjNBaDVlNDYxSkluRTRKNDNHR213SVBybmx5Um0wOXM4NC1UWTUxY1pQQXYyN0VmWGQwMWM?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEdQR2Ztd1VDdGNSY2RVcklHdkhNUGFhTWZGbHRwdHJHVkNPdDJSY093dFA3b29HandSM2F0VVpWN0FfeDM0cGJLWmdiaXgtakdfTTlxcDBvTjNwZ3ZvZHRUNGdwWjBkSURnZUNVZ2UxZ3dVT3N3aUFhbWVPSVNJTG9ZSEh6WEpPUlhJaThuemRfRk1EZ3kxTzZHSEpoRnhjOFRv?oc=5"
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro, Redmi Note 17 Aura India launch tipped for January; Xiaomi 18T coming in 2027",
+      "score": 19.28,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOURvclFIZktGZWVUR0ZUM2VkLVNxbEFPdjNpLVFKTFFLYW5jd1FYaW9seEJDc05GOFp3TmprUHdBaV9JeDgxd2l2VGZCSDhOLXNsZXplbkVKeDJTeXUtUGs5R05fTjFxcjZBQzFIQW5mR010aWNVTHJfYzFzVGNiUFBFVHUtV1B4Znk00gGQAUFVX3lxTE5aaktLVnY4b092MWlNemtodUJUUVVQaXpxRUI4TTh1UnQ1VHlQWnlHTjBRZFdfZDhtWjNSR1J5eDBKSHZEc3ktZ3hjM0FwdFFacFlSMW5IN2p0VUZXTWRmSUpzbXMwSnZ3eW1USnNqQ3FJOHk4VnRrR0FITkRuMHM1dUlsQzVDSHdRNHZRUzhRNA?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQTUVFNjhSOW80SVlnazlhOWwzRWVpVGk3RURIc2s5V1BXZE1CdzFScGNfNGRCeGE1eHJyMFZPdnpVVnZna1JqV0ZvZE9jR2FhdnYzY0lOc2RlVWx4aEZPWENsd2h6NmxDRmhyUzBNb3RuX1ZXNFdMd08yRGpRZHQ1SGNYeVVFLUVnWENxbHo0WHpLa09ja2tiOGNmR2tHdw?oc=5"
+      ]
+    },
+    {
+      "title": "Huawei's next nova Flip could switch to a wide form factor - GSMArena.com news",
+      "score": 18.37,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VKWFdHdmVEUlhUU3RFeEE0N2lyd2htTFJqRXRSOEktU1FFckxDOHVTNl95cDNWUEE2cXQ3MGVkMXVsRktiUVkyLTlNTzluYkQ2b3M0V2NzdFB3Ul9ONVUzejBkbjQ0bDNZNU9kdmgtZGdWRWRRZWR6a3JnTFI3OUUyWUp6MTR1dVVDQXNsVklwU2pka3I1UDdBSTZxUdIBmgFBVV95cUxPLTc2dVhZT3lYell6UE5EdF90OU9nT2lBQ1pudkFEY004N0NuU1NJbUx1MlIyRFJhZXJYRkg5bUJmN3hnQUlMa1NVdHpPZnhQX2RfYWw0bElmU0JLRnN5WHd2a296WEppRF9tbFhQRmxpamJaUnJZMERYb2VfeTVfOC1JYnlTLWdZcnhkNUVzM3BKN2xWRTNJYWRR?oc=5"
+      ]
+    },
+    {
+      "title": "NYT Strands hints, answers for November 13, 2026",
+      "score": 18.66,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpmWXFtVm4xeWhBVEk5NldQRlIzSHFuVlBNTzlMTS05UUlzXzhpUGdQQjR4TkRsNS1UUGswQ2tVRTNyek1IeTJMR2hFNVNqSjhhYjBUc3BYbnlMQkh1YU1sRlVSSWdtX3ZpdFZkYmE5dDdoNUx4TUpUQlV4Zk8weUtwbmc2NHZpOWR3aDJjSzJsZG1rSXc?oc=5"
       ]
     }
   ]

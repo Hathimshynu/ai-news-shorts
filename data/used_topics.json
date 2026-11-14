@@ -1,20 +1,5 @@
 [
   {
-    "title": "Gemini 4 Argon for Robotics",
-    "category": "New AI Models",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "category": "New AI Features",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-    "category": "Breaking AI News",
-    "date": "2026-10-14"
-  },
-  {
     "title": "How Block is building AI-powered security with OpenAI technology",
     "category": "AI Automation Tutorials",
     "date": "2026-10-15"
@@ -583,5 +568,10 @@
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
     "category": "AI Tools You Should Know",
     "date": "2026-11-13"
+  },
+  {
+    "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+    "category": "New AI Features",
+    "date": "2026-11-14"
   }
 ]
