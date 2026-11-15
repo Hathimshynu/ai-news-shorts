@@ -1,36 +1,39 @@
 {
-  "job_id": "2026-11-15-evening-2325",
-  "chosen": "AI may deepen pricing pressure on Indian IT services before new demand offsets it: Report",
-  "reason": "It highlights how rapid AI adoption is directly impacting business models and pricing in the Indian IT sector, making it vital news for technology professionals in India.",
+  "job_id": "2026-11-16-morning-0034",
+  "chosen": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
+  "reason": "The idea of beaming AI data centers into orbit to solve power shortages is a visually captivating and thought-provoking topic that will spark strong engagement on short-video feeds.",
   "candidates": [
     {
-      "title": "AI may deepen pricing pressure on Indian IT services before new demand offsets it: Report",
-      "score": 18.54,
+      "title": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
+      "score": 20.96,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlVhVmRrUDl3bUhWRWpDQ1FJdEdYd3h2WkN4RmNnZjltSHhfSm9pNWVET0lBdWtfSHp6eDVNSjhWNHEwSTAwUHBxTE9RR1E2MjJfUU5PanhoNF9LMUE5bWF6cG94SDFabnIzMmtMWmV2cjRTWGtITURsRFI3VGRiTklaTUlwNkdseDgwMmNyQU1pY1NBdU1tdTRlWVFpeXpYRkxKQ3dWYWFkdXBZdG5yWFMyMm4xZ2pBdERabDFlZUczbjlTdzU5SWZGT0Z0RGtDS3JrZ1dR?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlVhVmRrUDl3bUhWRWpDQ1FJdEdYd3h2WkN4RmNnZjltSHhfSm9pNWVET0lBdWtfSHp6eDVNSjhWNHEwSTAwUHBxTE9RR1E2MjJfUU5PanhoNF9LMUE5bWF6cG94SDFabnIzMmtMWmV2cjRTWGtITURsRFI3VGRiTklaTUlwNkdseDgwMmNyQU1pY1NBdU1tdTRlWVFpeXpYRkxKQ3dWYWFkdXBZdG5yWFMyMm4xZ2pBdERabDFlZUczbjlTdzU5SWZGT0Z0RGtDS3JrZ1dR?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5"
       ]
     },
     {
-      "title": "Mars opens Hyderabad GCC with Genpact for AI, digital work",
-      "score": 19.3,
+      "title": "India’s space economy scales $9 billion mark",
+      "score": 22.43,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek4tbF85d0dtSzhseWZpTW9haS1BbkhpbEhpSkdiRUk2cG0yOEl3c29VNnotR1MxTVd3M0lLSWdHZmRzdGdQUTZRVE1RU0RKWDFxcDVmZ3F3SXctYm5yMUJFazdNLVNmVmlzTXpMejNCU29mNFhRTmVGaF9wOTNjSFY5SmZ6UkVKZG1iRTU4TnlCVEFLNllvcFlIbWJyc1BibUZWajhhYlJJX005MkZKdy1WMHNEQXVsS3ByaTJnVXVhOXFrR2ZsTEplemdxTDJEbnZJRUNHNmpjVUl5WjFj0gHjAUFVX3lxTFA5Z3d4OGdhUnBYZm5oOTd1dzN4S2JXZ2VWczN1QWhGaE15SjJxS2prNDI1b2w5VzhDNDBUMnlpMnFHWlNfdWNjSWRydFBGRGZTVW1nOUI3cktkX0cxRERkYW9MSlVJVXdFaFE0V0RFY3VKV3RHNGItSHI5c2tPQTZ4bl9mNU02cE5CTkZadERCcldVeVdOQVJLVzdEb3Q0alV4akJleWZTenN6WDZFZi12R01UYkZZZUZJRTFTS3dLUzdCYklMTkNVSEhFODZycmdUTFFUYjRlVVdGMWVuYW5zWFpZ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVFyMHZ6WG8wVHhrOThyZUpoSC1iWGhaV294SFBiaFE5Z2FKNWwxc0Y4SzJybUs5VnUyZGk3NlZ6SlpCSlNvb1JkTzNsTWR3a1lrZG5iMzlvWkVEOW9IdFAyVC1IWDk2S2tySGpDV2otMUU0TjV3bGdnazBtc3ZycjBldjdZampOajI2aTJtXzJxcm51TzVERzlTbVZfemd5ZHdHZHY2a1J0OVZjVklETUZ3?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWVMMWNxT3hreWt6Y0pWOHNBeFI5ZXBOeHNQRzllXzlteWhaMi0wMW1jbFVUSmUwdmdHdmJqVHNTclFkUG5YMktVdTNYQVBaMTA2THVsNElmNC1WN0h4S2NoN21XR3FMMGtJVk1YbkRnRWFybkdFb2FVaXpzQ2doWTk1ODJwVHRsbHJNbDBUMDdmYVRNZzFKcVNVb01YaXR3eTJwc2V2OTDSAagBQVVfeXFMTmllTDFjcU94a3lremNKVjhzQXhSOWVwTnhzUEc5ZV85bXloWjItMDFtY2xVVEplMHZnR3ZialRzU3JRZFBuWDJLVXUzWEFQWjEwNkx1bDRJZjQtVjdIeEtjaDdtV0dxTDBrSVZNWG5EZ0Vhcm5HRW9hVWl6c0NnaFk5NTgycFR0bGxyTWwwVDA3ZmFUTWcxSnFTVW9NWGl0d3kycHNldjkw?oc=5",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQmVzNmdmeTBVbHBnM2twekVTbDQ5V2NWYUR5elAyVkM1SkpXQVE4aTVJZnhJVEU5UU1qa3FEQm9IcVdTclR3WjdpbEx1Umo4S3FIOFppaEYzQ21FOHBraUJsY3FuZ21zdEE?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE0weE1BM3c3VERSdFY2ODFCSkRJSGEybHNNcW9Na0JOYzFwS1JsOGxZaWhIOG5zczVkTVBNZ2d3QUltZHRvM2RkenVIbkZwT3F3X0pqOU4tZjZVb1NMbGNtVG9BZTUwS0h0SzRDUVozaw?oc=5"
       ]
     },
     {
       "title": "Why India escaped the global Microsoft 365 disruption and how to develop lasting cyber resilience",
-      "score": 19.8,
+      "score": 19.52,
       "kinds": [
         "backlog",
         "news"
@@ -42,60 +45,21 @@
       ]
     },
     {
-      "title": "India’s space economy scales $9 billion mark",
-      "score": 18.72,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE0weE1BM3c3VERSdFY2ODFCSkRJSGEybHNNcW9Na0JOYzFwS1JsOGxZaWhIOG5zczVkTVBNZ2d3QUltZHRvM2RkenVIbkZwT3F3X0pqOU4tZjZVb1NMbGNtVG9BZTUwS0h0SzRDUVozaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQmVzNmdmeTBVbHBnM2twekVTbDQ5V2NWYUR5elAyVkM1SkpXQVE4aTVJZnhJVEU5UU1qa3FEQm9IcVdTclR3WjdpbEx1Umo4S3FIOFppaEYzQ21FOHBraUJsY3FuZ21zdEE?oc=5"
-      ]
-    },
-    {
-      "title": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
-      "score": 19.24,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5"
-      ]
-    },
-    {
-      "title": "NIELIT to organize 3rd National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) to be held in New Delhi on November 16–17, 2026",
-      "score": 22.31,
+      "title": "Mars, Genpact launch Hyderabad GCC to expand India digital operations",
+      "score": 21.01,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ0FqOTdISXREQTVGMTNvWmEyZWQ2YlR5YUltZ3U2WkhzOEpqZjd0cVF0NmZ3Z1k3cS1rQ25nU0UzUk9PQ1pPcHdqY01VODZydi1relZINXVWVDFEQ2hyc0RJeTJBcUFo?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUN3ZkpleUxmdE83X3h2X1I3UnRfakktQ2w1NU92c0d1UDhQdF92cEVVZkNvY0JiWnFYYkV4ZmMzWUhKRjBsaTdHWXp0alVKN0JHVlk0bS00eUExLXYzbmlsM0pXTUhVS0ZPTTlVcTVhNnM0N0FWdFRobnZOelo1cDNNblNtNlA0N01UZjRvem0zUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVZFNFAyYVptVlBkSmtHVjBjUDEydFdQczJuTWRvV2lFeno5LUMtenJPVlZ4dzFDanZEMEJVdGNjYUJUX1BvbGh4MHJhZDY4TV9tWjhrS09GVkV6WUdUc1ppb1JzaFplOUd2RFVNMjdXd3RzSUZhLWotWTZ0VHpfWTlHM29BSkdTdWs3NGFxendHejd1Zk1pZUVucG1kRWoxZGI2cm8xZ1FTSHUwclp5ZkkwWU5ycFBzZEFxQ1lWbDRWZ3prOTJkMFRqMWRuUUhhbFQ3LXVHQVJhRFh0RHdURWd2MDkzbFVnTWJ6ZjUyMFdJLWRZV193dUJFWVpnWmhR0gGGAkFVX3lxTE5kQ0M1cXduWkVrOVc3dzBRZk1WMnVKVXB2dWtqZExuZTlUQXNJYXBMSEhTMk9PaWROc1ZleWdSSVExSGhkSVp5ZVlvX3lsajVSWWh5dmhDU2Z2VGhpb0s0NFNORmJBTjhkOExiZnZWTHVQS05sOHRvanFvSUphdUFXOTRFQmxEaXVhOGhFMnc5SkxoS3gyZlVOZFlkNVY2Y0VSN0dUbXNBV2g0RlFTc0Y0OHRhRmlkUm94SUdkZVB2ZW1OSGs2QkgxamxteDVERXRpYmVWVzFaNXJtcnUtb3ViVF9NaV9FTE95cGREbXlXZ1l4al9qYUZLRnJ0blowRGxueE5QQlE?oc=5"
-      ]
-    },
-    {
-      "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
-      "score": 18.02,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5"
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVFyMHZ6WG8wVHhrOThyZUpoSC1iWGhaV294SFBiaFE5Z2FKNWwxc0Y4SzJybUs5VnUyZGk3NlZ6SlpCSlNvb1JkTzNsTWR3a1lrZG5iMzlvWkVEOW9IdFAyVC1IWDk2S2tySGpDV2otMUU0TjV3bGdnazBtc3ZycjBldjdZampOajI2aTJtXzJxcm51TzVERzlTbVZfemd5ZHdHZHY2a1J0OVZjVklETUZ3?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek4tbF85d0dtSzhseWZpTW9haS1BbkhpbEhpSkdiRUk2cG0yOEl3c29VNnotR1MxTVd3M0lLSWdHZmRzdGdQUTZRVE1RU0RKWDFxcDVmZ3F3SXctYm5yMUJFazdNLVNmVmlzTXpMejNCU29mNFhRTmVGaF9wOTNjSFY5SmZ6UkVKZG1iRTU4TnlCVEFLNllvcFlIbWJyc1BibUZWajhhYlJJX005MkZKdy1WMHNEQXVsS3ByaTJnVXVhOXFrR2ZsTEplemdxTDJEbnZJRUNHNmpjVUl5WjFj0gHjAUFVX3lxTFA5Z3d4OGdhUnBYZm5oOTd1dzN4S2JXZ2VWczN1QWhGaE15SjJxS2prNDI1b2w5VzhDNDBUMnlpMnFHWlNfdWNjSWRydFBGRGZTVW1nOUI3cktkX0cxRERkYW9MSlVJVXdFaFE0V0RFY3VKV3RHNGItSHI5c2tPQTZ4bl9mNU02cE5CTkZadERCcldVeVdOQVJLVzdEb3Q0alV4akJleWZTenN6WDZFZi12R01UYkZZZUZJRTFTS3dLUzdCYklMTkNVSEhFODZycmdUTFFUYjRlVVdGMWVuYW5zWFpZ?oc=5"
       ]
     },
     {
       "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-      "score": 21.44,
+      "score": 21.15,
       "kinds": [
         "backlog",
         "news"
@@ -108,8 +72,49 @@
       ]
     },
     {
+      "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
+      "score": 19.74,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5"
+      ]
+    },
+    {
+      "title": "NIELIT to organize 3rd National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) to be held in New Delhi on November 16–17, 2026",
+      "score": 27.73,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ0FqOTdISXREQTVGMTNvWmEyZWQ2YlR5YUltZ3U2WkhzOEpqZjd0cVF0NmZ3Z1k3cS1rQ25nU0UzUk9PQ1pPcHdqY01VODZydi1relZINXVWVDFEQ2hyc0RJeTJBcUFo?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTRFUVc4SkxUb2djTUhwNlI3SWg5cGtCNU1pRkFYcmpWdUo1dUd1QmpONFJDLTZ3T3NkeFptbHpnZHNuN2YzYkx1OElDWGVVQ0VlWWw0NGhPbmhjUHFqa1RvTmR2a1lGWVRWV2V4QjBQVzVZckpfNHpEb2Z3d2FXNmEtZUl2cjZGeDBLelQxajhORkFKcWhhLQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnd2UU5HVHFWaFRiak1ZNGRXWHR5XzdORVNSRGVESlo0SlhBTTczWGdSdVRGdmZhUklycUJNZ2I2YzNuaFktRWdTNFdzbWNYZWtHVWVJajdERkxPY0ZnR0toMXpYWE80bVF4R1dTdlJCTk5ybE9MX296NEdfX2JkblBSU3FnNkd6VGU4QWNvUThlcGY3VzdRREdNT3ZOaEVPajlPLUptQWRrT25qZ2c0OGo5TTJVNzU1YUZZZGtHOWtmSndINkE?oc=5"
+      ]
+    },
+    {
+      "title": "Your devices can share one Surfshark VPN subscription for $67.19",
+      "score": 18.26,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS3JZdzRJQ1RMc0tkRlNaajU0emQyRVlvTjJhVmxSUFpnMDlwUGhvTm5HanlaMGc5WVRnaVI5XzlGR2hrN1BWMzZWTHNEVW04Q2xBQU91WGw0ZkJsamZIMDVMZjZhYXBiWkJB?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS3JZdzRJQ1RMc0tkRlNaajU0emQyRVlvTjJhVmxSUFpnMDlwUGhvTm5HanlaMGc5WVRnaVI5XzlGR2hrN1BWMzZWTHNEVW04Q2xBQU91WGw0ZkJsamZIMDVMZjZhYXBiWkJB?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS3JZdzRJQ1RMc0tkRlNaajU0emQyRVlvTjJhVmxSUFpnMDlwUGhvTm5HanlaMGc5WVRnaVI5XzlGR2hrN1BWMzZWTHNEVW04Q2xBQU91WGw0ZkJsamZIMDVMZjZhYXBiWkJB?oc=5"
+      ]
+    },
+    {
       "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
-      "score": 19.78,
+      "score": 19.49,
       "kinds": [
         "news"
       ],
@@ -121,35 +126,21 @@
       ]
     },
     {
-      "title": "Pokémon just dropped glass Evolution Stone replicas: Where to buy Fire, Water, and Thunder Stones",
-      "score": 21.52,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FQT0cwR19mNmRBMUd2bTRkRE91UFhUZkIzWGpEOEZCUGVZYnl5X2Jrb2pQaEEzSlJZN2NKSnE1TmVGN1lreGlVWDlGZ0xlNTR4NEFWZnJWT0d3Ym9UcW16VE0zSVdSSnZYNGhUZnpzWDlraEZ4UDdoMzY3QmhWSGtkbkU?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FQT0cwR19mNmRBMUd2bTRkRE91UFhUZkIzWGpEOEZCUGVZYnl5X2Jrb2pQaEEzSlJZN2NKSnE1TmVGN1lreGlVWDlGZ0xlNTR4NEFWZnJWT0d3Ym9UcW16VE0zSVdSSnZYNGhUZnpzWDlraEZ4UDdoMzY3QmhWSGtkbkU?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FQT0cwR19mNmRBMUd2bTRkRE91UFhUZkIzWGpEOEZCUGVZYnl5X2Jrb2pQaEEzSlJZN2NKSnE1TmVGN1lreGlVWDlGZ0xlNTR4NEFWZnJWT0d3Ym9UcW16VE0zSVdSSnZYNGhUZnpzWDlraEZ4UDdoMzY3QmhWSGtkbkU?oc=5"
-      ]
-    },
-    {
-      "title": "Air India Restores Non-Stop New York Flights, Saving Up to Five Hours",
-      "score": 21.52,
+      "title": "Air India Resumes Non-Stop New York Flights, Cutting Travel Time By 5 Hours",
+      "score": 21.39,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMkw5Vk94VnViMlJjTFBvNWxhWWtzdHdMYnZmcWdKOTZyOUtTWUtRejBoa2duRnpRZXJoS2M4bkdqSDJUVnlXUTFCRDhkU2lXb2oyQUtiTnhDYXRiOFoyOUxfSzFUQWFPb2lDRUxOUG5BbjZ5ODFkWQ?oc=5",
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGEtRjdtbUJ0WkVLVjdUcXQyT1dTR2NfZE9oNGtkSVo2VzR0Qm55cUN0S0lad0YwTjJpNHIwVl8wMnh6OTZnRUZoR1JiYlMxVW1acWhLb0NZMjRtTnJkOXBwRlRHRl96OTdHSmhROU52MVc2M19wX1pndjNjTC11Vy1aSjJTZWNPRUJiTHZIQ25oX2x3YlVKcG9MZ2pHZ1ZhN2J0cDF5WGNGQnp3R29heW1EQmJ2UdIBvgFBVV95cUxNeG5LRGxKcjlNcnItWFVTYjBNdXVZdEhhUHpPZVVvT1NCOW80M0tmUTI2eWZscjZvdFZUR3RLWnkyN3IyM3VPX0xtSWcwSDJoU0JvTUNLRWxlNW95bUUyazhTZDByQXh2eVpVVEpQNGFRT21hanRGam0wdkpHZl8zOHZqZWhlV2VqUUh5ZGVIc28yWml0NGdrQWNoODU2bVFvVEJMUUhPWkFDS0pwTC1BNVVJaDdMOUpTSEdBX1hB?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95QlJ2NEJrMGs5dmVWMklNQlRHdjhJeWZnVEM2UklUcmpGRC1keV9FTm44b2tITjktXzJkVFNkeVdTdnJ5anFqMGZ5RXJaN3RPQ0kzWGpkSU5tWENrQ1E?oc=5"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMkw5Vk94VnViMlJjTFBvNWxhWWtzdHdMYnZmcWdKOTZyOUtTWUtRejBoa2duRnpRZXJoS2M4bkdqSDJUVnlXUTFCRDhkU2lXb2oyQUtiTnhDYXRiOFoyOUxfSzFUQWFPb2lDRUxOUG5BbjZ5ODFkWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVmJQbGlpc0NnZ2RnUDBaNjlYV2tJRWgxODVYY2pmT0p5RTZMUE9SRm1LTW80UXNtTHNPTzdycTg3eTdjZ0toUlV6Uk92ZldtVGNBcWY5d1RrTlBITjZ5WThsQWdMYjV4U05reXBicmg2LXlUZEh2RW9HV1E1TFhPVHpqLWpMZ2pnWEp2WWVPN0dnbXI0Y2Z5SmUyZV9lV290a0FmelprLUxOQUdzNGNmb2RqekY3ZWxZNkRmNnQ4UjdjZ242QnlOdlBrRnYwamlVWWg2cmlua1M?oc=5"
       ]
     },
     {
       "title": "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
-      "score": 18.33,
+      "score": 18.04,
       "kinds": [
         "news"
       ],
@@ -157,6 +148,19 @@
       "links": [
         "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXNwd2cteHVMOURDYzUweUNoRUV5VjRIa0QtZlN5UzViMDQzT3Y4VVpfMGotOVlxSDExVW5DakhGS2VSXzdFTnFXSkJTaXdydUxfcGo5Ynk1SkV0empCMkNnWTZBTlB4N0xERE1uNU00VUhtSGoxN2Z0MUx3SEo3TGFxcFVDdmVHYXBvWXdFM0Zjd3Y2WF9oZVcxWGtxZ2hHZFhRZ1BId19FUWwzdHJPV0dNdmRra0pqck1FTzV2dlBuM0RUWjQtb0d4UUdZRzVEbkI3cGFoR2rSAd8BQVVfeXFMUExBV0pzei1WZGN3cVhXUmZ6YjhmV0lJVVFKWWhjUWt6aG9kRVFHUmdLejRHdl93X1A2MGZRUG9XRUpwd21iUlBOcW1GSE52VUEwSUFIcWZxWXpjMGJTSjB0VEhoRU5yRFNvT2gyNHd0WFRJOVBlbjRjUDJJQ1AzcmFBM0FfaVFyMUFWa3ljbm1fVkpOeWFDamhSNktQT18yM0psSk5qLWkzdS1LYXdyUGp5dUpzWmFudTBpWmVyZFA5YVEzejF2VE5WbUt3dlJqS2llTk9RclRReW5Ldm1ROA?oc=5",
         "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVFVKQXNOSzNkckRDVGlVR1lTRHFxRDdWLWZlbnJTZVdZc2pGbGZBRUEzVVJSNDdQZzFYUU8xTW5TNVBLYlRCRVBUdFQ2YjFOeWRrY0JlRjdrdXFRdk5oME00dlZGUi1fTWhOV0MyV2d3Z0QzVnhMbmRsTTQydUIxR09IWjNHOHFJZjFVc0FIQTZOTy00UUJRWnpBSnYxZ29yS1ZPaHdZbFlCNk9lWk9PX05WbXkwMUpjNVp1Vjh2SGxHTW9hSWJsWEdZUnJUZGV0T2pyVExxeEt0UExKS0lUbjlTYWZQU3N0QWMzdFc3bmdEdVhGb1Vta2pSa9IBgAJBVV95cUxOZi0xYzh0YXdMLWFtcG9hWGJnOUJuUUNfUFRoc1VaRGpUY0RPZERxQy02S2Y5cDV5MUZ1Um5CTHgxX0xBTzk1ZzAyQkRpd3dpYU9oSUk2T2FSMG04VkdEcHExMzhaOGdvbTl3YU9VZ25nWTgtWTVTUnQzM2hqY1pLVVlRemNIMEJRNldNWGEzNlJaZXFETEZaN3hNd1lNbl9VUVoyNWZPbHF2X3hDR0NhY1RHazVuTmUtNktjUnAwb0w1bjYwVlBQRWUyMlRLZ0lJQ05MWkpKNFJKWkRXelVmZVlaSmhZSzhURUs0Y1pvSkpIczdqMmh4ZUFSWk0xbmJ1?oc=5"
+      ]
+    },
+    {
+      "title": "Nvidia row: Lutnick pushed to weaken chip rules linked to family business",
+      "score": 21.83,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3VXeE5uYzZrcVdEd1gtOUlwMUpzRkF0YWNIWHp3ZUVkN2cyTUxPeWt5YVBWZ0VhN2U1eHlYNTJxemJYTjVhWkplY0tkRHJaeDIwV2pEMUtHeWJDS2NQTnIta2hQVlFiaHRQWUExeGxFM1hOSTc1NFpYUFFpbXpZMGtPY2hybmNtdWprWXRJUGI3SHZIcG40MTJZbkhRaFVnRUFuTVEzWmdZZVNZRWgwUWNzUDZia0F5S0p0ME9MblB0cWZBNUlvNlBGd2dwZlpSWDdR0gHYAUFVX3lxTFAzQ3c2Y3dWTExSSUVZazI1SDdmd0ZhcjRyRkswQkVYVkNkWW9Jb3dVajU3cjBYSmNDWXJLWUh2a1V5N0taQTg0N3luUmpUaENFbTU0VUxBYnRCdk1yRHZMV2pGZDFIajFTUXUtbGdFdy1KNXdIWmdFMV9UaDkzTHlISXhHdXh3cEdTWDhIY3lXYmFXV3NYQWVMRmk2eHlSN1BKenR0WlRCYnpnLWNCOEtxa2hDcGdfc2tHczNQa2hQbG1OdGRPeC11Z1NWRDBYbUhSYVB1ajBwTw?oc=5",
+        "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
       ]
     }
   ]
