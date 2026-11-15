@@ -1,25 +1,5 @@
 [
   {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "category": "AI Automation Tutorials",
-    "date": "2026-10-15"
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "category": "AI Automation Tutorials",
-    "date": "2026-10-15"
-  },
-  {
-    "title": "AI Scan for pull requests generally available",
-    "category": "New AI Features",
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-    "category": "New AI Features",
-    "date": "2026-10-15"
-  },
-  {
     "title": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
     "category": "Breaking AI News",
     "date": "2026-10-16"
@@ -588,5 +568,10 @@
     "title": "Apple Is Shutting Down Its 28-Year-Old Support Community on Nov. 20",
     "category": "Trending Technology",
     "date": "2026-11-14"
+  },
+  {
+    "title": "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "category": "AI Tools You Should Know",
+    "date": "2026-11-15"
   }
 ]

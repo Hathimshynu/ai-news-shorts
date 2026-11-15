@@ -1,37 +1,49 @@
 {
-  "job_id": "2026-11-14-evening-2357",
-  "chosen": "Apple Is Shutting Down Its 28-Year-Old Support Community on Nov. 20",
-  "reason": "Apple shutting down its iconic 28-year-old support community marks a major shift in how millions of users get official technical help.",
+  "job_id": "2026-11-15-evening-1701",
+  "chosen": "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+  "reason": "AI Manus 2.0 provides an open-source general-purpose AI agent that can execute tools in a sandbox environment, offering viewers a practical tool to explore autonomous AI workflows.",
   "candidates": [
     {
-      "title": "Apple Is Shutting Down Its 28-Year-Old Support Community on Nov. 20",
-      "score": 18.91,
+      "title": "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "score": 18.49,
       "kinds": [
-        "news"
+        "github"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cHZwS05XenVTTUdGeGIwSG1kM3BITmxnWk0wTWY5LXBvZUwzX0thdW5kWmJHSlVKQTBCRl9VZHJUSVB2c2FOM2RXVHJETTBPdS1LcDEtZ19oUkRUdTRRTVNac0Y1N1JoaU9IVmpoTGxWaHRwZWc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cHZwS05XenVTTUdGeGIwSG1kM3BITmxnWk0wTWY5LXBvZUwzX0thdW5kWmJHSlVKQTBCRl9VZHJUSVB2c2FOM2RXVHJETTBPdS1LcDEtZ19oUkRUdTRRTVNac0Y1N1JoaU9IVmpoTGxWaHRwZWc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cHZwS05XenVTTUdGeGIwSG1kM3BITmxnWk0wTWY5LXBvZUwzX0thdW5kWmJHSlVKQTBCRl9VZHJUSVB2c2FOM2RXVHJETTBPdS1LcDEtZ19oUkRUdTRRTVNac0Y1N1JoaU9IVmpoTGxWaHRwZWc?oc=5"
+        "https://github.com/Topkiflare74/ai--manus2.0",
+        "https://github.com/topapothecarycanal/ai--manus2.0",
+        "https://github.com/toppatronweave/ai--manus2.0"
       ]
     },
     {
-      "title": "What happens to refunds on UPI payments above ₹2,000 when MDR rules kick in? | NPCI yet to announce a fixed implementation date | Inshorts",
-      "score": 19.5,
+      "title": "Why India’s indigenous AI models need better data for regional languages",
+      "score": 17.98,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdlg5UGFIajY4emctLUZXRDh2bW5EWlpuTXpxRE1pYTZXWTFHekI2TGJSZlZCdDlQNWhuMUZMX2c1MW00UVlzcndWQ0VweFRCTHZtY3lTYzY4U2VmcHVNcUtrZ0tJY1c0eHN3eVVIeXBfbXdVN2hfcmhoY2tkSk9SUjBTalhSSjBCaDNjeXlZbWxzZm1QVUh6WUVDNVV0NUpJalRpa3RrTFExdXJLMWdPN0pxWlpPNS1WRmdua2hNeUvSAcABQVVfeXFMTnZYOVBhSGo2OHpnLS1GV0Q4dm1uRFpabk16cURNaWE2V1kxR3pCNkxiUmZWQnQ5UDVobjFGTF9nNTFtNFFZc3J3VkNFcHhUQkx2bWN5U2M2OFNlZnB1TXFLa2dLSWNXNHhzd3lVSHlwX213VTdoX3JoaGNrZEpPUlIwU2pYUkowQmgzY3l5WW1sc2ZtUFVIellFQzVVdDVKSWpUaWt0a0xRMXVySzFnTzdKcVpaTzUtVkZnbmtoTXlL?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWx4WGhFUklxTXpzcVJlUnBpLTBEb09QZlpMOVNUUkc3YXN3S2Jnc0VKemNMZVRsZTFvQXlxcGpES2VtWlZFczgzTW5rUjBKWm83a3FGVldtZ3M3dXl3dDNWcVY2LWpJNFZpdHFHNUp5NTJrX0ZYSmNOd2ozTkk2dnVlZC05VlBTR2VGS2Z2MUFtbnppX0N1aTUzekVmNzVqRTNHOXlkT3c3RGItQjlDMmNMM19naTY3SF9n0gHAAUFVX3lxTE52WDlQYUhqNjh6Zy0tRldEOHZtbkRaWm5NenFETWlhNldZMUd6QjZMYlJmVkJ0OVA1aG4xRkxfZzUxbTRRWXNyd1ZDRXB4VEJMdm1jeVNjNjhTZWZwdU1xS2tnS0ljVzR4c3d5VUh5cF9td1U3aF9yaGhja2RKT1JSMFNqWFJKMEJoM2N5eVltbHNmbVBVSHpZRUM1VXQ1SklqVGlrdGtMUTF1cksxZ083SnFaWk81LVZGZ25raE15Sw?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkRRTkp4MHk4ZUtjanAxLS1iUTRHOFIySnpvRWJVMHVnVHVWRXVSb0wzeDJoN2RSYmNCMkJqM3dxVVZDZV9NSThPVVg3SWNQV0c2eGRnOEFvYW1XcDRoVlkwdGc1ZFY3elBQUzByYmNmUU83enV5VzVBNTI4eFctNDRuRHVWZjB0eERCYzhBbzM0Q1laa1FhWlpoeUNMcWVVU05MQlpkRUM1elJF0gGzAUFVX3lxTE9zMjVra01aRERQTk9kclpHZWRFdmo2aU96SE16c2JtTjN4TmhMMERTbjc0NGl6dnU1Q3FWV0hOdTVNdWxOSldFUlduMXJScEp4UGc5SGUwYXZ1RmV4aWN6YU03TzU3YXlxeHFRYTR4MlRGeE1iLWJkS1RtNFFKcWdDWTVMX25hTDVUeHEtZmhUSnhyU1dzbl8wRUlCLUNkdmpLcUdGM2dkRlV5dTNIT08yLTdJ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxObkRRTkp4MHk4ZUtjanAxLS1iUTRHOFIySnpvRWJVMHVnVHVWRXVSb0wzeDJoN2RSYmNCMkJqM3dxVVZDZV9NSThPVVg3SWNQV0c2eGRnOEFvYW1XcDRoVlkwdGc1ZFY3elBQUzByYmNmUU83enV5VzVBNTI4eFctNDRuRHVWZjB0eERCYzhBbzM0Q1laa1FhWlpoeUNMcWVVU05MQlpkRUM1elJF0gGzAUFVX3lxTE9zMjVra01aRERQTk9kclpHZWRFdmo2aU96SE16c2JtTjN4TmhMMERTbjc0NGl6dnU1Q3FWV0hOdTVNdWxOSldFUlduMXJScEp4UGc5SGUwYXZ1RmV4aWN6YU03TzU3YXlxeHFRYTR4MlRGeE1iLWJkS1RtNFFKcWdDWTVMX25hTDVUeHEtZmhUSnhyU1dzbl8wRUlCLUNkdmpLcUdGM2dkRlV5dTNIT08yLTdJ?oc=5"
+      ]
+    },
+    {
+      "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+      "score": 18.88,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTG8xVkczRFM5MWV5SEhfTWNpenJ6VXl4OVpBSllwT2t3MWo3U1lSRW91MDlXZjdwOHI2TTRlVThTXzRtZ2NGcjdaLWliN3pxTF9ZQWdZMGlsVmJmR2tRTV9OcG5KWEpOYm5oYnBHRUFrY2pkdVZCQ1BRSk9fODFaRjh4SEkwRlhjbi14dTBrMA?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTG8xVkczRFM5MWV5SEhfTWNpenJ6VXl4OVpBSllwT2t3MWo3U1lSRW91MDlXZjdwOHI2TTRlVThTXzRtZ2NGcjdaLWliN3pxTF9ZQWdZMGlsVmJmR2tRTV9OcG5KWEpOYm5oYnBHRUFrY2pkdVZCQ1BRSk9fODFaRjh4SEkwRlhjbi14dTBrMA?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTG8xVkczRFM5MWV5SEhfTWNpenJ6VXl4OVpBSllwT2t3MWo3U1lSRW91MDlXZjdwOHI2TTRlVThTXzRtZ2NGcjdaLWliN3pxTF9ZQWdZMGlsVmJmR2tRTV9OcG5KWEpOYm5oYnBHRUFrY2pkdVZCQ1BRSk9fODFaRjh4SEkwRlhjbi14dTBrMA?oc=5"
       ]
     },
     {
       "title": "Why India escaped the global Microsoft 365 disruption and how to develop lasting cyber resilience",
-      "score": 19.46,
+      "score": 19.87,
       "kinds": [
         "backlog",
         "news"
@@ -43,121 +55,104 @@
       ]
     },
     {
-      "title": "Motorola's New Flagship Packs Bluetooth 7.0 and Wi-Fi 8 First: A $1,600 \"Insurance Policy on the Future\"",
-      "score": 20.24,
+      "title": "Top scorer of South Korea’s national exam for tax accountants admits to cheating through AI",
+      "score": 19.5,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b1BlNGJGSjhwT2JIVlptWVl4ZnZUcjZiTnVfczVQR0t5U2hxaldVN2FDeDhtdi1rQjZKYWM4dXZWQllqd2U4dDlNV0JzNV9RU3VOMFY2TWd0WTZ4Zk43NWEwSHFGalAzUFg4RWJUaVdsQllSOGc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b1BlNGJGSjhwT2JIVlptWVl4ZnZUcjZiTnVfczVQR0t5U2hxaldVN2FDeDhtdi1rQjZKYWM4dXZWQllqd2U4dDlNV0JzNV9RU3VOMFY2TWd0WTZ4Zk43NWEwSHFGalAzUFg4RWJUaVdsQllSOGc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b1BlNGJGSjhwT2JIVlptWVl4ZnZUcjZiTnVfczVQR0t5U2hxaldVN2FDeDhtdi1rQjZKYWM4dXZWQllqd2U4dDlNV0JzNV9RU3VOMFY2TWd0WTZ4Zk43NWEwSHFGalAzUFg4RWJUaVdsQllSOGc?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHBKZ0ZOTG9LT2dYWVhNUUVNS0RSeVdVQzY0c3pqTmRIN1hMS0JJci1OMHJCRFN2VGJQSmhrRnBNbUNBb255d0pVNXVRZXhuUmU0V1JUNy1oLU5FUE83djdqbXNnUXJ4aVYtVkJtd0didXN0TFEyWXhlOE1qTTZlZHR3Q04xZjhkSHhBSUFrbzI1MDYtWHBMWUJoQTBwclM5QW5zRnprOTVCVHlHbngzcXhhMHd6cmdkNGFQbnd3emVOZ9IBxwFBVV95cUxOb2I4Vnl2SVIyc3BNUTJRcGg3UVl6TnVralN4Q0F1X0ljWHBBZVdGcnhFaUlJamxUUGh0UDNST2hzRi12Q2VEZGF5TW5MQ20tb2NmOXJXa1V6Wm9mbGVneHoybjh1ZmtfU0xNWWNDaU1VTUZycmJ0VzZLeVE3eW1xME9JcHVQMGtBT3NqbDFkZWJpTVF2UlV2YnNOdUJQSGpGMzQ5VHYwVVByT1lOdHdqdFZ1Uk9iWFNjY2puX01JSUxEQWJSbVBz?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5"
       ]
     },
     {
-      "title": "Vivo X500 Series Prices Leaked Ahead of November 26 Launch: Box MRP Starts at ₹1,69,999",
-      "score": 23.2,
+      "title": "NIELIT to organise 3rd international conference on cyber security, digital forensics and intelligence in New Delhi tomorrow",
+      "score": 19.91,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXQydHAyeTFJaWlYbzFHVE1HZUVYcjZHbjBUSHJJRFpMSzB6TURSQ0NDRFdQVDdRWFc2TEdEVTVCLU9uVHRVS2NqVFBsc0MtRHBTY2hjMEVGcTlUNUtMaWxLQWVEbGFqaWNFY2dEbU9NVk9oN0UtMjFPTmhIdXE5OGFENXEzY2w1c1AyUW0xNEVlUjlsdmRjbl9LTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbEhHU181dXZOMVV0NkptZHg1MzRIU3VnbWpDNVJIVGhhd0NWV241MV95a3N3dmhXRU5Bd2x5Q2NoU1AwdTZFLVNqLTZtdjNYWXZjNVg4TU5jbTN0Smo3eEdmM3VTRkhEMDRfcFpwU2NsVHoxVDd3QmstUmNmTF9Ia1NQNmFOT1BzX2R0b3ZFcF9GX3k5SW1wWXlnbXJfVndiOVgzUTJseWg0VUVnVkhiTzI3N3RpdF9MTVBhVmUwNzRBMUU5N3dpWVZiVkJFWHVaZ1ZYWDBGdjdBTDMyMEhscG9SbzJOUdIB6wFBVV95cUxQVC1WM0JETWQyNGhoWjNHbWNQaFhmdjMxYmo2SXF4M3I0Vi15LVdNWGFuMTRoVjh0ZEhwRjM0ZmRmTEYtbTZtLUdHNHhhZFVqa2tKZG0yWTRZWHptdzd0eUNESkxuYko5bzJBeHBGamdtamtadGNsbE1TdlpjY3ZaU0R4VmhUMXZoNllkLWhZc3l5dE52T0RmMDk1RWl6YVVvemZiMnRpdlZCalhTMThYUjZIajltT1pJRDZLbVRJWm9oY2xhT04xd3IzZTRsNnZJc3psajM1SlBpU0c4Y1NvbzhCR0lGLTR1NW5n?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY25wY3BmM0pGQ0xCcVA0ZjBheGltWDBzdUU3aldRclhuR0tza3JPNUlBT0prcm1BMVZUR1N3TUZhNEsyY1pjV3dpZ1dxYk9ZMmNuQklxZmpUUlNoU0NMU0s3UG9pUk1mUDVQM251azVuN0hib25GNWhSWjgwUFRTZGF0WXRuR1hKaEppOEtkblowYzlpV0l1WDhCbUwzdm5QQkxFYWIyY1dqLWxtd1J6TA?oc=5"
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVZFNFAyYVptVlBkSmtHVjBjUDEydFdQczJuTWRvV2lFeno5LUMtenJPVlZ4dzFDanZEMEJVdGNjYUJUX1BvbGh4MHJhZDY4TV9tWjhrS09GVkV6WUdUc1ppb1JzaFplOUd2RFVNMjdXd3RzSUZhLWotWTZ0VHpfWTlHM29BSkdTdWs3NGFxendHejd1Zk1pZUVucG1kRWoxZGI2cm8xZ1FTSHUwclp5ZkkwWU5ycFBzZEFxQ1lWbDRWZ3prOTJkMFRqMWRuUUhhbFQ3LXVHQVJhRFh0RHdURWd2MDkzbFVnTWJ6ZjUyMFdJLWRZV193dUJFWVpnWmhR0gGGAkFVX3lxTE5kQ0M1cXduWkVrOVc3dzBRZk1WMnVKVXB2dWtqZExuZTlUQXNJYXBMSEhTMk9PaWROc1ZleWdSSVExSGhkSVp5ZVlvX3lsajVSWWh5dmhDU2Z2VGhpb0s0NFNORmJBTjhkOExiZnZWTHVQS05sOHRvanFvSUphdUFXOTRFQmxEaXVhOGhFMnc5SkxoS3gyZlVOZFlkNVY2Y0VSN0dUbXNBV2g0RlFTc0Y0OHRhRmlkUm94SUdkZVB2ZW1OSGs2QkgxamxteDVERXRpYmVWVzFaNXJtcnUtb3ViVF9NaV9FTE95cGREbXlXZ1l4al9qYUZLRnJ0blowRGxueE5QQlE?oc=5",
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVZFNFAyYVptVlBkSmtHVjBjUDEydFdQczJuTWRvV2lFeno5LUMtenJPVlZ4dzFDanZEMEJVdGNjYUJUX1BvbGh4MHJhZDY4TV9tWjhrS09GVkV6WUdUc1ppb1JzaFplOUd2RFVNMjdXd3RzSUZhLWotWTZ0VHpfWTlHM29BSkdTdWs3NGFxendHejd1Zk1pZUVucG1kRWoxZGI2cm8xZ1FTSHUwclp5ZkkwWU5ycFBzZEFxQ1lWbDRWZ3prOTJkMFRqMWRuUUhhbFQ3LXVHQVJhRFh0RHdURWd2MDkzbFVnTWJ6ZjUyMFdJLWRZV193dUJFWVpnWmhR0gGGAkFVX3lxTE5kQ0M1cXduWkVrOVc3dzBRZk1WMnVKVXB2dWtqZExuZTlUQXNJYXBMSEhTMk9PaWROc1ZleWdSSVExSGhkSVp5ZVlvX3lsajVSWWh5dmhDU2Z2VGhpb0s0NFNORmJBTjhkOExiZnZWTHVQS05sOHRvanFvSUphdUFXOTRFQmxEaXVhOGhFMnc5SkxoS3gyZlVOZFlkNVY2Y0VSN0dUbXNBV2g0RlFTc0Y0OHRhRmlkUm94SUdkZVB2ZW1OSGs2QkgxamxteDVERXRpYmVWVzFaNXJtcnUtb3ViVF9NaV9FTE95cGREbXlXZ1l4al9qYUZLRnJ0blowRGxueE5QQlE?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDQtTmJ4aGk0c09Fc3lrU0YybU5vRjhGU1JvSVhVY2xxUkU1blFWbjFxMzVVdk9MOWx5d1Z4RHNBYkpWNkNQcjdueVhwcnZKeDl2RWdlMmtzRDlyLUtoMkZ3dlpmM0pLTjZ6UGEwN3N4eXQwUlBIc3ZiM2tpZVlQd1F5c0VXc3N0QUJhR1hpZVp2UDdxWWJiRzFnQlFfcUhMamNEU3BRSzZhb0ZhMVk3Mw?oc=5"
       ]
     },
     {
-      "title": "Vivo X500 Series Box Prices Surface Online Ahead of Nov 26 India Launch",
-      "score": 18.1,
+      "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+      "score": 19.62,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lVFdPaDdiV0ZwQ0xmNzV5VzZZa2p5a3BTeWMwQWRJdHhGaGh6c0daSlpXVHNzYWJRdFRDeVVuUV9NUk1VTVdmUi1kdWRSUDZqYl9XV2hKWWE1SVZRVWNvWl9XWHdMZjJQaXRYLWNLdHcyTUZ0Q1djbEln?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEdQR2Ztd1VDdGNSY2RVcklHdkhNUGFhTWZGbHRwdHJHVkNPdDJSY093dFA3b29HandSM2F0VVpWN0FfeDM0cGJLWmdiaXgtakdfTTlxcDBvTjNwZ3ZvZHRUNGdwWjBkSURnZUNVZ2UxZ3dVT3N3aUFhbWVPSVNJTG9ZSEh6WEpPUlhJaThuemRfRk1EZ3kxTzZHSEpoRnhjOFRv?oc=5"
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5"
       ]
     },
     {
-      "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
-      "score": 18.89,
+      "title": "Pokémon just dropped glass Evolution Stone replicas: Where to buy Fire, Water, and Thunder Stones",
+      "score": 19.12,
       "kinds": [
+        "launch",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUlGemZpelhpOWZEOXBGT0tQWGp1SFlpSDdvZl9oclN0Z3dtLWFDMGFtZ1Z6a2Z3bkVkc0pFXzJ0UlEyUFBuRExRLUU1MzRGTG9QSlhPQUhpRkt0OWpxdzNxTUhvQWlKRkZVaTZMaFZfX0h3SVZKVFBVUG54bzRGczJYNUNGdnlEbEdpeHB1OURSdG13LWRYM1Q1ZEVkbzd5ZHNORlFESVNyRGstS0Ricm43N2FNTkNfdkJYSk5oMkExZllac3hpc2ZRckJYZndyQjJWbEFGeFY1Q0JwY1hDbG9ZRzVROWw0Ylotb0hoTjI?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUlGemZpelhpOWZEOXBGT0tQWGp1SFlpSDdvZl9oclN0Z3dtLWFDMGFtZ1Z6a2Z3bkVkc0pFXzJ0UlEyUFBuRExRLUU1MzRGTG9QSlhPQUhpRkt0OWpxdzNxTUhvQWlKRkZVaTZMaFZfX0h3SVZKVFBVUG54bzRGczJYNUNGdnlEbEdpeHB1OURSdG13LWRYM1Q1ZEVkbzd5ZHNORlFESVNyRGstS0Ricm43N2FNTkNfdkJYSk5oMkExZllac3hpc2ZRckJYZndyQjJWbEFGeFY1Q0JwY1hDbG9ZRzVROWw0Ylotb0hoTjI?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUlGemZpelhpOWZEOXBGT0tQWGp1SFlpSDdvZl9oclN0Z3dtLWFDMGFtZ1Z6a2Z3bkVkc0pFXzJ0UlEyUFBuRExRLUU1MzRGTG9QSlhPQUhpRkt0OWpxdzNxTUhvQWlKRkZVaTZMaFZfX0h3SVZKVFBVUG54bzRGczJYNUNGdnlEbEdpeHB1OURSdG13LWRYM1Q1ZEVkbzd5ZHNORlFESVNyRGstS0Ricm43N2FNTkNfdkJYSk5oMkExZllac3hpc2ZRckJYZndyQjJWbEFGeFY1Q0JwY1hDbG9ZRzVROWw0Ylotb0hoTjI?oc=5"
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FQT0cwR19mNmRBMUd2bTRkRE91UFhUZkIzWGpEOEZCUGVZYnl5X2Jrb2pQaEEzSlJZN2NKSnE1TmVGN1lreGlVWDlGZ0xlNTR4NEFWZnJWT0d3Ym9UcW16VE0zSVdSSnZYNGhUZnpzWDlraEZ4UDdoMzY3QmhWSGtkbkU?oc=5",
+        "https://www.producthunt.com/products/thunder-3"
       ]
     },
     {
-      "title": "Samsung Galaxy A18 4G launched in Singapore, but with a different chip - GSMArena.com news",
-      "score": 23.21,
+      "title": "Nvidia: Jensen Huang lost his cool at Indian-origin executive?",
+      "score": 17.83,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFlOMnVpVjdMUEV3NHlOM0FUUzVyNzdlLUNHTUNHVzQ1TXcxaExJbGRDU1UybXM5V1dwVnh2b1JYRGRIVEdRckRFNWtsamFCY3BQWDZlMjY5ZTFYMlJmbjV2cklFNTVwMG5UcVVIMk15aDE5d0lQX0VrV2E4SGZKV0REUHRvRmRTd1JHamlRSEvSAYwBQVVfeXFMTzJHcC1pdVcwOGZvWENEQmc4c2ZVNmxOVldEazRHdnZ5dUZGNmh1YzdXOVI5SlBiSzd5LVEtNG1PdXRQSjZKcHhoOXNtUzJPbTBDZXcxWmZkb3JCdXFVdUZvY3RSUW9pR3htbzhRLS1TOFl0N0FRYXhKa2pJX25wQ2tEMmcxNTV3OVVNU1k?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFlOMnVpVjdMUEV3NHlOM0FUUzVyNzdlLUNHTUNHVzQ1TXcxaExJbGRDU1UybXM5V1dwVnh2b1JYRGRIVEdRckRFNWtsamFCY3BQWDZlMjY5ZTFYMlJmbjV2cklFNTVwMG5UcVVIMk15aDE5d0lQX0VrV2E4SGZKV0REUHRvRmRTd1JHamlRSEs?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFlOMnVpVjdMUEV3NHlOM0FUUzVyNzdlLUNHTUNHVzQ1TXcxaExJbGRDU1UybXM5V1dwVnh2b1JYRGRIVEdRckRFNWtsamFCY3BQWDZlMjY5ZTFYMlJmbjV2cklFNTVwMG5UcVVIMk15aDE5d0lQX0VrV2E4SGZKV0REUHRvRmRTd1JHamlRSEs?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnJ6X2NuWGhJb0piNG11aUFHQWdaaVVZcXo5MEVGdlgxVDJkWDNnZldBQ1N2YzRfYW5RWHZzcVI2Sjd0U09sbm5fNVdfQ285MUFCLUR2SlpzeE4yYk85eWRSMHlLS3pUOXYyUU16VWtHa1ZEV2ZWeGhxT2NiVndOUVpUZ2lBb0U2bC13YWxQa2NucGtSNERIRTltWFZqM2FzUEZfUlU1UXZxc0lmR2ZVWXlVZU9FX0F1LXRJLS1nakTSAc4BQVVfeXFMTVZHaXB2UTdDNjdobzhQa3FlWlZyZHRNNVk4a2tQc3U0YVBTREdjQzFpUTI2NXMyRUxNYW5UaE9JR2sxcXBEdEdKZUNsSVlRc21DbmxndzluU3dKWWUwWjNJUWdrazFyTHJmajdDbUZRcDZVdi1sOVRRaHpKeDJQT2hvdTJhQW52a0FPcUMzTVFjeEZYT3Z4TXc5LUVkNXlHWjRGNTFyQTBQVmRxQTM1Q0gtalZ2OWl2TW9BRTlDLXJfVGVGMTdCa1hKZTVleFE?oc=5"
       ]
     },
     {
-      "title": "Intel Opens Linux, GCC Enablement for Razor Lake and Coral Rapids CPUs Years Before 2028 Debut",
-      "score": 18.78,
+      "title": "Air India resumes non-stop New York, Newark flights after easing of airspace curbs",
+      "score": 19.79,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UT2hyd21CTDgzYmo0OFgxNVNUVVphOUVUcDg5MFpVQlJvcFkzZmtLQ19pZWhBb05LRl8yd1JrekJFZEczNTdSZFQwTUZ3UzVNVVFHR0FxYkRBdjMteEpqcGhKQ2x1RmlwVXNPWWFCN1Etd3RkM2c?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UT2hyd21CTDgzYmo0OFgxNVNUVVphOUVUcDg5MFpVQlJvcFkzZmtLQ19pZWhBb05LRl8yd1JrekJFZEczNTdSZFQwTUZ3UzVNVVFHR0FxYkRBdjMteEpqcGhKQ2x1RmlwVXNPWWFCN1Etd3RkM2c?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UT2hyd21CTDgzYmo0OFgxNVNUVVphOUVUcDg5MFpVQlJvcFkzZmtLQ19pZWhBb05LRl8yd1JrekJFZEczNTdSZFQwTUZ3UzVNVVFHR0FxYkRBdjMteEpqcGhKQ2x1RmlwVXNPWWFCN1Etd3RkM2c?oc=5"
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVFVKQXNOSzNkckRDVGlVR1lTRHFxRDdWLWZlbnJTZVdZc2pGbGZBRUEzVVJSNDdQZzFYUU8xTW5TNVBLYlRCRVBUdFQ2YjFOeWRrY0JlRjdrdXFRdk5oME00dlZGUi1fTWhOV0MyV2d3Z0QzVnhMbmRsTTQydUIxR09IWjNHOHFJZjFVc0FIQTZOTy00UUJRWnpBSnYxZ29yS1ZPaHdZbFlCNk9lWk9PX05WbXkwMUpjNVp1Vjh2SGxHTW9hSWJsWEdZUnJUZGV0T2pyVExxeEt0UExKS0lUbjlTYWZQU3N0QWMzdFc3bmdEdVhGb1Vta2pSa9IBgAJBVV95cUxOZi0xYzh0YXdMLWFtcG9hWGJnOUJuUUNfUFRoc1VaRGpUY0RPZERxQy02S2Y5cDV5MUZ1Um5CTHgxX0xBTzk1ZzAyQkRpd3dpYU9oSUk2T2FSMG04VkdEcHExMzhaOGdvbTl3YU9VZ25nWTgtWTVTUnQzM2hqY1pLVVlRemNIMEJRNldNWGEzNlJaZXFETEZaN3hNd1lNbl9VUVoyNWZPbHF2X3hDR0NhY1RHazVuTmUtNktjUnAwb0w1bjYwVlBQRWUyMlRLZ0lJQ05MWkpKNFJKWkRXelVmZVlaSmhZSzhURUs0Y1pvSkpIczdqMmh4ZUFSWk0xbmJ1?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa3hTdFE4QjRTMUtvSXJqY01uMjRBTllMbXRqVUNxYW5NdVpIVUpzeVFNd0FPeDZwOW9lZG1LNzdjTlZ4aXhBSy1BLVhQejlYZEZHeTlCUmhmWi1kUV9LYXpxNkFLZEVHN0Z1cmcxUmk0cHdqVTBxdlF3ZzlwRWFqQXBFUlkxWVVFVTBMcUVabGhwa0xmSHhVaFI4SWtyaXo1M205N09xQW55RzB6cjd5dFItZXV1blJuT0haS2FZRi1TV3VDRW1jY01NSFJxOTd3RnNnXy0xWXNyeEI4M1A5ZW9PM2vSAeoBQVVfeXFMTUltSDRXenN5T2pTUEdOR2xCYU1JSmFia3kzRzZmazhjZE9BX3VQblJFRlFyVWV0OVZjSm5YQk41M0E0Z3JCZm9HTU93UnRqaTlhcExxYTgtRWM0WTU4eEJVS2RnZFJUT3NMb1pxZDNCUmExekdQR1lDcVZ2YmxyZlFrTEhXeXR6VDlWMThXemNtN2tCM2hrRE1QejdHdm5HY0RaTHc2X085bGthZ3VjSWdZNkNQY20zWmFkWmNTTzJDRUhCUFZRYzhoa3FSUTE2LThnMEdvSFNwYTBneTRZNVpiREpmVFZlT1RR?oc=5"
       ]
     },
     {
-      "title": "CRKD's $29.99 Atom Plus Packs Dual Thumbsticks Into a 3.5-Inch Gamepad",
-      "score": 19.13,
+      "title": "NYT Strands hints, answers for November 14, 2026",
+      "score": 20.01,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoek96Z3dUSkdfdEZFLUdKVkkzOHJZMHBJZWRvOXpOTXNUeHlHT2lPU0VyMlFUT1R2ZVpfTWVnNUJhSk5RS3F3S2g5R0czbFZsVGY4R25pV3Jpbm81OHZCUVl0cUxSTjhlM1p0S3RBYjRlZUhmbmc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoek96Z3dUSkdfdEZFLUdKVkkzOHJZMHBJZWRvOXpOTXNUeHlHT2lPU0VyMlFUT1R2ZVpfTWVnNUJhSk5RS3F3S2g5R0czbFZsVGY4R25pV3Jpbm81OHZCUVl0cUxSTjhlM1p0S3RBYjRlZUhmbmc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoek96Z3dUSkdfdEZFLUdKVkkzOHJZMHBJZWRvOXpOTXNUeHlHT2lPU0VyMlFUT1R2ZVpfTWVnNUJhSk5RS3F3S2g5R0czbFZsVGY4R25pV3Jpbm81OHZCUVl0cUxSTjhlM1p0S3RBYjRlZUhmbmc?oc=5"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSW5mdkFXVGpkNW1tOXlYV0MyS0pFcUJ5UVYzMi1zV0p4bjUtTWVVcWJKUVdQamwwMXc2aU9rQ1gzR0stUE85TGowNU91OU9CQ09MMUl4dFRxWFFGQ1p0TE5neUZBTjZ5bXc0ajA1SnRKTGZyVElv?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0V5a3FfTE5FME1zV2JkWXVKck1RWkJlcV8wQWctZXFfcFA4VnBqUlNCd1paMlhpQWc4bDNVZng5RDJ1emoxdW1iSy12YzB4a292X1plRmNUQUV5NHlPNURPZ0tSdDBBczA1U2VWVXRHNzRhMWRTNjhEVTZnSzl4dXFLcWliN2pucDlRWXM0M0Z0RV9UaHc?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0V5a3FfTE5FME1zV2JkWXVKck1RWkJlcV8wQWctZXFfcFA4VnBqUlNCd1paMlhpQWc4bDNVZng5RDJ1emoxdW1iSy12YzB4a292X1plRmNUQUV5NHlPNURPZ0tSdDBBczA1U2VWVXRHNzRhMWRTNjhEVTZnSzl4dXFLcWliN2pucDlRWXM0M0Z0RV9UaHc?oc=5"
       ]
     },
     {
-      "title": "Weekly Startup Funding News: Indian Startup Funding Slumps 90% To $25.2 Mn",
-      "score": 19.35,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEo4WWNmeUxPNXdZTTZLYVVOM2tlMnhhMWRfYUthWklXeV9RYjZEQU1GYXotbFRMWjZBeE5tWmxKMXR0YWRoSlN6aE5Zc0lYQ1h2Q3d5YjVoTi1mZDlFdHQ3d3NYemZpTlRIeW55ZkpOd190Z09ORko4TGN0R3VUaWhTOGhsTWJ0c252VUVTUE9BbG02a3A5Qg?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEo4WWNmeUxPNXdZTTZLYVVOM2tlMnhhMWRfYUthWklXeV9RYjZEQU1GYXotbFRMWjZBeE5tWmxKMXR0YWRoSlN6aE5Zc0lYQ1h2Q3d5YjVoTi1mZDlFdHQ3d3NYemZpTlRIeW55ZkpOd190Z09ORko4TGN0R3VUaWhTOGhsTWJ0c252VUVTUE9BbG02a3A5Qg?oc=5"
-      ]
-    },
-    {
-      "title": "New releases from Vacheron Constantin, Petermann Bedat, Ming and more",
-      "score": 19.02,
+      "title": "Congenital Central Hypoventilation Syndrome Due to a PHOX2B 20/31 Polyalanine Repeat Expansion Mutation: A Case Report",
+      "score": 17.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXpESF94Y2xHZS1QeHNyaWN4aXpaVTV0SFZfT3R6cThTcnZhal9RU2ppYmsxRnlvZGNsYW14UEk3eHBrLTlBbV9ORlRpclU1MXdKUkI5bThIOXlNQTBraFp4Qmc3ZlRaNk1xMWNPOWgzY2NFVjVsT2w4NlVGVFpkSVo4djV2NlZNQTVETnlLazBfZTFJeTZCbA?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXpESF94Y2xHZS1QeHNyaWN4aXpaVTV0SFZfT3R6cThTcnZhal9RU2ppYmsxRnlvZGNsYW14UEk3eHBrLTlBbV9ORlRpclU1MXdKUkI5bThIOXlNQTBraFp4Qmc3ZlRaNk1xMWNPOWgzY2NFVjVsT2w4NlVGVFpkSVo4djV2NlZNQTVETnlLazBfZTFJeTZCbA?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXpESF94Y2xHZS1QeHNyaWN4aXpaVTV0SFZfT3R6cThTcnZhal9RU2ppYmsxRnlvZGNsYW14UEk3eHBrLTlBbV9ORlRpclU1MXdKUkI5bThIOXlNQTBraFp4Qmc3ZlRaNk1xMWNPOWgzY2NFVjVsT2w4NlVGVFpkSVo4djV2NlZNQTVETnlLazBfZTFJeTZCbA?oc=5"
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVUxTkptTGRuYVlvVHlzSG5wbHdNdkRJSUNKdWtvNDMzOV85bGE4SFdQZEdUTWFaVTRLd1M1Y3E4NWhWVDhFb3kzQmFEM2VZVURjX1hkalFQTl9Zb1lBV1BwYUgwUnNvYXJXMUMxRTFPUVMxMm1CSU5qZEsyLVlaQjBHak1URDZyOVpQVlMtMVByVlR2eF82RjYtd1VkSnpkUnktb1VZTXFYUTVTakttUFBNb3pmcjFhTE5HTWVBdVF0WnJEcElZVTh4WF8wZGR5cThqUlF6Qk0yaGpCRkxlYjVjR0UybTZyRFRv?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVUxTkptTGRuYVlvVHlzSG5wbHdNdkRJSUNKdWtvNDMzOV85bGE4SFdQZEdUTWFaVTRLd1M1Y3E4NWhWVDhFb3kzQmFEM2VZVURjX1hkalFQTl9Zb1lBV1BwYUgwUnNvYXJXMUMxRTFPUVMxMm1CSU5qZEsyLVlaQjBHak1URDZyOVpQVlMtMVByVlR2eF82RjYtd1VkSnpkUnktb1VZTXFYUTVTakttUFBNb3pmcjFhTE5HTWVBdVF0WnJEcElZVTh4WF8wZGR5cThqUlF6Qk0yaGpCRkxlYjVjR0UybTZyRFRv?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVUxTkptTGRuYVlvVHlzSG5wbHdNdkRJSUNKdWtvNDMzOV85bGE4SFdQZEdUTWFaVTRLd1M1Y3E4NWhWVDhFb3kzQmFEM2VZVURjX1hkalFQTl9Zb1lBV1BwYUgwUnNvYXJXMUMxRTFPUVMxMm1CSU5qZEsyLVlaQjBHak1URDZyOVpQVlMtMVByVlR2eF82RjYtd1VkSnpkUnktb1VZTXFYUTVTakttUFBNb3pmcjFhTE5HTWVBdVF0WnJEcElZVTh4WF8wZGR5cThqUlF6Qk0yaGpCRkxlYjVjR0UybTZyRFRv?oc=5"
       ]
     }
   ]
