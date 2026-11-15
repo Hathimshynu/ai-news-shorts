@@ -1,25 +1,13 @@
 {
-  "job_id": "2026-11-15-evening-1701",
-  "chosen": "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "reason": "AI Manus 2.0 provides an open-source general-purpose AI agent that can execute tools in a sandbox environment, offering viewers a practical tool to explore autonomous AI workflows.",
+  "job_id": "2026-11-15-evening-1801",
+  "chosen": "Why India’s indigenous AI models need better data for regional languages",
+  "reason": "It highlights a critical bottleneck in building Indian language AI models, giving viewers actionable insight into the future of Indic LLMs.",
   "candidates": [
     {
-      "title": "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "score": 18.49,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/Topkiflare74/ai--manus2.0",
-        "https://github.com/topapothecarycanal/ai--manus2.0",
-        "https://github.com/toppatronweave/ai--manus2.0"
-      ]
-    },
-    {
       "title": "Why India’s indigenous AI models need better data for regional languages",
-      "score": 17.98,
+      "score": 19.73,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -30,8 +18,9 @@
     },
     {
       "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
-      "score": 18.88,
+      "score": 20.63,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -43,7 +32,7 @@
     },
     {
       "title": "Why India escaped the global Microsoft 365 disruption and how to develop lasting cyber resilience",
-      "score": 19.87,
+      "score": 19.62,
       "kinds": [
         "backlog",
         "news"
@@ -55,9 +44,22 @@
       ]
     },
     {
-      "title": "Top scorer of South Korea’s national exam for tax accountants admits to cheating through AI",
-      "score": 19.5,
+      "title": "AI may deepen pricing pressure on Indian IT services before new demand offsets it: Report",
+      "score": 17.88,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlVhVmRrUDl3bUhWRWpDQ1FJdEdYd3h2WkN4RmNnZjltSHhfSm9pNWVET0lBdWtfSHp6eDVNSjhWNHEwSTAwUHBxTE9RR1E2MjJfUU5PanhoNF9LMUE5bWF6cG94SDFabnIzMmtMWmV2cjRTWGtITURsRFI3VGRiTklaTUlwNkdseDgwMmNyQU1pY1NBdU1tdTRlWVFpeXpYRkxKQ3dWYWFkdXBZdG5yWFMyMm4xZ2pBdERabDFlZUczbjlTdzU5SWZGT0Z0RGtDS3JrZ1dR?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlVhVmRrUDl3bUhWRWpDQ1FJdEdYd3h2WkN4RmNnZjltSHhfSm9pNWVET0lBdWtfSHp6eDVNSjhWNHEwSTAwUHBxTE9RR1E2MjJfUU5PanhoNF9LMUE5bWF6cG94SDFabnIzMmtMWmV2cjRTWGtITURsRFI3VGRiTklaTUlwNkdseDgwMmNyQU1pY1NBdU1tdTRlWVFpeXpYRkxKQ3dWYWFkdXBZdG5yWFMyMm4xZ2pBdERabDFlZUczbjlTdzU5SWZGT0Z0RGtDS3JrZ1dR?oc=5"
+      ]
+    },
+    {
+      "title": "Top scorer of South Korea’s national exam for tax accountants admits to cheating through AI",
+      "score": 21.82,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -69,8 +71,9 @@
     },
     {
       "title": "NIELIT to organise 3rd international conference on cyber security, digital forensics and intelligence in New Delhi tomorrow",
-      "score": 19.91,
+      "score": 23.66,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -81,9 +84,23 @@
       ]
     },
     {
-      "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-      "score": 19.62,
+      "title": "How AI Helps Me Find the Right TV Shows at the Right Times",
+      "score": 19.87,
       "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yRXBVZ0loRkZnUzNfTjNXUlpydDc5VnZ0bGg2VHZ5SzFZQzdUUWpTVWE1aHVHdlZRU2hxRXNJZlNuQksyYnVGYWxuYnY3b3hubUNTb1NHelpRVlRiVjlXbnRZSHNMM0xfcWtDUkh3?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yRXBVZ0loRkZnUzNfTjNXUlpydDc5VnZ0bGg2VHZ5SzFZQzdUUWpTVWE1aHVHdlZRU2hxRXNJZlNuQksyYnVGYWxuYnY3b3hubUNTb1NHelpRVlRiVjlXbnRZSHNMM0xfcWtDUkh3?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yRXBVZ0loRkZnUzNfTjNXUlpydDc5VnZ0bGg2VHZ5SzFZQzdUUWpTVWE1aHVHdlZRU2hxRXNJZlNuQksyYnVGYWxuYnY3b3hubUNTb1NHelpRVlRiVjlXbnRZSHNMM0xfcWtDUkh3?oc=5"
+      ]
+    },
+    {
+      "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+      "score": 23.72,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -95,64 +112,52 @@
     },
     {
       "title": "Pokémon just dropped glass Evolution Stone replicas: Where to buy Fire, Water, and Thunder Stones",
-      "score": 19.12,
+      "score": 20.87,
       "kinds": [
+        "backlog",
         "launch",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FQT0cwR19mNmRBMUd2bTRkRE91UFhUZkIzWGpEOEZCUGVZYnl5X2Jrb2pQaEEzSlJZN2NKSnE1TmVGN1lreGlVWDlGZ0xlNTR4NEFWZnJWT0d3Ym9UcW16VE0zSVdSSnZYNGhUZnpzWDlraEZ4UDdoMzY3QmhWSGtkbkU?oc=5",
-        "https://www.producthunt.com/products/thunder-3"
+        "https://www.producthunt.com/products/thunder-3",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FQT0cwR19mNmRBMUd2bTRkRE91UFhUZkIzWGpEOEZCUGVZYnl5X2Jrb2pQaEEzSlJZN2NKSnE1TmVGN1lreGlVWDlGZ0xlNTR4NEFWZnJWT0d3Ym9UcW16VE0zSVdSSnZYNGhUZnpzWDlraEZ4UDdoMzY3QmhWSGtkbkU?oc=5"
       ]
     },
     {
-      "title": "Nvidia: Jensen Huang lost his cool at Indian-origin executive?",
-      "score": 17.83,
+      "title": "Air India Resumes Non-Stop New York Flights, Cutting Travel Time By 5 Hours",
+      "score": 21.38,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnJ6X2NuWGhJb0piNG11aUFHQWdaaVVZcXo5MEVGdlgxVDJkWDNnZldBQ1N2YzRfYW5RWHZzcVI2Sjd0U09sbm5fNVdfQ285MUFCLUR2SlpzeE4yYk85eWRSMHlLS3pUOXYyUU16VWtHa1ZEV2ZWeGhxT2NiVndOUVpUZ2lBb0U2bC13YWxQa2NucGtSNERIRTltWFZqM2FzUEZfUlU1UXZxc0lmR2ZVWXlVZU9FX0F1LXRJLS1nakTSAc4BQVVfeXFMTVZHaXB2UTdDNjdobzhQa3FlWlZyZHRNNVk4a2tQc3U0YVBTREdjQzFpUTI2NXMyRUxNYW5UaE9JR2sxcXBEdEdKZUNsSVlRc21DbmxndzluU3dKWWUwWjNJUWdrazFyTHJmajdDbUZRcDZVdi1sOVRRaHpKeDJQT2hvdTJhQW52a0FPcUMzTVFjeEZYT3Z4TXc5LUVkNXlHWjRGNTFyQTBQVmRxQTM1Q0gtalZ2OWl2TW9BRTlDLXJfVGVGMTdCa1hKZTVleFE?oc=5"
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGEtRjdtbUJ0WkVLVjdUcXQyT1dTR2NfZE9oNGtkSVo2VzR0Qm55cUN0S0lad0YwTjJpNHIwVl8wMnh6OTZnRUZoR1JiYlMxVW1acWhLb0NZMjRtTnJkOXBwRlRHRl96OTdHSmhROU52MVc2M19wX1pndjNjTC11Vy1aSjJTZWNPRUJiTHZIQ25oX2x3YlVKcG9MZ2pHZ1ZhN2J0cDF5WGNGQnp3R29heW1EQmJ2UdIBvgFBVV95cUxNeG5LRGxKcjlNcnItWFVTYjBNdXVZdEhhUHpPZVVvT1NCOW80M0tmUTI2eWZscjZvdFZUR3RLWnkyN3IyM3VPX0xtSWcwSDJoU0JvTUNLRWxlNW95bUUyazhTZDByQXh2eVpVVEpQNGFRT21hanRGam0wdkpHZl8zOHZqZWhlV2VqUUh5ZGVIc28yWml0NGdrQWNoODU2bVFvVEJMUUhPWkFDS0pwTC1BNVVJaDdMOUpTSEdBX1hB?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa3hTdFE4QjRTMUtvSXJqY01uMjRBTllMbXRqVUNxYW5NdVpIVUpzeVFNd0FPeDZwOW9lZG1LNzdjTlZ4aXhBSy1BLVhQejlYZEZHeTlCUmhmWi1kUV9LYXpxNkFLZEVHN0Z1cmcxUmk0cHdqVTBxdlF3ZzlwRWFqQXBFUlkxWVVFVTBMcUVabGhwa0xmSHhVaFI4SWtyaXo1M205N09xQW55RzB6cjd5dFItZXV1blJuT0haS2FZRi1TV3VDRW1jY01NSFJxOTd3RnNnXy0xWXNyeEI4M1A5ZW9PM2vSAeoBQVVfeXFMTUltSDRXenN5T2pTUEdOR2xCYU1JSmFia3kzRzZmazhjZE9BX3VQblJFRlFyVWV0OVZjSm5YQk41M0E0Z3JCZm9HTU93UnRqaTlhcExxYTgtRWM0WTU4eEJVS2RnZFJUT3NMb1pxZDNCUmExekdQR1lDcVZ2YmxyZlFrTEhXeXR6VDlWMThXemNtN2tCM2hrRE1QejdHdm5HY0RaTHc2X085bGthZ3VjSWdZNkNQY20zWmFkWmNTTzJDRUhCUFZRYzhoa3FSUTE2LThnMEdvSFNwYTBneTRZNVpiREpmVFZlT1RR?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0ktM1N2bzNIN3gwS04wU0loclYxS1ZfMnlfa2ZhSTVkS2xPUS1YQmVVNHRzbjJET0M1YWtMZ0YtSE1fUnJqR3ZoaER0WDVhb3IxM0UxeC1DUmxwaGdoOG15WThPY2ZxUTF3QnAwOXZ4d1dYaHlJQjVkRnR2bXpQZDFDNFlxU3JFemxxVlRZMXZpZUhpM1pTS0RiXzJVTGM5SE5aZ05ZTEZxZll5MzNsRHRUZWVVVlNHUVRTaWhHdFFlQzJNSWhBTnRFeWg2aElHWjJzdnY4eG9WQzDSAeABQVVfeXFMTWxzYmVUb2lqWV92UXBpSV8tOVYwZVkxeTJRYkdNWGREOF9uei1SLWdhZzN5TVg2ZkRXa2dfWUJOU192YTVMc1RzQ0hPbURGUnFld0R2MFc3Y3c0ekZNOUFCbmlCdU8wOTlQTE9SbXBjYnM5SzdPYkxueTd6YnAxWmw0OGdueHNjdzBPUGpVYXh3Qk9kc1BhaDFBUHVTT0JkUXNmTjM4MzRyS0M5R18wVjBHTkVqbDZrYWQyTjFvQlh5WVZUeVVYbUtYa19qMkhid1FxdXEwUElURHR1V0ZjcE8?oc=5"
       ]
     },
     {
-      "title": "Air India resumes non-stop New York, Newark flights after easing of airspace curbs",
-      "score": 19.79,
+      "title": "India stocks recover $400B as global investors reduce AI exposure",
+      "score": 17.86,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVFVKQXNOSzNkckRDVGlVR1lTRHFxRDdWLWZlbnJTZVdZc2pGbGZBRUEzVVJSNDdQZzFYUU8xTW5TNVBLYlRCRVBUdFQ2YjFOeWRrY0JlRjdrdXFRdk5oME00dlZGUi1fTWhOV0MyV2d3Z0QzVnhMbmRsTTQydUIxR09IWjNHOHFJZjFVc0FIQTZOTy00UUJRWnpBSnYxZ29yS1ZPaHdZbFlCNk9lWk9PX05WbXkwMUpjNVp1Vjh2SGxHTW9hSWJsWEdZUnJUZGV0T2pyVExxeEt0UExKS0lUbjlTYWZQU3N0QWMzdFc3bmdEdVhGb1Vta2pSa9IBgAJBVV95cUxOZi0xYzh0YXdMLWFtcG9hWGJnOUJuUUNfUFRoc1VaRGpUY0RPZERxQy02S2Y5cDV5MUZ1Um5CTHgxX0xBTzk1ZzAyQkRpd3dpYU9oSUk2T2FSMG04VkdEcHExMzhaOGdvbTl3YU9VZ25nWTgtWTVTUnQzM2hqY1pLVVlRemNIMEJRNldNWGEzNlJaZXFETEZaN3hNd1lNbl9VUVoyNWZPbHF2X3hDR0NhY1RHazVuTmUtNktjUnAwb0w1bjYwVlBQRWUyMlRLZ0lJQ05MWkpKNFJKWkRXelVmZVlaSmhZSzhURUs0Y1pvSkpIczdqMmh4ZUFSWk0xbmJ1?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa3hTdFE4QjRTMUtvSXJqY01uMjRBTllMbXRqVUNxYW5NdVpIVUpzeVFNd0FPeDZwOW9lZG1LNzdjTlZ4aXhBSy1BLVhQejlYZEZHeTlCUmhmWi1kUV9LYXpxNkFLZEVHN0Z1cmcxUmk0cHdqVTBxdlF3ZzlwRWFqQXBFUlkxWVVFVTBMcUVabGhwa0xmSHhVaFI4SWtyaXo1M205N09xQW55RzB6cjd5dFItZXV1blJuT0haS2FZRi1TV3VDRW1jY01NSFJxOTd3RnNnXy0xWXNyeEI4M1A5ZW9PM2vSAeoBQVVfeXFMTUltSDRXenN5T2pTUEdOR2xCYU1JSmFia3kzRzZmazhjZE9BX3VQblJFRlFyVWV0OVZjSm5YQk41M0E0Z3JCZm9HTU93UnRqaTlhcExxYTgtRWM0WTU4eEJVS2RnZFJUT3NMb1pxZDNCUmExekdQR1lDcVZ2YmxyZlFrTEhXeXR6VDlWMThXemNtN2tCM2hrRE1QejdHdm5HY0RaTHc2X085bGthZ3VjSWdZNkNQY20zWmFkWmNTTzJDRUhCUFZRYzhoa3FSUTE2LThnMEdvSFNwYTBneTRZNVpiREpmVFZlT1RR?oc=5"
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFlHSFFlenlzaWNjNmU0NGR3c1lIdTg2cXp2RlpxN1I2dGNtYVYwSTNkazVFemVFcGxhZGI4SGxTM01oTnlTOERteFlfU3dVN0xTZG5Jcnl3VVpLVUdqRV9kQk9nYmljdFJFTkJUbFFPRjltYXZTRzMtbi0wY1RsV0FB?oc=5"
       ]
     },
     {
-      "title": "NYT Strands hints, answers for November 14, 2026",
-      "score": 20.01,
+      "title": "House of Abhinandan Lodha prepays ₹1,100 crore loan to HDFC Capital",
+      "score": 17.88,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSW5mdkFXVGpkNW1tOXlYV0MyS0pFcUJ5UVYzMi1zV0p4bjUtTWVVcWJKUVdQamwwMXc2aU9rQ1gzR0stUE85TGowNU91OU9CQ09MMUl4dFRxWFFGQ1p0TE5neUZBTjZ5bXc0ajA1SnRKTGZyVElv?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0V5a3FfTE5FME1zV2JkWXVKck1RWkJlcV8wQWctZXFfcFA4VnBqUlNCd1paMlhpQWc4bDNVZng5RDJ1emoxdW1iSy12YzB4a292X1plRmNUQUV5NHlPNURPZ0tSdDBBczA1U2VWVXRHNzRhMWRTNjhEVTZnSzl4dXFLcWliN2pucDlRWXM0M0Z0RV9UaHc?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0V5a3FfTE5FME1zV2JkWXVKck1RWkJlcV8wQWctZXFfcFA4VnBqUlNCd1paMlhpQWc4bDNVZng5RDJ1emoxdW1iSy12YzB4a292X1plRmNUQUV5NHlPNURPZ0tSdDBBczA1U2VWVXRHNzRhMWRTNjhEVTZnSzl4dXFLcWliN2pucDlRWXM0M0Z0RV9UaHc?oc=5"
-      ]
-    },
-    {
-      "title": "Congenital Central Hypoventilation Syndrome Due to a PHOX2B 20/31 Polyalanine Repeat Expansion Mutation: A Case Report",
-      "score": 17.67,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVUxTkptTGRuYVlvVHlzSG5wbHdNdkRJSUNKdWtvNDMzOV85bGE4SFdQZEdUTWFaVTRLd1M1Y3E4NWhWVDhFb3kzQmFEM2VZVURjX1hkalFQTl9Zb1lBV1BwYUgwUnNvYXJXMUMxRTFPUVMxMm1CSU5qZEsyLVlaQjBHak1URDZyOVpQVlMtMVByVlR2eF82RjYtd1VkSnpkUnktb1VZTXFYUTVTakttUFBNb3pmcjFhTE5HTWVBdVF0WnJEcElZVTh4WF8wZGR5cThqUlF6Qk0yaGpCRkxlYjVjR0UybTZyRFRv?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVUxTkptTGRuYVlvVHlzSG5wbHdNdkRJSUNKdWtvNDMzOV85bGE4SFdQZEdUTWFaVTRLd1M1Y3E4NWhWVDhFb3kzQmFEM2VZVURjX1hkalFQTl9Zb1lBV1BwYUgwUnNvYXJXMUMxRTFPUVMxMm1CSU5qZEsyLVlaQjBHak1URDZyOVpQVlMtMVByVlR2eF82RjYtd1VkSnpkUnktb1VZTXFYUTVTakttUFBNb3pmcjFhTE5HTWVBdVF0WnJEcElZVTh4WF8wZGR5cThqUlF6Qk0yaGpCRkxlYjVjR0UybTZyRFRv?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbVUxTkptTGRuYVlvVHlzSG5wbHdNdkRJSUNKdWtvNDMzOV85bGE4SFdQZEdUTWFaVTRLd1M1Y3E4NWhWVDhFb3kzQmFEM2VZVURjX1hkalFQTl9Zb1lBV1BwYUgwUnNvYXJXMUMxRTFPUVMxMm1CSU5qZEsyLVlaQjBHak1URDZyOVpQVlMtMVByVlR2eF82RjYtd1VkSnpkUnktb1VZTXFYUTVTakttUFBNb3pmcjFhTE5HTWVBdVF0WnJEcElZVTh4WF8wZGR5cThqUlF6Qk0yaGpCRkxlYjVjR0UybTZyRFRv?oc=5"
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTFl5Z2lFOUhCMEFMdUM3Y3dYYndYMVlLWmlDa2U0eGxQUXVQbTNJTnN6dnI5SUcyWjRXNkpaZEJVbXZGUVNBbzU1d19Xc3pKRVJLT1VJYlpWM2trNXlySUcwOExLNUFWbWlkVUNKRzhmTFhTWjE0dlh2VDFyRWRNdlRqZThnMHdScnUyOHNkRzBJY3Q0SWxRVE5rZ2E0MUxRRXpMOHRwclI4cllhNkhSRFV5djBDRm1FUmpINDN5aTBzaTdMRXhhU0dJNDJoektx0gHWAUFVX3lxTE5hbndveVNfb2pGdjFnUWhydEZrNDk4eEVXWnBta0tzNXN0VUYtVWZubFlhVENnMndHUjY4VURnY1VwenVNOUdTZVpyM0NXd3RjV25Ra1k1alcxZU1CVkp2LVUwVkxid2dpV0dia0djaEFITFVLZWNfNmppVUJqVF9WV1c5UVFncmNHUmNLZ2M0STc2RGNCRDNtOGdnRDJsWEx6UzBocEpoOHF5U3YzWVcwc194azdZYTFRTjVmZnItS3BId0w2MXhaNm9iSkNraHBQLTZ5S2c?oc=5"
       ]
     }
   ]
