@@ -1,166 +1,161 @@
 {
-  "job_id": "2026-11-16-morning-0034",
-  "chosen": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
-  "reason": "The idea of beaming AI data centers into orbit to solve power shortages is a visually captivating and thought-provoking topic that will spark strong engagement on short-video feeds.",
+  "job_id": "2026-11-16-evening-1701",
+  "chosen": "India's Bharat Semi raises $24M seed to build AI image sensors",
+  "reason": "It highlights India's growing momentum in AI hardware with a domestic startup securing $24M to develop native AI image sensors.",
   "candidates": [
     {
-      "title": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
-      "score": 20.96,
+      "title": "India's Bharat Semi raises $24M seed to build AI image sensors",
+      "score": 21.29,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVJWZVprMDZsUC0yY19lc0pZalNpWHF2YzNEMEtYZ21jT1FxMzNGNndJaUN3YTRvNHVCN1Y0VDZSNmM1UVJKVlJXRFZUSzZKbUZfWHVkNVprR2tqcklreWRtRE0wZ1l4MEt1aWZtZzhFRVFVMkpHRWU3SmFsT2xDSVI5Q1VWblFMWmUwOHQ5RmlEU0xnUENBN2hJRFdVdXlTc1d2ZkdiOXptaHpaUmQ2NFFnSHpuaGxyVkxyV2x6UVY?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjAtcmpIOE9mWUE1OFVFcXZGcjB1b2I2TDNhcmkyZ0ZKU0lpTi1KYWJHU0VwM01oblgwOGtIWk96djdPS3JPdGt3TnZaNFFSXzdSRU16bFV5eHZuSWY5VzdqbkxpV1c3ekpEMzRYZjBOTjNpVWdrcWItX1daX2xBY01sR2JWSEl6SkJ0aG1iUnRDOUhlWXBqWnpaQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVhmYTFybmxzOVFtUWxzZDR2emQwMnQ1RjZkYldubHNuRklkLVFybzZwbEYyXzdNZGtyb2xKaTBzY3RwTEJQdXZOUWE2d2JIZGFkWDZodHNqZmM1aS1pV1lCaHVSU0NWTlZ5cGozX3A2ZUdla3dYZk5hYTNucG95UVBKczdWNzBleTljS1RkejNFOUVMWEpYb2ZKSy14ejdrTm5KQU54OTk4QWl0TXFj?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXZlNVFxWEVjTG1IRF84MmJBc29WVnpWMGsyTEJKaEZyekh2N3prVEhCRkJOSHZXb3lwVWU2VEpFSVRFMkt2U2hJdnY1YXA0VHZXLUVUZVk1cmh2NVRXeUM2Uk1JaDRSXzBla05zZjV3SmI5MkxMTHRFTXM3MDh5OUFCVDFfSGtqclBYTEdCTHNyT3Zfd2JBbVlDem14YkNjOUFILUhFUXh2Q0pJbEZhcl9kQV80bG9nbnpkOTZjUDZvTnF1bUE?oc=5"
       ]
     },
     {
-      "title": "India’s space economy scales $9 billion mark",
-      "score": 22.43,
+      "title": "Jio Stops New Signups For Free Google AI Pro Subscription",
+      "score": 19.7,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWVMMWNxT3hreWt6Y0pWOHNBeFI5ZXBOeHNQRzllXzlteWhaMi0wMW1jbFVUSmUwdmdHdmJqVHNTclFkUG5YMktVdTNYQVBaMTA2THVsNElmNC1WN0h4S2NoN21XR3FMMGtJVk1YbkRnRWFybkdFb2FVaXpzQ2doWTk1ODJwVHRsbHJNbDBUMDdmYVRNZzFKcVNVb01YaXR3eTJwc2V2OTDSAagBQVVfeXFMTmllTDFjcU94a3lremNKVjhzQXhSOWVwTnhzUEc5ZV85bXloWjItMDFtY2xVVEplMHZnR3ZialRzU3JRZFBuWDJLVXUzWEFQWjEwNkx1bDRJZjQtVjdIeEtjaDdtV0dxTDBrSVZNWG5EZ0Vhcm5HRW9hVWl6c0NnaFk5NTgycFR0bGxyTWwwVDA3ZmFUTWcxSnFTVW9NWGl0d3kycHNldjkw?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQmVzNmdmeTBVbHBnM2twekVTbDQ5V2NWYUR5elAyVkM1SkpXQVE4aTVJZnhJVEU5UU1qa3FEQm9IcVdTclR3WjdpbEx1Umo4S3FIOFppaEYzQ21FOHBraUJsY3FuZ21zdEE?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE0weE1BM3c3VERSdFY2ODFCSkRJSGEybHNNcW9Na0JOYzFwS1JsOGxZaWhIOG5zczVkTVBNZ2d3QUltZHRvM2RkenVIbkZwT3F3X0pqOU4tZjZVb1NMbGNtVG9BZTUwS0h0SzRDUVozaw?oc=5"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlVTM0cta2hvREtMWTZvUXA5Vk5FMlpjWlA0R3Ryd2ZfRW1GQ2N1ODBNdmZ0VEdVWnp2bmE1blo2N09oYmV1R2JjajVseFVvRkE2VUUwS1B2WHhUbXZCemFKNGZwQkozd2dydHlybG9SdnB4akhUUmhEa3RydVRHQng4YXQxODFX?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXZHbkZRZ2xUQk5acXNhM2FFVVhFSEo4QVg4UU9lbmtfZW5RZ25oMXlxYm1ocGxmOHJUU3JiYTdPS2lQNjFLVEdCWGxCdjR3TlRnd0tReXd5cWtpVXpJTHFwMXNzVDRyQjJGNFlfTlpVQTNILUJMTUZXQWRLQ0pCeGliSGpCN2lEaW9pR3hCSno5WGtaOUk2Qzd3?oc=5"
       ]
     },
     {
-      "title": "Why India escaped the global Microsoft 365 disruption and how to develop lasting cyber resilience",
-      "score": 19.52,
+      "title": "India's Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
+      "score": 22.79,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVBfREU1a09iRTRPbjRkMHhQU0hDU3Y2c2VYMTJpZ1hKbWd1SWFVWW9WcmNGd1NvNF94eno4Tkh4Nkc2MzBscVI0SlQ5VF9Wa1BKemFpaTVxYUNfWFMzTV9xOEF6bXJKTHVfWUx6MWV1bzl4TWd0blNoM3ZGZlpvLUR1cnpKU2xkNzJ3OHo2WUFsak1EdVpLVzdHeEpidlNoN3cxUTNRVlZBQU1yaU1SZXY0OE93UktlcDB6TWJxMC16SF9wNVUyUi1iOTcwRkxPSWJFYlgzS0ltbTZPOExVWUhuM2RHbG04VUxXY0lqdkxUd9IB9gFBVV95cUxNRzBLblBxMC0yTHgzdlN3OExUcEJTWC1ERnJ2ZUJ3WHozZ0h6bVlVUzlERi1NT2FNbXUwQnhyd1NhcWQ4NWw4NGo5b2hBdmVvaWtPT3huUmpBcXhMcDJBbm1UdF9LLVRrdm9jOW5kM2pObE5oYWx0eVhiQzkyRUtoYXh3amE5V215WVQwMXZQMFJLVEVqWUNZLTRuYzhXYVdoMlVDYXJoVXR4NDRCbzFKTEl3SlFpUWhnM195T2FFQXBpYXhENXUxRnlLam14NlBSWEZYMklnOGo2eUsxRDdXQWVHT3ZrNnhfUFJ5eDV2SVd4ME1FaXc?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVBfREU1a09iRTRPbjRkMHhQU0hDU3Y2c2VYMTJpZ1hKbWd1SWFVWW9WcmNGd1NvNF94eno4Tkh4Nkc2MzBscVI0SlQ5VF9Wa1BKemFpaTVxYUNfWFMzTV9xOEF6bXJKTHVfWUx6MWV1bzl4TWd0blNoM3ZGZlpvLUR1cnpKU2xkNzJ3OHo2WUFsak1EdVpLVzdHeEpidlNoN3cxUTNRVlZBQU1yaU1SZXY0OE93UktlcDB6TWJxMC16SF9wNVUyUi1iOTcwRkxPSWJFYlgzS0ltbTZPOExVWUhuM2RHbG04VUxXY0lqdkxUd9IB9gFBVV95cUxNRzBLblBxMC0yTHgzdlN3OExUcEJTWC1ERnJ2ZUJ3WHozZ0h6bVlVUzlERi1NT2FNbXUwQnhyd1NhcWQ4NWw4NGo5b2hBdmVvaWtPT3huUmpBcXhMcDJBbm1UdF9LLVRrdm9jOW5kM2pObE5oYWx0eVhiQzkyRUtoYXh3amE5V215WVQwMXZQMFJLVEVqWUNZLTRuYzhXYVdoMlVDYXJoVXR4NDRCbzFKTEl3SlFpUWhnM195T2FFQXBpYXhENXUxRnlLam14NlBSWEZYMklnOGo2eUsxRDdXQWVHT3ZrNnhfUFJ5eDV2SVd4ME1FaXc?oc=5"
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTR3c1pqUmI2b1RKWnRxSS03dUs5QkRERk1aeV9FQS1Mc013SDJQVGcyYTdlMmEwWG1EcXRZWUo0Z0dTUmVvdU5QN05PRXJkUnl3N2pjdHFVck9uMVRpQTVTVzdhSm02cWhiTzV6TU96YzVCdWxENXkwaUdQcDBRREdJTjhkU21SZldsTUNEUFBnOGIwUWZOOWJoaUdHQ200WEtkcEJCcU5aRElTOHh6Ni1XUkQwTnRkb3ZpajlMZlB2SUpWb0I3cS1qNUs?oc=5",
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT2VXeTl3RUdQbTRWdld2QWZkR2hnU2NFZDFoRUtIUWFTSGZfc2l6eG85blM1a21kWmZRWnFqOE5ZTy05SVhfRzVrSmhKempnZGlkbVZtTW1peGoxdkdYLU9nMU9MODk2cURxcXZDd3lQaW9HQlJQa216c0pHNzY0QXkzOXhJMjdTTExlNmxkZk1Gdi1FRy16aVlqbDVQamNNRnA3ZXJYVFN6SHNtalNKYkFmNTZxS1JlU0QyRU1COFZ1OHFaYTc4TUw5RGpqMkdrRW9CTnhrSERwSURxNzV4bnRCa3ZUVWZRdmZXWdIB8wFBVV95cUxQZ09CalhuWUFoSkc1V1FGaGlINzRNTEx4TGE3aV9UMDFtcEJVVDNFOEJSOWJaQ0FCcmhUbkNNVFlSNlBtZWhVdWI5S3R5SDFaaFpnSnk2YTk2aFhHZmExTlhFSm4wVGZaNVhkeEphSEh3ZDc3WlJVUngwell5NEFNcXZHaDlrdTFJYk9FdjJaSnl1ZF9Ed0loRFNHTXlxMjI5UVQ2TlJrVGlTQkhPazJSR19yLS1WNTh3UUZCQTRBTkR3bVh0OThpYjVsQmlmZnk5WURpZ3RWMUhqZ3RSd0w4d0tUMERMa0dJci1nNVZtaXRvd0E?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdHdqcjBjbWRYMk1vRndpSnJyZGhnbzlfZXA2bThkcDVBX0VaTUh0VTlTVUJEVWExUlpGSUdveDFLbVdUbmhtNEEycmUyc3pseTZjdzVDbWxKUUJFQTBxaXh6bWJ2UHBSakFaTGVWN0tERWxVSldxSEgtZjlLSFJweEg1VmtKakF1Qmhyam1DY2EzTHB1WHJseE9TWUFvTEFuTzhwQTF2eV9zeUxNR2s4YWlTWjE2UTFoZ0pkekpBZ0otWVgzOWFQYXdxVlNoNXY0elU3bF95cnRZbThPekEydVhfalJTRGt5?oc=5"
       ]
     },
     {
-      "title": "Mars, Genpact launch Hyderabad GCC to expand India digital operations",
-      "score": 21.01,
+      "title": "India, US join eight nations to strengthen AI supply chains amid China competition",
+      "score": 20.99,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVFyMHZ6WG8wVHhrOThyZUpoSC1iWGhaV294SFBiaFE5Z2FKNWwxc0Y4SzJybUs5VnUyZGk3NlZ6SlpCSlNvb1JkTzNsTWR3a1lrZG5iMzlvWkVEOW9IdFAyVC1IWDk2S2tySGpDV2otMUU0TjV3bGdnazBtc3ZycjBldjdZampOajI2aTJtXzJxcm51TzVERzlTbVZfemd5ZHdHZHY2a1J0OVZjVklETUZ3?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNek4tbF85d0dtSzhseWZpTW9haS1BbkhpbEhpSkdiRUk2cG0yOEl3c29VNnotR1MxTVd3M0lLSWdHZmRzdGdQUTZRVE1RU0RKWDFxcDVmZ3F3SXctYm5yMUJFazdNLVNmVmlzTXpMejNCU29mNFhRTmVGaF9wOTNjSFY5SmZ6UkVKZG1iRTU4TnlCVEFLNllvcFlIbWJyc1BibUZWajhhYlJJX005MkZKdy1WMHNEQXVsS3ByaTJnVXVhOXFrR2ZsTEplemdxTDJEbnZJRUNHNmpjVUl5WjFj0gHjAUFVX3lxTFA5Z3d4OGdhUnBYZm5oOTd1dzN4S2JXZ2VWczN1QWhGaE15SjJxS2prNDI1b2w5VzhDNDBUMnlpMnFHWlNfdWNjSWRydFBGRGZTVW1nOUI3cktkX0cxRERkYW9MSlVJVXdFaFE0V0RFY3VKV3RHNGItSHI5c2tPQTZ4bl9mNU02cE5CTkZadERCcldVeVdOQVJLVzdEb3Q0alV4akJleWZTenN6WDZFZi12R01UYkZZZUZJRTFTS3dLUzdCYklMTkNVSEhFODZycmdUTFFUYjRlVVdGMWVuYW5zWFpZ?oc=5"
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWRMNHdQUF9WcmJZak5yOGtqRkNXVDFfMzhuVDlEVjh4VEtSdWE4Vy1Cc0xwbmVRT1p2NXNDSkV3TXFEejI3SXgzRTd4Y3lLa3ZhN2N5cWRiczlqaUxpemxvRVo3WVlFU21hWDBxNkxFNjViUGlTV3MxYXNJNE5LR2Q5SmZnZzNKTE1VV2ZILUdscG5QYWxoOVR0ZUx4QnB6VUdLd29lRU5LZUNvY3p5SmktaDRsYnpwSktjTnNtWVhpWkZpY0Z4VDV1OERvTmJHM00xQ09ZSUFmZEtGOHJ6VlRZUy1kMktTdVRJU3VGUTF1RW450gH6AUFVX3lxTFB1bElaWGFiSHZBN0hLRExxMTJaS2tXU2pBNmI0aWJzal9DMkEyVWlxV2hUOGJkUW5iSGFKTmpuT2NNZVppRnUwRVVHUVhqSEV0RzFYV292RHpKZzFaZDUyY1FvNkFsM1ROTVNrY2liM2RBbnpSNDYyc2JZMHRKNHJFcTIzdmhNY1o3RVp5dzdOYXU2S1RIZ0ZXY2JnY3hQVEVVaHR6OUFpYlZOaWxmejdlak1rNldkYVpWTUhNX0dsZi1tT3JtVEhodGg5Z1pheDVkUWJjNW1uVTVxSWlzYWtyQjg5Qi15ZmFqYk9aV2RONUIybTB6UE00VkE?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDk0aFBvQ1pxay1MMk9rN1ktcEhFaEVuV2JOeGhEYl94bXdaU1FyUmNjeFZmRG5oQUdSY01tV1VWdjJ5NFE2Q3RsTzJhbUlKbFgxZnVBX3hHSjE5VVhiZWNqeUU2cDVZaFdnMVNlU0ZWZHEyZTlMLTlGQUU4UldSQ3hCMVNvc0ZzWldQZWlMdmU0eWdBaW5iZmNGNVNIMXlBcjByenM4eUYxRk5abFdIaTVNcnM?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdXZ4Tld2YzZZSWtJN2NJNnlzcDBYT2l0ZmxVMllsY0Z3VVZpXy1uYmFOWnVMYzA0N1pBTmQ5aEpMS1R5M0FjbzZEMnlfVW9qTGE1ckUzOTRfVWlUQ0RVUnFBWVlqQk1yb0tsV3NBVC1iT1RQWHpOV3g4NWdwaDExUDVuZzJlcWxMeVQ1aHFod3RQTmpoeWRMODJWRU1ubWVYclhLLVl0YUlaMlYtNWE0eG1Kcmx4RDcxV3Z3ZU9wSVh5V0h5STcweFBsNTJlS3ZCZ0pvMjhkTmt4QdIB4AFBVV95cUxOemJ4dWdsU1N5elVqSDB2NEJUdDRteWhXTmdJY0NieUw5R2p1UF9VdlZlYjhYSFRtQW8yVlZ0dmxtS3lRWURGQ0FZb3l0bmRNSU41NXNBNWk5NERFSlN3RDloQzJzQzh3VDZPbFRVMExic3hDX05sMmRlM2pkdkl0WVFHOEVvd1F3SkpmU2hza095NVBpZExMS0xQQkF3eXNiZkpZWERzMG5jYTdlR1VMY3A5TGpsZm9nelpGcUxhNW5wVi0yNGRIYWFUZjZBSE9ZNVAtcEF1YVBUUGFQbjl1eQ?oc=5"
       ]
     },
     {
-      "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-      "score": 21.15,
+      "title": "Trump Administration to Name Nvidia, Microsoft and OpenAI Among ‘National Champions’ in AI: Report",
+      "score": 25.32,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWjZEWlFmb1FrZ0dpcmdDSi1FbU8xQUFoNFRWTXpFdmJtWmxXSVdYQUZyQUpYbU44ZHdVcWxObzVabnp4WVNzNmhIY3FpYmNLbXA0OGt1SG1lZGR2T3h3LXNjWHI1d25qTFo0aDhTX19MVlNHNHRoeHZZN0ZHVWdEYktKSjZxZ3JOMndOekItdlROZWlKLXhaSFBIOWgtU0RWRThsNUdOSDdRWWFPY1ZuNlVuRlhjMlE4bklGZmtCV0ZYcThLVnAw?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ3ZmUDFCWXJxbW4tdGh5QkxWMmQ2a3NDX0dhcm4wZTh4VERoalZHZHh5VVZRZWpGa0xJNG8tNXVEU2Q0X2xMSmR4S1h6MnBRLVRlMDNHN1Bac1ZWb2dURlVMeWhXTjhNcFZsTHF0NVMzNkxUaUZQbm00UFJFTlZ5Y0tJNmRpQzJrZnVJY2R4YlhsTlRuTVJES202eG5idzAtWk8xOTB0WFZ2TFZPeHplc0xualcwVGNMb3NCUFU2M2JVck13?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWjZEWlFmb1FrZ0dpcmdDSi1FbU8xQUFoNFRWTXpFdmJtWmxXSVdYQUZyQUpYbU44ZHdVcWxObzVabnp4WVNzNmhIY3FpYmNLbXA0OGt1SG1lZGR2T3h3LXNjWHI1d25qTFo0aDhTX19MVlNHNHRoeHZZN0ZHVWdEYktKSjZxZ3JOMndOekItdlROZWlKLXhaSFBIOWgtU0RWRThsNUdOSDdRWWFPY1ZuNlVuRlhjMlE4bklGZmtCV0ZYcThLVnAw?oc=5"
       ]
     },
     {
-      "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review - GSMArena.com news",
-      "score": 19.74,
+      "title": "Motorola Edge 70 Neo India launch reportedly teased on Flipkart",
+      "score": 23.89,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU40WW9EMExqbjVRRldYNFphQUNHWXpnMTNRbjhRRk1BZ09rNVNNX0FSc1Z3bzMzdW5yeWJrazJ1eHJNV205UFZsbnFPSl96MUVJd0R0RHlOZmRwb1VQM1hCdnNKSjgteFI3RHFVeTRvZDNpRGhoZFZGZjYxak9PY2xjM0xnaGJjS3ZkdHEyQ1lQZzd3aVZkMmVFTk9OdUVsYUZFZ3BWVDhKUdIBpgFBVV95cUxOMXcxaFZ1WFFXU0h2R0tsSV9ZeHhZaEhRTFRzQTBDUWE2bEZjbmtmRDRoUGNJMWNEM1FpbmlrOTg2ZTNGeXllV2duamlmT1VBQnlOVjhnWmgyOWxIWENoZG1fM0ZBcnZ4M2xadE14N3JLbmZHUDU1Mnk0VmhFcUxfSjB0WVdHbmlRb3lCUmZHOGVDME9aYlFYMVM3cnlZWVVuRzlTd1Zn?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVVzNXRxZmdKLWlkMlQ4SHk2NFZ4RGdHVEJEYTdzSS0tWFpJaVJNWmJNX3RhTXdRUEJBOVFEV1RKQ1c2UG5XUDlPWmJ2MnpmSUNBaE5QajJ5WV8zYUVMMkR3bG1oTkxpVmZSSDBxVHk3SHVrZXJmTl9fMnpZR1BacVVyRG9kTERRa3UweGtkWVlmMExYd1HSAZsBQVVfeXFMUHY1b3FRak1jYm5rRmZWNTNYSkRDeUx6a3RCd0NyOW5BaVd0S2xtLVdVYVhTOEhOLXdCTk45UVVhQlJBbmhld2lwOGd4VHRjOEhjWXVIMXVtakQ5eVdKVUZDNGZ4UGJPRFQ5TEtPM1pZS3NXcHIzYlcxNXQ1bEtLWDNUSmJXSUQ4ak9jVXRlSS1Ud1I4czFHWkM0VVU?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9yRWhJWWxad19DVUZUdXFKM09KX2ZKTnZZV0g1eXc3OFJyVXNpdmdBNjVuSVc0eGhlTXJtTEVOQW1HOFZTMEdCa29OLTBGV3ZvVGhoYVk3N1p2Vl9VbVRqcEVNc1pidWtlVWZ6cDlsOWEwblpEd1RCOHpkUVA0azMtYW43T2pTQVNKS1F4X0lKQWpFS1lQc0pmbUlhWE9kbnYwdndYd2ZfWE42TEE?oc=5",
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVUZaZmdLLW1ZUEV2ejlWUlo5Y3hkcS1lQllrSkNaclBwUzc3eUFlNWh1Q2xROVVMM2RFU3FFd1JrSURHQ1pwazYtc3VfVUY2RnJ5Nm5PRzVfVE0wdUhlbWltNmRBSEc5SDhfb1Y0V2Y2Z1A0M0JDRzVjZEx0Mk15MEg1Y1RIVUtMTzB4RnpSbTZrTUU1OUY3SW1LYngwcEJyc0tUaVpqWUhnT3Z2dWhaOS1kU0UzclpVejEybWNWZkVHU2kyTk9DNnVEZWp2cnBfTlhTV1lIY1VfSzFBX0MyOVRweXpTdUFWOHFrQVBrWEtsNThZZ2xTRw?oc=5"
+      ]
+    },
+    {
+      "title": "Our new blog for science",
+      "score": 21.74,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xMG5vSllDdjVHa3N1MmhSV2VBMnJIZ0tMcXg3dzJmY2ZvS2V3Zk9zaXRZY1h5enlLRzJDMURCbUZjN3ZJNnJuR1g2TnMxZ1hOaXdZQ21paTRXLWJ4dDl3?oc=5",
+        "https://openai.com/index/our-new-blog-for-science"
       ]
     },
     {
       "title": "NIELIT to organize 3rd National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) to be held in New Delhi on November 16–17, 2026",
-      "score": 27.73,
+      "score": 22.96,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ0FqOTdISXREQTVGMTNvWmEyZWQ2YlR5YUltZ3U2WkhzOEpqZjd0cVF0NmZ3Z1k3cS1rQ25nU0UzUk9PQ1pPcHdqY01VODZydi1relZINXVWVDFEQ2hyc0RJeTJBcUFo?oc=5",
+        "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUkVUOTRubzNuQ0JsMXBWS25HVDFOZHk4RnBGVGVjZnI0cGpzbUdmWm5pNDItTlBRbTQ5blU3NklwanlfdWFmX2tQWGtmRVNWSzRaTXYwMVJtMjlkUU9NbF9Xa0VlNGF1YW9wYjR2WHI2bzcxUzZRb0lYdThrekdMaW1DV3R2Q1BXOV9qWVh0dVE5eXA3QXoxTVZmMW1LWXgySWo1dU9QNHNBSldGSnZSUXVRdXJQd01VMWhWb1Zlb2lnN3EwSjBscGszcnpQVk84Rk41b0FiMWNwMkNHT2lDWkQ1TjU5N0ZOcGZXd2o3MExSNXZEWkhxeUVCZkNGZE1rZWFnQTJmTkdpTkpYZDkw?oc=5",
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTRFUVc4SkxUb2djTUhwNlI3SWg5cGtCNU1pRkFYcmpWdUo1dUd1QmpONFJDLTZ3T3NkeFptbHpnZHNuN2YzYkx1OElDWGVVQ0VlWWw0NGhPbmhjUHFqa1RvTmR2a1lGWVRWV2V4QjBQVzVZckpfNHpEb2Z3d2FXNmEtZUl2cjZGeDBLelQxajhORkFKcWhhLQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnd2UU5HVHFWaFRiak1ZNGRXWHR5XzdORVNSRGVESlo0SlhBTTczWGdSdVRGdmZhUklycUJNZ2I2YzNuaFktRWdTNFdzbWNYZWtHVWVJajdERkxPY0ZnR0toMXpYWE80bVF4R1dTdlJCTk5ybE9MX296NEdfX2JkblBSU3FnNkd6VGU4QWNvUThlcGY3VzdRREdNT3ZOaEVPajlPLUptQWRrT25qZ2c0OGo5TTJVNzU1YUZZZGtHOWtmSndINkE?oc=5"
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZ0FqOTdISXREQTVGMTNvWmEyZWQ2YlR5YUltZ3U2WkhzOEpqZjd0cVF0NmZ3Z1k3cS1rQ25nU0UzUk9PQ1pPcHdqY01VODZydi1relZINXVWVDFEQ2hyc0RJeTJBcUFo?oc=5"
       ]
     },
     {
-      "title": "Your devices can share one Surfshark VPN subscription for $67.19",
-      "score": 18.26,
+      "title": "The small African lab sounding the alarm on AI bioweapons",
+      "score": 19.88,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS3JZdzRJQ1RMc0tkRlNaajU0emQyRVlvTjJhVmxSUFpnMDlwUGhvTm5HanlaMGc5WVRnaVI5XzlGR2hrN1BWMzZWTHNEVW04Q2xBQU91WGw0ZkJsamZIMDVMZjZhYXBiWkJB?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS3JZdzRJQ1RMc0tkRlNaajU0emQyRVlvTjJhVmxSUFpnMDlwUGhvTm5HanlaMGc5WVRnaVI5XzlGR2hrN1BWMzZWTHNEVW04Q2xBQU91WGw0ZkJsamZIMDVMZjZhYXBiWkJB?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xS3JZdzRJQ1RMc0tkRlNaajU0emQyRVlvTjJhVmxSUFpnMDlwUGhvTm5HanlaMGc5WVRnaVI5XzlGR2hrN1BWMzZWTHNEVW04Q2xBQU91WGw0ZkJsamZIMDVMZjZhYXBiWkJB?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNSdWxGZlRFajVicGZHOEgtb2lOYTVadGVKY0liMGJHT2xHcmhpcWl6RE1yVzRvaWlPd3A0ejk2V0RCU0p1V2s4azBuaUpIcjJYbUxxbjVTRWdzUzNGYU9BNVROYlZFbVJ5RXZZa0xsdnpFSkVwT2t0dWZjREVqV3A2eUEwOVI0YUNQeGw4RllYS3A2TDFMeW53MXo?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNSdWxGZlRFajVicGZHOEgtb2lOYTVadGVKY0liMGJHT2xHcmhpcWl6RE1yVzRvaWlPd3A0ejk2V0RCU0p1V2s4azBuaUpIcjJYbUxxbjVTRWdzUzNGYU9BNVROYlZFbVJ5RXZZa0xsdnpFSkVwT2t0dWZjREVqV3A2eUEwOVI0YUNQeGw4RllYS3A2TDFMeW53MXo?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNSdWxGZlRFajVicGZHOEgtb2lOYTVadGVKY0liMGJHT2xHcmhpcWl6RE1yVzRvaWlPd3A0ejk2V0RCU0p1V2s4azBuaUpIcjJYbUxxbjVTRWdzUzNGYU9BNVROYlZFbVJ5RXZZa0xsdnpFSkVwT2t0dWZjREVqV3A2eUEwOVI0YUNQeGw4RllYS3A2TDFMeW53MXo?oc=5"
       ]
     },
     {
-      "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
-      "score": 19.49,
+      "title": "A step toward defining the Standard Model on a lattice",
+      "score": 21.74,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSGFfWmVQdlE5eUpDUzdzczVqWV9MSnhzQnhKXzlicXUtdmFfandZbE9fUTAtVnVUeElydnowdzQ0dkY0Q0VxeTlDQ2JpeU5iR0JGaW5uN3FibEZaVFFFOE5jVUVwS2dvWXRNTHpGUkNpUU0?oc=5",
+        "https://openai.com/index/step-toward-defining-the-standard-model"
+      ]
+    },
+    {
+      "title": "Understanding Hydrocarbon Contamination in Electron Microscopy",
+      "score": 19.73,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cV9NOHZ2UndNRXZqcmNoNlBfNk5LNUJRREVkVk1hUC13d2hGZzRKaVRaRnluNlM1TGZFZmRZX2FFWkFWNHJJY3ZySzRXMG8xbEdXeWJfOEt0NlhZd0JLZS1TUE0xdUkzc1J6WlhNX3UtdEotTTRUcEIxUUFFX0nSAYQBQVVfeXFMTWNwV2oyeUdsZjlsZC1UMDVpbHhPVXQ2TzVkUVRoUFAxdy1UVDhKZ0FoRkxvMU9vSjg0Ty1sejZocFlTX2J6NWh6WHR2d0JRX1dWY2I0Y0ZFVGg2X2dwcDFiV0FfSjlMd2FXNl9CYzlITDUwQnJOZEY3R1Vkajc3TWhaUHhp?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cV9NOHZ2UndNRXZqcmNoNlBfNk5LNUJRREVkVk1hUC13d2hGZzRKaVRaRnluNlM1TGZFZmRZX2FFWkFWNHJJY3ZySzRXMG8xbEdXeWJfOEt0NlhZd0JLZS1TUE0xdUkzc1J6WlhNX3UtdEotTTRUcEIxUUFFX0nSAYQBQVVfeXFMTWNwV2oyeUdsZjlsZC1UMDVpbHhPVXQ2TzVkUVRoUFAxdy1UVDhKZ0FoRkxvMU9vSjg0Ty1sejZocFlTX2J6NWh6WHR2d0JRX1dWY2I0Y0ZFVGg2X2dwcDFiV0FfSjlMd2FXNl9CYzlITDUwQnJOZEY3R1Vkajc3TWhaUHhp?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cV9NOHZ2UndNRXZqcmNoNlBfNk5LNUJRREVkVk1hUC13d2hGZzRKaVRaRnluNlM1TGZFZmRZX2FFWkFWNHJJY3ZySzRXMG8xbEdXeWJfOEt0NlhZd0JLZS1TUE0xdUkzc1J6WlhNX3UtdEotTTRUcEIxUUFFX0nSAYQBQVVfeXFMTWNwV2oyeUdsZjlsZC1UMDVpbHhPVXQ2TzVkUVRoUFAxdy1UVDhKZ0FoRkxvMU9vSjg0Ty1sejZocFlTX2J6NWh6WHR2d0JRX1dWY2I0Y0ZFVGg2X2dwcDFiV0FfSjlMd2FXNl9CYzlITDUwQnJOZEY3R1Vkajc3TWhaUHhp?oc=5"
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pTy1wNXNDRlQ0LU9ld05uYTNYTklPVGwzOGdwTHU5RnJ5QkZMZ3hTVE5NWC1yRFdMWXpHZmxKeFRlbk9VaUtJMGVHUEhGWFFXcDNjcVZvNk1hemF2WVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pTy1wNXNDRlQ0LU9ld05uYTNYTklPVGwzOGdwTHU5RnJ5QkZMZ3hTVE5NWC1yRFdMWXpHZmxKeFRlbk9VaUtJMGVHUEhGWFFXcDNjcVZvNk1hemF2WVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pTy1wNXNDRlQ0LU9ld05uYTNYTklPVGwzOGdwTHU5RnJ5QkZMZ3hTVE5NWC1yRFdMWXpHZmxKeFRlbk9VaUtJMGVHUEhGWFFXcDNjcVZvNk1hemF2WVE?oc=5"
       ]
     },
     {
-      "title": "Air India Resumes Non-Stop New York Flights, Cutting Travel Time By 5 Hours",
-      "score": 21.39,
+      "title": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report",
+      "score": 19.68,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGEtRjdtbUJ0WkVLVjdUcXQyT1dTR2NfZE9oNGtkSVo2VzR0Qm55cUN0S0lad0YwTjJpNHIwVl8wMnh6OTZnRUZoR1JiYlMxVW1acWhLb0NZMjRtTnJkOXBwRlRHRl96OTdHSmhROU52MVc2M19wX1pndjNjTC11Vy1aSjJTZWNPRUJiTHZIQ25oX2x3YlVKcG9MZ2pHZ1ZhN2J0cDF5WGNGQnp3R29heW1EQmJ2UdIBvgFBVV95cUxNeG5LRGxKcjlNcnItWFVTYjBNdXVZdEhhUHpPZVVvT1NCOW80M0tmUTI2eWZscjZvdFZUR3RLWnkyN3IyM3VPX0xtSWcwSDJoU0JvTUNLRWxlNW95bUUyazhTZDByQXh2eVpVVEpQNGFRT21hanRGam0wdkpHZl8zOHZqZWhlV2VqUUh5ZGVIc28yWml0NGdrQWNoODU2bVFvVEJMUUhPWkFDS0pwTC1BNVVJaDdMOUpTSEdBX1hB?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMkw5Vk94VnViMlJjTFBvNWxhWWtzdHdMYnZmcWdKOTZyOUtTWUtRejBoa2duRnpRZXJoS2M4bkdqSDJUVnlXUTFCRDhkU2lXb2oyQUtiTnhDYXRiOFoyOUxfSzFUQWFPb2lDRUxOUG5BbjZ5ODFkWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVmJQbGlpc0NnZ2RnUDBaNjlYV2tJRWgxODVYY2pmT0p5RTZMUE9SRm1LTW80UXNtTHNPTzdycTg3eTdjZ0toUlV6Uk92ZldtVGNBcWY5d1RrTlBITjZ5WThsQWdMYjV4U05reXBicmg2LXlUZEh2RW9HV1E1TFhPVHpqLWpMZ2pnWEp2WWVPN0dnbXI0Y2Z5SmUyZV9lV290a0FmelprLUxOQUdzNGNmb2RqekY3ZWxZNkRmNnQ4UjdjZ242QnlOdlBrRnYwamlVWWg2cmlua1M?oc=5"
-      ]
-    },
-    {
-      "title": "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
-      "score": 18.04,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXNwd2cteHVMOURDYzUweUNoRUV5VjRIa0QtZlN5UzViMDQzT3Y4VVpfMGotOVlxSDExVW5DakhGS2VSXzdFTnFXSkJTaXdydUxfcGo5Ynk1SkV0empCMkNnWTZBTlB4N0xERE1uNU00VUhtSGoxN2Z0MUx3SEo3TGFxcFVDdmVHYXBvWXdFM0Zjd3Y2WF9oZVcxWGtxZ2hHZFhRZ1BId19FUWwzdHJPV0dNdmRra0pqck1FTzV2dlBuM0RUWjQtb0d4UUdZRzVEbkI3cGFoR2rSAd8BQVVfeXFMUExBV0pzei1WZGN3cVhXUmZ6YjhmV0lJVVFKWWhjUWt6aG9kRVFHUmdLejRHdl93X1A2MGZRUG9XRUpwd21iUlBOcW1GSE52VUEwSUFIcWZxWXpjMGJTSjB0VEhoRU5yRFNvT2gyNHd0WFRJOVBlbjRjUDJJQ1AzcmFBM0FfaVFyMUFWa3ljbm1fVkpOeWFDamhSNktQT18yM0psSk5qLWkzdS1LYXdyUGp5dUpzWmFudTBpWmVyZFA5YVEzejF2VE5WbUt3dlJqS2llTk9RclRReW5Ldm1ROA?oc=5",
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVFVKQXNOSzNkckRDVGlVR1lTRHFxRDdWLWZlbnJTZVdZc2pGbGZBRUEzVVJSNDdQZzFYUU8xTW5TNVBLYlRCRVBUdFQ2YjFOeWRrY0JlRjdrdXFRdk5oME00dlZGUi1fTWhOV0MyV2d3Z0QzVnhMbmRsTTQydUIxR09IWjNHOHFJZjFVc0FIQTZOTy00UUJRWnpBSnYxZ29yS1ZPaHdZbFlCNk9lWk9PX05WbXkwMUpjNVp1Vjh2SGxHTW9hSWJsWEdZUnJUZGV0T2pyVExxeEt0UExKS0lUbjlTYWZQU3N0QWMzdFc3bmdEdVhGb1Vta2pSa9IBgAJBVV95cUxOZi0xYzh0YXdMLWFtcG9hWGJnOUJuUUNfUFRoc1VaRGpUY0RPZERxQy02S2Y5cDV5MUZ1Um5CTHgxX0xBTzk1ZzAyQkRpd3dpYU9oSUk2T2FSMG04VkdEcHExMzhaOGdvbTl3YU9VZ25nWTgtWTVTUnQzM2hqY1pLVVlRemNIMEJRNldNWGEzNlJaZXFETEZaN3hNd1lNbl9VUVoyNWZPbHF2X3hDR0NhY1RHazVuTmUtNktjUnAwb0w1bjYwVlBQRWUyMlRLZ0lJQ05MWkpKNFJKWkRXelVmZVlaSmhZSzhURUs0Y1pvSkpIczdqMmh4ZUFSWk0xbmJ1?oc=5"
-      ]
-    },
-    {
-      "title": "Nvidia row: Lutnick pushed to weaken chip rules linked to family business",
-      "score": 21.83,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3VXeE5uYzZrcVdEd1gtOUlwMUpzRkF0YWNIWHp3ZUVkN2cyTUxPeWt5YVBWZ0VhN2U1eHlYNTJxemJYTjVhWkplY0tkRHJaeDIwV2pEMUtHeWJDS2NQTnIta2hQVlFiaHRQWUExeGxFM1hOSTc1NFpYUFFpbXpZMGtPY2hybmNtdWprWXRJUGI3SHZIcG40MTJZbkhRaFVnRUFuTVEzWmdZZVNZRWgwUWNzUDZia0F5S0p0ME9MblB0cWZBNUlvNlBGd2dwZlpSWDdR0gHYAUFVX3lxTFAzQ3c2Y3dWTExSSUVZazI1SDdmd0ZhcjRyRkswQkVYVkNkWW9Jb3dVajU3cjBYSmNDWXJLWUh2a1V5N0taQTg0N3luUmpUaENFbTU0VUxBYnRCdk1yRHZMV2pGZDFIajFTUXUtbGdFdy1KNXdIWmdFMV9UaDkzTHlISXhHdXh3cEdTWDhIY3lXYmFXV3NYQWVMRmk2eHlSN1BKenR0WlRCYnpnLWNCOEtxa2hDcGdfc2tHczNQa2hQbG1OdGRPeC11Z1NWRDBYbUhSYVB1ajBwTw?oc=5",
-        "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXo1aGhMLVh6YkZiX1FFblFJVzJlMTJLQTVDSmVyYU1Nbm5wZDdsUkJrSE5MbUdkdjhjQTlKNGRKSU9wSVVFUUpfeUhTV0x0Z1pkUFRubzU1RE9fMmFDNl9IMXZqYkVlWDdKNXNoQ0syOEcxeW1xNVppRnl3LXJ4UWFIN2lzR2Nqc2hJRW81RFRpekoxUWJNR0xR?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE9ycDAtVXJrSDRKdWlISHNyMHlLc3FIbXJNWE9qNVFqMUlrdGRxM0ZER2g5SDdicm9EUnF2b2VlcGt6dVpKdzc5cjBKdUdFZnM5UWxxdHdBaVY3ekhIdEpJZjB0dXFENkJEX2VmX1FneU51cUJOQWZVM2gyVmh6dzlYUGJHeWZwLUpwMmZob2dVbThXSkJybVlZQjFwZ9IBqwFBVV95cUxNeGIxN25IMHZfbTI0eU5KWW10ckFUX25oSnlWTml6TVJkLVpWVzFVV0dZVExXZHlMVVhqRWJsSGNwTktrNlRmYkVVbGpleXVsS1pMdmVhTVdJUXNjSlhzVVUxQkxtemZHYmYzRks1c0RQQlVYTmN6aEJlQXo3SmdOaXlkT1V0Wi1qbzZrUWhQNXZ4WmlZU3Y5c2RYZEJEaEFNT1NhMWxnY0o4R1U?oc=5"
       ]
     }
   ]

@@ -1,25 +1,5 @@
 [
   {
-    "title": "CERT-In Warns of AI Agents Accessing Indian Firms' Systems, Confidential Data",
-    "category": "Breaking AI News",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Android adds AI-powered scam alerts, hangs up on bank impostors",
-    "category": "New AI Features",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "category": "AI Tools You Should Know",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "category": "AI Automation Tutorials",
-    "date": "2026-10-16"
-  },
-  {
     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
     "category": "New AI Models",
     "date": "2026-10-17"
@@ -588,5 +568,10 @@
     "title": "Space data centers could leave more satellites than stars in the night sky, a Columbia-led report warns",
     "category": "Future of Technology",
     "date": "2026-11-15"
+  },
+  {
+    "title": "India's Bharat Semi raises $24M seed to build AI image sensors",
+    "category": "Trending Technology",
+    "date": "2026-11-16"
   }
 ]
