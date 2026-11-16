@@ -1,27 +1,5 @@
 [
   {
-    "title": "Science at the Frontier: How scientists use ChatGPT",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Science at the Frontier: How scientists use ChatGPT &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-16T17:19:12+00:00",
-    "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
-  },
-  {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Advancing computer-use agents for healthcare teams &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-16T17:03:24+00:00",
-    "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
-  },
-  {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5",
     "source": "OpenAI",
@@ -30,7 +8,18 @@
     "country": "IN",
     "published": "2026-11-16T14:13:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
+    "saved": "2026-11-16T22:30:56.563381+00:00"
+  },
+  {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Science at the Frontier: How scientists use ChatGPT &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-16T17:19:12+00:00",
+    "engagement": 0,
+    "saved": "2026-11-16T22:30:56.563381+00:00"
   },
   {
     "title": "Broadening access to AI for scientists",
@@ -41,7 +30,7 @@
     "country": "IN",
     "published": "2026-11-16T17:15:16+00:00",
     "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
+    "saved": "2026-11-16T22:30:56.563381+00:00"
   },
   {
     "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -52,28 +41,39 @@
     "country": "IN",
     "published": "2026-11-16T11:35:27+00:00",
     "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
+    "saved": "2026-11-16T22:30:56.563381+00:00"
   },
   {
-    "title": "Our first phase of embedded assessments",
-    "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-    "source": "OpenAI",
-    "kind": "official",
-    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-    "country": "GLOBAL",
-    "published": "2026-11-16T08:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
-  },
-  {
-    "title": "Our new blog for science",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xMG5vSllDdjVHa3N1MmhSV2VBMnJIZ0tMcXg3dzJmY2ZvS2V3Zk9zaXRZY1h5enlLRzJDMURCbUZjN3ZJNnJuR1g2TnMxZ1hOaXdZQ21paTRXLWJ4dDl3?oc=5",
-    "source": "OpenAI",
+    "title": "Google to give Japan early frontier AI access for cybersecurity",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFBvdHItRk5iZHpLbTlPRWtTbjZ5djRUaGo2Y2xtcTAwalBqQW1sSmtCY1F4UXlQWnF4cWNrVk96d3pST3FodFFLeGwxcmFwSGtsRVlPN0loMmZHaWhYMFY4cFBqYUYtQWNqTUItSko5TzFteFVVNW0zVnpSNHA1R1FpWk1zNU1PNzhTR1ZYTFE1YXFROXJEaG5mNjlPS2tHVkxGblFmT2I2TmdlNzRsZTRMT0s?oc=5",
+    "source": "scanx.trade",
     "kind": "news",
-    "summary": " Our new blog for science &nbsp;&nbsp; OpenAI ",
+    "summary": " Google to give Japan early frontier AI access for cybersecurity &nbsp;&nbsp; scanx.trade ",
     "country": "IN",
-    "published": "2026-11-15T22:29:38+00:00",
+    "published": "2026-11-16T22:06:09+00:00",
     "engagement": 0,
-    "saved": "2026-11-16T21:13:46.271018+00:00"
+    "saved": "2026-11-16T22:30:56.563381+00:00"
+  },
+  {
+    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+    "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-11-16T20:00:37+00:00",
+    "engagement": 0,
+    "saved": "2026-11-16T22:30:56.563381+00:00"
+  },
+  {
+    "title": "GitHub Copilot weekly releases — November 9",
+    "link": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude&#8230; \n The post  GitHub Copilot weekly releases — November 9  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-16T21:34:53+00:00",
+    "engagement": 0,
+    "saved": "2026-11-16T22:30:56.563381+00:00"
   }
 ]

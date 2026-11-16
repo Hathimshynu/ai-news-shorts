@@ -1,76 +1,71 @@
 {
-  "job_id": "2026-11-17-morning-0241",
-  "chosen": "New Ask Maps features to help with holiday travel and prep",
-  "reason": "It offers practical, everyday AI features for travel planning that viewers can immediately test out and share.",
+  "job_id": "2026-11-17-morning-0358",
+  "chosen": "Advancing computer-use agents for healthcare teams",
+  "reason": "It highlights how cutting-edge computer-use AI agents are automating real-world healthcare workflows, giving viewers practical insights into the next wave of AI automation.",
   "candidates": [
     {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "score": 25.23,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXBBMHU1RHBlZUdyVUVvMktDRFotWXE1alJvclVUcmRsQWFhU0R2YUNCMVB3WGtjeklUWFUwNG5VSGNpS0VZOTRUcjk3aC1FZ05mX2lYX1dKWDlxTkVVc2hnWXl2SUZnQ2lLcW15YV9ST2lxX1JZdjZiRzBnclVxN3NVaWpSWXRRaWQ2ckh4QmJ4OGxidjBabkIxRQ?oc=5",
-        "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
-      ]
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "score": 24.03,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
-        "https://openai.com/index/science-at-the-frontier"
-      ]
-    },
-    {
       "title": "Advancing computer-use agents for healthcare teams",
-      "score": 23.97,
+      "score": 25.64,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5",
-        "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+        "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5"
       ]
     },
     {
       "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "score": 23.26,
+      "score": 24.94,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5",
-        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5"
+      ]
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "score": 25.71,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
+        "https://openai.com/index/science-at-the-frontier",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5"
       ]
     },
     {
       "title": "Broadening access to AI for scientists",
-      "score": 24.02,
+      "score": 25.69,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
-        "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+        "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5"
       ]
     },
     {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "score": 24.6,
+      "score": 24.28,
       "kinds": [
         "backlog",
         "news",
@@ -84,36 +79,67 @@
       ]
     },
     {
-      "title": "Our first phase of embedded assessments",
-      "score": 23.89,
+      "title": "Google to give Japan early frontier AI access for cybersecurity",
+      "score": 19.91,
       "kinds": [
-        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFBvdHItRk5iZHpLbTlPRWtTbjZ5djRUaGo2Y2xtcTAwalBqQW1sSmtCY1F4UXlQWnF4cWNrVk96d3pST3FodFFLeGwxcmFwSGtsRVlPN0loMmZHaWhYMFY4cFBqYUYtQWNqTUItSko5TzFteFVVNW0zVnpSNHA1R1FpWk1zNU1PNzhTR1ZYTFE1YXFROXJEaG5mNjlPS2tHVkxGblFmT2I2TmdlNzRsZTRMT0s?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IbGxNXzVFS2RYVThnLWp5X2VmMmVnbktOZnVyanRCb1JyYjY0eUhMbU4zNUJVNzRQeng0cUtfQk92M3Ixa290alJxRTlCYkQ4TnhzWUtBZ2c4Q0JpZV91bGlteW9teU5tbWlldkx5SmQxWW9LSlI4?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OamdqRFRYRVAxY1pCWVV5b0o5blYtTjhRY3ZaSWhmckQyYzBjUzg2LUdNQnFtamNlRVZndVRQVmNleXZEajJydWpMeFlvM2lsNDhWVUY3TU1GcEhnb2t3SEcxWm1nYlJsQ05LcEhVNUhwYlVaaWRXbWZSWGY3QQ?oc=5"
+      ]
+    },
+    {
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "score": 20.38,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/"
+      ]
+    },
+    {
+      "title": "GitHub Copilot weekly releases — November 9",
+      "score": 20.78,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
+      ]
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "score": 19.38,
+      "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
         "https://openai.com/index/our-first-phase-of-embedded-assessments",
-        "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+        "https://openai.com/index/our-first-phase-of-embedded-assessments"
       ]
     },
     {
-      "title": "Our new blog for science",
-      "score": 21.33,
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "score": 19.38,
       "kinds": [
-        "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xMG5vSllDdjVHa3N1MmhSV2VBMnJIZ0tMcXg3dzJmY2ZvS2V3Zk9zaXRZY1h5enlLRzJDMURCbUZjN3ZJNnJuR1g2TnMxZ1hOaXdZQ21paTRXLWJ4dDl3?oc=5",
-        "https://openai.com/index/our-new-blog-for-science",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xMG5vSllDdjVHa3N1MmhSV2VBMnJIZ0tMcXg3dzJmY2ZvS2V3Zk9zaXRZY1h5enlLRzJDMURCbUZjN3ZJNnJuR1g2TnMxZ1hOaXdZQ21paTRXLWJ4dDl3?oc=5"
+        "https://blogs.nvidia.com/blog/lambda-photonics/"
       ]
     },
     {
       "title": "GitHub Copilot models deprecated on November 16, 2026",
-      "score": 20.81,
+      "score": 20.49,
       "kinds": [
         "official"
       ],
@@ -123,44 +149,14 @@
       ]
     },
     {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "score": 28.64,
+      "title": "Budget limit increased to 40,000 budgets per account",
+      "score": 20.76,
       "kinds": [
-        "community",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZC1UYUtkd0JZU043eUgyaDZuV0UxTzdCRFZqX281andjdGtXTl9IN1g5dTgxSmpDRlJ2b2FFN1M1dHVfTjEzVWVMeEpERjI0RktYNzZNUzUzRW1XSDExY0psTTJ2Z1pOQ0cw?oc=5",
-        "https://openai.com/index/strengthening-online-child-safety",
-        "https://openai.com/index/strengthening-online-child-safety/"
-      ]
-    },
-    {
-      "title": "Motorola Edge 70 Neo India launch reportedly teased on Flipkart",
-      "score": 24.63,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVVzNXRxZmdKLWlkMlQ4SHk2NFZ4RGdHVEJEYTdzSS0tWFpJaVJNWmJNX3RhTXdRUEJBOVFEV1RKQ1c2UG5XUDlPWmJ2MnpmSUNBaE5QajJ5WV8zYUVMMkR3bG1oTkxpVmZSSDBxVHk3SHVrZXJmTl9fMnpZR1BacVVyRG9kTERRa3UweGtkWVlmMExYd1HSAZsBQVVfeXFMUHY1b3FRak1jYm5rRmZWNTNYSkRDeUx6a3RCd0NyOW5BaVd0S2xtLVdVYVhTOEhOLXdCTk45UVVhQlJBbmhld2lwOGd4VHRjOEhjWXVIMXVtakQ5eVdKVUZDNGZ4UGJPRFQ5TEtPM1pZS3NXcHIzYlcxNXQ1bEtLWDNUSmJXSUQ4ak9jVXRlSS1Ud1I4czFHWkM0VVU?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9yRWhJWWxad19DVUZUdXFKM09KX2ZKTnZZV0g1eXc3OFJyVXNpdmdBNjVuSVc0eGhlTXJtTEVOQW1HOFZTMEdCa29OLTBGV3ZvVGhoYVk3N1p2Vl9VbVRqcEVNc1pidWtlVWZ6cDlsOWEwblpEd1RCOHpkUVA0azMtYW43T2pTQVNKS1F4X0lKQWpFS1lQc0pmbUlhWE9kbnYwdndYd2ZfWE42TEE?oc=5",
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVUZaZmdLLW1ZUEV2ejlWUlo5Y3hkcS1lQllrSkNaclBwUzc3eUFlNWh1Q2xROVVMM2RFU3FFd1JrSURHQ1pwazYtc3VfVUY2RnJ5Nm5PRzVfVE0wdUhlbWltNmRBSEc5SDhfb1Y0V2Y2Z1A0M0JDRzVjZEx0Mk15MEg1Y1RIVUtMTzB4RnpSbTZrTUU1OUY3SW1LYngwcEJyc0tUaVpqWUhnT3Z2dWhaOS1kU0UzclpVejEybWNWZkVHU2kyTk9DNnVEZWp2cnBfTlhTV1lIY1VfSzFBX0MyOVRweXpTdUFWOHFrQVBrWEtsNThZZ2xTRw?oc=5"
-      ]
-    },
-    {
-      "title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall",
-      "score": 20.84,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFN5S3RESUVaa0ExaEU4U2tfRDZYQVhhMnJLQW93aGp0WXFJbjl1WDE1WDkwdWxsM2lhNHpZM0Y3WHFEb2JnTlVndGM4c3BqLURseHN6cWtMaW1NaDVJRk40R3R6eGtaR3pzbmdRYlpPYU95MDNRLUhsV0hWY0VRa0FFcHN0SlhqNTgxTk8xZUp6VjA?oc=5",
-        "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/"
+        "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account"
       ]
     }
   ]
