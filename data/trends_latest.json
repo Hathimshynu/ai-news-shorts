@@ -1,83 +1,111 @@
 {
-  "job_id": "2026-11-17-evening-1801",
-  "chosen": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-  "reason": "This major initiative between Google Cloud and Accenture directly impacts students and tech professionals in India by bringing structured AI education to 1,000 institutions.",
+  "job_id": "2026-11-18-morning-0246",
+  "chosen": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+  "reason": "GitHub Copilot Fusion’s new models and performance gains give Indian developers a powerful, ready‑to‑use coding assistant they’ll want to try right away.",
   "candidates": [
     {
-      "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-      "score": 23.75,
+      "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+      "score": 20.2,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models"
+      ]
+    },
+    {
+      "title": "Copilot code review: Adaptive effort, secret detection, and more",
+      "score": 20.19,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more"
+      ]
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "score": 24.14,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
+        "https://openai.com/index/astra-law-6-2"
+      ]
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "score": 21.19,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wcVlNSERLbE1OOGd2ZmhIUzd4QnhUOUQ5Qmh5WWJZQXpBR0NvUHJzbDYwWEtqQzZ5d3NMM1VxSWR2MHd3VjdqaFNwS0RCZk44OUh1dGtPWU5BdUMxT29ndHU4QQ?oc=5",
+        "https://openai.com/business/customer-stories/revolut"
+      ]
+    },
+    {
+      "title": "'AI won't settle down': Microsoft India chief urges businesses to adopt technology without delay",
+      "score": 20.63,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhtTHY4MU1VRTVrR3lmcS1VNW92NUhOXzdJa1RpWU9KbnI3S01uSXplemx0cFVZaWg4b1hFVUtEeEpGUXR4bkMyR2hEUzdnY25OaEJiWXZiekNrQVdUaU1MQnlobjhqRGdpRkVoaWd6QmNaQ3hlVjdOYlJJOTZjTTlsNG1BbGc5VVNWYTBDbjYtZVFNa1VqYUVSWkVEY2ladDJENlZ4VG5PbGd6bW9QVVI4NGFVYnR2aC1oNmtfSmlqaTV4V3c?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaFh3Q2k5eG1reldYdkw5SVVjYTlETVdsU1hJZHBXUV84Smdtck81VFJ4Y3h6NURCS1FRYzJfeEdWZ1FnaDRHM0MySEhfMmJKakgyZGdlUEh1S3NVbW5icXd3b1JLc3VvYWhPalFsblAtMHpsVzN1bTdpTGhUSVBlNEFHbGtybzVuYWlpSXBPU0dPV2p3RnBidklnZ1RGc3Y5S2FjOUtMN3pxMEZqSEVWS0ZmaExDamVUd01TZFpFRnhteEV0eHpvRTJ0MUozSzZIZm1nZlc4elZvZnJHa3BBam1qSndyTHFjOXA3R1kyYWhnTnI5NmlBRERORnlGQdIBgwJBVV95cUxNbmNSSzVVTTlwcVNzbTl4MERWNHRJT1RUQTZLMkh1SkczZXZsdDZ6MmUtbTNWUEJhdkFDZEg3b2oyR29kNkhvZVV6Sm1lenlOTVRxbVpybFdfdUtiNUtieU1FNlAwNEFhWENsUmVUSVd4Y2xSNHdHQjdaTGpNZERQQlBhOEJaUENrdUt3NmtyTDhzcjBuWU8zdjB0UktENlJZZms3UXd4SVdfLUdFTTJqTm1peERfbEtBNDVlUl9RTm5zN2RkalpPOUVtbHJqTmNKWGRMQi1wV1ptdWFRdVVlZjYxREIzSXhYSnlWc0gzMm11bkJNNmJYbmJaVFlLV1hRZlpJ?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhtTHY4MU1VRTVrR3lmcS1VNW92NUhOXzdJa1RpWU9KbnI3S01uSXplemx0cFVZaWg4b1hFVUtEeEpGUXR4bkMyR2hEUzdnY25OaEJiWXZiekNrQVdUaU1MQnlobjhqRGdpRkVoaWd6QmNaQ3hlVjdOYlJJOTZjTTlsNG1BbGc5VVNWYTBDbjYtZVFNa1VqYUVSWkVEY2ladDJENlZ4VG5PbGd6bW9QVVI4NGFVYnR2aC1oNmtfSmlqaTV4V3c?oc=5"
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWtCZ1ZBMnozSzFheEJrZmd4M3hJRk95bzlSSVQzUENnRWhDSHNSYjNWeG9BWHVhUjVRbFJQOV9XMU1ZVlpOSVlBaEpQRGdjd2M4RHRjRm8tT2h4QjM0LTczOGtyT01jWGFYVmZHYkRJQ25TUl9kcUNXRDk4b3FOaXZqLWhnQXBSWFpJcDY2Q1FPbmpERi1DLVA2UkNtblVtUmtKWk5Cdm9Ra3RRWFptR2NKTExDUU1GbmVDdUNza2xyNi0wMUFuc0dzX2RMT0F4RjRFS3JGaFIweGlW0gHiAUFVX3lxTE40LXREN2duQk1fVjhjbC05cnNJYnFoYlc1Y2JaSnhpckxVLVJoeW85WFAza1NPdW1VakpVOU1feVpGeWFTU1htbUJSZk4yT1U4SFBWXzhTdHdWRWdwVTV3a0NKdHVUaGpZeG1JdG1YNGZWcWtEMmk1eGlObnIyX2dBRGEtcVZldFRWZ0dPaURhMnFnU1pzOVhQWXhXMW44TFRJYzVDZU9KU2otcGx0WXhCYXdKdlhWZ296Y3BTOFNST25YaHJUMzZ3UHo4al9MOUlPZERLWG1RMEgtLWlDbGFwSFE?oc=5",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkVSNUE5Rm1QdFhlQS1ST3BXQmpyV2laR1d2WUtDSnVBbkt2QWRjcm9teG9nbUYzMVZieDlULVJ0RUs0bkZURUQ3dEsxMFBkVnR4ei12Z0ZNOUx2S0wyRU96dlVJSUJtVHRTMG1fNzhVRlZWdW52T2ZQZ0d4TTJvajZDejB3cHNaaTVNWDZlaFc4eHNpMmJVdndxWjl3b1QzOTVQbEllT01paE41dXhGMXRHNWVRS19Bd21aU0JMTG1DOTc5VnFrMzB3ck04bFhFbHNzeE1IZWtoX2xkME5mRG1vN0FndnNJZ0FtN2dR?oc=5"
       ]
     },
     {
-      "title": "GitHub Copilot weekly releases — November 9",
-      "score": 19.26,
+      "title": "Motorola Edge 70 Neo India Launch Teased, November 26 Hint",
+      "score": 20.96,
       "kinds": [
-        "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
-        "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTW1zZ0ZNU2NyT2pIdnRyc0VXdzZOTjhHMW5HblBWY05sWUZKTjRUdW9MeVd3WlhyMWxaUkVncXFsSmFFUC1uOUo1YXVZM0duamwyOWVsNnBqcFBhcl9ydFp6STE2RkJrb3I3ZkFIcEtzZUNQVFFIZkVqaWd0cUFqbDRyUmlzOVgzXzNPNjFB?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWZ6SUhHbC1QRU45eUxQb1FqeUIxZ2M5OXlSb3dMN3FLTEZzdld1eXpyc213Mng3TEVpaVlSS2NjcmdHTmZseVVqaHVteXM2LUFxZGdJLXFDNjVxMmE3cUlXS0J0SEQxSFZaZGVTZ0NHRE95cWpsY1YtUTBGb2dIcDVXei1IT3NwQjFya21sSlZYMGthNnEzZjBjaW1Eb2VFbFREZjhJT0RTZmF0dW9Nd1RSZDNnNWZnRXBRTVVVUEIxZktibTBZZ1hyTUl4cGZK0gHXAUFVX3lxTE5VV3ZiX0otMDJOb2s2Nks4bjZGVV9YM0l1aWU1YWJSRHl1X2FYMHBCVXBHeUJsQXFXNDc0Ni00UFFuRWZIbGcyUzNVMXhmLXFlemRPdXl5aFRVYkNyblhBWHRtalJvSjVDdXhlWUtiQnN6OUZZeUloQlRrX01HTjhkU2w2cldCeXNHRmxHbEc5UDhTVW5CbnJQQkYtNWlNQ3RTMTk5dVJVS3VkcXBENkxiQWpBRmphdm1HNjRRNV9SRktBVEFLaDBHcU9NYkw1em41RFRCanI4?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HcGRPVkZPeGJaWlE5WmR5RnVaOF9yQkVQME1aeTNEZXF6QVVYSXhGLU9tM3MyS0dCLW9GaXNIai1tQWhURXVzbjl5amZ4ZEM1ZWdiMk9NRDJ6SEQ5QTlsS3pldi16Yzg?oc=5"
       ]
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "score": 21.42,
+      "title": "Artificial Intelligence (AI) in Healthcare",
+      "score": 21.74,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5",
-        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlMySWVQR1FvLW9UbVlTaXc2WkJtS3ptTi1WNUNWT3VLRGh2THlSclVzRzVqYUgtalNVblFhM1RZS3FMVFdxRHhDQ1ZHeEF4TG9QQ1Zxc05FOXF5aTJLWG85eThBMWpzeGpWTDcwaThsTWhYLVM3cktTbjB4UGwxRHp0SlBCdw?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHZocW9ZS0RyQTBueU9zVlRGSUJzQ1Z3dndqb1p3Zk5nZWZ3X3dkUFltU0JkVWgxLUJyRmVxQkZyUGJ0MUUxcGlCVndScGw0NWU1b1VMLXAxQ2p2UWl6U0I4U0JkZWtRTTFqNGhZbFBlRlBhNFdLbUVhX0tfVnFDUFRR?oc=5"
       ]
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "score": 22.18,
+      "title": "Cyber attackers are continuing to exploit common and existing vulnerabilities across enterprises",
+      "score": 21.8,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
-        "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5"
-      ]
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "score": 22.2,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
-        "https://openai.com/index/science-at-the-frontier",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5"
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUhjYkN3YjlVaUJxWXlTOU1vNWxpZEw3YWdJSzkwaU41MlVDeFdTNGVhVFZxM3ZCZ0dtLWVVTG1xVzNoSUVyYUZjOFVleGR5YzdqYnY1RlVqOTNNT1lvRC1nbWNNaFJOMkEyVWlFci00dF9GMm1ERkF5bkxuM2FZQjM5ajBua0xoX1ZRVUNzRjZjeFY3aUZ5WDM5eE9yLUhCZTdjaE5ySDdRUE9STlR4Tm9EajRMbzJ5V3p0c2ZnR2dsWTQ2eUNlRlJJT0g?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUhjYkN3YjlVaUJxWXlTOU1vNWxpZEw3YWdJSzkwaU41MlVDeFdTNGVhVFZxM3ZCZ0dtLWVVTG1xVzNoSUVyYUZjOFVleGR5YzdqYnY1RlVqOTNNT1lvRC1nbWNNaFJOMkEyVWlFci00dF9GMm1ERkF5bkxuM2FZQjM5ajBua0xoX1ZRVUNzRjZjeFY3aUZ5WDM5eE9yLUhCZTdjaE5ySDdRUE9STlR4Tm9EajRMbzJ5V3p0c2ZnR2dsWTQ2eUNlRlJJT0g?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUhjYkN3YjlVaUJxWXlTOU1vNWxpZEw3YWdJSzkwaU41MlVDeFdTNGVhVFZxM3ZCZ0dtLWVVTG1xVzNoSUVyYUZjOFVleGR5YzdqYnY1RlVqOTNNT1lvRC1nbWNNaFJOMkEyVWlFci00dF9GMm1ERkF5bkxuM2FZQjM5ajBua0xoX1ZRVUNzRjZjeFY3aUZ5WDM5eE9yLUhCZTdjaE5ySDdRUE9STlR4Tm9EajRMbzJ5V3p0c2ZnR2dsWTQ2eUNlRlJJT0g?oc=5"
       ]
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
-      "score": 25.83,
+      "score": 23.64,
       "kinds": [
         "backlog",
         "news",
@@ -91,79 +119,42 @@
       ]
     },
     {
-      "title": "‘Don’t wait for AI to settle down’, Microsoft India chief Puneet Chandok tells businesses",
-      "score": 19.92,
+      "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+      "score": 21.6,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkVSNUE5Rm1QdFhlQS1ST3BXQmpyV2laR1d2WUtDSnVBbkt2QWRjcm9teG9nbUYzMVZieDlULVJ0RUs0bkZURUQ3dEsxMFBkVnR4ei12Z0ZNOUx2S0wyRU96dlVJSUJtVHRTMG1fNzhVRlZWdW52T2ZQZ0d4TTJvajZDejB3cHNaaTVNWDZlaFc4eHNpMmJVdndxWjl3b1QzOTVQbEllT01paE41dXhGMXRHNWVRS19Bd21aU0JMTG1DOTc5VnFrMzB3ck04bFhFbHNzeE1IZWtoX2xkME5mRG1vN0FndnNJZ0FtN2dR?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkVSNUE5Rm1QdFhlQS1ST3BXQmpyV2laR1d2WUtDSnVBbkt2QWRjcm9teG9nbUYzMVZieDlULVJ0RUs0bkZURUQ3dEsxMFBkVnR4ei12Z0ZNOUx2S0wyRU96dlVJSUJtVHRTMG1fNzhVRlZWdW52T2ZQZ0d4TTJvajZDejB3cHNaaTVNWDZlaFc4eHNpMmJVdndxWjl3b1QzOTVQbEllT01paE41dXhGMXRHNWVRS19Bd21aU0JMTG1DOTc5VnFrMzB3ck04bFhFbHNzeE1IZWtoX2xkME5mRG1vN0FndnNJZ0FtN2dR?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWREaE5GRUhTel9EdzhoX2tsTkpHdUJKLTFGc2t1R1RCRkh6ejV4M2pWcHp1bUVKam56R1REWWsyV29ja2RkT21aNWUyUmU0ZlNObGFsVndTck1KLUJEb19nLTJWb3NyaHNxVFBWWmY4dGZYUnViTU9WaVJEYV80bU5EU3pTTzMwQTFHNjBBWVRMbUF0RnNQQzhLZUZXR0dZZ21pZ21lalTSAa4BQVVfeXFMT2V2alJrUFNhcmljbUZ5UDduLXpfRjZCRzhpa0JndEE3YmFZdGVBMjhNRVlNU3NqQjlUTE9jdTNUb0Z5SWZqRllFUXBERzBJNGU3WmVpWm9QTmpwX1BSMi1mNWZFa09XUGJ6VHYzUHdHSHptaFlfTnhQM2xoN3NtOGxUajZvdTBlS2lmdTR4MFVFUDlBbnY0Z0ZhOGhwWm56YkR5MU81UzhaZDNKeXNn?oc=5"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlg2TkNCTDZZY0lObG14dzlhUF9WQjdrU3BkMUFSMHVGQldONWp4THlkZS03NWNlV3ZLdVlXNE40QXNjVnh5VnlFM21mNXNHdERLV0tnRC1KZElmc0NIb3VKeVR1anBsRDc4dmRNZHR6b05UVlN0XzFkZDE2dXpLM2ZnODJ4TjUxVFcweVBWUkpuZExVVVBjTjBab3VZTFZpckJXOEVzc181cWtGUEN0MUp5MkE3enRTc1kw?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnY4dFJSYTA1MnJFSlg3WTRTWXVmeWlxX2RPNURuR2VaMnQ4ZTdnMFB1N1cwUm1oTnNEYzZwM0NNWk8ycGsyc0l6ckwtVTdla0J4dENrblNJT2pjR21yVlBkamliUXpTNVppLUplcnF5bGg3UkxkTE1wTVk5VGxLZ1lqLS0?oc=5"
       ]
     },
     {
-      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "score": 18.87,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-        "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/"
-      ]
-    },
-    {
-      "title": "Artificial intelligence for antibiotic discovery and design",
-      "score": 17.97,
+      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO | Technology",
+      "score": 21.59,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE93WUpXZ2taMWtzQVBycWVmR1hGblREdlFTLVNfaTRBUjQ2cHpqbmQtY0piWkl1TjN4Wl95TFI4Q1JnbkVmRTZkWWR0dm9FbjVMbElGVDBiSVlHNGdNcTBObDJlMkFQX1FCcVBDRHVoYmp3VlU?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHhucU1LV3c1WmxCdm53VTZNajdSLWI1NGMwemdpMlY2dDJydks5bkE4TDZkN2dBZW01aXBIcEJnU0ppWWJHbERZc09JUENINV9tbWVtR0FLZlp4SUIzTHlmckE1Y3lFRGRlZmpobmFVYll6OGVKSEN2WG92alJLcHd1UU9TNS16dEE?oc=5"
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1ZRS0tTVUZkVFAxaHJjSVBpUmxTRUNQQ1h3ODJ2V0tnT0IzRW02OW5lbVp4bVNoXzhrUUlEU05sSWlPMjlUNkg3ck5TZVNUbXQyaGhvbFY3Mi1EQmFVZ2N5MlgwcUhrMEtIR2lXZTNhUF9WS25iaVF4MElSYUNyQV9iekZQQXM?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRHZFb1U1bV8xVFpPQ09SSFZPdElWbldUa3RWbGlTaUlTV0tWXzZfdVFqZTU2cW1VdHMxd09GVTFtdUZmNjVRc2N0OE5HQjIyMVgxNjI2QzVFWmNnb3VTRFhtdGlNZ0tvUlMxODI3YzRad014dFdmZmdYQ2pKUU81V3Q1a1pOUVBHRTN4NUR5a0dMWk9waFFvLWNRdTB6VXNjbVNnX2lXRDRKV0dfeVRnMVAtZUdZNEd3SXdQQy13Qnd3QXZKWS1MZERTYVF5aFVjZ3duSUlJbXdRZk9JOUVwa0xPQTFfdkpJeTlBMXluXzU3WGM0U0E?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UjBINEJnTmxCS01HVWNpdzZiSzV6UHJBSFlGcnUyVTFNQ1hHTzRKanM5QS1xRGRONGpHUUxRbGJpanluX1BldC1ES2tQYVh0VjJnbGN2SHQ2UjY3Z21hbUVsRUFOZklzWHF5cVVHZl9PRjNyb1JaQzFKMkhIZw?oc=5"
       ]
     },
     {
-      "title": "Motorola Edge 70 Neo Coming to India Soon: Check Camera, Design and Expected Features",
-      "score": 21.37,
+      "title": "Jensen Huang Open to Return as Nvidia CEO, But Board Not Considering It",
+      "score": 21.57,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdE5CVFRIWTZPRnBLeGYyRmVlOG90X2JwR1ZvQ3ZNaGtjaFdfQlU3aUdJOUNPUExJME9pWVdRZl9KaC14YUZNV25oRGpCTVU2WkZFeTZaQmlMZ3hfNHpNTmxYTkZYbFJ5U19UOXluRFBKZU5JR2ZJNUh6Q1dxQVpHSkJiWWpDQm1TcnJQcEQ1dXFEMXE3aENiTWtyUWp6QnY2Ml80dHp5MGFWZw?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUdYeHVBYjNmd3FvVmJxbUpFT3ZmZzRvOEozdTdqYkZfOS1fQzZSYjh4X3IzSmxKTFlNaHZsWG5rbWttT0NyYkVzdTUxeEZ1aGlRWXhiTDNwTGY3TVFGS29MSGU1b1VXS1JXaEZnMnJGRVZLenlrT3pndmlvZXpvUUFHYlRjT0JFUUk5TUxtOA?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlA2b2pTdEhZY1pzV2phOU1veFN6YXNncmczWmVic1I2NEVoX2FTQVV2UzYzZjdVTFI4SFpaam1DcXdMRmdudUY4LU5Xal9lR2VBZ1U1ZDkzaFdGU0tZbm9DUDdaTTdaUWlHZmhQXzdNQ2p0VUl4LVJieW5OX3JCLS1zcHp2QQ?oc=5"
-      ]
-    },
-    {
-      "title": "Wealthtech startup finny.club raises Rs 5.3 Cr in angel round",
-      "score": 19.35,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2Rha0dSYVFrZTJkc1ZNejdiU0VsZkJjb3BaRDdINnhReWpaZHpIT0NoZ1B4QXp1SEY2cEJjVGVjUm10UnRleEJpQ0NNcFpQalM3QnY3V21LZ0l5Y1hPTzVBcUlTZG5kUXpEeWZybDFTZjdZQzRFcUJ2Yjh6UjR4VlM4OFFNNE4zSVlYWXBjNFR3SHZ4WmV6XzAzNmVZeDTSAZ8BQVVfeXFMUGtkYWtHUmFRa2UyZHNWTXo3YlNFbGZCY29wWkQ3SDZ4UXlqWmR6SE9DaGdQeEF6dUhGNnBCY1RlY1JtdFJ0ZXhCaUNDTXBaUGpTN0J2N1dtS2dJeWNYT081QXFJU2RuZFF6RHlmcmwxU2Y3WUM0RXFCdmI4elI0eFZTODhRTTROM0lZWFlwYzRUd0h2eFplel8wMzZlWXg0?oc=5",
-        "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRnl3Ymd5bWRlanhHMTdXUHlBYy1KRE9maUZTM0szM2htNDdMYjEyemRJZlFMM1k0U09GTmxnaW9jYnFxb0lod1hHQzhQMDVIZ1RKRUw1R2ZGV3l2V2pndlRxc09nbkdmQXIxX3F6OEdBRzZISGVuNGhUMmJwMER6RGI3alF1SlN2NDIwdjlqeGoybWIzSmFwQXdFTXlaWktfeVNRWDV4dUM5YlY4dXE2M1RPT1I5OWFadkRZUXc5T0d6MC1udElfN1NHRW9MNW1rNnRCNkVESk1uWFdUeEEyd1NKNDJyZEJiUHNtQ0dST2I4bWlsQ1d2cHAxc2I3Z0F1UWdJ?oc=5"
-      ]
-    },
-    {
-      "title": "UPI Transactions October 2026: Record Rs. 31.53 Lakh Crore",
-      "score": 18.51,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVZWMzFZS3FaeEgyVmNzQWlSZFhiUDVaQThoUUwxUFp2bDdrVzRLd2dreHhNN1VqLXc2b0d6ckhsZ1gzdzRxMU02VnFLWUo4X3pUTVdWVUxRZ1l3a3ZfVXBGZ05CS0s2eEZZV3Zzc1lkMGVsV1BMMUVQcmxyT204cGh0Sjk?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVXYtTTJoRDUyc0FvZmtTdU5PQ3A2MS1oSVM2a1l1MG0zekF6OWpUQm5EaFdGbnJXbjRmTGxyR3dfZy1aMk1WME1FaXliaGIyLVJubFg4ckF5MHRtdUQtdUFWUjlnQy00aVhUaUU5RGNFTVJjMktscWxPZnB4VGlOcWxfWEZUel9qdFJZallGYkNYRWJ3bUp2WHR0eEYzMXhzS0ZvNkQxbG16YnlOTllRaXZtaml6V253ckdFaUhuTWhjQ3kwYndVWUh5cE9kWTN1S2lBYXRpMHQxRDliN0RSUjZXTkE2LW_SAecBQVVfeXFMTVV2LU0yaEQ1MnNBb2ZrU3VOT0NwNjEtaElTNmtZdTBtM3pBejlqVEJuRGhXRm5yV240Zkxsckd3X2ctWjJNVjBNRWl5YmhiMi1SbmxYOHJBeTB0bXVELXVBVlI5Z0MtNGlYVGlFOURjRU1SYzJLbHFsT2ZweFRpTnFsX1hGVHpfanRSWWpZRmJDWEVid21Kdlh0dHhGMzF4c0tGbzZEMWxtemJ5Tk5ZUWl2bWppeldud3JHRWlIbk1oY0N5MGJ3VVlIeXBPZFkzdUtpQWF0aTB0MUQ5YjdEUlI2V05BNi1v?oc=5"
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUDhHWUU2NndLcmRrRWV3VnhTX1J6T0g0WFpXY2pZUkp5SWFIckpDclYxTXFxMEhPNXV3SEZZWmtkOVZlR1d2Tm9ycnBlb1Q4R2FkaXlieWMwakdqdFRQNTdxZ0VwSGI5aVl6NThXcENJb25wWWJRU0I3MTRJR214SVBBbUR5TkFTZnZWdDZWYWg2UlN2Rk9aREJ4WHB4SXQyVjVIYmR0bkhPNVpTS1lN?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbHhvLWlaeEs1N24yOVFsQ3MzU0F3TlFucG9GX1djZFpsdHFEYnVvcHZrME53bk1OcWtBR0wzTVFpcWVOdXVXclExQTN1RHB6alRVbW1PWGpIdlNPR3pqS1Q4eWl0RDByTHctSV9MV1lkRkp4dWk0WU9TTnF0dW9xczlOa2lmdXdCRXNPNlNSdnRLcnZmdUd1QW5mRmlKeDlSMlk1d1NFbU9QbFdOdVZVczdKWDVERnV5VHp6WVNhbjA4TVNINU1lTHA5WnVUdWVTLTVNeUJn?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXNYenZoSjhZdk40LUEwQVFUb21namZGOHVLV29GUGYzRVp5SEo2WXVNNlNRMlphSHFFeFItWjlpNThubEpoLWp3RXVyNDdkR2pIN2ZkTzd0NDJzYUVKSDFfcDAtTVVOQmVPZVRrTzM3dDlmYWt4cjN0WHlIOWs1Q0NzcDZRbXZHcVBxeEw1bnJORlRmVzU2Q2tfMzNDdVN6ZUNwMk9wR0hZS3g4c1hYVEhCanlobUxhcjU2Ym5SNTlsSDZpRU8yV1BhTzUwUDVST3VBTFZndkUxRERLRFdvazYtQThMMDhtWmZ30gHwAUFVX3lxTE5SU05qZjBRazFfQm9PcDZjTTFuY090cktFSjBibDJFVHVLeV9pdld6NzBHUTlGcTNLYkNvWS12dzBsU0N6YURaVkkxOVhTMXVVTmpXLV9tblFSUktLS0poaEpoSnkyOWk2aTE3QzRTc2F5NUpPSFFrajRldWpsdTZWTjhHVFlieG9MSHdab3NUM3pSOUJFMld0U2h0MUlTRGs5ZUF3VDRiS3YzalBBak1ETnV3TjlUeUpLQ3FXczZZMWthZVlJSFg3QzM4R3JGOFZwQ05wRV9FNnh6OW1uczJoejNSRks4RkpKTVotYm1vUw?oc=5"
       ]
     }
   ]
