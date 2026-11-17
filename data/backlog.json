@@ -1,16 +1,5 @@
 [
   {
-    "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhtTHY4MU1VRTVrR3lmcS1VNW92NUhOXzdJa1RpWU9KbnI3S01uSXplemx0cFVZaWg4b1hFVUtEeEpGUXR4bkMyR2hEUzdnY25OaEJiWXZiekNrQVdUaU1MQnlobjhqRGdpRkVoaWd6QmNaQ3hlVjdOYlJJOTZjTTlsNG1BbGc5VVNWYTBDbjYtZVFNa1VqYUVSWkVEY2ladDJENlZ4VG5PbGd6bW9QVVI4NGFVYnR2aC1oNmtfSmlqaTV4V3c?oc=5",
-    "source": "Analytics India Magazine",
-    "kind": "news",
-    "summary": " Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions &nbsp;&nbsp; Analytics India Magazine ",
-    "country": "IN",
-    "published": "2026-11-17T08:46:30+00:00",
-    "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
-  },
-  {
     "title": "GitHub Copilot weekly releases — November 9",
     "link": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
     "source": "GitHub Changelog",
@@ -19,29 +8,7 @@
     "country": "GLOBAL",
     "published": "2026-11-16T21:34:53+00:00",
     "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
-  },
-  {
-    "title": "Science at the Frontier: How scientists use ChatGPT",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Science at the Frontier: How scientists use ChatGPT &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-16T17:19:12+00:00",
-    "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
-  },
-  {
-    "title": "Broadening access to AI for scientists",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Broadening access to AI for scientists &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-16T17:15:16+00:00",
-    "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
+    "saved": "2026-11-17T12:41:05.302171+00:00"
   },
   {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
@@ -52,7 +19,51 @@
     "country": "IN",
     "published": "2026-11-16T14:13:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
+    "saved": "2026-11-17T12:41:05.302171+00:00"
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Broadening access to AI for scientists &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-16T17:15:16+00:00",
+    "engagement": 0,
+    "saved": "2026-11-17T12:41:05.302171+00:00"
+  },
+  {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Science at the Frontier: How scientists use ChatGPT &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-16T17:19:12+00:00",
+    "engagement": 0,
+    "saved": "2026-11-17T12:41:05.302171+00:00"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Strengthening NATO and allied cyber defenses with AI &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-17T07:50:38+00:00",
+    "engagement": 0,
+    "saved": "2026-11-17T12:41:05.302171+00:00"
+  },
+  {
+    "title": "‘Don’t wait for AI to settle down’, Microsoft India chief Puneet Chandok tells businesses",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkVSNUE5Rm1QdFhlQS1ST3BXQmpyV2laR1d2WUtDSnVBbkt2QWRjcm9teG9nbUYzMVZieDlULVJ0RUs0bkZURUQ3dEsxMFBkVnR4ei12Z0ZNOUx2S0wyRU96dlVJSUJtVHRTMG1fNzhVRlZWdW52T2ZQZ0d4TTJvajZDejB3cHNaaTVNWDZlaFc4eHNpMmJVdndxWjl3b1QzOTVQbEllT01paE41dXhGMXRHNWVRS19Bd21aU0JMTG1DOTc5VnFrMzB3ck04bFhFbHNzeE1IZWtoX2xkME5mRG1vN0FndnNJZ0FtN2dR?oc=5",
+    "source": "Deccan Herald",
+    "kind": "news",
+    "summary": " ‘Don’t wait for AI to settle down’, Microsoft India chief Puneet Chandok tells businesses &nbsp;&nbsp; Deccan Herald ",
+    "country": "IN",
+    "published": "2026-11-17T12:13:21+00:00",
+    "engagement": 0,
+    "saved": "2026-11-17T12:41:05.302171+00:00"
   },
   {
     "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
@@ -63,17 +74,6 @@
     "country": "GLOBAL",
     "published": "2026-11-16T20:00:37+00:00",
     "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
-  },
-  {
-    "title": "Strengthening NATO and allied cyber defenses with AI",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Strengthening NATO and allied cyber defenses with AI &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-17T07:41:15+00:00",
-    "engagement": 0,
-    "saved": "2026-11-17T11:44:41.036112+00:00"
+    "saved": "2026-11-17T12:41:05.302171+00:00"
   }
 ]

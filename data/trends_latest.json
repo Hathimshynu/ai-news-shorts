@@ -1,25 +1,13 @@
 {
-  "job_id": "2026-11-17-evening-1701",
-  "chosen": "OpenAI offers free ChatGPT to academic researchers in India and here are the details",
-  "reason": "Free ChatGPT access for academic researchers in India offers direct value and practical utility for students and scientists looking to leverage AI in their work.",
+  "job_id": "2026-11-17-evening-1801",
+  "chosen": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
+  "reason": "This major initiative between Google Cloud and Accenture directly impacts students and tech professionals in India by bringing structured AI education to 1,000 institutions.",
   "candidates": [
     {
-      "title": "OpenAI offers free ChatGPT to academic researchers in India and here are the details",
-      "score": 23.67,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ3Q2djJoVElYTzdOdV9FWFdmWTRmOC1uNkc4bmVnV2VwNmZBdG83c0tOUDgxOVJTM0pfMDgya0hNNFV4RW1qN2FfZDBaY2Y2UWk0ZlV0YXdOdWZfY0p1N3dtazR6V0ctVmR1d29ZcmtGS0dHNGFJNmlIY1FRQnhZVDZsTTV6cUdhUmdLYS1oVDRaVWljcEN2ZkdwMVkzenlySUM0RDFXdzQxbW1ZWXpsMHNwU0N5T29sRng2M2RDLWJKVmk5ZFJBb3Jzem9yOG5rYnVtWTVfLTZSM2wtQWRWU3BaV1Ztd9IB6wFBVV95cUxQUDdYakQwX0FLRFNianFQUE5RM0QtUnh4bkFkdzM1Uk83TTNZY01vVVRWd3Z5ZUVlVzVXMV95RnBMSXJJVlFzS2lKTnhEeVVPT0hkdDRocFZURHZvYmoxVXBlc00wSVpXWXVYbXpMWmZwZXdEOUNDVHlJeFFjRW0yU3ZsMDY2azNlY2tGYzl3WWZOTm1YS2k3czVrLU9leWtrZ1c0RWxXX1dRRXc4WVZTVVg2cUZfSlZrM2gzajZUZWNNTGpqOFdaVjQ5Sld2TTdUMFcxemU4SnFRRk5pM1NrUUVYdEpFMVJaU2w4?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOWpsYk9QZ2QxWkpvU3NnUWV6bGNNclVEQmtQLWFvaEtiUjN0YkpqRjlEQ0cwaFMzUkhQLURtU1V6cVExUmQ2NWUtcVFibmkybGN1RXlFaUJBVHBUUjhpazB3Y0VMOVRDai1LVE5TOVJGWGxaYjd4eGZvLWlKUUg2S0p4d2FJYnBYVEZrM1c2MGlpSjJoNGdaVl83UUNfMWpReGU1eGJ0ay11enJfaTJ0UjlJMXcyQktsQjFJTlFMTXgtVkFwZHFNRHBIY1lBRGtvQTNvVkF1T2p5TmJoWHVVOHVDdmhGR0dwa0HSAfABQVVfeXFMTWZ0QXQ3b2RpSFdFajlXaEtSNGduWGpCdTQ4WVgwc2Y1anZzdVFhSDFUMk1EQ0d1MTBDdHR2ZEhuMWZNeVNCamc0N1h2Si1UYkRCalJBR0JEZWVXTFVxaUxsd0g4OG9iOGs2S3VtQWFrR0xHS2k4cjc2YW00NGJwelpmZk05UVVrZzcwa25Memg4T01vZUlhSzVaV2gzbEptQ2puaGF2U1pBZkNyV1M0YzljdEZxNzkwd01KeDljNXdEY0NSSmxuNkVzSTc1cW9HVXJuUTlVX2Zwb1ltajNKX3FnX2dQT0RLb1dFX2JrdnJX?oc=5",
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSk9oRFIxZlNPM3pWUXY4OVlCZGJsMGRpaWI2YnpRWXZ1ODRndVliaUhBaXN4eEtSQzlWclAwZnRlRUZrTFgwTmc2V3VlaEhsTmwzODZZRXdMS3BHQVY3S0J0T3JoWnRoYjE5Unk2dkFfUU9DTnFleUp0Qkp1LTZiaWZTb1JqTENDa1QyU2hSYnhmZzNYbDdPZHVVTXg3ZzIwcml3anNyUHVMU3pHMEdWMXNjOEZWai1kcTNYLTVpQ3otV2FYNTJGMmEtQzVZSlFvNWxoX2tRb2hFOWxsN0FheXNrbW11VkVmMUwwNzNRNFRocDNPeXJuVtIB8gFBVV95cUxNUjBWUkpSMVZlTG1HSFduNVJ4VTNxRXBkX1Q1S0F1VGllQ1dnNko4amJkUDBEb1gxR0xzTVFkWWMzXy1XODAyY1FVY1pQZzVrSTF0X0tOS0o2amxCV1lsNkhLWTgzUWplbDdET21fS0dueFRIenBKS3BkelhIT1luaGVXWmhXVFN5NlA1dGNmU3A5dU5YSWlDVTBPcGZZdGk5ZHVXdzYwaFo4YU8tQTc0aU9NSGlXY2g0UWotTE4wX2JIWUltQVFSdHBzZWFxSVdCaFVBNXlJR1E5V2w1VkcyWlJycEZzeHRpMTFwN3FOSk0xdw?oc=5"
-      ]
-    },
-    {
       "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
-      "score": 19.77,
+      "score": 23.75,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -30,21 +18,8 @@
       ]
     },
     {
-      "title": "OpenAI Picks Pragya Misra to Head India and South Asia Business Expansion",
-      "score": 31.54,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0JYZi04RU9aT0xybzVwSHRoclVKRUcyQlB3MFA2eWlaeUZvMVRQUHpZSFNtWWF3d2ZMVVdUT0JES1lQVEs3WGVwcGMxSnVnSWNNLWg1VUdVUEpTN1lNVV9iVXdGOHlhM1lxUU1ncWVZSFItVklOYW5ZdEJfSjZPcU9TckNSbWZtQnE4RHhmdDlIT1NSb2ZrRDVfWWZYT1JjeW1hektnbXRuZG43dm5haw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2xyTndmdC1rOTdURWNfcldzTXNlNkd1bTZMMHFnRVNqdEJ3QTlNbUJLb1J1VWlQM2JyMGUtd0h5NjdpeEtqLUFfaExQMUp3VC00WXpiNWNwWEZ5SjZxZDU5NllhX25CYkRjNkM5cFhNcV9tdTEzTGRjVGVYT3pGYnVSdHBxcGZjcVBSS296U3RGN1BXc3FwM1lRQmZ4d24zeUQ3LWVmOWVsc1pvdzhZQ2xYUmthS2pfektkRDZxcmI1RVU?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0JYZi04RU9aT0xybzVwSHRoclVKRUcyQlB3MFA2eWlaeUZvMVRQUHpZSFNtWWF3d2ZMVVdUT0JES1lQVEs3WGVwcGMxSnVnSWNNLWg1VUdVUEpTN1lNVV9iVXdGOHlhM1lxUU1ncWVZSFItVklOYW5ZdEJfSjZPcU9TckNSbWZtQnE4RHhmdDlIT1NSb2ZrRDVfWWZYT1JjeW1hektnbXRuZG43dm5haw?oc=5"
-      ]
-    },
-    {
       "title": "GitHub Copilot weekly releases — November 9",
-      "score": 19.51,
+      "score": 19.26,
       "kinds": [
         "backlog",
         "official"
@@ -56,38 +31,8 @@
       ]
     },
     {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "score": 22.45,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
-        "https://openai.com/index/science-at-the-frontier",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5"
-      ]
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "score": 22.43,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
-        "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5"
-      ]
-    },
-    {
       "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "score": 21.67,
+      "score": 21.42,
       "kinds": [
         "backlog",
         "news",
@@ -101,8 +46,66 @@
       ]
     },
     {
+      "title": "Broadening access to AI for scientists",
+      "score": 22.18,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5",
+        "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQY1F3MlV5UmdNdVFMYy03RjJJdUx3S0MwbWluSkFkMHpVZVFRZERWM1FvTTJBZ2JuSnlHSWhpREZjeDFtdUdFenc0X3lUYlcwUVhvdDY4UkdzbWFBTXlKQ3FUbjdlMEwzb0NfQk9mVHFWLVF4bUFR?oc=5"
+      ]
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "score": 22.2,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5",
+        "https://openai.com/index/science-at-the-frontier",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jSmJUUzJxRk9IWEcxeklYTWlPQmlNMFNuT1g1Vk9sZUVwNll0bGRvZ1VMcXhSeFdnSkttUGRXZUFCUDdNUDBFdkgyaGJqYjV5LUQ1Z3pHUTA3aGRqVFE?oc=5"
+      ]
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "score": 25.83,
+      "kinds": [
+        "backlog",
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5"
+      ]
+    },
+    {
+      "title": "‘Don’t wait for AI to settle down’, Microsoft India chief Puneet Chandok tells businesses",
+      "score": 19.92,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkVSNUE5Rm1QdFhlQS1ST3BXQmpyV2laR1d2WUtDSnVBbkt2QWRjcm9teG9nbUYzMVZieDlULVJ0RUs0bkZURUQ3dEsxMFBkVnR4ei12Z0ZNOUx2S0wyRU96dlVJSUJtVHRTMG1fNzhVRlZWdW52T2ZQZ0d4TTJvajZDejB3cHNaaTVNWDZlaFc4eHNpMmJVdndxWjl3b1QzOTVQbEllT01paE41dXhGMXRHNWVRS19Bd21aU0JMTG1DOTc5VnFrMzB3ck04bFhFbHNzeE1IZWtoX2xkME5mRG1vN0FndnNJZ0FtN2dR?oc=5",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkVSNUE5Rm1QdFhlQS1ST3BXQmpyV2laR1d2WUtDSnVBbkt2QWRjcm9teG9nbUYzMVZieDlULVJ0RUs0bkZURUQ3dEsxMFBkVnR4ei12Z0ZNOUx2S0wyRU96dlVJSUJtVHRTMG1fNzhVRlZWdW52T2ZQZ0d4TTJvajZDejB3cHNaaTVNWDZlaFc4eHNpMmJVdndxWjl3b1QzOTVQbEllT01paE41dXhGMXRHNWVRS19Bd21aU0JMTG1DOTc5VnFrMzB3ck04bFhFbHNzeE1IZWtoX2xkME5mRG1vN0FndnNJZ0FtN2dR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWREaE5GRUhTel9EdzhoX2tsTkpHdUJKLTFGc2t1R1RCRkh6ejV4M2pWcHp1bUVKam56R1REWWsyV29ja2RkT21aNWUyUmU0ZlNObGFsVndTck1KLUJEb19nLTJWb3NyaHNxVFBWWmY4dGZYUnViTU9WaVJEYV80bU5EU3pTTzMwQTFHNjBBWVRMbUF0RnNQQzhLZUZXR0dZZ21pZ21lalTSAa4BQVVfeXFMT2V2alJrUFNhcmljbUZ5UDduLXpfRjZCRzhpa0JndEE3YmFZdGVBMjhNRVlNU3NqQjlUTE9jdTNUb0Z5SWZqRllFUXBERzBJNGU3WmVpWm9QTmpwX1BSMi1mNWZFa09XUGJ6VHYzUHdHSHptaFlfTnhQM2xoN3NtOGxUajZvdTBlS2lmdTR4MFVFUDlBbnY0Z0ZhOGhwWm56YkR5MU81UzhaZDNKeXNn?oc=5"
+      ]
+    },
+    {
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "score": 19.12,
+      "score": 18.87,
       "kinds": [
         "backlog",
         "official"
@@ -114,34 +117,21 @@
       ]
     },
     {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "score": 19.01,
+      "title": "Artificial intelligence for antibiotic discovery and design",
+      "score": 17.97,
       "kinds": [
-        "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://openai.com/index/the-kings-trust-and-openai",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5"
-      ]
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "score": 24.04,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
-        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE93WUpXZ2taMWtzQVBycWVmR1hGblREdlFTLVNfaTRBUjQ2cHpqbmQtY0piWkl1TjN4Wl95TFI4Q1JnbkVmRTZkWWR0dm9FbjVMbElGVDBiSVlHNGdNcTBObDJlMkFQX1FCcVBDRHVoYmp3VlU?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHhucU1LV3c1WmxCdm53VTZNajdSLWI1NGMwemdpMlY2dDJydks5bkE4TDZkN2dBZW01aXBIcEJnU0ppWWJHbERZc09JUENINV9tbWVtR0FLZlp4SUIzTHlmckE1Y3lFRGRlZmpobmFVYll6OGVKSEN2WG92alJLcHd1UU9TNS16dEE?oc=5"
       ]
     },
     {
       "title": "Motorola Edge 70 Neo Coming to India Soon: Check Camera, Design and Expected Features",
-      "score": 21.62,
+      "score": 21.37,
       "kinds": [
         "news"
       ],
@@ -153,16 +143,27 @@
       ]
     },
     {
-      "title": "Gamers in Asia stoked to play 'GTA VI', many on gray market",
-      "score": 21.0,
+      "title": "Wealthtech startup finny.club raises Rs 5.3 Cr in angel round",
+      "score": 19.35,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWwzb0RMRXFNYnN2T016VTktY09zYnQ3SjU4Z1JHTzNLQnduWDFubEFBcDc5UjZVLV9PdTlZc0RHNWZSNVg0V0tHY0ZpdjFKRzc0ZnFwRHkxTS1JOVltR0N1UUpkOTc0TjJSRlRESi14dWQtcTFrcmdtSDdtNVhhLS1wWFFkay0tRDBfMHJQcnRtV0VPSjNyQjdfSE5YaHlCUGdPcVdnRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanB6U1VwUmNwR2s1TEY4RmkxaDYwN1Jsd21KX183V3JlOThDVkp5YUJIdkZXOVVCYTVMV2ZVc0ZaZTVwcTVERHFJaDV0NDhYLThMM0hXYmhBRGdHWU9yY1NvNXBnVG9wSjVQZ09PT25sVjFaRTRGTUJkbDlnSGZOUk9lRU9rbHkySlhYM2gwSDBkOUI3WmNTVjAtNk9PUjBuVkViUlJyRUN4dEJOWTItYWFyUl9Tdw?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWwzb0RMRXFNYnN2T016VTktY09zYnQ3SjU4Z1JHTzNLQnduWDFubEFBcDc5UjZVLV9PdTlZc0RHNWZSNVg0V0tHY0ZpdjFKRzc0ZnFwRHkxTS1JOVltR0N1UUpkOTc0TjJSRlRESi14dWQtcTFrcmdtSDdtNVhhLS1wWFFkay0tRDBfMHJQcnRtV0VPSjNyQjdfSE5YaHlCUGdPcVdnRQ?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2Rha0dSYVFrZTJkc1ZNejdiU0VsZkJjb3BaRDdINnhReWpaZHpIT0NoZ1B4QXp1SEY2cEJjVGVjUm10UnRleEJpQ0NNcFpQalM3QnY3V21LZ0l5Y1hPTzVBcUlTZG5kUXpEeWZybDFTZjdZQzRFcUJ2Yjh6UjR4VlM4OFFNNE4zSVlYWXBjNFR3SHZ4WmV6XzAzNmVZeDTSAZ8BQVVfeXFMUGtkYWtHUmFRa2UyZHNWTXo3YlNFbGZCY29wWkQ3SDZ4UXlqWmR6SE9DaGdQeEF6dUhGNnBCY1RlY1JtdFJ0ZXhCaUNDTXBaUGpTN0J2N1dtS2dJeWNYT081QXFJU2RuZFF6RHlmcmwxU2Y3WUM0RXFCdmI4elI0eFZTODhRTTROM0lZWFlwYzRUd0h2eFplel8wMzZlWXg0?oc=5",
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRnl3Ymd5bWRlanhHMTdXUHlBYy1KRE9maUZTM0szM2htNDdMYjEyemRJZlFMM1k0U09GTmxnaW9jYnFxb0lod1hHQzhQMDVIZ1RKRUw1R2ZGV3l2V2pndlRxc09nbkdmQXIxX3F6OEdBRzZISGVuNGhUMmJwMER6RGI3alF1SlN2NDIwdjlqeGoybWIzSmFwQXdFTXlaWktfeVNRWDV4dUM5YlY4dXE2M1RPT1I5OWFadkRZUXc5T0d6MC1udElfN1NHRW9MNW1rNnRCNkVESk1uWFdUeEEyd1NKNDJyZEJiUHNtQ0dST2I4bWlsQ1d2cHAxc2I3Z0F1UWdJ?oc=5"
+      ]
+    },
+    {
+      "title": "UPI Transactions October 2026: Record Rs. 31.53 Lakh Crore",
+      "score": 18.51,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVZWMzFZS3FaeEgyVmNzQWlSZFhiUDVaQThoUUwxUFp2bDdrVzRLd2dreHhNN1VqLXc2b0d6ckhsZ1gzdzRxMU02VnFLWUo4X3pUTVdWVUxRZ1l3a3ZfVXBGZ05CS0s2eEZZV3Zzc1lkMGVsV1BMMUVQcmxyT204cGh0Sjk?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVXYtTTJoRDUyc0FvZmtTdU5PQ3A2MS1oSVM2a1l1MG0zekF6OWpUQm5EaFdGbnJXbjRmTGxyR3dfZy1aMk1WME1FaXliaGIyLVJubFg4ckF5MHRtdUQtdUFWUjlnQy00aVhUaUU5RGNFTVJjMktscWxPZnB4VGlOcWxfWEZUel9qdFJZallGYkNYRWJ3bUp2WHR0eEYzMXhzS0ZvNkQxbG16YnlOTllRaXZtaml6V253ckdFaUhuTWhjQ3kwYndVWUh5cE9kWTN1S2lBYXRpMHQxRDliN0RSUjZXTkE2LW_SAecBQVVfeXFMTVV2LU0yaEQ1MnNBb2ZrU3VOT0NwNjEtaElTNmtZdTBtM3pBejlqVEJuRGhXRm5yV240Zkxsckd3X2ctWjJNVjBNRWl5YmhiMi1SbmxYOHJBeTB0bXVELXVBVlI5Z0MtNGlYVGlFOURjRU1SYzJLbHFsT2ZweFRpTnFsX1hGVHpfanRSWWpZRmJDWEVid21Kdlh0dHhGMzF4c0tGbzZEMWxtemJ5Tk5ZUWl2bWppeldud3JHRWlIbk1oY0N5MGJ3VVlIeXBPZFkzdUtpQWF0aTB0MUQ5YjdEUlI2V05BNi1v?oc=5"
       ]
     }
   ]
