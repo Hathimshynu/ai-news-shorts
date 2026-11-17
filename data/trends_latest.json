@@ -1,41 +1,63 @@
 {
-  "job_id": "2026-11-17-morning-0358",
-  "chosen": "Advancing computer-use agents for healthcare teams",
-  "reason": "It highlights how cutting-edge computer-use AI agents are automating real-world healthcare workflows, giving viewers practical insights into the next wave of AI automation.",
+  "job_id": "2026-11-17-evening-1701",
+  "chosen": "OpenAI offers free ChatGPT to academic researchers in India and here are the details",
+  "reason": "Free ChatGPT access for academic researchers in India offers direct value and practical utility for students and scientists looking to leverage AI in their work.",
   "candidates": [
     {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "score": 25.64,
+      "title": "OpenAI offers free ChatGPT to academic researchers in India and here are the details",
+      "score": 23.67,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5",
-        "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PNjNyRDJGS1ZQWUhBQXUtMmx2MG1sY0Q1SnlSeHRHUkZJbnNmdzJLblJXalpCbENYTExwaDY4UkpaWEZQUk82Mkd0QUQtbE9PVlRsYmtqMTVNNnVxdm1RVWMtRUJUZWlWeWQ5aEJRNkZoUHN4LXZ5Ng?oc=5"
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ3Q2djJoVElYTzdOdV9FWFdmWTRmOC1uNkc4bmVnV2VwNmZBdG83c0tOUDgxOVJTM0pfMDgya0hNNFV4RW1qN2FfZDBaY2Y2UWk0ZlV0YXdOdWZfY0p1N3dtazR6V0ctVmR1d29ZcmtGS0dHNGFJNmlIY1FRQnhZVDZsTTV6cUdhUmdLYS1oVDRaVWljcEN2ZkdwMVkzenlySUM0RDFXdzQxbW1ZWXpsMHNwU0N5T29sRng2M2RDLWJKVmk5ZFJBb3Jzem9yOG5rYnVtWTVfLTZSM2wtQWRWU3BaV1Ztd9IB6wFBVV95cUxQUDdYakQwX0FLRFNianFQUE5RM0QtUnh4bkFkdzM1Uk83TTNZY01vVVRWd3Z5ZUVlVzVXMV95RnBMSXJJVlFzS2lKTnhEeVVPT0hkdDRocFZURHZvYmoxVXBlc00wSVpXWXVYbXpMWmZwZXdEOUNDVHlJeFFjRW0yU3ZsMDY2azNlY2tGYzl3WWZOTm1YS2k3czVrLU9leWtrZ1c0RWxXX1dRRXc4WVZTVVg2cUZfSlZrM2gzajZUZWNNTGpqOFdaVjQ5Sld2TTdUMFcxemU4SnFRRk5pM1NrUUVYdEpFMVJaU2w4?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOWpsYk9QZ2QxWkpvU3NnUWV6bGNNclVEQmtQLWFvaEtiUjN0YkpqRjlEQ0cwaFMzUkhQLURtU1V6cVExUmQ2NWUtcVFibmkybGN1RXlFaUJBVHBUUjhpazB3Y0VMOVRDai1LVE5TOVJGWGxaYjd4eGZvLWlKUUg2S0p4d2FJYnBYVEZrM1c2MGlpSjJoNGdaVl83UUNfMWpReGU1eGJ0ay11enJfaTJ0UjlJMXcyQktsQjFJTlFMTXgtVkFwZHFNRHBIY1lBRGtvQTNvVkF1T2p5TmJoWHVVOHVDdmhGR0dwa0HSAfABQVVfeXFMTWZ0QXQ3b2RpSFdFajlXaEtSNGduWGpCdTQ4WVgwc2Y1anZzdVFhSDFUMk1EQ0d1MTBDdHR2ZEhuMWZNeVNCamc0N1h2Si1UYkRCalJBR0JEZWVXTFVxaUxsd0g4OG9iOGs2S3VtQWFrR0xHS2k4cjc2YW00NGJwelpmZk05UVVrZzcwa25Memg4T01vZUlhSzVaV2gzbEptQ2puaGF2U1pBZkNyV1M0YzljdEZxNzkwd01KeDljNXdEY0NSSmxuNkVzSTc1cW9HVXJuUTlVX2Zwb1ltajNKX3FnX2dQT0RLb1dFX2JrdnJX?oc=5",
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSk9oRFIxZlNPM3pWUXY4OVlCZGJsMGRpaWI2YnpRWXZ1ODRndVliaUhBaXN4eEtSQzlWclAwZnRlRUZrTFgwTmc2V3VlaEhsTmwzODZZRXdMS3BHQVY3S0J0T3JoWnRoYjE5Unk2dkFfUU9DTnFleUp0Qkp1LTZiaWZTb1JqTENDa1QyU2hSYnhmZzNYbDdPZHVVTXg3ZzIwcml3anNyUHVMU3pHMEdWMXNjOEZWai1kcTNYLTVpQ3otV2FYNTJGMmEtQzVZSlFvNWxoX2tRb2hFOWxsN0FheXNrbW11VkVmMUwwNzNRNFRocDNPeXJuVtIB8gFBVV95cUxNUjBWUkpSMVZlTG1HSFduNVJ4VTNxRXBkX1Q1S0F1VGllQ1dnNko4amJkUDBEb1gxR0xzTVFkWWMzXy1XODAyY1FVY1pQZzVrSTF0X0tOS0o2amxCV1lsNkhLWTgzUWplbDdET21fS0dueFRIenBKS3BkelhIT1luaGVXWmhXVFN5NlA1dGNmU3A5dU5YSWlDVTBPcGZZdGk5ZHVXdzYwaFo4YU8tQTc0aU9NSGlXY2g0UWotTE4wX2JIWUltQVFSdHBzZWFxSVdCaFVBNXlJR1E5V2w1VkcyWlJycEZzeHRpMTFwN3FOSk0xdw?oc=5"
       ]
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "score": 24.94,
+      "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
+      "score": 19.77,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhtTHY4MU1VRTVrR3lmcS1VNW92NUhOXzdJa1RpWU9KbnI3S01uSXplemx0cFVZaWg4b1hFVUtEeEpGUXR4bkMyR2hEUzdnY25OaEJiWXZiekNrQVdUaU1MQnlobjhqRGdpRkVoaWd6QmNaQ3hlVjdOYlJJOTZjTTlsNG1BbGc5VVNWYTBDbjYtZVFNa1VqYUVSWkVEY2ladDJENlZ4VG5PbGd6bW9QVVI4NGFVYnR2aC1oNmtfSmlqaTV4V3c?oc=5",
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaFh3Q2k5eG1reldYdkw5SVVjYTlETVdsU1hJZHBXUV84Smdtck81VFJ4Y3h6NURCS1FRYzJfeEdWZ1FnaDRHM0MySEhfMmJKakgyZGdlUEh1S3NVbW5icXd3b1JLc3VvYWhPalFsblAtMHpsVzN1bTdpTGhUSVBlNEFHbGtybzVuYWlpSXBPU0dPV2p3RnBidklnZ1RGc3Y5S2FjOUtMN3pxMEZqSEVWS0ZmaExDamVUd01TZFpFRnhteEV0eHpvRTJ0MUozSzZIZm1nZlc4elZvZnJHa3BBam1qSndyTHFjOXA3R1kyYWhnTnI5NmlBRERORnlGQdIBgwJBVV95cUxNbmNSSzVVTTlwcVNzbTl4MERWNHRJT1RUQTZLMkh1SkczZXZsdDZ6MmUtbTNWUEJhdkFDZEg3b2oyR29kNkhvZVV6Sm1lenlOTVRxbVpybFdfdUtiNUtieU1FNlAwNEFhWENsUmVUSVd4Y2xSNHdHQjdaTGpNZERQQlBhOEJaUENrdUt3NmtyTDhzcjBuWU8zdjB0UktENlJZZms3UXd4SVdfLUdFTTJqTm1peERfbEtBNDVlUl9RTm5zN2RkalpPOUVtbHJqTmNKWGRMQi1wV1ptdWFRdVVlZjYxREIzSXhYSnlWc0gzMm11bkJNNmJYbmJaVFlLV1hRZlpJ?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhtTHY4MU1VRTVrR3lmcS1VNW92NUhOXzdJa1RpWU9KbnI3S01uSXplemx0cFVZaWg4b1hFVUtEeEpGUXR4bkMyR2hEUzdnY25OaEJiWXZiekNrQVdUaU1MQnlobjhqRGdpRkVoaWd6QmNaQ3hlVjdOYlJJOTZjTTlsNG1BbGc5VVNWYTBDbjYtZVFNa1VqYUVSWkVEY2ladDJENlZ4VG5PbGd6bW9QVVI4NGFVYnR2aC1oNmtfSmlqaTV4V3c?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI Picks Pragya Misra to Head India and South Asia Business Expansion",
+      "score": 31.54,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0JYZi04RU9aT0xybzVwSHRoclVKRUcyQlB3MFA2eWlaeUZvMVRQUHpZSFNtWWF3d2ZMVVdUT0JES1lQVEs3WGVwcGMxSnVnSWNNLWg1VUdVUEpTN1lNVV9iVXdGOHlhM1lxUU1ncWVZSFItVklOYW5ZdEJfSjZPcU9TckNSbWZtQnE4RHhmdDlIT1NSb2ZrRDVfWWZYT1JjeW1hektnbXRuZG43dm5haw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2xyTndmdC1rOTdURWNfcldzTXNlNkd1bTZMMHFnRVNqdEJ3QTlNbUJLb1J1VWlQM2JyMGUtd0h5NjdpeEtqLUFfaExQMUp3VC00WXpiNWNwWEZ5SjZxZDU5NllhX25CYkRjNkM5cFhNcV9tdTEzTGRjVGVYT3pGYnVSdHBxcGZjcVBSS296U3RGN1BXc3FwM1lRQmZ4d24zeUQ3LWVmOWVsc1pvdzhZQ2xYUmthS2pfektkRDZxcmI1RVU?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0JYZi04RU9aT0xybzVwSHRoclVKRUcyQlB3MFA2eWlaeUZvMVRQUHpZSFNtWWF3d2ZMVVdUT0JES1lQVEs3WGVwcGMxSnVnSWNNLWg1VUdVUEpTN1lNVV9iVXdGOHlhM1lxUU1ncWVZSFItVklOYW5ZdEJfSjZPcU9TckNSbWZtQnE4RHhmdDlIT1NSb2ZrRDVfWWZYT1JjeW1hektnbXRuZG43dm5haw?oc=5"
+      ]
+    },
+    {
+      "title": "GitHub Copilot weekly releases — November 9",
+      "score": 19.51,
       "kinds": [
         "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5",
-        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5"
+        "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+        "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
       ]
     },
     {
       "title": "Science at the Frontier: How scientists use ChatGPT",
-      "score": 25.71,
+      "score": 22.45,
       "kinds": [
         "backlog",
         "news",
@@ -50,7 +72,7 @@
     },
     {
       "title": "Broadening access to AI for scientists",
-      "score": 25.69,
+      "score": 22.43,
       "kinds": [
         "backlog",
         "news",
@@ -64,8 +86,8 @@
       ]
     },
     {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "score": 24.28,
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "score": 21.67,
       "kinds": [
         "backlog",
         "news",
@@ -73,90 +95,74 @@
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5",
-        "https://openai.com/index/the-kings-trust-and-openai",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5"
-      ]
-    },
-    {
-      "title": "Google to give Japan early frontier AI access for cybersecurity",
-      "score": 19.91,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFBvdHItRk5iZHpLbTlPRWtTbjZ5djRUaGo2Y2xtcTAwalBqQW1sSmtCY1F4UXlQWnF4cWNrVk96d3pST3FodFFLeGwxcmFwSGtsRVlPN0loMmZHaWhYMFY4cFBqYUYtQWNqTUItSko5TzFteFVVNW0zVnpSNHA1R1FpWk1zNU1PNzhTR1ZYTFE1YXFROXJEaG5mNjlPS2tHVkxGblFmT2I2TmdlNzRsZTRMT0s?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IbGxNXzVFS2RYVThnLWp5X2VmMmVnbktOZnVyanRCb1JyYjY0eUhMbU4zNUJVNzRQeng0cUtfQk92M3Ixa290alJxRTlCYkQ4TnhzWUtBZ2c4Q0JpZV91bGlteW9teU5tbWlldkx5SmQxWW9LSlI4?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OamdqRFRYRVAxY1pCWVV5b0o5blYtTjhRY3ZaSWhmckQyYzBjUzg2LUdNQnFtamNlRVZndVRQVmNleXZEajJydWpMeFlvM2lsNDhWVUY3TU1GcEhnb2t3SEcxWm1nYlJsQ05LcEhVNUhwYlVaaWRXbWZSWGY3QQ?oc=5"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5",
+        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjZUQkY4OVMxT21FVzRBWUJqN0xjUm04Mld6aDdZYWphMEI0LXNYSVV0SkQ3STdOZC1lSnd0c0hUaEF1WjM1cERaX3pfUWE4bm9mekdYcjFLS1hRTnNFREo0dTBreEZRd0FvbERoNEN0MjhFQlFUb1R3UDYtVUJUYkRRWmJ6M2EwQm54Sw?oc=5"
       ]
     },
     {
       "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "score": 20.38,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/"
-      ]
-    },
-    {
-      "title": "GitHub Copilot weekly releases — November 9",
-      "score": 20.78,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
-      ]
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "score": 19.38,
+      "score": 19.12,
       "kinds": [
         "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/index/our-first-phase-of-embedded-assessments",
-        "https://openai.com/index/our-first-phase-of-embedded-assessments"
+        "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+        "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/"
       ]
     },
     {
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "score": 19.38,
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "score": 19.01,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://blogs.nvidia.com/blog/lambda-photonics/"
+        "https://openai.com/index/the-kings-trust-and-openai",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pb042R3RuWUtaRENqVHhKRWViSUNySWpobVNIRVVhNmU3d1lZaXk5UFV1RWU3djl6bWJOdHBYYkZHSnZfY1BBcXF2MXAyNkJRXzNGbWpCNk1SelFmQ0hFT2dB?oc=5"
       ]
     },
     {
-      "title": "GitHub Copilot models deprecated on November 16, 2026",
-      "score": 20.49,
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "score": 24.04,
       "kinds": [
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYnJ5UUFIVHE4X1N0SS1sMXcxVVIwSEQyWlE3N1ZTb1RleV9MQmZzdnN1Sy1jQXpWd2w4dHJXbEtUMjlDZ1k1RDRMcUlodHZ5alluX3ZIVjZRU3lQZU9OVzBqOXlxeEhQWGt5U0V5T2pOcVZSdTdfQg?oc=5",
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
       ]
     },
     {
-      "title": "Budget limit increased to 40,000 budgets per account",
-      "score": 20.76,
+      "title": "Motorola Edge 70 Neo Coming to India Soon: Check Camera, Design and Expected Features",
+      "score": 21.62,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account"
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdE5CVFRIWTZPRnBLeGYyRmVlOG90X2JwR1ZvQ3ZNaGtjaFdfQlU3aUdJOUNPUExJME9pWVdRZl9KaC14YUZNV25oRGpCTVU2WkZFeTZaQmlMZ3hfNHpNTmxYTkZYbFJ5U19UOXluRFBKZU5JR2ZJNUh6Q1dxQVpHSkJiWWpDQm1TcnJQcEQ1dXFEMXE3aENiTWtyUWp6QnY2Ml80dHp5MGFWZw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUdYeHVBYjNmd3FvVmJxbUpFT3ZmZzRvOEozdTdqYkZfOS1fQzZSYjh4X3IzSmxKTFlNaHZsWG5rbWttT0NyYkVzdTUxeEZ1aGlRWXhiTDNwTGY3TVFGS29MSGU1b1VXS1JXaEZnMnJGRVZLenlrT3pndmlvZXpvUUFHYlRjT0JFUUk5TUxtOA?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlA2b2pTdEhZY1pzV2phOU1veFN6YXNncmczWmVic1I2NEVoX2FTQVV2UzYzZjdVTFI4SFpaam1DcXdMRmdudUY4LU5Xal9lR2VBZ1U1ZDkzaFdGU0tZbm9DUDdaTTdaUWlHZmhQXzdNQ2p0VUl4LVJieW5OX3JCLS1zcHp2QQ?oc=5"
+      ]
+    },
+    {
+      "title": "Gamers in Asia stoked to play 'GTA VI', many on gray market",
+      "score": 21.0,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWwzb0RMRXFNYnN2T016VTktY09zYnQ3SjU4Z1JHTzNLQnduWDFubEFBcDc5UjZVLV9PdTlZc0RHNWZSNVg0V0tHY0ZpdjFKRzc0ZnFwRHkxTS1JOVltR0N1UUpkOTc0TjJSRlRESi14dWQtcTFrcmdtSDdtNVhhLS1wWFFkay0tRDBfMHJQcnRtV0VPSjNyQjdfSE5YaHlCUGdPcVdnRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanB6U1VwUmNwR2s1TEY4RmkxaDYwN1Jsd21KX183V3JlOThDVkp5YUJIdkZXOVVCYTVMV2ZVc0ZaZTVwcTVERHFJaDV0NDhYLThMM0hXYmhBRGdHWU9yY1NvNXBnVG9wSjVQZ09PT25sVjFaRTRGTUJkbDlnSGZOUk9lRU9rbHkySlhYM2gwSDBkOUI3WmNTVjAtNk9PUjBuVkViUlJyRUN4dEJOWTItYWFyUl9Tdw?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQWwzb0RMRXFNYnN2T016VTktY09zYnQ3SjU4Z1JHTzNLQnduWDFubEFBcDc5UjZVLV9PdTlZc0RHNWZSNVg0V0tHY0ZpdjFKRzc0ZnFwRHkxTS1JOVltR0N1UUpkOTc0TjJSRlRESi14dWQtcTFrcmdtSDdtNVhhLS1wWFFkay0tRDBfMHJQcnRtV0VPSjNyQjdfSE5YaHlCUGdPcVdnRQ?oc=5"
       ]
     }
   ]
