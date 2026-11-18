@@ -1,77 +1,4 @@
 {
-  "2026-10-24-evening-2015": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/B0RekTO4fD4",
-      "facebook": "https://www.facebook.com/reel/1431548842287323"
-    },
-    "late": true,
-    "approved_at": "2026-10-24T15:02:27.154553+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-24T15:22:46.388812+00:00",
-    "ids": {
-      "youtube": "B0RekTO4fD4",
-      "facebook": "1431548842287323"
-    },
-    "info": {
-      "title": "OpenAI Offline AI Training Resumes Now #Shorts",
-      "topic": "OpenAI to train advanced AI models without live internet access",
-      "category": "Breaking AI News",
-      "hook": "Can OpenAI train AI without the internet?",
-      "seconds": 47.9,
-      "primary_keyword": "openai offline ai training",
-      "qa_passed": false
-    }
-  },
-  "2026-10-24-evening-2142": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/DXoDq4cU2aU",
-      "facebook": "https://www.facebook.com/reel/1617830913214805"
-    },
-    "late_offer": true,
-    "late": true,
-    "approved_at": "2026-10-25T14:20:04.665707+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-25T14:40:14.541108+00:00",
-    "ids": {
-      "youtube": "DXoDq4cU2aU",
-      "facebook": "1617830913214805"
-    },
-    "info": {
-      "title": "OpenAI Resumes Training After 11 Day Pause #Shorts",
-      "topic": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-      "category": "Breaking AI News",
-      "hook": "OpenAI paused AI training for eleven days.",
-      "seconds": 47.2,
-      "primary_keyword": "openai resumes training",
-      "qa_passed": false
-    }
-  },
-  "2026-10-25-evening-1701": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/vgORYSELacY",
-      "facebook": "https://www.facebook.com/reel/1922416402500849"
-    },
-    "late": true,
-    "approved_at": "2026-10-25T14:21:41.761703+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-25T14:43:28.838725+00:00",
-    "ids": {
-      "youtube": "vgORYSELacY",
-      "facebook": "1922416402500849"
-    },
-    "info": {
-      "title": "GitHub Copilot in Teams: Turn Bugs Into Code #Shorts",
-      "topic": "Turn notifications into code with GitHub Copilot in Teams",
-      "category": "New AI Features",
-      "hook": "You can now turn Teams messages into GitHub code!",
-      "seconds": 47.1,
-      "primary_keyword": "GitHub Copilot in Teams",
-      "qa_passed": true
-    }
-  },
   "2026-10-25-evening-1801": {
     "status": "published",
     "platforms": {
@@ -808,6 +735,21 @@
     "late_offer": true
   },
   "2026-11-17-morning-0358": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-18-evening-1701": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-18-evening-1801": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-18-morning-0246": {
     "status": "expired",
     "platforms": {},
     "late_offer": true
