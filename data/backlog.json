@@ -1,38 +1,5 @@
 [
   {
-    "title": "Put Gemini to work for you",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWF2N1A4NTZkR3ZDemlDLUIyYlUwNVY2bmRKeEdCaEluLVg5MUJXWU1BY2VZNjhZdWRSRUZ4ZDNnb0xwWVRabXVuby1CNmJUdFJzNmJnd3RyeGZJUk9EVVFGeFUxb2FxVG42XzhpOGtsYkxnVEpmaFZiYThJaktNMW5SM0ppaFE3MlFIazFacXd1b3ZySHJV?oc=5",
-    "source": "blog.google",
-    "kind": "news",
-    "summary": " Put Gemini to work for you &nbsp;&nbsp; blog.google ",
-    "country": "IN",
-    "published": "2026-11-17T17:03:05+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
-  },
-  {
-    "title": "Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nc2VKWEQyTXZKVlhPYXJ0djBXNFNRYUNpelJVRE9JZWtwVVZOaXJQcnJUaG1MTlFwaE5wdGNvSDNjWDlCX0RmZC10TU9nRXVsSzRiS1hKZ05hLW56alE?oc=5",
-    "source": "infoq.com",
-    "kind": "news",
-    "summary": " Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors &nbsp;&nbsp; infoq.com   See more headlines and perspectives on Google News  ",
-    "country": "IN",
-    "published": "2026-11-18T10:12:15+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
-  },
-  {
-    "title": "Microsoft Perception Brings AI Agents into Security Ops",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5",
-    "source": "Petri IT Knowledgebase",
-    "kind": "news",
-    "summary": "   Microsoft Perception Brings AI Agents into Security Ops &nbsp;&nbsp; Petri IT Knowledgebase    Microsoft Announces Major Windows 11 Management Upgrades With Intune and AI &nbsp;&nbsp; Windows Report    Microsoft Perception Is Now Available, Using AI Agents to Detect and Fix Security Threats &nbsp;&nbsp; Windows Report   ",
-    "country": "MY",
-    "published": "2026-11-18T10:46:04+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
-  },
-  {
     "title": "Astra for Law leads in legal intelligence",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
     "source": "OpenAI",
@@ -41,7 +8,29 @@
     "country": "IN",
     "published": "2026-11-17T17:49:36+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
+    "saved": "2026-11-18T12:40:25.777278+00:00"
+  },
+  {
+    "title": "Ignite 2026: Microsoft Introduces Perception to Bring AI Agents into Security Operations",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5",
+    "source": "Petri IT Knowledgebase",
+    "kind": "news",
+    "summary": "   Ignite 2026: Microsoft Introduces Perception to Bring AI Agents into Security Operations &nbsp;&nbsp; Petri IT Knowledgebase    Apps could soon refuse to run on your Windows 11 PC if it fails Microsoft’s new security check, and Adobe and Battle.net are already on board &nbsp;&nbsp; Windows Latest    Security for the agentic era, powered by Microsoft Perception &nbsp;&nbsp; Microsoft    Microsoft reveals improved Windows update management with new Intune, Autopatch features &nbsp;&nbsp; Neowin    Inside Track - Keeping corporate IT software current: How we’re modernizing patch management in ",
+    "country": "PH",
+    "published": "2026-11-18T10:46:04+00:00",
+    "engagement": 0,
+    "saved": "2026-11-18T12:40:25.777278+00:00"
+  },
+  {
+    "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "link": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "country": "GLOBAL",
+    "published": "2026-11-16T18:40:04+00:00",
+    "engagement": 1018,
+    "saved": "2026-11-18T12:40:25.777278+00:00"
   },
   {
     "title": "Our first phase of embedded assessments",
@@ -49,10 +38,21 @@
     "source": "UC Today",
     "kind": "news",
     "summary": " OpenAI launches first phase of embedded assessments with external experts &nbsp;&nbsp; UC Today ",
-    "country": "MY",
+    "country": "PH",
     "published": "2026-11-18T09:30:24+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
+    "saved": "2026-11-18T12:40:25.777278+00:00"
+  },
+  {
+    "title": "92% Of Indian Firms Faced AI Agent Security Incidents In 2026",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOENTaS1CYTlmVVRueGhiWVhCbTRobFNtSzVBVjBsZy1YV2dhV2M1dFFUXzdfVUVIaWN5Nk13OW9XZC1PLWR1MHNBcnRIdHNyNzNmUktCSzhQd2tQaEhkQ0ZvZkhvTVRWbWFOemZVU1k4OUlROGpTYl9SeC1CeVVxQ3FsZE82dEc1V1JjVWhtbGh5bkF1RWFaTjVHTk5WZw?oc=5",
+    "source": "APAC Media",
+    "kind": "news",
+    "summary": " 92% Of Indian Firms Faced AI Agent Security Incidents In 2026 &nbsp;&nbsp; APAC Media ",
+    "country": "IN",
+    "published": "2026-11-18T10:58:16+00:00",
+    "engagement": 0,
+    "saved": "2026-11-18T12:40:25.777278+00:00"
   },
   {
     "title": "motorola edge 70 neo to launch in India on November 24",
@@ -63,17 +63,17 @@
     "country": "IN",
     "published": "2026-11-18T06:45:48+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
+    "saved": "2026-11-18T12:40:25.777278+00:00"
   },
   {
-    "title": "Introducing: Bangalore Watch Company Epoch, a Hand-Wound Dress Watch from India",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN21yb2thWHpzT2t2U2FOUnJrbGVvVHgxWFAxNTVrOTRIc2ZyLU5zdG02c2V2MzEtU3BkaHZkeHM5VDBoTldyNW5zNmZVLTBiOG1yZTh1Uk8zVmdHc09kQjRRMTJOTWVtbVlJQlZJcW1XSnFpNlQ4Z09UNUlQTHZYNHNRX0ZWN3NXV2l3WmJkdXhYTU1zWHItMHZBTkd3Wk5SdlNSZnRsbVlZTlE1cHJvNHJzcw?oc=5",
-    "source": "Monochrome Watches",
+    "title": "Oppo Reno 17 Series: 3 Features To Know Before India Launch",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalNWNnVWTXJROUN2aWJ1djFweGRBWER2N0xxSGl6U0kyclBudTRsQ0R2T1paY0xqSUVGQlBWS2t6d0plMlp2ZFJ4NFhiTzZjaWRXMDlpbjY3TV9INWJIUWptN1NocTZudU9WY1JtM1FNa1IzZTBRR3dqUl8wQ2NXUXRaTGRCQ2NO?oc=5",
+    "source": "TelecomTalk",
     "kind": "news",
-    "summary": " Introducing: Bangalore Watch Company Epoch, a Hand-Wound Dress Watch from India &nbsp;&nbsp; Monochrome Watches ",
-    "country": "SG",
-    "published": "2026-11-18T10:30:48+00:00",
+    "summary": " Oppo Reno 17 Series: 3 Features To Know Before India Launch &nbsp;&nbsp; TelecomTalk ",
+    "country": "IN",
+    "published": "2026-11-18T07:41:04+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T11:33:42.830354+00:00"
+    "saved": "2026-11-18T12:40:25.777278+00:00"
   }
 ]

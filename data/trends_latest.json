@@ -1,67 +1,26 @@
 {
-  "job_id": "2026-11-18-evening-1701",
-  "chosen": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-  "reason": "OpenAI's major launch of GPT-6.2 Astra and Sol brings powerful new capabilities that viewers will be eager to learn about and test immediately.",
+  "job_id": "2026-11-18-evening-1801",
+  "chosen": "Put Gemini to work for you",
+  "reason": "It shows viewers how to harness Google's Gemini model for everyday tasks, giving them a powerful, immediately usable AI tool.",
   "candidates": [
     {
-      "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-      "score": 50.47,
-      "kinds": [
-        "community",
-        "launch",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1NkNTlSTWRwaVJGZEg0YkJ0Y1BaRktoWEtpNFhNWjBuRG56N2w3ZEhDd0xIOE40dmhiZHZCdllqb0RZaXo1dFJZTVQyQl9hXzRtS2dUb2NpdFNoRFZRTzB6Y1piclhQZ0VHX2tvV3ZYb0xSSGJvdTlBelU1QlNlTG1XRmY3cGszd1hzLVF3b2FnWWhsaGd3MkYwcmxoREE5MW5BSDNGVVhhU3JWTk8wSFhyZ1J5Z1k2TTdsRmNmRlhiQ1B4UHZFQ1lfemk4bk1vc18xUTh3MTRVMk4xZEdmbEpGOFdPd9IB6wFBVV95cUxOcGVLeFpzeFhYLTlMWGplVHB3N3JMSjJfaFAxMTFVbmNZb1ZZQ2hJOWVDUmVmNTZOVzluS29fdVBQMzEwY3dJUXdfNmtBY0pDa2lWTElreW1UZ0haN0hKRVl6cTdlUlZIZndvcVJkN0R4ZVFfelF0R3NDSkRycWQ3X19kR2swcjVvMUhqbUpqYW5oZ1paamxMR0t6NGVZb2dUNEJoWUZLUmVnVDgzQW5vN2RjbGVEa2xySmZNOTB1ZzIzYkJyb2NOelhsQ1FOam9lVTdBV1Z5cFpXMldRb29CdzQ5bEZrTmtWLUVj?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHZac2VxY2lhWW0wUzBRdEJreGFVcE9XbjljcHg1dHFnSFNTY0RzUWNyOEJ1YWQ3b1FxakVMQ3B5VnFILVdhcXFPeDVibGV2dlYzYXhhVEQ3WmxZaFNsejJKN3NEb09fTjFibjc3cVR6bTlUZXU2QjVZcDVyNEhjYkNoTG5KWW9WU2pfMDlKNS1TT0EtdWZ4b0gtYjZZa0NneXhNRVRQZGFrcWhnQkVF0gG0AUFVX3lxTE9KV3VISktrY2RNSnMtRHU0TE4tREhmcFNzWXc3S0E5d1ptdWJsV0xqTlJTLTdBVl9VQkhOQWIxZVV4UkM3OExGU1doc0VrV3gyS2VqZFQ0QVdPcjlDM2ZqV29PVkVsVmFyMFY2UHhncXJtMnFRVUVUbDU2Mm56N2U4ZmJ2ekljRHVhVTQ2UkYxVTJKNkdRZXE0TUVwTHVMZ3IyYTJ5Z3ZfSUVaYTRrX0Z3NlFyRg?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcE5sbUJJWVp5MmlqMmZOODFORmZiRlJJUlg5dXFiQjljQmhRSTFVSWVTUWUxSTM5azdBemFoa2ZkcE05dERpQ3ZGODVIMTlQOVJVd0xuaTJGWmdQdE5lN1Z4aFJoZkFTRkphLVMzV252RG9pNzRNM2ZNQ2RUbEVTSnRqaVJ0UEx1bmo5MUY2Zk0wMlRHeDlOYjB0cUJGcVZNdzZfYVRUSmFQSWVIX0FHTk1BN1oxZWd4OXBESDQzY1NhUGtVTTAxUjg3VEpWeUnSAdYBQVVfeXFMT3dyM0xYMGs0TUVEMXEtSWZPQ1Y4RUlZVEJPVFJzQVhaQ2RNWktjLWF1UjFlVmxTa0hRLWVvbUkwbXdLd01Qdy1MdzVndVRJSEtFeDYzeXdmN05FdVZrOVUzMFUtY09ycUVTZkxFUTJoOE5aQ1Z1a0E1S2dqX0w4NzYzS1c0akh0VFRiRzBwQ3BIRUZnVGh4XzIxMktCS3VBVmdRWkoxZmk1VUtLdGoxZWZMRmkxU1JKazc3eDY3cmpHaTU5bUFxcU9IVVVDazRMSXhXSUVrUQ?oc=5"
-      ]
-    },
-    {
       "title": "Put Gemini to work for you",
-      "score": 22.38,
+      "score": 24.13,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWF2N1A4NTZkR3ZDemlDLUIyYlUwNVY2bmRKeEdCaEluLVg5MUJXWU1BY2VZNjhZdWRSRUZ4ZDNnb0xwWVRabXVuby1CNmJUdFJzNmJnd3RyeGZJUk9EVVFGeFUxb2FxVG42XzhpOGtsYkxnVEpmaFZiYThJaktNMW5SM0ppaFE3MlFIazFacXd1b3ZySHJV?oc=5",
-        "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-      ]
-    },
-    {
-      "title": "Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors",
-      "score": 19.67,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nc2VKWEQyTXZKVlhPYXJ0djBXNFNRYUNpelJVRE9JZWtwVVZOaXJQcnJUaG1MTlFwaE5wdGNvSDNjWDlCX0RmZC10TU9nRXVsSzRiS1hKZ05hLW56alE?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nc2VKWEQyTXZKVlhPYXJ0djBXNFNRYUNpelJVRE9JZWtwVVZOaXJQcnJUaG1MTlFwaE5wdGNvSDNjWDlCX0RmZC10TU9nRXVsSzRiS1hKZ05hLW56alE?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nc2VKWEQyTXZKVlhPYXJ0djBXNFNRYUNpelJVRE9JZWtwVVZOaXJQcnJUaG1MTlFwaE5wdGNvSDNjWDlCX0RmZC10TU9nRXVsSzRiS1hKZ05hLW56alE?oc=5"
-      ]
-    },
-    {
-      "title": "Microsoft Perception Brings AI Agents into Security Ops",
-      "score": 23.81,
-      "kinds": [
-        "launch",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5"
+        "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWF2N1A4NTZkR3ZDemlDLUIyYlUwNVY2bmRKeEdCaEluLVg5MUJXWU1BY2VZNjhZdWRSRUZ4ZDNnb0xwWVRabXVuby1CNmJUdFJzNmJnd3RyeGZJUk9EVVFGeFUxb2FxVG42XzhpOGtsYkxnVEpmaFZiYThJaktNMW5SM0ppaFE3MlFIazFacXd1b3ZySHJV?oc=5"
       ]
     },
     {
       "title": "Astra for Law leads in legal intelligence",
-      "score": 22.57,
+      "score": 22.32,
       "kinds": [
         "backlog",
         "news",
@@ -75,9 +34,36 @@
       ]
     },
     {
-      "title": "Our first phase of embedded assessments",
-      "score": 32.49,
+      "title": "Ignite 2026: Microsoft Introduces Perception to Bring AI Agents into Security Operations",
+      "score": 23.56,
       "kinds": [
+        "backlog",
+        "launch",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5",
+        "https://www.producthunt.com/products/microsoft-365",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5"
+      ]
+    },
+    {
+      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "score": 18.0,
+      "kinds": [
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/sybil-solutions/inference-optimisation-skill"
+      ]
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "score": 32.24,
+      "kinds": [
+        "backlog",
         "news",
         "official"
       ],
@@ -85,12 +71,25 @@
       "links": [
         "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHE0VU50M09QaF9WY0ZkT2FBV2VobTNoemNMQlJXZzVnNW5BSXltME9lLXo5R0dPRU5ZVjJ1UlF5dXBxclRNM3k3R3h4d3dwazNZMkpmV2N2a0Q0NmNZWWFrUm8ydldqc3NINzN1ZUdwdlFfYTVneWgwNG5lOG5wSzBuMndPRGVLWFg4Yl9rRVh4MHpCbS16NlFlVTlSNm9oSE5TMXpGMkdNaW9yb04xTW5fQzRwd0cyRkNtTUhtQ0h4VVg2?oc=5",
         "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHE0VU50M09QaF9WY0ZkT2FBV2VobTNoemNMQlJXZzVnNW5BSXltME9lLXo5R0dPRU5ZVjJ1UlF5dXBxclRNM3k3R3h4d3dwazNZMkpmV2N2a0Q0NmNZWWFrUm8ydldqc3NINzN1ZUdwdlFfYTVneWgwNG5lOG5wSzBuMndPRGVLWFg4Yl9rRVh4MHpCbS16NlFlVTlSNm9oSE5TMXpGMkdNaW9yb04xTW5fQzRwd0cyRkNtTUhtQ0h4VVg2?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHE0VU50M09QaF9WY0ZkT2FBV2VobTNoemNMQlJXZzVnNW5BSXltME9lLXo5R0dPRU5ZVjJ1UlF5dXBxclRNM3k3R3h4d3dwazNZMkpmV2N2a0Q0NmNZWWFrUm8ydldqc3NINzN1ZUdwdlFfYTVneWgwNG5lOG5wSzBuMndPRGVLWFg4Yl9rRVh4MHpCbS16NlFlVTlSNm9oSE5TMXpGMkdNaW9yb04xTW5fQzRwd0cyRkNtTUhtQ0h4VVg2?oc=5"
+        "https://openai.com/index/our-first-phase-of-embedded-assessments"
+      ]
+    },
+    {
+      "title": "92% Of Indian Firms Faced AI Agent Security Incidents In 2026",
+      "score": 21.78,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOOENTaS1CYTlmVVRueGhiWVhCbTRobFNtSzVBVjBsZy1YV2dhV2M1dFFUXzdfVUVIaWN5Nk13OW9XZC1PLWR1MHNBcnRIdHNyNzNmUktCSzhQd2tQaEhkQ0ZvZkhvTVRWbWFOemZVU1k4OUlROGpTYl9SeC1CeVVxQ3FsZE82dEc1V1JjVWhtbGh5bkF1RWFaTjVHTk5WZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMl9hNFY1WWd6R0J3aDNJY3RFNjZOT3Q4S0k3RWw0XzRabGFzRTZIN01DUjRNMjR0Z0FVcTNMVlVaWWdfdXNmSEpUUjBJWDYtcmFGTG5Fd1RwaDJ4V2phaVFEQU81VW9leDh6aExIOUVjQmdDNGdkazd1MUROd1JzRVhzZHRhQzdqWEhjN2xqTm1lMTU0anE1NmlmZnRKQ2E1ODR0ck5MelJRb1R5aVdFcUttbnVHX0VpTXMwdTliREvSAcYBQVVfeXFMT1lYUDB6VFctRXlBZmV4Tk5VNUltNHI4VEdWNzdrU1JxeDFlQUh2LWNMUEJ5WkphMW1IM1AtcVUzX1Rfd1dPNEJYWmdPcDYtN1Z0Q3UyMmtmemFESnRWaDZRbnBRZWlncjFSUVowTTJ2cEVTSDRqOXVMQVd4MzctUGxBdmk4eHNOUlNLZzBRcGJ0MVhIZ0ZwczFCa0NfTHFQNC1ELXNEUmowMllXYi0yNzRWQ1JJQXZnb2RiR21QOGh4M1FXbEF3?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGVlQ2hhRzZzd0pSUVk1Rl9BOFlRZm1DYmxaUnh6RTV4SmtGeVNRLW9DeUI5U20yM3JDYkF6YllaaXFQZk9qY0xnSF93cGpETF8xb3BVVFhhSDR5akFLcWdqMzJuWS1ldVR1QmtuMkRoUEItUmE4eDZzZ2FybjdPcUNyYmRfQW9GYmRjN0hKSlNTSG5zZkVUYldGRDhQcUM4SWhxc1Y1bWY5X2E3bjBkdkJZaDJXbTZiQnNsMGdaNGl4ZFBaTjB1NE41a1ZOZ2dsNGRWYkhwTDhjMXhldGsxT3VqRkpHUDV0aFlLTzhoYWw?oc=5"
       ]
     },
     {
       "title": "motorola edge 70 neo to launch in India on November 24",
-      "score": 33.93,
+      "score": 31.68,
       "kinds": [
         "backlog",
         "news"
@@ -103,68 +102,67 @@
       ]
     },
     {
-      "title": "Introducing: Bangalore Watch Company Epoch, a Hand-Wound Dress Watch from India",
-      "score": 23.75,
+      "title": "Oppo Reno 17 Series: 3 Features To Know Before India Launch",
+      "score": 18.79,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN21yb2thWHpzT2t2U2FOUnJrbGVvVHgxWFAxNTVrOTRIc2ZyLU5zdG02c2V2MzEtU3BkaHZkeHM5VDBoTldyNW5zNmZVLTBiOG1yZTh1Uk8zVmdHc09kQjRRMTJOTWVtbVlJQlZJcW1XSnFpNlQ4Z09UNUlQTHZYNHNRX0ZWN3NXV2l3WmJkdXhYTU1zWHItMHZBTkd3Wk5SdlNSZnRsbVlZTlE1cHJvNHJzcw?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalNWNnVWTXJROUN2aWJ1djFweGRBWER2N0xxSGl6U0kyclBudTRsQ0R2T1paY0xqSUVGQlBWS2t6d0plMlp2ZFJ4NFhiTzZjaWRXMDlpbjY3TV9INWJIUWptN1NocTZudU9WY1JtM1FNa1IzZTBRR3dqUl8wQ2NXUXRaTGRCQ2NO?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUhsbTg5MENfaTF6OGxRVzdZRHFRdE84bXBvdUN1N2hJZC02Q2FPNmR4UXg4VFBLWW5uZlVfaHpaUkpuemtVbVYwdkR1R3dhTFMtNGJYS0pnY29kS2ZNeVktQWV0dmpYMVVPRHpQcjJVVFpNcVdEMm12RFB3T25VbjhXbkhZQQ?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung announces One UI 9.5 beta program for the Galaxy S26 series in these countries - GSMArena.com news",
+      "score": 19.91,
+      "kinds": [
+        "news",
+        "search"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNS05YXF1QjJkSTBBRTkxdDNFU1V3UERFNFpwMV9tVGR6LTNVNDc5S2loemJZVkRMNVl5dGF2b21YM0hoVmFFdmV5OU9TTlBkS0xnMnVvTllqXzZZRkQwNHJILUdFTkZ2WjJNQjNaNmNuXy1UcHN6Q3cyaElhX2wxLWdaOWE5b0t0SDZibnJZZEZ0R3fSAY8BQVVfeXFMTUFpUzdnRGtINWFRQktCd0F1Wnp6eTJYYzVGT2pBMGVpQmJyYnhOQ2I3QWgzRWdTWmdIVFlwaVhqdDRpdFoxdDZ2RWI0MHkwMFpfRFduaC13Tld4ekwxT1RyVEpORk8xQ2ZKcVh1S0lYSER1a1FXeTN5ZlBRUUZ1bE5mMXQ2UmhBb1NiSU1USEk?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnRwOE1QRk5jaEFiTnUzMjB6ektSb0dHa0tXQTdGN1IwbTkyVzlUb0VlWi01VXZzN1d0UXNJUmxib1d1WERDR29MNm9zN1lTZnp3N2Q1a3B3UHJ1dEVEWDBqNER3aGt0Qld1TkZQaktBekhZSWZXZ19GNXRLbUJGZWtxSnJnNHhTR2I5LXBRVkhYdW9CMldqdFZmY9IBlwFBVV95cUxNM2w3Q2VhRnJuTU9zZDBMRXg4NGZOWkFNam5IZ0xYRjRlbTRQMDY4bDBIc2dHM2ZmTE1nTzdQSHpWSGx1VUVvZlNXRmRoVnZORWdiWVR0M2NfMkFMN1kxc3U4UnNvWWM3aGt1TGV5ZDBzZUlrN1ZJUm02NWNPMzZ5T2JubG5LZDVGS2oyRmw0bmhuMXZDdGJF?oc=5",
+        "https://trends.google.com/trending/rss?geo=IN"
+      ]
+    },
+    {
+      "title": "Introducing: Bangalore Watch Company Epoch, a Hand-Wound Dress Watch from India",
+      "score": 21.5,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN21yb2thWHpzT2t2U2FOUnJrbGVvVHgxWFAxNTVrOTRIc2ZyLU5zdG02c2V2MzEtU3BkaHZkeHM5VDBoTldyNW5zNmZVLTBiOG1yZTh1Uk8zVmdHc09kQjRRMTJOTWVtbVlJQlZJcW1XSnFpNlQ4Z09UNUlQTHZYNHNRX0ZWN3NXV2l3WmJkdXhYTU1zWHItMHZBTkd3Wk5SdlNSZnRsbVlZTlE1cHJvNHJzcw?oc=5",
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN21yb2thWHpzT2t2U2FOUnJrbGVvVHgxWFAxNTVrOTRIc2ZyLU5zdG02c2V2MzEtU3BkaHZkeHM5VDBoTldyNW5zNmZVLTBiOG1yZTh1Uk8zVmdHc09kQjRRMTJOTWVtbVlJQlZJcW1XSnFpNlQ4Z09UNUlQTHZYNHNRX0ZWN3NXV2l3WmJkdXhYTU1zWHItMHZBTkd3Wk5SdlNSZnRsbVlZTlE1cHJvNHJzcw?oc=5"
       ]
     },
     {
-      "title": "‘Grand Theft Auto VI’ is a cultural and economic earthquake. Brace yourself.",
-      "score": 21.64,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdml2aXIyREpwckNnYWJTdC1FRzNTb2VGUVY4c2ViX0RoS3RlRXlWY2s5S2ZYVzF6TUxKX2UwOVpXbTlDWVRpbGdjMWZvSmNuTXF6T04yWE94RUpPQXdHZ245cVhaTzV4Rndhc0owYW00YzVPcEt2MGJLOERKdXF1LTJwVzhWYXZvcE05YzEtNXAyMGJCZmFaWWh6N1hrQTdvdEV5bUFydC1CTlk?oc=5"
-      ]
-    },
-    {
-      "title": "Rockstar promotes GTA VI in China despite lack of sales approval",
-      "score": 21.22,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWFsZE0zQnM1OFhnNHRpSWFrZFFsdG03RXdvak85UUszQ0RkS3FUcTh4UXctMTZYdk12Si00dUNrRzZKdUNlMS1kVTFVanNKamE3TmpJNGx4VXl4VWk3TnVhbndvaXRFZV92LV9mSWc2UGJxOWFWMHczbVhseUpJZEdmYWk3UWpzQlE5cjktNmVKdWFjbUtBVHp2Z3hHVEE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmEzTWFRSTRmdDg5emtqSER1aTNfQVNMd1pWV3FzVFRZR0xGSzRBTzZ3aV9WRmN3Q2F1eDdHTlp6OW9vS0FrZll2MldBVzFaa1hFVURoSjA5cFc0cGhZN21DV2RGdTFEdHpILW5kVk5JdFNuaEdzbEhfdzJVVDY1eVpkbTRmLUxrYmliYURCSU81NV92Q2c1VF9NeHFYamQxSkF0c0x1a28?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmEzTWFRSTRmdDg5emtqSER1aTNfQVNMd1pWV3FzVFRZR0xGSzRBTzZ3aV9WRmN3Q2F1eDdHTlp6OW9vS0FrZll2MldBVzFaa1hFVURoSjA5cFc0cGhZN21DV2RGdTFEdHpILW5kVk5JdFNuaEdzbEhfdzJVVDY1eVpkbTRmLUxrYmliYURCSU81NV92Q2c1VF9NeHFYamQxSkF0c0x1a28?oc=5"
-      ]
-    },
-    {
-      "title": "Quad leaders announce new initiatives on maritime security, AI and cybersecurity at Manila Summit",
-      "score": 23.09,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1VLYlE4b213Yjc1TTcwLUtSYVpsSGRrUEM2YWJJcmRtTks4QWFqcmdHeml2eHBaRUZmVFVrd1pIbzRibUo5aGZNWlJmakNQZjVhTWsyNnVta2FlX1B6WVl1ZTUxWEs1TEl5cjRaZFFqSlFTZUNYYVpZclBReXQwdl9GTUE0VGFBV1RXOWpZV3BzeVBlWWpVdlFtV1F2TkhVOFBjZ0tRTXdfSm5TV29Oa2UyazNfVTFmM1RvQXZobw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVpnYURvb3FVay1WenJZMFQyVExBcV9BMjVESHRQNm5SNUw5dG1PTlR6RVRFZ3JPNFRKLTgwV19DMUg2YW5HTEVnd19Db2tGOFFOelJ5Szcza2NyWnJrbmlvYXhqX2R2cXNsYTJjWjdPVC1pbUVtSE9GQ2taNlExdHJPTk5FVXVGR0VaX0dQd2tDXzlPbnd5ZjdrdV9JeHBSUHJWa2E0NkJiQlZEWDBNZ3pDZ01JeHpNejFvclQ3YUV1YnQxM3NtMzY4LXdheWVBbWFTSW05bw?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmtKNTNBSVE4c01jQWVxcGU0NVhBOWdWR1JxMkUzT0hNeVpUTS1qV291SmVuZ0sxYTN4SGpfNWhKUGNPNl9jX1pqYjQtQTZWbmVqVzh4NzJhZzdlWnpjSXY4eTE5enRFNnA2WmlPMzliYkRmN1hjallDR0FEVHJtbWlHc3FYbkFvVm1PM20xRENuVmdfSG54TG1CaHdabWxxeFF6VjJFckM4V0hIbm9jUkhmcU1jQ3VydHJ5eQ?oc=5"
-      ]
-    },
-    {
       "title": "Air India Express appoints Deepak Rajawat as new CEO",
-      "score": 25.93,
+      "score": 25.96,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWnUyRlBpeEZ5VEUxTDRtUk5GY3NpdDhyVWliUXNLelhibjBaNk1jbFZNMi1NWkh3WG1MNG5vS2RWeUNBSTRFQUQ3dGFqM29IZjJrdURNUWZnVEk1V3ZnTTNzZHhmcEhONkdsWFA2UE96M0RtTEprd3p1bHR3TDBhSE1VdDZvZHhSWjFMdDgwQzdmbVYzUm1fcEhQN3pPcERiWG5DTks5Z2xtSlh1STBoOWUxcVJBa09CLVNrRnJZcGgzVFNRUHUwa3k4WVlDY2t6bGctLVZYMnlFSjNhX1llT1BPVmY2TUlRNXRQV2NFTkEzZ9IBvwFBVV95cUxQNkd5dmhTbmFvNFBGRUhBQ3VfN0szWEFZdzFNNWNlZS1EWEZJMnVsTDJVazJkaHh3dEZXQ3NhMHcwY1c3U3FsVVlvZ2dEOERQOGJUYmtGeFVzTkdzc2NzMXVTb0hibHQ2eWZZbnZlNU9GTnk1andBcjlZaTBBU1V3QThnbThRUnRMcDlPdl9jekZyelN6Rl9qdlg1R1pFNnRFZmk3dmxZWTJTcmN1MzlQOU5BakpHTU4yUm9nS21Qdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0Z1alo0U1B5bnE3V01DVFBsMG1OSE4xU2YyeFl2Z09XQnpNcXFDQWJaY0hFb2lHOGw1S3FpaDg4VnUxMjRUbzN3ZHk3RTY1SjIwLVRvRzlCd3A2ZVl0YXE2X0VRWnFHdGR2N1ZUV2FqR3MtNVlSSFBULTRJbzVfYi1ZNlJta3FUUkxBYlJIZXBEc1hZUkR4VTItb2VNdk9yMC0weFIteTc5eEZrd0F3LXlBSGtTTXdyS2V5azcxc0vSAccBQVVfeXFMT1RQUUpaa05pczFMU0ZuQ2hpQmhhWm93ek44eG5WazR2c2lxeFBlYTM4ZlBrQ29WZjRuM0JRUkc4R2ViWjFGbjZ0UUtoVHc1aGVMclJacDl6alFVSEFDOERiMHVSODZCMGRoaTRNZWxBLU82cW9PTTdPUzdFOUlKX1JabkIweVBLUF85SlQxeTlTRkhWeUsyOGdrR2NJUGoxU1hmdFE5U3ZFa2RiM3RuV2F5a3Zvek5EaWxrRjRCcXNaa3hZdXNUMA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWktmUUh1dXhSTHg1N0xmcm5famdCd0c3Qm5qaHdneXBacXBIWlRDaFM4SF9tWWhocVZRZ3diTG5PekJHbWw3akJ6clJvc0tWRzdvZF9pemJhbnQ5VlB0TEVpWEFNTmY3T0x2OUZZRGx5TUNhLUxzTzRGcklCa2lFcFc1YXlrc0FqaXhFV0Ewa1lNX1ltT0owNXNXN0dsRWNJR1M5dWtNQWg3RlZ4VFhSSGx2TTljVWVQTHFRZjVWbDdKaldxMEs5cFFaU0dteFJSNWc?oc=5",
         "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbUhrTXEyeHlhYkQ5VTd1c1hBS2hMaUR3Y3YybzdQTGdWczRzZUs1RW51RGNkdC1zUHd3bGtHQmI1YUZzOE1wZXFraEJsem5Lc3d3Y0ZMMG1MQ0xqXzlSSGVuQzlpWDhTdFZqclhsVHNhYXpqTTNZeEtHTTIyX3hOSF9LdFQteEloYmlOTnplamFSdUkyOUlaMXZKZ2FsanZyS2JvNGFWcDdnTWtRNmF2VW10S2hqZWItNlRBLXV3WmFMTEhiY3JPQ25MS3FLTTZuQ2VyU0xDYTE5UEY0VzBmbWk1QnlJdmZfbUlRMkYwMTZMdE1OWUZKeU9R0gG3AUFVX3lxTE9qNFh5QkNjM0pUZjczdGlqaGFCVDRsbjdNdk90ZzVoRjR4OHBWV2dqdG5Bd2JlTk1KTDZMWl81UnJKRUNQWWNKcG8zLUZybHZXeWE5TWRMX1BKenpWMlpoSF9pc2l1bi0wWGZRVldmRGZPUFFJRzBTX2g2UGo4bUxFOGg2MzF1X3hBbWRxTEhLYjNnWmU5Z0YwYU5HLUhIMTFvOExMLWNUWG4wWUNjeDF3RWZSbTdkSQ?oc=5"
+      ]
+    },
+    {
+      "title": "Air India Express Names Finance Chief as CEO to Turn Growth Into Profit",
+      "score": 19.2,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0Z3aGpIYkg2ckRIbWxRS0dsX2IyZFpyVnRZUEdPMGZpSTBCcXJlZEpSYWtBMkY0ajI3ZTJSeDdoNFhQSm5WdFh6MjZqNzB3V1daM1c2dmlsSndaSkRsTnJXVmZmdE43b0N3QW9vbUZSRjRpX0tRMmJSanc4NUJPUUVuWFBxcEVsdlhjc3hWUGhQdzRKU1JXdVRLdlhzZHdIdEVZ?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3RiRzBLeDBDVXo5S0ZqTkpUeXRTOFJ0bFpjZnNTT2VpWlNmY29lVFYzei13RnBPMEZFdUJBb0R1VkFLc00yUHB0OVpSOXVmLXc1c3lKS2VQaUR3R2hJVXZPajB1eU1QeklsTUxRMjFsRE9VUjlHRGJEX1hRRnA5c1pQTnAzRm04NXBHWlBSV1JkTGNaSW43eFdZYU4?oc=5"
       ]
     }
   ]
