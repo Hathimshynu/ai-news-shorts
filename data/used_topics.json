@@ -1,25 +1,5 @@
 [
   {
-    "title": "outcrawlai/scout: Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-    "category": "AI Tools You Should Know",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "feder-cr/git-ai: Git designed for AI agents.",
-    "category": "AI Tools You Should Know",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-    "category": "Trending Technology",
-    "date": "2026-10-18"
-  },
-  {
-    "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
-    "category": "Breaking AI News",
-    "date": "2026-10-18"
-  },
-  {
     "title": "Volvo Cars expands NVIDIA partnership for automated driving",
     "category": "Trending Technology",
     "date": "2026-10-19"
@@ -583,5 +563,10 @@
     "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
     "category": "New AI Features",
     "date": "2026-11-17"
+  },
+  {
+    "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+    "category": "New AI Models",
+    "date": "2026-11-18"
   }
 ]
