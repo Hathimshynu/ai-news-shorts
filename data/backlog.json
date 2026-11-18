@@ -1,79 +1,79 @@
 [
   {
-    "title": "Astra for Law leads in legal intelligence",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZ1AtdGh5bUdSU1VpTEhQWFVncDNieWRxSkhQUTJVVjhGbl9ycXZTaWs5bGtZUktmUndCRTFtS2pubXJvOE5kY25qQ0s3NlRG?oc=5",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "source": "Hugging Face",
+    "kind": "official",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-11-18T18:53:43+00:00",
+    "engagement": 0,
+    "saved": "2026-11-18T20:56:10.980211+00:00"
+  },
+  {
+    "title": "Security risk assessments run automatically on GitHub Team",
+    "link": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code&#8230; \n The post  Security risk assessments run automatically on GitHub Team  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-18T16:54:26+00:00",
+    "engagement": 0,
+    "saved": "2026-11-18T20:56:10.980211+00:00"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " Astra for Law leads in legal intelligence &nbsp;&nbsp; OpenAI ",
+    "summary": " Advancing chip design with OpenAI models &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-17T17:49:36+00:00",
+    "published": "2026-11-18T17:06:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
+    "saved": "2026-11-18T20:56:10.980211+00:00"
   },
   {
-    "title": "Ignite 2026: Microsoft Introduces Perception to Bring AI Agents into Security Operations",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LOWV4WnhOV0xuTXZLLXdfdHJoNmpYOWlCc3hWUWROLVBFTmgyQWJDMVlZSnVLYnRkN3FkTW16WEZMdWIyVGpMUVhBZFNlSGJISG9JUVJTcVk3TWlKek0zZjZZazBTTjJva0VJel9Ddw?oc=5",
-    "source": "Petri IT Knowledgebase",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": "   Ignite 2026: Microsoft Introduces Perception to Bring AI Agents into Security Operations &nbsp;&nbsp; Petri IT Knowledgebase    Apps could soon refuse to run on your Windows 11 PC if it fails Microsoft’s new security check, and Adobe and Battle.net are already on board &nbsp;&nbsp; Windows Latest    Security for the agentic era, powered by Microsoft Perception &nbsp;&nbsp; Microsoft    Microsoft reveals improved Windows update management with new Intune, Autopatch features &nbsp;&nbsp; Neowin    Inside Track - Keeping corporate IT software current: How we’re modernizing patch management in ",
-    "country": "PH",
-    "published": "2026-11-18T10:46:04+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
-  },
-  {
-    "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "link": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "country": "GLOBAL",
-    "published": "2026-11-16T18:40:04+00:00",
-    "engagement": 1018,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
-  },
-  {
-    "title": "Our first phase of embedded assessments",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHE0VU50M09QaF9WY0ZkT2FBV2VobTNoemNMQlJXZzVnNW5BSXltME9lLXo5R0dPRU5ZVjJ1UlF5dXBxclRNM3k3R3h4d3dwazNZMkpmV2N2a0Q0NmNZWWFrUm8ydldqc3NINzN1ZUdwdlFfYTVneWgwNG5lOG5wSzBuMndPRGVLWFg4Yl9rRVh4MHpCbS16NlFlVTlSNm9oSE5TMXpGMkdNaW9yb04xTW5fQzRwd0cyRkNtTUhtQ0h4VVg2?oc=5",
-    "source": "UC Today",
-    "kind": "news",
-    "summary": " OpenAI launches first phase of embedded assessments with external experts &nbsp;&nbsp; UC Today ",
-    "country": "PH",
-    "published": "2026-11-18T09:30:24+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
-  },
-  {
-    "title": "92% Of Indian Firms Faced AI Agent Security Incidents In 2026",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOENTaS1CYTlmVVRueGhiWVhCbTRobFNtSzVBVjBsZy1YV2dhV2M1dFFUXzdfVUVIaWN5Nk13OW9XZC1PLWR1MHNBcnRIdHNyNzNmUktCSzhQd2tQaEhkQ0ZvZkhvTVRWbWFOemZVU1k4OUlROGpTYl9SeC1CeVVxQ3FsZE82dEc1V1JjVWhtbGh5bkF1RWFaTjVHTk5WZw?oc=5",
-    "source": "APAC Media",
-    "kind": "news",
-    "summary": " 92% Of Indian Firms Faced AI Agent Security Incidents In 2026 &nbsp;&nbsp; APAC Media ",
+    "summary": " Managing frontier AI risk: From training to deployment &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-18T10:58:16+00:00",
+    "published": "2026-11-18T20:09:34+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
+    "saved": "2026-11-18T20:56:10.980211+00:00"
   },
   {
-    "title": "motorola edge 70 neo to launch in India on November 24",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2ZaMTZGbG5hdXc3dE04YXN6M3ZIeXYtYTYzX2ZLaTlpSGlYV0xDZG1FRXlTTThqT2gxYm1LSDRXN0k3bzdDdGNKMFJpYWowM3BUZlJJVURWZGtsZDhKaXVNOTY0R0FsWDFrWi1LbXlwZ0NKZGVOd2Z3bVJKNndPdjZFbWVGak1Z0gGOAUFVX3lxTE4zN2loMlUtNkxoaFZOQ2ZLSlV4aHJsUHBFSzBWUTlfTUw1SzNVVkJ0UUk4NkdIRW5QSXZlS2x2a1NBY1lJSkZiWUdJaTdwdEtKWkZacnR3eXppajhCUEpMZWNMUERyY2I1X1N3aW5yc0Z5SWFRX3duWmdlOThzYXRlTWZvMDh2X2paT2VjY0E?oc=5",
-    "source": "FoneArena.com",
+    "title": "92% Of Indian Firms Report AI Agent Security Incidents, Only 36% Contain Them Within A Day",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWElPbnJMOWE5RDFmaEJNd1RtTTQyN096bm81X1haZmhjWGpiZHFYb0tYMXh2ZnJFWFQwSDhVYkYzTUhiQnBqMVNEZHM1bFdqSnpfNDJHSHJ2MkZaWnJnNGhJYkQwTGRrbVhGdzJGNmJTNkdHckQ4NEhLeFRYS0RPalhnX3lhUm9xS2lMZFVyWlN0anU1THZ5eHotdm9NVjg0N0RlOTMxdC1mUQ?oc=5",
+    "source": "The 420.in",
     "kind": "news",
-    "summary": " motorola edge 70 neo to launch in India on November 24 &nbsp;&nbsp; FoneArena.com ",
+    "summary": " 92% Of Indian Firms Report AI Agent Security Incidents, Only 36% Contain Them Within A Day &nbsp;&nbsp; The 420.in ",
     "country": "IN",
-    "published": "2026-11-18T06:45:48+00:00",
+    "published": "2026-11-18T17:37:49+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
+    "saved": "2026-11-18T20:56:10.980211+00:00"
   },
   {
-    "title": "Oppo Reno 17 Series: 3 Features To Know Before India Launch",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalNWNnVWTXJROUN2aWJ1djFweGRBWER2N0xxSGl6U0kyclBudTRsQ0R2T1paY0xqSUVGQlBWS2t6d0plMlp2ZFJ4NFhiTzZjaWRXMDlpbjY3TV9INWJIUWptN1NocTZudU9WY1JtM1FNa1IzZTBRR3dqUl8wQ2NXUXRaTGRCQ2NO?oc=5",
-    "source": "TelecomTalk",
+    "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlgzTUFHZld2UlVTRGdoc2NxMWdLbjNOdG1yZjRZeUVTMlZGRkpMTU9MV0EwV3h3bHhsZUdRU0J2VHpKNnN0YnlrTDhqSHMzS3ZTTzd4MWh4Y3lyUUlhaWR5THgxWGFWYXNjRU1VSG0wc3JxOGhsNWpadGNJeG92YUZRMnNoUXFqV2IzeW1ya2lLX1JEUDRpSHhnUzI?oc=5",
+    "source": "YourStory.com",
     "kind": "news",
-    "summary": " Oppo Reno 17 Series: 3 Features To Know Before India Launch &nbsp;&nbsp; TelecomTalk ",
+    "summary": " Bengaluru leads India in AI startup funding: Innovation Report 2026 &nbsp;&nbsp; YourStory.com ",
     "country": "IN",
-    "published": "2026-11-18T07:41:04+00:00",
+    "published": "2026-11-18T13:07:30+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T12:40:25.777278+00:00"
+    "saved": "2026-11-18T20:56:10.980211+00:00"
+  },
+  {
+    "title": "Bengaluru Accounts For 36.3% Of India's AI Startup Funding, Hosts 71% of New AI And Deep-Tech Unicorns",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVJnSzNiQ0ZFT1pVYlE4Y0RKSkJDNU4zYjZkQU1BTUI4MEFNV3lrSFNkYmF2Mk5pN0J4WUF2ZjlWN2l4d2c5WDlOUWUzQmZmWjZtekhnODJlaERlV1BtYkNWYmNxemdidmpYdjg3cVZBdEl0Mml5VC1RVjNyWUFYVTJ5VjBHNG9lYmdOY3JvTm56QUU2ckRRVnZR0gGaAUFVX3lxTE9VUmdLM2JDRkVPWlViUThjREpKQkM1TjNiNmRBTUFNQjgwQU1XeWtIU2RiYXYyTmk3QnhZQXZmOVY3aXh3ZzlYOU5RZTNCZmZaNm16SGc4MmVoRGVXUG1iQ1ZiY3F6Z2J2alh2ODdxVkF0SXQyaXlULVFWM3JZQVhVMnlWMEc0b2ViZ05jcm9ObnpBRTZyRFFWdlE?oc=5",
+    "source": "CIOL",
+    "kind": "news",
+    "summary": " Bengaluru Accounts For 36.3% Of India's AI Startup Funding, Hosts 71% of New AI And Deep-Tech Unicorns &nbsp;&nbsp; CIOL ",
+    "country": "IN",
+    "published": "2026-11-18T18:51:38+00:00",
+    "engagement": 0,
+    "saved": "2026-11-18T20:56:10.980211+00:00"
   }
 ]
