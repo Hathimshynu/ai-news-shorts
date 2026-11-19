@@ -1,56 +1,4 @@
 {
-  "2026-10-25-evening-1801": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/fWKaWYfooRg",
-      "facebook": "https://www.facebook.com/reel/1167476422470237",
-      "instagram": "https://www.instagram.com/reel/De68m4OCkW3/"
-    },
-    "late": true,
-    "approved_at": "2026-10-25T14:21:41.760168+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-25T14:41:57.885215+00:00",
-    "ids": {
-      "youtube": "fWKaWYfooRg",
-      "facebook": "1167476422470237",
-      "instagram": "18109429526223691"
-    },
-    "info": {
-      "title": "Apple CarPlay Phone Heating: What You Need To Know #Shorts",
-      "topic": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
-      "category": "Trending Technology",
-      "hook": "Your phone gets hot using CarPlay?",
-      "seconds": 39.9,
-      "primary_keyword": "Apple CarPlay phone heating",
-      "qa_passed": false,
-      "posted_at": "2026-10-25T14:42:44.101558+00:00"
-    }
-  },
-  "2026-10-25-evening-2031": {
-    "status": "published",
-    "platforms": {
-      "youtube": "https://youtube.com/shorts/pG-5GYZFU5k",
-      "facebook": "https://www.facebook.com/reel/1668024144939101"
-    },
-    "late_offer": true,
-    "late": true,
-    "approved_at": "2026-10-26T14:49:00.866269+00:00",
-    "attempts": 3,
-    "last_try": "2026-10-26T15:09:17.626860+00:00",
-    "ids": {
-      "youtube": "pG-5GYZFU5k",
-      "facebook": "1668024144939101"
-    },
-    "info": {
-      "title": "UPI Daily Transactions Hit 800 Million – Why It Matters #Shorts",
-      "topic": "UPI handles nearly 80 crore transactions daily, says Nirmala Sitharaman",
-      "category": "Trending Technology",
-      "hook": "800 million payments daily!",
-      "seconds": 46.7,
-      "primary_keyword": "UPI daily transactions",
-      "qa_passed": false
-    }
-  },
   "2026-10-25-evening-2214": {
     "status": "published",
     "platforms": {
@@ -750,6 +698,16 @@
     "late_offer": true
   },
   "2026-11-18-morning-0246": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-19-evening-1701": {
+    "status": "expired",
+    "platforms": {},
+    "late_offer": true
+  },
+  "2026-11-19-morning-0221": {
     "status": "expired",
     "platforms": {},
     "late_offer": true
