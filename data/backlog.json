@@ -1,16 +1,5 @@
 [
   {
-    "title": "Introducing ChatGPT for Sales",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDNFTVZKSklFbVAtaUY3RXN3Nkg4aEtPcFMyLVhISGlsQWE3V3ZKMEg5RVdNQ3pzQ296bG5sRlpVRXlBTzd6UXdxWlNfT1BCcGxsdWRqelhoS0JPcEF3QzF0WEUyWlFGRGhtQmNOVTVlZ25wd29wNDBxY3FmZWgtRQ?oc=5",
-    "source": "TechRepublic",
-    "kind": "news",
-    "summary": " OpenAI Launches ChatGPT for Sales With 30+ Partner Plugins &nbsp;&nbsp; TechRepublic ",
-    "country": "IN",
-    "published": "2026-11-19T11:00:28+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
-  },
-  {
     "title": "Advancing chip design with OpenAI models",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5",
     "source": "Data Center Dynamics",
@@ -19,7 +8,7 @@
     "country": "IN",
     "published": "2026-11-19T15:31:27+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
+    "saved": "2026-11-19T21:04:37.976508+00:00"
   },
   {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -30,7 +19,7 @@
     "country": "IN",
     "published": "2026-11-19T17:02:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
+    "saved": "2026-11-19T21:04:37.976508+00:00"
   },
   {
     "title": "Bengaluru emerges as second largest AI startup cluster in Asia",
@@ -41,29 +30,18 @@
     "country": "IN",
     "published": "2026-11-18T22:46:44+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
+    "saved": "2026-11-19T21:04:37.976508+00:00"
   },
   {
-    "title": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report - People Matters",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEVoTGZtQ1AzeFRNaUhrU0gtLWM2UDRCaWV1dlA3b3U0UWF6UVhudGpXeThJcVhNSmJ1YmdZeEs4X1lRTmVzN29yeHRBN1lqSEpmMDR4TFJaTlhsQ1VxNHFTdjMxc0NpZk95azZFaU5GUXdBcGhDajk5WUVvU290QUNJbWQ2SXUzUkMtZzh0V0NaTXV4NmZ4UmpCVUgtNTRPRnlyWFZhS1pEczhUQnpDa29nc2otY0hoOFBqZmpqZkVEeUtRZ0VnVVZTZXByZw?oc=5",
-    "source": "People Matters - HR News",
-    "kind": "news",
-    "summary": " Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report &nbsp;&nbsp; People Matters - HR News ",
-    "country": "IN",
-    "published": "2026-11-19T03:09:58+00:00",
+    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+    "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+    "source": "NVIDIA",
+    "kind": "official",
+    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [&#8230;]",
+    "country": "GLOBAL",
+    "published": "2026-11-19T20:00:15+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
-  },
-  {
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-18T23:29:18+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
+    "saved": "2026-11-19T21:04:37.976508+00:00"
   },
   {
     "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -74,6 +52,28 @@
     "country": "GLOBAL",
     "published": "2026-11-19T17:00:35+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T20:03:58.630752+00:00"
+    "saved": "2026-11-19T21:04:37.976508+00:00"
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-18T23:29:18+00:00",
+    "engagement": 0,
+    "saved": "2026-11-19T21:04:37.976508+00:00"
+  },
+  {
+    "title": "Google will launch Android app verification requirement globally in January 2027",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5",
+    "source": "Ars Technica",
+    "kind": "news",
+    "summary": "   Google will launch Android app verification requirement globally in January 2027 &nbsp;&nbsp; Ars Technica    Android’s controversial sideloading rules go global in January &nbsp;&nbsp; Android Authority    Google will require developer verification for Android apps worldwide from January 2027 &nbsp;&nbsp; MLQ.ai    New Google Android verification policy being monitored in Japan &nbsp;&nbsp; Global Competition Review    Sideloading your Android app? Register it before 2027. &nbsp;&nbsp; DevPro Journal   ",
+    "country": "IN",
+    "published": "2026-11-19T18:00:33+00:00",
+    "engagement": 0,
+    "saved": "2026-11-19T21:04:37.976508+00:00"
   }
 ]

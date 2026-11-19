@@ -1,24 +1,11 @@
 {
-  "job_id": "2026-11-20-morning-0112",
-  "chosen": "The Gemini app is now available on lower-memory Android devices.",
-  "reason": "This update makes Google's Gemini AI accessible to millions of budget smartphone users across India and Asia who were previously restricted by hardware limits.",
+  "job_id": "2026-11-20-morning-0225",
+  "chosen": "Introducing ChatGPT for Sales",
+  "reason": "This official release from OpenAI introduces targeted sales automation capabilities that professionals and business owners can adopt immediately to supercharge workplace productivity.",
   "candidates": [
     {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "score": 26.4,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdmc0RHdtN3dFUFV6blZncWVrcmlTdk5fX09zLUE1aGlUUVR0bUpBUUhVWnRlZWxTQlBfazFPUWNEOTlEYVdjVHRqODBxUGwtMUViV2ZIUHYyOEhWNDlDTHVfSXVqQ3hlcTVFRFRmNndaZjlOV2NGV2Nwc0laZ1hyMzU4SExuT0lrdl9TcHUyYlBmdw?oc=5",
-        "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
-      ]
-    },
-    {
       "title": "Introducing ChatGPT for Sales",
-      "score": 26.83,
+      "score": 26.52,
       "kinds": [
         "backlog",
         "news",
@@ -33,7 +20,7 @@
     },
     {
       "title": "Advancing chip design with OpenAI models",
-      "score": 27.95,
+      "score": 27.65,
       "kinds": [
         "backlog",
         "news",
@@ -43,13 +30,14 @@
       "links": [
         "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5",
         "https://openai.com/index/advancing-chip-design-with-our-models",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE?oc=5"
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5"
       ]
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "score": 26.33,
+      "score": 28.02,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
@@ -62,8 +50,9 @@
     },
     {
       "title": "Bengaluru emerges as second largest AI startup cluster in Asia",
-      "score": 20.64,
+      "score": 22.33,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -74,22 +63,32 @@
       ]
     },
     {
-      "title": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report - People Matters",
-      "score": 20.99,
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "score": 20.77,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
+      ]
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "score": 22.02,
       "kinds": [
         "backlog",
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEVoTGZtQ1AzeFRNaUhrU0gtLWM2UDRCaWV1dlA3b3U0UWF6UVhudGpXeThJcVhNSmJ1YmdZeEs4X1lRTmVzN29yeHRBN1lqSEpmMDR4TFJaTlhsQ1VxNHFTdjMxc0NpZk95azZFaU5GUXdBcGhDajk5WUVvU290QUNJbWQ2SXUzUkMtZzh0V0NaTXV4NmZ4UmpCVUgtNTRPRnlyWFZhS1pEczhUQnpDa29nc2otY0hoOFBqZmpqZkVEeUtRZ0VnVVZTZXByZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGdMMVRaNFFpNEtod0pYR0ZLSjN3b2pqclAwT2NORkhtZTc1Q2RFWW5BSmpmd0IwanM4bW83VjB4VFdESmdDMG56clJkNGxuTEpwREQ0ZmdselVxZDJaQm5LXzM0dGhaY09SY3BtaWR2OEpmZm9pNTlNTk1JWXBRVml2OFk3NWNSOUQtR2IteUdRUS1kNHZTSkpOV3pWXzQ0S0FpSlNRLWlDYVp4RThhRlM0ZFRGajE5NTRRTk9jVFNBekRUSVdwTFZIVWt1azlIeHfSAd8BQVVfeXFMUFhieVh2Qy1XTGFzUHZkYW4yaVFIQWRKUlJDT0E0UkxCenRsY1NMU3BMeGFkbjVPQVRNTnN2ZDZsdXI0ZzBMNGJkU2FhbWFMUlRiSi14X2Qyenhla1lBTjhGcWNUNm50ZWg0RUhTT0JGUTBoZ2MwMGxpaldnTGRYT09MZ2phbTFkQVc4U1dIU1VCbW9lYmZEN3QtVlZ1djlGR2NMN0xrbVdZWEQyZXY2Unc0dVFZLUY0SjRkdFh2ME1CYm9wM2RBRVNtODVnelpVcGx2LVVUMzNLenhmRHZ6TQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlRRanNVdjdVNWR1OWhBZUFicFRlZzdqZTBmaUZlVmFMeTRpZndkcmpjX25GVjZna29Ca3Eyb2w4Mk11bHkzZTJfSFJNeG5yUnZjRmxFY3RTZENPZ3NmelRKWHFvdm1wZk1kbVZ5d01GbnVwY1k2WmtQZzhpeDhzWWtaYjJKUGJLVE1SRkhyWTZnLV9nRDZvM0V2dXBCX3BfUUlSbXYzcFVQY3FLZVpPZzJSZ3AxQVBlRmxXRmZB?oc=5"
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
       ]
     },
     {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "score": 22.28,
+      "score": 21.64,
       "kinds": [
         "backlog",
         "news",
@@ -99,51 +98,36 @@
       "links": [
         "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5",
         "https://openai.com/business/customer-stories/sumitomo-life",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRFdOOEwwaUFucHF5b3RqZUUzOWZHVmVxSHhuQ3h6U05QbVNXRldkYWkxd3p3T0VEVUFHbTI5RWxKUGJFMENVRVVLYXloYWJJTjNNcDF6cmI1ckJiVlZxVHZBcHhKS1R0M0I1RkRmaTdfZGs?oc=5"
-      ]
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "score": 20.33,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
-      ]
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "score": 21.11,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5",
-        "https://openai.com/index/managing-frontier-ai-risk",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5"
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5"
       ]
     },
     {
       "title": "Google will launch Android app verification requirement globally in January 2027",
-      "score": 21.58,
+      "score": 23.41,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LZ0QzbzVuYzNla3BISlFGOFhfVnh1LTNHLXRiU1NZaERqeXdOVjY3VTZjdVI0cGJmdDZrUVd1WllRME9PN0hfTkctbXNmZ0hhTWk1bnROLW1xb0ZDV2s3NGNhQ1RpY2VQRGtxdGZwaTMtQTU5dVE?oc=5",
         "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5"
       ]
     },
     {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "score": 20.02,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+      ]
+    },
+    {
       "title": "Enterprise Live Migrations from Azure DevOps generally available",
-      "score": 20.79,
+      "score": 20.48,
       "kinds": [
         "official"
       ],
@@ -154,13 +138,24 @@
     },
     {
       "title": "Red Hat Enterprise Linux runner images now generally available",
-      "score": 20.78,
+      "score": 20.47,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
         "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"
+      ]
+    },
+    {
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "score": 19.27,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/"
       ]
     }
   ]
