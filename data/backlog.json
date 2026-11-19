@@ -1,16 +1,5 @@
 [
   {
-    "title": "The Gemini app is now available on lower-memory Android devices.",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMEQ2ZTZ6ZjFjUklnWnpQTUMtV00wSE1aSHA5OHN6bEVHTk5Ta2hnVjAtNFVLQjRUc0tWbm1FV2Iya3hWdGVIdDA4alhoMFJKdUhwaklqbUZELWZkcThhSjdEQ2dTbzFRQlBnWl9CZWE3ZWN6SUlUcVpzYnF3VWxQT3hnMVRDR2xEWjdoOXlsUQ?oc=5",
-    "source": "blog.google",
-    "kind": "news",
-    "summary": " The Gemini app is now available on lower-memory Android devices. &nbsp;&nbsp; blog.google ",
-    "country": "IN",
-    "published": "2026-11-18T17:07:31+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
-  },
-  {
     "title": "Introducing ChatGPT for Sales",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDNFTVZKSklFbVAtaUY3RXN3Nkg4aEtPcFMyLVhISGlsQWE3V3ZKMEg5RVdNQ3pzQ296bG5sRlpVRXlBTzd6UXdxWlNfT1BCcGxsdWRqelhoS0JPcEF3QzF0WEUyWlFGRGhtQmNOVTVlZ25wd29wNDBxY3FmZWgtRQ?oc=5",
     "source": "TechRepublic",
@@ -19,61 +8,72 @@
     "country": "IN",
     "published": "2026-11-19T11:00:28+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
+    "saved": "2026-11-19T20:03:58.630752+00:00"
   },
   {
     "title": "Advancing chip design with OpenAI models",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE?oc=5",
-    "source": "OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5",
+    "source": "Data Center Dynamics",
     "kind": "news",
-    "summary": " Advancing chip design with OpenAI models &nbsp;&nbsp; OpenAI ",
+    "summary": " OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware &nbsp;&nbsp; Data Center Dynamics ",
     "country": "IN",
-    "published": "2026-11-18T17:06:03+00:00",
+    "published": "2026-11-19T15:31:27+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
+    "saved": "2026-11-19T20:03:58.630752+00:00"
   },
   {
-    "title": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlRRanNVdjdVNWR1OWhBZUFicFRlZzdqZTBmaUZlVmFMeTRpZndkcmpjX25GVjZna29Ca3Eyb2w4Mk11bHkzZTJfSFJNeG5yUnZjRmxFY3RTZENPZ3NmelRKWHFvdm1wZk1kbVZ5d01GbnVwY1k2WmtQZzhpeDhzWWtaYjJKUGJLVE1SRkhyWTZnLV9nRDZvM0V2dXBCX3BfUUlSbXYzcFVQY3FLZVpPZzJSZ3AxQVBlRmxXRmZB?oc=5",
-    "source": "Press Trust of India",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlZZQktlZzdORDFTUWt1MnM3OFRzb3QyR1c4bnFNbUg2WVU5eFZtN3hIV1FtUjJPY3dESFI2dTdkdTg2N0J6STFhVVFhSnFJLUhSQktKTzhiTGdiTFFMbFp2Um9FVXBMWENuaTNFRzRRdlFjOXZWSl9sZDNnTGI4RQ?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": " Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report &nbsp;&nbsp; Press Trust of India ",
+    "summary": " How OpenAI’s Performance Factory keeps ChatGPT fast &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-19T07:40:20+00:00",
+    "published": "2026-11-19T17:02:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
+    "saved": "2026-11-19T20:03:58.630752+00:00"
+  },
+  {
+    "title": "Bengaluru emerges as second largest AI startup cluster in Asia",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQam1WQTNRU2hidFF2eWNkX2Y4OEpLU0NWZFluZUo4enZoOGtudGh4ZmJ1SEdZdmhOdkUxWkxsLU9mbHJKcEhlRF9WYW9hbFhOZE56NWZKejFQQTFHSnl2LVNublVYMmVMa2NLYV9Rb3VOd1kyNnpTUkF5UTR3anVldWVtdFZtVW5qZ0RXWHJEeEN5WDhLU0lmQjVRbEFEekg3SDlTM2YwVnBwdWVyVVkxRHEyLXRFWXBFdEwxTkNza1VUZDjSAdABQVVfeXFMTnRCWHJZZDVxdnpzMTFLX216dk9oeE9Cem9ldWhVTlJUYzgtR1JUQnNTOFJDenpJTWVTRUNoX3ZPX3JZOFpXUVdIenJoUXQweGI0Rm4wWl96anR0cnhUZDNHSkh2Ni1jM3hWRzdTbFQyUWFXaEp5ODl1WlNWRVNjVURrWlYxd1duNmMyN0UzQVh5djBHdWNCWmc5OFJ1OUQ3ZU1GYWgzb3pyN3pTQnBoZFpQMnlRVEo5T0R0ejBOVmFZNjRreVBVaG9Fay1xbnZUUA?oc=5",
+    "source": "Deccan Herald",
+    "kind": "news",
+    "summary": " Bengaluru emerges as second largest AI startup cluster in Asia &nbsp;&nbsp; Deccan Herald ",
+    "country": "IN",
+    "published": "2026-11-18T22:46:44+00:00",
+    "engagement": 0,
+    "saved": "2026-11-19T20:03:58.630752+00:00"
+  },
+  {
+    "title": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report - People Matters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEVoTGZtQ1AzeFRNaUhrU0gtLWM2UDRCaWV1dlA3b3U0UWF6UVhudGpXeThJcVhNSmJ1YmdZeEs4X1lRTmVzN29yeHRBN1lqSEpmMDR4TFJaTlhsQ1VxNHFTdjMxc0NpZk95azZFaU5GUXdBcGhDajk5WUVvU290QUNJbWQ2SXUzUkMtZzh0V0NaTXV4NmZ4UmpCVUgtNTRPRnlyWFZhS1pEczhUQnpDa29nc2otY0hoOFBqZmpqZkVEeUtRZ0VnVVZTZXByZw?oc=5",
+    "source": "People Matters - HR News",
+    "kind": "news",
+    "summary": " Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report &nbsp;&nbsp; People Matters - HR News ",
+    "country": "IN",
+    "published": "2026-11-19T03:09:58+00:00",
+    "engagement": 0,
+    "saved": "2026-11-19T20:03:58.630752+00:00"
   },
   {
     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRFdOOEwwaUFucHF5b3RqZUUzOWZHVmVxSHhuQ3h6U05QbVNXRldkYWkxd3p3T0VEVUFHbTI5RWxKUGJFMENVRVVLYXloYWJJTjNNcDF6cmI1ckJiVlZxVHZBcHhKS1R0M0I1RkRmaTdfZGs?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5",
     "source": "OpenAI",
     "kind": "news",
     "summary": " How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-19T00:48:28+00:00",
+    "published": "2026-11-18T23:29:18+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
+    "saved": "2026-11-19T20:03:58.630752+00:00"
   },
   {
-    "title": "Managing frontier AI risk: From training to deployment",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Managing frontier AI risk: From training to deployment &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-18T20:09:34+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
-  },
-  {
-    "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-    "link": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-    "source": "GitHub Changelog",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA",
     "kind": "official",
-    "summary": " You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you&#8230; \n The post  S3 audit log streaming with OpenID Connect expands to GHE.com  appeared first on  The GitHub Blog . ",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
     "country": "GLOBAL",
-    "published": "2026-11-19T08:27:16+00:00",
+    "published": "2026-11-19T17:00:35+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T11:42:07.452161+00:00"
+    "saved": "2026-11-19T20:03:58.630752+00:00"
   }
 ]
