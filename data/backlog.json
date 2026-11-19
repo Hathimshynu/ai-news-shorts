@@ -1,25 +1,25 @@
 [
   {
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-18T18:53:43+00:00",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMEQ2ZTZ6ZjFjUklnWnpQTUMtV00wSE1aSHA5OHN6bEVHTk5Ta2hnVjAtNFVLQjRUc0tWbm1FV2Iya3hWdGVIdDA4alhoMFJKdUhwaklqbUZELWZkcThhSjdEQ2dTbzFRQlBnWl9CZWE3ZWN6SUlUcVpzYnF3VWxQT3hnMVRDR2xEWjdoOXlsUQ?oc=5",
+    "source": "blog.google",
+    "kind": "news",
+    "summary": " The Gemini app is now available on lower-memory Android devices. &nbsp;&nbsp; blog.google ",
+    "country": "IN",
+    "published": "2026-11-18T17:07:31+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
+    "saved": "2026-11-19T11:42:07.452161+00:00"
   },
   {
-    "title": "Security risk assessments run automatically on GitHub Team",
-    "link": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-    "source": "GitHub Changelog",
-    "kind": "official",
-    "summary": " GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code&#8230; \n The post  Security risk assessments run automatically on GitHub Team  appeared first on  The GitHub Blog . ",
-    "country": "GLOBAL",
-    "published": "2026-11-18T16:54:26+00:00",
+    "title": "Introducing ChatGPT for Sales",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDNFTVZKSklFbVAtaUY3RXN3Nkg4aEtPcFMyLVhISGlsQWE3V3ZKMEg5RVdNQ3pzQ296bG5sRlpVRXlBTzd6UXdxWlNfT1BCcGxsdWRqelhoS0JPcEF3QzF0WEUyWlFGRGhtQmNOVTVlZ25wd29wNDBxY3FmZWgtRQ?oc=5",
+    "source": "TechRepublic",
+    "kind": "news",
+    "summary": " OpenAI Launches ChatGPT for Sales With 30+ Partner Plugins &nbsp;&nbsp; TechRepublic ",
+    "country": "IN",
+    "published": "2026-11-19T11:00:28+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
+    "saved": "2026-11-19T11:42:07.452161+00:00"
   },
   {
     "title": "Advancing chip design with OpenAI models",
@@ -30,7 +30,29 @@
     "country": "IN",
     "published": "2026-11-18T17:06:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
+    "saved": "2026-11-19T11:42:07.452161+00:00"
+  },
+  {
+    "title": "Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlRRanNVdjdVNWR1OWhBZUFicFRlZzdqZTBmaUZlVmFMeTRpZndkcmpjX25GVjZna29Ca3Eyb2w4Mk11bHkzZTJfSFJNeG5yUnZjRmxFY3RTZENPZ3NmelRKWHFvdm1wZk1kbVZ5d01GbnVwY1k2WmtQZzhpeDhzWWtaYjJKUGJLVE1SRkhyWTZnLV9nRDZvM0V2dXBCX3BfUUlSbXYzcFVQY3FLZVpPZzJSZ3AxQVBlRmxXRmZB?oc=5",
+    "source": "Press Trust of India",
+    "kind": "news",
+    "summary": " Bengaluru accounts for 36.3 pc of India’s native AI startup funding: report &nbsp;&nbsp; Press Trust of India ",
+    "country": "IN",
+    "published": "2026-11-19T07:40:20+00:00",
+    "engagement": 0,
+    "saved": "2026-11-19T11:42:07.452161+00:00"
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRFdOOEwwaUFucHF5b3RqZUUzOWZHVmVxSHhuQ3h6U05QbVNXRldkYWkxd3p3T0VEVUFHbTI5RWxKUGJFMENVRVVLYXloYWJJTjNNcDF6cmI1ckJiVlZxVHZBcHhKS1R0M0I1RkRmaTdfZGs?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-19T00:48:28+00:00",
+    "engagement": 0,
+    "saved": "2026-11-19T11:42:07.452161+00:00"
   },
   {
     "title": "Managing frontier AI risk: From training to deployment",
@@ -41,39 +63,17 @@
     "country": "IN",
     "published": "2026-11-18T20:09:34+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
+    "saved": "2026-11-19T11:42:07.452161+00:00"
   },
   {
-    "title": "92% Of Indian Firms Report AI Agent Security Incidents, Only 36% Contain Them Within A Day",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWElPbnJMOWE5RDFmaEJNd1RtTTQyN096bm81X1haZmhjWGpiZHFYb0tYMXh2ZnJFWFQwSDhVYkYzTUhiQnBqMVNEZHM1bFdqSnpfNDJHSHJ2MkZaWnJnNGhJYkQwTGRrbVhGdzJGNmJTNkdHckQ4NEhLeFRYS0RPalhnX3lhUm9xS2lMZFVyWlN0anU1THZ5eHotdm9NVjg0N0RlOTMxdC1mUQ?oc=5",
-    "source": "The 420.in",
-    "kind": "news",
-    "summary": " 92% Of Indian Firms Report AI Agent Security Incidents, Only 36% Contain Them Within A Day &nbsp;&nbsp; The 420.in ",
-    "country": "IN",
-    "published": "2026-11-18T17:37:49+00:00",
+    "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+    "link": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+    "source": "GitHub Changelog",
+    "kind": "official",
+    "summary": " You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you&#8230; \n The post  S3 audit log streaming with OpenID Connect expands to GHE.com  appeared first on  The GitHub Blog . ",
+    "country": "GLOBAL",
+    "published": "2026-11-19T08:27:16+00:00",
     "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
-  },
-  {
-    "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlgzTUFHZld2UlVTRGdoc2NxMWdLbjNOdG1yZjRZeUVTMlZGRkpMTU9MV0EwV3h3bHhsZUdRU0J2VHpKNnN0YnlrTDhqSHMzS3ZTTzd4MWh4Y3lyUUlhaWR5THgxWGFWYXNjRU1VSG0wc3JxOGhsNWpadGNJeG92YUZRMnNoUXFqV2IzeW1ya2lLX1JEUDRpSHhnUzI?oc=5",
-    "source": "YourStory.com",
-    "kind": "news",
-    "summary": " Bengaluru leads India in AI startup funding: Innovation Report 2026 &nbsp;&nbsp; YourStory.com ",
-    "country": "IN",
-    "published": "2026-11-18T13:07:30+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
-  },
-  {
-    "title": "Bengaluru Accounts For 36.3% Of India's AI Startup Funding, Hosts 71% of New AI And Deep-Tech Unicorns",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVJnSzNiQ0ZFT1pVYlE4Y0RKSkJDNU4zYjZkQU1BTUI4MEFNV3lrSFNkYmF2Mk5pN0J4WUF2ZjlWN2l4d2c5WDlOUWUzQmZmWjZtekhnODJlaERlV1BtYkNWYmNxemdidmpYdjg3cVZBdEl0Mml5VC1RVjNyWUFYVTJ5VjBHNG9lYmdOY3JvTm56QUU2ckRRVnZR0gGaAUFVX3lxTE9VUmdLM2JDRkVPWlViUThjREpKQkM1TjNiNmRBTUFNQjgwQU1XeWtIU2RiYXYyTmk3QnhZQXZmOVY3aXh3ZzlYOU5RZTNCZmZaNm16SGc4MmVoRGVXUG1iQ1ZiY3F6Z2J2alh2ODdxVkF0SXQyaXlULVFWM3JZQVhVMnlWMEc0b2ViZ05jcm9ObnpBRTZyRFFWdlE?oc=5",
-    "source": "CIOL",
-    "kind": "news",
-    "summary": " Bengaluru Accounts For 36.3% Of India's AI Startup Funding, Hosts 71% of New AI And Deep-Tech Unicorns &nbsp;&nbsp; CIOL ",
-    "country": "IN",
-    "published": "2026-11-18T18:51:38+00:00",
-    "engagement": 0,
-    "saved": "2026-11-18T20:56:10.980211+00:00"
+    "saved": "2026-11-19T11:42:07.452161+00:00"
   }
 ]

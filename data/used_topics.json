@@ -1,25 +1,5 @@
 [
   {
-    "title": "Volvo Cars expands NVIDIA partnership for automated driving",
-    "category": "Trending Technology",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
-    "category": "Trending Technology",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Cognizant and Google Cloud Expand Alliance to Accelerate Agentic Enterprise Transformation",
-    "category": "Breaking AI News",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Samsung Galaxy F70 5G launched in India at ₹19,999 with 90Hz AMOLED, Gorilla Glass Victus, 50MP OIS camera, and Exynos 1330",
-    "category": "Trending Technology",
-    "date": "2026-10-19"
-  },
-  {
     "title": "DeepSeek just open-sourced its inference engine",
     "category": "AI Tools You Should Know",
     "date": "2026-10-20"
@@ -578,5 +558,10 @@
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "category": "New AI Models",
     "date": "2026-11-18"
+  },
+  {
+    "title": "Google Unveils Gemini 4 Neon, a Cheaper Frontier Model Aimed at Coding and Enterprise Workloads",
+    "category": "New AI Models",
+    "date": "2026-11-19"
   }
 ]
