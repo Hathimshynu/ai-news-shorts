@@ -1,26 +1,24 @@
 {
-  "job_id": "2026-11-20-evening-1701",
-  "chosen": "Advancing chip design with OpenAI models",
-  "reason": "It offers an inside look at how OpenAI models are revolutionizing semiconductor engineering and chip design, giving tech enthusiasts and engineers a glimpse into the future of hardware manufacturing.",
+  "job_id": "2026-11-20-evening-1802",
+  "chosen": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+  "reason": "It offers an exciting look at how developers are using frontier AI agents to build real-time 3D simulations in NVIDIA Omniverse.",
   "candidates": [
     {
-      "title": "Advancing chip design with OpenAI models",
-      "score": 25.17,
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "score": 26.62,
       "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQkNIZW5seHNKYThIaGxjczVBa2NGUG5UYjNwR0g2REc2UnlSZ3BONmxqeUx4d2ZMT01SWDZzU1dEZExxVHJmcXdia0t5aTF2SFgybWpQUy1WS2VENV92TENPeWZDRkU5MVFXN05CajEtV3lYNHlqNw?oc=5",
-        "https://openai.com/index/advancing-chip-design-with-our-models",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5"
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ScVotSFNubUFsUXphSFVPNWQ0UFNoaUlKOFpwejZ2UVh5LWRiUDB3emFhaGZKT0pPSWF3ejMxdnQwZ1JTbFktcGoycTdUNXluZnlpUENvYndkcktiS2xWcFFUVzdNZ0FXQjJHSGRlTDRWbE80ZEY3dFNRdw?oc=5",
+        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
       ]
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "score": 22.38,
+      "score": 22.12,
       "kinds": [
         "backlog",
         "news",
@@ -34,73 +32,69 @@
       ]
     },
     {
-      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-      "score": 19.12,
+      "title": "Bengaluru Attracts 36.3% of India’s Native AI Funding",
+      "score": 21.09,
       "kinds": [
         "backlog",
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-        "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmYySFBkZ2t3UzNtY0lrbms5UU1YWUp2U3lKLXlna0FnUzlma01xbnUyZVg5dmY0NjViT3FvTnBqZ010WmZoUXRZTDViZ05raHMwUlZid0l6UUlLN0tqS1NPcWd5WjVqYlktbHYxODkzdFlZN282MTF2MlNVbDNMQ3BRYmpNdDcxZzcyanc3TExGQTIyRGhWZjFR?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5"
       ]
     },
     {
       "title": "Explore the Codex Security Plugin",
-      "score": 22.02,
+      "score": 23.76,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
-        "https://openai.com/business/learn/codex-security-plugin-demo"
+        "https://openai.com/business/learn/codex-security-plugin-demo",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5"
       ]
     },
     {
       "title": "See PR scans in action",
-      "score": 21.97,
+      "score": 23.72,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5",
-        "https://openai.com/business/learn/pr-scans-demo"
+        "https://openai.com/business/learn/pr-scans-demo",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5"
       ]
     },
     {
       "title": "Get started with Daybreak Blue",
-      "score": 21.97,
+      "score": 23.72,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
-        "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
-      ]
-    },
-    {
-      "title": "Bengaluru Attracts 36.3% of India’s Native AI Funding",
-      "score": 19.34,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmYySFBkZ2t3UzNtY0lrbms5UU1YWUp2U3lKLXlna0FnUzlma01xbnUyZVg5dmY0NjViT3FvTnBqZ010WmZoUXRZTDViZ05raHMwUlZid0l6UUlLN0tqS1NPcWd5WjVqYlktbHYxODkzdFlZN282MTF2MlNVbDNMQ3BRYmpNdDcxZzcyanc3TExGQTIyRGhWZjFR?oc=5"
+        "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5"
       ]
     },
     {
       "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
-      "score": 21.46,
+      "score": 23.21,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -112,7 +106,7 @@
     },
     {
       "title": "LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go",
-      "score": 21.08,
+      "score": 23.84,
       "kinds": [
         "news"
       ],
@@ -124,20 +118,20 @@
       ]
     },
     {
-      "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts",
-      "score": 19.04,
+      "title": "E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5% as AI concerns overshadow Anthropic debut- Moneycontrol.com",
+      "score": 18.89,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWpFa2pUMWZ4TDk0aHBsTkt4dU55TnpUTTJoNnVWY2hXWXhLVUU4azItMld6MTZUb0VOcndnYmlUNjhhc2UyMHA1MmZPR0RaSllWdU9UN0lMYzNfMXV0VFYyQ0MzNnBUbFY3OFR1aFFRU3A1eExnQkZ5SWVJYi1JNHIzb0JyRm1Ub2hDUWVUZlhuTXRmS05aTkdPMFlORjFMSFNha1lKWHlvNlNlNWV3dHU2NTlWanhRVTZtWUpyN2hVQk8xYWhkYTVxZ1ZYLVZlVC0zQmQzd3kyUXVWOWNVU09LZ293d2Za?oc=5"
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYU1GVHNFZ0pDWjJZWVR0UU5xV0xLYUFrNkR3MkhLMDY2S2ExSWFaRE9SWU5yQVlHVG90ZGpEOHJVMmhjbTdac2kxUlZ1TExGVVotWFNfb3VwZjVLZTd5Z1pEeXVSUkczTm5uQVlETG5udzNhaFE5ZTVpUFNORTZWMVNCMTl2Ul9LUHRDdjRKLWZzUlFHcllCTllpWDZRdGY1LVpTNHd3ZGluT2dtQjJxMzZHVEdlWHoz?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ0J6aWwwTDRrQzZzLVQtYk9zR0RabjYtYktvZURJRldPZmdkM3FoMG1wRkJLSjhtWEtOSE1INWFycEZBOGtRYXhfSnhDcHF3ZGNwYThmbXktc3NGSWNQUEZzR0E5dWVIT1dBelpRNTA2M0RJd19jQXB6R0VQMUVUVG5DMEppRDNGQjRjd09XbHZHNUpBYzQ5ODFSSGk3alYycHI4dG9VcDJ4c09iR0RQd3h2b3l0ZWpQU3o3YWZjdTRYbkdzeXQ2VGZtcUZ0Wkl2QnB0VHpMMUs2b3dvT1ZkcEYzY09UM01qNXhtNWpWU2ppRWQtQUxEbzVyNkZjdTZpTXQ4S3ZTck7SAY4CQVVfeXFMT3Vfd2pEaUYzQ2p1LXpSNFdydE5CTFU2QTVieEo3ZG5jd3VGUTA2YkozeE16Yk9xZllCTFB6RkNVQms1cFNUOUt3ZUlVdklFTGQ3REdSMWw3a0R0Y0IyT213RWFkcWdSazl3T2syTUUwLWkzN1NqLV9fUTFmU0s0MlUxOEhITTdfOXFqVGFBZXhySmRfT0pKV3E2YTF5aDJMakFJTHNQdDFnaTRXR1Btb0ZnN1lEdm1mdVU0Xy1lMVk5VXcwejF1bzJhcldfRWhwN0stYXhnSUhZaDN2eHYwQ0Vtay1Hckw0bHdMTW9BcmJZZmJqUURLNEpYSGNDZE9aXzJtb1c2anUybVcyRjlR?oc=5"
       ]
     },
     {
       "title": "Paytm, Pine Labs, MobiKwik Shares Fall Up To 9% As UPI MDR Rollout Faces Fresh Delay",
-      "score": 19.64,
+      "score": 19.39,
       "kinds": [
         "news"
       ],
@@ -148,15 +142,28 @@
       ]
     },
     {
-      "title": "E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5% as AI concerns overshadow Anthropic debut- Moneycontrol.com",
-      "score": 19.14,
+      "title": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027",
+      "score": 19.74,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYU1GVHNFZ0pDWjJZWVR0UU5xV0xLYUFrNkR3MkhLMDY2S2ExSWFaRE9SWU5yQVlHVG90ZGpEOHJVMmhjbTdac2kxUlZ1TExGVVotWFNfb3VwZjVLZTd5Z1pEeXVSUkczTm5uQVlETG5udzNhaFE5ZTVpUFNORTZWMVNCMTl2Ul9LUHRDdjRKLWZzUlFHcllCTllpWDZRdGY1LVpTNHd3ZGluT2dtQjJxMzZHVEdlWHoz?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ0J6aWwwTDRrQzZzLVQtYk9zR0RabjYtYktvZURJRldPZmdkM3FoMG1wRkJLSjhtWEtOSE1INWFycEZBOGtRYXhfSnhDcHF3ZGNwYThmbXktc3NGSWNQUEZzR0E5dWVIT1dBelpRNTA2M0RJd19jQXB6R0VQMUVUVG5DMEppRDNGQjRjd09XbHZHNUpBYzQ5ODFSSGk3alYycHI4dG9VcDJ4c09iR0RQd3h2b3l0ZWpQU3o3YWZjdTRYbkdzeXQ2VGZtcUZ0Wkl2QnB0VHpMMUs2b3dvT1ZkcEYzY09UM01qNXhtNWpWU2ppRWQtQUxEbzVyNkZjdTZpTXQ4S3ZTck7SAY4CQVVfeXFMT3Vfd2pEaUYzQ2p1LXpSNFdydE5CTFU2QTVieEo3ZG5jd3VGUTA2YkozeE16Yk9xZllCTFB6RkNVQms1cFNUOUt3ZUlVdklFTGQ3REdSMWw3a0R0Y0IyT213RWFkcWdSazl3T2syTUUwLWkzN1NqLV9fUTFmU0s0MlUxOEhITTdfOXFqVGFBZXhySmRfT0pKV3E2YTF5aDJMakFJTHNQdDFnaTRXR1Btb0ZnN1lEdm1mdVU0Xy1lMVk5VXcwejF1bzJhcldfRWhwN0stYXhnSUhZaDN2eHYwQ0Vtay1Hckw0bHdMTW9BcmJZZmJqUURLNEpYSGNDZE9aXzJtb1c2anUybVcyRjlR?oc=5"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGg5UzVWY0Y1TzN2cWtUTlBiYVo4SWtLQXdvWkQ5RzFjX1hQcjZtazBXU0Rra1VPS19Ia1VDcmlNc3l0WEp3MnVqeGdjV2JsZ2JVSHZhbUJtSmNJcGtLMmp3emhrendiR01BU3pXT1JkR3NwRy1qQVZOS18tME5QZUVLQUdTelU3SF9McjU5dElkNjFGV0RrN1hQSjZjYUJHRnBDaERoVUJFOHZMQUtqWXVqYVl2ODNfaDJwWmx4NjBhV1EySklqZEttcnl2Q3VsMmxBLXVR0gHbAUFVX3lxTFA5NVVNWXctVmMwV2cyZE1GVDNudlZLaUU4ZjRIM0t4WG85b3E5U0ZrM2NKM05GWnVaU0ZDdFRXSWE1V2ZWMzN5MFhGOGdaeGV3ZlRNNW5Zb3JTdEx3YS1qWFR4UjBzdy1HNURzWlZRVnJvbVZsV2RDekZtcmE3UXNla3BJaFA4dVo1TTZJWHlxOXVlMTFSUF9tWHAweDM2dGw2Ym9zNjVqLXhrcU4tbEtTMDJHZEVjdVNSQk1hQW4yWk1XVHNiQlF5b3BmS2FSVERvLW8wdVNDYl9XRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXlYOElORS1US1hDT2JORTRsWXE5VmFHVFpiWDJMZGNLZUQ5UlRJQVVCdUtYNzlfZlE5WTY5dkpDT3lZNFZqcXRvazA2UFo1R1hzVHd1VS13cjQ0NzR5VlRPYUg3cml4YlNfNnY4M1pvd1dxVmt3YWtJdGJfQ0pnQkczU2ZURmlmUEVfN2RSZkRwb1ZmMjR2Nms1WDF1eEJrXzJDSW1wcko2UWFlc05KZ0pJRHgxcWxENWhkUjZJSndWYTBzcnNuUWpsaHR1TnhGOEHSAdcBQVVfeXFMTjBZWGl4MHZXRFdNUEtJUFU5cjZVNklVdVJibzliWmZXU0ptOVJtalRlLWZsekoxeWlfbXVHRGlQT3JJYi1DMVk2X2FGQTNkcE5IYm1qU09TM09mRHYtNFBrTE1raXpMU21IejBfMEw3ckxlTmtMTkZHZ3dnQUluOUprTUpsZ2lyXzJGdXlfMDJMLWdvaklPeVU3QVNNbnlXT2s4SndEYVA2ZUFDdWtWdVl2dFdfeFJTSThXRDdZTV9PZjJqOHpycmlKamxSYmZwWEVOUFoyZ28?oc=5"
+      ]
+    },
+    {
+      "title": "White House replaces cyber security chief after tech outages",
+      "score": 19.91,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG9pdkpleWhNb3dnVnhuckEyQXVHaEtzVHZqOEtFY1JXbnNzdkF3VDNHdktWVUtUQURpMmJ2STdVdEFDSXd0U3FmSGVMZVplM3lTcWxkNGdvckZqeGQwMEZEUDZGaXVSSE1YOHlobFNjOFlKSU0yZ2JTOGE1bjlqVW1zb2ZtR3ZSUVFnSXRoVFp3NDhNd045RNIBmAFBVV95cUxOcGZkcGRHV1R0VXhHS0lTQ0VmazRCc2VFUE1nX09tQnZ3YkEzQUFPTmNuTDBROUZleGp0UVk3eGRhOEtJM19ybmZSSmVHQUxUUEc0YkhfUWxlcE1NSWMwaVFnWF9kSF96R2VsYkNnUzBZU0xmWDlvTTR5QTZ0WTFodjY2cTU2R290TXBuNjRLQWRfdmgwQ29LRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWp5bnBiS09FbW1LU3VWZUZHajlzNHVvdU9KNUtLQnJTZjVtOGlXWWhSUXUzS2ZfSnlQTENUWjFxWE1mbGJFR3U5ZGh5ZDdYTWo3Q0JQN1dnZnl6bnY1eUV6YTZDZ1czUlJsWHpsNFBmRmx5ZVNMVEJUQUtlY0hQRm8yVjU0b3dvQWM1TUpqUWlBSko4LURKcXI0ZEZUdmNmdENlYzVPUUdhQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXpPeElpT0o4VnEyZks3dkdGV0tVYVhHd2l2NWJnZkdMbGJTZXBsUVl6SkllQlVHVFBYMVF6NjBuTmxCUlc0cVZwcVhpMUdUbm1mZmg4SkJHTE9PX0NDNEd0YjlGRThwUkt5cTNib0FadWczZWlBZ25Ra3hiUE1aWlBqRDA2ZldRTGlhdkRJVzVGTVlYNzhHSW0tdXJIM2VsMmV4d1JHbXlEUWs?oc=5"
       ]
     }
   ]

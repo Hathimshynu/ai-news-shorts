@@ -8,51 +8,7 @@
     "country": "IN",
     "published": "2026-11-19T17:02:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
-  },
-  {
-    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-    "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-    "source": "NVIDIA",
-    "kind": "official",
-    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [&#8230;]",
-    "country": "GLOBAL",
-    "published": "2026-11-19T20:00:15+00:00",
-    "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
-  },
-  {
-    "title": "Explore the Codex Security Plugin",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Explore the Codex Security Plugin &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-19T23:35:59+00:00",
-    "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
-  },
-  {
-    "title": "See PR scans in action",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " See PR scans in action &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-19T23:24:53+00:00",
-    "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
-  },
-  {
-    "title": "Get started with Daybreak Blue",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Get started with Daybreak Blue &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-19T23:24:53+00:00",
-    "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
+    "saved": "2026-11-20T12:48:38.154628+00:00"
   },
   {
     "title": "Bengaluru Attracts 36.3% of India’s Native AI Funding",
@@ -63,7 +19,40 @@
     "country": "IN",
     "published": "2026-11-20T05:43:25+00:00",
     "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
+    "saved": "2026-11-20T12:48:38.154628+00:00"
+  },
+  {
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Explore the Codex Security Plugin &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-19T23:35:59+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T12:48:38.154628+00:00"
+  },
+  {
+    "title": "See PR scans in action",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " See PR scans in action &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-19T23:24:53+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T12:48:38.154628+00:00"
+  },
+  {
+    "title": "Get started with Daybreak Blue",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Get started with Daybreak Blue &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-19T23:24:53+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T12:48:38.154628+00:00"
   },
   {
     "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
@@ -74,6 +63,17 @@
     "country": "IN",
     "published": "2026-11-20T06:54:19+00:00",
     "engagement": 0,
-    "saved": "2026-11-20T11:35:59.013921+00:00"
+    "saved": "2026-11-20T12:48:38.154628+00:00"
+  },
+  {
+    "title": "LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWncyejNWMDgwWjZiNldkaDhack1zWjN4b0hUR2dUOF9PdGRFWHpDOWlFMjBvZUlqYTVMekJLcGVqZHplUURyYzdEWTRQY2xIWGpHb2doOGZEMzVu?oc=5",
+    "source": "MobiGyaan",
+    "kind": "news",
+    "summary": " LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go &nbsp;&nbsp; MobiGyaan ",
+    "country": "IN",
+    "published": "2026-11-20T07:52:15+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T12:48:38.154628+00:00"
   }
 ]
