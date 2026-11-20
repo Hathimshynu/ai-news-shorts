@@ -1,16 +1,5 @@
 [
   {
-    "title": "Advancing chip design with OpenAI models",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5",
-    "source": "Data Center Dynamics",
-    "kind": "news",
-    "summary": " OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware &nbsp;&nbsp; Data Center Dynamics ",
-    "country": "IN",
-    "published": "2026-11-19T15:31:27+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
-  },
-  {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlZZQktlZzdORDFTUWt1MnM3OFRzb3QyR1c4bnFNbUg2WVU5eFZtN3hIV1FtUjJPY3dESFI2dTdkdTg2N0J6STFhVVFhSnFJLUhSQktKTzhiTGdiTFFMbFp2Um9FVXBMWENuaTNFRzRRdlFjOXZWSl9sZDNnTGI4RQ?oc=5",
     "source": "OpenAI",
@@ -19,18 +8,7 @@
     "country": "IN",
     "published": "2026-11-19T17:02:03+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
-  },
-  {
-    "title": "Bengaluru emerges as second largest AI startup cluster in Asia",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQam1WQTNRU2hidFF2eWNkX2Y4OEpLU0NWZFluZUo4enZoOGtudGh4ZmJ1SEdZdmhOdkUxWkxsLU9mbHJKcEhlRF9WYW9hbFhOZE56NWZKejFQQTFHSnl2LVNublVYMmVMa2NLYV9Rb3VOd1kyNnpTUkF5UTR3anVldWVtdFZtVW5qZ0RXWHJEeEN5WDhLU0lmQjVRbEFEekg3SDlTM2YwVnBwdWVyVVkxRHEyLXRFWXBFdEwxTkNza1VUZDjSAdABQVVfeXFMTnRCWHJZZDVxdnpzMTFLX216dk9oeE9Cem9ldWhVTlJUYzgtR1JUQnNTOFJDenpJTWVTRUNoX3ZPX3JZOFpXUVdIenJoUXQweGI0Rm4wWl96anR0cnhUZDNHSkh2Ni1jM3hWRzdTbFQyUWFXaEp5ODl1WlNWRVNjVURrWlYxd1duNmMyN0UzQVh5djBHdWNCWmc5OFJ1OUQ3ZU1GYWgzb3pyN3pTQnBoZFpQMnlRVEo5T0R0ejBOVmFZNjRreVBVaG9Fay1xbnZUUA?oc=5",
-    "source": "Deccan Herald",
-    "kind": "news",
-    "summary": " Bengaluru emerges as second largest AI startup cluster in Asia &nbsp;&nbsp; Deccan Herald ",
-    "country": "IN",
-    "published": "2026-11-18T22:46:44+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
+    "saved": "2026-11-20T11:35:59.013921+00:00"
   },
   {
     "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -41,39 +19,61 @@
     "country": "GLOBAL",
     "published": "2026-11-19T20:00:15+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
+    "saved": "2026-11-20T11:35:59.013921+00:00"
   },
   {
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-    "source": "NVIDIA",
-    "kind": "official",
-    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
-    "country": "GLOBAL",
-    "published": "2026-11-19T17:00:35+00:00",
-    "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
-  },
-  {
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5",
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
     "source": "OpenAI",
     "kind": "news",
-    "summary": " How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise &nbsp;&nbsp; OpenAI ",
+    "summary": " Explore the Codex Security Plugin &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-18T23:29:18+00:00",
+    "published": "2026-11-19T23:35:59+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
+    "saved": "2026-11-20T11:35:59.013921+00:00"
   },
   {
-    "title": "Google will launch Android app verification requirement globally in January 2027",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5",
-    "source": "Ars Technica",
+    "title": "See PR scans in action",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5",
+    "source": "OpenAI",
     "kind": "news",
-    "summary": "   Google will launch Android app verification requirement globally in January 2027 &nbsp;&nbsp; Ars Technica    Android’s controversial sideloading rules go global in January &nbsp;&nbsp; Android Authority    Google will require developer verification for Android apps worldwide from January 2027 &nbsp;&nbsp; MLQ.ai    New Google Android verification policy being monitored in Japan &nbsp;&nbsp; Global Competition Review    Sideloading your Android app? Register it before 2027. &nbsp;&nbsp; DevPro Journal   ",
+    "summary": " See PR scans in action &nbsp;&nbsp; OpenAI ",
     "country": "IN",
-    "published": "2026-11-19T18:00:33+00:00",
+    "published": "2026-11-19T23:24:53+00:00",
     "engagement": 0,
-    "saved": "2026-11-19T21:04:37.976508+00:00"
+    "saved": "2026-11-20T11:35:59.013921+00:00"
+  },
+  {
+    "title": "Get started with Daybreak Blue",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Get started with Daybreak Blue &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-19T23:24:53+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T11:35:59.013921+00:00"
+  },
+  {
+    "title": "Bengaluru Attracts 36.3% of India’s Native AI Funding",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5",
+    "source": "JournalArta",
+    "kind": "news",
+    "summary": " Bengaluru Attracts 36.3% of India’s Native AI Funding &nbsp;&nbsp; JournalArta ",
+    "country": "IN",
+    "published": "2026-11-20T05:43:25+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T11:35:59.013921+00:00"
+  },
+  {
+    "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5",
+    "source": "Business Standard",
+    "kind": "news",
+    "summary": " Indian space startup SatSure raises ₹60 crore from govt-backed space fund &nbsp;&nbsp; Business Standard ",
+    "country": "IN",
+    "published": "2026-11-20T06:54:19+00:00",
+    "engagement": 0,
+    "saved": "2026-11-20T11:35:59.013921+00:00"
   }
 ]

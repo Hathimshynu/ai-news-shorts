@@ -1,25 +1,5 @@
 [
   {
-    "title": "DeepSeek just open-sourced its inference engine",
-    "category": "AI Tools You Should Know",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Internal docs reveal how Google is shaking up its interview process with AI",
-    "category": "Breaking AI News",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "category": "AI Experiments",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "category": "AI Automation Tutorials",
-    "date": "2026-10-20"
-  },
-  {
     "title": "OpenAI acquires Orchestra Bio",
     "category": "Breaking AI News",
     "date": "2026-10-21"
@@ -573,5 +553,10 @@
     "title": "Introducing ChatGPT for Sales",
     "category": "New AI Features",
     "date": "2026-11-19"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "category": "Breaking AI News",
+    "date": "2026-11-20"
   }
 ]

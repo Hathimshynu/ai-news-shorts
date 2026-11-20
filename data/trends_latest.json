@@ -1,26 +1,11 @@
 {
-  "job_id": "2026-11-20-morning-0225",
-  "chosen": "Introducing ChatGPT for Sales",
-  "reason": "This official release from OpenAI introduces targeted sales automation capabilities that professionals and business owners can adopt immediately to supercharge workplace productivity.",
+  "job_id": "2026-11-20-evening-1701",
+  "chosen": "Advancing chip design with OpenAI models",
+  "reason": "It offers an inside look at how OpenAI models are revolutionizing semiconductor engineering and chip design, giving tech enthusiasts and engineers a glimpse into the future of hardware manufacturing.",
   "candidates": [
     {
-      "title": "Introducing ChatGPT for Sales",
-      "score": 26.52,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDNFTVZKSklFbVAtaUY3RXN3Nkg4aEtPcFMyLVhISGlsQWE3V3ZKMEg5RVdNQ3pzQ296bG5sRlpVRXlBTzd6UXdxWlNfT1BCcGxsdWRqelhoS0JPcEF3QzF0WEUyWlFGRGhtQmNOVTVlZ25wd29wNDBxY3FmZWgtRQ?oc=5",
-        "https://openai.com/index/introducing-chatgpt-for-sales",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDNFTVZKSklFbVAtaUY3RXN3Nkg4aEtPcFMyLVhISGlsQWE3V3ZKMEg5RVdNQ3pzQ296bG5sRlpVRXlBTzd6UXdxWlNfT1BCcGxsdWRqelhoS0JPcEF3QzF0WEUyWlFGRGhtQmNOVTVlZ25wd29wNDBxY3FmZWgtRQ?oc=5"
-      ]
-    },
-    {
       "title": "Advancing chip design with OpenAI models",
-      "score": 27.65,
+      "score": 25.17,
       "kinds": [
         "backlog",
         "news",
@@ -28,14 +13,14 @@
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQkNIZW5seHNKYThIaGxjczVBa2NGUG5UYjNwR0g2REc2UnlSZ3BONmxqeUx4d2ZMT01SWDZzU1dEZExxVHJmcXdia0t5aTF2SFgybWpQUy1WS2VENV92TENPeWZDRkU5MVFXN05CajEtV3lYNHlqNw?oc=5",
         "https://openai.com/index/advancing-chip-design-with-our-models",
         "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOblE0cGszVWwxVmpiVTE3MmJQVnVpOU85YWZ1WXRuM2RRY0R2VW1FcU9vMlBYLV9kQ0hfMW9iMHMwenM4aFRRZHNHOHdrcWszQ1VZamNCWHBsNC0xYTF4NWRxbzFIWHlGOFJKdUZYTEVtRVlqVzdXZHdpbHJMZnltTlllQ2QyMllZOTNNLWNkeDNpdFhOY0NWYVRuMWZXdURmellvQ3NtNUx6cDF2eXR6RnZhVUZJUmFBSG5GbS1lUENlenhaRmdzeDFnZzJxZks5WjVyRHp5MjItM19yT2pPYzZBVmpnN2lGOHRv?oc=5"
       ]
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "score": 28.02,
+      "score": 22.38,
       "kinds": [
         "backlog",
         "news",
@@ -44,118 +29,134 @@
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlZZQktlZzdORDFTUWt1MnM3OFRzb3QyR1c4bnFNbUg2WVU5eFZtN3hIV1FtUjJPY3dESFI2dTdkdTg2N0J6STFhVVFhSnFJLUhSQktKTzhiTGdiTFFMbFp2Um9FVXBMWENuaTNFRzRRdlFjOXZWSl9sZDNnTGI4RQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmktQ2JEUXFSZmVLaTl4WE9RLWJzRUtscEZXdnF1Q3B3LVFUTV9rSkFUVUppWXFIanQ3aGcxVTRBcGdJd1ZOdkgzYmVDTzJONW5PRExPeDNzWFp5T1FyUEFJQ05pZ19XQ2oyeEdMMkFoUlE1aDg1WUFTRkxyaUQ2cDV5T0dDeXBRa3ZkR0ktdDlDaVVXUlVLUEFfaWxveTJJWHdfNGVsSVdXekVSRGJmdGN1ODlEaGlULWtUOHRFODJIRVh5ckpCVEplUXFxb1FtNzE5MkNKLVN6YlhQSlNJUkN3ZzlBUQ?oc=5",
-        "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-      ]
-    },
-    {
-      "title": "Bengaluru emerges as second largest AI startup cluster in Asia",
-      "score": 22.33,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQam1WQTNRU2hidFF2eWNkX2Y4OEpLU0NWZFluZUo4enZoOGtudGh4ZmJ1SEdZdmhOdkUxWkxsLU9mbHJKcEhlRF9WYW9hbFhOZE56NWZKejFQQTFHSnl2LVNublVYMmVMa2NLYV9Rb3VOd1kyNnpTUkF5UTR3anVldWVtdFZtVW5qZ0RXWHJEeEN5WDhLU0lmQjVRbEFEekg3SDlTM2YwVnBwdWVyVVkxRHEyLXRFWXBFdEwxTkNza1VUZDjSAdABQVVfeXFMTnRCWHJZZDVxdnpzMTFLX216dk9oeE9Cem9ldWhVTlJUYzgtR1JUQnNTOFJDenpJTWVTRUNoX3ZPX3JZOFpXUVdIenJoUXQweGI0Rm4wWl96anR0cnhUZDNHSkh2Ni1jM3hWRzdTbFQyUWFXaEp5ODl1WlNWRVNjVURrWlYxd1duNmMyN0UzQVh5djBHdWNCWmc5OFJ1OUQ3ZU1GYWgzb3pyN3pTQnBoZFpQMnlRVEo5T0R0ejBOVmFZNjRreVBVaG9Fay1xbnZUUA?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXh4WFlyQlNJOERFWUlBWVdRUzJFYUhQaGl2Sm91Y3BCNmVmNnAtRFRwUWU5bHlWdDlJcjJ0WkNCaHZ2THBsYzZVOTdIUDg2ZTV1MEUzclJIdUF4d1A5MGlxc2tCRFQ0VW5EUXpBZlQtdXhvMC00cDJVY0dqLTlIX2pqWDAzX0FzTzI4RkdveW9mR0s1bWYtSlJKeGVoRzVYS19LaFBUOENxeEN6?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbE95eWNqbFNNeklZc1diMndVdXFXN3kyMEVvN05yNkpCQTh4RHhfd202Y2RtVDR6amFzelI5M3F5TkJMTEw2aGpCc3M0VGlsZ1NwZ2M4a0NsUUFTR1EtS0dXQzlVZzJhSlNQQ2wzaFV3VDNhMlJSalBlLXROYjNkS3U3MFhPbVB0WVBWNVI0VnZPc1VrS1lNSW9jcW5vclAtSDRFSTA2VDVLTXV5WkE?oc=5"
+        "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlZZQktlZzdORDFTUWt1MnM3OFRzb3QyR1c4bnFNbUg2WVU5eFZtN3hIV1FtUjJPY3dESFI2dTdkdTg2N0J6STFhVVFhSnFJLUhSQktKTzhiTGdiTFFMbFp2Um9FVXBMWENuaTNFRzRRdlFjOXZWSl9sZDNnTGI4RQ?oc=5"
       ]
     },
     {
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-      "score": 20.77,
+      "score": 19.12,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
         "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
       ]
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "title": "Explore the Codex Security Plugin",
       "score": 22.02,
       "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
-      ]
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "score": 21.64,
-      "kinds": [
-        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5",
-        "https://openai.com/business/customer-stories/sumitomo-life",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVzU3VTZGTGI0Tk1DamZuOFFOWUxqNm1fZEp0QUVnVUt0dkQ4ZWdleGdvcXVlYVZFMTRLV0otQXdpbGxqNDR1SWZYWFdSeEh5Zld6c0o1RXYyMTR6N3hlRnF6c1dNaDFEbjQw?oc=5"
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
+        "https://openai.com/business/learn/codex-security-plugin-demo"
       ]
     },
     {
-      "title": "Google will launch Android app verification requirement globally in January 2027",
-      "score": 23.41,
+      "title": "See PR scans in action",
+      "score": 21.97,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5",
+        "https://openai.com/business/learn/pr-scans-demo"
+      ]
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "score": 21.97,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
+        "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+      ]
+    },
+    {
+      "title": "Bengaluru Attracts 36.3% of India’s Native AI Funding",
+      "score": 19.34,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LZ0QzbzVuYzNla3BISlFGOFhfVnh1LTNHLXRiU1NZaERqeXdOVjY3VTZjdVI0cGJmdDZrUVd1WllRME9PN0hfTkctbXNmZ0hhTWk1bnROLW1xb0ZDV2s3NGNhQ1RpY2VQRGtxdGZwaTMtQTU5dVE?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1FsWEZxOEVLQ3JlRjZCcHhXRzlCN0Z0aFNpNW11ZlYzN0Q0ejFUTFJ4dFV3bFBkVUhvQ1ROZGh4RG9fNjBUb1dXTWsyT3E5SWRWSFRPbG1ndV9IM3BxSjZoQi1WaE9rdUxuWWs2bmRZTThzNjJtNVdLaTYtVnBKbkdJV1d3TDl2WnhYa21mR2tqX2FRUThfSTQ0eFlqUVNRRG9USk9BSTJMVmlxSlRTcEFTSjhZQURHQ2lPLUdR?oc=5"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmYySFBkZ2t3UzNtY0lrbms5UU1YWUp2U3lKLXlna0FnUzlma01xbnUyZVg5dmY0NjViT3FvTnBqZ010WmZoUXRZTDViZ05raHMwUlZid0l6UUlLN0tqS1NPcWd5WjVqYlktbHYxODkzdFlZN282MTF2MlNVbDNMQ3BRYmpNdDcxZzcyanc3TExGQTIyRGhWZjFR?oc=5"
       ]
     },
     {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "score": 20.02,
+      "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
+      "score": 21.46,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUN2b0w1OEh1N05Ed3VHVFNadHlyb3FiWkxaa3QzV3gwOVVxSnhSN2VLM1lXWjdHRDJQYngxYXpmeE9uYWZFOXdhTkJTUkRBZFl0X0V5UVJlOXhCSzQtcl9qMTc3b2NOZURUT0RhY2Mzd0QwMnZCcG5HbHJSMjNKd0hzZUNvWDh0d3JOdUx3Y21qdFNuanRqMFJaTVVnRDhyUGZyUkdxRjAyV0FMNm1CdzZoZk5OMVpQMmloYXBjUXJya0d3VjUtUDlYLXZEeWx1TWfSAdcBQVVfeXFMUGlKYU5ncU5xZjBDSmtTYl85VVVGeG5JN29DYmUtc2JZZHNVaC1BYlFNSEpwMDFBOThJZ1Jsc2JCMlBGOGdQTFM4amhHZk1PQUxKai1UUU1XYXVlY3M5S1RmNGZ5VGJvWDducVZwOW5SNGFrR3Y4dW5PRWlGd3RxYWpvbzN2dTFmek4tZ0lNVlpWNFh1ZnRMcEp0T3BOWTVxRHFJME9QU01ZRGh3TzJJTm53U3V6X0lTbm9BTXFFWU9YSlQ5VVlJQ2xHUmcxYkFqb1BvSHZaOHc?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmtnVWU3NUE1dXJGVXQzSjRKbjVyQmRrY2UyaTdnYmVoQmlIR2NlSUxITkZ4NkpkNVhsR0hDRGhwWWxnZGpidDZCdHo2ZkJSb2VTSEpBX2diZ0VERE1BcExIRzBUU1dCTTR5TjdlYkxfSW95d0RkazRjWnl1STZfOHlZUi1qNkVYbXFDMVhMM3JSX2licXFyMlllN2MtUDcwcC1veER5Yw?oc=5"
       ]
     },
     {
-      "title": "Enterprise Live Migrations from Azure DevOps generally available",
-      "score": 20.48,
+      "title": "LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go",
+      "score": 21.08,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available"
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWncyejNWMDgwWjZiNldkaDhack1zWjN4b0hUR2dUOF9PdGRFWHpDOWlFMjBvZUlqYTVMekJLcGVqZHplUURyYzdEWTRQY2xIWGpHb2doOGZEMzVu?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGxSVHN1Z1YwWjZpRy0tdF9UN3cxd1NRYnN2WUZoVkNnbGswODJ4VXNibE5PbVZuTEc0bUdOeDFHLW5nMXhJVFFhOTBvZnZ0dmJuQ3hYRDRFVW03elFvYnNxQVctR2pmc1FTekpRZ2NPcFE3aDNkdk83TEF3eHB3TS1KclNtMnVjT2o2TWtEZDF6NFl0dUpWQWs2V0k?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDJDbmc3ZEE3d2V2em8zeHlOUlFydDUwb3dFSnlRYkJIMWpHa0c0VlVkVU1JOHZXX0xiTTB1V0dDSGxhVVhaUDZjT19hcUZPMkZXblRqUkZ4OTRNLVBENmNpVks2NG43OE1FR01jenNyU0dYZTNtU3NTbThSN1VEQk5sQnRFTHgyMmJzX3RiUlJiSW5KbUxZTWk3ci1zSGJnRFFFYzZUVWFkX1BrdGl4Umt1MXNYeU9TQlhtRVhKVV9mYTTSAcgBQVVfeXFMUHFHWDFwblYtV0c3MkttRnhHbC1yWmd6VHdBZFRKdjZhSFZDdnoyS3gwUEdXamNjMVRrMGRPbVFid3Zic0lUMWZHekp6QnhNd1AyUjV4VHNqQ0hoc09ocEdyOGhmcV9BVGpFVWQ5OVF1YW0wMlkyQWRJRHBfTGJ6MHN1YTNfNnJTMnFHNE1KODZaLUNlWFU4d0FDcEpJeXdPQm54LWNOMi13QzgwR0RiYzhqNHpEdGJ1OHlfWWJCbl9obEpqSDZQR2o?oc=5"
       ]
     },
     {
-      "title": "Red Hat Enterprise Linux runner images now generally available",
-      "score": 20.47,
+      "title": "India's AI-free appeal draws record foreign buying, earnings will decide if it lasts",
+      "score": 19.04,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWpFa2pUMWZ4TDk0aHBsTkt4dU55TnpUTTJoNnVWY2hXWXhLVUU4azItMld6MTZUb0VOcndnYmlUNjhhc2UyMHA1MmZPR0RaSllWdU9UN0lMYzNfMXV0VFYyQ0MzNnBUbFY3OFR1aFFRU3A1eExnQkZ5SWVJYi1JNHIzb0JyRm1Ub2hDUWVUZlhuTXRmS05aTkdPMFlORjFMSFNha1lKWHlvNlNlNWV3dHU2NTlWanhRVTZtWUpyN2hVQk8xYWhkYTVxZ1ZYLVZlVC0zQmQzd3kyUXVWOWNVU09LZ293d2Za?oc=5"
       ]
     },
     {
-      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-      "score": 19.27,
+      "title": "Paytm, Pine Labs, MobiKwik Shares Fall Up To 9% As UPI MDR Rollout Faces Fresh Delay",
+      "score": 19.64,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaklwdVg1c2d2VkEycEQyZExkYlFCZGJZc1U4WXc4TE1KNmhpWTBkWkNsNnowVms5b0tLZDJySDJDLWJfemt0bDJXOXdLOUFfV0hGUmxLYkNCcFFWNG50VFRsZDdWeC1Uc2ZITXYxNVNNbnhIVTlWeWl1QzM3ZVZVQVBjd1ZuUmhUR1U0TmszZTJUQmpwcXhOSjQ5MkZEUzEwSlJ2ZnI4cklVcVNrMjNYazJtcFcyV2E1cWZ0enh0dw?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3psR0FvZUVRUGlydC1MeHdISksyNjFldnBHYjdLR3lKanVYUDN5YndQck1rRDVCQlBSdzFoTnRaVFlzaDNtX2daalo4ZHViQTBlQmRqMDlROWNUeTdBQVRscVlVWmtwdVhmVDczOWV2NFVjMWEwel82UndDZmRFN3VncXlkc0lLY2tmeThMak1EbG1YcnJfOE130gGnAUFVX3lxTE5zcURKcjJUcVhQc1Y5UWNNR2lCMmtsc0ZxX0ctd3JnSXBEb2YzOUY0cWhYekx3b01LTXFyUXlmMTVFY2ljbDVPT0M2T01zU2N2Ny1fRWtEMDBuLUJUNUxIbHhaZ3BCQlMteWdnY2ozZ2tXNzlFSm5ucXNmSzhPTnk2UFp1TXhsQzl2LTJzU0FyR0xOSlgwY1NpcHQzdFBTY3M2eE92SGFr?oc=5"
+      ]
+    },
+    {
+      "title": "E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5% as AI concerns overshadow Anthropic debut- Moneycontrol.com",
+      "score": 19.14,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYU1GVHNFZ0pDWjJZWVR0UU5xV0xLYUFrNkR3MkhLMDY2S2ExSWFaRE9SWU5yQVlHVG90ZGpEOHJVMmhjbTdac2kxUlZ1TExGVVotWFNfb3VwZjVLZTd5Z1pEeXVSUkczTm5uQVlETG5udzNhaFE5ZTVpUFNORTZWMVNCMTl2Ul9LUHRDdjRKLWZzUlFHcllCTllpWDZRdGY1LVpTNHd3ZGluT2dtQjJxMzZHVEdlWHoz?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ0J6aWwwTDRrQzZzLVQtYk9zR0RabjYtYktvZURJRldPZmdkM3FoMG1wRkJLSjhtWEtOSE1INWFycEZBOGtRYXhfSnhDcHF3ZGNwYThmbXktc3NGSWNQUEZzR0E5dWVIT1dBelpRNTA2M0RJd19jQXB6R0VQMUVUVG5DMEppRDNGQjRjd09XbHZHNUpBYzQ5ODFSSGk3alYycHI4dG9VcDJ4c09iR0RQd3h2b3l0ZWpQU3o3YWZjdTRYbkdzeXQ2VGZtcUZ0Wkl2QnB0VHpMMUs2b3dvT1ZkcEYzY09UM01qNXhtNWpWU2ppRWQtQUxEbzVyNkZjdTZpTXQ4S3ZTck7SAY4CQVVfeXFMT3Vfd2pEaUYzQ2p1LXpSNFdydE5CTFU2QTVieEo3ZG5jd3VGUTA2YkozeE16Yk9xZllCTFB6RkNVQms1cFNUOUt3ZUlVdklFTGQ3REdSMWw3a0R0Y0IyT213RWFkcWdSazl3T2syTUUwLWkzN1NqLV9fUTFmU0s0MlUxOEhITTdfOXFqVGFBZXhySmRfT0pKV3E2YTF5aDJMakFJTHNQdDFnaTRXR1Btb0ZnN1lEdm1mdVU0Xy1lMVk5VXcwejF1bzJhcldfRWhwN0stYXhnSUhZaDN2eHYwQ0Vtay1Hckw0bHdMTW9BcmJZZmJqUURLNEpYSGNDZE9aXzJtb1c2anUybVcyRjlR?oc=5"
       ]
     }
   ]
