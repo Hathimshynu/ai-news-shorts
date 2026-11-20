@@ -1,53 +1,65 @@
 {
-  "job_id": "2026-11-20-evening-1802",
-  "chosen": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-  "reason": "It offers an exciting look at how developers are using frontier AI agents to build real-time 3D simulations in NVIDIA Omniverse.",
+  "job_id": "2026-11-21-morning-0043",
+  "chosen": "LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go",
+  "reason": "LAVA's new ultra-budget phone packs a massive 7000mAh battery and durable build, offering high interest and practical value for Indian tech consumers.",
   "candidates": [
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "score": 26.62,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ScVotSFNubUFsUXphSFVPNWQ0UFNoaUlKOFpwejZ2UVh5LWRiUDB3emFhaGZKT0pPSWF3ejMxdnQwZ1JTbFktcGoycTdUNXluZnlpUENvYndkcktiS2xWcFFUVzdNZ0FXQjJHSGRlTDRWbE80ZEY3dFNRdw?oc=5",
-        "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
-      ]
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "score": 22.12,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlZZQktlZzdORDFTUWt1MnM3OFRzb3QyR1c4bnFNbUg2WVU5eFZtN3hIV1FtUjJPY3dESFI2dTdkdTg2N0J6STFhVVFhSnFJLUhSQktKTzhiTGdiTFFMbFp2Um9FVXBMWENuaTNFRzRRdlFjOXZWSl9sZDNnTGI4RQ?oc=5",
-        "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlZZQktlZzdORDFTUWt1MnM3OFRzb3QyR1c4bnFNbUg2WVU5eFZtN3hIV1FtUjJPY3dESFI2dTdkdTg2N0J6STFhVVFhSnFJLUhSQktKTzhiTGdiTFFMbFp2Um9FVXBMWENuaTNFRzRRdlFjOXZWSl9sZDNnTGI4RQ?oc=5"
-      ]
-    },
-    {
-      "title": "Bengaluru Attracts 36.3% of India’s Native AI Funding",
-      "score": 21.09,
+      "title": "LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go",
+      "score": 28.36,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmYySFBkZ2t3UzNtY0lrbms5UU1YWUp2U3lKLXlna0FnUzlma01xbnUyZVg5dmY0NjViT3FvTnBqZ010WmZoUXRZTDViZ05raHMwUlZid0l6UUlLN0tqS1NPcWd5WjVqYlktbHYxODkzdFlZN282MTF2MlNVbDNMQ3BRYmpNdDcxZzcyanc3TExGQTIyRGhWZjFR?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmczWkN3RXNkZzJUcFA1djJrUHBLNDdHVlQ4ZnBxQW5udDhfRjVoRC1ybDV6V21kaE9MLTlGbEtKcmtZRlNFVmotblpOaDFCMmYwVFFNZVZXSDVIMzMzejZZbjVzS2syeWpySzBaZlhRWUNtTm9JNkNJN016V1I2YjNwcjVzUW1a?oc=5"
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWncyejNWMDgwWjZiNldkaDhack1zWjN4b0hUR2dUOF9PdGRFWHpDOWlFMjBvZUlqYTVMekJLcGVqZHplUURyYzdEWTRQY2xIWGpHb2doOGZEMzVu?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMEdlRW5GRXJQT3h0NlRBOEROOTNISWM3bDZueXRYWHhVLU9zMHZodFRneHpGdkt1YUJOM0Ixcm5XbHFpM1hhaEk1bW5DNllOb0NvdVQ2eTJ5LWNYdmRQdFd3TlhuQ21ISFpCTk5rRkw2aFM4M3BfQVo1VE9NWkkzYkswUEl3QWZXNlM40gGQAUFVX3lxTE9lZEU3QUhnWWlsbVlJQmU4dnpwR2t2SlZ3RVdVbV9mTjZFSExXN0FzNUJoQUkwcXJCRUROdWNlVWN1NDYwc3NzVWZGYkNlUlA2bFNrNEhyeUZjV0k0dHRkUld3U1BXYWg5TGdxVWtCRDRZUmlhZlY0MWZGTzQ1WklQUFh4Q1NtNFlzX2V2a3N0Tg?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGxSVHN1Z1YwWjZpRy0tdF9UN3cxd1NRYnN2WUZoVkNnbGswODJ4VXNibE5PbVZuTEc0bUdOeDFHLW5nMXhJVFFhOTBvZnZ0dmJuQ3hYRDRFVW03elFvYnNxQVctR2pmc1FTekpRZ2NPcFE3aDNkdk83TEF3eHB3TS1KclNtMnVjT2o2TWtEZDF6NFl0dUpWQWs2V0k?oc=5"
+      ]
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "score": 25.86,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHpvQ3NtSGt3T19aUU9jTlh1SXVnZzduT21CZF93b1V5SVBJTWkzWFBPcEMtRVBDNnFEVGI1Q3dfdEYwNHh6Z2RHQURpa2RJVEZDOEZTUnh6Z2RvOElVUF9JdXM1TS1VZ20yS240cHdXejVUZGtFRUNTMXJ4R3NZa2ZKZC1KVlFwUl9tWUtGSjQ?oc=5",
+        "https://openai.com/index/research-acceleration-jagged-frontier"
+      ]
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "score": 24.97,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5",
+        "https://openai.com/index/introducing-medchembench"
+      ]
+    },
+    {
+      "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
+      "score": 21.54,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUN2b0w1OEh1N05Ed3VHVFNadHlyb3FiWkxaa3QzV3gwOVVxSnhSN2VLM1lXWjdHRDJQYngxYXpmeE9uYWZFOXdhTkJTUkRBZFl0X0V5UVJlOXhCSzQtcl9qMTc3b2NOZURUT0RhY2Mzd0QwMnZCcG5HbHJSMjNKd0hzZUNvWDh0d3JOdUx3Y21qdFNuanRqMFJaTVVnRDhyUGZyUkdxRjAyV0FMNm1CdzZoZk5OMVpQMmloYXBjUXJya0d3VjUtUDlYLXZEeWx1TWfSAdcBQVVfeXFMUGlKYU5ncU5xZjBDSmtTYl85VVVGeG5JN29DYmUtc2JZZHNVaC1BYlFNSEpwMDFBOThJZ1Jsc2JCMlBGOGdQTFM4amhHZk1PQUxKai1UUU1XYXVlY3M5S1RmNGZ5VGJvWDducVZwOW5SNGFrR3Y4dW5PRWlGd3RxYWpvbzN2dTFmek4tZ0lNVlpWNFh1ZnRMcEp0T3BOWTVxRHFJME9QU01ZRGh3TzJJTm53U3V6X0lTbm9BTXFFWU9YSlQ5VVlJQ2xHUmcxYkFqb1BvSHZaOHc?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmtnVWU3NUE1dXJGVXQzSjRKbjVyQmRrY2UyaTdnYmVoQmlIR2NlSUxITkZ4NkpkNVhsR0hDRGhwWWxnZGpidDZCdHo2ZkJSb2VTSEpBX2diZ0VERE1BcExIRzBUU1dCTTR5TjdlYkxfSW95d0RkazRjWnl1STZfOHlZUi1qNkVYbXFDMVhMM3JSX2licXFyMlllN2MtUDcwcC1veER5Yw?oc=5"
       ]
     },
     {
       "title": "Explore the Codex Security Plugin",
-      "score": 23.76,
+      "score": 22.09,
       "kinds": [
         "backlog",
         "news",
@@ -61,8 +73,21 @@
       ]
     },
     {
+      "title": "One tiny optical sensor uses AI to pinpoint touch and measure movement",
+      "score": 19.78,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb3piT2NHMURES1RMSzJMaHltb2s4VWhCVFJfSnhDOVpqN19XUk1CWTFBNnZvNHI0MmVUSFIydHNJV1VtUllISE9yY0JwR04tOS1hel83dHFaZWhLUHRxb3VoRzdQdWxFUGx1TEdzMWs2dmlLRnUwd2paRXQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb3piT2NHMURES1RMSzJMaHltb2s4VWhCVFJfSnhDOVpqN19XUk1CWTFBNnZvNHI0MmVUSFIydHNJV1VtUllISE9yY0JwR04tOS1hel83dHFaZWhLUHRxb3VoRzdQdWxFUGx1TEdzMWs2dmlLRnUwd2paRXQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb3piT2NHMURES1RMSzJMaHltb2s4VWhCVFJfSnhDOVpqN19XUk1CWTFBNnZvNHI0MmVUSFIydHNJV1VtUllISE9yY0JwR04tOS1hel83dHFaZWhLUHRxb3VoRzdQdWxFUGx1TEdzMWs2dmlLRnUwd2paRXQ?oc=5"
+      ]
+    },
+    {
       "title": "See PR scans in action",
-      "score": 23.72,
+      "score": 22.05,
       "kinds": [
         "backlog",
         "news",
@@ -77,7 +102,7 @@
     },
     {
       "title": "Get started with Daybreak Blue",
-      "score": 23.72,
+      "score": 22.05,
       "kinds": [
         "backlog",
         "news",
@@ -91,79 +116,55 @@
       ]
     },
     {
-      "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
-      "score": 23.21,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUN2b0w1OEh1N05Ed3VHVFNadHlyb3FiWkxaa3QzV3gwOVVxSnhSN2VLM1lXWjdHRDJQYngxYXpmeE9uYWZFOXdhTkJTUkRBZFl0X0V5UVJlOXhCSzQtcl9qMTc3b2NOZURUT0RhY2Mzd0QwMnZCcG5HbHJSMjNKd0hzZUNvWDh0d3JOdUx3Y21qdFNuanRqMFJaTVVnRDhyUGZyUkdxRjAyV0FMNm1CdzZoZk5OMVpQMmloYXBjUXJya0d3VjUtUDlYLXZEeWx1TWfSAdcBQVVfeXFMUGlKYU5ncU5xZjBDSmtTYl85VVVGeG5JN29DYmUtc2JZZHNVaC1BYlFNSEpwMDFBOThJZ1Jsc2JCMlBGOGdQTFM4amhHZk1PQUxKai1UUU1XYXVlY3M5S1RmNGZ5VGJvWDducVZwOW5SNGFrR3Y4dW5PRWlGd3RxYWpvbzN2dTFmek4tZ0lNVlpWNFh1ZnRMcEp0T3BOWTVxRHFJME9QU01ZRGh3TzJJTm53U3V6X0lTbm9BTXFFWU9YSlQ5VVlJQ2xHUmcxYkFqb1BvSHZaOHc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmtnVWU3NUE1dXJGVXQzSjRKbjVyQmRrY2UyaTdnYmVoQmlIR2NlSUxITkZ4NkpkNVhsR0hDRGhwWWxnZGpidDZCdHo2ZkJSb2VTSEpBX2diZ0VERE1BcExIRzBUU1dCTTR5TjdlYkxfSW95d0RkazRjWnl1STZfOHlZUi1qNkVYbXFDMVhMM3JSX2licXFyMlllN2MtUDcwcC1veER5Yw?oc=5"
-      ]
-    },
-    {
-      "title": "LAVA Smart 4 Pro launched in India at ₹10,999 with 7000mAh battery, military-grade durability, and Android 16 Go",
-      "score": 23.84,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWncyejNWMDgwWjZiNldkaDhack1zWjN4b0hUR2dUOF9PdGRFWHpDOWlFMjBvZUlqYTVMekJLcGVqZHplUURyYzdEWTRQY2xIWGpHb2doOGZEMzVu?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGxSVHN1Z1YwWjZpRy0tdF9UN3cxd1NRYnN2WUZoVkNnbGswODJ4VXNibE5PbVZuTEc0bUdOeDFHLW5nMXhJVFFhOTBvZnZ0dmJuQ3hYRDRFVW03elFvYnNxQVctR2pmc1FTekpRZ2NPcFE3aDNkdk83TEF3eHB3TS1KclNtMnVjT2o2TWtEZDF6NFl0dUpWQWs2V0k?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDJDbmc3ZEE3d2V2em8zeHlOUlFydDUwb3dFSnlRYkJIMWpHa0c0VlVkVU1JOHZXX0xiTTB1V0dDSGxhVVhaUDZjT19hcUZPMkZXblRqUkZ4OTRNLVBENmNpVks2NG43OE1FR01jenNyU0dYZTNtU3NTbThSN1VEQk5sQnRFTHgyMmJzX3RiUlJiSW5KbUxZTWk3ci1zSGJnRFFFYzZUVWFkX1BrdGl4Umt1MXNYeU9TQlhtRVhKVV9mYTTSAcgBQVVfeXFMUHFHWDFwblYtV0c3MkttRnhHbC1yWmd6VHdBZFRKdjZhSFZDdnoyS3gwUEdXamNjMVRrMGRPbVFid3Zic0lUMWZHekp6QnhNd1AyUjV4VHNqQ0hoc09ocEdyOGhmcV9BVGpFVWQ5OVF1YW0wMlkyQWRJRHBfTGJ6MHN1YTNfNnJTMnFHNE1KODZaLUNlWFU4d0FDcEpJeXdPQm54LWNOMi13QzgwR0RiYzhqNHpEdGJ1OHlfWWJCbl9obEpqSDZQR2o?oc=5"
-      ]
-    },
-    {
-      "title": "E2E Networks, Hitachi Energy India, other AI-related stocks fall up to 5% as AI concerns overshadow Anthropic debut- Moneycontrol.com",
-      "score": 18.89,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYU1GVHNFZ0pDWjJZWVR0UU5xV0xLYUFrNkR3MkhLMDY2S2ExSWFaRE9SWU5yQVlHVG90ZGpEOHJVMmhjbTdac2kxUlZ1TExGVVotWFNfb3VwZjVLZTd5Z1pEeXVSUkczTm5uQVlETG5udzNhaFE5ZTVpUFNORTZWMVNCMTl2Ul9LUHRDdjRKLWZzUlFHcllCTllpWDZRdGY1LVpTNHd3ZGluT2dtQjJxMzZHVEdlWHoz?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ0J6aWwwTDRrQzZzLVQtYk9zR0RabjYtYktvZURJRldPZmdkM3FoMG1wRkJLSjhtWEtOSE1INWFycEZBOGtRYXhfSnhDcHF3ZGNwYThmbXktc3NGSWNQUEZzR0E5dWVIT1dBelpRNTA2M0RJd19jQXB6R0VQMUVUVG5DMEppRDNGQjRjd09XbHZHNUpBYzQ5ODFSSGk3alYycHI4dG9VcDJ4c09iR0RQd3h2b3l0ZWpQU3o3YWZjdTRYbkdzeXQ2VGZtcUZ0Wkl2QnB0VHpMMUs2b3dvT1ZkcEYzY09UM01qNXhtNWpWU2ppRWQtQUxEbzVyNkZjdTZpTXQ4S3ZTck7SAY4CQVVfeXFMT3Vfd2pEaUYzQ2p1LXpSNFdydE5CTFU2QTVieEo3ZG5jd3VGUTA2YkozeE16Yk9xZllCTFB6RkNVQms1cFNUOUt3ZUlVdklFTGQ3REdSMWw3a0R0Y0IyT213RWFkcWdSazl3T2syTUUwLWkzN1NqLV9fUTFmU0s0MlUxOEhITTdfOXFqVGFBZXhySmRfT0pKV3E2YTF5aDJMakFJTHNQdDFnaTRXR1Btb0ZnN1lEdm1mdVU0Xy1lMVk5VXcwejF1bzJhcldfRWhwN0stYXhnSUhZaDN2eHYwQ0Vtay1Hckw0bHdMTW9BcmJZZmJqUURLNEpYSGNDZE9aXzJtb1c2anUybVcyRjlR?oc=5"
-      ]
-    },
-    {
-      "title": "Paytm, Pine Labs, MobiKwik Shares Fall Up To 9% As UPI MDR Rollout Faces Fresh Delay",
-      "score": 19.39,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaklwdVg1c2d2VkEycEQyZExkYlFCZGJZc1U4WXc4TE1KNmhpWTBkWkNsNnowVms5b0tLZDJySDJDLWJfemt0bDJXOXdLOUFfV0hGUmxLYkNCcFFWNG50VFRsZDdWeC1Uc2ZITXYxNVNNbnhIVTlWeWl1QzM3ZVZVQVBjd1ZuUmhUR1U0TmszZTJUQmpwcXhOSjQ5MkZEUzEwSlJ2ZnI4cklVcVNrMjNYazJtcFcyV2E1cWZ0enh0dw?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3psR0FvZUVRUGlydC1MeHdISksyNjFldnBHYjdLR3lKanVYUDN5YndQck1rRDVCQlBSdzFoTnRaVFlzaDNtX2daalo4ZHViQTBlQmRqMDlROWNUeTdBQVRscVlVWmtwdVhmVDczOWV2NFVjMWEwel82UndDZmRFN3VncXlkc0lLY2tmeThMak1EbG1YcnJfOE130gGnAUFVX3lxTE5zcURKcjJUcVhQc1Y5UWNNR2lCMmtsc0ZxX0ctd3JnSXBEb2YzOUY0cWhYekx3b01LTXFyUXlmMTVFY2ljbDVPT0M2T01zU2N2Ny1fRWtEMDBuLUJUNUxIbHhaZ3BCQlMteWdnY2ozZ2tXNzlFSm5ucXNmSzhPTnk2UFp1TXhsQzl2LTJzU0FyR0xOSlgwY1NpcHQzdFBTY3M2eE92SGFr?oc=5"
-      ]
-    },
-    {
       "title": "Gaganyaan mission delayed again: First uncrewed launch unlikely before February 2027",
-      "score": 19.74,
+      "score": 20.07,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVGg5UzVWY0Y1TzN2cWtUTlBiYVo4SWtLQXdvWkQ5RzFjX1hQcjZtazBXU0Rra1VPS19Ia1VDcmlNc3l0WEp3MnVqeGdjV2JsZ2JVSHZhbUJtSmNJcGtLMmp3emhrendiR01BU3pXT1JkR3NwRy1qQVZOS18tME5QZUVLQUdTelU3SF9McjU5dElkNjFGV0RrN1hQSjZjYUJHRnBDaERoVUJFOHZMQUtqWXVqYVl2ODNfaDJwWmx4NjBhV1EySklqZEttcnl2Q3VsMmxBLXVR0gHbAUFVX3lxTFA5NVVNWXctVmMwV2cyZE1GVDNudlZLaUU4ZjRIM0t4WG85b3E5U0ZrM2NKM05GWnVaU0ZDdFRXSWE1V2ZWMzN5MFhGOGdaeGV3ZlRNNW5Zb3JTdEx3YS1qWFR4UjBzdy1HNURzWlZRVnJvbVZsV2RDekZtcmE3UXNla3BJaFA4dVo1TTZJWHlxOXVlMTFSUF9tWHAweDM2dGw2Ym9zNjVqLXhrcU4tbEtTMDJHZEVjdVNSQk1hQW4yWk1XVHNiQlF5b3BmS2FSVERvLW8wdVNDYl9XRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGFKTm02OXRIcnE2QXJ1RW5ReWpIaEl1OFN1OTdmMUFaWmRRcWtYQXRmTWw5YlF2M2p1d3haTVByYVNQcnFKZ19uTU8wV25xQTRRa1RQSTlOUmxUaHNMbEtqYndiZmRGZUVPUzNmZ3JkaXZudF9yX2dEYkkzWHhPcXZZcUd1N1NLSUMxbUZodmxEQjRqd2U0RWdYeldDNG1sVllMcy1Rdnk2c29DRkhZNlFpeExuTmJDbkE?oc=5",
         "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXlYOElORS1US1hDT2JORTRsWXE5VmFHVFpiWDJMZGNLZUQ5UlRJQVVCdUtYNzlfZlE5WTY5dkpDT3lZNFZqcXRvazA2UFo1R1hzVHd1VS13cjQ0NzR5VlRPYUg3cml4YlNfNnY4M1pvd1dxVmt3YWtJdGJfQ0pnQkczU2ZURmlmUEVfN2RSZkRwb1ZmMjR2Nms1WDF1eEJrXzJDSW1wcko2UWFlc05KZ0pJRHgxcWxENWhkUjZJSndWYTBzcnNuUWpsaHR1TnhGOEHSAdcBQVVfeXFMTjBZWGl4MHZXRFdNUEtJUFU5cjZVNklVdVJibzliWmZXU0ptOVJtalRlLWZsekoxeWlfbXVHRGlQT3JJYi1DMVk2X2FGQTNkcE5IYm1qU09TM09mRHYtNFBrTE1raXpMU21IejBfMEw3ckxlTmtMTkZHZ3dnQUluOUprTUpsZ2lyXzJGdXlfMDJMLWdvaklPeVU3QVNNbnlXT2s4SndEYVA2ZUFDdWtWdVl2dFdfeFJTSThXRDdZTV9PZjJqOHpycmlKamxSYmZwWEVOUFoyZ28?oc=5"
       ]
     },
     {
-      "title": "White House replaces cyber security chief after tech outages",
-      "score": 19.91,
+      "title": "White House replaces top cybersecurity official after string of outages",
+      "score": 21.69,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG9pdkpleWhNb3dnVnhuckEyQXVHaEtzVHZqOEtFY1JXbnNzdkF3VDNHdktWVUtUQURpMmJ2STdVdEFDSXd0U3FmSGVMZVplM3lTcWxkNGdvckZqeGQwMEZEUDZGaXVSSE1YOHlobFNjOFlKSU0yZ2JTOGE1bjlqVW1zb2ZtR3ZSUVFnSXRoVFp3NDhNd045RNIBmAFBVV95cUxOcGZkcGRHV1R0VXhHS0lTQ0VmazRCc2VFUE1nX09tQnZ3YkEzQUFPTmNuTDBROUZleGp0UVk3eGRhOEtJM19ybmZSSmVHQUxUUEc0YkhfUWxlcE1NSWMwaVFnWF9kSF96R2VsYkNnUzBZU0xmWDlvTTR5QTZ0WTFodjY2cTU2R290TXBuNjRLQWRfdmgwQ29LRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWp5bnBiS09FbW1LU3VWZUZHajlzNHVvdU9KNUtLQnJTZjVtOGlXWWhSUXUzS2ZfSnlQTENUWjFxWE1mbGJFR3U5ZGh5ZDdYTWo3Q0JQN1dnZnl6bnY1eUV6YTZDZ1czUlJsWHpsNFBmRmx5ZVNMVEJUQUtlY0hQRm8yVjU0b3dvQWM1TUpqUWlBSko4LURKcXI0ZEZUdmNmdENlYzVPUUdhQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXpPeElpT0o4VnEyZks3dkdGV0tVYVhHd2l2NWJnZkdMbGJTZXBsUVl6SkllQlVHVFBYMVF6NjBuTmxCUlc0cVZwcVhpMUdUbm1mZmg4SkJHTE9PX0NDNEd0YjlGRThwUkt5cTNib0FadWczZWlBZ25Ra3hiUE1aWlBqRDA2ZldRTGlhdkRJVzVGTVlYNzhHSW0tdXJIM2VsMmV4d1JHbXlEUWs?oc=5"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXZiRkpITUY2TEhZdU1kV1dRSk9VMS10d0U4eWV0YXAxb3NCN3ozdlItSHlWNU5iYklmQlJqRlhNd1JZMjNFM09zQVhlVTg3QlQwYlRpT3lWaHVDZ3BMNkJDRVpBa2YyeGhvdXRQa3JkUXl5a0J3RFZSZWZHZFNGTDFZeERKZ0ZDRHdhR0lYSEN4bWgzYTZWcnJmcWQ5amc?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG9pdkpleWhNb3dnVnhuckEyQXVHaEtzVHZqOEtFY1JXbnNzdkF3VDNHdktWVUtUQURpMmJ2STdVdEFDSXd0U3FmSGVMZVplM3lTcWxkNGdvckZqeGQwMEZEUDZGaXVSSE1YOHlobFNjOFlKSU0yZ2JTOGE1bjlqVW1zb2ZtR3ZSUVFnSXRoVFp3NDhNd045RNIBmAFBVV95cUxOcGZkcGRHV1R0VXhHS0lTQ0VmazRCc2VFUE1nX09tQnZ3YkEzQUFPTmNuTDBROUZleGp0UVk3eGRhOEtJM19ybmZSSmVHQUxUUEc0YkhfUWxlcE1NSWMwaVFnWF9kSF96R2VsYkNnUzBZU0xmWDlvTTR5QTZ0WTFodjY2cTU2R290TXBuNjRLQWRfdmgwQ29LRQ?oc=5"
+      ]
+    },
+    {
+      "title": "'I'm just battling with myself' - Jitesh Sharma on his road back to India",
+      "score": 23.78,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGZpeDBnNVByYlQwM09nWjB3YUhTcW50dmVSdklqcXlhX1hwNG1talZ0UlZCOVN3ZktGaEdqZUhESlQwR3BXa1oyRGRpMC0tRWpGNVhMVTBNdEMtNHhfeS1oenQzOFlmckdac3RrR096UjR0VnlfdUUyTWxqSnRQeFNSMk9GUE9yTUxxMXdLUGdZTTZqRzhiZlRGLW9oSjNrZ18zVg?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGZpeDBnNVByYlQwM09nWjB3YUhTcW50dmVSdklqcXlhX1hwNG1talZ0UlZCOVN3ZktGaEdqZUhESlQwR3BXa1oyRGRpMC0tRWpGNVhMVTBNdEMtNHhfeS1oenQzOFlmckdac3RrR096UjR0VnlfdUUyTWxqSnRQeFNSMk9GUE9yTUxxMXdLUGdZTTZqRzhiZlRGLW9oSjNrZ18zVg?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGZpeDBnNVByYlQwM09nWjB3YUhTcW50dmVSdklqcXlhX1hwNG1talZ0UlZCOVN3ZktGaEdqZUhESlQwR3BXa1oyRGRpMC0tRWpGNVhMVTBNdEMtNHhfeS1oenQzOFlmckdac3RrR096UjR0VnlfdUUyTWxqSnRQeFNSMk9GUE9yTUxxMXdLUGdZTTZqRzhiZlRGLW9oSjNrZ18zVg?oc=5"
+      ]
+    },
+    {
+      "title": "Celebrate the year with every Pokémon from Community Days in 2026!",
+      "score": 19.74,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTnJINVg1YWhGaWVPeFNrem9sbVItblp6MkczbGVqcDlCUHBGdC14Z1NSekRIZnFEemNLblJQN3UwZTBzMmxHWUZkMXh5Rjk0eTFMWFk2VWs2a1ZGbTdYV0NsUVY?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTnJINVg1YWhGaWVPeFNrem9sbVItblp6MkczbGVqcDlCUHBGdC14Z1NSekRIZnFEemNLblJQN3UwZTBzMmxHWUZkMXh5Rjk0eTFMWFk2VWs2a1ZGbTdYV0NsUVY?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTnJINVg1YWhGaWVPeFNrem9sbVItblp6MkczbGVqcDlCUHBGdC14Z1NSekRIZnFEemNLblJQN3UwZTBzMmxHWUZkMXh5Rjk0eTFMWFk2VWs2a1ZGbTdYV0NsUVY?oc=5"
       ]
     }
   ]
