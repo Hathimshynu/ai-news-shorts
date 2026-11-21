@@ -1,11 +1,75 @@
 {
-  "job_id": "2026-11-21-morning-0211",
-  "chosen": "Research acceleration: The jagged frontier",
-  "reason": "It offers fascinating insights into how AI is dramatically accelerating scientific research and expanding the frontier of human tech capabilities.",
+  "job_id": "2026-11-21-evening-1701",
+  "chosen": "Google announces USD 5 mn funding for IIT Kharagpur for advanced AI research",
+  "reason": "Google's $5 million grant to IIT Kharagpur for advanced AI research highlights major global tech investment in Indian academic talent and AI innovation.",
   "candidates": [
     {
-      "title": "Research acceleration: The jagged frontier",
-      "score": 27.5,
+      "title": "Google announces USD 5 mn funding for IIT Kharagpur for advanced AI research",
+      "score": 31.68,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG1HNkNaUUpTS1hVMTZxTldSc1BpaWxBZ2luN0ZlaEpvTG5ycnFJalJFVlB3XzExZzA4anVzTTVZd1czMnpQeGl6ZEc4MlZLSGxRNUwwekNnZjVWaHJBal9zQkR2eWwyMjg5THRBM1NISmxuNGd1akk1T29ISUlRU25SeV9mU2ZtRURxVGZqN3lxN0xnZ0RYX0xvb1k3dmdJdnk4SA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhDZ09lY2VGcWlpMXhtWHR2UWtXQVFpaEJoZzF4dmVPLTBNbzhacTIxX3Q1alhDOFpVRzEyMF9oUU9TWWtkbllYUVBVTHBlU2JldjRXNWowelNJN2tPS3U4UUZ0UlpwV1FUSGlqWjJ4Vi1IU2xQUGo2eXQ3WWVDUVhxWUxBWkFwM3pWMGR0azlZUGNlV2FXREVxa3VPNXhPZE4yMUx5VVJiSEk?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1Y1WjlRS1I0Z2VOR3hGSl81alhSbnVkQ05qLVhCMG1DMHlaNWV3d2d4aHRhRlR1b2JraEhqMVQ5bXNER1k2N2FXMEY4NWtoVnUxMDZYZTZzX0FzSlhDanFWTFpPbktxVHBVYjEyV1FpUVFRazBYNnVidUF0UTliNHpXek9SSGsyNGhWdTlVTDNiS3QyTjA5dDBHUDlPS0l4RU9MVERIUjhOOThGYjM1ZkdneWVKNTlONHY0aVNTMTfSAc4BQVVfeXFMT2RrYjVzYmNsazg5R19yOVo0WmlEOW5Id3RkTmQyTkV1Q3BnbVZjS0RhTGpUZkZtejZYejNlTnVJVVA3Q0VFSGs1UUxYdnBwZnVFcUEtcUQ4ZllnRDVDUS14d3VjQktwMDNKbURaSnBkdTFRVDhOanhtRlhXWDFSSWpKMVpsR1VlUUpXb3FpX3Q5b1YweXZXYnQ5YVpCaHh6LXNmeW1qM0toZHlTRW5VSVJ0eEVHQ3RWaFo1QjE0X0ZRcXBOTF9NbWxLekxXemc?oc=5"
+      ]
+    },
+    {
+      "title": "Indian Space Startup SatSure Raises Rs 60 Crore From Government-Backed Space Fund",
+      "score": 21.14,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG1ENk9lc0dnSzNrUGhUX2RRREFqSE5EYVJCQk56YXVCOUF0bFRnRVctZGRJQmFiQ0lMMTJWVmFYalZVX0o4TDEzc2oyQ3VQLW9wSmpMYkQ2Y3Nra0Q5ZXZUWTcxSXJoZnplaWdaMWhlRDk4UjFvSWs2Q05vR0Z4bTRXalZYakVzWVFramN4a1VsTXdFbF9YTlZTYk5FcWVFRUJtZ2pVRFI0OHVpZ2hUcEpCY05nVTB3V1lwMl9ueHRaSks1Vlg4Smp5RU1CV1dGSzc5OXRFSjc0RkxtVjZWR2lFNA?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5"
+      ]
+    },
+    {
+      "title": "Disseqt AI raises $8 million, plans India hiring",
+      "score": 19.86,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNUbnJUNzJHT2xLb3NweWJ3UFRubVotQ2R0OExVUXpmN1J0ZEN2Smptbi1kd3pTbUpwTXNFS1RoMnB0ZWlrbFRYbGJ6eGt0QVRTSkFjbG5obWRPQk5CU3owY09laFI5TEZzOEpsOVl2YlFySmNRYWI0UXdDQ0M1OEN2eUhWYXloVEp5bGNWLTZqcmtD?oc=5",
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSnUxdW42Vy1VVnozTGY2czdObTJXT1ZOYklyT0hJbHUxNURIcG1iSE9PSmhvYXo4WEFUajdBTDhHOENnemNHNGlzN1Y1ckI1aXQwRVpacU41azZ3d0JBRmNneUFpOWExM3p2Nndnd0swQ2hnZnlxWm5zdkdaZFJrbU9pQWY0NlFidmFYdDAzSkwzWlZobXFfSC1BekxfSjJtTlpGcDVDZ25iMVp0dWxBS01wOXV2QXFXcG5yMjdaSGl1Z2c3ZWhDcklCQ19rWExiSFBWVWpPZkszQXZBYmxMdUZLSklmNDZ2UjV0Vml1cXY5TnpWakduSzgzbUpZSXZZeURwREtMYjdyaUJsY21FRw?oc=5"
+      ]
+    },
+    {
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+      "score": 18.74,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVZuanM1d3lxQlFqczRIZ1dwTkx3ak81UGU4ODNWcDZ5b204SmdBN2V2UVl3UVVkVEZRN1RtUmV6UmhpOGpkNXU4TmxvX0hOSVJkdVk3dVhDVFhfSGRoTjZhdHRtRldJbmw4VXpZRlBLa01FZGtad1drdkJJRkp4LU90M3lrXzFNeFd5MQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTZyZzYwR1h0RktfQ2p0aXktb3pHS1BhZDA2MERHOC12cThQU241VUp1b0c2emgtclZVNFQxcDZsVGE3UzNaRjdlSUtpd1Y3eHR2Z2xHLUR1MVA2TWpCbzl2dDhGODBhZXNQa2Q2eTMxLXVXVTlqWTFzbzlmYTFOM3ZnNHF2RnZEbGlfWkdtVktLQy05?oc=5"
+      ]
+    },
+    {
+      "title": "13-year-old founder raises seed round for KIKA AI",
+      "score": 19.97,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlM4ZVFsN2EzUlcwQTZxMnF1dGN5dHhTdVRWdzdLZnkzZlhqbE5TM05QczY1dkgxSDc2ZFktV0NzRFd1NVl3SFN5bVdLSXVkSHVNT3U5NGV0ZUd2MDNhaE05Z3B1b3NWUXd6QUtMd2FfempzaHZBOGdiN0NYNVlSUTBSeHRuMDY5clgw?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5"
+      ]
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "score": 23.23,
       "kinds": [
         "backlog",
         "news",
@@ -13,14 +77,14 @@
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHpvQ3NtSGt3T19aUU9jTlh1SXVnZzduT21CZF93b1V5SVBJTWkzWFBPcEMtRVBDNnFEVGI1Q3dfdEYwNHh6Z2RHQURpa2RJVEZDOEZTUnh6Z2RvOElVUF9JdXM1TS1VZ20yS240cHdXejVUZGtFRUNTMXJ4R3NZa2ZKZC1KVlFwUl9tWUtGSjQ?oc=5",
-        "https://openai.com/index/research-acceleration-jagged-frontier",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHpvQ3NtSGt3T19aUU9jTlh1SXVnZzduT21CZF93b1V5SVBJTWkzWFBPcEMtRVBDNnFEVGI1Q3dfdEYwNHh6Z2RHQURpa2RJVEZDOEZTUnh6Z2RvOElVUF9JdXM1TS1VZ20yS240cHdXejVUZGtFRUNTMXJ4R3NZa2ZKZC1KVlFwUl9tWUtGSjQ?oc=5"
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
+        "https://openai.com/index/combatting-adversarial-distillation",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5"
       ]
     },
     {
       "title": "Can AI help scientists identify promising drug candidates?",
-      "score": 26.6,
+      "score": 22.89,
       "kinds": [
         "backlog",
         "news",
@@ -35,140 +99,67 @@
     },
     {
       "title": "Explore the Codex Security Plugin",
-      "score": 21.73,
+      "score": 19.0,
       "kinds": [
         "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
         "https://openai.com/business/learn/codex-security-plugin-demo",
         "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5"
       ]
     },
     {
-      "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
-      "score": 21.17,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUN2b0w1OEh1N05Ed3VHVFNadHlyb3FiWkxaa3QzV3gwOVVxSnhSN2VLM1lXWjdHRDJQYngxYXpmeE9uYWZFOXdhTkJTUkRBZFl0X0V5UVJlOXhCSzQtcl9qMTc3b2NOZURUT0RhY2Mzd0QwMnZCcG5HbHJSMjNKd0hzZUNvWDh0d3JOdUx3Y21qdFNuanRqMFJaTVVnRDhyUGZyUkdxRjAyV0FMNm1CdzZoZk5OMVpQMmloYXBjUXJya0d3VjUtUDlYLXZEeWx1TWfSAdcBQVVfeXFMUGlKYU5ncU5xZjBDSmtTYl85VVVGeG5JN29DYmUtc2JZZHNVaC1BYlFNSEpwMDFBOThJZ1Jsc2JCMlBGOGdQTFM4amhHZk1PQUxKai1UUU1XYXVlY3M5S1RmNGZ5VGJvWDducVZwOW5SNGFrR3Y4dW5PRWlGd3RxYWpvbzN2dTFmek4tZ0lNVlpWNFh1ZnRMcEp0T3BOWTVxRHFJME9QU01ZRGh3TzJJTm53U3V6X0lTbm9BTXFFWU9YSlQ5VVlJQ2xHUmcxYkFqb1BvSHZaOHc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmtnVWU3NUE1dXJGVXQzSjRKbjVyQmRrY2UyaTdnYmVoQmlIR2NlSUxITkZ4NkpkNVhsR0hDRGhwWWxnZGpidDZCdHo2ZkJSb2VTSEpBX2diZ0VERE1BcExIRzBUU1dCTTR5TjdlYkxfSW95d0RkazRjWnl1STZfOHlZUi1qNkVYbXFDMVhMM3JSX2licXFyMlllN2MtUDcwcC1veER5Yw?oc=5"
-      ]
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "score": 24.94,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
-        "https://openai.com/index/combatting-adversarial-distillation"
-      ]
-    },
-    {
-      "title": "OpenAI Introduces MedChemBench",
-      "score": 19.66,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUxQZU1lZG1UWFVwTTA3SzVfWlNPcTZvOVpNU0hZdnYta2JDcnNFTncya2o3dzU5SHFXRUE0Rl9mc3Z5NEdURlhvUEFnYnZJV2htRExFbG4wcmFFZG5ZNVAtdmlTRUFvZC1CQVh1UXJkeko4Nk4wT3hhRWswVmcwTTRrN192NDNPaFcyd3NJeklZMTd1VkRJbEU1MUUwa3ljUkE?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTFxS1RBZEZkcDJPa2VSam9KOU1DLWwtM3pEd015aWhOMmtXQ2xMdlltcXJneUVnZXNDRVBucG52bzd1N2U2UUoxbkZ6ZHlNMnhxdTJFSnpMSTRMUmhUR2ZqMUVfcE1mNGNTb005Z0ZvbzFzbkdWLTlyMnRvancxcTVPSEZZNk0?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdDA0UXV0WjQxUWNJWTNLLXFLU0xjemhmRlZXRHA3WXBDcW5vUktnb2RjZ2JSdUI4LTBLNWxNcnJXQks4bkwzQXE3ZzRzUHNzLWJEMHBKV0ZuN3pJYXBFbVF0TGpEOVlWdGZVUDhQN0NIdlVUc09pMEhpTVpMZURwVk1sem1JVGJuZkRKUk52dw?oc=5"
-      ]
-    },
-    {
       "title": "See PR scans in action",
-      "score": 21.68,
+      "score": 19.0,
       "kinds": [
         "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5",
         "https://openai.com/business/learn/pr-scans-demo",
         "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5"
       ]
     },
     {
       "title": "Get started with Daybreak Blue",
-      "score": 21.68,
+      "score": 19.0,
       "kinds": [
         "backlog",
-        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
         "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
         "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5"
       ]
     },
     {
-      "title": "One tiny optical sensor uses AI to pinpoint touch and measure movement",
-      "score": 19.41,
+      "title": "Teens want to play ‘Grand Theft Auto.’ Parents have a decision to make.",
+      "score": 19.89,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb3piT2NHMURES1RMSzJMaHltb2s4VWhCVFJfSnhDOVpqN19XUk1CWTFBNnZvNHI0MmVUSFIydHNJV1VtUllISE9yY0JwR04tOS1hel83dHFaZWhLUHRxb3VoRzdQdWxFUGx1TEdzMWs2dmlLRnUwd2paRXQ?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb3piT2NHMURES1RMSzJMaHltb2s4VWhCVFJfSnhDOVpqN19XUk1CWTFBNnZvNHI0MmVUSFIydHNJV1VtUllISE9yY0JwR04tOS1hel83dHFaZWhLUHRxb3VoRzdQdWxFUGx1TEdzMWs2dmlLRnUwd2paRXQ?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xb3piT2NHMURES1RMSzJMaHltb2s4VWhCVFJfSnhDOVpqN19XUk1CWTFBNnZvNHI0MmVUSFIydHNJV1VtUllISE9yY0JwR04tOS1hel83dHFaZWhLUHRxb3VoRzdQdWxFUGx1TEdzMWs2dmlLRnUwd2paRXQ?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5"
       ]
     },
     {
-      "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-      "score": 20.0,
-      "kinds": [
-        "community",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-        "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
-      ]
-    },
-    {
-      "title": "White House replaces top cybersecurity official after string of outages",
-      "score": 21.64,
+      "title": "Watch UEFA WCL Extended Highlights: OH Leuven v Arsenal FC",
+      "score": 18.04,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXZiRkpITUY2TEhZdU1kV1dRSk9VMS10d0U4eWV0YXAxb3NCN3ozdlItSHlWNU5iYklmQlJqRlhNd1JZMjNFM09zQVhlVTg3QlQwYlRpT3lWaHVDZ3BMNkJDRVpBa2YyeGhvdXRQa3JkUXl5a0J3RFZSZWZHZFNGTDFZeERKZ0ZDRHdhR0lYSEN4bWgzYTZWcnJmcWQ5amc?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG9pdkpleWhNb3dnVnhuckEyQXVHaEtzVHZqOEtFY1JXbnNzdkF3VDNHdktWVUtUQURpMmJ2STdVdEFDSXd0U3FmSGVMZVplM3lTcWxkNGdvckZqeGQwMEZEUDZGaXVSSE1YOHlobFNjOFlKSU0yZ2JTOGE1bjlqVW1zb2ZtR3ZSUVFnSXRoVFp3NDhNd045RNIBmAFBVV95cUxOcGZkcGRHV1R0VXhHS0lTQ0VmazRCc2VFUE1nX09tQnZ3YkEzQUFPTmNuTDBROUZleGp0UVk3eGRhOEtJM19ybmZSSmVHQUxUUEc0YkhfUWxlcE1NSWMwaVFnWF9kSF96R2VsYkNnUzBZU0xmWDlvTTR5QTZ0WTFodjY2cTU2R290TXBuNjRLQWRfdmgwQ29LRQ?oc=5"
-      ]
-    },
-    {
-      "title": "'I'm just battling with myself' - Jitesh Sharma on his road back to India",
-      "score": 21.41,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcW12LUUzQU9sV3dRZk9DTTdraFNMQVdXTWlwU0FWa29ENkJHXzJFS1Y5elQ5VFQ0VXppUjhNcnlqN3h5UFlFejZQY3drTVMwLVdQeTctdXUtclVhY3ZBcmI4Mzk5OWY4RERDWDNGVEJqZmRoR1B5WG5zRmM0T2lwZXdINFEwTnEyekcwb2hWVHE5U3hhMnZIREV1QlMzQjNNR0E?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcW12LUUzQU9sV3dRZk9DTTdraFNMQVdXTWlwU0FWa29ENkJHXzJFS1Y5elQ5VFQ0VXppUjhNcnlqN3h5UFlFejZQY3drTVMwLVdQeTctdXUtclVhY3ZBcmI4Mzk5OWY4RERDWDNGVEJqZmRoR1B5WG5zRmM0T2lwZXdINFEwTnEyekcwb2hWVHE5U3hhMnZIREV1QlMzQjNNR0E?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGZpeDBnNVByYlQwM09nWjB3YUhTcW50dmVSdklqcXlhX1hwNG1talZ0UlZCOVN3ZktGaEdqZUhESlQwR3BXa1oyRGRpMC0tRWpGNVhMVTBNdEMtNHhfeS1oenQzOFlmckdac3RrR096UjR0VnlfdUUyTWxqSnRQeFNSMk9GUE9yTUxxMXdLUGdZTTZqRzhiZlRGLW9oSjNrZ18zVg?oc=5"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEppYkJNS1NsMzVVX2FRTDJkSlVIWHlhcWZCTXlDaDBxd2JzVkJvd0dMUk1vYXBXT1l0d0ZQNDQyTVBqWG80Sy05Qk91cG1PQUtyTmktWFZyamdfUjZzMHhMZlVOSUEwVXlMeDlwMXBYX3lsc3NzQ2YxUm5mcE5lSl9UWlFtbnFjZXRz?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmxibUlRM1EzUEVqRjBlTDE4UFhFVHZkMXc3LURITXN4Y2J4Um5MdE9TbzFhaDVWX2pvOVBTUUttdUlNa0h6cGpuWmZUYU1BdnZyVnREOTZRbDl3T2hUbzljYXpGRFRIWnFuMm5wdldGTHNtWXlCMjZPWGdvSFE5dTlKT28wd1JtZS1r?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmxibUlRM1EzUEVqRjBlTDE4UFhFVHZkMXc3LURITXN4Y2J4Um5MdE9TbzFhaDVWX2pvOVBTUUttdUlNa0h6cGpuWmZUYU1BdnZyVnREOTZRbDl3T2hUbzljYXpGRFRIWnFuMm5wdldGTHNtWXlCMjZPWGdvSFE5dTlKT28wd1JtZS1r?oc=5"
       ]
     }
   ]

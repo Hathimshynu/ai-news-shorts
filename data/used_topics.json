@@ -1,25 +1,5 @@
 [
   {
-    "title": "OpenAI acquires Orchestra Bio",
-    "category": "Breaking AI News",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-    "category": "New AI Models",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "OpenAI models are coming to Google Cloud",
-    "category": "Breaking AI News",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "category": "AI Experiments",
-    "date": "2026-10-21"
-  },
-  {
     "title": "Anthropic launches Claude Duet AI agent to manage work in the background: Challenges OpenAI and Meta",
     "category": "New AI Features",
     "date": "2026-10-22"
@@ -573,5 +553,10 @@
     "title": "Research acceleration: The jagged frontier",
     "category": "Breaking AI News",
     "date": "2026-11-20"
+  },
+  {
+    "title": "Google announces USD 5 mn funding for IIT Kharagpur for advanced AI research",
+    "category": "Breaking AI News",
+    "date": "2026-11-21"
   }
 ]
