@@ -1,90 +1,22 @@
 {
-  "job_id": "2026-11-21-evening-1701",
-  "chosen": "Google announces USD 5 mn funding for IIT Kharagpur for advanced AI research",
-  "reason": "Google's $5 million grant to IIT Kharagpur for advanced AI research highlights major global tech investment in Indian academic talent and AI innovation.",
+  "job_id": "2026-11-21-evening-1801",
+  "chosen": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+  "reason": "The inference‑optimisation skill lets anyone speed up LLM serving on any hardware today, a practical tool that Indian developers can immediately use.",
   "candidates": [
     {
-      "title": "Google announces USD 5 mn funding for IIT Kharagpur for advanced AI research",
-      "score": 31.68,
+      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "score": 18.0,
       "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG1HNkNaUUpTS1hVMTZxTldSc1BpaWxBZ2luN0ZlaEpvTG5ycnFJalJFVlB3XzExZzA4anVzTTVZd1czMnpQeGl6ZEc4MlZLSGxRNUwwekNnZjVWaHJBal9zQkR2eWwyMjg5THRBM1NISmxuNGd1akk1T29ISUlRU25SeV9mU2ZtRURxVGZqN3lxN0xnZ0RYX0xvb1k3dmdJdnk4SA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhDZ09lY2VGcWlpMXhtWHR2UWtXQVFpaEJoZzF4dmVPLTBNbzhacTIxX3Q1alhDOFpVRzEyMF9oUU9TWWtkbllYUVBVTHBlU2JldjRXNWowelNJN2tPS3U4UUZ0UlpwV1FUSGlqWjJ4Vi1IU2xQUGo2eXQ3WWVDUVhxWUxBWkFwM3pWMGR0azlZUGNlV2FXREVxa3VPNXhPZE4yMUx5VVJiSEk?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1Y1WjlRS1I0Z2VOR3hGSl81alhSbnVkQ05qLVhCMG1DMHlaNWV3d2d4aHRhRlR1b2JraEhqMVQ5bXNER1k2N2FXMEY4NWtoVnUxMDZYZTZzX0FzSlhDanFWTFpPbktxVHBVYjEyV1FpUVFRazBYNnVidUF0UTliNHpXek9SSGsyNGhWdTlVTDNiS3QyTjA5dDBHUDlPS0l4RU9MVERIUjhOOThGYjM1ZkdneWVKNTlONHY0aVNTMTfSAc4BQVVfeXFMT2RrYjVzYmNsazg5R19yOVo0WmlEOW5Id3RkTmQyTkV1Q3BnbVZjS0RhTGpUZkZtejZYejNlTnVJVVA3Q0VFSGs1UUxYdnBwZnVFcUEtcUQ4ZllnRDVDUS14d3VjQktwMDNKbURaSnBkdTFRVDhOanhtRlhXWDFSSWpKMVpsR1VlUUpXb3FpX3Q5b1YweXZXYnQ5YVpCaHh6LXNmeW1qM0toZHlTRW5VSVJ0eEVHQ3RWaFo1QjE0X0ZRcXBOTF9NbWxLekxXemc?oc=5"
-      ]
-    },
-    {
-      "title": "Indian Space Startup SatSure Raises Rs 60 Crore From Government-Backed Space Fund",
-      "score": 21.14,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG1ENk9lc0dnSzNrUGhUX2RRREFqSE5EYVJCQk56YXVCOUF0bFRnRVctZGRJQmFiQ0lMMTJWVmFYalZVX0o4TDEzc2oyQ3VQLW9wSmpMYkQ2Y3Nra0Q5ZXZUWTcxSXJoZnplaWdaMWhlRDk4UjFvSWs2Q05vR0Z4bTRXalZYakVzWVFramN4a1VsTXdFbF9YTlZTYk5FcWVFRUJtZ2pVRFI0OHVpZ2hUcEpCY05nVTB3V1lwMl9ueHRaSks1Vlg4Smp5RU1CV1dGSzc5OXRFSjc0RkxtVjZWR2lFNA?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5"
-      ]
-    },
-    {
-      "title": "Disseqt AI raises $8 million, plans India hiring",
-      "score": 19.86,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNUbnJUNzJHT2xLb3NweWJ3UFRubVotQ2R0OExVUXpmN1J0ZEN2Smptbi1kd3pTbUpwTXNFS1RoMnB0ZWlrbFRYbGJ6eGt0QVRTSkFjbG5obWRPQk5CU3owY09laFI5TEZzOEpsOVl2YlFySmNRYWI0UXdDQ0M1OEN2eUhWYXloVEp5bGNWLTZqcmtD?oc=5",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSnUxdW42Vy1VVnozTGY2czdObTJXT1ZOYklyT0hJbHUxNURIcG1iSE9PSmhvYXo4WEFUajdBTDhHOENnemNHNGlzN1Y1ckI1aXQwRVpacU41azZ3d0JBRmNneUFpOWExM3p2Nndnd0swQ2hnZnlxWm5zdkdaZFJrbU9pQWY0NlFidmFYdDAzSkwzWlZobXFfSC1BekxfSjJtTlpGcDVDZ25iMVp0dWxBS01wOXV2QXFXcG5yMjdaSGl1Z2c3ZWhDcklCQ19rWExiSFBWVWpPZkszQXZBYmxMdUZLSklmNDZ2UjV0Vml1cXY5TnpWakduSzgzbUpZSXZZeURwREtMYjdyaUJsY21FRw?oc=5"
-      ]
-    },
-    {
-      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-      "score": 18.74,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVZuanM1d3lxQlFqczRIZ1dwTkx3ak81UGU4ODNWcDZ5b204SmdBN2V2UVl3UVVkVEZRN1RtUmV6UmhpOGpkNXU4TmxvX0hOSVJkdVk3dVhDVFhfSGRoTjZhdHRtRldJbmw4VXpZRlBLa01FZGtad1drdkJJRkp4LU90M3lrXzFNeFd5MQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTZyZzYwR1h0RktfQ2p0aXktb3pHS1BhZDA2MERHOC12cThQU241VUp1b0c2emgtclZVNFQxcDZsVGE3UzNaRjdlSUtpd1Y3eHR2Z2xHLUR1MVA2TWpCbzl2dDhGODBhZXNQa2Q2eTMxLXVXVTlqWTFzbzlmYTFOM3ZnNHF2RnZEbGlfWkdtVktLQy05?oc=5"
-      ]
-    },
-    {
-      "title": "13-year-old founder raises seed round for KIKA AI",
-      "score": 19.97,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlM4ZVFsN2EzUlcwQTZxMnF1dGN5dHhTdVRWdzdLZnkzZlhqbE5TM05QczY1dkgxSDc2ZFktV0NzRFd1NVl3SFN5bVdLSXVkSHVNT3U5NGV0ZUd2MDNhaE05Z3B1b3NWUXd6QUtMd2FfempzaHZBOGdiN0NYNVlSUTBSeHRuMDY5clgw?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5"
-      ]
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "score": 23.23,
-      "kinds": [
-        "backlog",
-        "news",
-        "official"
+        "github"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
-        "https://openai.com/index/combatting-adversarial-distillation",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5"
+        "https://github.com/sybil-solutions/inference-optimisation-skill"
       ]
     },
     {
       "title": "Can AI help scientists identify promising drug candidates?",
-      "score": 22.89,
+      "score": 22.64,
       "kinds": [
         "backlog",
         "news",
@@ -98,68 +30,131 @@
       ]
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "score": 19.0,
+      "title": "Combatting adversarial distillation",
+      "score": 22.98,
       "kinds": [
         "backlog",
+        "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://openai.com/business/learn/codex-security-plugin-demo",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5"
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
+        "https://openai.com/index/combatting-adversarial-distillation",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5"
       ]
     },
     {
-      "title": "See PR scans in action",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/business/learn/pr-scans-demo",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N28zb3ZWYWdkQXVEbFpFMkhXSzNKTXpMOWI5X3JGM3k3VWI3QzlDOWFhWHlycHZ6NjkzSU9JUS1EekJBR091Y3dENTJKdWZzaGZubTBPRDRaMGhx?oc=5"
-      ]
-    },
-    {
-      "title": "Get started with Daybreak Blue",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5"
-      ]
-    },
-    {
-      "title": "Teens want to play ‘Grand Theft Auto.’ Parents have a decision to make.",
-      "score": 19.89,
+      "title": "How BHASHINI Is Transforming Healthcare with Multilingual AI: India's Bold Step Toward Inclusive Digital Health",
+      "score": 17.83,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa1NoeVd2WmRsMW9GeXBJemdETWl2VjVfSEducm13OWMzYU56UW1rQXAxZkV4am9hVmxXdjM2ZFZKbUJQUW9MU1NsbVJZM3lWaU1nYmVoZ2I4b0gyOGttZk1TM3U0dGhNUUhLWDR4TTlaQ1dqSkZOTk5QUXNyQzhOYlYxclpmdw?oc=5"
       ]
     },
     {
-      "title": "Watch UEFA WCL Extended Highlights: OH Leuven v Arsenal FC",
-      "score": 18.04,
+      "title": "13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform",
+      "score": 21.72,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlM4ZVFsN2EzUlcwQTZxMnF1dGN5dHhTdVRWdzdLZnkzZlhqbE5TM05QczY1dkgxSDc2ZFktV0NzRFd1NVl3SFN5bVdLSXVkSHVNT3U5NGV0ZUd2MDNhaE05Z3B1b3NWUXd6QUtMd2FfempzaHZBOGdiN0NYNVlSUTBSeHRuMDY5clgw?oc=5"
+      ]
+    },
+    {
+      "title": "Disseqt AI raises $8 million, plans India hiring",
+      "score": 21.61,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNUbnJUNzJHT2xLb3NweWJ3UFRubVotQ2R0OExVUXpmN1J0ZEN2Smptbi1kd3pTbUpwTXNFS1RoMnB0ZWlrbFRYbGJ6eGt0QVRTSkFjbG5obWRPQk5CU3owY09laFI5TEZzOEpsOVl2YlFySmNRYWI0UXdDQ0M1OEN2eUhWYXloVEp5bGNWLTZqcmtD?oc=5",
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSnUxdW42Vy1VVnozTGY2czdObTJXT1ZOYklyT0hJbHUxNURIcG1iSE9PSmhvYXo4WEFUajdBTDhHOENnemNHNGlzN1Y1ckI1aXQwRVpacU41azZ3d0JBRmNneUFpOWExM3p2Nndnd0swQ2hnZnlxWm5zdkdaZFJrbU9pQWY0NlFidmFYdDAzSkwzWlZobXFfSC1BekxfSjJtTlpGcDVDZ25iMVp0dWxBS01wOXV2QXFXcG5yMjdaSGl1Z2c3ZWhDcklCQ19rWExiSFBWVWpPZkszQXZBYmxMdUZLSklmNDZ2UjV0Vml1cXY5TnpWakduSzgzbUpZSXZZeURwREtMYjdyaUJsY21FRw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazNUbnJUNzJHT2xLb3NweWJ3UFRubVotQ2R0OExVUXpmN1J0ZEN2Smptbi1kd3pTbUpwTXNFS1RoMnB0ZWlrbFRYbGJ6eGt0QVRTSkFjbG5obWRPQk5CU3owY09laFI5TEZzOEpsOVl2YlFySmNRYWI0UXdDQ0M1OEN2eUhWYXloVEp5bGNWLTZqcmtD?oc=5"
+      ]
+    },
+    {
+      "title": "Indian Space Startup SatSure Raises $7m From Government-Backed Fund at $93m Valuation",
+      "score": 20.89,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWhrcVAzQW9zcEhveDJQaVNfaEF6QUViSmdKWkNncWZiMEIwaTVjZWJZWS1PRjVNSFZvRjVGbUtxdExkRTJpR2l0cDRsaEJ2SS04M0RSZ21MRHJNRGJwR0VIZlROeVpvLVcyVWRzWWQxQjVVZUVHZGFpU0JhZnhzUnJCQjlieWU5eUpBZWtCYUlqZWMzM1o1aklJbmU0a3JPN0tpWE1rQm1rc2VY?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG1ENk9lc0dnSzNrUGhUX2RRREFqSE5EYVJCQk56YXVCOUF0bFRnRVctZGRJQmFiQ0lMMTJWVmFYalZVX0o4TDEzc2oyQ3VQLW9wSmpMYkQ2Y3Nra0Q5ZXZUWTcxSXJoZnplaWdaMWhlRDk4UjFvSWs2Q05vR0Z4bTRXalZYakVzWVFramN4a1VsTXdFbF9YTlZTYk5FcWVFRUJtZ2pVRFI0OHVpZ2hUcEpCY05nVTB3V1lwMl9ueHRaSks1Vlg4Smp5RU1CV1dGSzc5OXRFSjc0RkxtVjZWR2lFNA?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG1ENk9lc0dnSzNrUGhUX2RRREFqSE5EYVJCQk56YXVCOUF0bFRnRVctZGRJQmFiQ0lMMTJWVmFYalZVX0o4TDEzc2oyQ3VQLW9wSmpMYkQ2Y3Nra0Q5ZXZUWTcxSXJoZnplaWdaMWhlRDk4UjFvSWs2Q05vR0Z4bTRXalZYakVzWVFramN4a1VsTXdFbF9YTlZTYk5FcWVFRUJtZ2pVRFI0OHVpZ2hUcEpCY05nVTB3V1lwMl9ueHRaSks1Vlg4Smp5RU1CV1dGSzc5OXRFSjc0RkxtVjZWR2lFNA?oc=5"
+      ]
+    },
+    {
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+      "score": 20.49,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVZuanM1d3lxQlFqczRIZ1dwTkx3ak81UGU4ODNWcDZ5b204SmdBN2V2UVl3UVVkVEZRN1RtUmV6UmhpOGpkNXU4TmxvX0hOSVJkdVk3dVhDVFhfSGRoTjZhdHRtRldJbmw4VXpZRlBLa01FZGtad1drdkJJRkp4LU90M3lrXzFNeFd5MQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWZEM0RzYktrUEFPa3h0eVIwUHJ6c0ZRTFZ0akVERE01ai1rNFJJTkt2VFRaNjBVYktxQUNhbElTcmtmWUhBNmZYNXlSOXFfOWRIRDFrcElqbEx4SFFMbV81UHc2NkdmVHVxSjFnMkZZTkpIZjhNS1h2emlNbExWMlluRnZxZ2huNnVGWDVOX1dDUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
+      "score": 17.86,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEppYkJNS1NsMzVVX2FRTDJkSlVIWHlhcWZCTXlDaDBxd2JzVkJvd0dMUk1vYXBXT1l0d0ZQNDQyTVBqWG80Sy05Qk91cG1PQUtyTmktWFZyamdfUjZzMHhMZlVOSUEwVXlMeDlwMXBYX3lsc3NzQ2YxUm5mcE5lSl9UWlFtbnFjZXRz?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmxibUlRM1EzUEVqRjBlTDE4UFhFVHZkMXc3LURITXN4Y2J4Um5MdE9TbzFhaDVWX2pvOVBTUUttdUlNa0h6cGpuWmZUYU1BdnZyVnREOTZRbDl3T2hUbzljYXpGRFRIWnFuMm5wdldGTHNtWXlCMjZPWGdvSFE5dTlKT28wd1JtZS1r?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmxibUlRM1EzUEVqRjBlTDE4UFhFVHZkMXc3LURITXN4Y2J4Um5MdE9TbzFhaDVWX2pvOVBTUUttdUlNa0h6cGpuWmZUYU1BdnZyVnREOTZRbDl3T2hUbzljYXpGRFRIWnFuMm5wdldGTHNtWXlCMjZPWGdvSFE5dTlKT28wd1JtZS1r?oc=5"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2YzWlFXRmFXVDJ2TWVRVXI5MElkRXJYdGtfcm5LNjlpTm5lYTdVVVk1a3B1MXA2M0kxSU14Y3U3RUd6UEF0d2Zoc2pFVk5wNXIxdUtheFppbm1sblp1RXh5em52djJENllTQUdXamE5dTFBTXZhYVBqTjEtMFloMmZnUVFpd19JTjJJ?oc=5"
+      ]
+    },
+    {
+      "title": "Funding and acquisitions in Indian startups this week [Nov 16- Nov 21]",
+      "score": 17.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeTVzck0ySGtUZHJac2lhZ2lQLWF3ZUZ5bzl0MnZSQ3FhelhOT2pwTlBVRVlRWDNzQ3dMQjA1OTU4UllWVVljeGxuaUZNSlFOS1FVR2NubG5ZbkFodzdXcnlud2JOaDhMN1BXRV8tMW9Sa1VaaHMya3lEZEtIMDQ4bEd6SDVxRVRHV25QbFJhWldkbmRqNGNaSDlFcy1FQWdIVndHMWNkMVptVlkxdVJ4TEtFOU1GM1FIRWExMVhMaVF3UUlXMVRkbEJOcFVzODlZTFJXV21CVTl4NG1JMVFIRGdB0gHiAUFVX3lxTE55NXNyTTJIa1RkclpzaWFnaVAtYXdlRnlvOXQydlJDcWF6WE5PanBOUFVFWVFYM3NDd0xCMDU5NThSWVZVWWN4bG5pRk1KUU5LUVVHY25sblluQWh3N1dyeW53Yk5oOEw3UFdFXy0xb1JrVVpoczJreURkS0gwNDhsR3pINXFFVEdXblBsUmFaV2RuZGo0Y1pIOUVzLUVBZ0hWd0cxY2QxWm1WWTF1UnhMS0U5TUYzUUhFYTExWExpUXdRSVcxVGRsQk5wVXM4OVlMUldXbUJVOXg0bUkxUUhEZ0E?oc=5"
+      ]
+    },
+    {
+      "title": "CrowdStrike in Talks to Acquire Zscaler: A Major Move in Cybersecurity",
+      "score": 18.75,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2VpdG9QS1dBMXROQU5saHBLTTUtUmFYdWVLSmdwc001TDZaemY2aGx4S0QtaFFsNzJ3QVFNLWpRT1hwWnVYNVYwVXp2Ny1EMHllTkt4enpza0szaTVoUEpuZEdvVldEZEFKbDQxVHBnUk1IX2lEV3lVeF9ZcjRQNzVWdXg5RWRLcmhERndDWFMzYjNCOFUzdmZ6TDZjb1lib2JrOEJMVzRHV2dmd19zSWJZNndlNkwzTWtOLVhNVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDlYenRVSVVSdEFHTkNYUnI1YlVBSHJzbzB2XzFTWXRLNXYwcHp2SjRidXN0UFpQRndNUzR0d2lYS2NfczV2cTRudS13azRKV0dVdWZJbF9hcllhMVVOWVRKcHRxN1AyUm5DSzFhRHFMMW5YYzFyMllyTVVER1VTcTlsMXJydGNvTkxaT3FaX2hyZDJJUnMtMG5UTGFKUjhDS1lyVHlwSGJScWVB?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZG9ERU1Hc0VSUEIyQTFfSVRma3drZHN5QmVYZlJWMVBCal9VWFNVdGN6YURJTUJSTWJDSFpveFVMYURaUU1iWXA1MGJHQXRpcGVlYmJtS1Z5R1VuQ1dLT2h6YWhjNVlrTU9yaU8zbzhlNWw0SnhaMWVCZERrMDU2RWtIem1xaUZJUHBnOUR5YU52T2tqSF9zOGlfa3lmMUg4OFl5UEVjNW5nODBNTFNJ?oc=5"
+      ]
+    },
+    {
+      "title": "Samsung Air Purifiers price in India: Which one is best for you",
+      "score": 17.82,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHVOcjQ0ZjZIV01ydkNjZjR5S1BGYjNqUDJOTmRiMFRsNHJvc1NqX1RhNE5PdGlta2NRNmhTOVI5N2wtVlpla0hHNV9aazRWbnBrNjBmNEQtYldDTFpxUlpmanRlT0EybUY2M0M1am1qRThjWFUzbjlkc09NQ2F2SjNFTUdqSWZrZDdzUF9wdlF4cVM4WDhuLTlSMFRMaWRtcGpEVkY2a2hKNXl5ZjQwWWlXLWFPV1l3R1d3eGZRVHBFNy0xLTQybW53RXJSeUFWbi16VElLeGY0V01sRFHSAeMBQVVfeXFMUFFEVXBlSHJjem1Vb3owSHNQYVpmcjk3M1Fsa1lpc3VjRWc1Uk55M2s4RWtXcmx3bGpqbDdfU3dtTlhERlpwWDRVNGg4YWttc3A1SnlkWEZBbFlDLUpOd2dHSGlCNWpzNXI2RUxFUFF2NjdBTFpHM0QwLXk3WThhblFXcHJVcFFEaVgtUkt3S2YxenM4U2p1WmNhYndSdkNXZkZ2T2RXVzhVQUcwQXlaZ216eEZGNW5MbDRDalEtbXd5WHNwbS1jc2RuclVOMUttVEVEOEVuaElIcU5xMC1UbjJMaTg?oc=5"
       ]
     }
   ]

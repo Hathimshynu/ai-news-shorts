@@ -558,5 +558,10 @@
     "title": "Google announces USD 5 mn funding for IIT Kharagpur for advanced AI research",
     "category": "Breaking AI News",
     "date": "2026-11-21"
+  },
+  {
+    "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "category": "Build With AI",
+    "date": "2026-11-21"
   }
 ]
