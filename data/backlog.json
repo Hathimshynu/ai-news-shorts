@@ -1,38 +1,5 @@
 [
   {
-    "title": "Google builds synthetic internet to test AI agents",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR213cHFZLWFVajJYYVczcnZzMExYeDJMd0pBZDRHeUpnbXloR0NYYWF6bzRVVzd6aFdxMFR0b0N1V3E3N2pGMm1kZ2VXUzNNRDRjVUg3MUpZNk5SOWI2MFJleWxKVUMxVW8zeXpYZmVUU2dsdGtWMGEyY1F6bDE4cjVXdlJGMlNsYzVTR2RfaXBYSHRiVll2VVN5OXJFRktNaUVVVHpiOEY?oc=5",
-    "source": "The Daily Star",
-    "kind": "news",
-    "summary": " Google builds synthetic internet to test AI agents &nbsp;&nbsp; The Daily Star ",
-    "country": "IN",
-    "published": "2026-11-22T13:04:32+00:00",
-    "engagement": 0,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
-  },
-  {
-    "title": "Google's Willow Quantum Chip Tops Classical Ceiling in Magic Square Game With 98.3% Win Rate",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MaVJrN2ZYY3NhTlF0MUdUcjBsVDhWVWFVNXRLaDVWR3ZlVUR3M2NTcUUzWS1yVHJ2TDBfSlFwU09BZnZpNjB0QjgzbF9SeVM0RWllZnBxYkVJdWRHNlpUWHZUVHk0cHZyMWwzZWZhR253M0JTMFE?oc=5",
-    "source": "BigGo Finance",
-    "kind": "news",
-    "summary": "   Google's Willow Quantum Chip Tops Classical Ceiling in Magic Square Game With 98.3% Win Rate &nbsp;&nbsp; BigGo Finance    A game you cannot win unless you have a quantum computer &nbsp;&nbsp; Google Research    Quantum Computing Is Even Weirder Than You Think &nbsp;&nbsp; The New York Times    How we’re putting one of quantum mechanics’ deepest features to the test at scale. &nbsp;&nbsp; blog.google    Google Quantum AI Demonstrates Quantum Contextuality at Scale &nbsp;&nbsp; Wisevoter   ",
-    "country": "IN",
-    "published": "2026-11-22T14:25:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
-  },
-  {
-    "title": "India ready to play a bigger role on global AI stage: IBM’s Arvind Krishna",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVFfZ0lWV0lJRlM1QjRLZzA0a2NfRXdOa2pPQkVJYnRrVDFVb3hSQnJCQ1dUT1drY3ZrdmdKZVllZmJOdjBMZXZmNzROX0pKS0FlVjdxVkQxUWJvVHJ3M3ItOF9ibVBDQ3lmbEJDdmFKNzlHSlFXdF9kX3VfUTAzbldtWk1wcWtnR3JpVklKTHVXbkZXNXFoN04tRXQ2Skh1c0dSUdIBsgFBVV95cUxQaGY3MnRFdmZxRHl3VjVHd2dnMEQ2cllZRXpDVTNLWHlCSnNoQ3ZkcmNHdHNxYnRZR0Zpa3dqajBNc1cxdFBhMnJxVGkzSDdtNmJRSnBONEktcTlVSlh2RGVZNFFReDd4UUhZRFNva0hkUXJJQ1ZTdWhqZlVwMFR2Yk5rTFhhY1JoYlJPV2dWQ0x0QWEtb0NMMFJCc3JOM1piWGlYSHZnUFEzYTIwZVNWdDR3?oc=5",
-    "source": "EdexLive",
-    "kind": "news",
-    "summary": " India ready to play a bigger role on global AI stage: IBM’s Arvind Krishna &nbsp;&nbsp; EdexLive ",
-    "country": "IN",
-    "published": "2026-11-22T11:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
-  },
-  {
     "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "link": "https://github.com/EL4CTEO/fast-anything",
     "source": "GitHub",
@@ -40,8 +7,30 @@
     "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "country": "GLOBAL",
     "published": "2026-11-21T14:40:27+00:00",
-    "engagement": 1570,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
+    "engagement": 1666,
+    "saved": "2026-11-22T20:02:21.609286+00:00"
+  },
+  {
+    "title": "Google's Willow Quantum Chip Tops Classical Ceiling in Magic Square Game With 98.3% Win Rate",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MaVJrN2ZYY3NhTlF0MUdUcjBsVDhWVWFVNXRLaDVWR3ZlVUR3M2NTcUUzWS1yVHJ2TDBfSlFwU09BZnZpNjB0QjgzbF9SeVM0RWllZnBxYkVJdWRHNlpUWHZUVHk0cHZyMWwzZWZhR253M0JTMFE?oc=5",
+    "source": "BigGo Finance",
+    "kind": "news",
+    "summary": "   Google's Willow Quantum Chip Tops Classical Ceiling in Magic Square Game With 98.3% Win Rate &nbsp;&nbsp; BigGo Finance    A game you cannot win unless you have a quantum computer &nbsp;&nbsp; Google Research    Quantum Computing Is Even Weirder Than You Think &nbsp;&nbsp; The New York Times    Google's Quantum Chip Beats Classical Limits in 'Impossible' Game &nbsp;&nbsp; Decrypt    How we’re putting one of quantum mechanics’ deepest features to the test at scale. &nbsp;&nbsp; blog.google   ",
+    "country": "IN",
+    "published": "2026-11-22T14:25:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-22T20:02:21.609286+00:00"
+  },
+  {
+    "title": "MeitY flags physical AI data; US data centre woes may help India",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbmFKa3NDeDRPWVJUZkJaamZxUldpYzNUMEkxLXU3cjF3bVpnallyVEdPYlI0bEYzMjRFVkliR0swU3Vhb0V6amdpQnhoYjk2SUIzQmFfOUxyNFUyWHk2OXEwcGVuTHVlaFR0cnhYUnltZmtSYkQ1NlprZktrYWZCNFdNR0w1T2pWRHE5Rl84UzRiNlZwdHg0clRtcXhsVnQ3MDVKaXRYZXo5UkxrNnhHQi14cTJGZ053aE4ydWs0aXRHSUFsMDlzWTlkSDVwRXRqQW9NalpCT2k0NHRPaVBGMlhYQnoxaU81aVFLTVJsd9IB9AFBVV95cUxPT0RGNXdVN1BwM2h4UmVBaFNXRmdLU0FvUkFmZDNidUlFRUlyeUNUOVBzYl9NQlAxeUNHY205UEtKQlAtR0xCTmdQVFJEWDVlSGxJcnUycFh0ZlRNcTlOUXU3RUlsU1VOd3duRmppRVVLU2NYLTcwcVNPbGVXQ2JmSWJZRmxLMmVrZmV3ckNMWEwtSGZqT3I2SjRsaEszN2ViUlpDclZnMmVQd2pXUE9aUFFMMW1sMkVzY29VTDNjdlNEcThvTjcyTU96YWQzeGlJbDR6MXhtald6bVBLWkNEVWpZOUxwYzB0dUlYY09qYXFHcjRt?oc=5",
+    "source": "The Economic Times",
+    "kind": "news",
+    "summary": " MeitY flags physical AI data; US data centre woes may help India &nbsp;&nbsp; The Economic Times ",
+    "country": "IN",
+    "published": "2026-11-22T19:04:50+00:00",
+    "engagement": 0,
+    "saved": "2026-11-22T20:02:21.609286+00:00"
   },
   {
     "title": "OrbitAID plans India's first space refuelling demo ahead of 2027 mission",
@@ -52,28 +41,39 @@
     "country": "IN",
     "published": "2026-11-22T12:19:18+00:00",
     "engagement": 0,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
+    "saved": "2026-11-22T20:02:21.609286+00:00"
   },
   {
     "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
     "source": "Bloomberg.com",
     "kind": "news",
-    "summary": "   Apple Risks Losing the AI Agent War With an Outdated Playbook &nbsp;&nbsp; Bloomberg.com    Days after telling Apple CEO, 'great doing business with you', Meta’s AI chief Alexandr Wang takes a dig at iPhone maker; says: Yet another... &nbsp;&nbsp; The Times of India    Apple reportedly developing an AI agent that can code and use apps - GSMArena.com news &nbsp;&nbsp; GSMArena.com    From internal delays to smarter AI agents, how Apple plans to catch up with AI rivals: Report &nbsp;&nbsp; Firstpost    Apple is developing an AI agent to control your iPhone and Mac for you &nbsp;&nbsp; UkrMedi",
+    "summary": "   Apple Risks Losing the AI Agent War With an Outdated Playbook &nbsp;&nbsp; Bloomberg.com    Apple Working on Own AI Agent to Rival OpenAI and Anthropic &nbsp;&nbsp; Bloomberg.com    Days after telling Apple CEO, 'great doing business with you', Meta’s AI chief Alexandr Wang takes a dig at iPhone maker; says: Yet another... &nbsp;&nbsp; The Times of India    Apple reportedly developing an AI agent that can code and use apps - GSMArena.com news &nbsp;&nbsp; GSMArena.com    From internal delays to smarter AI agents, how Apple plans to catch up with AI rivals: Report &nbsp;&nbsp; Firstpost   ",
     "country": "IN",
     "published": "2026-11-22T15:00:01+00:00",
     "engagement": 0,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
+    "saved": "2026-11-22T20:02:21.609286+00:00"
   },
   {
-    "title": "Entry-level smartphone teased with Galaxy S26 Ultra-like camera design and 1.8-inch rear display",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2RMdjVmN3FJcW5XTTQ3aVZENEMtNExZTWRDSVhTbmxpZjQwdGJGMFp0UDBXSWdGVzNDRzNBc1lpOHdORWpLVWJJUjFtcV9NRmJCZFF1NFdQdXV3S3hpUWYxbnNhR2FBMG56SW10eGdIWlhtR0lHWnBmeWVJYTNJME5iYmxvczdSOGstMWEyeE4wa0toWmIxdWp3ZTFWNWM1eFk3ZU1wX1ZOa01SSTVUNkhhMkNlTUtRbEhlcU5Kd0JYUXZPMXpvaWJKa2FFellFQk5VZ1NVVDA?oc=5",
-    "source": "Notebookcheck",
+    "title": "The Great Squeeze: India's Smartphone Market Loses a Fifth of Its Volume: CMR Report",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRy1HNVBrSFVmdUJiS0dtQmg4S1JKQWRkWEd0NmlMYnBfR1c1SjNmRkJabGtXN1ZtMzB3X0VtN3lZaFp5TWVncDJpMEhVYVdhcVZ1VjJhXzd4V3k4VVZNVy1DeTBBaXByS0wtRU5NR2xXdGlud3I4WEc2a2MxZks0OXpFcW92b2tCaEdDN25iZ2YzcmlaVFdqd1pTTnQwOEM1RVE0aGhOUmpPZFFmZ0hBdDhRY3dUQTBDTUNoTzE0X0s?oc=5",
+    "source": "BW Businessworld",
     "kind": "news",
-    "summary": "   Entry-level smartphone teased with Galaxy S26 Ultra-like camera design and 1.8-inch rear display &nbsp;&nbsp; Notebookcheck    Doogee teases smartphone with Galaxy S26 Ultra-like camera design and 1.8-inch rear display &nbsp;&nbsp; Notebookcheck    Doogee Teases Note 70 With Rear Display &nbsp;&nbsp; Wisevoter    Doogee Note 70 borrows design from Samsung, rear screen from Xiaomi &nbsp;&nbsp; Gizmochina   ",
-    "country": "SG",
-    "published": "2026-11-22T07:08:00+00:00",
+    "summary": " The Great Squeeze: India's Smartphone Market Loses a Fifth of Its Volume: CMR Report &nbsp;&nbsp; BW Businessworld ",
+    "country": "IN",
+    "published": "2026-11-22T18:40:37+00:00",
     "engagement": 0,
-    "saved": "2026-11-22T18:40:45.038236+00:00"
+    "saved": "2026-11-22T20:02:21.609286+00:00"
+  },
+  {
+    "title": "Sunconnection Launches Wire-Free Solar Dashcam in Japan for ¥19,800",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxenpyRjJNcWlCNlhpeUdyRWJRVE1CZ2pzZldxVmQ5TkgxNzZXSG5menVaQ0xQakFvd0dnc0t1eFR2MFhOU3NfNktudV8tRkJBekdOcXVNcjBVeUVySnNVWkxQWkpTZHVRNi1IcHN0ZEVNYVBQYmc?oc=5",
+    "source": "BigGo Finance",
+    "kind": "news",
+    "summary": " Sunconnection Launches Wire-Free Solar Dashcam in Japan for ¥19,800 &nbsp;&nbsp; BigGo Finance ",
+    "country": "SG",
+    "published": "2026-11-22T18:25:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-22T20:02:21.609286+00:00"
   }
 ]

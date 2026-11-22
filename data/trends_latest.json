@@ -1,26 +1,13 @@
 {
-  "job_id": "2026-11-23-morning-0007",
-  "chosen": "Perplexity and Intelligence",
-  "reason": "Perplexity's official release on its intelligence features highlights major upgrades in AI search and reasoning that viewers can use right away.",
+  "job_id": "2026-11-23-morning-0126",
+  "chosen": "Google builds synthetic internet to test AI agents",
+  "reason": "Google building a simulated synthetic web to safely stress-test autonomous AI agents offers a fascinating look into how the next generation of web-browsing AI will be trained.",
   "candidates": [
     {
-      "title": "Perplexity and Intelligence",
-      "score": 26.68,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVpkZFhqLUM4Y0s4XzF2MlNPU1FUN1FmbkJDbDlKZloyTzh3MEw2SmJaZms3OHRQMWJ6Z0wyaVRQQUZzTEZfcVIyN3VxaTZibUgxSDRnWG0yOGRKbkFpd2w0dk5KM1Z5TXFVSklnUEluOEt5ZkFiWlgwemh2bW5PMmVYLWl4dHRxU2pnUnpIS2doejdiNERkc2p4S2pmVmZ6TWtWZTZGNnpwaUtDSUNBcjRZZXNMN0pqcXdBZ2JXSUhmb2dzcjZQQ3A2clrSAdIBQVVfeXFMUE5uaHFHcFU1a1N3OW9IZDRRdGlKRVFTeFJwVzhrWlBvck14eXA4bnJGWldkTW1UNkI0UEp6N0pnNXNSWXAtTTVfcDRlQk4zUGFxRkJwclZGZlBoNndnOGdCSTF6N1FhUnUwOTFNX0c4aUZCd2F3YWs3aEFQakxNLUlsZE1pMlFudlFVclgyNnVZeWZjVzdmT256a2lQQk5WSlFYcFotV2UwUU56SS1HMnVPMURPa2doNVJZZ09XR1Nrc19CcWJlSlZtTWlJOXYyRXFB?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
-        "https://openai.com/index/perplexity-and-intelligence"
-      ]
-    },
-    {
       "title": "Google builds synthetic internet to test AI agents",
-      "score": 18.66,
+      "score": 20.33,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -31,9 +18,23 @@
       ]
     },
     {
-      "title": "Google's Willow Quantum Chip Tops Classical Ceiling in Magic Square Game With 98.3% Win Rate",
-      "score": 20.95,
+      "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "score": 20.0,
       "kinds": [
+        "backlog",
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/EL4CTEO/fast-anything",
+        "https://github.com/EL4CTEO/fast-anything"
+      ]
+    },
+    {
+      "title": "Google's Willow Quantum Chip Tops Classical Ceiling in Magic Square Game With 98.3% Win Rate",
+      "score": 22.62,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -44,45 +45,19 @@
       ]
     },
     {
-      "title": "From AI consumer to AI creator: Building India’s intelligence flywheel",
-      "score": 18.2,
+      "title": "MeitY flags physical AI data; US data centre woes may help India",
+      "score": 17.78,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVB5RllkQi1GSUJOSklERXRnckQxc3c0SURUQzZzMnNGT3RDRnByZzVpcmlLSWNZY29GYXRFWVU3c3dnUEJselFhenZEdEROSlZqVzZtUDRsaVhmWVhlMVNpdHBkcXBlTml4NWtsN0dTVkJYNFpBRHZXNlQwazV5RTExeFlEMjdNNml1dXZ2ZkFjVm1PV1kxWkZfanZNQXAyUU1nNWJzZkx0UjFHT1J3RTJXOGdSeEtTLUlvSDRLU0JBSlJmTUhGalJhQdIBzwFBVV95cUxPNXZNOU13YUtkMTBWU2lqS1Z5SXJISW9fdTZRUW1LUTB0SENmckZnOWZmclFaRXBrUFZ2RGFBS29CV3pHcVFYRk1oVVprWEtWbmh6UVByTlZsaFlCMDU3ejlYZk92SUVtVERfVjJzaDQ0WHBWRndseEt1VTBEbVNfemxFcmtDRVN3c01PcGJ4eUtBY2N2cmtIazhhNE1Ra19aVmhFQjRiejFZNEpodEl6aW1DOXR0UkdveHF1TEYzdW1tR1BNUm5IU0ZiMU5aRkk?oc=5",
-        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWHpYNjZNTDd0WldfWnNrcUpfNGw5Y0JWUWxmbUc5LTJLd0pxVVRkOWJlWGZOQ0VNNG14WGxiMF9hOUtPa2lRN0wtb0t6UFJSTk55QjNJRFhWX1RxWTJ3clBnYzZiWklULU1JZk9SX2Z0QnhUY0paQ2NSQ2RJX0g3bExQZjNqUzZZMlNaejJxNzlxMm5MS1lYT2ktYlRWaGNqc21zeGIyVDdqbTk4WVNtcDNvYlZkbzJkZDJ4WklTWlFFRHkzWEh0MmVLYVJQVjJWZDFhN0Vka3drNmJicmV5RlVGMHg5VlcwZXliQTd0RFYxTnROVFVHMFp5LUJQekp6dXlJc9IBzwFBVV95cUxPNXZNOU13YUtkMTBWU2lqS1Z5SXJISW9fdTZRUW1LUTB0SENmckZnOWZmclFaRXBrUFZ2RGFBS29CV3pHcVFYRk1oVVprWEtWbmh6UVByTlZsaFlCMDU3ejlYZk92SUVtVERfVjJzaDQ0WHBWRndseEt1VTBEbVNfemxFcmtDRVN3c01PcGJ4eUtBY2N2cmtIazhhNE1Ra19aVmhFQjRiejFZNEpodEl6aW1DOXR0UkdveHF1TEYzdW1tR1BNUm5IU0ZiMU5aRkk?oc=5"
-      ]
-    },
-    {
-      "title": "India ready to play a bigger role on global AI stage: IBM’s Arvind Krishna",
-      "score": 18.09,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVFfZ0lWV0lJRlM1QjRLZzA0a2NfRXdOa2pPQkVJYnRrVDFVb3hSQnJCQ1dUT1drY3ZrdmdKZVllZmJOdjBMZXZmNzROX0pKS0FlVjdxVkQxUWJvVHJ3M3ItOF9ibVBDQ3lmbEJDdmFKNzlHSlFXdF9kX3VfUTAzbldtWk1wcWtnR3JpVklKTHVXbkZXNXFoN04tRXQ2Skh1c0dSUdIBsgFBVV95cUxQaGY3MnRFdmZxRHl3VjVHd2dnMEQ2cllZRXpDVTNLWHlCSnNoQ3ZkcmNHdHNxYnRZR0Zpa3dqajBNc1cxdFBhMnJxVGkzSDdtNmJRSnBONEktcTlVSlh2RGVZNFFReDd4UUhZRFNva0hkUXJJQ1ZTdWhqZlVwMFR2Yk5rTFhhY1JoYlJPV2dWQ0x0QWEtb0NMMFJCc3JOM1piWGlYSHZnUFEzYTIwZVNWdDR3?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVFfZ0lWV0lJRlM1QjRLZzA0a2NfRXdOa2pPQkVJYnRrVDFVb3hSQnJCQ1dUT1drY3ZrdmdKZVllZmJOdjBMZXZmNzROX0pKS0FlVjdxVkQxUWJvVHJ3M3ItOF9ibVBDQ3lmbEJDdmFKNzlHSlFXdF9kX3VfUTAzbldtWk1wcWtnR3JpVklKTHVXbkZXNXFoN04tRXQ2Skh1c0dSUdIBsgFBVV95cUxQaGY3MnRFdmZxRHl3VjVHd2dnMEQ2cllZRXpDVTNLWHlCSnNoQ3ZkcmNHdHNxYnRZR0Zpa3dqajBNc1cxdFBhMnJxVGkzSDdtNmJRSnBONEktcTlVSlh2RGVZNFFReDd4UUhZRFNva0hkUXJJQ1ZTdWhqZlVwMFR2Yk5rTFhhY1JoYlJPV2dWQ0x0QWEtb0NMMFJCc3JOM1piWGlYSHZnUFEzYTIwZVNWdDR3?oc=5"
-      ]
-    },
-    {
-      "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "score": 18.0,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/EL4CTEO/fast-anything"
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbmFKa3NDeDRPWVJUZkJaamZxUldpYzNUMEkxLXU3cjF3bVpnallyVEdPYlI0bEYzMjRFVkliR0swU3Vhb0V6amdpQnhoYjk2SUIzQmFfOUxyNFUyWHk2OXEwcGVuTHVlaFR0cnhYUnltZmtSYkQ1NlprZktrYWZCNFdNR0w1T2pWRHE5Rl84UzRiNlZwdHg0clRtcXhsVnQ3MDVKaXRYZXo5UkxrNnhHQi14cTJGZ053aE4ydWs0aXRHSUFsMDlzWTlkSDVwRXRqQW9NalpCT2k0NHRPaVBGMlhYQnoxaU81aVFLTVJsd9IB9AFBVV95cUxPT0RGNXdVN1BwM2h4UmVBaFNXRmdLU0FvUkFmZDNidUlFRUlyeUNUOVBzYl9NQlAxeUNHY205UEtKQlAtR0xCTmdQVFJEWDVlSGxJcnUycFh0ZlRNcTlOUXU3RUlsU1VOd3duRmppRVVLU2NYLTcwcVNPbGVXQ2JmSWJZRmxLMmVrZmV3ckNMWEwtSGZqT3I2SjRsaEszN2ViUlpDclZnMmVQd2pXUE9aUFFMMW1sMkVzY29VTDNjdlNEcThvTjcyTU96YWQzeGlJbDR6MXhtald6bVBLWkNEVWpZOUxwYzB0dUlYY09qYXFHcjRt?oc=5"
       ]
     },
     {
       "title": "OrbitAID plans India's first space refuelling demo ahead of 2027 mission",
-      "score": 18.42,
+      "score": 18.09,
       "kinds": [
         "backlog",
         "news"
@@ -95,8 +70,9 @@
     },
     {
       "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
-      "score": 21.09,
+      "score": 20.76,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -107,21 +83,45 @@
       ]
     },
     {
-      "title": "Entry-level smartphone teased with Galaxy S26 Ultra-like camera design and 1.8-inch rear display",
-      "score": 18.74,
+      "title": "The Great Squeeze: India's Smartphone Market Loses a Fifth of Its Volume: CMR Report",
+      "score": 17.68,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2RMdjVmN3FJcW5XTTQ3aVZENEMtNExZTWRDSVhTbmxpZjQwdGJGMFp0UDBXSWdGVzNDRzNBc1lpOHdORWpLVWJJUjFtcV9NRmJCZFF1NFdQdXV3S3hpUWYxbnNhR2FBMG56SW10eGdIWlhtR0lHWnBmeWVJYTNJME5iYmxvczdSOGstMWEyeE4wa0toWmIxdWp3ZTFWNWM1eFk3ZU1wX1ZOa01SSTVUNkhhMkNlTUtRbEhlcU5Kd0JYUXZPMXpvaWJKa2FFellFQk5VZ1NVVDA?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWhIUVYtaGpMNkV2NVkzb05IcXoxeTlGUElPTnhhVWlrVE9CR0dGc0lLaERDWFIteVc0c2pOdEpEcG5NTlZhdDUtT3ptRkxreUFoWnc3OHZ1eEZ6Y2NjbHUzR21XTTNKNkk0YWNCN3dmM2M1bEN3S05SX01yY1RaYzZrQV9aRGFXdXA2ZWhYX01yNTdJWnlmOEtqRTdXN0Nzbi1TOFZxNUtNOXZnMHdvRzFvUDhYR1F3WFhEeTJ4QW9rc3JTUUxTSkZnQjY?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOWhIUVYtaGpMNkV2NVkzb05IcXoxeTlGUElPTnhhVWlrVE9CR0dGc0lLaERDWFIteVc0c2pOdEpEcG5NTlZhdDUtT3ptRkxreUFoWnc3OHZ1eEZ6Y2NjbHUzR21XTTNKNkk0YWNCN3dmM2M1bEN3S05SX01yY1RaYzZrQV9aRGFXdXA2ZWhYX01yNTdJWnlmOEtqRTdXN0Nzbi1TOFZxNUtNOXZnMHdvRzFvUDhYR1F3WFhEeTJ4QW9rc3JTUUxTSkZnQjY?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRy1HNVBrSFVmdUJiS0dtQmg4S1JKQWRkWEd0NmlMYnBfR1c1SjNmRkJabGtXN1ZtMzB3X0VtN3lZaFp5TWVncDJpMEhVYVdhcVZ1VjJhXzd4V3k4VVZNVy1DeTBBaXByS0wtRU5NR2xXdGlud3I4WEc2a2MxZks0OXpFcW92b2tCaEdDN25iZ2YzcmlaVFdqd1pTTnQwOEM1RVE0aGhOUmpPZFFmZ0hBdDhRY3dUQTBDTUNoTzE0X0s?oc=5"
+      ]
+    },
+    {
+      "title": "Sunconnection Launches Wire-Free Solar Dashcam in Japan for ¥19,800",
+      "score": 19.62,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxenpyRjJNcWlCNlhpeUdyRWJRVE1CZ2pzZldxVmQ5TkgxNzZXSG5menVaQ0xQakFvd0dnc0t1eFR2MFhOU3NfNktudV8tRkJBekdOcXVNcjBVeUVySnNVWkxQWkpTZHVRNi1IcHN0ZEVNYVBQYmc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxenpyRjJNcWlCNlhpeUdyRWJRVE1CZ2pzZldxVmQ5TkgxNzZXSG5menVaQ0xQakFvd0dnc0t1eFR2MFhOU3NfNktudV8tRkJBekdOcXVNcjBVeUVySnNVWkxQWkpTZHVRNi1IcHN0ZEVNYVBQYmc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxenpyRjJNcWlCNlhpeUdyRWJRVE1CZ2pzZldxVmQ5TkgxNzZXSG5menVaQ0xQakFvd0dnc0t1eFR2MFhOU3NfNktudV8tRkJBekdOcXVNcjBVeUVySnNVWkxQWkpTZHVRNi1IcHN0ZEVNYVBQYmc?oc=5"
+      ]
+    },
+    {
+      "title": "Bigger and better: Another Xiaomi 18 flagship on the horizon",
+      "score": 18.43,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3JQcGpJa2xkbm1oM2ctdUkxRG9JRWNwM3l5TW1LZEh2MnAyMDRHaXpndXJHNklReHpfUUtkb0NxY1ZobkxHSEJmcV9FOFJOZDdqalVqdjRhcVN5OEM0YUh4clU2NS1NWjA5UmZwek9PRTBwNTl5TUNuLTVmSE9VZDJFM18wcE1WNGhPMnFmQWhLUXNXNzhiY2YzQWpQVWVtWjRpb1ZjWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3JQcGpJa2xkbm1oM2ctdUkxRG9JRWNwM3l5TW1LZEh2MnAyMDRHaXpndXJHNklReHpfUUtkb0NxY1ZobkxHSEJmcV9FOFJOZDdqalVqdjRhcVN5OEM0YUh4clU2NS1NWjA5UmZwek9PRTBwNTl5TUNuLTVmSE9VZDJFM18wcE1WNGhPMnFmQWhLUXNXNzhiY2YzQWpQVWVtWjRpb1ZjWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3JQcGpJa2xkbm1oM2ctdUkxRG9JRWNwM3l5TW1LZEh2MnAyMDRHaXpndXJHNklReHpfUUtkb0NxY1ZobkxHSEJmcV9FOFJOZDdqalVqdjRhcVN5OEM0YUh4clU2NS1NWjA5UmZwek9PRTBwNTl5TUNuLTVmSE9VZDJFM18wcE1WNGhPMnFmQWhLUXNXNzhiY2YzQWpQVWVtWjRpb1ZjWQ?oc=5"
       ]
     },
     {
       "title": "Who skipped work for GTA VI? Dutch staff, young men, and US soldiers",
-      "score": 18.38,
+      "score": 18.05,
       "kinds": [
         "news"
       ],
@@ -134,28 +134,28 @@
     },
     {
       "title": "'We do need answers': Trump aide Bessent on Nvidia's sale of chips to China",
-      "score": 17.82,
+      "score": 19.49,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQUJLbFRwSU54Mk1oWDVVWmxOdDR3UXJtNHpoekgxMFdydE13ZkFPZzE1Tkd3TDU3cjVUMWhWaS1tYXY4MWg5ZUlBWUFLVEtSNUhOVjNrbHhhUEJ0TF85WExsVWMtRmVFUEVpMmtTTHNOV2ZUZWVpbjB5TEpGZ1Q5Q2hDUUV2SmtJWWEwU2oyMGZzaV9ZaXB2MVQyVVZIaG40dnhycFBEaEVCWkdVWDVSNDVxUEY1NVZHZ0ViS09JMWVkZFBScGxsN3FJeW9OYlU4bkNmeGwzSUhLLXlVMWJfZm1lczF0NEk1NVRwSWc3TFJnWmhWZDBjZ1FDaW1SZzVoYVo0aTJ6dW1TN0dxM09ZM05WSWhNcldXTFNyUlRyYlBJV25Za0Rla3F30gHfAUFVX3lxTE42NmJVUDdtRTFRU0lNRnJmMnM3NHVsdjBLR2lvTkpacmNnMXdFdGxIQXdXdndlcGo0WGM1MzlMcTF3SXU4LWVrWVZmRjdQcnBUalV5RE1pTFpaTVpJSHc5M09MdFZ2endWNDhiMjdxeDlWYmRORmh4aEVETjNhdWExQ2ltY0k1QXFaa04wT1JGVlBpamE0MmkwM3dJSGZFM0xIYzZhSTAxT280eWxjZ0trUWJkNjFCWl9NUC1USlRTZWoweXRyUHlEWnBkR0NTazdINVp3WkZydEk2aHBDNWc?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQblhqSkMzclJkakpfeV91UV9YLTZULTRQcFk2YnI0clcwR19jZWJYbFZjTEdaWHJQWGFKWXNhdG9zYkpzVzI5Vlc0cEhSQ1BrU2tPYVFkYVdORTdicFRtVWJhY1FzR2VnbFpzaDR0SHBrOUtWWmlmMjEtdDNzUko4YlhaZFRXWVJkYkZPRWt3aTY3M1B1Unc1eXVBZkRlLUR0R3RZTg?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQS1rc2lMNUFTYVg0dk9MYUg2Y3NlTk1mNzVZTWhiUTE0YmlvZTliMXNHa1ZwVEZNSXFYT3NPZnFXSFB6OVFQSkNad21MR21wMkcxZTNzbUJZTGtZTjBDc2pjV1JvYlZjM0c0MXNWamNmLXhQVXNheTN3SGhkSnRiSW1WM0g1M0JoMktpdkFORG44WmcxMVdUZk5TZ0ZvaHBjVnJnX0lBWXNEeGFuRE5saDAwMHB5clRYa005VWkybDVXSHpSRjVuWmNYQ1JmeVU?oc=5"
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQblhqSkMzclJkakpfeV91UV9YLTZULTRQcFk2YnI0clcwR19jZWJYbFZjTEdaWHJQWGFKWXNhdG9zYkpzVzI5Vlc0cEhSQ1BrU2tPYVFkYVdORTdicFRtVWJhY1FzR2VnbFpzaDR0SHBrOUtWWmlmMjEtdDNzUko4YlhaZFRXWVJkYkZPRWt3aTY3M1B1Unc1eXVBZkRlLUR0R3RZTg?oc=5"
       ]
     },
     {
-      "title": "Taking Weekends Off Dasatinib Maintains Responses in First-Line CML",
-      "score": 19.12,
+      "title": "South Korea's education minister Choi Kyo-jin resigned after an AI cheating scandal sparked fears over the fairness of the country's crucial college entrance exam. #dwnews",
+      "score": 17.85,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTQwdUUxNHlOS1pKcEVPX1ZrVndvNGlWMjdFNm5kM19xVHg4MldQdF9EWmRyT1NIR3I5NVowYVpjQ2RXOFNsaW50eTRnTFpLYTZfUEpYV3JaQVFjdHBMZ3dTTTU3aUgzUEx4N0FZdGFpVVV5cW8tcFB6MlZqQTlCc2kxU0N2cFBxU2dTaWxvTFU1ZGxZRUpqNThB?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTQwdUUxNHlOS1pKcEVPX1ZrVndvNGlWMjdFNm5kM19xVHg4MldQdF9EWmRyT1NIR3I5NVowYVpjQ2RXOFNsaW50eTRnTFpLYTZfUEpYV3JaQVFjdHBMZ3dTTTU3aUgzUEx4N0FZdGFpVVV5cW8tcFB6MlZqQTlCc2kxU0N2cFBxU2dTaWxvTFU1ZGxZRUpqNThB?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTQwdUUxNHlOS1pKcEVPX1ZrVndvNGlWMjdFNm5kM19xVHg4MldQdF9EWmRyT1NIR3I5NVowYVpjQ2RXOFNsaW50eTRnTFpLYTZfUEpYV3JaQVFjdHBMZ3dTTTU3aUgzUEx4N0FZdGFpVVV5cW8tcFB6MlZqQTlCc2kxU0N2cFBxU2dTaWxvTFU1ZGxZRUpqNThB?oc=5"
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSDhWZUpUOHIxQVJ0NWs1Vk0wc3NiQlJoZnNHbElwVGRQTTV4YjZHRF9uZWo3QWZ1M1pOclVtdi1VNDRNX3FlVmpIbVlKOTlzekNTOXFxQXVQM2IyVWhuNHFoTWJzUjB6dDRpdjFHWXMzbGIwZ0ZQelk0bmpMb0htQU5UN2dfT3pxVWlrbjBaVVJsYzkwNXIzc1ZuMjVCTDV4UV8tLTdUVzI4dWxrM0tVUUdjOGx2Z0tFSFFqb2Q1RHIydVpNQTJUaTdkUUxKSGI5aTBjYkY5ZzZyazU1TmNHNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84anQya1hDT2RteTRMN2gtc3dPZTJWczZnY2RJTkx1Q1FCY215RG5IZno2Rm9fZ1g2aURROHYtMFdBSEhOZW1MWUpBVkI3eXZHTW5IaFd3?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQVRIUEx2SmJWSFV3NHRjSGhPOUtaU3hRRjMwRmszS2V4T2xtWnZONHRVOGRxUjB3enAtdW1zVzAyV1ZoZkdYOXYzZVBRRTh2YXlQYmJHMDlZSE1fMzJrN2dDOEJVNGRBTVFsT2N5QzlhQm1lemp3eWNtdzZ6aDJ4ejAybTNqSXVqb1IwdGVCcEJPY3pxQkhnMWcyaEVTWkN4UFozdlA4cU1LUUJHNXlnQ1hqSDRzQk8xTjIwZ0lCNnhuMG1Xd0RRcnVrUFZ3b3c4OE1V0gHTAUFVX3lxTE5BVEhQTHZKYlZIVXc0dGNIaE85S1pTeFFGMzBGazNLZXhPbG1adk40dFU4ZHFSMHd6cC11bXNXMDJXVmhmR1g5djNlUFFFOHZheVBiYkcwOVlITV8zMms3Z0M4QlU0ZEFNUWxPY3lDOWFCbWV6and5Y213NnpoMnh6MDJtM2pJdWpvUjB0ZUJwQk9jenFCSGcxZzJoRVNaQ3hQWjN2UDhxTUtRQkc1eWdDWGpINHNCTzFOMjBnSUI2eG4wbVd3RFFydWtQVndvdzg4TVU?oc=5"
       ]
     }
   ]
