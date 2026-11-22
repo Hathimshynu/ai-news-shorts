@@ -1,142 +1,154 @@
 {
-  "job_id": "2026-11-22-evening-1701",
-  "chosen": "Indian-Origin Founder, 23, Sells AI Startup for $4.5 Billion",
-  "reason": "This incredible success story of a 23-year-old Indian-origin founder selling an AI startup for $4.5 billion will inspire Indian creators and tech enthusiasts to share and comment.",
+  "job_id": "2026-11-22-evening-1801",
+  "chosen": "RailTel bags ₹27 crore order for AI-powered legal assistant platform in Andhra Pradesh",
+  "reason": "It showcases a concrete, high-value deployment of an AI-powered legal automation platform in India, giving viewers a real example of AI transforming professional workflows.",
   "candidates": [
     {
-      "title": "Indian-Origin Founder, 23, Sells AI Startup for $4.5 Billion",
-      "score": 17.96,
+      "title": "RailTel bags ₹27 crore order for AI-powered legal assistant platform in Andhra Pradesh",
+      "score": 17.77,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJXLXM2U1pZellnRDNadzBrb0NkdElhNGNQeG4xV25zcWhKQkNtVVNONjlxTE5RSWtFOHdhX3NlLUtRWG40ejVsRzQwQTJiNTdvSXpRZW16bmdoRWphSlRPdnFqRmZ0Z1JfZ25iYXktWnUwTEpSZWxKMGhmVTlmTi1sVndQd0lBUUFEelNBdC0?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJXLXM2U1pZellnRDNadzBrb0NkdElhNGNQeG4xV25zcWhKQkNtVVNONjlxTE5RSWtFOHdhX3NlLUtRWG40ejVsRzQwQTJiNTdvSXpRZW16bmdoRWphSlRPdnFqRmZ0Z1JfZ25iYXktWnUwTEpSZWxKMGhmVTlmTi1sVndQd0lBUUFEelNBdC0?oc=5"
+        "https://news.google.com/rss/articles/CBMioAJBVV95cUxOcUYtWUpLbHRObW9KRDVXYlBqVUJ1UmN1Y0s1TU5RRVNyLXF0YmlIa1FMUjdMUFJscngxR3FUZFA3dHc1cUd5cHZVdVUycGg4YWVMMWN3UzJROWpfMDNndXh3T0V2RW55T2QzaUx6UFhaZDhoNnEtb1RIS3RoTVpJajZwZm5Gak9QazU3cEhGY0xrRzJWdmtVT0taV2doTVJ3MVZpaUpvbHVIY3ltTUNfQmtCdmdsMmZzMUZpdmhyb0ZONVhiRmlGeFJCT2wwcDFSRlJnYWprZVlDRFNpdTdwRkpwT1dpSFM1dllVZWVNcXk4YW40elVMUHNuUng1N294WFdmUkc0Q2oySmh0RHItbGNaTjFyUHhTcHRsRUwtOXLSAesBQVVfeXFMTnF4NnVhMm51bnd4aU52SW5yX2YyWVU5TmRrdEY1bTVEMkNxN295QlJVU1FZNk00YmxaSVU3d2VTd2RFbFNWYklGRUEyal9aRjI2UGtuY3VSUHdVSlJLcTlfS2xLc3dCSkVHdW00SUowRnRUR0NMX1hMMjNpOTVHMldHMllHbWN0UUhUNmZnOVFRWnhUOWFvYUlGTmNtNnhOUnI4TXBBWm4wQnFJOUZFcEdvSnV4TXdYQ0l6Tm9CNmZPb0hILVl1eWd1dEdGZl9PYzhubVAwUEhSYUhaWGM0LUVxdHRXQkcyU1FwVQ?oc=5"
       ]
     },
     {
-      "title": "NVIDIA RTX Spark Laptops in India Start at ₹2,99,399",
-      "score": 17.31,
+      "title": "OrbitAID plans India's first space refuelling demo ahead of 2027 mission",
+      "score": 17.95,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9valhQYU1ab19YOVhWVFpwTVFIam85bVkwRHF2ODZ2MWFjNkluR3pzajZkNzlHdGY5VGh6eC1KN1NSVUxxRG13eEJYQUxJdXhINHJEWXZZRHQ1X0p3RUYydDNNQ0tweU5kNUI3Q2ln0gFzQVVfeXFMTWE5SEZBcW44QmR4a1o0SXhmUGVRZFRhTFg2bTVwcGgyM1NUcWFSSjRJWU85MEFEOVRpNENFM0hoeUZic3k5SUlaUGppdlJLLTlXQW9YNU96aE9UN2tyQ1kzU09NR3Y0ejFwNkVMenFJTk0wbw?oc=5"
-      ]
-    },
-    {
-      "title": "Anthropic's $1.5 Trillion IPO Valuation Surpasses India's Top 10 Firms as AI Investment Surges",
-      "score": 17.19,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTBzeV96S0JaX0JyZ2FKV01jUjVlSUlTd3A1RXNOVjA0SEdxRS1zaGZlT21kenZ4ellPTXAzS2ZQOUdINENNY3ZFZWh0MzJ4Ynh5ZXlGWDR4eFExVjNEQlR2WFNHbHNQVEYyalZtLWpuUWotVjMzMml4TXZqVVJPZnpZVUVxb1hqaWR5aWtRNnBaQnJWNVdIU3FVNnZzUk9Tc0R3ZVR0TVlxQmRJNDJlZGhKd21Cdw?oc=5"
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMm42SDFoeTc2QjJpNXhNejAzZ1B0T0M2ZHpXTkdGc1lXb3V4R0xvMnQwa00tTXY0ekRpN2ExT195V0dpRXNIbXdTQXRha1hxZ0NUSGRNcmZVeU1fQjFkRDA0NEc3T3RJX1JWQ2w0RHJNeWo3MzdHUFVwdGIyU1FFa2doa25hakRkTHpkM1VoUzFPMUowdnM3bDFpbUZBWHBYcW9TVDNVTV9hTS1ta3VtOVJFbXVCLVVvSUNvRnJBaTRVRVZkMzhnMTZYWVN5cWNmc1o0bDlzQnNQcWdKME1DTNIB5gFBVV95cUxOb1dBUGF3T01VWXdNZUl3c3U1Z1FzcGZmdFhmQjZtNWpGVk0tVXJ1TWdhM1FpdTRoV3BDMktYSHR6REhwdlFIUlV2UUVNTWZRenVwaDJCNm93U3dLYU5wU3FBVklxaUV5Tzlsd3dDc25RNnBIWVNzVU5RUkZ0WTNJd0dMbnVlc3gxdHZwM3BPTElQN2xKSTUxTUpwMHJxQXFGbUhvQks0ajJzUWFmeXowbXRHZVpVVTdqa1JkVlktQndULTdSYW9KaFdaMXhGRERGY2g5VFhZc2NzU0wtYS1SZktZanBHQQ?oc=5"
       ]
     },
     {
       "title": "From AI consumer to AI creator: Building India’s intelligence flywheel",
-      "score": 17.24,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWHpYNjZNTDd0WldfWnNrcUpfNGw5Y0JWUWxmbUc5LTJLd0pxVVRkOWJlWGZOQ0VNNG14WGxiMF9hOUtPa2lRN0wtb0t6UFJSTk55QjNJRFhWX1RxWTJ3clBnYzZiWklULU1JZk9SX2Z0QnhUY0paQ2NSQ2RJX0g3bExQZjNqUzZZMlNaejJxNzlxMm5MS1lYT2ktYlRWaGNqc21zeGIyVDdqbTk4WVNtcDNvYlZkbzJkZDJ4WklTWlFFRHkzWEh0MmVLYVJQVjJWZDFhN0Vka3drNmJicmV5RlVGMHg5VlcwZXliQTd0RFYxTnROVFVHMFp5LUJQekp6dXlJc9IBzwFBVV95cUxPNXZNOU13YUtkMTBWU2lqS1Z5SXJISW9fdTZRUW1LUTB0SENmckZnOWZmclFaRXBrUFZ2RGFBS29CV3pHcVFYRk1oVVprWEtWbmh6UVByTlZsaFlCMDU3ejlYZk92SUVtVERfVjJzaDQ0WHBWRndseEt1VTBEbVNfemxFcmtDRVN3c01PcGJ4eUtBY2N2cmtIazhhNE1Ra19aVmhFQjRiejFZNEpodEl6aW1DOXR0UkdveHF1TEYzdW1tR1BNUm5IU0ZiMU5aRkk?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWF91YkQ4YURya2lCNFUwdWNtcFo1WUpjejhlM09zUXV1dUlCczdBTFJXS1NYMU5lQlpEOGE1WEFDcHA5UzdkcVlzeHlHaEg4SF9vb2h6UzMxNFZwQkNFU0hHU2tLUnFxd3hIOVFFaUo5WGlVbFBGZ3BxbllGTVRiaThWRkN5NGswdEtHX1N1dWNSNElCWk9NOTA5dVI2M2d2N01mMUlRR1hWVGphdkVRRmNYQk5HNmVGSnAxWVpjQUlhYTZ4dlpLYzdIODhVekhJ0gHQAUFVX3lxTFBYX3ViRDhhRHJraUI0VTB1Y21wWjVZSmN6OGUzT3NRdXV1SUJzN0FMUldLU1gxTmVCWkQ4YTVYQUNwcDlTN2RxWXN4eUdoSDhIX29vaHpTMzE0VnBCQ0VTSEdTa0tScXF3eEg5UUVpSjlYaVVsUEZncHFuWUZNVGJpOFZGQ3k0azB0S0dfU3V1Y1I0SUJaT005MDl1UjYzZ3Y3TWYxSVFHWFZUamF2RVFGY1hCTkc2ZUZKcDFZWmNBSWFhNnh2WktjN0g4OFV6SEk?oc=5"
-      ]
-    },
-    {
-      "title": "Israel to launch dedicated startup 'Launchpad' to help Israeli companies enter Indian market, shares deep-tech funding strategy",
-      "score": 17.48,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXlhU0poM25ZYW4xbDBySkRyY2lOZVZvUTVyNXhiTHdjdWphaGN0dXVjUTEyYkNzVWIyT1J2VEVzeTgzMzVLRmxqM29sVjNzelBySUZqVGxidVZTZWJqQ05rR2FubnpROEJhN3RVNEJVcTRLakkxajZMQjF1NU9ObHFWQzVsaExsRnE4bGJKY1k1bGJaN2xMek5HakNLbXo4SFlJZFNqOFBxY3lLUkJzS2xTR2JuVzloWE1fak0tTzYtZGhDME5lQWlTUzQ1QTk3NjBZR2pFT3B4S3Z6aHkxdDY5aU1QYXdaTURXdXNvU3JZcm16NmNMVDZJdEVpczRXVnJ5alI1VDZXcEpZUmtwOUdnQmU?oc=5"
-      ]
-    },
-    {
-      "title": "Nvidia CEO race: Meet the 3 Indian-origin executives in contention to succeed Jensen Huang",
-      "score": 17.97,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHhrLXdCV3l4SmdlT25MeWUzUWVvbG0wMF9RcXFHN2VHSVo1Qk40MWxzb3V3NUk3dTFMSUJxQ2JoZUZaUFN2cnlXbEhocHFuN1ZQb25VeGJCeUZ5NTJ6RlhYTk5PbnhCbHR5b0NqdzdKX2hBcG5fZ29QUEtxNDJhQXJHUHgxQlVXRkpKZ0lpclVjU25iRVlyYi14aEhhLVRoTjh0aVd4WG96clo1dXJ0dHExWXhRdVktbk1TLUpTbWpxbUE?oc=5"
-      ]
-    },
-    {
-      "title": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state",
-      "score": 17.4,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclRvWGdBUEZsYndSQmdaUG9KVFBESFFlS3Y4eTFzU3BvbFZtVzdSb2VpMWYteDM1V1Fwd1FxRkJsWlVlbXJyeDFRdE9JMG1lRkFqcVpYUS14QlJxVEJEY29Fb1FxMDJyejhmd0trdlJJazBtUXFrdGk5NkhUUkFraG0tV09ZUDNUTjZKdVN5dmx2TDhfUnQ0dDhzU3JjQmlyQ1F0cXdVNURESlA0Unpwa2VDbkNzbGJ4YWR4cU54Wk5kbUZCWm54T0Y1OC1wckNiYkZOZUE2NWVOM1XSAdsBQVVfeXFMT3JUb1hnQVBGbGJ3UkJnWlBvSlRQREhRZUt2OHkxc1Nwb2xWbVc3Um9laTFmLXgzNVdRcHdRcUZCbFpVZW1ycngxUXRPSTBtZUZBanFaWFEteEJScVRCRGNvRW9RcTAycno4ZndLa3ZSSWswbVFxa3RpOTZIVFJBa2htLVdPWVAzVE42SnVTeXZsdkw4X1J0NHQ4c1NyY0JpckNRdHF3VTVEREpQNFJ6cGtlQ25Dc2xieGFkeHFOeFpOZG1GQlpueE9GNTgtcHJDYmJGTmVBNjVlTjNV?oc=5"
-      ]
-    },
-    {
-      "title": "India should build Asian chip alliance with Japan, South Korea, Singapore: Ajai Chowdhry",
-      "score": 17.1,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkE0djFfTkpIcXl1T3h2c09Vay1Va25DdzAyb2VyNE03Q1FuMnJYT0FET1lDMzRLSjd2TlBRa0dYLTkxRUwxVWZJN2NtMlZKemVvbHozeTE1UHpuVkMyR3hHWTBnb0loSllSelFmUkg2MnZINUFvbWIzTnhRc25EVGIyWnlXdWxBV2VFOGUtWGdfSDJaajg1QkxXMjZUWjdrSUJfdmFqRDRqMlNQYV82UGJFVVRFajBtb1Z2TTNaNVpUdHlwT09CR1FXa3drQdIB1AFBVV95cUxObmtzMGJoSldiMHNDOXhCdUVwNlRfUk5WcXJqR1JKLWtVNzBSOWV5ZWFINnAtdENmSHNacGZaSmFlS2ZjUFl2bTFNN2VRbVRWQWhTMDVwNkhfbi1KemVBWVlmMVhiSDUxbVNlYndnSmhMOFRFdTY2ZGtTWnY5WDhEaHNfUmVyUmZqUTdCNk5YMTNGVFMxdzVNd2k1dFJ5YW5OeC1DdFJ2V1B0TGdzQkoxNFpnWUIwS3A0MHQ0d1JZS29Oa2RycGhFRFM4OHdDVzd4bVJiRw?oc=5"
-      ]
-    },
-    {
-      "title": "Vivo X500 series roundup: India launch date, expected price, specifications, and more",
-      "score": 18.24,
+      "score": 18.99,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamhLdjRZa05RNFFCalljd2I2LWEwQmJteHo0TmIwZTNiejVLZTdIak1nbDRURHVySE42SXJHZmMtRjRSVnNud0hxYUhIbGxaWENTV2RiSGpDUjBIa3d2b282Ul9VR1l0VThmV2lZYlBUalVPcHR1dkFGanQ4LXRidEtob1ZlY3d2c3FsNFNQTXFPbVgyMDFnMVU5Z9IBoAFBVV95cUxNM2dPM0FVaXY5MDR5WmlCU3VpTk5RS0dWdkNYdmQ5WjVQaEdmTFRzVlJ5REY3RWNiRWRtV1FPR0NzaGxva25IZFZIMnZZWTEtV0F0WVJlSnRuWGdxQVkzdUd1UDRzVVFuenJQY1RPbWFwSVBESjNFYTB4WWIwS21IOWRkS3FQLWxXM3lIeVNUOEpfOFhZS3R1SVg2STFob29q?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWJXbGxRZEpYMWdfM3ZEU2pKdmtLOFZLUGt0aEhqOWFabnVoMkg0X3B6Mm41TGZvUHF0Slo0OU5mOHRUc21mM3RlcnpWTlJHUEd4V0xPMGJCdU5OWm9YMmU2bmRSR1ZNVTRUNnc1RHFOenV5QkdIRmFRdmhnS0M4SFZsWVM0YkdmQUZOV1NPazNEMzkxek1R0gGcAUFVX3lxTFBwTE9lT0JPTlg4cGZmMWd1Z1dzLVVTdGhfdTV2QW9ubXEzbmNSeDFhMkJLOGlUTkpkckdyVXM0TlpkUXhBSjByNHJnTTNoME1aOHE0OUFrcU9FaVBNUm4zYy1LNFRadVptMFlVXzBhdEp4ZkFmSm15eVotbDJlWVM4aEJEcUZrd3B6VlByZFM3RVZTazFKV3E0dWhHdA?oc=5"
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWHpYNjZNTDd0WldfWnNrcUpfNGw5Y0JWUWxmbUc5LTJLd0pxVVRkOWJlWGZOQ0VNNG14WGxiMF9hOUtPa2lRN0wtb0t6UFJSTk55QjNJRFhWX1RxWTJ3clBnYzZiWklULU1JZk9SX2Z0QnhUY0paQ2NSQ2RJX0g3bExQZjNqUzZZMlNaejJxNzlxMm5MS1lYT2ktYlRWaGNqc21zeGIyVDdqbTk4WVNtcDNvYlZkbzJkZDJ4WklTWlFFRHkzWEh0MmVLYVJQVjJWZDFhN0Vka3drNmJicmV5RlVGMHg5VlcwZXliQTd0RFYxTnROVFVHMFp5LUJQekp6dXlJc9IBzwFBVV95cUxPNXZNOU13YUtkMTBWU2lqS1Z5SXJISW9fdTZRUW1LUTB0SENmckZnOWZmclFaRXBrUFZ2RGFBS29CV3pHcVFYRk1oVVprWEtWbmh6UVByTlZsaFlCMDU3ejlYZk92SUVtVERfVjJzaDQ0WHBWRndseEt1VTBEbVNfemxFcmtDRVN3c01PcGJ4eUtBY2N2cmtIazhhNE1Ra19aVmhFQjRiejFZNEpodEl6aW1DOXR0UkdveHF1TEYzdW1tR1BNUm5IU0ZiMU5aRkk?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWF91YkQ4YURya2lCNFUwdWNtcFo1WUpjejhlM09zUXV1dUlCczdBTFJXS1NYMU5lQlpEOGE1WEFDcHA5UzdkcVlzeHlHaEg4SF9vb2h6UzMxNFZwQkNFU0hHU2tLUnFxd3hIOVFFaUo5WGlVbFBGZ3BxbllGTVRiaThWRkN5NGswdEtHX1N1dWNSNElCWk9NOTA5dVI2M2d2N01mMUlRR1hWVGphdkVRRmNYQk5HNmVGSnAxWVpjQUlhYTZ4dlpLYzdIODhVekhJ0gHQAUFVX3lxTFBYX3ViRDhhRHJraUI0VTB1Y21wWjVZSmN6OGUzT3NRdXV1SUJzN0FMUldLU1gxTmVCWkQ4YTVYQUNwcDlTN2RxWXN4eUdoSDhIX29vaHpTMzE0VnBCQ0VTSEdTa0tScXF3eEg5UUVpSjlYaVVsUEZncHFuWUZNVGJpOFZGQ3k0azB0S0dfU3V1Y1I0SUJaT005MDl1UjYzZ3Y3TWYxSVFHWFZUamF2RVFGY1hCTkc2ZUZKcDFZWmNBSWFhNnh2WktjN0g4OFV6SEk?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWHpYNjZNTDd0WldfWnNrcUpfNGw5Y0JWUWxmbUc5LTJLd0pxVVRkOWJlWGZOQ0VNNG14WGxiMF9hOUtPa2lRN0wtb0t6UFJSTk55QjNJRFhWX1RxWTJ3clBnYzZiWklULU1JZk9SX2Z0QnhUY0paQ2NSQ2RJX0g3bExQZjNqUzZZMlNaejJxNzlxMm5MS1lYT2ktYlRWaGNqc21zeGIyVDdqbTk4WVNtcDNvYlZkbzJkZDJ4WklTWlFFRHkzWEh0MmVLYVJQVjJWZDFhN0Vka3drNmJicmV5RlVGMHg5VlcwZXliQTd0RFYxTnROVFVHMFp5LUJQekp6dXlJc9IBzwFBVV95cUxPNXZNOU13YUtkMTBWU2lqS1Z5SXJISW9fdTZRUW1LUTB0SENmckZnOWZmclFaRXBrUFZ2RGFBS29CV3pHcVFYRk1oVVprWEtWbmh6UVByTlZsaFlCMDU3ejlYZk92SUVtVERfVjJzaDQ0WHBWRndseEt1VTBEbVNfemxFcmtDRVN3c01PcGJ4eUtBY2N2cmtIazhhNE1Ra19aVmhFQjRiejFZNEpodEl6aW1DOXR0UkdveHF1TEYzdW1tR1BNUm5IU0ZiMU5aRkk?oc=5"
+      ]
+    },
+    {
+      "title": "Israel to launch dedicated startup 'Launchpad' to help Israeli companies enter Indian market, shares deep-tech funding strategy",
+      "score": 19.23,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXlhU0poM25ZYW4xbDBySkRyY2lOZVZvUTVyNXhiTHdjdWphaGN0dXVjUTEyYkNzVWIyT1J2VEVzeTgzMzVLRmxqM29sVjNzelBySUZqVGxidVZTZWJqQ05rR2FubnpROEJhN3RVNEJVcTRLakkxajZMQjF1NU9ObHFWQzVsaExsRnE4bGJKY1k1bGJaN2xMek5HakNLbXo4SFlJZFNqOFBxY3lLUkJzS2xTR2JuVzloWE1fak0tTzYtZGhDME5lQWlTUzQ1QTk3NjBZR2pFT3B4S3Z6aHkxdDY5aU1QYXdaTURXdXNvU3JZcm16NmNMVDZJdEVpczRXVnJ5alI1VDZXcEpZUmtwOUdnQmU?oc=5",
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXlhU0poM25ZYW4xbDBySkRyY2lOZVZvUTVyNXhiTHdjdWphaGN0dXVjUTEyYkNzVWIyT1J2VEVzeTgzMzVLRmxqM29sVjNzelBySUZqVGxidVZTZWJqQ05rR2FubnpROEJhN3RVNEJVcTRLakkxajZMQjF1NU9ObHFWQzVsaExsRnE4bGJKY1k1bGJaN2xMek5HakNLbXo4SFlJZFNqOFBxY3lLUkJzS2xTR2JuVzloWE1fak0tTzYtZGhDME5lQWlTUzQ1QTk3NjBZR2pFT3B4S3Z6aHkxdDY5aU1QYXdaTURXdXNvU3JZcm16NmNMVDZJdEVpczRXVnJ5alI1VDZXcEpZUmtwOUdnQmU?oc=5"
+      ]
+    },
+    {
+      "title": "India ready to play a bigger role on global AI stage: IBM’s Arvind Krishna",
+      "score": 17.62,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVFfZ0lWV0lJRlM1QjRLZzA0a2NfRXdOa2pPQkVJYnRrVDFVb3hSQnJCQ1dUT1drY3ZrdmdKZVllZmJOdjBMZXZmNzROX0pKS0FlVjdxVkQxUWJvVHJ3M3ItOF9ibVBDQ3lmbEJDdmFKNzlHSlFXdF9kX3VfUTAzbldtWk1wcWtnR3JpVklKTHVXbkZXNXFoN04tRXQ2Skh1c0dSUdIBsgFBVV95cUxQaGY3MnRFdmZxRHl3VjVHd2dnMEQ2cllZRXpDVTNLWHlCSnNoQ3ZkcmNHdHNxYnRZR0Zpa3dqajBNc1cxdFBhMnJxVGkzSDdtNmJRSnBONEktcTlVSlh2RGVZNFFReDd4UUhZRFNva0hkUXJJQ1ZTdWhqZlVwMFR2Yk5rTFhhY1JoYlJPV2dWQ0x0QWEtb0NMMFJCc3JOM1piWGlYSHZnUFEzYTIwZVNWdDR3?oc=5"
+      ]
+    },
+    {
+      "title": "India should build Asian chip alliance with Japan, South Korea, Singapore: Ajai Chowdhry",
+      "score": 18.86,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkE0djFfTkpIcXl1T3h2c09Vay1Va25DdzAyb2VyNE03Q1FuMnJYT0FET1lDMzRLSjd2TlBRa0dYLTkxRUwxVWZJN2NtMlZKemVvbHozeTE1UHpuVkMyR3hHWTBnb0loSllSelFmUkg2MnZINUFvbWIzTnhRc25EVGIyWnlXdWxBV2VFOGUtWGdfSDJaajg1QkxXMjZUWjdrSUJfdmFqRDRqMlNQYV82UGJFVVRFajBtb1Z2TTNaNVpUdHlwT09CR1FXa3drQdIB1AFBVV95cUxObmtzMGJoSldiMHNDOXhCdUVwNlRfUk5WcXJqR1JKLWtVNzBSOWV5ZWFINnAtdENmSHNacGZaSmFlS2ZjUFl2bTFNN2VRbVRWQWhTMDVwNkhfbi1KemVBWVlmMVhiSDUxbVNlYndnSmhMOFRFdTY2ZGtTWnY5WDhEaHNfUmVyUmZqUTdCNk5YMTNGVFMxdzVNd2k1dFJ5YW5OeC1DdFJ2V1B0TGdzQkoxNFpnWUIwS3A0MHQ0d1JZS29Oa2RycGhFRFM4OHdDVzd4bVJiRw?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkE0djFfTkpIcXl1T3h2c09Vay1Va25DdzAyb2VyNE03Q1FuMnJYT0FET1lDMzRLSjd2TlBRa0dYLTkxRUwxVWZJN2NtMlZKemVvbHozeTE1UHpuVkMyR3hHWTBnb0loSllSelFmUkg2MnZINUFvbWIzTnhRc25EVGIyWnlXdWxBV2VFOGUtWGdfSDJaajg1QkxXMjZUWjdrSUJfdmFqRDRqMlNQYV82UGJFVVRFajBtb1Z2TTNaNVpUdHlwT09CR1FXa3drQdIB1AFBVV95cUxObmtzMGJoSldiMHNDOXhCdUVwNlRfUk5WcXJqR1JKLWtVNzBSOWV5ZWFINnAtdENmSHNacGZaSmFlS2ZjUFl2bTFNN2VRbVRWQWhTMDVwNkhfbi1KemVBWVlmMVhiSDUxbVNlYndnSmhMOFRFdTY2ZGtTWnY5WDhEaHNfUmVyUmZqUTdCNk5YMTNGVFMxdzVNd2k1dFJ5YW5OeC1DdFJ2V1B0TGdzQkoxNFpnWUIwS3A0MHQ0d1JZS29Oa2RycGhFRFM4OHdDVzd4bVJiRw?oc=5"
+      ]
+    },
+    {
+      "title": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state",
+      "score": 19.15,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclRvWGdBUEZsYndSQmdaUG9KVFBESFFlS3Y4eTFzU3BvbFZtVzdSb2VpMWYteDM1V1Fwd1FxRkJsWlVlbXJyeDFRdE9JMG1lRkFqcVpYUS14QlJxVEJEY29Fb1FxMDJyejhmd0trdlJJazBtUXFrdGk5NkhUUkFraG0tV09ZUDNUTjZKdVN5dmx2TDhfUnQ0dDhzU3JjQmlyQ1F0cXdVNURESlA0Unpwa2VDbkNzbGJ4YWR4cU54Wk5kbUZCWm54T0Y1OC1wckNiYkZOZUE2NWVOM1XSAdsBQVVfeXFMT3JUb1hnQVBGbGJ3UkJnWlBvSlRQREhRZUt2OHkxc1Nwb2xWbVc3Um9laTFmLXgzNVdRcHdRcUZCbFpVZW1ycngxUXRPSTBtZUZBanFaWFEteEJScVRCRGNvRW9RcTAycno4ZndLa3ZSSWswbVFxa3RpOTZIVFJBa2htLVdPWVAzVE42SnVTeXZsdkw4X1J0NHQ4c1NyY0JpckNRdHF3VTVEREpQNFJ6cGtlQ25Dc2xieGFkeHFOeFpOZG1GQlpueE9GNTgtcHJDYmJGTmVBNjVlTjNV?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclRvWGdBUEZsYndSQmdaUG9KVFBESFFlS3Y4eTFzU3BvbFZtVzdSb2VpMWYteDM1V1Fwd1FxRkJsWlVlbXJyeDFRdE9JMG1lRkFqcVpYUS14QlJxVEJEY29Fb1FxMDJyejhmd0trdlJJazBtUXFrdGk5NkhUUkFraG0tV09ZUDNUTjZKdVN5dmx2TDhfUnQ0dDhzU3JjQmlyQ1F0cXdVNURESlA0Unpwa2VDbkNzbGJ4YWR4cU54Wk5kbUZCWm54T0Y1OC1wckNiYkZOZUE2NWVOM1XSAdsBQVVfeXFMT3JUb1hnQVBGbGJ3UkJnWlBvSlRQREhRZUt2OHkxc1Nwb2xWbVc3Um9laTFmLXgzNVdRcHdRcUZCbFpVZW1ycngxUXRPSTBtZUZBanFaWFEteEJScVRCRGNvRW9RcTAycno4ZndLa3ZSSWswbVFxa3RpOTZIVFJBa2htLVdPWVAzVE42SnVTeXZsdkw4X1J0NHQ4c1NyY0JpckNRdHF3VTVEREpQNFJ6cGtlQ25Dc2xieGFkeHFOeFpOZG1GQlpueE9GNTgtcHJDYmJGTmVBNjVlTjNV?oc=5"
+      ]
+    },
+    {
+      "title": "NVIDIA RTX Spark Laptops in India Start at ₹2,99,399",
+      "score": 19.06,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9valhQYU1ab19YOVhWVFpwTVFIam85bVkwRHF2ODZ2MWFjNkluR3pzajZkNzlHdGY5VGh6eC1KN1NSVUxxRG13eEJYQUxJdXhINHJEWXZZRHQ1X0p3RUYydDNNQ0tweU5kNUI3Q2ln0gFzQVVfeXFMTWE5SEZBcW44QmR4a1o0SXhmUGVRZFRhTFg2bTVwcGgyM1NUcWFSSjRJWU85MEFEOVRpNENFM0hoeUZic3k5SUlaUGppdlJLLTlXQW9YNU96aE9UN2tyQ1kzU09NR3Y0ejFwNkVMenFJTk0wbw?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9valhQYU1ab19YOVhWVFpwTVFIam85bVkwRHF2ODZ2MWFjNkluR3pzajZkNzlHdGY5VGh6eC1KN1NSVUxxRG13eEJYQUxJdXhINHJEWXZZRHQ1X0p3RUYydDNNQ0tweU5kNUI3Q2ln0gFzQVVfeXFMTWE5SEZBcW44QmR4a1o0SXhmUGVRZFRhTFg2bTVwcGgyM1NUcWFSSjRJWU85MEFEOVRpNENFM0hoeUZic3k5SUlaUGppdlJLLTlXQW9YNU96aE9UN2tyQ1kzU09NR3Y0ejFwNkVMenFJTk0wbw?oc=5"
+      ]
+    },
+    {
+      "title": "India Today Aaj Tak masterclass guides youth on careers and AI skills - India Today",
+      "score": 17.89,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXFRVnoxcDlvT2YwaFlTZ3I0eldxQzAybVVHVTZxSEJTVGEzUmFXMXVkSWpCVDI0bjNJd2NtOGtWNFFRM0s0N1hJRER0WWkwcUlRRGtjMEtocUR0cGEta0NJOEZ4WkNwd2hveW9FeGxtcGFSejluWncyOTN4UGx4eU5QVThDZ0R6Z1AwcTRRelc2M1JrVzNYd0ZyLWxQc0dILVYxejRRSUZ6NXFCUWd6d29RQmNWRjRDWnR3aU80Q0dZd09hb0ZteXp6bm9WR0FEeGdidkV5bGZWSnBhbEHSAeMBQVVfeXFMTm5aRUY1ZHFvZWJZNmJELVd0X2tJeHBabno0bHNET3lIOHBnWk9PZ3hVUXhQTmdVZWZHaVUwakRGR3JQM1F4ZDAtb3hZMGdiTjZxWHN5eDNYdHJrX1M0N29Xb1Q3R1V0RWh4QnNrVkR4SVhKdnVUUzM5NDgyaEppS0o4dUxBUzhHUk80b1dBMXNUVjBjVGJ4MDRkMEE1ekxHMGtuNXFqM3VsYU9vNXREZ3B4d2hfWWp4S3dWNnNkQXd2M0tTQVFxVjhTMVFFb0hvTDh3eVNTX2JsbHFSQlhjaHVVZVk?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXFRVnoxcDlvT2YwaFlTZ3I0eldxQzAybVVHVTZxSEJTVGEzUmFXMXVkSWpCVDI0bjNJd2NtOGtWNFFRM0s0N1hJRER0WWkwcUlRRGtjMEtocUR0cGEta0NJOEZ4WkNwd2hveW9FeGxtcGFSejluWncyOTN4UGx4eU5QVThDZ0R6Z1AwcTRRelc2M1JrVzNYd0ZyLWxQc0dILVYxejRRSUZ6NXFCUWd6d29RQmNWRjRDWnR3aU80Q0dZd09hb0ZteXp6bm9WR0FEeGdidkV5bGZWSnBhbEHSAeMBQVVfeXFMTm5aRUY1ZHFvZWJZNmJELVd0X2tJeHBabno0bHNET3lIOHBnWk9PZ3hVUXhQTmdVZWZHaVUwakRGR3JQM1F4ZDAtb3hZMGdiTjZxWHN5eDNYdHJrX1M0N29Xb1Q3R1V0RWh4QnNrVkR4SVhKdnVUUzM5NDgyaEppS0o4dUxBUzhHUk80b1dBMXNUVjBjVGJ4MDRkMEE1ekxHMGtuNXFqM3VsYU9vNXREZ3B4d2hfWWp4S3dWNnNkQXd2M0tTQVFxVjhTMVFFb0hvTDh3eVNTX2JsbHFSQlhjaHVVZVk?oc=5"
+      ]
+    },
+    {
+      "title": "Anthropic's $1.5 Trillion IPO Valuation Surpasses India's Top 10 Firms as AI Investment Surges",
+      "score": 18.94,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTBzeV96S0JaX0JyZ2FKV01jUjVlSUlTd3A1RXNOVjA0SEdxRS1zaGZlT21kenZ4ellPTXAzS2ZQOUdINENNY3ZFZWh0MzJ4Ynh5ZXlGWDR4eFExVjNEQlR2WFNHbHNQVEYyalZtLWpuUWotVjMzMml4TXZqVVJPZnpZVUVxb1hqaWR5aWtRNnBaQnJWNVdIU3FVNnZzUk9Tc0R3ZVR0TVlxQmRJNDJlZGhKd21Cdw?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTBzeV96S0JaX0JyZ2FKV01jUjVlSUlTd3A1RXNOVjA0SEdxRS1zaGZlT21kenZ4ellPTXAzS2ZQOUdINENNY3ZFZWh0MzJ4Ynh5ZXlGWDR4eFExVjNEQlR2WFNHbHNQVEYyalZtLWpuUWotVjMzMml4TXZqVVJPZnpZVUVxb1hqaWR5aWtRNnBaQnJWNVdIU3FVNnZzUk9Tc0R3ZVR0TVlxQmRJNDJlZGhKd21Cdw?oc=5"
+      ]
+    },
+    {
+      "title": "Nvidia CEO race: Meet the 3 Indian-origin executives in contention to succeed Jensen Huang",
+      "score": 19.72,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHhrLXdCV3l4SmdlT25MeWUzUWVvbG0wMF9RcXFHN2VHSVo1Qk40MWxzb3V3NUk3dTFMSUJxQ2JoZUZaUFN2cnlXbEhocHFuN1ZQb25VeGJCeUZ5NTJ6RlhYTk5PbnhCbHR5b0NqdzdKX2hBcG5fZ29QUEtxNDJhQXJHUHgxQlVXRkpKZ0lpclVjU25iRVlyYi14aEhhLVRoTjh0aVd4WG96clo1dXJ0dHExWXhRdVktbk1TLUpTbWpxbUE?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHhrLXdCV3l4SmdlT25MeWUzUWVvbG0wMF9RcXFHN2VHSVo1Qk40MWxzb3V3NUk3dTFMSUJxQ2JoZUZaUFN2cnlXbEhocHFuN1ZQb25VeGJCeUZ5NTJ6RlhYTk5PbnhCbHR5b0NqdzdKX2hBcG5fZ29QUEtxNDJhQXJHUHgxQlVXRkpKZ0lpclVjU25iRVlyYi14aEhhLVRoTjh0aVd4WG96clo1dXJ0dHExWXhRdVktbk1TLUpTbWpxbUE?oc=5"
       ]
     },
     {
       "title": "Motorola Edge 70 Neo India Launch Confirmed With 3 Upgrades",
-      "score": 17.92,
+      "score": 17.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVh1Nkljd245R01jTjJQQXpzR3ZVY3BhakF4em1HQk1xWll3YVM1N3J2dmRkV0pld1pybWFDZ0tvZzN4Mmh2eUVGYkxiQzdRRVR1aVFRNVd2blJBT0xJcTVZcDBWa0RwZkVhNFNBY2FtOWl0YmR6eUJRbU1uMDVUd0pXQjFrbTFXckFZN1N3?oc=5"
-      ]
-    },
-    {
-      "title": "India to add 200 million air conditioners by 2035, driving global energy demand growth: IEA",
-      "score": 17.75,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ1RDT0FmeFVPMnFqeWxPdkppRkNablNDajl0blVMNk9RaFBmLWx1TGJrM3Fsbm5TTzluN1VOVE42b1pvbWdLY2Q2cDBKS0JaV3lpck5oNnAybXZ1WDlHRHlYVHJfMDBPeUNxdmw2eDlXWmkteGUyVXRpbjhxMVQwYThiNEZkamZpQ0hNdnY0NG1URm95ZkpMbHhaYURoRnRuem9LbkJtN25oa1lxZTFMSHo5M1Jxa3EwaHRoNFNLY3JNZzdtVzV5R2dOc25kRy0ya3NyYlBFZWsweVktYTk3eGl1Z9IB4wFBVV95cUxQZ1RDT0FmeFVPMnFqeWxPdkppRkNablNDajl0blVMNk9RaFBmLWx1TGJrM3Fsbm5TTzluN1VOVE42b1pvbWdLY2Q2cDBKS0JaV3lpck5oNnAybXZ1WDlHRHlYVHJfMDBPeUNxdmw2eDlXWmkteGUyVXRpbjhxMVQwYThiNEZkamZpQ0hNdnY0NG1URm95ZkpMbHhaYURoRnRuem9LbkJtN25oa1lxZTFMSHo5M1Jxa3EwaHRoNFNLY3JNZzdtVzV5R2dOc25kRy0ya3NyYlBFZWsweVktYTk3eGl1Zw?oc=5"
-      ]
-    },
-    {
-      "title": "UPI Almanac for Sunday, Nov. 22, 2026",
-      "score": 17.12,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3psc3BCSGRjTko1dmowd3cwanlBMlRkR1A0bV80YjBwVU5yajc0T0oydnZzTWlrVHIxeEJkakpIR05UTXlzR1FQTzdwODBQU2hmMFpHVC1DeGNQeGlnRHVodzhobFFUNHlmYmVUZTN2OThDWDRvUTFORkJDdmxIUktTOGVaaHp5TFpodk5LazdLVFVZY1BUeNIBmAFBVV95cUxPX3psc3BCSGRjTko1dmowd3cwanlBMlRkR1A0bV80YjBwVU5yajc0T0oydnZzTWlrVHIxeEJkakpIR05UTXlzR1FQTzdwODBQU2hmMFpHVC1DeGNQeGlnRHVodzhobFFUNHlmYmVUZTN2OThDWDRvUTFORkJDdmxIUktTOGVaaHp5TFpodk5LazdLVFVZY1BUeA?oc=5"
       ]
     }
   ]
