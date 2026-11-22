@@ -1,164 +1,142 @@
 {
-  "job_id": "2026-11-22-morning-0112",
-  "chosen": "Combatting adversarial distillation",
-  "reason": "This research provides crucial insights for AI developers on how to protect proprietary models from being cloned through adversarial distillation.",
+  "job_id": "2026-11-22-evening-1701",
+  "chosen": "Indian-Origin Founder, 23, Sells AI Startup for $4.5 Billion",
+  "reason": "This incredible success story of a 23-year-old Indian-origin founder selling an AI startup for $4.5 billion will inspire Indian creators and tech enthusiasts to share and comment.",
   "candidates": [
     {
-      "title": "Combatting adversarial distillation",
-      "score": 21.19,
+      "title": "Indian-Origin Founder, 23, Sells AI Startup for $4.5 Billion",
+      "score": 17.96,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJXLXM2U1pZellnRDNadzBrb0NkdElhNGNQeG4xV25zcWhKQkNtVVNONjlxTE5RSWtFOHdhX3NlLUtRWG40ejVsRzQwQTJiNTdvSXpRZW16bmdoRWphSlRPdnFqRmZ0Z1JfZ25iYXktWnUwTEpSZWxKMGhmVTlmTi1sVndQd0lBUUFEelNBdC0?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJXLXM2U1pZellnRDNadzBrb0NkdElhNGNQeG4xV25zcWhKQkNtVVNONjlxTE5RSWtFOHdhX3NlLUtRWG40ejVsRzQwQTJiNTdvSXpRZW16bmdoRWphSlRPdnFqRmZ0Z1JfZ25iYXktWnUwTEpSZWxKMGhmVTlmTi1sVndQd0lBUUFEelNBdC0?oc=5"
+      ]
+    },
+    {
+      "title": "NVIDIA RTX Spark Laptops in India Start at ₹2,99,399",
+      "score": 17.31,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9valhQYU1ab19YOVhWVFpwTVFIam85bVkwRHF2ODZ2MWFjNkluR3pzajZkNzlHdGY5VGh6eC1KN1NSVUxxRG13eEJYQUxJdXhINHJEWXZZRHQ1X0p3RUYydDNNQ0tweU5kNUI3Q2ln0gFzQVVfeXFMTWE5SEZBcW44QmR4a1o0SXhmUGVRZFRhTFg2bTVwcGgyM1NUcWFSSjRJWU85MEFEOVRpNENFM0hoeUZic3k5SUlaUGppdlJLLTlXQW9YNU96aE9UN2tyQ1kzU09NR3Y0ejFwNkVMenFJTk0wbw?oc=5"
+      ]
+    },
+    {
+      "title": "Anthropic's $1.5 Trillion IPO Valuation Surpasses India's Top 10 Firms as AI Investment Surges",
+      "score": 17.19,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTBzeV96S0JaX0JyZ2FKV01jUjVlSUlTd3A1RXNOVjA0SEdxRS1zaGZlT21kenZ4ellPTXAzS2ZQOUdINENNY3ZFZWh0MzJ4Ynh5ZXlGWDR4eFExVjNEQlR2WFNHbHNQVEYyalZtLWpuUWotVjMzMml4TXZqVVJPZnpZVUVxb1hqaWR5aWtRNnBaQnJWNVdIU3FVNnZzUk9Tc0R3ZVR0TVlxQmRJNDJlZGhKd21Cdw?oc=5"
+      ]
+    },
+    {
+      "title": "From AI consumer to AI creator: Building India’s intelligence flywheel",
+      "score": 17.24,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWHpYNjZNTDd0WldfWnNrcUpfNGw5Y0JWUWxmbUc5LTJLd0pxVVRkOWJlWGZOQ0VNNG14WGxiMF9hOUtPa2lRN0wtb0t6UFJSTk55QjNJRFhWX1RxWTJ3clBnYzZiWklULU1JZk9SX2Z0QnhUY0paQ2NSQ2RJX0g3bExQZjNqUzZZMlNaejJxNzlxMm5MS1lYT2ktYlRWaGNqc21zeGIyVDdqbTk4WVNtcDNvYlZkbzJkZDJ4WklTWlFFRHkzWEh0MmVLYVJQVjJWZDFhN0Vka3drNmJicmV5RlVGMHg5VlcwZXliQTd0RFYxTnROVFVHMFp5LUJQekp6dXlJc9IBzwFBVV95cUxPNXZNOU13YUtkMTBWU2lqS1Z5SXJISW9fdTZRUW1LUTB0SENmckZnOWZmclFaRXBrUFZ2RGFBS29CV3pHcVFYRk1oVVprWEtWbmh6UVByTlZsaFlCMDU3ejlYZk92SUVtVERfVjJzaDQ0WHBWRndseEt1VTBEbVNfemxFcmtDRVN3c01PcGJ4eUtBY2N2cmtIazhhNE1Ra19aVmhFQjRiejFZNEpodEl6aW1DOXR0UkdveHF1TEYzdW1tR1BNUm5IU0ZiMU5aRkk?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWF91YkQ4YURya2lCNFUwdWNtcFo1WUpjejhlM09zUXV1dUlCczdBTFJXS1NYMU5lQlpEOGE1WEFDcHA5UzdkcVlzeHlHaEg4SF9vb2h6UzMxNFZwQkNFU0hHU2tLUnFxd3hIOVFFaUo5WGlVbFBGZ3BxbllGTVRiaThWRkN5NGswdEtHX1N1dWNSNElCWk9NOTA5dVI2M2d2N01mMUlRR1hWVGphdkVRRmNYQk5HNmVGSnAxWVpjQUlhYTZ4dlpLYzdIODhVekhJ0gHQAUFVX3lxTFBYX3ViRDhhRHJraUI0VTB1Y21wWjVZSmN6OGUzT3NRdXV1SUJzN0FMUldLU1gxTmVCWkQ4YTVYQUNwcDlTN2RxWXN4eUdoSDhIX29vaHpTMzE0VnBCQ0VTSEdTa0tScXF3eEg5UUVpSjlYaVVsUEZncHFuWUZNVGJpOFZGQ3k0azB0S0dfU3V1Y1I0SUJaT005MDl1UjYzZ3Y3TWYxSVFHWFZUamF2RVFGY1hCTkc2ZUZKcDFZWmNBSWFhNnh2WktjN0g4OFV6SEk?oc=5"
+      ]
+    },
+    {
+      "title": "Israel to launch dedicated startup 'Launchpad' to help Israeli companies enter Indian market, shares deep-tech funding strategy",
+      "score": 17.48,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeXlhU0poM25ZYW4xbDBySkRyY2lOZVZvUTVyNXhiTHdjdWphaGN0dXVjUTEyYkNzVWIyT1J2VEVzeTgzMzVLRmxqM29sVjNzelBySUZqVGxidVZTZWJqQ05rR2FubnpROEJhN3RVNEJVcTRLakkxajZMQjF1NU9ObHFWQzVsaExsRnE4bGJKY1k1bGJaN2xMek5HakNLbXo4SFlJZFNqOFBxY3lLUkJzS2xTR2JuVzloWE1fak0tTzYtZGhDME5lQWlTUzQ1QTk3NjBZR2pFT3B4S3Z6aHkxdDY5aU1QYXdaTURXdXNvU3JZcm16NmNMVDZJdEVpczRXVnJ5alI1VDZXcEpZUmtwOUdnQmU?oc=5"
+      ]
+    },
+    {
+      "title": "Nvidia CEO race: Meet the 3 Indian-origin executives in contention to succeed Jensen Huang",
+      "score": 17.97,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHhrLXdCV3l4SmdlT25MeWUzUWVvbG0wMF9RcXFHN2VHSVo1Qk40MWxzb3V3NUk3dTFMSUJxQ2JoZUZaUFN2cnlXbEhocHFuN1ZQb25VeGJCeUZ5NTJ6RlhYTk5PbnhCbHR5b0NqdzdKX2hBcG5fZ29QUEtxNDJhQXJHUHgxQlVXRkpKZ0lpclVjU25iRVlyYi14aEhhLVRoTjh0aVd4WG96clo1dXJ0dHExWXhRdVktbk1TLUpTbWpxbUE?oc=5"
+      ]
+    },
+    {
+      "title": "22-year-old Assam youth secures scientist position at ISRO, brings pride to state",
+      "score": 17.4,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclRvWGdBUEZsYndSQmdaUG9KVFBESFFlS3Y4eTFzU3BvbFZtVzdSb2VpMWYteDM1V1Fwd1FxRkJsWlVlbXJyeDFRdE9JMG1lRkFqcVpYUS14QlJxVEJEY29Fb1FxMDJyejhmd0trdlJJazBtUXFrdGk5NkhUUkFraG0tV09ZUDNUTjZKdVN5dmx2TDhfUnQ0dDhzU3JjQmlyQ1F0cXdVNURESlA0Unpwa2VDbkNzbGJ4YWR4cU54Wk5kbUZCWm54T0Y1OC1wckNiYkZOZUE2NWVOM1XSAdsBQVVfeXFMT3JUb1hnQVBGbGJ3UkJnWlBvSlRQREhRZUt2OHkxc1Nwb2xWbVc3Um9laTFmLXgzNVdRcHdRcUZCbFpVZW1ycngxUXRPSTBtZUZBanFaWFEteEJScVRCRGNvRW9RcTAycno4ZndLa3ZSSWswbVFxa3RpOTZIVFJBa2htLVdPWVAzVE42SnVTeXZsdkw4X1J0NHQ4c1NyY0JpckNRdHF3VTVEREpQNFJ6cGtlQ25Dc2xieGFkeHFOeFpOZG1GQlpueE9GNTgtcHJDYmJGTmVBNjVlTjNV?oc=5"
+      ]
+    },
+    {
+      "title": "India should build Asian chip alliance with Japan, South Korea, Singapore: Ajai Chowdhry",
+      "score": 17.1,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkE0djFfTkpIcXl1T3h2c09Vay1Va25DdzAyb2VyNE03Q1FuMnJYT0FET1lDMzRLSjd2TlBRa0dYLTkxRUwxVWZJN2NtMlZKemVvbHozeTE1UHpuVkMyR3hHWTBnb0loSllSelFmUkg2MnZINUFvbWIzTnhRc25EVGIyWnlXdWxBV2VFOGUtWGdfSDJaajg1QkxXMjZUWjdrSUJfdmFqRDRqMlNQYV82UGJFVVRFajBtb1Z2TTNaNVpUdHlwT09CR1FXa3drQdIB1AFBVV95cUxObmtzMGJoSldiMHNDOXhCdUVwNlRfUk5WcXJqR1JKLWtVNzBSOWV5ZWFINnAtdENmSHNacGZaSmFlS2ZjUFl2bTFNN2VRbVRWQWhTMDVwNkhfbi1KemVBWVlmMVhiSDUxbVNlYndnSmhMOFRFdTY2ZGtTWnY5WDhEaHNfUmVyUmZqUTdCNk5YMTNGVFMxdzVNd2k1dFJ5YW5OeC1DdFJ2V1B0TGdzQkoxNFpnWUIwS3A0MHQ0d1JZS29Oa2RycGhFRFM4OHdDVzd4bVJiRw?oc=5"
+      ]
+    },
+    {
+      "title": "Vivo X500 series roundup: India launch date, expected price, specifications, and more",
+      "score": 18.24,
       "kinds": [
         "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
-        "https://openai.com/index/combatting-adversarial-distillation",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5"
-      ]
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "score": 19.0,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/introducing-medchembench",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5"
-      ]
-    },
-    {
-      "title": "Factory robots maker Botsync raises $11 million, plans US go-to-market and bigger India team",
-      "score": 18.06,
-      "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVDJKS0FPOGR6WU9yRFRLNFhsb1NCcmFVZGVYSmtYb1NEaTBKc2FOVWFiOUFLWXRRSlc5TDk5NWhvbTM4YzZYR1BpVXZybTFiWnF0RmRCN1N1MHJpclRGcWZCcEg5TXRTTDlUOG5EQVM4RmhKdWtwZWJTMmZJdFFKNHJ3RU9Ed09LTDVoTC12M01Md09ZczNIYTdNYWJiaTJUMkZQRFV3a0I5RUktaTQ0VElVcGdUS2RpWnpDekloOTc5cHFLNnZ5LTNNREpDWm1qYmdCYWpjMmJZMFhLSFAtODFYZk0zNGE1MGwyX2dUZEhWaU5maTZiemtRel9pcVVLalJ0WXIyUzhOU2VWMnJWSFpR?oc=5",
-        "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVDJKS0FPOGR6WU9yRFRLNFhsb1NCcmFVZGVYSmtYb1NEaTBKc2FOVWFiOUFLWXRRSlc5TDk5NWhvbTM4YzZYR1BpVXZybTFiWnF0RmRCN1N1MHJpclRGcWZCcEg5TXRTTDlUOG5EQVM4RmhKdWtwZWJTMmZJdFFKNHJ3RU9Ed09LTDVoTC12M01Md09ZczNIYTdNYWJiaTJUMkZQRFV3a0I5RUktaTQ0VElVcGdUS2RpWnpDekloOTc5cHFLNnZ5LTNNREpDWm1qYmdCYWpjMmJZMFhLSFAtODFYZk0zNGE1MGwyX2dUZEhWaU5maTZiemtRel9pcVVLalJ0WXIyUzhOU2VWMnJWSFpR?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamhLdjRZa05RNFFCalljd2I2LWEwQmJteHo0TmIwZTNiejVLZTdIak1nbDRURHVySE42SXJHZmMtRjRSVnNud0hxYUhIbGxaWENTV2RiSGpDUjBIa3d2b282Ul9VR1l0VThmV2lZYlBUalVPcHR1dkFGanQ4LXRidEtob1ZlY3d2c3FsNFNQTXFPbVgyMDFnMVU5Z9IBoAFBVV95cUxNM2dPM0FVaXY5MDR5WmlCU3VpTk5RS0dWdkNYdmQ5WjVQaEdmTFRzVlJ5REY3RWNiRWRtV1FPR0NzaGxva25IZFZIMnZZWTEtV0F0WVJlSnRuWGdxQVkzdUd1UDRzVVFuenJQY1RPbWFwSVBESjNFYTB4WWIwS21IOWRkS3FQLWxXM3lIeVNUOEpfOFhZS3R1SVg2STFob29q?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWJXbGxRZEpYMWdfM3ZEU2pKdmtLOFZLUGt0aEhqOWFabnVoMkg0X3B6Mm41TGZvUHF0Slo0OU5mOHRUc21mM3RlcnpWTlJHUEd4V0xPMGJCdU5OWm9YMmU2bmRSR1ZNVTRUNnc1RHFOenV5QkdIRmFRdmhnS0M4SFZsWVM0YkdmQUZOV1NPazNEMzkxek1R0gGcAUFVX3lxTFBwTE9lT0JPTlg4cGZmMWd1Z1dzLVVTdGhfdTV2QW9ubXEzbmNSeDFhMkJLOGlUTkpkckdyVXM0TlpkUXhBSjByNHJnTTNoME1aOHE0OUFrcU9FaVBNUm4zYy1LNFRadVptMFlVXzBhdEp4ZkFmSm15eVotbDJlWVM4aEJEcUZrd3B6VlByZFM3RVZTazFKV3E0dWhHdA?oc=5"
       ]
     },
     {
-      "title": "Indian Space Startup SatSure Raises Rs 60 Crore From Government-Backed Space Fund",
-      "score": 19.09,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG1ENk9lc0dnSzNrUGhUX2RRREFqSE5EYVJCQk56YXVCOUF0bFRnRVctZGRJQmFiQ0lMMTJWVmFYalZVX0o4TDEzc2oyQ3VQLW9wSmpMYkQ2Y3Nra0Q5ZXZUWTcxSXJoZnplaWdaMWhlRDk4UjFvSWs2Q05vR0Z4bTRXalZYakVzWVFramN4a1VsTXdFbF9YTlZTYk5FcWVFRUJtZ2pVRFI0OHVpZ2hUcEpCY05nVTB3V1lwMl9ueHRaSks1Vlg4Smp5RU1CV1dGSzc5OXRFSjc0RkxtVjZWR2lFNA?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWhrcVAzQW9zcEhveDJQaVNfaEF6QUViSmdKWkNncWZiMEIwaTVjZWJZWS1PRjVNSFZvRjVGbUtxdExkRTJpR2l0cDRsaEJ2SS04M0RSZ21MRHJNRGJwR0VIZlROeVpvLVcyVWRzWWQxQjVVZUVHZGFpU0JhZnhzUnJCQjlieWU5eUpBZWtCYUlqZWMzM1o1aklJbmU0a3JPN0tpWE1rQm1rc2VY?oc=5"
-      ]
-    },
-    {
-      "title": "AI may not work like the human brain after all, scientists discover",
-      "score": 20.93,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5"
-      ]
-    },
-    {
-      "title": "CrowdStrike in Talks to Acquire Zscaler: A Major Move in Cybersecurity",
-      "score": 21.29,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2VpdG9QS1dBMXROQU5saHBLTTUtUmFYdWVLSmdwc001TDZaemY2aGx4S0QtaFFsNzJ3QVFNLWpRT1hwWnVYNVYwVXp2Ny1EMHllTkt4enpza0szaTVoUEpuZEdvVldEZEFKbDQxVHBnUk1IX2lEV3lVeF9ZcjRQNzVWdXg5RWRLcmhERndDWFMzYjNCOFUzdmZ6TDZjb1lib2JrOEJMVzRHV2dmd19zSWJZNndlNkwzTWtOLVhNVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1dvR0staktsaERiNTVybzJOUnYwUGxQNzdpSVpHejVVOUVVbFQ3NDNuRlp4eWtWSUJ4dzJudjMwZzZVbE9HT1U0Yjc1aXA1V09tSjFnMlc1UWNIMEFmTHhWYS1NWFhLZkc2Mk5CbHVJZUpHR00wYWRsRmlVNnR0MWZPR0F1NkxFLVZlS2FvVDc0OElQTkJfS2RpZ2RObi1fejlmeGd2bE96a2RTMnVyRWMzc3VzeVlfLW1NdEJaZHNsaE1EM2puOUdn?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDlYenRVSVVSdEFHTkNYUnI1YlVBSHJzbzB2XzFTWXRLNXYwcHp2SjRidXN0UFpQRndNUzR0d2lYS2NfczV2cTRudS13azRKV0dVdWZJbF9hcllhMVVOWVRKcHRxN1AyUm5DSzFhRHFMMW5YYzFyMllyTVVER1VTcTlsMXJydGNvTkxaT3FaX2hyZDJJUnMtMG5UTGFKUjhDS1lyVHlwSGJScWVB?oc=5"
-      ]
-    },
-    {
-      "title": "SanDisk 512GB MicroSD Express Card Drops to $98 at Amazon Ahead of Black Friday as NAND Prices Bite",
-      "score": 19.84,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OSkh0QkNWZV9HdVNDR0FJbUpYUTVEaTNOcVQ1Y2xXRlJmLUdqMEZZaUxCM1l6OVRJdXZjS3JLSUtsV3R5WEozeXhmZXpRYkJ2eG9NY3ZsLTFMeEU5Y2VPRTQ4Wk9EUGRlc1R5V2Z3Y3NvNnY4S1E?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OSkh0QkNWZV9HdVNDR0FJbUpYUTVEaTNOcVQ1Y2xXRlJmLUdqMEZZaUxCM1l6OVRJdXZjS3JLSUtsV3R5WEozeXhmZXpRYkJ2eG9NY3ZsLTFMeEU5Y2VPRTQ4Wk9EUGRlc1R5V2Z3Y3NvNnY4S1E?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OSkh0QkNWZV9HdVNDR0FJbUpYUTVEaTNOcVQ1Y2xXRlJmLUdqMEZZaUxCM1l6OVRJdXZjS3JLSUtsV3R5WEozeXhmZXpRYkJ2eG9NY3ZsLTFMeEU5Y2VPRTQ4Wk9EUGRlc1R5V2Z3Y3NvNnY4S1E?oc=5"
-      ]
-    },
-    {
-      "title": "Motorola Edge 70 Neo roundup: India launch date, specifications, and design",
-      "score": 18.41,
+      "title": "Motorola Edge 70 Neo India Launch Confirmed With 3 Upgrades",
+      "score": 17.92,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWJXbGxRZEpYMWdfM3ZEU2pKdmtLOFZLUGt0aEhqOWFabnVoMkg0X3B6Mm41TGZvUHF0Slo0OU5mOHRUc21mM3RlcnpWTlJHUEd4V0xPMGJCdU5OWm9YMmU2bmRSR1ZNVTRUNnc1RHFOenV5QkdIRmFRdmhnS0M4SFZsWVM0YkdmQUZOV1NPazNEMzkxek1R0gGcAUFVX3lxTFBwTE9lT0JPTlg4cGZmMWd1Z1dzLVVTdGhfdTV2QW9ubXEzbmNSeDFhMkJLOGlUTkpkckdyVXM0TlpkUXhBSjByNHJnTTNoME1aOHE0OUFrcU9FaVBNUm4zYy1LNFRadVptMFlVXzBhdEp4ZkFmSm15eVotbDJlWVM4aEJEcUZrd3B6VlByZFM3RVZTazFKV3E0dWhHdA?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTlpoNU94VW4ybzhReDgyMGlSNkQzVGZWUUNKQzVmdDFfczBxenI2WTNZeUFjN2lfOTcyUW1vTzNQWWhnRXBmWHFrZDR3OHpUeFhRdnpFU1Uwc1JZVkdwZkVmZm9RV1ZaeFFRYkdEOFczRy0xbm15TmlSRXlfZWQwQnlud0htT29yNzJIdTNFcmthUGFHRDNQR2d2V0RON0lOdVNnT3ZiaEluZlIxWlhYWGhiQVdpb1FrblpyWHFna3pyTlZIYWtXMmRfR2FRVzhS?oc=5"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVh1Nkljd245R01jTjJQQXpzR3ZVY3BhakF4em1HQk1xWll3YVM1N3J2dmRkV0pld1pybWFDZ0tvZzN4Mmh2eUVGYkxiQzdRRVR1aVFRNVd2blJBT0xJcTVZcDBWa0RwZkVhNFNBY2FtOWl0YmR6eUJRbU1uMDVUd0pXQjFrbTFXckFZN1N3?oc=5"
       ]
     },
     {
-      "title": "Vivo Y21s 5G, Y11s 5G and Y05s Specifications, Renders Leaked Ahead of India Launch",
-      "score": 18.59,
+      "title": "India to add 200 million air conditioners by 2035, driving global energy demand growth: IEA",
+      "score": 17.75,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFk5TmlZNWRacDE1a3RuRVhzbzhCaUk1NjZaN3Y2OVAtVUQ1b3JLMk1OWmRNN01MbXlER05ZclRTTXpWTEtoczIwWUc0RU1wVzB0WHBRRl81SXZkM1ZkY0xWN0J2LTU4bzlRdzR6QzlWQ0FEQXJVem5PcjBIbi10RnNPRmtJWEZiMmRpYTlwQlVNZWpKX090amZyUkV1RXJlRk9Yckl0TkNSbWNieER0RkJ3?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPczFvTUVNTkZ1R1FkT052cmx3dGVHbGxjeEdZX3hNeXFpNmRsLVg0TVVYdUZJMU9ZVm9yREd3VTBBQVJQRGg1MFo0ZXdPSjNsVnhvQXRmOXBURTVPcU1IaTMwTVRiaTVTdWlqVjRhemJab0N0blJWblJvYlR3N084bC1fS1Rsb2ItUTRUY01OREkwXzFMT0JYZkhEVkV4Z3Jscmhad05NWnlnUWphbHBYNE56aWdaVVNLcnRFRDJDaS1oZ0E2TnFNdlZqVFVtQjMzejFGVUpLYWk?oc=5"
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ1RDT0FmeFVPMnFqeWxPdkppRkNablNDajl0blVMNk9RaFBmLWx1TGJrM3Fsbm5TTzluN1VOVE42b1pvbWdLY2Q2cDBKS0JaV3lpck5oNnAybXZ1WDlHRHlYVHJfMDBPeUNxdmw2eDlXWmkteGUyVXRpbjhxMVQwYThiNEZkamZpQ0hNdnY0NG1URm95ZkpMbHhaYURoRnRuem9LbkJtN25oa1lxZTFMSHo5M1Jxa3EwaHRoNFNLY3JNZzdtVzV5R2dOc25kRy0ya3NyYlBFZWsweVktYTk3eGl1Z9IB4wFBVV95cUxQZ1RDT0FmeFVPMnFqeWxPdkppRkNablNDajl0blVMNk9RaFBmLWx1TGJrM3Fsbm5TTzluN1VOVE42b1pvbWdLY2Q2cDBKS0JaV3lpck5oNnAybXZ1WDlHRHlYVHJfMDBPeUNxdmw2eDlXWmkteGUyVXRpbjhxMVQwYThiNEZkamZpQ0hNdnY0NG1URm95ZkpMbHhaYURoRnRuem9LbkJtN25oa1lxZTFMSHo5M1Jxa3EwaHRoNFNLY3JNZzdtVzV5R2dOc25kRy0ya3NyYlBFZWsweVktYTk3eGl1Zw?oc=5"
       ]
     },
     {
-      "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue",
-      "score": 18.57,
+      "title": "UPI Almanac for Sunday, Nov. 22, 2026",
+      "score": 17.12,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZExfZ1JiWVV0OWNULWo4OVdXb3ZxNWc0Vk1KVXJZRzNBSHNaZnMxVUhNOUxkc19uTm5jNjg1LXR2b2lVVjRTdXFWZlVMRFIyTkVhUHNLbVBCMWYzZEEwby1wT09scDNpWXozUnhwY3BhdHY5bElrcVVTWG1WbDduRjFjdlZXNnlzTVVRdWg3cV9yNEt0dS12RXJqbHVwb3Q5MlUxZFFSd3JmYlA3aGZsZVNOdGZlRjVOSUpQU2RaOTE2VUh1bVY40gHHAUFVX3lxTE0xQnlQODM4RGhEekY1dm1DZ0R3MFF0MEdrdVBTWlZwbEZXMndBY0JNUWVCcU9ZdHE0cFNqNVdQTF9fSzVwcGVVTEZ2empwM0huUlRpQ1BGcjYybVNjSGZZekJzcG1PXzVadXQydHpteUkybU10Vkt6ZGsweFdRNWlmdk4tcUpPTU5fSkFPb2xYSnp4ZUh2cmYzVVBnemlDVVFBNENNa1duMWJtcVB5bzB2dXB2WElXZTBTdHNMb3NpaXVGMzhSWVU?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZExfZ1JiWVV0OWNULWo4OVdXb3ZxNWc0Vk1KVXJZRzNBSHNaZnMxVUhNOUxkc19uTm5jNjg1LXR2b2lVVjRTdXFWZlVMRFIyTkVhUHNLbVBCMWYzZEEwby1wT09scDNpWXozUnhwY3BhdHY5bElrcVVTWG1WbDduRjFjdlZXNnlzTVVRdWg3cV9yNEt0dS12RXJqbHVwb3Q5MlUxZFFSd3JmYlA3aGZsZVNOdGZlRjVOSUpQU2RaOTE2VUh1bVY40gHHAUFVX3lxTE0xQnlQODM4RGhEekY1dm1DZ0R3MFF0MEdrdVBTWlZwbEZXMndBY0JNUWVCcU9ZdHE0cFNqNVdQTF9fSzVwcGVVTEZ2empwM0huUlRpQ1BGcjYybVNjSGZZekJzcG1PXzVadXQydHpteUkybU10Vkt6ZGsweFdRNWlmdk4tcUpPTU5fSkFPb2xYSnp4ZUh2cmYzVVBnemlDVVFBNENNa1duMWJtcVB5bzB2dXB2WElXZTBTdHNMb3NpaXVGMzhSWVU?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZExfZ1JiWVV0OWNULWo4OVdXb3ZxNWc0Vk1KVXJZRzNBSHNaZnMxVUhNOUxkc19uTm5jNjg1LXR2b2lVVjRTdXFWZlVMRFIyTkVhUHNLbVBCMWYzZEEwby1wT09scDNpWXozUnhwY3BhdHY5bElrcVVTWG1WbDduRjFjdlZXNnlzTVVRdWg3cV9yNEt0dS12RXJqbHVwb3Q5MlUxZFFSd3JmYlA3aGZsZVNOdGZlRjVOSUpQU2RaOTE2VUh1bVY40gHHAUFVX3lxTE0xQnlQODM4RGhEekY1dm1DZ0R3MFF0MEdrdVBTWlZwbEZXMndBY0JNUWVCcU9ZdHE0cFNqNVdQTF9fSzVwcGVVTEZ2empwM0huUlRpQ1BGcjYybVNjSGZZekJzcG1PXzVadXQydHpteUkybU10Vkt6ZGsweFdRNWlmdk4tcUpPTU5fSkFPb2xYSnp4ZUh2cmYzVVBnemlDVVFBNENNa1duMWJtcVB5bzB2dXB2WElXZTBTdHNMb3NpaXVGMzhSWVU?oc=5"
-      ]
-    },
-    {
-      "title": "REVA University Confers Degrees on 4,582 Graduates at its 11th Annual Convocation",
-      "score": 18.39,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkxsRzg1RGlLT0tOdktHN3JMelBIMTRMdGV2Qlc2ejQxZmxIcFBZZUlPSmFoMjM3LTBxWmZfdzBWdEIwM0lrSXFMeVVSQ202NzROTXc3a1ZHOTBCZkR5MDZHdFJQU3pSOHlnTlA1cVB6ei11Uml0U3QzdDJiY2IzeTREVWxPMVlRYXVwaTF4b0ZieUZSN0d5X2FGdXp4dU95Uk05TWZERkhVTDBFTGpCTm9zWDN3NE1Ea21r0gHAAUFVX3lxTE5Rc1FsYVRJcmItb04wSDZadk92WngwU0RQM19KVVprWmI1STM3enFvSTJGQzdRYjZMenFzQThyMmo4UDk2TEJ6TUl4T0Nzdm1CWnVDVU0yVk9iTEVnLUoyTGdOTDA2THh0Qmg1OUoxOExrQ0JyTFVrY3pJQ2Z0bk9LU1ZYajgtdnlONzFheUNEQ3VtM0hybVdWMW84bEZxSm15MFljMkZNZWdWSEQ0aGZRcWNTSFQwZTh3ZHFZOThMWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVzV3WGw2ZEFzS0pySURoR1ZDbmRqWkx5RFduS3F4Z0J6MTBMb18xNEF5OU5wYTY4ZGV4SXUyQnpfMjJtSm9hRklZWDNuZTdWaHJBLVJCT0FobkxxUi04UjdKQUduRW94aW5UTjVyTGl0T1ZYd1hETk9rUkdiWUFTekhpS0loTzVPTjVuSHJuVHVUTTQ3WHRUN1ZFTXQ5RVRyS0pxU096QlFOOHQtSEdlYk8xUm9vYzVSbzFvRUxKTk44WFIwZERMVkM0Ni1GOGxhQWxpMHNHbk5Md9IB3wFBVV95cUxQNVhtWF9xMDVvc3VIQmRDNlFCeVo4SlFUckRGY1JsVlZNWmNtal84M3A5d2pGZG5od3lfdnotUzJfNTZKTXN6aWpxd0FGZm1COF8yY3FIaUluMFM4TTY3YWRaUzh1MnNNUjczOGZYck5wWkZvN0lITFY0V0l4TUZIQTROVDB3R2xjZ2pJZkJPc3ZYd3gyVTdTZTFKTW1aeW9OODVwdExvNTlBdjdRVzVuV0RpYjVKVGtFd0FYb09XOU8tSzBDRnpzdTA5dDkxMk5kdnlwU0NRa21TUnhhU1ZZ?oc=5"
-      ]
-    },
-    {
-      "title": "3-month-old pup bounds home with grandma's lost phone in his mouth!",
-      "score": 18.47,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEsyTmhSV2RmcVluak9US0N6T3ZRSElHZS0zVjBoYjZBUUNlM1JnNno0YlJxZW1RbVk1TzhhbEtiSnZXREMxZ3JTZGVUT254cU5WRHF3c2V1Z3lPVzVHREJHdGRxeXVmT2txZ3RPSm5ROXFnYzVFVW1QU3hscHYtNHZZYU9aeHV2am5RSTFROUMxN19TT2lDRk5fUXJrNGxlWUI3enpsUUpnVGk5U0dCWjJwMHdIcS15dWloM1VQcmlnZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEsyTmhSV2RmcVluak9US0N6T3ZRSElHZS0zVjBoYjZBUUNlM1JnNno0YlJxZW1RbVk1TzhhbEtiSnZXREMxZ3JTZGVUT254cU5WRHF3c2V1Z3lPVzVHREJHdGRxeXVmT2txZ3RPSm5ROXFnYzVFVW1QU3hscHYtNHZZYU9aeHV2am5RSTFROUMxN19TT2lDRk5fUXJrNGxlWUI3enpsUUpnVGk5U0dCWjJwMHdIcS15dWloM1VQcmlnZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEsyTmhSV2RmcVluak9US0N6T3ZRSElHZS0zVjBoYjZBUUNlM1JnNno0YlJxZW1RbVk1TzhhbEtiSnZXREMxZ3JTZGVUT254cU5WRHF3c2V1Z3lPVzVHREJHdGRxeXVmT2txZ3RPSm5ROXFnYzVFVW1QU3hscHYtNHZZYU9aeHV2am5RSTFROUMxN19TT2lDRk5fUXJrNGxlWUI3enpsUUpnVGk5U0dCWjJwMHdIcS15dWloM1VQcmlnZw?oc=5"
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3psc3BCSGRjTko1dmowd3cwanlBMlRkR1A0bV80YjBwVU5yajc0T0oydnZzTWlrVHIxeEJkakpIR05UTXlzR1FQTzdwODBQU2hmMFpHVC1DeGNQeGlnRHVodzhobFFUNHlmYmVUZTN2OThDWDRvUTFORkJDdmxIUktTOGVaaHp5TFpodk5LazdLVFVZY1BUeNIBmAFBVV95cUxPX3psc3BCSGRjTko1dmowd3cwanlBMlRkR1A0bV80YjBwVU5yajc0T0oydnZzTWlrVHIxeEJkakpIR05UTXlzR1FQTzdwODBQU2hmMFpHVC1DeGNQeGlnRHVodzhobFFUNHlmYmVUZTN2OThDWDRvUTFORkJDdmxIUktTOGVaaHp5TFpodk5LazdLVFVZY1BUeA?oc=5"
       ]
     }
   ]

@@ -1,20 +1,5 @@
 [
   {
-    "title": "Anthropic launches Claude Duet AI agent to manage work in the background: Challenges OpenAI and Meta",
-    "category": "New AI Features",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "category": "Trending Technology",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "category": "Breaking AI News",
-    "date": "2026-10-22"
-  },
-  {
     "title": "Cortex DC advances plans to develop 2 GW of AI-ready data centre capacity across India",
     "category": "Breaking AI News",
     "date": "2026-10-23"
@@ -573,5 +558,10 @@
     "title": "Combatting adversarial distillation",
     "category": "Breaking AI News",
     "date": "2026-11-21"
+  },
+  {
+    "title": "Indian-Origin Founder, 23, Sells AI Startup for $4.5 Billion",
+    "category": "Breaking AI News",
+    "date": "2026-11-22"
   }
 ]
