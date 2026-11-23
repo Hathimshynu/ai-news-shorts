@@ -1,20 +1,5 @@
 [
   {
-    "title": "Cortex DC advances plans to develop 2 GW of AI-ready data centre capacity across India",
-    "category": "Breaking AI News",
-    "date": "2026-10-23"
-  },
-  {
-    "title": "81% of Security Teams in India Have AI-Related Skills Gaps and 66% Report Reduced Security Head Count Linked to AI, New Barracuda Research Study Reveals",
-    "category": "Breaking AI News",
-    "date": "2026-10-23"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "category": "AI Automation Tutorials",
-    "date": "2026-10-23"
-  },
-  {
     "title": "NCERT introduces module on Computational Thinking and Artificial Intelligence for grades 9-12",
     "category": "Breaking AI News",
     "date": "2026-10-24"
@@ -578,5 +563,10 @@
     "title": "Google builds synthetic internet to test AI agents",
     "category": "AI Experiments",
     "date": "2026-11-22"
+  },
+  {
+    "title": "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "category": "AI Tools You Should Know",
+    "date": "2026-11-23"
   }
 ]
