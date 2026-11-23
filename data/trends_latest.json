@@ -1,168 +1,159 @@
 {
-  "job_id": "2026-11-23-evening-1802",
-  "chosen": "PwC India opens the Future AI Experience Lab, giving business leaders a sandbox to validate bold AI ideas",
-  "reason": "PwC India's new AI Experience Lab gives Indian businesses a hands‑on sandbox to test and scale AI ideas, showing how AI can be turned into real‑world value today.",
+  "job_id": "2026-11-24-morning-0420",
+  "chosen": "A more tailored Google Search that’s uniquely yours",
+  "reason": "Google's latest AI updates bring a personalized search experience that viewers can test and benefit from directly in their daily tech routine.",
   "candidates": [
     {
-      "title": "PwC India opens the Future AI Experience Lab, giving business leaders a sandbox to validate bold AI ideas",
-      "score": 21.68,
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "score": 27.55,
       "kinds": [
-        "backlog",
-        "news"
+        "news",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObS1Fenh0cDRfZDFpYzVfRThVdnlKLUEyWms0U2l5Q082bWxlYm5pUEVVWXhxTW9EaHFCTkFYS3drUjFsR0l4bDk2TUlwZnc1X205LUhXX284dW10YzdLczJoWVV0Q0VRSDlRX0duajd2VDF5TmtwMzFrUzZYaUJGaXdHSTV6ZG1pZDRrbkdBSHVhanFJWUtjVWpzcWxxb3ZITXM0Q0dBVUtndGFUbFhHWDhtTEtvM2FUc1RRNzR5dUx1SG5Rd3BYZkU5RWpRZExXdUtPQzFTYUc1dkhQd3dXMlRR?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamJuWEZ4TzZWNjRqLWcxSWpLdzJrMG5GdldUMkVlb3BsYUlOdGtZRDNhVk50X0s0bWxGYWdqVmpQZnlFeHZyZ1h3RkpKcGpoY0Y3TG15OFdqaWJYMWY3S3MtelZFNVFrcTQyZWdYdG1acndQX1IwNWNudWxweDA1LU9UdkVjcTdYTWlwVkxPZlc?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObS1Fenh0cDRfZDFpYzVfRThVdnlKLUEyWms0U2l5Q082bWxlYm5pUEVVWXhxTW9EaHFCTkFYS3drUjFsR0l4bDk2TUlwZnc1X205LUhXX284dW10YzdLczJoWVV0Q0VRSDlRX0duajd2VDF5TmtwMzFrUzZYaUJGaXdHSTV6ZG1pZDRrbkdBSHVhanFJWUtjVWpzcWxxb3ZITXM0Q0dBVUtndGFUbFhHWDhtTEtvM2FUc1RRNzR5dUx1SG5Rd3BYZkU5RWpRZExXdUtPQzFTYUc1dkhQd3dXMlRR?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU5QOEctOUFCay04Z0xyZ0NNQmVGcDlhUnNlVjJBOWhBQ1cxV19sT1Y0RGh0XzBmbkIwRzljQlhnWnFIbVlDazljWXdRRG1LWEZlNzk5MVZxOGphYkhuLVBlNVBQSGhuMF9PQkwxUi1IdWpVVGZrSndBM3JwZFNiejUtZ205NUZuVm15WDE3dFhxM1doaVRUU3lOblhqNnl6dFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU5QOEctOUFCay04Z0xyZ0NNQmVGcDlhUnNlVjJBOWhBQ1cxV19sT1Y0RGh0XzBmbkIwRzljQlhnWnFIbVlDazljWXdRRG1LWEZlNzk5MVZxOGphYkhuLVBlNVBQSGhuMF9PQkwxUi1IdWpVVGZrSndBM3JwZFNiejUtZ205NUZuVm15WDE3dFhxM1doaVRUU3lOblhqNnl6dFE?oc=5",
+        "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
       ]
     },
     {
-      "title": "OpenAI elevates Akash Iyer as head of social for APAC",
-      "score": 33.92,
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "score": 30.93,
       "kinds": [
-        "backlog",
-        "news"
+        "news",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3pzZnpOTmh4TnVHYjZpZ3pFMGFpMW5fSXBJSkxmUnFGUVZJNzczXzVZNVBhdWZ5SFJHdVJEVHh5UDlfSjJ4SnlJdXdySkFUMUNkZTRYb3dyVF92Z01ab3oxN2NYY2c1VWFiclBtc0FNdUI1THJTWlpvVjRQSkxpMmJtSXdwRG5ucjgzbU1FalVHdzA2eU54dHZLOXhaZWRGWGc?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnpJc0VkQzVvS1ZrbHZ4YWhJQmdpVGY0M1kyUkNocTZaOXEtVlc4bzJVSVBJb3pFbk95Rmh3d210SWFiRXFob2tmcXJHdFhlNVgtdmNhRVlhTzVuNWROZ1Vkdm1VcjhkdTdyMDlndEt6T29kOTFTQTlzYWNfYmJJenBPeXdFU1Z4RVBDWm9BYlVfUjgtUGpOQ25TZG54SVBRTFZOZnlUSnFQRmV4OWxwWUw5ZkV1dmJ5LVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1cxRDJEaF9COFdtYkJiNk9PNTRiZ0FWZmRyaXg3LTNzd2pDdjYyXzdTQVhXMk9HRmNOT1NHeWpDRFlUb25ZcFMzMmRUb01RVVgtVWY3M05NNVo1RnFRblZDTWNCLW1jc0hFMWk3WjJ4Yk5VeEhSVmJTbk1ZWWdndVdobndWZ2Fu?oc=5"
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcXU3NUxLNlpuajNLMi1lX01OM1BrSDVYbEpaQU5XYkJfaTZnU242M0xZdEVSWkxsX2pmTWxFb3U5SW92amZ4OVB0Szl4bHVwN0VHVC1pXzFSb04zclowSmhYVzRTQUdmQU9XMVk3dDNra0lYWElfaWVTcEFWMDZoSHNRZ0RTVzFMYnEzNEdWQ3k3a3I5WGEwb2xXdDdfNm1SYmpBN2daaVNVWERKckFsTXMtRGpZMnRmR19oazNKcHc5d3ZiVlFQUVp2UHFNbTNMRkpZNTdDMC02ZXlmaTRldg?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3BDbkJuZGJpQlRRWkVLbGlJbUVvTzlHQ01lckJFenRORXNtUS1tZDBiZFo5U0ItRktFZWV5VmhBSGpMMmZZUzA5cnVZZ1VSUGRUMzFvNmtqVUlQaHlfTW9tN1A0MXktXzFfa0E5RWk4eVdEYjhMTWRhYmtpNkF2TU84NG9TUEFndUl6bG9oLVhfTEVxNU9TOFA1S3VqTW1XalBFVTlQLVZhRl9uU1NYUUVpTHo5eFc2Q2psZGdB?oc=5"
       ]
     },
     {
-      "title": "India AI Funding Soars to $1.6B in Jan-Sept 2026: Tracxn Report",
-      "score": 19.96,
+      "title": "India AI Funding Nearly Doubles to US$1.6 Billion in January-September 2026, but Funding Rounds Decline",
+      "score": 20.17,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2dOWUtUQTZKdWJaSXh6V1huR0xNUEM3STZBcFhxUl9rNW4yOWNIQzBLak1HV2JkREQwNnIwMW9taWVrUGVXd0lJQUkxQ1k5cVJIZnRrZTRGd0htY1BNUXlaeHdQQ3RMRks0T3VPcXB6MWI3VjYyM1hnblVQQWpCVGZoeFllUDV3dHBwRk1ObnVRejBHOEFXem56NVViaEgtZWo4NUNTSkFlaTVlREE0SEpDZ9IBuAFBVV95cUxPNDZxbGxvYmIxWS1zZDBiamR1Rjh5RGplUEdxdUc3TEhVbXFzSm9lLW9zV04xVWFvUFM1dDF3Q3g5eXYtVFdaRFZFeG5HR3pZbnNkMFRCY0NMREhtb3BHTnRBQ1dLOGhZbUJxZjhwY2ZYQXY4cWJGRm5VREJwOXZvclkySXM4TDNtYlM1ZUdIRFVkX1ZrYWVmVHd4UTd1RDJFMmloZVBhQk1aWkx3MzB6VmJVcENIaGY4?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2dOWUtUQTZKdWJaSXh6V1huR0xNUEM3STZBcFhxUl9rNW4yOWNIQzBLak1HV2JkREQwNnIwMW9taWVrUGVXd0lJQUkxQ1k5cVJIZnRrZTRGd0htY1BNUXlaeHdQQ3RMRks0T3VPcXB6MWI3VjYyM1hnblVQQWpCVGZoeFllUDV3dHBwRk1ObnVRejBHOEFXem56NVViaEgtZWo4NUNTSkFlaTVlREE0SEpDZ9IBuAFBVV95cUxPNDZxbGxvYmIxWS1zZDBiamR1Rjh5RGplUEdxdUc3TEhVbXFzSm9lLW9zV04xVWFvUFM1dDF3Q3g5eXYtVFdaRFZFeG5HR3pZbnNkMFRCY0NMREhtb3BHTnRBQ1dLOGhZbUJxZjhwY2ZYQXY4cWJGRm5VREJwOXZvclkySXM4TDNtYlM1ZUdIRFVkX1ZrYWVmVHd4UTd1RDJFMmloZVBhQk1aWkx3MzB6VmJVcENIaGY4?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmJ1N1I3RC1mVi1uLUh1cnZGOW9uZ0Z6MC1IQnNuUGlfVTFaUHIyaDdmSVZxNzJ0bDFkRXRqb1RmeDhjVDNUSTItQWJJSU5wdjdRLV9BeUk3cDRqVi0zbDZWbldxNk54Z3FEQzd3MHhJV1A3RndRS2dqd3FrY0hjMzQ1ek5KaU1DN0ZoNTZ5czJPeXBYbEZDYmc0b3czMElCNFo5WXpNYWtDOThaX2dwN0hfemtWT2hmY0ZpTzZ3cXBuODViX0lDYVhR0gHQAUFVX3lxTE9TSUlJTThLMHdQQnR2bXR1OG9uY3k4bEE2cGs3TTZIX1Foa1BJLVY4dVIzNUFGYmYtcG5hVmZKdHJEUzhqQmdsWFhnT3ZQQVJDdkZVb0NLRU9kbmNMdkhULWF1c1oxdmIxUFIyUnU0MW1SalFRcXpQYVpYNnJ5Q2ozX0E2OHBtYUJ1LUFURlo4a3hNako3ZnRJU1YtdkhfTVVfNngwdFZoZGdOUm00dXVDQ2p2N3MxSjRkbzU0ZXZKWndHUW42U3JyNWhSc0J5dF8?oc=5",
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc243Tmo2dGh4OS1zSVBBa3RRanp2RHgwMnN1R0NfbWFWUDdoOExRVzh0WERDTXdWdFRWNU1BYXlTd0daeUZ1eEZ5NEZGM0dSUUZtWW1BYzdxd2lBUTJQSFNQWGpKcmR5cko5Ym11M0xTQll1MTFHUXZfc0VTQVVuSWJadzg1NEVQS2pMalk2ZFdmVGowSTdRSmFFWDZfdG1GZHphNmszVG9iakdtQ20xU2huWVBfdTNkUlBaQ1NVVUo0UzRpUEpHT2ZpWnZoVnNYSWZfcNIB2gFBVV95cUxQTkFiVlFfbEhDVDI4SjNDeHdxWFNrOXlCZzFUWlE0bFRlZlRZd1c3ZmFzYWhCM1JJd3JRZlVZMTFyVFRldm51WnpBbGhrcWxNbk9rcVdIcVhWd2plRTZXc05ZZ19Lb0pFWmdJR1FZWVl4THpZcy03LVdCc2FDemozaXVuem02YWRWd1NtU1ZTTllqdmtWVGZhQjFPa2VlRXdaMEVNUjJfY2R0LXN1N1ZOeTdiSU9XRmpzajR3cXBkbUVhcHlVVWNfSTY3VVJtcDJpNFY4azM3NXV4dw?oc=5"
       ]
     },
     {
-      "title": "AI Films From Kerala to Andaman Islands Set at Google Flow Filmathon",
-      "score": 23.07,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlp3Q3pxUnNLMFNkTy04bDRrQ1NMblo1Wjl5cV9sYTRZbHNMLTQ5RXVkQzVCUWRZUXloX09laWRoUXluV3R5OG82ck15SVZkaHoyTnkyRjdrV1lsWkZ3T3Z3cGlyVEllbEd0MmVMZWhnY0dfcm9RelpxQ2tHM2NxZEFiRGR6R3RQNEQzd0htLUgxSVByUlByOUdVYjlMdVRyeDlENUpyOXczU2lhQzMw?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHMmJ2WThySXBHUzFnQzhHanNBSnA3ZDduQnp6dW5fam93Q3V0VmUtOEwzRUEzdXY3VmJtQzF1S1VxWWJFRjlJX21OcWZ5WDZHTmVCMFYwWGstWEFVa2lYZExoc3p4bHlEVUE?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlp3Q3pxUnNLMFNkTy04bDRrQ1NMblo1Wjl5cV9sYTRZbHNMLTQ5RXVkQzVCUWRZUXloX09laWRoUXluV3R5OG82ck15SVZkaHoyTnkyRjdrV1lsWkZ3T3Z3cGlyVEllbEd0MmVMZWhnY0dfcm9RelpxQ2tHM2NxZEFiRGR6R3RQNEQzd0htLUgxSVByUlByOUdVYjlMdVRyeDlENUpyOXczU2lhQzMw?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI's chief scientist proposes industry limits on AI development",
-      "score": 22.33,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTnB5a1NienZ2WlI1V0tCMUlOQ2xuRy1sRXM5Z3NwRTVjS05iSTdmbUQ2d2JRcWVSY0EtZWhFbHdTNFJ4OFZwY2VPcWNYSlc3b0lRS2UzMUFUVnJIMlZiNzJSTjFaQy1VZlZzM3Y0RU1Gc1pVbzJDWlV0TVBFdFZOYXUyczhXVEZPV3dOczZha1hyXy0tdDA3MGttRjVybjVkWjZldzBGbXdDQUFDWjhfUUE5amplTGY5X29qcEdfNkdNTFo0cVZvNWdhbHZUUmgtYUZmMHlXbWNMT1duSVhzRGdFQjljc3VOTGEwRtIB8gFBVV95cUxPTjcyUFNIWEJLLU96WGlYTEtZYzlIaDRYQkZlUVAtcjJnQ1RYeTFTNDRWTlYyTUFTWFVvR2w1QXZ1QmFRQVJEWVRkTEVOb0ZBRGZoLUVtVEpDZEZJbVNRQlZFWFc0WlFQNWR6NnBBeXEzdnhwdnIyTnZ4Wk1VS3lvM2lscmZmWnNXTjQ1U2x4ckFtcGlxTnNWZWVfS3B4MERIT3d0WUVWRFVWUl8zMDA3TTVEY3Z0aTQ5ZDA4b3dYeW80M3JKNnRpQWFYLTV6SmE1cF9Fa1NQSnotMVlja0Z4cDUza3Z6YW1rX2lBZ3JZTXVwQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZk5Fd3ZEa0xGeHExZTFuRlFUSVhNZTkyUDdDXzFLaGphaEpjR2xBRUo4ZUFPa3N4LWp0RTlfZDc0MG9hbDhOZWczTWQ5d25MenVEOTJtekY2Q185THZPY0paR3RlaGw3c0otMWZ3eHRWVDNTNUItYkdkdUxCSFQ0LTk1TFlrUlJ1SUlEOTN1eFlFX0dSN1VIOVk3eDlJY3Z5enlIRTJWaDhWSTAyYU1QeE1ZX0R4SDM1QmhRMEt5TXdqUGZTSnlLYmZxcGVNVEh4eGZXQjhhRnh0S3RxX0cyYzQwONIB6AFBVV95cUxPQ2JZLTAwWmwtOWl0a2JaOGFrckFqaGpIbW5hV1ZFX2NLUkstLS1qemVDbUxjV2hETC05X2hwRkx2NzZEeDV0RUkwX3FjRHEybF82VFpHeVRFakhvSDRJdllOajRtVzI5Ull0ekJkbVV6LXI1UHJRd003RDdxUFZROEgzUmZsV0FZaHcwOUlaYlNyRHk4SjB1VE1USHpVTDN5TGpOcll2T1lROUFzWl9zREl1R2ZQOXdOcW9peWtKSlJza21vUXdXWFpLSDcwcGw5X1JvTnVVSGtSb3JXZHN0U3RUZnNISUVS?oc=5"
-      ]
-    },
-    {
-      "title": "Watch CrowdStrike (CRWD) to Acquire Zscaler in $44 Billion CyberSecurity Deal",
-      "score": 19.94,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTZ6TnRhNURQOXVQaHFMeTR0RWVzdm1sOWtCWmRjdU5LeEhxdUhZSWJVV050OXBWMFlxcjBGbGZTUktMZTZXY1lKX0dMeGFkcnUwZmd5d19RaXg4b0RjQllOWDdUQ29BaWdSZXBkdnZSc2RzR2xIU0prbG1Ndm03NTNxeS10UnpyN25IUWRpcVlkU2xkS0FNVHYwVHM0cUlnbUxwRGl5SQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IMXRLb25DYTRGaUw3WFZKSXFZSjhQQTgwSDF0TUN5b05sS1BkX3ZCZGZpRGRvd2VtcXdDY1EwalVtSmpTV05RYkhVZ2tKc0EwazJ6WWxUSVVGeHB0bndIelpXZW4zLVk?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2p3TmtQSDFpcXBLa0ZmeGU4Ukt6QVU5dXE3ODVVY2UwX3pNZm9tYkdaaHJmNGtVOVFiVk5WbnZSTUtKSnl1N01ReFRmcnUzOFZ2cDFFYmJvUUdMTld1QVpFLU85Q2JlcHZYay14dFM3aWlQVldYLTlZZWhWallDanJfSnlDQmUweWZoVWhJR3BDSG1TZ0ltSFJpVVNhQUZ3dk9OMFgzZ3lnLW5lMWc?oc=5"
-      ]
-    },
-    {
-      "title": "Mapping safety zones as lithium-ion batteries degrade to improve safety",
-      "score": 19.94,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUC1KUFE0ZFRyVjlyNXFNaTh4MTBpNU1DWWtUT2pCQXRUeFRWaUFjLUZ2eG00QjFubUdhNk45aWNJdnBQMlFPWm91OER6RlUtRmJCOU1rSVNmQ08yODk0?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUC1KUFE0ZFRyVjlyNXFNaTh4MTBpNU1DWWtUT2pCQXRUeFRWaUFjLUZ2eG00QjFubUdhNk45aWNJdnBQMlFPWm91OER6RlUtRmJCOU1rSVNmQ08yODk0?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUC1KUFE0ZFRyVjlyNXFNaTh4MTBpNU1DWWtUT2pCQXRUeFRWaUFjLUZ2eG00QjFubUdhNk45aWNJdnBQMlFPWm91OER6RlUtRmJCOU1rSVNmQ08yODk0?oc=5"
-      ]
-    },
-    {
-      "title": "New nanogap architecture enables electrically driven narrow-line-width emission in monolayer WSe2",
-      "score": 19.93,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZWlZsLWVFcjRRZWkwQ1N1RFRFbHF5S0k1d3A4S0lCYmRkMXp0N256WEdkelJzLVlKZjBFbmE2d0ZhLU1BdzF4dk9jQ1lhZXg3QkMweU5EcUdfNU5p?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZWlZsLWVFcjRRZWkwQ1N1RFRFbHF5S0k1d3A4S0lCYmRkMXp0N256WEdkelJzLVlKZjBFbmE2d0ZhLU1BdzF4dk9jQ1lhZXg3QkMweU5EcUdfNU5p?oc=5",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZWlZsLWVFcjRRZWkwQ1N1RFRFbHF5S0k1d3A4S0lCYmRkMXp0N256WEdkelJzLVlKZjBFbmE2d0ZhLU1BdzF4dk9jQ1lhZXg3QkMweU5EcUdfNU5p?oc=5"
-      ]
-    },
-    {
-      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-      "score": 19.91,
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "score": 23.54,
       "kinds": [
         "news",
-        "search"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZ5R1J5S3R5UjEzbTdiVW1OTl9RRkFkcFdyYTJNVHpOMVR0TTlQM0YxUUI3VFZwdVEzSFdKMmdCTDVla3VBY3dtOGVxTnEwWFdyeFJneFEwTkZTb3FQQkZveUdGNUI2allxaUNZcVI?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmg0Mjd0NTFOT2xaaEJudi1XMlR1U0xudGU4SjBPTmVRdDUxLVZmVjNxOWRuMVhwdndZckZxcExlMWlBb1JqVktSZGRQOVNlVVhKSTVEVW00dlJ4eFNNQjI0bWViNEJnWE5rdTY3aFJVeUxLUUhtUnc4VGk2UzVqSThJTGtULVdfNS1hQUdiZ3VfUzN3Zm5Cc2VEX19sYXB4bkR0a2cxSWFMVV8tSDdMYXJpWlBoY29JQjdHS2FhdmJYb0NVaGJmYy15cWgxRExp0gHWAUFVX3lxTE1TZjNjbTRMNFFGclJhQkVmNHVUcjhpUjMzUTN1UEZLYW5MMzNCaU5ydmtyWnprMEptZkJBNnQ3M254ak1xOW1DQ2ZQdVFDTEhaUUNsVDVMRXhPRUtuNk0yRXNhWFdPRjhaWTRVRGNDUG1lWmdhTFpBVXBSZjJsQkNZdVowME1TZ2stZjIzRklDSk9EVmNEWWJSTjh0Qm5iS1l1YlhVdHRDUzBLQzBzUDF0ZzRfb2hlV2dPYnVMa0xZckp3bFd1N24zOF9mYXZTdHgzc1k4Y0E?oc=5",
-        "https://trends.google.com/trending/rss?geo=IN"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
+        "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
       ]
     },
     {
-      "title": "Can The \"Happy Molecule\" Serotonin Tag Proteins? Researchers Build a New Tool to Track Them | Newswise",
-      "score": 19.93,
+      "title": "Meetsaini/emulator: new open-source AI project",
+      "score": 19.67,
       "kinds": [
-        "news"
+        "github"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnBCQWozcFNyUlBVNWcwd1RSOEVrUGxQcnFFSUp6OHJBaG11MTh3eDBlUmJ0eHdMU1gxbzczQjl1ZzB5TUFVdlVwSmNQZE5Tcm9uREtZSDVXaXVaR1dQbVhnRVBOd0Q0aUxWX2lBTXRZTUp4cFVIMGZERzZsY2MwNmRFa1RJb2QyeG5oM3BJd1JZQzEwbW81U09fRFBTTnIxXzE0c05SMnBTNGdyWmYxZUduZ01RTGdTaF9nb2RVODVSZEpBeFFKNWlIbnd5ZWM4ZW9tMGhOaWbSAdgBQVVfeXFMTTJwQkFqM3BTclJQVTVnMHdUUjhFa1BsUHJxRUlKejhyQWhtdTE4d3gwZVJidHh3TFNYMW83M0I5dWcweU1BVXZVcEpjUGROU3JvbkRLWUg1V2l1WkdXUG1YZ0VQTndENGlMVl9pQU10WU1KeHBVSDBmREc2bGNjMDZkRWtUSW9kMnhuaDNwSXdSWUMxMG1vNVNPX0RQU05yMV8xNHNOUjJwUzRnclpmMWVHbmdNUUxnU2hfZ29kVTg1UmRKQXhRSjVpSG53eWVjOGVvbTBoTmlm?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnBCQWozcFNyUlBVNWcwd1RSOEVrUGxQcnFFSUp6OHJBaG11MTh3eDBlUmJ0eHdMU1gxbzczQjl1ZzB5TUFVdlVwSmNQZE5Tcm9uREtZSDVXaXVaR1dQbVhnRVBOd0Q0aUxWX2lBTXRZTUp4cFVIMGZERzZsY2MwNmRFa1RJb2QyeG5oM3BJd1JZQzEwbW81U09fRFBTTnIxXzE0c05SMnBTNGdyWmYxZUduZ01RTGdTaF9nb2RVODVSZEpBeFFKNWlIbnd5ZWM4ZW9tMGhOaWbSAdgBQVVfeXFMTTJwQkFqM3BTclJQVTVnMHdUUjhFa1BsUHJxRUlKejhyQWhtdTE4d3gwZVJidHh3TFNYMW83M0I5dWcweU1BVXZVcEpjUGROU3JvbkRLWUg1V2l1WkdXUG1YZ0VQTndENGlMVl9pQU10WU1KeHBVSDBmREc2bGNjMDZkRWtUSW9kMnhuaDNwSXdSWUMxMG1vNVNPX0RQU05yMV8xNHNOUjJwUzRnclpmMWVHbmdNUUxnU2hfZ29kVTg1UmRKQXhRSjVpSG53eWVjOGVvbTBoTmlm?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnBCQWozcFNyUlBVNWcwd1RSOEVrUGxQcnFFSUp6OHJBaG11MTh3eDBlUmJ0eHdMU1gxbzczQjl1ZzB5TUFVdlVwSmNQZE5Tcm9uREtZSDVXaXVaR1dQbVhnRVBOd0Q0aUxWX2lBTXRZTUp4cFVIMGZERzZsY2MwNmRFa1RJb2QyeG5oM3BJd1JZQzEwbW81U09fRFBTTnIxXzE0c05SMnBTNGdyWmYxZUduZ01RTGdTaF9nb2RVODVSZEpBeFFKNWlIbnd5ZWM4ZW9tMGhOaWbSAdgBQVVfeXFMTTJwQkFqM3BTclJQVTVnMHdUUjhFa1BsUHJxRUlKejhyQWhtdTE4d3gwZVJidHh3TFNYMW83M0I5dWcweU1BVXZVcEpjUGROU3JvbkRLWUg1V2l1WkdXUG1YZ0VQTndENGlMVl9pQU10WU1KeHBVSDBmREc2bGNjMDZkRWtUSW9kMnhuaDNwSXdSWUMxMG1vNVNPX0RQU05yMV8xNHNOUjJwUzRnclpmMWVHbmdNUUxnU2hfZ29kVTg1UmRKQXhRSjVpSG53eWVjOGVvbTBoTmlm?oc=5"
+        "https://github.com/Meetsaini/emulator"
       ]
     },
     {
-      "title": "Aria Advisory taps Akur8 to reshape Canadian P&C reserving",
-      "score": 21.43,
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "score": 19.62,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://huggingface.co/blog/allenai/robotrack"
+      ]
+    },
+    {
+      "title": "OpenAI Elevates Akash Iyer To Lead Social Media Operations Across APAC",
+      "score": 23.55,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTNldkJsSC1OYkJsN1dOM2E5NTZ0RUdSMHNZYVlZNC1VaHUzT05lRTNaaFNMakI1VUlpajZoek5SN0syNEtaZ0Z0Ym05RENDc2phSFhHV1VOd3VUTmQtTGJLaXc1aVRwSDFDdFhheWk0SHFhQ0F6NUxydXNBNmpUM2k0RnBWLXdsZ09DcFA5TDYxWVJTZ05Z?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTNldkJsSC1OYkJsN1dOM2E5NTZ0RUdSMHNZYVlZNC1VaHUzT05lRTNaaFNMakI1VUlpajZoek5SN0syNEtaZ0Z0Ym05RENDc2phSFhHV1VOd3VUTmQtTGJLaXc1aVRwSDFDdFhheWk0SHFhQ0F6NUxydXNBNmpUM2k0RnBWLXdsZ09DcFA5TDYxWVJTZ05Z?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTNldkJsSC1OYkJsN1dOM2E5NTZ0RUdSMHNZYVlZNC1VaHUzT05lRTNaaFNMakI1VUlpajZoek5SN0syNEtaZ0Z0Ym05RENDc2phSFhHV1VOd3VUTmQtTGJLaXc1aVRwSDFDdFhheWk0SHFhQ0F6NUxydXNBNmpUM2k0RnBWLXdsZ09DcFA5TDYxWVJTZ05Z?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREJiQm1idjFYRGhjS24xaFpxVno0QVFMMlR3eTdyc0Y4b1NPTjllcTFWbHNBemdneGpIdU1McmhweWQ3WUxJeEkycG50ZXNYY1dCdXRDb1NSZkZCbmpJTmx6akMzdjM2UVo5X2pQZXJDSTNJQzN3Sy0zR2pUbHVPOFNkNTkwR2NSaXIwb2FXSWFEVlBFbHhqRnpFMC1JQVQzQjMxelpYTlpGeEhmQkZfeDdTY2JZczl5RVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3pzZnpOTmh4TnVHYjZpZ3pFMGFpMW5fSXBJSkxmUnFGUVZJNzczXzVZNVBhdWZ5SFJHdVJEVHh5UDlfSjJ4SnlJdXdySkFUMUNkZTRYb3dyVF92Z01ab3oxN2NYY2c1VWFiclBtc0FNdUI1THJTWlpvVjRQSkxpMmJtSXdwRG5ucjgzbU1FalVHdzA2eU54dHZLOXhaZWRGWGc?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnpJc0VkQzVvS1ZrbHZ4YWhJQmdpVGY0M1kyUkNocTZaOXEtVlc4bzJVSVBJb3pFbk95Rmh3d210SWFiRXFob2tmcXJHdFhlNVgtdmNhRVlhTzVuNWROZ1Vkdm1VcjhkdTdyMDlndEt6T29kOTFTQTlzYWNfYmJJenBPeXdFU1Z4RVBDWm9BYlVfUjgtUGpOQ25TZG54SVBRTFZOZnlUSnFQRmV4OWxwWUw5ZkV1dmJ5LVE?oc=5"
       ]
     },
     {
-      "title": "Surgical Management of Eruption Disturbances in Maxillary Central Incisors: A Report of Two Adolescent Cases Involving Odontogenic Obstructions",
-      "score": 19.89,
+      "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+      "score": 31.66,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpkSlRjTVlHZjNWUkY0eWs0SXFmV24tRHZQNWRDRXdDRjRVX1Vnb2tZOEx5VEtHZ1U1Ym9uY2FlcGp4dWx1cDlHd09DeU9oR1dVZUJZLWdVRGVOT292RE0ydTU4VVpHTTlURGtGUTJMaUxqWmJKYzRGQzJZM3ZtR3FhVVB4OV96Mm4tYV9xTUdPeF9YNmxVQmJaaHZGTF9wYV9oYlJETjRTdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGlTSGFISmpDT3Q4cUVmM0lYd3dQMGhjY3ByTTJkcDlRdEZDS0FlQlhKdVMwWVBaWUVSU2dEVkc5N3R3SURpWENFb0VMdURCaVBKSGNQX056cjgyMmFZcTNrOGtVdHZnUjB6NkdHcTMtNklqUDN5bzk2OHdmZWdWNjZjVGd2REJyS1lMcndZUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlY0WWNvWTR5bnhHNEFPVG5Xa0JLVlp0OXlNVjhLUzBiNW9nWExsNGxmX19qLWxGS3EyUC1lQXRLbXdaN0dCRW1HRGJLNDdsMzF1SHRDcEhBSkQweU95QVVsZnhJVzFkQ3hJREdnZUdqSEt1WUdhcjRFNFRGNFViY3V5blZDVV92RzgteGRDcEhhbWxsbUhFRkVyU2VpZU9Rd3BHM1F4MlFtcFZLS296bHd6cl9ua1prQ0NB?oc=5"
+      ]
+    },
+    {
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "score": 43.76,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG9iTHJ2RUFZRnYtZHQyX01EU3pnY1BaT09BSkxPWUR4bDV4cFNhanZOSzFoMU9adTcwTEJMMkZqajRLZnZ5X1dEcXVaTXVrQnZfLXYxa05OQ1ZacjVoek4yRlo5M2RsSmhQdllVOVNGQTFHa3ZtRnFOWnBENXVZMU9LVF9hbGcwYmhBRmV6MEJxekUzbmZ1SXphUVNJb010QjAwRE13TmJOM2M?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NLS1tbGtuTmZwMXNKSVNlYXJCbUlNZWktcE5sWjdkSVZkbDd2Y3d5STBVaWhOczBCUF9LU1MtMjdUVkdvYzhFVmxMRnBtcjFsWkUtYmtmOWRfZFg5WDJ3S0M0TXZWOW5kc0N2cEJWWGY2MGFaRXc?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5"
+      ]
+    },
+    {
+      "title": "Issue statuses and repository boards are in public preview",
+      "score": 20.44,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview"
+      ]
+    },
+    {
+      "title": "Secret scanning reduces false positives for Slack",
+      "score": 19.93,
+      "kinds": [
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack"
+      ]
+    },
+    {
+      "title": "motorola signature 27 to launch in India on December 9th",
+      "score": 20.79,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNblVfOUhpdWhFZ0c3c1djcmJzeENjWFhxazJ1WlBIaGR6cmxwa3dmOWJiUUhpTWViWURlbS1hTm8xTlZEekJYYzEtNnhwbUlvd1V3d0FDcnB0SmpoS01rTk5CU1JzSks5TFJhRF9tdlMzSFA0VnlMUHlXUWNvb0F5QklMTzZmS0Q2RzNPMGNtdE5WeF9ERVhqZ1ZpcklBaFBwUFRTN3diZF9zQ19TbFZUcDRqSGZYcWZtdXpKOTR6RmlzUlNMb1JOY3JRYWlQMG1ZaEZUSk51enFwZU5RaElYdjhkRU5qNV9Db2thTmlwYnZBeFN0ekpBWWtTZFBPVUdBVDZYcU9rN21tLTZ1Z2c?oc=5",
-        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNblVfOUhpdWhFZ0c3c1djcmJzeENjWFhxazJ1WlBIaGR6cmxwa3dmOWJiUUhpTWViWURlbS1hTm8xTlZEekJYYzEtNnhwbUlvd1V3d0FDcnB0SmpoS01rTk5CU1JzSks5TFJhRF9tdlMzSFA0VnlMUHlXUWNvb0F5QklMTzZmS0Q2RzNPMGNtdE5WeF9ERVhqZ1ZpcklBaFBwUFRTN3diZF9zQ19TbFZUcDRqSGZYcWZtdXpKOTR6RmlzUlNMb1JOY3JRYWlQMG1ZaEZUSk51enFwZU5RaElYdjhkRU5qNV9Db2thTmlwYnZBeFN0ekpBWWtTZFBPVUdBVDZYcU9rN21tLTZ1Z2c?oc=5",
-        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNblVfOUhpdWhFZ0c3c1djcmJzeENjWFhxazJ1WlBIaGR6cmxwa3dmOWJiUUhpTWViWURlbS1hTm8xTlZEekJYYzEtNnhwbUlvd1V3d0FDcnB0SmpoS01rTk5CU1JzSks5TFJhRF9tdlMzSFA0VnlMUHlXUWNvb0F5QklMTzZmS0Q2RzNPMGNtdE5WeF9ERVhqZ1ZpcklBaFBwUFRTN3diZF9zQ19TbFZUcDRqSGZYcWZtdXpKOTR6RmlzUlNMb1JOY3JRYWlQMG1ZaEZUSk51enFwZU5RaElYdjhkRU5qNV9Db2thTmlwYnZBeFN0ekpBWWtTZFBPVUdBVDZYcU9rN21tLTZ1Z2c?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZURDU01LRFF5TnBieFRvZVkzRlROQ3JjYTd3WjMtZ0RYMkJsNDFYQU9lRXBMeXVUMlFRQUVJN0hoVzk4TGg4MVRRMkVkR1QzWXpnVzdSbFpUWkZ4VC1kYU02MFNrTVhDblRXeHRXUzMwaFg1OHVpLVg5Q0kxRFR0ZloxTzNsNlRjc2fSAY8BQVVfeXFMT1VlN0pNWGVIVUNUVmxZVWlmVWRxM08yRlY2aFNwV2szM3VadzdpTDJSSUllN1MxWkFiRVc3aUNGazlEajFNUlIycnh2OWhLUUdBcUZrbS1QMEhvZEd0THhBbUd1VFo1WXZfSHRPaE5WMHJfQ2dfc3h4UTROX3lTckV2OUZHOGdWN01pUXBTNGs?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTTVJVEFZLVVyMTZuV0sxSjMyREU5WFBOd0VyMWdweHlxdE9Oc0x3VUIyTkRvUm5WTDE3Zzd6MFVVU2JKSVkwWHFKM28wVFdsek5kek8xSWIyUnJ0MlZCMU1FUHFtUHZSbG85d1BvMjNhR3VyTGhmV3cyT0VZa1ZfRkZDaEZBWmNqWk1JRV9PRkxpZXJSZHk3bUZZRndXTW5KUkM4U2paekpjdjRxNm4tYXV6aFRxWUVwQ1RZ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnFWemVJM1RUNlNheTFiQTFYMURibHd2QzZTUnNjNXRWemlESTlhWjY5OTlPQUdnbDZ2M2JLNXduZG9ZU25Odm15d2h5SlB3X1JSTUpUdUp6OUpZSkN0Z0I4ZVByT3hYWm94WlRPNEI0NW9pTnFpV1Fhd1pXWDRuS2JZYkcxd2k2dTY3S2dzUUhOZ0xDaHNteEMwZDByUGFma25BSXRFZmtCckpGWFdaOUg0clNrQzl4LU9nU3hoTQ?oc=5"
       ]
     }
   ]
