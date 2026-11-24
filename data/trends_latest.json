@@ -1,23 +1,39 @@
 {
-  "job_id": "2026-11-24-evening-1701",
-  "chosen": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
-  "reason": "Cashfree enabling AI agents to autonomously execute wallet payments in India is a major practical milestone for agentic workflows and local fintech innovation.",
+  "job_id": "2026-11-24-evening-1802",
+  "chosen": "India AI funding nearly doubles to $1.6 billion in nine months of 2026: Tracxn report",
+  "reason": "India's AI startup ecosystem is experiencing rapid growth with funding nearly doubling to $1.6 billion, highlighting huge opportunities and momentum in the regional tech landscape.",
   "candidates": [
     {
-      "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
-      "score": 19.72,
+      "title": "India AI funding nearly doubles to $1.6 billion in nine months of 2026: Tracxn report",
+      "score": 25.75,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVExZTJoYmcxblJUTzhJR1E3NWE0djY0aGpaaTAwUjZINXo4a0h3b19oaUYyemNuaHh4Y0FUSVJDakdFdVNlNlpTaWpDVEVWX2NxNmlkdEpnNE0temxaLURITGd1SmhUbjFnMEpVaTVBaDRQMkJhbFlHSGxTREFqX1p4MGdtYWhXU3cxU2tJVjBiWUFYbk1JWUgyazJmWGRsZDFZ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFl5Qzg0NDBzWmpmLWozbVB1c0Z6RzQ0eDJSRFNBUkUyZkkxeWlRUS1zMEhjc1ByRUxBaHhEenNYc0JPMHhTLUk3bzJlaWhoc21mUHRlVHk4MUp6elJpbjl0MEpKV0RlRGlHNmlNaXQtTjljTkk3MEhnMjlMM1hOMXRnN0pHM3RiVnBVcDVFeURaU0VUcEhfYndkdG1EWE9feHhlWjByYjc5QTJEYnN0cms1NnZtQmV0dl9yS0hKNEZwRWNv0gHSAUFVX3lxTE96Ukluc1dyYlZDNk9Cd1Bwa2lndjdGQ1ZGOUw0aEl0NG1TdkY2cW1JOXZGdTh0ampuYTFNY3ZYQmM5bGl4Y1FBai1DS0xaTHdlVElwa1RiNmd4QnNwYlRIU1dYcEZxNUR5NUNiSHkzeHVQdkVoLW5SRVltSHZweTdLLXRqVHQxbHAxQ2ZwZ2ZiOE1yT0JRNGtSRDNRQlNzTHQ1SGpBTFlQaS1fZ1VoM1lFNjVqN1pSeW4yRTI0NEN2UWJ5TkJ2M1hFRUNzUGNWZ0lqUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRVV6U3NIQnhBTWEza0diX1lXTEJaZnNCRWk2RkU1VnNTUy1DX1pqYjRHQ2Y0azhmZ1ZXdEl4ZmdEbXhSMnNQellhZV9mUi1oa0I2VFJOZ3QxMWQzemo2Ulc5LXZRems2enFIMHlNMUVOX2poXzM4YmUxckllenhZM1MxZU1UdWh5UHNvRjdwSS1ydWpMSWlid1JWWnFhY3dsZm1pdV9xZF9xUGNXRkUyY21QanlxZDdHWTFhbF9iU0Ewb3l5Q25TM0F6LVlCSFN0RGZtTmt4ME1MSmF1SlE5NHVpM3k1QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaUlYeVR2UWlYT2RYb3kxa0ljc2VRcUhyeWh0YWphSkRFSHZnQVZWUTMyU1J0alhLVnkyWWVfanlIcEtaU3FVOFpITHY3aVVxbXViUVFaTjFaNzlZUnRMTmtkWHZqazBsMVlYUVpWdzI3YWd0V0JHNDdpRHhMSnFRRXdKa3VYUC1EcGItZTNIYkdKYS1wYUpaSkU1elJvMXdNNi13d0hOb01EeG5NcVlvUDd1a2hDZTRIanNaNzU1LXNLOXEyNElNTzNHcTBqZUk?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFJYRWhmaE1OV25IUHVKWDNSRHpOYVFTVFFjU3d3TXFqTXh6QTI1LWtXYmJLRGhscTE4eTFSMElkUEltYU1VYUYyLTdoQWoyemUwbkJIRU5OckxYMkNaeEZGYnRodWlVaHZJTU1SNWV4UXNveHVRSEI2RHNnVUQ2dlZzYWRpZFBrN3c?oc=5"
+      ]
+    },
+    {
+      "title": "OpenAI onboards Sana Shaikh for Global Ads Solutions (India)",
+      "score": 23.46,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1vNS1Sc2JnTENGZzdKVW5ZTGZtYk1zTHJXUEYzQzJveENTQXduM0VWY2RjakFxWnByZjQwT21fX0I0cFZNbVpmeUFfWHp1TTFpQm44eDBicXJFTHhJeWNMSGR6Y1pMOUpaTW12dm9ybVUyN0lYTm5OSHJYMGVLZkkxdFR5OXVIZ0E1UGZBcHpqTmlEQkZrUkp2MzlORWxGM1lDRW5VYXZLZzJnS1F3aUJrSEo?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEZLQWtOR0NSQ2taWHl1VTQyOXczOXZpUnB1SjNyZ0JIbjZwVFU4R2VCZ0hTRTViNHVGSWFDLTZtR01ndjJJSWQ0VUlndUIxSmhFRXpHYk5MeEJTd1MtZVJFN0JlNmdkX0k5d0VIcVJGa2hiYTdLWUwwYUhKc0pyNjluQnIxQ3doeFZQRVl2a2hPVldiNm1sR2NTcGJlcHZBWk9aWVpJeW1oS2VELTVkREhXaGlQQy1VbXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb29PamtXVXlnVnZTMlVZT0hVMVdVWmJVVXBnLUVyQnFMVjR1NUFmenJTYkJ0cldpSHZoRV9hYlRrbFVFejZreDJwSkJqQXdkQi1falo5bXlnVXlVb255d05sb1pNbFYtQXEtSGRTazdJXzgyME1yTGpIQVduWTVpVnJZUjFLR1I0T1lzSFVCSGx0a2pRcFhnNWh2akRMNlJ4enfSAaIBQVVfeXFMT29vT2prV1V5Z1Z2UzJVWU9IVTFXVVpiVVVwZy1FckJxTFY0dTVBZnpyU2JCdHJXaUh2aEVfYWJUa2xVRXo2a3gycEpCakF3ZEItX2paOW15Z1V5VW9ueXdObG9aTWxWLUFxLUhkU2s3SV84MjBNckxqSEFXblk1aVZyWVIxS0dSNE9Zc0hVQkhsdGtqUXBYZzVodmpETDZSeHp3?oc=5"
       ]
     },
     {
       "title": "Finding faster quantum algorithms with agents and formal verification",
-      "score": 22.37,
+      "score": 22.12,
       "kinds": [
         "backlog",
         "news",
@@ -31,36 +47,35 @@
       ]
     },
     {
-      "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-      "score": 19.17,
+      "title": "CortexSpark Ventures Enters India's VC Market With Sebi Nod For Rs1,000 Cr Deeptech Fund",
+      "score": 19.53,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFJYRWhmaE1OV25IUHVKWDNSRHpOYVFTVFFjU3d3TXFqTXh6QTI1LWtXYmJLRGhscTE4eTFSMElkUEltYU1VYUYyLTdoQWoyemUwbkJIRU5OckxYMkNaeEZGYnRodWlVaHZJTU1SNWV4UXNveHVRSEI2RHNnVUQ2dlZzYWRpZFBrN3c?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5"
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDhzZkxDdXhqWDZNdHJFSXdFVmlVWHdydXNHV0x0NlZpQjRsOVFFQ1ZraklpR29qNmwyVWpmYlY5VE1Qbk91WG5LVTFOekU5cUNWRWhaS3N2cjBSVmpxeTZ5N0twYV84M1FXajVFcVZvQTBlaDZhZ0ZweDEwVEEySjhva2Vfa00xRElQRHRYWkJNSml4cVlPVEVGZFMxRGFkckk5aXNjY2czam1fTUdPeVZBQm5EbXZhMFNWV1lvU1I2WHFUVlF0RFVCZ2ZSLWZ2U2JvV29Ob0VPZGsyMlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzZwdkdnMUpDMTZ6MHNFYWhtS1FiNHFNaW9zN1JscWU0MlZVdU5VWU1na2VrX0R0NGE5VU52WU9xZjN3bVAyTXZfdENuSTNWYTRLajZqdS1tR1I3RHRkVE13WW5ZN2J2QWtPbnhxN1p0VkRvLTlSb3Z0d3Zwend1Q09Md19mWVhuc01WVlFWQ0lSRlM0eVBUSzk3WWZlY3BlVktfOUZyV05HNW5FZGQ1UFl4QmdkNkdHc1VrVTFLdFRsb1JRdnJ3dw?oc=5"
       ]
     },
     {
-      "title": "OpenAI onboards Sana Shaikh for Global Ads Solutions (India)",
-      "score": 21.71,
+      "title": "China's Huawei says it has homegrown answer to US chip design tool curbs",
+      "score": 19.65,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1vNS1Sc2JnTENGZzdKVW5ZTGZtYk1zTHJXUEYzQzJveENTQXduM0VWY2RjakFxWnByZjQwT21fX0I0cFZNbVpmeUFfWHp1TTFpQm44eDBicXJFTHhJeWNMSGR6Y1pMOUpaTW12dm9ybVUyN0lYTm5OSHJYMGVLZkkxdFR5OXVIZ0E1UGZBcHpqTmlEQkZrUkp2MzlORWxGM1lDRW5VYXZLZzJnS1F3aUJrSEo?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEZLQWtOR0NSQ2taWHl1VTQyOXczOXZpUnB1SjNyZ0JIbjZwVFU4R2VCZ0hTRTViNHVGSWFDLTZtR01ndjJJSWQ0VUlndUIxSmhFRXpHYk5MeEJTd1MtZVJFN0JlNmdkX0k5d0VIcVJGa2hiYTdLWUwwYUhKc0pyNjluQnIxQ3doeFZQRVl2a2hPVldiNm1sR2NTcGJlcHZBWk9aWVpJeW1oS2VELTVkREhXaGlQQy1VbXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb29PamtXVXlnVnZTMlVZT0hVMVdVWmJVVXBnLUVyQnFMVjR1NUFmenJTYkJ0cldpSHZoRV9hYlRrbFVFejZreDJwSkJqQXdkQi1falo5bXlnVXlVb255d05sb1pNbFYtQXEtSGRTazdJXzgyME1yTGpIQVduWTVpVnJZUjFLR1I0T1lzSFVCSGx0a2pRcFhnNWh2akRMNlJ4enfSAaIBQVVfeXFMT29vT2prV1V5Z1Z2UzJVWU9IVTFXVVpiVVVwZy1FckJxTFY0dTVBZnpyU2JCdHJXaUh2aEVfYWJUa2xVRXo2a3gycEpCakF3ZEItX2paOW15Z1V5VW9ueXdObG9aTWxWLUFxLUhkU2s3SV84MjBNckxqSEFXblk1aVZyWVIxS0dSNE9Zc0hVQkhsdGtqUXBYZzVodmpETDZSeHp3?oc=5"
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeWlBY2QyNWlreFpVQlVxajJMTFRLQkRkSXBSQjlfOVpIdmloa19BMWRvU2lucGVWanJ6ZHo1ZENSOXI2NGVIeU93UVVmSDNRUlpjdnVCNktiVFFrMEx5dWNJWlppR3pDYW45Y2NsakQ0ajJuY29TcGhhMmhsdTJKZ0xlZzNsbmpUcS1NSGhmWG1ydnNEYUVqRmdFU0ZfdDU5WmdOVUxIcm1ETVhDekJEMm5tYU9uZ2RjeG1ieHUtMmQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeWlBY2QyNWlreFpVQlVxajJMTFRLQkRkSXBSQjlfOVpIdmloa19BMWRvU2lucGVWanJ6ZHo1ZENSOXI2NGVIeU93UVVmSDNRUlpjdnVCNktiVFFrMEx5dWNJWlppR3pDYW45Y2NsakQ0ajJuY29TcGhhMmhsdTJKZ0xlZzNsbmpUcS1NSGhmWG1ydnNEYUVqRmdFU0ZfdDU5WmdOVUxIcm1ETVhDekJEMm5tYU9uZ2RjeG1ieHUtMmQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeWlBY2QyNWlreFpVQlVxajJMTFRLQkRkSXBSQjlfOVpIdmloa19BMWRvU2lucGVWanJ6ZHo1ZENSOXI2NGVIeU93UVVmSDNRUlpjdnVCNktiVFFrMEx5dWNJWlppR3pDYW45Y2NsakQ0ajJuY29TcGhhMmhsdTJKZ0xlZzNsbmpUcS1NSGhmWG1ydnNEYUVqRmdFU0ZfdDU5WmdOVUxIcm1ETVhDekJEMm5tYU9uZ2RjeG1ieHUtMmQ?oc=5"
       ]
     },
     {
       "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-      "score": 18.97,
+      "score": 20.72,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -71,61 +86,22 @@
       ]
     },
     {
-      "title": "Google AI Bridges Search And Wallet To Unlock Spending Signals",
-      "score": 22.9,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5"
-      ]
-    },
-    {
-      "title": "Jensen Huang is back as Nvidia CEO. What does it mean for India's AI growth story?",
-      "score": 28.77,
+      "title": "Nvidia Reinstates Huang as AI Industry Faces Leadership Risks",
+      "score": 25.77,
       "kinds": [
         "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSXc4dU9iZHhzcXJJcGRFTVZUbWZSbFRZMmhZcGNGUmlxbV9jRTdkaVh0Q0QyemhNMFFJZzVHRlM4TjFGcUlrNm00VU1tMlZWRDl2c0k5a3pVQ3dVNnpMVmRjcGY1ZUhseTdBSXlINm9CdXlUUDFpLVdRWjAxdWdRSzN0d1ByYUZCWGFFbTM5eURHZ3p0X005dDA3cHdtRUhmSjVNUzZTZ1pvZGctZEU0dGRGbk91SGltMlNtd2U1eVVfU2pFeFBvZUMwSll2Ymdta2NFWV9HZWFuWXZCXy1zX29YM3ZUNGgwOE5JZGdFN2V4QdIB9wFBVV95cUxQSHMwSnZiY08ydjlLV3VVbTRuUkU1TzF1aGJsSDRWZVhyMzE4cDVMaHppc3ZkUDcwLXBVaHBCSS1aOEdTRTBQRHNUUGxnelRTOUNDVU9LRUtncGJPcEg1bUFhTUhXZXNYTTlhb25JTmpRRzRlMjdUSnpTYzlKb3doNzVueHJpaXpkSnhJMXl3cUdNVnVhMnNFQ0ZnMVdUaTZnRUFQRFhPR0JaNFdGcFQ1eVpVNVNySE41cFNrWGxtTnZ5UXRwcXZ6Z3gxa1dvQVhnNlZVX1RwVUh5ZmczajZQb1dMWWduYW10Tk1fZk5zN1NpaFp4Tm1N?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1Fuam9TTm5XTUlTcmVVQ1U3XzViVU5ObV9tcHMyWWhEWGRYaUJIYmpVTjFFdXlLbkNWN0VXU0Y5aWNZRl9QQWVTMllmUXp4aTdLNWhWaV9pU3NpVWFwdkNQWXlrSW5CQ0xFSWNXNEZ1cjZaUEl0T2VzTFJWdlVOaUJjRGxLYnVOZmZBX2ZHVkE5THVHaHJQTUxQeDRjNHdZVC1vbmE0X29mS3BXOWNHTFlLWmFVVkZYY19VVkJ0WDliRld4WTYxTFp0WdIB0gFBVV95cUxOdnI3VGQ1aWdERDVTZXNkY2I1NWtxVjdnM0R1Vnpsa1N2Y0x3Y3hMZWo2cndKbm83eWlnUG1xazRuNTI1QV9DZG9zcFl1UTYyYThDdk5QSmRTd2NNMlBIRkh2Qk5BdUFXcW5TVjZrVVFMRVFOUlNzb1JMMklFb19naWZ3OEQ1em9xU1pIeTljRVFvYm40V2U2SHV2RjhWTlJSNVhQYmQ2WEE2ZWZ4My1BSjJlQVhoTUxtMzlLVFNlT0ltSXd1RUhUZnhEUlYyVmFpQnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1Fuam9TTm5XTUlTcmVVQ1U3XzViVU5ObV9tcHMyWWhEWGRYaUJIYmpVTjFFdXlLbkNWN0VXU0Y5aWNZRl9QQWVTMllmUXp4aTdLNWhWaV9pU3NpVWFwdkNQWXlrSW5CQ0xFSWNXNEZ1cjZaUEl0T2VzTFJWdlVOaUJjRGxLYnVOZmZBX2ZHVkE5THVHaHJQTUxQeDRjNHdZVC1vbmE0X29mS3BXOWNHTFlLWmFVVkZYY19VVkJ0WDliRld4WTYxTFp0WdIB0gFBVV95cUxOdnI3VGQ1aWdERDVTZXNkY2I1NWtxVjdnM0R1Vnpsa1N2Y0x3Y3hMZWo2cndKbm83eWlnUG1xazRuNTI1QV9DZG9zcFl1UTYyYThDdk5QSmRTd2NNMlBIRkh2Qk5BdUFXcW5TVjZrVVFMRVFOUlNzb1JMMklFb19naWZ3OEQ1em9xU1pIeTljRVFvYm40V2U2SHV2RjhWTlJSNVhQYmQ2WEE2ZWZ4My1BSjJlQVhoTUxtMzlLVFNlT0ltSXd1RUhUZnhEUlYyVmFpQnc?oc=5",
         "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
       ]
     },
     {
-      "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
-      "score": 20.75,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOFMxM1ktN0lwNGFld1N2SHI0VTI5VkJGc3RoakxPbjFmRGRIR3FmenRORkRVVU1Qb2tjZG9CUW53SjBrUEdjUV9TcFE2d2pqaE9DRUllLS1ZbDhicWF6QVlvUEkweHQ2UHFScnZoTW1scEhORlFuTjllbldfVGFJZmdtdGFYVjUyR1NIczZCa1JQMnk3WGpGQkdnT05UNEtMOGxJWjRsSjRFVVdaTkR0cGtsQkZVU1ljckhqcGwzUC15WVVIZ3FXOW9PT0RtZy1UcEhsRDhBSnFVT2FDdl9nTzhZWU9JTlk0V1E4S0NfdFQ3NlNPdnExWkUxdw?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkFPeXZFUkxtYWdrSExPS21ISjl0TTBDZnN2U2Exek9NTTg0Y3dVeEphMUJLVHZxNFIyN0RRZGdseEc3anRPQkpicjRzVGFibHp2a0l4MmlVUnAxUE40Ui1FejBDZVl3WUtLeHdxQVYzcnhYd3dNUkswby1LTERWU2prbC1OdGFDV0pfUl82OU1BcC1qYmpaVUUySjJ4bTNmaWlpQXF0aTVybTdieVZlR2dLWkNTNlpPVVpuaThwaEtUdnpsLWE0bXFSSVc4QdIB0wFBVV95cUxOczZfQVZSUlhFOXVBeXJHTjJ2SUE2OVgxampPck96MUcyVzhiTFhic2gybkE2Njg4RnNtZTByLWZENV9MNEgzb1VvM1dRN2JrZHU1Tm9COFVfbk9nbTN5dVI0QkNWdXVPTFVSZW1iR3RwTTRrZzJ0VmlEMmNnUUdibVl3Ym9zNmQ4cWZJWmtyWW9nV0hlb29RbnN0T1lDMTEwdjhBSlFZWElFS1hndVlMeGI4dGJGODV4dmVzNTV4a1JDNnZOeW90WHFsOUs5cWEzcmFV?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpkSlRjTVlHZjNWUkY0eWs0SXFmV24tRHZQNWRDRXdDRjRVX1Vnb2tZOEx5VEtHZ1U1Ym9uY2FlcGp4dWx1cDlHd09DeU9oR1dVZUJZLWdVRGVOT292RE0ydTU4VVpHTTlURGtGUTJMaUxqWmJKYzRGQzJZM3ZtR3FhVVB4OV96Mm4tYV9xTUdPeF9YNmxVQmJaaHZGTF9wYV9oYlJETjRTdw?oc=5"
-      ]
-    },
-    {
-      "title": "First industry-built PSLV ready for launch in early 2027, says Dr V Narayanan",
-      "score": 19.76,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXVpS2lZWjJUbllSTGJMaDNkRDNybWtLMlBTeGFLREd0bDRUcS15Tk8waU1CQ0JPTmVyRUhIZzBITGhtWkFKYTNjbVF3c3JwbHBiQ2JYVEhXUmV4NE0zRGVnUHM0UHJyUjJoYUNRN29POThEck1sbEY0TkVrSF9aZDZFRzdxOF9vNkwzckVWVndQdnZvWGZYbWJBTXJKWW5iY0tDUWFHbUE4MDUweUFiaWczTDBwMDB4TVFuUVpScHlRcVRtc3VGbjRsZFVZVUxHSFpobXA1MEdjZWZoT0xJ0gHmAUFVX3lxTFBjQjZJdHpGemdLSjM1OTl5Vzg3a25iLVV2YlpZT2pmc1lWWUR4M2tzaTFLNlcwb09ST2RMY1NDZko5emtsVlpQSE84RHI0MGk4cWY1UklPUkV5dW1lcGZfNkM4QWdfODJrWEZhNUNNcG9kSkdXbWFGeFBXcE1WdzBmckIyMy14a054ajJXcURVczI4eFhheUY4N09zdl9Id0N2UFRsaXF1OHlHdXFwY1p1Y0hLaVVhb09JZFFja3dHSmhTMEFTU2hHTEkwelJ4WXFPZXROUmtfN3ptdzZSdG9zcFpTVFpR?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1FIQ1B4RjFoTktLRDVhbTN3QTd1Nzh3WTNTTHZYUnNMX2hsd1hJenI1T0J6bndBbHd6ZW9IbmVxTTdUY2sxdld3OEZTemNDYTNtSmdEdTJ6eC1STWRITEo3ZG0xblNPLXpyeE9qUGdiLTlQZWtDQkwyTmlzcVV3RlJ5cXVUaU5UVjNiMTl5aldETGJqU0FoMGE1LThjS0xkbi1keDdXREY?oc=5"
-      ]
-    },
-    {
       "title": "motorola signature 27 to launch in India on December 9th",
-      "score": 39.73,
+      "score": 35.48,
       "kinds": [
         "news"
       ],
@@ -138,28 +114,54 @@
     },
     {
       "title": "Motorola launches Edge 70 Neo for premium segment buyers in India",
-      "score": 25.03,
+      "score": 20.73,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFYWHhfWE1ReFJBSFZLUTZpYzVpNmNRV2N3SWc4QWFTNEdBOEpad3ZzYzExN3Y5N0dHSDNOdVhFRHU3bGN0aXZfb05rNmVfa2I4NmhwTTJma0NQRVdobk5DNU5BeWZhUFl1aFZzLUJvMkE2S1dXOGlEeDBFaHhHakszdWh6Q1VVNDd2SGtlNUJnVVUwRkJCMWFXVjZreWhPeGRHc1RoWGRTSXZ2YlBrWExaT1V3aEtWSGtOalhWbE5RbVhBQ3ZEUDk0ZUFmV3RvN0puTNIB2wFBVV95cUxNR3YzMl9ZemI0bXFuVFhFNVJNek5JaXhQVm5pd2lCcEJEdEVlcVA4VlpKWUZQZjJjM2RrdVBhUnB6SHhKeEdqbnMxMFE0UmYya01velFYWG5nZGRBS3ltR3BidzBRSnFlQ21wVkJFU2pJZHU0VnpUTnVrakk1cmt6LUJsd2VKdjk1ZGw4eHN6cHdMUVZYcjZQX09QQnM2Rk1aODU2bjdTNko0S2U5TG83MTFhV0ZUUzdXUTFMQV9HVlMwSHZHTFNzTi04dHViTkp6cUtsaWhzUlZJVlU?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONENpLWZnSmU3czFiejVpOHE0SHk5MzJuMUVBTmRBR2hMYUFYUXBiUFVtdWRvY0Rrd3dmUlN2OGdjT3pIcExpUTZuNFp0U0RGUXFqU1NOQm14clFuaW9EQnVWMnBTcHd2WGh1OTVpWGdRWW9ub29SLUdQeFFmQ0NRUzZIRlcxeHkyclZsc19FemRyMElDUEt4aQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWlWeTNCWWNOLU1oWFZRWlQtRTZPVzNpdWdBcHNtbnp5QWpCVWFlakRjLWdXbkFHN1Qyb0szWWVpWVpsNUFpVzhHWXlWY0l2dEc1eTJPODh1S0tTTkhpRVpLWVd1cG9yODQxN3pDdjZzWHNWem1pSW51cFhGcGxhVVk0U05FNHhmbFVISGJUMXNhdzFaVlY2S1hFMElQYWJISnlVUDZNSTNNNDQ?oc=5",
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXRPMVJzV0FJSFRfU2NXQURwQUFnU3hfNDFCMFhsS3ZhTENvdVhsTU52ZmVQQkRiUHhldUtOUm1PeE9LbHM5Mm00VlpCeHFQUndfMjBQZ1Q4YmROQUJxWXJyOGE0VTZ0Qkp4MVo1VURZeF8zMnhYQ3BXb2dndmxpZFRIMU1ja1ZGcFJ2WHpQX1BrU1ZqUXBiaXBFdzk0Nkpqa1ZuLThpOXYyVlln?oc=5"
       ]
     },
     {
-      "title": "Apple prepares to launch Product(Red) HomePod Mini and AirPods Max",
-      "score": 19.12,
+      "title": "Is CORAL OCEAN the GTA VI Superyacht?",
+      "score": 19.69,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0RVVEwyZHlMdmRHYnl1UER6V3J6WExEVTJHM18xcHg5ejNmSG5GcURIb1J6SjdseVBMUVhBSUk4R19SYmdPcWR1aW9sbUdCa0dQOWtlVVl2TlJjd2p1anNXNm9yUUQ5emRoX29FdU9yeks5c1ZNUUhTSHlYMXNLcXJMQTlJcmNWWTRUR3hFTjNoZkZqMXV6WVpPeU1FOTJZd3h5MGtoMGotR2RwRjZZV0N6LU9RV3Ey?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1RZQTA4alpVdWJHQ2ZnbWVHODBuU3p0dUJMdm9saFBmWG13eVdMdE5VTjdzb1l5aDBUTlg5VnQyZm5HOUpUM1RpaTFlMzRISUctU1NjaV8wb3ZuQTBVbU9KeDN2R0VxcmxLNkJXQnc3dzRGZzRFRDY0WnRPQ0p0a095cVhBaUZGU01mbXJzWUlwYjBRWUZpVnEzdzVwTzVGYTh4WVJkZjExdGdDQmVGVFZiemN1eDJpdzdRR2RtQTJfdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1RZQTA4alpVdWJHQ2ZnbWVHODBuU3p0dUJMdm9saFBmWG13eVdMdE5VTjdzb1l5aDBUTlg5VnQyZm5HOUpUM1RpaTFlMzRISUctU1NjaV8wb3ZuQTBVbU9KeDN2R0VxcmxLNkJXQnc3dzRGZzRFRDY0WnRPQ0p0a095cVhBaUZGU01mbXJzWUlwYjBRWUZpVnEzdzVwTzVGYTh4WVJkZjExdGdDQmVGVFZiemN1eDJpdzdRR2RtQTJfdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1RZQTA4alpVdWJHQ2ZnbWVHODBuU3p0dUJMdm9saFBmWG13eVdMdE5VTjdzb1l5aDBUTlg5VnQyZm5HOUpUM1RpaTFlMzRISUctU1NjaV8wb3ZuQTBVbU9KeDN2R0VxcmxLNkJXQnc3dzRGZzRFRDY0WnRPQ0p0a095cVhBaUZGU01mbXJzWUlwYjBRWUZpVnEzdzVwTzVGYTh4WVJkZjExdGdDQmVGVFZiemN1eDJpdzdRR2RtQTJfdw?oc=5"
+      ]
+    },
+    {
+      "title": "Black Friday streaming deal: Get Peacock for $2.99/month",
+      "score": 19.9,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSY3h3UEJkcG8yck14V3F0VnFhMEpNRVlRMTJkbEZGU1ZMV2Z4M09obmIySVJjYWVtQnMtM1NlOE51ZzB3dERmSDJnRWoxMGFZdTdlMUFWQkc2dnlfb2RDblBTMEdIQ0ktRHNwbklsSDZZQmQ5?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSY3h3UEJkcG8yck14V3F0VnFhMEpNRVlRMTJkbEZGU1ZMV2Z4M09obmIySVJjYWVtQnMtM1NlOE51ZzB3dERmSDJnRWoxMGFZdTdlMUFWQkc2dnlfb2RDblBTMEdIQ0ktRHNwbklsSDZZQmQ5?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSY3h3UEJkcG8yck14V3F0VnFhMEpNRVlRMTJkbEZGU1ZMV2Z4M09obmIySVJjYWVtQnMtM1NlOE51ZzB3dERmSDJnRWoxMGFZdTdlMUFWQkc2dnlfb2RDblBTMEdIQ0ktRHNwbklsSDZZQmQ5?oc=5"
+      ]
+    },
+    {
+      "title": "ICC's 2027-31 Future Tours Programme to be finalised in January",
+      "score": 19.54,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWtDTDgtM0dSUVpsMkRiQXNSWnBUaWpGb192bWdWOUVsMVVybWVSTXdEZ2RPS0szcldlMks1ZlJYekhUcWNfdkVkclp6YktaaFEzdEprVy11LTNtbTFtYTZseF9waU02cU05UnBpekdyZDNjTkZURExFYS1vVUlHRW5wMEJGdTM1ZWIyV3JfeGNXWEotVnA5N3I4T3BOSjNvbXo2TmRtWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWtDTDgtM0dSUVpsMkRiQXNSWnBUaWpGb192bWdWOUVsMVVybWVSTXdEZ2RPS0szcldlMks1ZlJYekhUcWNfdkVkclp6YktaaFEzdEprVy11LTNtbTFtYTZseF9waU02cU05UnBpekdyZDNjTkZURExFYS1vVUlHRW5wMEJGdTM1ZWIyV3JfeGNXWEotVnA5N3I4T3BOSjNvbXo2TmRtWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWtDTDgtM0dSUVpsMkRiQXNSWnBUaWpGb192bWdWOUVsMVVybWVSTXdEZ2RPS0szcldlMks1ZlJYekhUcWNfdkVkclp6YktaaFEzdEprVy11LTNtbTFtYTZseF9waU02cU05UnBpekdyZDNjTkZURExFYS1vVUlHRW5wMEJGdTM1ZWIyV3JfeGNXWEotVnA5N3I4T3BOSjNvbXo2TmRtWQ?oc=5"
       ]
     }
   ]
