@@ -1,38 +1,29 @@
 {
-  "job_id": "2026-11-25-morning-0257",
-  "chosen": "sous-labs/songe: A training engine for your local model, using your idle compute",
-  "reason": "Songe offers an open-source way for developers and enthusiasts to train AI models locally by utilizing their idle compute power.",
+  "job_id": "2026-11-25-morning-0413",
+  "chosen": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "reason": "Demonstrating next-generation AI model capabilities in protein design highlights a major breakthrough in biological science and future tech applications.",
   "candidates": [
     {
-      "title": "sous-labs/songe: A training engine for your local model, using your idle compute",
-      "score": 24.26,
-      "kinds": [
-        "community",
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/sous-labs/songe",
-        "https://github.com/sous-labs/songe"
-      ]
-    },
-    {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "score": 24.9,
+      "score": 30.97,
       "kinds": [
+        "backlog",
+        "community",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw?oc=5",
-        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
       ]
     },
     {
       "title": "India tops APAC in AI use at work; 96% employees turn to it regularly",
-      "score": 20.78,
+      "score": 22.46,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -43,8 +34,21 @@
       ]
     },
     {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "score": 24.26,
+      "kinds": [
+        "news",
+        "official"
+      ],
+      "primary": true,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM3ZIZFNOamhtM3d6TGhRVDZzZmxGVG1SRzlSQVlNUkRmMl9XeGNPaFlodm8tdk5kR0Rzb3R6V0ZZV3lQb3lRbl9MOVh6Rk5kMnhURS0wRUdwYTlYZHNOS2F0d0lFT0xn?oc=5",
+        "https://openai.com/business/customer-stories/ifood"
+      ]
+    },
+    {
       "title": "Sana Shaikh joins OpenAI as Global Ads Solutions India",
-      "score": 23.85,
+      "score": 23.53,
       "kinds": [
         "backlog",
         "news"
@@ -58,35 +62,24 @@
     },
     {
       "title": "Searching for distant planets with Astra",
-      "score": 24.56,
+      "score": 26.25,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZDAzallVcXRPV3JWUGtVS0lMOFdTTjhlOEtlemNScnNhN1Z6Y0tLMXoxdEhhNHdueWw4cFQwVy0xNzBQclVWZXlSUDlVbUNGWnVqNVZ2czdNcTZmS25wZFBmMWlFZkdWSm9LZ1JWdS00Y2Zz?oc=5",
-        "https://openai.com/index/searching-for-distant-planets-with-astra"
-      ]
-    },
-    {
-      "title": "CortexSpark Ventures Enters India's VC Market With Sebi Nod For Rs1,000 Cr Deeptech Fund",
-      "score": 21.83,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzZwdkdnMUpDMTZ6MHNFYWhtS1FiNHFNaW9zN1JscWU0MlZVdU5VWU1na2VrX0R0NGE5VU52WU9xZjN3bVAyTXZfdENuSTNWYTRLajZqdS1tR1I3RHRkVE13WW5ZN2J2QWtPbnhxN1p0VkRvLTlSb3Z0d3Zwend1Q09Md19mWVhuc01WVlFWQ0lSRlM0eVBUSzk3WWZlY3BlVktfOUZyV05HNW5FZGQ1UFl4QmdkNkdHc1VrVTFLdFRsb1JRdnJ3dw?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEY9IBmAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEYw?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDhzZkxDdXhqWDZNdHJFSXdFVmlVWHdydXNHV0x0NlZpQjRsOVFFQ1ZraklpR29qNmwyVWpmYlY5VE1Qbk91WG5LVTFOekU5cUNWRWhaS3N2cjBSVmpxeTZ5N0twYV84M1FXajVFcVZvQTBlaDZhZ0ZweDEwVEEySjhva2Vfa00xRElQRHRYWkJNSml4cVlPVEVGZFMxRGFkckk5aXNjY2czam1fTUdPeVZBQm5EbXZhMFNWV1lvU1I2WHFUVlF0RFVCZ2ZSLWZ2U2JvV29Ob0VPZGsyMlE?oc=5"
+        "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZDAzallVcXRPV3JWUGtVS0lMOFdTTjhlOEtlemNScnNhN1Z6Y0tLMXoxdEhhNHdueWw4cFQwVy0xNzBQclVWZXlSUDlVbUNGWnVqNVZ2czdNcTZmS25wZFBmMWlFZkdWSm9LZ1JWdS00Y2Zz?oc=5"
       ]
     },
     {
       "title": "First industry-built PSLV to be ready for maiden launch in Q1 2027, says ISRO chief",
-      "score": 31.23,
+      "score": 32.91,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -97,9 +90,24 @@
       ]
     },
     {
-      "title": "Gaganyaan mission: ISRO chief says launch preparations are in final phase amid delay reports",
-      "score": 23.66,
+      "title": "CortexSpark Ventures Enters India's VC Market With Sebi Nod For Rs1,000 Cr Deeptech Fund",
+      "score": 21.51,
       "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzZwdkdnMUpDMTZ6MHNFYWhtS1FiNHFNaW9zN1JscWU0MlZVdU5VWU1na2VrX0R0NGE5VU52WU9xZjN3bVAyTXZfdENuSTNWYTRLajZqdS1tR1I3RHRkVE13WW5ZN2J2QWtPbnhxN1p0VkRvLTlSb3Z0d3Zwend1Q09Md19mWVhuc01WVlFWQ0lSRlM0eVBUSzk3WWZlY3BlVktfOUZyV05HNW5FZGQ1UFl4QmdkNkdHc1VrVTFLdFRsb1JRdnJ3dw?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVBfR2pYeU1SR3pTdWFTQjJLUnozUFZqYXVUNnF4aWlnQjRuQ1dhekQ0XzlsQWlnREI2RXNkcGNzeDZqeUlZaG5LdXlERVdreFM4dC1US1JVNXNmYmFlc3VZNDhSV2VWZG1nMVlhMkRBR18wNVBwUHVCeVRMZUpnREZNcE1lTU1saUxWU2V4bHZXeGZYZmxkU2hlT3JBaUZkb05Ncll0NDQtZUtOTDgyV3I0MEpLZVplY0RZaDdkaDJSREVzVmlsTnBoV27SAcwBQVVfeXFMTUlQX0dqWHlNUkd6U3VhU0IyS1J6M1BWamF1VDZxeGlpZ0I0bkNXYXpENF85bEFpZ0RCNkVzZHBjc3g2anlJWWhuS3V5REVXa3hTOHQtVEtSVTVzZmJhZXN1WTQ4UldlVmRtZzFZYTJEQUdfMDVQcFB1QnlUTGVKZ0RGTXBNZU1NbGlMVlNleGx2V3hmWGZsZFNoZU9yQWlGZG9OTXJZdDQ0LWVLTkw4MldyNDBKS2VaZWNEWWg3ZGgyUkRFc1ZpbE5waFdu?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEY9IBmAFBVV95cUxNcS1oRWFsam1VbUJPbHJoN1pTUkp4djlPQ2JIVXJkODlic19nQTBVbGhvTFF4THlfZlE3MDlHS2s0OHloS2dIZ2pmQUlRUEtSbFluTVVvWlZpQUxEUy04VVZPNGdoSUtJeGtJd1FLd0FMRWhzU0lGYmt5aXc5NllEd2hEcHJtOWppbzJwbW1sNG04MHFXTWpEYw?oc=5"
+      ]
+    },
+    {
+      "title": "Gaganyaan mission: ISRO chief says launch preparations are in final phase amid delay reports",
+      "score": 27.89,
+      "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -111,20 +119,20 @@
     },
     {
       "title": "How Intentful uses dots to make more time for growth",
-      "score": 24.57,
+      "score": 24.26,
       "kinds": [
         "news",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jTzlpRVp3cUR1UVduN19ZV1ZBdjViZmI2ekxxSTJrRUlRU2xKR1RRSDhyR1lMUW1VdXltSWczYm1xYklTSVVrSHJZOHlwWXQwXzZsNGREVnFtaVNwRlpXRkNtY1dXbFotdDJz?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfTkxSLUNPcXYxNUVuTWZfN0R0RHp3VjRySndwOGp0U1F6RXVqNjhyU2czQXRHS1dCNzJLT3RqTXkweU9TQWpsYVhkNGNqbUhjdGYyRzdnRllRaXN3YnV5R3pJcnJfR2JEN3B3b3g2WlY4dHV5?oc=5",
         "https://openai.com/business/customer-stories/intentful-dots"
       ]
     },
     {
       "title": "Motorola launches Edge 70 Neo for premium segment buyers in India",
-      "score": 26.39,
+      "score": 26.07,
       "kinds": [
         "news"
       ],
@@ -137,7 +145,7 @@
     },
     {
       "title": "Motorola Signature 27 India Launch Set for December 9; Snapdragon 8 Elite Extreme Gen 6 Chipset and Two Colour Options Confirmed",
-      "score": 21.25,
+      "score": 20.93,
       "kinds": [
         "news"
       ],
@@ -145,14 +153,13 @@
       "links": [
         "https://news.google.com/rss/articles/CBMinwJBVV95cUxNNDVySnZmWmJhbWFFZ1RWVTJsR0VBdnZBQnhKZWFQMzlTTC1HS2pLQXc5UWh0ejJ3Ml9ndGo3WDRqRGpKaWZpQlVlZG9ZekJEblhiUGhrWDJ1ZjFFT0dLVGV0LXVoeExKSlprM1VLRHV5V1Jqelc1YUd0WjhxV1Z5b0VBTTQwOUtXWVNJVVU2WDl3MndYOXAzTkdMV1pkMVprTnpLSjNIRV9ubEk0QWRJRXl6d3pzUFR3UVAxVjE3RkRZMWJ5T3NEOHQtOWhfd19WeVNoX2V5bzc5emlFQ0s3U1lyVE1XSlBoMl8zVkNPakNrdnJieDYzX01qamJKRVVuTjhOb2M4N2pGTkt3bTFVWktUa3VkWk5YS1o3VnZCNA?oc=5",
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1pLOFctMHVxLXZ4QjZqdGVjX0U1elZaUXBUek5ldV9SX2xyZk12TE1QQmp0LW95ZmJZNjVxWHd3WVZYNFpVMWs5ZE40TG43NV9GZEZyMFVrMm9SMnRtdkVUN2V6TWMyQUpTb3dlWURXZ25GRUh4QW9LdGhfVS1oMXd0Ujk0TWM1QkdOU2FfeWFsZG9HQmpBRVp0R3daU0Y5ZFB4ODFucnJNMFZiTG9RTmpsV1ZFOG44VDJndlR1VGlONVpTQXdoMNIBzwFBVV95cUxOMmxGaHRDQUotOVVVaURHX0MxS29IQjdRMUEyel9LaXN1UFA2UFpYTGVUaGhkeF9OZlJuTHVIaTVNOTlYQ2lESGlQblBMbWZMYW5mSnA0bklVb1lHTElKT3FIcElYdi1wZzhCOXFiNHNHWC1KNHVQZ1hJdDZyS2VZcmNxNmd2MnZTT3NUVnZaOVVNTF9kRVBJdjBURWVreGhhY2hocGpva2FKMzVXaGtmRUlDNWF5N01KbG80Q2Y0b2hRZFVDSUE5dmFXVURQbW8?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3kxN0x0QTdzVkNIM0hrMUdpLTBtajUxaVdNcWkySEpCS0xmcDNhNFFPNXptVEpiajIyQkptTnBIY2t5d0Q3eEoxSVBlR0JOa29iU3lTYUlaY2gtWFBiY1NMMmhUWlhJMEtyLURmOXljWkFaTTVkdW1BSUladVRTX3RhVERxREoxbWRkU3dBZDNBQ0U?oc=5"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXJvQTBtaFM3Y3YzdklPLUlDT1U2Zk1ndjk3M3FvbjRBNjVvelctQ2FxbWhzYVdSY1l6LVpLM3hWQ1hOQ19PV1gtMVJheElpd2wwMTVJWl9PdWlFZWczR2lBRWJJVkpWSXZ6ZzJUVVIxV3djeGlNb0lmTk5LRUFWeTNZalhIOUFtVVVvVDh2ZFNKVmdZa1lLR0V5VWxLT19QdUVMM0Y0NTJBcjNMSXVOSkFmNHM0ZWw5RWxXVUZMa9IBxAFBVV95cUxNTVFYX1dfb3NnaWJVbXlqRFNSUXRaYVhjZ3JLZmQ5VG1sYjFfdVR4eDA3UHFyZEhWTzZFVXgzTmwxUm0xNk9rbzFxZzVIUHA2WWxvdmVDTUJfdWM5V0pROE1PSTBidUlZY3V4Rk1hQjYzeHVkeEtnWnp3QnpMNVpDSWQydU40WEM0dURpdE5mR2hrQzM5dG9RRWo0a0RzMklxeU1DeEw0b29PbnZOd2tLRW5PNE5XaUNBdG9qTmY4NmpTWEhF?oc=5"
       ]
     },
     {
       "title": "Motorola Signature 27 Is Officially Coming To India In December: Check Launch Date",
-      "score": 24.89,
+      "score": 20.57,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
