@@ -1,16 +1,5 @@
 [
   {
-    "title": "India AI Funding Nearly Doubles to US$1.6 Billion in January-September 2026, but Funding Rounds Decline",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5",
-    "source": "Kotak Neo",
-    "kind": "news",
-    "summary": " India AI Funding Nearly Doubles to US$1.6 Billion in January-September 2026, but Funding Rounds Decline &nbsp;&nbsp; Kotak Neo ",
-    "country": "IN",
-    "published": "2026-11-23T15:27:56+00:00",
-    "engagement": 0,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
-  },
-  {
     "title": "Finding faster quantum algorithms with agents and formal verification",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
     "source": "Google DeepMind",
@@ -19,61 +8,72 @@
     "country": "IN",
     "published": "2026-11-23T17:00:25+00:00",
     "engagement": 0,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
+    "saved": "2026-11-24T11:38:51.631816+00:00"
   },
   {
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-23T17:20:37+00:00",
-    "engagement": 0,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
-  },
-  {
-    "title": "OpenAI Elevates Akash Iyer To Lead Social Media Operations Across APAC",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREJiQm1idjFYRGhjS24xaFpxVno0QVFMMlR3eTdyc0Y4b1NPTjllcTFWbHNBemdneGpIdU1McmhweWQ3WUxJeEkycG50ZXNYY1dCdXRDb1NSZkZCbmpJTmx6akMzdjM2UVo5X2pQZXJDSTNJQzN3Sy0zR2pUbHVPOFNkNTkwR2NSaXIwb2FXSWFEVlBFbHhqRnpFMC1JQVQzQjMxelpYTlpGeEhmQkZfeDdTY2JZczl5RVE?oc=5",
-    "source": "BW Marketing World",
+    "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFJYRWhmaE1OV25IUHVKWDNSRHpOYVFTVFFjU3d3TXFqTXh6QTI1LWtXYmJLRGhscTE4eTFSMElkUEltYU1VYUYyLTdoQWoyemUwbkJIRU5OckxYMkNaeEZGYnRodWlVaHZJTU1SNWV4UXNveHVRSEI2RHNnVUQ2dlZzYWRpZFBrN3c?oc=5",
+    "source": "YourStory.com",
     "kind": "news",
-    "summary": " OpenAI Elevates Akash Iyer To Lead Social Media Operations Across APAC &nbsp;&nbsp; BW Marketing World ",
+    "summary": " India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn &nbsp;&nbsp; YourStory.com ",
     "country": "IN",
-    "published": "2026-11-23T13:01:57+00:00",
+    "published": "2026-11-24T00:13:46+00:00",
     "engagement": 0,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
+    "saved": "2026-11-24T11:38:51.631816+00:00"
   },
   {
-    "title": "Meetsaini/emulator: new open-source AI project",
-    "link": "https://github.com/Meetsaini/emulator",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-23T20:30:08+00:00",
-    "engagement": 338,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
-  },
-  {
-    "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpkSlRjTVlHZjNWUkY0eWs0SXFmV24tRHZQNWRDRXdDRjRVX1Vnb2tZOEx5VEtHZ1U1Ym9uY2FlcGp4dWx1cDlHd09DeU9oR1dVZUJZLWdVRGVOT292RE0ydTU4VVpHTTlURGtGUTJMaUxqWmJKYzRGQzJZM3ZtR3FhVVB4OV96Mm4tYV9xTUdPeF9YNmxVQmJaaHZGTF9wYV9oYlJETjRTdw?oc=5",
-    "source": "SiliconANGLE",
+    "title": "OpenAI onboards Sana Shaikh for Global Ads Solutions (India)",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1vNS1Sc2JnTENGZzdKVW5ZTGZtYk1zTHJXUEYzQzJveENTQXduM0VWY2RjakFxWnByZjQwT21fX0I0cFZNbVpmeUFfWHp1TTFpQm44eDBicXJFTHhJeWNMSGR6Y1pMOUpaTW12dm9ybVUyN0lYTm5OSHJYMGVLZkkxdFR5OXVIZ0E1UGZBcHpqTmlEQkZrUkp2MzlORWxGM1lDRW5VYXZLZzJnS1F3aUJrSEo?oc=5",
+    "source": "IMPACT Magazine",
     "kind": "news",
-    "summary": " CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal &nbsp;&nbsp; SiliconANGLE ",
+    "summary": " OpenAI onboards Sana Shaikh for Global Ads Solutions (India) &nbsp;&nbsp; IMPACT Magazine ",
     "country": "IN",
-    "published": "2026-11-23T21:29:00+00:00",
+    "published": "2026-11-24T10:18:48+00:00",
     "engagement": 0,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
+    "saved": "2026-11-24T11:38:51.631816+00:00"
+  },
+  {
+    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSDZ6LWdYaGRCdkxSNTNiZE9QWTVmcEFMNXZhQ3NxYXBncl83NkV4NFp5am92SW5pRzRNYmswb1NzUzhIbzFGX1pieDFqWDE4Q3ZWNUlKUjNwcnEzY1FmSmRyMnh4X2lOMkh6d2RTQU9vTnAwLVHSAXtBVV95cUxNRml1MVdVMTlJNFNYQ0dWUnpuNzNUNHZ5XzAycjFIM1BTUG1hajdsU2VZMXJISW5WTkRjRW1HTmZtbm1vS1lrYndkRkJULVZQSkR5ejRsVWNsNHU4YnhUSENBOUxPYm1LSy0talo5RmNrR3ZPVGgycjFzTzQ?oc=5",
+    "source": "CNBC",
+    "kind": "news",
+    "summary": "   Signal joins United Airlines, banks in limiting AI agents over customer risks &nbsp;&nbsp; CNBC    Signal is Serious About Protecting Your Privacy &nbsp;&nbsp; Signal Messenger    Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance &nbsp;&nbsp; TechCrunch    Signal is blocking screenshots on iPhone and Android. Here's why. &nbsp;&nbsp; Mashable    Messaging Apps Split Over AI Access to Chats: Some Block, Some Open; KakaoTalk Counters With In-House AI &nbsp;&nbsp; BigGo Finance   ",
+    "country": "IN",
+    "published": "2026-11-24T07:25:41+00:00",
+    "engagement": 0,
+    "saved": "2026-11-24T11:38:51.631816+00:00"
   },
   {
     "title": "Google AI Bridges Search And Wallet To Unlock Spending Signals",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5",
     "source": "Yahoo Finance",
     "kind": "news",
-    "summary": "   Google AI Bridges Search And Wallet To Unlock Spending Signals &nbsp;&nbsp; Yahoo Finance    A more tailored Google Search that’s uniquely yours &nbsp;&nbsp; blog.google    Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses &nbsp;&nbsp; TechCrunch    AI Mode adding Google Drive, Wallet, & Gemini app integration &nbsp;&nbsp; 9to5Google    Google: Connect Apps To Search In Return For Personal Responses &nbsp;&nbsp; Search Engine Roundtable   ",
+    "summary": "   Google AI Bridges Search And Wallet To Unlock Spending Signals &nbsp;&nbsp; Yahoo Finance    A more tailored Google Search that’s uniquely yours &nbsp;&nbsp; blog.google    Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses &nbsp;&nbsp; TechCrunch    Google Wants You To Connect More Apps To Search In Return For Personally Relevant Responses &nbsp;&nbsp; Search Engine Roundtable    Google's AI Mode Is Getting Wallet, Drive, and Gemini App Integrations &nbsp;&nbsp; PCMag   ",
     "country": "MY",
     "published": "2026-11-23T21:39:08+00:00",
     "engagement": 0,
-    "saved": "2026-11-24T00:21:56.985779+00:00"
+    "saved": "2026-11-24T11:38:51.631816+00:00"
+  },
+  {
+    "title": "Jensen Huang is back as Nvidia CEO. What does it mean for India's AI growth story?",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSXc4dU9iZHhzcXJJcGRFTVZUbWZSbFRZMmhZcGNGUmlxbV9jRTdkaVh0Q0QyemhNMFFJZzVHRlM4TjFGcUlrNm00VU1tMlZWRDl2c0k5a3pVQ3dVNnpMVmRjcGY1ZUhseTdBSXlINm9CdXlUUDFpLVdRWjAxdWdRSzN0d1ByYUZCWGFFbTM5eURHZ3p0X005dDA3cHdtRUhmSjVNUzZTZ1pvZGctZEU0dGRGbk91SGltMlNtd2U1eVVfU2pFeFBvZUMwSll2Ymdta2NFWV9HZWFuWXZCXy1zX29YM3ZUNGgwOE5JZGdFN2V4QdIB9wFBVV95cUxQSHMwSnZiY08ydjlLV3VVbTRuUkU1TzF1aGJsSDRWZVhyMzE4cDVMaHppc3ZkUDcwLXBVaHBCSS1aOEdTRTBQRHNUUGxnelRTOUNDVU9LRUtncGJPcEg1bUFhTUhXZXNYTTlhb25JTmpRRzRlMjdUSnpTYzlKb3doNzVueHJpaXpkSnhJMXl3cUdNVnVhMnNFQ0ZnMVdUaTZnRUFQRFhPR0JaNFdGcFQ1eVpVNVNySE41cFNrWGxtTnZ5UXRwcXZ6Z3gxa1dvQVhnNlZVX1RwVUh5ZmczajZQb1dMWWduYW10Tk1fZk5zN1NpaFp4Tm1N?oc=5",
+    "source": "Moneycontrol.com",
+    "kind": "news",
+    "summary": " Jensen Huang is back as Nvidia CEO. What does it mean for India's AI growth story? &nbsp;&nbsp; Moneycontrol.com ",
+    "country": "IN",
+    "published": "2026-11-24T06:36:41+00:00",
+    "engagement": 0,
+    "saved": "2026-11-24T11:38:51.631816+00:00"
+  },
+  {
+    "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOFMxM1ktN0lwNGFld1N2SHI0VTI5VkJGc3RoakxPbjFmRGRIR3FmenRORkRVVU1Qb2tjZG9CUW53SjBrUEdjUV9TcFE2d2pqaE9DRUllLS1ZbDhicWF6QVlvUEkweHQ2UHFScnZoTW1scEhORlFuTjllbldfVGFJZmdtdGFYVjUyR1NIczZCa1JQMnk3WGpGQkdnT05UNEtMOGxJWjRsSjRFVVdaTkR0cGtsQkZVU1ljckhqcGwzUC15WVVIZ3FXOW9PT0RtZy1UcEhsRDhBSnFVT2FDdl9nTzhZWU9JTlk0V1E4S0NfdFQ3NlNPdnExWkUxdw?oc=5",
+    "source": "ET BrandEquity",
+    "kind": "news",
+    "summary": " CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant &nbsp;&nbsp; ET BrandEquity ",
+    "country": "IN",
+    "published": "2026-11-24T06:31:19+00:00",
+    "engagement": 0,
+    "saved": "2026-11-24T11:38:51.631816+00:00"
   }
 ]

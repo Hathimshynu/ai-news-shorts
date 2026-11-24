@@ -1,40 +1,23 @@
 {
-  "job_id": "2026-11-24-morning-0547",
-  "chosen": "OpenAI and Cisco introduce Shirudo",
-  "reason": "The official announcement of Shirudo by tech giants OpenAI and Cisco represents a major leap in enterprise AI security that tech professionals and developers will want to learn about.",
+  "job_id": "2026-11-24-evening-1701",
+  "chosen": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
+  "reason": "Cashfree enabling AI agents to autonomously execute wallet payments in India is a major practical milestone for agentic workflows and local fintech innovation.",
   "candidates": [
     {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "score": 32.57,
+      "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
+      "score": 19.72,
       "kinds": [
-        "backlog",
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcXU3NUxLNlpuajNLMi1lX01OM1BrSDVYbEpaQU5XYkJfaTZnU242M0xZdEVSWkxsX2pmTWxFb3U5SW92amZ4OVB0Szl4bHVwN0VHVC1pXzFSb04zclowSmhYVzRTQUdmQU9XMVk3dDNra0lYWElfaWVTcEFWMDZoSHNRZ0RTVzFMYnEzNEdWQ3k3a3I5WGEwb2xXdDdfNm1SYmpBN2daaVNVWERKckFsTXMtRGpZMnRmR19oazNKcHc5d3ZiVlFQUVp2UHFNbTNMRkpZNTdDMC02ZXlmaTRldg?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3BDbkJuZGJpQlRRWkVLbGlJbUVvTzlHQ01lckJFenRORXNtUS1tZDBiZFo5U0ItRktFZWV5VmhBSGpMMmZZUzA5cnVZZ1VSUGRUMzFvNmtqVUlQaHlfTW9tN1A0MXktXzFfa0E5RWk4eVdEYjhMTWRhYmtpNkF2TU84NG9TUEFndUl6bG9oLVhfTEVxNU9TOFA1S3VqTW1XalBFVTlQLVZhRl9uU1NYUUVpTHo5eFc2Q2psZGdB?oc=5"
-      ]
-    },
-    {
-      "title": "India AI Funding Nearly Doubles to US$1.6 Billion in January-September 2026, but Funding Rounds Decline",
-      "score": 21.8,
-      "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmJ1N1I3RC1mVi1uLUh1cnZGOW9uZ0Z6MC1IQnNuUGlfVTFaUHIyaDdmSVZxNzJ0bDFkRXRqb1RmeDhjVDNUSTItQWJJSU5wdjdRLV9BeUk3cDRqVi0zbDZWbldxNk54Z3FEQzd3MHhJV1A3RndRS2dqd3FrY0hjMzQ1ek5KaU1DN0ZoNTZ5czJPeXBYbEZDYmc0b3czMElCNFo5WXpNYWtDOThaX2dwN0hfemtWT2hmY0ZpTzZ3cXBuODViX0lDYVhR0gHQAUFVX3lxTE9TSUlJTThLMHdQQnR2bXR1OG9uY3k4bEE2cGs3TTZIX1Foa1BJLVY4dVIzNUFGYmYtcG5hVmZKdHJEUzhqQmdsWFhnT3ZQQVJDdkZVb0NLRU9kbmNMdkhULWF1c1oxdmIxUFIyUnU0MW1SalFRcXpQYVpYNnJ5Q2ozX0E2OHBtYUJ1LUFURlo4a3hNako3ZnRJU1YtdkhfTVVfNngwdFZoZGdOUm00dXVDQ2p2N3MxSjRkbzU0ZXZKWndHUW42U3JyNWhSc0J5dF8?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc243Tmo2dGh4OS1zSVBBa3RRanp2RHgwMnN1R0NfbWFWUDdoOExRVzh0WERDTXdWdFRWNU1BYXlTd0daeUZ1eEZ5NEZGM0dSUUZtWW1BYzdxd2lBUTJQSFNQWGpKcmR5cko5Ym11M0xTQll1MTFHUXZfc0VTQVVuSWJadzg1NEVQS2pMalk2ZFdmVGowSTdRSmFFWDZfdG1GZHphNmszVG9iakdtQ20xU2huWVBfdTNkUlBaQ1NVVUo0UzRpUEpHT2ZpWnZoVnNYSWZfcNIB2gFBVV95cUxQTkFiVlFfbEhDVDI4SjNDeHdxWFNrOXlCZzFUWlE0bFRlZlRZd1c3ZmFzYWhCM1JJd3JRZlVZMTFyVFRldm51WnpBbGhrcWxNbk9rcVdIcVhWd2plRTZXc05ZZ19Lb0pFWmdJR1FZWVl4THpZcy03LVdCc2FDemozaXVuem02YWRWd1NtU1ZTTllqdmtWVGZhQjFPa2VlRXdaMEVNUjJfY2R0LXN1N1ZOeTdiSU9XRmpzajR3cXBkbUVhcHlVVWNfSTY3VVJtcDJpNFY4azM3NXV4dw?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVExZTJoYmcxblJUTzhJR1E3NWE0djY0aGpaaTAwUjZINXo4a0h3b19oaUYyemNuaHh4Y0FUSVJDakdFdVNlNlpTaWpDVEVWX2NxNmlkdEpnNE0temxaLURITGd1SmhUbjFnMEpVaTVBaDRQMkJhbFlHSGxTREFqX1p4MGdtYWhXU3cxU2tJVjBiWUFYbk1JWUgyazJmWGRsZDFZ?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFl5Qzg0NDBzWmpmLWozbVB1c0Z6RzQ0eDJSRFNBUkUyZkkxeWlRUS1zMEhjc1ByRUxBaHhEenNYc0JPMHhTLUk3bzJlaWhoc21mUHRlVHk4MUp6elJpbjl0MEpKV0RlRGlHNmlNaXQtTjljTkk3MEhnMjlMM1hOMXRnN0pHM3RiVnBVcDVFeURaU0VUcEhfYndkdG1EWE9feHhlWjByYjc5QTJEYnN0cms1NnZtQmV0dl9yS0hKNEZwRWNv0gHSAUFVX3lxTE96Ukluc1dyYlZDNk9Cd1Bwa2lndjdGQ1ZGOUw0aEl0NG1TdkY2cW1JOXZGdTh0ampuYTFNY3ZYQmM5bGl4Y1FBai1DS0xaTHdlVElwa1RiNmd4QnNwYlRIU1dYcEZxNUR5NUNiSHkzeHVQdkVoLW5SRVltSHZweTdLLXRqVHQxbHAxQ2ZwZ2ZiOE1yT0JRNGtSRDNRQlNzTHQ1SGpBTFlQaS1fZ1VoM1lFNjVqN1pSeW4yRTI0NEN2UWJ5TkJ2M1hFRUNzUGNWZ0lqUQ?oc=5"
       ]
     },
     {
       "title": "Finding faster quantum algorithms with agents and formal verification",
-      "score": 25.18,
+      "score": 22.37,
       "kinds": [
         "backlog",
         "news",
@@ -48,63 +31,50 @@
       ]
     },
     {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "score": 21.26,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/allenai/robotrack",
-        "https://huggingface.co/blog/allenai/robotrack"
-      ]
-    },
-    {
-      "title": "OpenAI Elevates Akash Iyer To Lead Social Media Operations Across APAC",
-      "score": 21.19,
+      "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+      "score": 19.17,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREJiQm1idjFYRGhjS24xaFpxVno0QVFMMlR3eTdyc0Y4b1NPTjllcTFWbHNBemdneGpIdU1McmhweWQ3WUxJeEkycG50ZXNYY1dCdXRDb1NSZkZCbmpJTmx6akMzdjM2UVo5X2pQZXJDSTNJQzN3Sy0zR2pUbHVPOFNkNTkwR2NSaXIwb2FXSWFEVlBFbHhqRnpFMC1JQVQzQjMxelpYTlpGeEhmQkZfeDdTY2JZczl5RVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3pzZnpOTmh4TnVHYjZpZ3pFMGFpMW5fSXBJSkxmUnFGUVZJNzczXzVZNVBhdWZ5SFJHdVJEVHh5UDlfSjJ4SnlJdXdySkFUMUNkZTRYb3dyVF92Z01ab3oxN2NYY2c1VWFiclBtc0FNdUI1THJTWlpvVjRQSkxpMmJtSXdwRG5ucjgzbU1FalVHdzA2eU54dHZLOXhaZWRGWGc?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnpJc0VkQzVvS1ZrbHZ4YWhJQmdpVGY0M1kyUkNocTZaOXEtVlc4bzJVSVBJb3pFbk95Rmh3d210SWFiRXFob2tmcXJHdFhlNVgtdmNhRVlhTzVuNWROZ1Vkdm1VcjhkdTdyMDlndEt6T29kOTFTQTlzYWNfYmJJenBPeXdFU1Z4RVBDWm9BYlVfUjgtUGpOQ25TZG54SVBRTFZOZnlUSnFQRmV4OWxwWUw5ZkV1dmJ5LVE?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFJYRWhmaE1OV25IUHVKWDNSRHpOYVFTVFFjU3d3TXFqTXh6QTI1LWtXYmJLRGhscTE4eTFSMElkUEltYU1VYUYyLTdoQWoyemUwbkJIRU5OckxYMkNaeEZGYnRodWlVaHZJTU1SNWV4UXNveHVRSEI2RHNnVUQ2dlZzYWRpZFBrN3c?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5"
       ]
     },
     {
-      "title": "Meetsaini/emulator: new open-source AI project",
-      "score": 21.31,
+      "title": "OpenAI onboards Sana Shaikh for Global Ads Solutions (India)",
+      "score": 21.71,
       "kinds": [
-        "backlog",
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/Meetsaini/emulator",
-        "https://github.com/Meetsaini/emulator"
-      ]
-    },
-    {
-      "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
-      "score": 29.3,
-      "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpkSlRjTVlHZjNWUkY0eWs0SXFmV24tRHZQNWRDRXdDRjRVX1Vnb2tZOEx5VEtHZ1U1Ym9uY2FlcGp4dWx1cDlHd09DeU9oR1dVZUJZLWdVRGVOT292RE0ydTU4VVpHTTlURGtGUTJMaUxqWmJKYzRGQzJZM3ZtR3FhVVB4OV96Mm4tYV9xTUdPeF9YNmxVQmJaaHZGTF9wYV9oYlJETjRTdw?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGlTSGFISmpDT3Q4cUVmM0lYd3dQMGhjY3ByTTJkcDlRdEZDS0FlQlhKdVMwWVBaWUVSU2dEVkc5N3R3SURpWENFb0VMdURCaVBKSGNQX056cjgyMmFZcTNrOGtVdHZnUjB6NkdHcTMtNklqUDN5bzk2OHdmZWdWNjZjVGd2REJyS1lMcndZUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlY0WWNvWTR5bnhHNEFPVG5Xa0JLVlp0OXlNVjhLUzBiNW9nWExsNGxmX19qLWxGS3EyUC1lQXRLbXdaN0dCRW1HRGJLNDdsMzF1SHRDcEhBSkQweU95QVVsZnhJVzFkQ3hJREdnZUdqSEt1WUdhcjRFNFRGNFViY3V5blZDVV92RzgteGRDcEhhbWxsbUhFRkVyU2VpZU9Rd3BHM1F4MlFtcFZLS296bHd6cl9ua1prQ0NB?oc=5"
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1vNS1Sc2JnTENGZzdKVW5ZTGZtYk1zTHJXUEYzQzJveENTQXduM0VWY2RjakFxWnByZjQwT21fX0I0cFZNbVpmeUFfWHp1TTFpQm44eDBicXJFTHhJeWNMSGR6Y1pMOUpaTW12dm9ybVUyN0lYTm5OSHJYMGVLZkkxdFR5OXVIZ0E1UGZBcHpqTmlEQkZrUkp2MzlORWxGM1lDRW5VYXZLZzJnS1F3aUJrSEo?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEZLQWtOR0NSQ2taWHl1VTQyOXczOXZpUnB1SjNyZ0JIbjZwVFU4R2VCZ0hTRTViNHVGSWFDLTZtR01ndjJJSWQ0VUlndUIxSmhFRXpHYk5MeEJTd1MtZVJFN0JlNmdkX0k5d0VIcVJGa2hiYTdLWUwwYUhKc0pyNjluQnIxQ3doeFZQRVl2a2hPVldiNm1sR2NTcGJlcHZBWk9aWVpJeW1oS2VELTVkREhXaGlQQy1VbXc?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb29PamtXVXlnVnZTMlVZT0hVMVdVWmJVVXBnLUVyQnFMVjR1NUFmenJTYkJ0cldpSHZoRV9hYlRrbFVFejZreDJwSkJqQXdkQi1falo5bXlnVXlVb255d05sb1pNbFYtQXEtSGRTazdJXzgyME1yTGpIQVduWTVpVnJZUjFLR1I0T1lzSFVCSGx0a2pRcFhnNWh2akRMNlJ4enfSAaIBQVVfeXFMT29vT2prV1V5Z1Z2UzJVWU9IVTFXVVpiVVVwZy1FckJxTFY0dTVBZnpyU2JCdHJXaUh2aEVfYWJUa2xVRXo2a3gycEpCakF3ZEItX2paOW15Z1V5VW9ueXdObG9aTWxWLUFxLUhkU2s3SV84MjBNckxqSEFXblk1aVZyWVIxS0dSNE9Zc0hVQkhsdGtqUXBYZzVodmpETDZSeHp3?oc=5"
+      ]
+    },
+    {
+      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "score": 18.97,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSDZ6LWdYaGRCdkxSNTNiZE9QWTVmcEFMNXZhQ3NxYXBncl83NkV4NFp5am92SW5pRzRNYmswb1NzUzhIbzFGX1pieDFqWDE4Q3ZWNUlKUjNwcnEzY1FmSmRyMnh4X2lOMkh6d2RTQU9vTnAwLVHSAXtBVV95cUxNRml1MVdVMTlJNFNYQ0dWUnpuNzNUNHZ5XzAycjFIM1BTUG1hajdsU2VZMXJISW5WTkRjRW1HTmZtbm1vS1lrYndkRkJULVZQSkR5ejRsVWNsNHU4YnhUSENBOUxPYm1LSy0talo5RmNrR3ZPVGgycjFzTzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSDZ6LWdYaGRCdkxSNTNiZE9QWTVmcEFMNXZhQ3NxYXBncl83NkV4NFp5am92SW5pRzRNYmswb1NzUzhIbzFGX1pieDFqWDE4Q3ZWNUlKUjNwcnEzY1FmSmRyMnh4X2lOMkh6d2RTQU9vTnAwLVHSAXtBVV95cUxNRml1MVdVMTlJNFNYQ0dWUnpuNzNUNHZ5XzAycjFIM1BTUG1hajdsU2VZMXJISW5WTkRjRW1HTmZtbm1vS1lrYndkRkJULVZQSkR5ejRsVWNsNHU4YnhUSENBOUxPYm1LSy0talo5RmNrR3ZPVGgycjFzTzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSDZ6LWdYaGRCdkxSNTNiZE9QWTVmcEFMNXZhQ3NxYXBncl83NkV4NFp5am92SW5pRzRNYmswb1NzUzhIbzFGX1pieDFqWDE4Q3ZWNUlKUjNwcnEzY1FmSmRyMnh4X2lOMkh6d2RTQU9vTnAwLVHSAXtBVV95cUxNRml1MVdVMTlJNFNYQ0dWUnpuNzNUNHZ5XzAycjFIM1BTUG1hajdsU2VZMXJISW5WTkRjRW1HTmZtbm1vS1lrYndkRkJULVZQSkR5ejRsVWNsNHU4YnhUSENBOUxPYm1LSy0talo5RmNrR3ZPVGgycjFzTzQ?oc=5"
       ]
     },
     {
       "title": "Google AI Bridges Search And Wallet To Unlock Spending Signals",
-      "score": 21.34,
+      "score": 22.9,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -115,56 +85,81 @@
       ]
     },
     {
-      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-      "score": 41.83,
+      "title": "Jensen Huang is back as Nvidia CEO. What does it mean for India's AI growth story?",
+      "score": 28.77,
       "kinds": [
         "community",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG9iTHJ2RUFZRnYtZHQyX01EU3pnY1BaT09BSkxPWUR4bDV4cFNhanZOSzFoMU9adTcwTEJMMkZqajRLZnZ5X1dEcXVaTXVrQnZfLXYxa05OQ1ZacjVoek4yRlo5M2RsSmhQdllVOVNGQTFHa3ZtRnFOWnBENXVZMU9LVF9hbGcwYmhBRmV6MEJxekUzbmZ1SXphUVNJb010QjAwRE13TmJOM2M?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMndVRkJQcnJ1a3ZXTmZpQ0t4d3dBUFFUUnRjS1htT0JxSHRYN1pSelFROGsxTkxHWV83R2h3Z1ViRUhuZS1XSVZSR3djWU5ITXJ2SThvN1oxVGRvMVdOZUk4WUU5bndkY1lBR0pOMmJrWG5OQjVQOVZaaXVfMG1FZG53Rjc5bXdW?oc=5"
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSXc4dU9iZHhzcXJJcGRFTVZUbWZSbFRZMmhZcGNGUmlxbV9jRTdkaVh0Q0QyemhNMFFJZzVHRlM4TjFGcUlrNm00VU1tMlZWRDl2c0k5a3pVQ3dVNnpMVmRjcGY1ZUhseTdBSXlINm9CdXlUUDFpLVdRWjAxdWdRSzN0d1ByYUZCWGFFbTM5eURHZ3p0X005dDA3cHdtRUhmSjVNUzZTZ1pvZGctZEU0dGRGbk91SGltMlNtd2U1eVVfU2pFeFBvZUMwSll2Ymdta2NFWV9HZWFuWXZCXy1zX29YM3ZUNGgwOE5JZGdFN2V4QdIB9wFBVV95cUxQSHMwSnZiY08ydjlLV3VVbTRuUkU1TzF1aGJsSDRWZVhyMzE4cDVMaHppc3ZkUDcwLXBVaHBCSS1aOEdTRTBQRHNUUGxnelRTOUNDVU9LRUtncGJPcEg1bUFhTUhXZXNYTTlhb25JTmpRRzRlMjdUSnpTYzlKb3doNzVueHJpaXpkSnhJMXl3cUdNVnVhMnNFQ0ZnMVdUaTZnRUFQRFhPR0JaNFdGcFQ1eVpVNVNySE41cFNrWGxtTnZ5UXRwcXZ6Z3gxa1dvQVhnNlZVX1RwVUh5ZmczajZQb1dMWWduYW10Tk1fZk5zN1NpaFp4Tm1N?oc=5",
+        "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
       ]
     },
     {
-      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
-      "score": 21.76,
+      "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
+      "score": 20.75,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOFMxM1ktN0lwNGFld1N2SHI0VTI5VkJGc3RoakxPbjFmRGRIR3FmenRORkRVVU1Qb2tjZG9CUW53SjBrUEdjUV9TcFE2d2pqaE9DRUllLS1ZbDhicWF6QVlvUEkweHQ2UHFScnZoTW1scEhORlFuTjllbldfVGFJZmdtdGFYVjUyR1NIczZCa1JQMnk3WGpGQkdnT05UNEtMOGxJWjRsSjRFVVdaTkR0cGtsQkZVU1ljckhqcGwzUC15WVVIZ3FXOW9PT0RtZy1UcEhsRDhBSnFVT2FDdl9nTzhZWU9JTlk0V1E4S0NfdFQ3NlNPdnExWkUxdw?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkFPeXZFUkxtYWdrSExPS21ISjl0TTBDZnN2U2Exek9NTTg0Y3dVeEphMUJLVHZxNFIyN0RRZGdseEc3anRPQkpicjRzVGFibHp2a0l4MmlVUnAxUE40Ui1FejBDZVl3WUtLeHdxQVYzcnhYd3dNUkswby1LTERWU2prbC1OdGFDV0pfUl82OU1BcC1qYmpaVUUySjJ4bTNmaWlpQXF0aTVybTdieVZlR2dLWkNTNlpPVVpuaThwaEtUdnpsLWE0bXFSSVc4QdIB0wFBVV95cUxOczZfQVZSUlhFOXVBeXJHTjJ2SUE2OVgxampPck96MUcyVzhiTFhic2gybkE2Njg4RnNtZTByLWZENV9MNEgzb1VvM1dRN2JrZHU1Tm9COFVfbk9nbTN5dVI0QkNWdXVPTFVSZW1iR3RwTTRrZzJ0VmlEMmNnUUdibVl3Ym9zNmQ4cWZJWmtyWW9nV0hlb29RbnN0T1lDMTEwdjhBSlFZWElFS1hndVlMeGI4dGJGODV4dmVzNTV4a1JDNnZOeW90WHFsOUs5cWEzcmFV?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpkSlRjTVlHZjNWUkY0eWs0SXFmV24tRHZQNWRDRXdDRjRVX1Vnb2tZOEx5VEtHZ1U1Ym9uY2FlcGp4dWx1cDlHd09DeU9oR1dVZUJZLWdVRGVOT292RE0ydTU4VVpHTTlURGtGUTJMaUxqWmJKYzRGQzJZM3ZtR3FhVVB4OV96Mm4tYV9xTUdPeF9YNmxVQmJaaHZGTF9wYV9oYlJETjRTdw?oc=5"
+      ]
+    },
+    {
+      "title": "First industry-built PSLV ready for launch in early 2027, says Dr V Narayanan",
+      "score": 19.76,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RV1R3XzUxV0tTVTJicW9ad1MtZWFSekJnaDFGaGZUUG1OYjZYSDVicUhkR3lob3RlaDZTRmgzWjUzR3lzcmVVTkJYUHlPVWtGdzZzZ1d3T0tidC0xNHJPNFNyX2xfcWpaWGlEXzY3TmNxcXVuNW04UzU4RQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RV1R3XzUxV0tTVTJicW9ad1MtZWFSekJnaDFGaGZUUG1OYjZYSDVicUhkR3lob3RlaDZTRmgzWjUzR3lzcmVVTkJYUHlPVWtGdzZzZ1d3T0tidC0xNHJPNFNyX2xfcWpaWGlEXzY3TmNxcXVuNW04UzU4RQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RV1R3XzUxV0tTVTJicW9ad1MtZWFSekJnaDFGaGZUUG1OYjZYSDVicUhkR3lob3RlaDZTRmgzWjUzR3lzcmVVTkJYUHlPVWtGdzZzZ1d3T0tidC0xNHJPNFNyX2xfcWpaWGlEXzY3TmNxcXVuNW04UzU4RQ?oc=5"
-      ]
-    },
-    {
-      "title": "Apple Revives Product(RED) With Red HomePod Mini 2 and AirPods Max 2 Ahead of Holidays",
-      "score": 21.16,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2LXZOZ2lCU1JzaFlJTUEtc2xvX2lfYmczRW1henhHYktVWmUyRnlRcF9WemUxaVllb1ZtV21yV3hfQmkzUDl5SUJCdDNsY3U4TEZwaEVRRUNpOXZRZlFoQVNmRW5kcDZGMC1aSDNPY0V3T1BfVEE?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXVpS2lZWjJUbllSTGJMaDNkRDNybWtLMlBTeGFLREd0bDRUcS15Tk8waU1CQ0JPTmVyRUhIZzBITGhtWkFKYTNjbVF3c3JwbHBiQ2JYVEhXUmV4NE0zRGVnUHM0UHJyUjJoYUNRN29POThEck1sbEY0TkVrSF9aZDZFRzdxOF9vNkwzckVWVndQdnZvWGZYbWJBTXJKWW5iY0tDUWFHbUE4MDUweUFiaWczTDBwMDB4TVFuUVpScHlRcVRtc3VGbjRsZFVZVUxHSFpobXA1MEdjZWZoT0xJ0gHmAUFVX3lxTFBjQjZJdHpGemdLSjM1OTl5Vzg3a25iLVV2YlpZT2pmc1lWWUR4M2tzaTFLNlcwb09ST2RMY1NDZko5emtsVlpQSE84RHI0MGk4cWY1UklPUkV5dW1lcGZfNkM4QWdfODJrWEZhNUNNcG9kSkdXbWFGeFBXcE1WdzBmckIyMy14a054ajJXcURVczI4eFhheUY4N09zdl9Id0N2UFRsaXF1OHlHdXFwY1p1Y0hLaVVhb09JZFFja3dHSmhTMEFTU2hHTEkwelJ4WXFPZXROUmtfN3ptdzZSdG9zcFpTVFpR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1FIQ1B4RjFoTktLRDVhbTN3QTd1Nzh3WTNTTHZYUnNMX2hsd1hJenI1T0J6bndBbHd6ZW9IbmVxTTdUY2sxdld3OEZTemNDYTNtSmdEdTJ6eC1STWRITEo3ZG0xblNPLXpyeE9qUGdiLTlQZWtDQkwyTmlzcVV3RlJ5cXVUaU5UVjNiMTl5aldETGJqU0FoMGE1LThjS0xkbi1keDdXREY?oc=5"
       ]
     },
     {
       "title": "motorola signature 27 to launch in India on December 9th",
-      "score": 20.43,
+      "score": 39.73,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZURDU01LRFF5TnBieFRvZVkzRlROQ3JjYTd3WjMtZ0RYMkJsNDFYQU9lRXBMeXVUMlFRQUVJN0hoVzk4TGg4MVRRMkVkR1QzWXpnVzdSbFpUWkZ4VC1kYU02MFNrTVhDblRXeHRXUzMwaFg1OHVpLVg5Q0kxRFR0ZloxTzNsNlRjc2fSAY8BQVVfeXFMT1VlN0pNWGVIVUNUVmxZVWlmVWRxM08yRlY2aFNwV2szM3VadzdpTDJSSUllN1MxWkFiRVc3aUNGazlEajFNUlIycnh2OWhLUUdBcUZrbS1QMEhvZEd0THhBbUd1VFo1WXZfSHRPaE5WMHJfQ2dfc3h4UTROX3lTckV2OUZHOGdWN01pUXBTNGs?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTTVJVEFZLVVyMTZuV0sxSjMyREU5WFBOd0VyMWdweHlxdE9Oc0x3VUIyTkRvUm5WTDE3Zzd6MFVVU2JKSVkwWHFKM28wVFdsek5kek8xSWIyUnJ0MlZCMU1FUHFtUHZSbG85d1BvMjNhR3VyTGhmV3cyT0VZa1ZfRkZDaEZBWmNqWk1JRV9PRkxpZXJSZHk3bUZZRndXTW5KUkM4U2paekpjdjRxNm4tYXV6aFRxWUVwQ1RZ?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnFWemVJM1RUNlNheTFiQTFYMURibHd2QzZTUnNjNXRWemlESTlhWjY5OTlPQUdnbDZ2M2JLNXduZG9ZU25Odm15d2h5SlB3X1JSTUpUdUp6OUpZSkN0Z0I4ZVByT3hYWm94WlRPNEI0NW9pTnFpV1Fhd1pXWDRuS2JZYkcxd2k2dTY3S2dzUUhOZ0xDaHNteEMwZDByUGFma25BSXRFZmtCckpGWFdaOUg0clNrQzl4LU9nU3hoTQ?oc=5"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWF3V1VXNTlMSkh4XzlBTzdDdDVXbTlPQm5ZY3FQdFptaGZLVk1aNEwxaTdxR21rRzRWTnh1b1p6TmZaaVJ4LTczb2dZLVVoVTZBRGQxY2ZSc2xWR2Z3b2REZHlwUF85eEQzandMZXFham1ialVfcVplVGEwcV9GZER1bkVlbGxNTG9QQURxc3RjdTZ6UEl0bUgtTVlzalUwZXdFWWh5NDFJa0o0SWZkYUNCUVRFOFlyRERPX0Z2QmRnSURuMnNR?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOejJjWnZmR0k3aGF2bjJNOEFhbUlxSVpiTTBVaWg4TEMtUlhWQ3VGZFNIcl83dmRWeXlCWWNjMEdiMVVXVjlkRm01aUNvM1I0N3AzellIUTRMaGZjZUYxRUxtUXVYZWY3Y2Z1SW9QMlBWTEZiYVR5ZjJ1dkJWbTZHOWJ0eE15OEJmb2VIVzU3R3JkTzF3OUpZUEViTnRTNkxLYjFyV2VRX3Z5Y1N3QjhFVDBiQVdvU21xMmJmMtIBwgFBVV95cUxQY05DN2FuTXo2a3VZNmNMRy1oM0poTE54NUVod1g5YUFkME1QS29ZZzhOUUYzZzliQ3lXemJSWUZIS3d1eWFLUldUUGZCVTNPeVJmZ1lrMmhic3lPeC1GdEZLSmc1TVVLam12Si1oeUdaV1BLWG84WHFYRGZwcEFWZTIzNVl5M2FQVjNyb1dOQkxfY3JraEZjenluOXBpdWpTOEJ5VVZuUVFEMEp5ZXlVTlhUenZSVlhpOExuclR4R01CUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Motorola launches Edge 70 Neo for premium segment buyers in India",
+      "score": 25.03,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFYWHhfWE1ReFJBSFZLUTZpYzVpNmNRV2N3SWc4QWFTNEdBOEpad3ZzYzExN3Y5N0dHSDNOdVhFRHU3bGN0aXZfb05rNmVfa2I4NmhwTTJma0NQRVdobk5DNU5BeWZhUFl1aFZzLUJvMkE2S1dXOGlEeDBFaHhHakszdWh6Q1VVNDd2SGtlNUJnVVUwRkJCMWFXVjZreWhPeGRHc1RoWGRTSXZ2YlBrWExaT1V3aEtWSGtOalhWbE5RbVhBQ3ZEUDk0ZUFmV3RvN0puTNIB2wFBVV95cUxNR3YzMl9ZemI0bXFuVFhFNVJNek5JaXhQVm5pd2lCcEJEdEVlcVA4VlpKWUZQZjJjM2RrdVBhUnB6SHhKeEdqbnMxMFE0UmYya01velFYWG5nZGRBS3ltR3BidzBRSnFlQ21wVkJFU2pJZHU0VnpUTnVrakk1cmt6LUJsd2VKdjk1ZGw4eHN6cHdMUVZYcjZQX09QQnM2Rk1aODU2bjdTNko0S2U5TG83MTFhV0ZUUzdXUTFMQV9HVlMwSHZHTFNzTi04dHViTkp6cUtsaWhzUlZJVlU?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONENpLWZnSmU3czFiejVpOHE0SHk5MzJuMUVBTmRBR2hMYUFYUXBiUFVtdWRvY0Rrd3dmUlN2OGdjT3pIcExpUTZuNFp0U0RGUXFqU1NOQm14clFuaW9EQnVWMnBTcHd2WGh1OTVpWGdRWW9ub29SLUdQeFFmQ0NRUzZIRlcxeHkyclZsc19FemRyMElDUEt4aQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXRPMVJzV0FJSFRfU2NXQURwQUFnU3hfNDFCMFhsS3ZhTENvdVhsTU52ZmVQQkRiUHhldUtOUm1PeE9LbHM5Mm00VlpCeHFQUndfMjBQZ1Q4YmROQUJxWXJyOGE0VTZ0Qkp4MVo1VURZeF8zMnhYQ3BXb2dndmxpZFRIMU1ja1ZGcFJ2WHpQX1BrU1ZqUXBiaXBFdzk0Nkpqa1ZuLThpOXYyVlln?oc=5"
+      ]
+    },
+    {
+      "title": "Apple prepares to launch Product(Red) HomePod Mini and AirPods Max",
+      "score": 19.12,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0RVVEwyZHlMdmRHYnl1UER6V3J6WExEVTJHM18xcHg5ejNmSG5GcURIb1J6SjdseVBMUVhBSUk4R19SYmdPcWR1aW9sbUdCa0dQOWtlVVl2TlJjd2p1anNXNm9yUUQ5emRoX29FdU9yeks5c1ZNUUhTSHlYMXNLcXJMQTlJcmNWWTRUR3hFTjNoZkZqMXV6WVpPeU1FOTJZd3h5MGtoMGotR2RwRjZZV0N6LU9RV3Ey?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5"
       ]
     }
   ]
