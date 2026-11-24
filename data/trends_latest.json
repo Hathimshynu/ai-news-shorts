@@ -1,26 +1,13 @@
 {
-  "job_id": "2026-11-24-morning-0420",
-  "chosen": "A more tailored Google Search that’s uniquely yours",
-  "reason": "Google's latest AI updates bring a personalized search experience that viewers can test and benefit from directly in their daily tech routine.",
+  "job_id": "2026-11-24-morning-0547",
+  "chosen": "OpenAI and Cisco introduce Shirudo",
+  "reason": "The official announcement of Shirudo by tech giants OpenAI and Cisco represents a major leap in enterprise AI security that tech professionals and developers will want to learn about.",
   "candidates": [
     {
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "score": 27.55,
-      "kinds": [
-        "news",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU5QOEctOUFCay04Z0xyZ0NNQmVGcDlhUnNlVjJBOWhBQ1cxV19sT1Y0RGh0XzBmbkIwRzljQlhnWnFIbVlDazljWXdRRG1LWEZlNzk5MVZxOGphYkhuLVBlNVBQSGhuMF9PQkwxUi1IdWpVVGZrSndBM3JwZFNiejUtZ205NUZuVm15WDE3dFhxM1doaVRUU3lOblhqNnl6dFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU5QOEctOUFCay04Z0xyZ0NNQmVGcDlhUnNlVjJBOWhBQ1cxV19sT1Y0RGh0XzBmbkIwRzljQlhnWnFIbVlDazljWXdRRG1LWEZlNzk5MVZxOGphYkhuLVBlNVBQSGhuMF9PQkwxUi1IdWpVVGZrSndBM3JwZFNiejUtZ205NUZuVm15WDE3dFhxM1doaVRUU3lOblhqNnl6dFE?oc=5",
-        "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
-      ]
-    },
-    {
       "title": "OpenAI and Cisco introduce Shirudo",
-      "score": 30.93,
+      "score": 32.57,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
@@ -33,8 +20,9 @@
     },
     {
       "title": "India AI Funding Nearly Doubles to US$1.6 Billion in January-September 2026, but Funding Rounds Decline",
-      "score": 20.17,
+      "score": 21.8,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -46,42 +34,35 @@
     },
     {
       "title": "Finding faster quantum algorithms with agents and formal verification",
-      "score": 23.54,
+      "score": 25.18,
       "kinds": [
+        "backlog",
         "news",
         "official"
       ],
       "primary": true,
       "links": [
         "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
-        "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
-      ]
-    },
-    {
-      "title": "Meetsaini/emulator: new open-source AI project",
-      "score": 19.67,
-      "kinds": [
-        "github"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/Meetsaini/emulator"
+        "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5"
       ]
     },
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "score": 19.62,
+      "score": 21.26,
       "kinds": [
+        "backlog",
         "official"
       ],
       "primary": true,
       "links": [
+        "https://huggingface.co/blog/allenai/robotrack",
         "https://huggingface.co/blog/allenai/robotrack"
       ]
     },
     {
       "title": "OpenAI Elevates Akash Iyer To Lead Social Media Operations Across APAC",
-      "score": 23.55,
+      "score": 21.19,
       "kinds": [
         "backlog",
         "news"
@@ -94,8 +75,21 @@
       ]
     },
     {
+      "title": "Meetsaini/emulator: new open-source AI project",
+      "score": 21.31,
+      "kinds": [
+        "backlog",
+        "github"
+      ],
+      "primary": true,
+      "links": [
+        "https://github.com/Meetsaini/emulator",
+        "https://github.com/Meetsaini/emulator"
+      ]
+    },
+    {
       "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
-      "score": 31.66,
+      "score": 29.3,
       "kinds": [
         "backlog",
         "news"
@@ -108,8 +102,21 @@
       ]
     },
     {
+      "title": "Google AI Bridges Search And Wallet To Unlock Spending Signals",
+      "score": 21.34,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5"
+      ]
+    },
+    {
       "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-      "score": 43.76,
+      "score": 41.83,
       "kinds": [
         "community",
         "news"
@@ -117,35 +124,39 @@
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG9iTHJ2RUFZRnYtZHQyX01EU3pnY1BaT09BSkxPWUR4bDV4cFNhanZOSzFoMU9adTcwTEJMMkZqajRLZnZ5X1dEcXVaTXVrQnZfLXYxa05OQ1ZacjVoek4yRlo5M2RsSmhQdllVOVNGQTFHa3ZtRnFOWnBENXVZMU9LVF9hbGcwYmhBRmV6MEJxekUzbmZ1SXphUVNJb010QjAwRE13TmJOM2M?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NLS1tbGtuTmZwMXNKSVNlYXJCbUlNZWktcE5sWjdkSVZkbDd2Y3d5STBVaWhOczBCUF9LU1MtMjdUVkdvYzhFVmxMRnBtcjFsWkUtYmtmOWRfZFg5WDJ3S0M0TXZWOW5kc0N2cEJWWGY2MGFaRXc?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMndVRkJQcnJ1a3ZXTmZpQ0t4d3dBUFFUUnRjS1htT0JxSHRYN1pSelFROGsxTkxHWV83R2h3Z1ViRUhuZS1XSVZSR3djWU5ITXJ2SThvN1oxVGRvMVdOZUk4WUU5bndkY1lBR0pOMmJrWG5OQjVQOVZaaXVfMG1FZG53Rjc5bXdW?oc=5"
       ]
     },
     {
-      "title": "Issue statuses and repository boards are in public preview",
-      "score": 20.44,
+      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+      "score": 21.76,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview"
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RV1R3XzUxV0tTVTJicW9ad1MtZWFSekJnaDFGaGZUUG1OYjZYSDVicUhkR3lob3RlaDZTRmgzWjUzR3lzcmVVTkJYUHlPVWtGdzZzZ1d3T0tidC0xNHJPNFNyX2xfcWpaWGlEXzY3TmNxcXVuNW04UzU4RQ?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RV1R3XzUxV0tTVTJicW9ad1MtZWFSekJnaDFGaGZUUG1OYjZYSDVicUhkR3lob3RlaDZTRmgzWjUzR3lzcmVVTkJYUHlPVWtGdzZzZ1d3T0tidC0xNHJPNFNyX2xfcWpaWGlEXzY3TmNxcXVuNW04UzU4RQ?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RV1R3XzUxV0tTVTJicW9ad1MtZWFSekJnaDFGaGZUUG1OYjZYSDVicUhkR3lob3RlaDZTRmgzWjUzR3lzcmVVTkJYUHlPVWtGdzZzZ1d3T0tidC0xNHJPNFNyX2xfcWpaWGlEXzY3TmNxcXVuNW04UzU4RQ?oc=5"
       ]
     },
     {
-      "title": "Secret scanning reduces false positives for Slack",
-      "score": 19.93,
+      "title": "Apple Revives Product(RED) With Red HomePod Mini 2 and AirPods Max 2 Ahead of Holidays",
+      "score": 21.16,
       "kinds": [
-        "official"
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2LXZOZ2lCU1JzaFlJTUEtc2xvX2lfYmczRW1henhHYktVWmUyRnlRcF9WemUxaVllb1ZtV21yV3hfQmkzUDl5SUJCdDNsY3U4TEZwaEVRRUNpOXZRZlFoQVNmRW5kcDZGMC1aSDNPY0V3T1BfVEE?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcE9KcUxjdGR3cENNM1Y2eDJDbldBWHdSaHpHNUdFQklINkg5NUdLRS1uSmd3aUswa3FFSjV5RTBwaUtoWmQ0X1NhSWNTcW90N1JvTjROU2o3YjVob0d4STloekZxckVqS0pESlRlNUt5QU8wQTVaSzgzMDhJSk5JWG5hSFE4cUIyaUQ5QnpXTERjZXRlb2xRS1VTUlVEbEFzdGJDQWcyY3VEekswU3RBMllwazZ6TDRSeGxzQTZyVDJSdUVReUdsTQ?oc=5"
       ]
     },
     {
       "title": "motorola signature 27 to launch in India on December 9th",
-      "score": 20.79,
+      "score": 20.43,
       "kinds": [
         "news"
       ],

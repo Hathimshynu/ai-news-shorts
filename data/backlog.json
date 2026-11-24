@@ -1,16 +1,5 @@
 [
   {
-    "title": "OpenAI and Cisco introduce Shirudo",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " OpenAI and Cisco introduce Shirudo &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-23T21:24:12+00:00",
-    "engagement": 0,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
-  },
-  {
     "title": "India AI Funding Nearly Doubles to US$1.6 Billion in January-September 2026, but Funding Rounds Decline",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUwwdDF5MG8zc0Q1Y3BBLUNvVS1QUVJodlVZV29TVGVndVRuWFN2UnVuVjZNcm9TSXA0XzdXVEh6LXdXY3FjeGV6bUtDcEVQdUJfUUFSb1l4ajV4ejY1RlZtVlBINm9NT3JVdVltZXk2NTQtNVJFSWRQVWxuQkpCeDVkQ3ZvWUo2RXZuVVh5Rng?oc=5",
     "source": "Kotak Neo",
@@ -19,7 +8,7 @@
     "country": "IN",
     "published": "2026-11-23T15:27:56+00:00",
     "engagement": 0,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
+    "saved": "2026-11-24T00:21:56.985779+00:00"
   },
   {
     "title": "Finding faster quantum algorithms with agents and formal verification",
@@ -30,18 +19,7 @@
     "country": "IN",
     "published": "2026-11-23T17:00:25+00:00",
     "engagement": 0,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
-  },
-  {
-    "title": "Meetsaini/emulator: new open-source AI project",
-    "link": "https://github.com/Meetsaini/emulator",
-    "source": "GitHub",
-    "kind": "github",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-23T20:30:08+00:00",
-    "engagement": 338,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
+    "saved": "2026-11-24T00:21:56.985779+00:00"
   },
   {
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -52,7 +30,7 @@
     "country": "GLOBAL",
     "published": "2026-11-23T17:20:37+00:00",
     "engagement": 0,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
+    "saved": "2026-11-24T00:21:56.985779+00:00"
   },
   {
     "title": "OpenAI Elevates Akash Iyer To Lead Social Media Operations Across APAC",
@@ -63,7 +41,18 @@
     "country": "IN",
     "published": "2026-11-23T13:01:57+00:00",
     "engagement": 0,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
+    "saved": "2026-11-24T00:21:56.985779+00:00"
+  },
+  {
+    "title": "Meetsaini/emulator: new open-source AI project",
+    "link": "https://github.com/Meetsaini/emulator",
+    "source": "GitHub",
+    "kind": "github",
+    "summary": "",
+    "country": "GLOBAL",
+    "published": "2026-11-23T20:30:08+00:00",
+    "engagement": 338,
+    "saved": "2026-11-24T00:21:56.985779+00:00"
   },
   {
     "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
@@ -74,6 +63,17 @@
     "country": "IN",
     "published": "2026-11-23T21:29:00+00:00",
     "engagement": 0,
-    "saved": "2026-11-23T22:55:03.686104+00:00"
+    "saved": "2026-11-24T00:21:56.985779+00:00"
+  },
+  {
+    "title": "Google AI Bridges Search And Wallet To Unlock Spending Signals",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUpWTk1DMkhmOHkzalRjcHBHQld0ZC1ZalhLU1VIRG1qdmRNNWZDa2pSVHhLcEZndlZSUjFqTnROeGkxTlZ2YWpHQk5fcktjSktvZ1lGMEZ6bW54M1pLVWpJdzlsSXh3NXpUd09BYkZMeWhSMVliMVhscGdJVWM0ZlJhTjBfWUFnRlNvZTlXTWx1anJnMm9tUlFIczdYbk1a?oc=5",
+    "source": "Yahoo Finance",
+    "kind": "news",
+    "summary": "   Google AI Bridges Search And Wallet To Unlock Spending Signals &nbsp;&nbsp; Yahoo Finance    A more tailored Google Search that’s uniquely yours &nbsp;&nbsp; blog.google    Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses &nbsp;&nbsp; TechCrunch    AI Mode adding Google Drive, Wallet, & Gemini app integration &nbsp;&nbsp; 9to5Google    Google: Connect Apps To Search In Return For Personal Responses &nbsp;&nbsp; Search Engine Roundtable   ",
+    "country": "MY",
+    "published": "2026-11-23T21:39:08+00:00",
+    "engagement": 0,
+    "saved": "2026-11-24T00:21:56.985779+00:00"
   }
 ]
