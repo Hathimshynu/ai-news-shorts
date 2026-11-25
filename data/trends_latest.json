@@ -1,47 +1,24 @@
 {
-  "job_id": "2026-11-25-evening-1701",
-  "chosen": "An Indic Voice Agent with CUGA",
-  "reason": "This official release on building Indic language voice agents offers high-value, practical insights tailored specifically for developers and tech creators in India.",
+  "job_id": "2026-11-25-evening-1801",
+  "chosen": "Anthropic Brings Claude Duet AI Agent to India",
+  "reason": "Anthropic launching its Claude AI agent features in India directly impacts local developers and creators looking to automate workflows.",
   "candidates": [
     {
-      "title": "An Indic Voice Agent with CUGA",
-      "score": 20.71,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
-      ]
-    },
-    {
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "score": 21.06,
+      "title": "Anthropic Brings Claude Duet AI Agent to India",
+      "score": 19.55,
       "kinds": [
         "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/business/customer-stories/ifood",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM3ZIZFNOamhtM3d6TGhRVDZzZmxGVG1SRzlSQVlNUkRmMl9XeGNPaFlodm8tdk5kR0Rzb3R6V0ZZV3lQb3lRbl9MOVh6Rk5kMnhURS0wRUdwYTlYZHNOS2F0d0lFT0xn?oc=5"
-      ]
-    },
-    {
-      "title": "Anthropic Brings Claude Duet AI Agent to India",
-      "score": 19.8,
-      "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2dlY3h5QWJKRVhJX1RXS2w3dmhZRUstYlZ3TWxsQjRhZWZNMnpUYzNUblBpRlc5cEV3NnlpUlJEM01yaGhWeVN4TVlZa3BTREh5S0lxbzlsSFRlVlR0M2J6Z2dXa3JuMHVMRVNJNUlTalpSajdrQUpIaHgxRGV3bGtUVHpzN0lDMFRVMQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSjh5Nmg1ZTBWcUFXS2VhSzZlVXdOa0E2LUt0cWViLWt4Z19RSUc4Y3hpMEZ4WlR5d1h3dXMtd216cng4ZW1FZDlybUxseUNhQlZaSl9FZGRQTVRzWkFqcGVRZURwNVFFYnBfX284c291dW5PVHNtaXVWWGZPS0x4d2g2dVZSVW5hdkExMWo4VDRLODUxcVRBYUJoczFRQ0tfMFVXV1ZVRjd1dGFDa0tnQTBpZXZSUzNkX3RPUnQwTUR4YzdueUNfU1NFN2xvcVdkNEZVRmFyb2h3QdIB2gFBVV95cUxOSjh5Nmg1ZTBWcUFXS2VhSzZlVXdOa0E2LUt0cWViLWt4Z19RSUc4Y3hpMEZ4WlR5d1h3dXMtd216cng4ZW1FZDlybUxseUNhQlZaSl9FZGRQTVRzWkFqcGVRZURwNVFFYnBfX284c291dW5PVHNtaXVWWGZPS0x4d2g2dVZSVW5hdkExMWo4VDRLODUxcVRBYUJoczFRQ0tfMFVXV1ZVRjd1dGFDa0tnQTBpZXZSUzNkX3RPUnQwTUR4YzdueUNfU1NFN2xvcVdkNEZVRmFyb2h3QQ?oc=5"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2dlY3h5QWJKRVhJX1RXS2w3dmhZRUstYlZ3TWxsQjRhZWZNMnpUYzNUblBpRlc5cEV3NnlpUlJEM01yaGhWeVN4TVlZa3BTREh5S0lxbzlsSFRlVlR0M2J6Z2dXa3JuMHVMRVNJNUlTalpSajdrQUpIaHgxRGV3bGtUVHpzN0lDMFRVMQ?oc=5"
       ]
     },
     {
       "title": "OpenAI brings Sana Shaikh on board for Global Ads Solutions in India",
-      "score": 22.63,
+      "score": 20.38,
       "kinds": [
         "backlog",
         "news"
@@ -50,25 +27,40 @@
       "links": [
         "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVkwbVgxWXRjNHg4WjZ2RnloMlR1OVNFZUt1d2FLcHBkQzVwUE9TcTdjWGpkc2pTUWlXS0xqVXVDTnNPd3BUdDJGZkxWSy1uNTlWN2JjN0VaYWtYWlAzcEpzVV9mOGdBb0NmQlBJaFQ0UnZ2UWNJb1FvazA3VWJ6UV9INTlFbFRyb0oyUUp5OEtHVnBPNUxYakdrejZBZw?oc=5",
         "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaU1CUFNpUXNyUmhvd1JIdnJuNllHMnRkZHY1ZFpLdEJTSUxzQXRsTnlqbGQ0YmdwTC1CdlcwQ1JEVm9fYTdidTF1STZ2eFhFSmkxRjhtZm1LamlaVFBYMC1aMTlZVWwyc29xRVJFVXRncS1BcDlBRHp4QXhQMmQ1Y2RpX1F4bUxOMDBNQm1YME5FcDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1M4a3A1OG53UGluNXdxUlRMZ2MyZ1hhdmJsLU5XY19ZSzRfU3BDNC03d1l6UGJpaVhpcERIdEFEZWszWGhadXRhX0cxcWh0RkxFcmh2VWdncUhiVmd2REtEeThSbGFXQ05KWmdMNGZjM3ZtTGV6VUhEM3dzOU9ZZEo1SWFqMHdDRURSS0hVcjdzdUU?oc=5"
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVkwbVgxWXRjNHg4WjZ2RnloMlR1OVNFZUt1d2FLcHBkQzVwUE9TcTdjWGpkc2pTUWlXS0xqVXVDTnNPd3BUdDJGZkxWSy1uNTlWN2JjN0VaYWtYWlAzcEpzVV9mOGdBb0NmQlBJaFQ0UnZ2UWNJb1FvazA3VWJ6UV9INTlFbFRyb0oyUUp5OEtHVnBPNUxYakdrejZBZw?oc=5"
       ]
     },
     {
-      "title": "How Intentful uses dots to make more time for growth",
-      "score": 21.06,
+      "title": "India's First Industry-Built PSLV Set For Q1 2027 Launch: ISRO",
+      "score": 28.0,
       "kinds": [
-        "news",
-        "official"
+        "backlog",
+        "news"
       ],
-      "primary": true,
+      "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcjAzV0tndkZ2UEZxM2ZxakFudmdKalNkaTU3LW1sUER4a0lCazhKbHA5ZDY4Z0ZBNy1BUzJRSVFPaGdGTm1BbGk2cU5fRGxBT3FKTmo3YTVQOWdoYlI2QzFKNDcyT3U4U0loZw?oc=5",
-        "https://openai.com/business/customer-stories/intentful-dots"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2lGUnFydjdSQXJfTE5jaUxVaTczeklsclNVaE5mdVNuejhPVlhZSEtrelZVVVFFaUgzcnJCRzhrMFpHQVNwN0dsU2x2Qzh4NE9qSVBFcDc1SVM2SzB3WFFzbUdmV0VQOGVGRDB6b2hKWDlKYllLS0NPRHRyU004RllzQmhNUTBk?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUxDMUFtcXlnN0J6VGlWZnZjNWpoQUdrTUFqV2hRYm9uaEs1R2MwYUJfaHY0eWVBRXk5S2dGTVU0Q2c1a2pjaGxtM3BweURCX0VXQXhEUW55cER1U1JRUHRDMjdNcnl5QjlyUzlNdzczYVZjdVJ6ZUkxTTYxZ2xxYnlRTUZwLWpOaDdPbjA1Sk1ZSGx0ZmR3WUhBS29mWnRrTWNzLTFjX19FOVczN0FqNGpOaVBya3RmczBOcmdMSXkwTEhfenFSYWxsSXTSAcwBQVVfeXFMTzVMQzFBbXF5ZzdCelRpVmZ2YzVqaEFHa01BaldoUWJvbmhLNUdjMGFCX2h2NHllQUV5OUtnRk1VNENnNWtqY2hsbTNwcHlEQl9FV0F4RFFueXBEdVNSUVB0QzI3TXJ5eUI5clM5TXc3M2FWY3VSemVJMU02MWdscWJ5UU1GcC1qTmg3T24wNUpNWUhsdGZkd1lIQUtvZlp0a01jcy0xY19fRTlXMzdBajRqTmlQcmt0ZnMwTnJnTEl5MExIX3pxUmFsbEl0?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUx3M0dENFBhTWFZUnZoVng0MUZZekZzelBmTXlYejJZSExsaFIzSzJYREpucDQtdk9JME9NTzlfY05fU0I3dk5PcjIxbE5iYjRZaktrRDRsYnRLenlSY0tqeEhmbFR2WjJ6WDM4YnZSWTk0LTlSZnVwTHNnamxKc3FQOU9oaUVGS09hWDVMM0dsZ1RWS2dKVDJVYlY3Q1U?oc=5"
+      ]
+    },
+    {
+      "title": "ISRO says privately built PSLV-N1 ready for maiden flight in 2027",
+      "score": 22.9,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdyS9IBsAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdySw?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WVVRLQk50LVF2QUswYy1JS01GZGs0a0hTejljdjhmQkZNc1FoeUtQcjJZbEdGX0g4UVJMVC1BZmdScWxQaVJzS1pmS3FNSGdNLUNYdU1aaUZQYlFEOHh6OU1KYjlUTlBYaUxXbm5GSTc3UThUam9KNU51dVQwdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmxTOUU5c25VaElsVFB5TnF0UFhZRXhyOTllZTRqN2d1bGh6TUprdlJueURPVDV1Nlk5aDc4djFFcXZWWlhKOWl5RE9KSVVKSHpqNnpFYVVyZ3U0Q0sxazVlMWJITk4xOHBaTVdCX1FwUFh3RF8xb3FNVUlQSWVWS3QwQ2RPMGMwLXBPY2pPbDQwWElFVm02anRIRnUyR2JNdjRmUDR2dlJKSXVubmpYWkxXR1dOaHB3NGfSAb8BQVVfeXFMTnAtZENtcGJUWkQzQWJDanhNRWxzZ2pEWGNWeDFYcVdXY20xNHhfNEVOVEZiM1ExNXdWZlFtN1BKQnRfa1Nrb3hTSWQ4dC1WSTlRS2dhVGd6aXM1X0ZUaDRDb1dFWXhrS2RhOEVnYUJ2dXFPT0E2VlpNTVcyQWJBbURyZGlwLURlZEZzbU9USGZtaXhXcEZ5RERHbFlTdGhDOGJRMVhtaG1vQWxMaHI0Ri1PODB2MGExdU9wOXA1czg?oc=5"
       ]
     },
     {
       "title": "Searching for distant planets with Astra",
-      "score": 23.05,
+      "score": 22.8,
       "kinds": [
         "backlog",
         "news",
@@ -82,82 +74,92 @@
       ]
     },
     {
-      "title": "India's First Industry-Built PSLV Set For Q1 2027 Launch: ISRO",
-      "score": 30.25,
+      "title": "OpenAI, SpaceX Backer VU Venture Partners Enters Indian Startup Market",
+      "score": 19.64,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RzcmR4OU54Zlh3OWhBclVCUTJQSDE5UVBmUHJaenVmcFVqRVlrM1NGOGxEOTZLX3htUDFfdFY0R3haeU4xSUo4ZU54dmhFSHA5RXltT3NYcmZqYkcycmo5d0N6WGpxNmJfZUNMMDVXdzFlVFNYdmcyRXdhQmFFMzYycV9pUnFTVTRhYmNFNmtVWDVFai03TA?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5"
+      ]
+    },
+    {
+      "title": "Google India explores love and AI in Toaster campaign",
+      "score": 19.1,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ19iNEgxa29lb0NGdERWcDVJMXE3UXduWS1DcjdHeXQ3Y3FqdHVuLTllZXVGbmpwNTUyTFlobjlQSnpzRzVaYlM3cS1aSFBnX0FQRjFzb1VPelh2dGF0OEhCdlp2NlFxSTVHV3lqcGpqckpYdWJGbWlUX3hQWHRBem5iS1N0Mll5VWdDNk4wTnBlYm9yel9rUnVldw?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ19iNEgxa29lb0NGdERWcDVJMXE3UXduWS1DcjdHeXQ3Y3FqdHVuLTllZXVGbmpwNTUyTFlobjlQSnpzRzVaYlM3cS1aSFBnX0FQRjFzb1VPelh2dGF0OEhCdlp2NlFxSTVHV3lqcGpqckpYdWJGbWlUX3hQWHRBem5iS1N0Mll5VWdDNk4wTnBlYm9yel9rUnVldw?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnA4djZMclFETjQzd1FxREN5dGdDUFJIWVlubmlmc0JhUkR0WjdWMDViWjRDU1F5Y2MzNWtDWWdnTUlRYWQzQW1PemxZcVN6a0JCLXlVZEwwY2lraVN6STFsMVNUUndjOGZuTGZ2cF9vaWhuaGxEUkxQTm5RX2tadDkxRzdoTm9BdXFwc2J6blcyWGI4UjJDRE0zX3RPVENJSFNB?oc=5"
+      ]
+    },
+    {
+      "title": "Motorola Signature 27 India launch date confirmed for December 9: 12,000-Nit display, 7,000mAh battery",
+      "score": 18.62,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE9MVnVRQ3B5UzdncVN1ejBSZlBPbDUxa1JFZDg0dk5rNjJWTkltMVBPUEJDTDFUc2V2NXNxZ1R3T2twd3hzUFJSd0NRRk5BY0hLRkM2czdhNXhjMmpGME9tZl9iWDRPQlAySDZTUXpQNXh5eHNvMWtHZXBtZGtSQW1OX294bmZuOU1LRk5fTEl2dUhBSVpwNlc3dTRZd1hELVV6eUtaMnDSAa4BQVVfeXFMUGdHNTl1cnVYQVlQRVdWM01yZ2NJRVVya2RHYTF3Q0xYc2tOSGZWSngzQUdxM3JTdGFXWUdvbFRqMkdKQUxYbjY4VHpaNFNEckVpRnNQQ3M0VzhyR016MnBpaFFVenZvNWtmMHh4UjEya2k2RDJwTHVKTmVjMUJOWm1GcDdVT2IxekZzU0JNU1djcDBWSndmdGFqeXlRTzVXYS1mUmR1MUFWdWlLZmZR?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0x2ZmlyNjcyQ0M3OGl4VFJiaFNlNnJpdHllcVFOQkpfdWhLZU50YUtXb1hxWk1WRjZ4aGo0enNqWG9namRsSWNBNHJkdGlOM3hXamxQUjlaWEcza3hQamFhQURXUFBMWUVUa2t1SlhSZ1JZa1gtZkwySWZpYzlWRFN2dzFLY1Bu?oc=5"
+      ]
+    },
+    {
+      "title": "Scindia Announces Advisory Panel for Telecom Startups and MSMEs, Cites 96 Products Reaching Market",
+      "score": 18.95,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnZxTnNpVDJYajBwQjFKZndZQlZscVBZem42Vlp0Z2RXTzQ3azVFY1pPME9XbjZGMlhGMnNCNG1rTUpiRTNMU1JVajBYYTgxQ2Q4M3BZRC1iQW0wWC1GSGRSY2NQZnVCekZOazktdkZjbHRjNzFoa3pVY3Z4Y05Gc05qbWhTdEtVRERSVGJBZ1ZXSWxoRjdpbDFZQmJlRWpFV2Fkdm0xamJGV2xlZTQ3R0xSVExQVzNvSEpkWjJYM1I5bkdTQURLbkMzQk9aRHFxZ3hHMA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzYtX0pvSGRiN3N4LW1pY0Y2Z0FwbFlMYk9la3hqQmFjbktjYkZURC1YS1lMUnJKUGVkR3c3Sm5tLUFXbjV6VERlY0ZMY3ZVRFVkdzhXeGp1b2NFU1RKbEYycGtYOElKME9OeE1TOVlMVlJ0REJhNjFGdXJ3Ty1pMnFrM3dfYjNTVnNfN1J6Z2NlZjZSYkhKMUJHOWs5cWYybFFkdTRyZlhsYjJ5Q0VtTm9lWlpLbGo1bWZnTHlzU0o2NC04dGI4UFU5Zk9SSDBqLUHSAdcBQVVfeXFMTWFWUzZPMEdmYjkyS1U5N0pPSzZYc1BiaXR2WlBhNGNhdEwxQXVaMHhGQnNjVHRicGozYnpMMUFsM2pBYTB1STA5VTlVbHRWNk1CSVlDajc0aE9aR05sVmQ0dXB2b081ZnhERkg3eTJsSDEza1NacUVpdjItUXlOYUF2dHVZZ2F2VjJUZDhlLWRtYV9aVG8tNmdyQ2oyRzBUbHdXczZuWlRNemVTZGpVZlByMzBwNEZ0YVN5N3pOZ1dJajRlRW8wUHliRl9oZml2WFI4Mzl2RVE?oc=5"
+      ]
+    },
+    {
+      "title": "Aeravti Ventures launches Rs 300-crore Fund II, secures over half of target corpus",
+      "score": 18.97,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMGE2clV3UGI3MmZCVXdYMTB1SG13NmdyblE1b2Y2U1l1cGZwQUhJdktFSzRpeV9vMWlaR1o2ZVIzaG5CWUl3bEpTaWtybElDYzFiMG1HZkM3Z19BaXVQblptQjBSRXlHaGtpOXJaUGRiRXpRS3hsa2JuRDJhTDBoVVF2ekRzT1p3eUJfeFlZT2R3NzN1TklwVFhKU1Z5YVJXZ0RFQkNIeUxtR0tBb0Rtc1phd1AtcG9nQ25lT3NaQ1Z2NjJKOExKRGRjWXRHeVNMdjdON2VQQllIX0hSSkdkRU9HYzbSAeQBQVVfeXFMTzBhNnJVd1BiNzJmQlV3WDEwdUhtdzZncm5RNW9mNlNZdXBmcEFISXZLRUs0aXlfbzFpWkdaNmVSM2huQllJd2xKU2lrcmxJQ2MxYjBtR2ZDN2dfQWl1UG5abUIwUkV5R2hraTlyWlBkYkV6UUt4bGtibkQyYUwwaFVRdnpEc09ad3lCX3hZWU9kdzczdU5JcFRYSlNWeWFSV2dERUJDSHlMbUdLQW9EbXNaYXdQLXBvZ0NuZU9zWkNWdjYySjhMSkRkY1l0R3lTTHY3TjdlUEJZSF9IUkpHZEVPR2M2?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTdrOEhpOERtV2NXSDZ4dDZNX3pjdnFWNVlyQlBvVHR0eEVobzdXWVpUU0ljZ3dXa00tTDZyMGFMdzhyNUhteGxnQUhQSmFqZXVyM0I3X0FEQm1OQnZFQ2tpOG4xQnA2WXMzX1FQdFRBTVQySWdIaXpFcnZBQklsSGVBVXNORXZmZFpSMjJUdTY4MGpmVmQ1UUNmSGxCNU5lOEVjZ0tabkFkRlR2Umc4MkNfQ0otcnJ3aUhHald0VXBQVFhuX2ZNaGxrM2FqZXlWemJnZmduai1PLTYwcExXWjZSRm8xdTBTY0JOTUZSTDU?oc=5"
+      ]
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "score": 22.81,
       "kinds": [
         "backlog",
-        "news"
+        "news",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2lGUnFydjdSQXJfTE5jaUxVaTczeklsclNVaE5mdVNuejhPVlhZSEtrelZVVVFFaUgzcnJCRzhrMFpHQVNwN0dsU2x2Qzh4NE9qSVBFcDc1SVM2SzB3WFFzbUdmV0VQOGVGRDB6b2hKWDlKYllLS0NPRHRyU004RllzQmhNUTBk?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUxDMUFtcXlnN0J6VGlWZnZjNWpoQUdrTUFqV2hRYm9uaEs1R2MwYUJfaHY0eWVBRXk5S2dGTVU0Q2c1a2pjaGxtM3BweURCX0VXQXhEUW55cER1U1JRUHRDMjdNcnl5QjlyUzlNdzczYVZjdVJ6ZUkxTTYxZ2xxYnlRTUZwLWpOaDdPbjA1Sk1ZSGx0ZmR3WUhBS29mWnRrTWNzLTFjX19FOVczN0FqNGpOaVBya3RmczBOcmdMSXkwTEhfenFSYWxsSXTSAcwBQVVfeXFMTzVMQzFBbXF5ZzdCelRpVmZ2YzVqaEFHa01BaldoUWJvbmhLNUdjMGFCX2h2NHllQUV5OUtnRk1VNENnNWtqY2hsbTNwcHlEQl9FV0F4RFFueXBEdVNSUVB0QzI3TXJ5eUI5clM5TXc3M2FWY3VSemVJMU02MWdscWJ5UU1GcC1qTmg3T24wNUpNWUhsdGZkd1lIQUtvZlp0a01jcy0xY19fRTlXMzdBajRqTmlQcmt0ZnMwTnJnTEl5MExIX3pxUmFsbEl0?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXdUb21sdHNMeXdkbTEza3BEOXJIWE1qbG5ZOTY4dE5pT3ZqZnZ1VXNSb29WMXVxdWtEcjgxSW9keEhTZWFjNmViXzFHeXBoVTUyWFhpVUN5TW50QTBHdVZTNmFUcWVsX0J0d1pBVjlWVG1mbDVOTk1YMF9oSWdldGF6NUkwQUlSVUQxbC1tUFUtOEpFY21KVnZ6eTYzQmJLMWFxMmEyVzdON1Y1cTJzdjBQZi1jdUZUanhuNXFLY0NBZ3BjM2RZTVR1MEZyRC11bEMtY1dR0gHbAUFVX3lxTFBIdmtGWm8wUGF3dkZIdGlzY3kyOS1SZWNEUkY0Sy1CZWtoX3E4LVBNUm1fOXRUTk5IWFphd0U5cURLbENQNWpYNkVSSTBPMFBiSFU2emRQNThlenktSFkxMTdUdVVGaXowek55S0hScUhIMk9wTDhHaUNscDdobHRpWlRPMHJyRG5nUHJJbk04VVZWOG5kaVRyeGxQNG01U28tdnY2TG1ZTmkxOXdHaGhkMk00U2RWaFgwMXpZZU43THZVTFFNV3VWQ3VpS1hFcVVBeUZPNWxZdzl4SQ?oc=5"
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcjAzV0tndkZ2UEZxM2ZxakFudmdKalNkaTU3LW1sUER4a0lCazhKbHA5ZDY4Z0ZBNy1BUzJRSVFPaGdGTm1BbGk2cU5fRGxBT3FKTmo3YTVQOWdoYlI2QzFKNDcyT3U4U0loZw?oc=5",
+        "https://openai.com/business/customer-stories/intentful-dots",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcjAzV0tndkZ2UEZxM2ZxakFudmdKalNkaTU3LW1sUER4a0lCazhKbHA5ZDY4Z0ZBNy1BUzJRSVFPaGdGTm1BbGk2cU5fRGxBT3FKTmo3YTVQOWdoYlI2QzFKNDcyT3U4U0loZw?oc=5"
       ]
     },
     {
-      "title": "ISRO says privately built PSLV-N1 ready for maiden flight in 2027",
-      "score": 21.15,
+      "title": "CD Projekt RED sees no material fourth-quarter hit from GTA VI",
+      "score": 18.8,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdyS9IBsAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdySw?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WVVRLQk50LVF2QUswYy1JS01GZGs0a0hTejljdjhmQkZNc1FoeUtQcjJZbEdGX0g4UVJMVC1BZmdScWxQaVJzS1pmS3FNSGdNLUNYdU1aaUZQYlFEOHh6OU1KYjlUTlBYaUxXbm5GSTc3UThUam9KNU51dVQwdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmxTOUU5c25VaElsVFB5TnF0UFhZRXhyOTllZTRqN2d1bGh6TUprdlJueURPVDV1Nlk5aDc4djFFcXZWWlhKOWl5RE9KSVVKSHpqNnpFYVVyZ3U0Q0sxazVlMWJITk4xOHBaTVdCX1FwUFh3RF8xb3FNVUlQSWVWS3QwQ2RPMGMwLXBPY2pPbDQwWElFVm02anRIRnUyR2JNdjRmUDR2dlJKSXVubmpYWkxXR1dOaHB3NGfSAb8BQVVfeXFMTnAtZENtcGJUWkQzQWJDanhNRWxzZ2pEWGNWeDFYcVdXY20xNHhfNEVOVEZiM1ExNXdWZlFtN1BKQnRfa1Nrb3hTSWQ4dC1WSTlRS2dhVGd6aXM1X0ZUaDRDb1dFWXhrS2RhOEVnYUJ2dXFPT0E2VlpNTVcyQWJBbURyZGlwLURlZEZzbU9USGZtaXhXcEZ5RERHbFlTdGhDOGJRMVhtaG1vQWxMaHI0Ri1PODB2MGExdU9wOXA1czg?oc=5"
-      ]
-    },
-    {
-      "title": "Gaganyaan preparations in final phase, no delay: ISRO chief",
-      "score": 24.4,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUhNTjJGaHVHa3RFeFVNSUpSbTg2WURrcEtWNXo5U2t3UWN5YVQ3d0t3d0RxZEdnVVp0MVlqaXNHRmxNZ1RrbHZocjdoYW1wRHlzRkNhbk53aDFQSHNNRVJmaFM3N3ZzbnNGcFVZT3d6dlJDNlVibXU1dVUxMXhFY2NjUWZCRG1XcFlMNjVKUEZIZHVUbUlFcjhZV2ZXMlJTV1RTTUxTSG5leVhGTE02dl9WSdIBwAFBVV95cUxOZHQwOVJHNzdKSTBNSmRmbVRXSG5MLWgxanFRY0JzSHNROUd3dWIwTGZwemp1dzlOWUVqVFZJQ2J4QWtPcktRR0hpZHo4ZlVZd3dLcXlLNmQzM2Npd2F4Mkl6em5FYk43a2FhRGRUS1F1QnlSVDBJYk9WdjhDSmdxaHVqenRoQ21tNThGSUpmamlWaEZPSVlkR2JzRV9OMGdmTkhDMkZIak1SajhsUzN5V1RzVmpUR0RWemxjQWRaaVo?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamY1ZXpuNk9PbHE5YTFlbGdRVWRsSWlCWC15YkRtb0NpLUptOXVZOVNlSXByT281dWx0Y05pc25XUjdpV09PUkI2bjhzcGxRd0swMmNKdzRfMDIwdjdGYVFQZU5hU1VwMlVYNWh3V25mVExSZkdSdUpKcFBROExPRkFqVjlQTWVTN01fUw?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGVLa3docmtVdlR4YV9PWm5kVm44V1cxemRlbTlhdm91N3cxZVduN1NrZm5LYS00ZV9NbC1SODBTamxpa09uUUpKN180elVLdHRvdmFTOWZFTzQzcm05d0FDOUZ1aWlTZDF2MHBjTHRValJqQTZNMXVOSnB0WWFmcm1QODgtcnRQd0xISWdwaWhXcGtvaFdPelhnYVTSAaIBQVVfeXFMTklxZng1eE5ON1V4YW1kSXBKeU5pZUhfc0Y0TnVkSkE0ak5Jd09lSkwtLW1IZU1DSGRJUnViM0N3XzctZjZxUXRLdF9RRXI2RTJyU2o3VWJSTUEtc3RKbUEwdzFEWUIwSV9YT0VBRkFTNC1nclJqQkV6Vjh5S2k3TWRTZzdJMW1DR0V2RTFDa0piMTlUZmJIaGZzX3pNdTFCdzdn?oc=5"
-      ]
-    },
-    {
-      "title": "Japan unveils rover prototype for Moon water mission",
-      "score": 19.98,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aMkh6VS1GVFctUW91SHFNRC02azJ1OE4wRlZYbXZrQTBuZTFQWVZCdXh1RVNjWFlBUmpBSWlRbUpmOGJ2TzdWOE9KWGxuNVk0WnhySlJHZFNHWWtwWnVpTWZ6OTRYOHNfelF3VTJhZlRCNGFlMW9QUnNubw?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rRDNkOFdJVy1Vd3daZ09sbXhNamUybGZZQ3AwXzRDSGlLU0phd09PaWotLTdZRUU4Nnc4bThWNFcwRm42SGQzRVFRVEVsNXB1QXZGeDBzcEt1ZE92REVTRVB3TUdaaVVROVJTeTFQRGR6QVZFV21TOQ?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rRDNkOFdJVy1Vd3daZ09sbXhNamUybGZZQ3AwXzRDSGlLU0phd09PaWotLTdZRUU4Nnc4bThWNFcwRm42SGQzRVFRVEVsNXB1QXZGeDBzcEt1ZE92REVTRVB3TUdaaVVROVJTeTFQRGR6QVZFV21TOQ?oc=5"
-      ]
-    },
-    {
-      "title": "iQOO 16 and iQOO 16s Malaysia launch set for Dec 8; iQOO 16 India launch teased",
-      "score": 19.69,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelg5WXMzS0RkdWdIVDVsaEc4ZTVkNDg0ZEhYYXlZeE4zcEpTSkRHQjdvTnB2WTRYRjlTeDMxZnJ4Y0dsQWN3Rk52QS1kUkRPUTRTVDNYYk01VjlZQU1Qb19kMHZucm9KenVENEJEajZGU3RKSHQ1ZzlwS1RtRDZSUV8zdDRBczlod1NKczZ5NzJ3VjBBM2ZMWkcyd1ZCdENQcWfSAacBQVVfeXFMTVY4OTJ5U0dRQVlLSVlsd0dpQU1xRnZPNmJtWnJnMG9BSnNjNDdqSHE3QmJuQ0I4LWVLX0NfVF8wYk8zSnMzblJxajFtQ0g5amNRZkgzcThIejljUHRSbW1jWkdwNGNObEhJNG1rNXBvVHdhbnZrekFtT2MtNlhzVEl5NGdqVTk2SzN5QldDTzdCSjdrWkJMYjJFQTZaTE1qU2dQcW1JdnM?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPV19mbnVyd2s0VWoyOHJnc1EzeE03YTNLSk1qME5Ka2IxTFdmT3JHQTFmN1VnNEwyejVUQTVUaFdqQnFrRHRybU5abXZiTDUxX05fanFFQ3piWGNEUUVXTGFCbDc2UloyWTZtaHptazFzMzB4dms4NFVUVkhsbHJxZUZkY0FsTzZ3RUNWQTBxZ1psNHdvZDczUnlZZVNzMUJsbWY2WGV2UUwxWk5LY1pERjJORnh6dkY2b1dlVWhWN3RMcGVGSmREck1aOUNUdUN1TXhCYzFRa2JRaEFEaVhGVjZUcldTaERwQ0gzUTFjS2lJdE1WNEpRT2Q4NVI?oc=5"
-      ]
-    },
-    {
-      "title": "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company",
-      "score": 19.84,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzlwdG1tbjdXUWthUmY3WUJ0ek9DYVBSZTU2V2liWUcwU01ja3JYbmVHZkFEbWJDOUluMUdTTjlQZkZhVDQxdVBTd1FSMGVTNFQxQzVvOGtOYTBlcXVPT0pZcnAwOXp5UV9XR2V6Yzlvem1VekFGN3I3d0pEYk1RV1hfWVNfUVBKRnFwS2FleDhXc1NvV3ZqTFhJVlpkdEhaTVdLQWM2cE50Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUp0Si1pZjRaMXJucFpFeWQ3OURDd3lEcWhxcWo1NnJuNnZzTy1zU2NBMk5jLTJ4RVh6dHhEWDNpZlJfSDBMTC1aT29yRjh4VW15bDF0Zi1yS1MwRUJWNUJXb1N4YTRyUllpeDBaUzRPRjNwTEFuT0hOYkxfMGFNNlJVTHo1TkgwdWdLZS1XZFZKTnU4ZDNKeUg0ZEU4cWxRMjFveGNLbw?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUp0Si1pZjRaMXJucFpFeWQ3OURDd3lEcWhxcWo1NnJuNnZzTy1zU2NBMk5jLTJ4RVh6dHhEWDNpZlJfSDBMTC1aT29yRjh4VW15bDF0Zi1yS1MwRUJWNUJXb1N4YTRyUllpeDBaUzRPRjNwTEFuT0hOYkxfMGFNNlJVTHo1TkgwdWdLZS1XZFZKTnU4ZDNKeUg0ZEU4cWxRMjFveGNLbw?oc=5"
       ]
     }
   ]

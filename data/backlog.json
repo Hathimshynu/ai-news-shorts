@@ -1,27 +1,5 @@
 [
   {
-    "title": "How iFood scales coding agents across 15,000 repositories",
-    "link": "https://openai.com/business/customer-stories/ifood",
-    "source": "OpenAI",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-24T00:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
-  },
-  {
-    "title": "Anthropic Brings Claude Duet AI Agent to India",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2dlY3h5QWJKRVhJX1RXS2w3dmhZRUstYlZ3TWxsQjRhZWZNMnpUYzNUblBpRlc5cEV3NnlpUlJEM01yaGhWeVN4TVlZa3BTREh5S0lxbzlsSFRlVlR0M2J6Z2dXa3JuMHVMRVNJNUlTalpSajdrQUpIaHgxRGV3bGtUVHpzN0lDMFRVMQ?oc=5",
-    "source": "Analytics India Magazine",
-    "kind": "news",
-    "summary": " Anthropic Brings Claude Duet AI Agent to India &nbsp;&nbsp; Analytics India Magazine ",
-    "country": "IN",
-    "published": "2026-11-25T10:44:11+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
-  },
-  {
     "title": "OpenAI brings Sana Shaikh on board for Global Ads Solutions in India",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVkwbVgxWXRjNHg4WjZ2RnloMlR1OVNFZUt1d2FLcHBkQzVwUE9TcTdjWGpkc2pTUWlXS0xqVXVDTnNPd3BUdDJGZkxWSy1uNTlWN2JjN0VaYWtYWlAzcEpzVV9mOGdBb0NmQlBJaFQ0UnZ2UWNJb1FvazA3VWJ6UV9INTlFbFRyb0oyUUp5OEtHVnBPNUxYakdrejZBZw?oc=5",
     "source": "MediaNews4U",
@@ -30,29 +8,7 @@
     "country": "IN",
     "published": "2026-11-25T04:35:14+00:00",
     "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
-  },
-  {
-    "title": "How Intentful uses dots to make more time for growth",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcjAzV0tndkZ2UEZxM2ZxakFudmdKalNkaTU3LW1sUER4a0lCazhKbHA5ZDY4Z0ZBNy1BUzJRSVFPaGdGTm1BbGk2cU5fRGxBT3FKTmo3YTVQOWdoYlI2QzFKNDcyT3U4U0loZw?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " How Intentful uses dots to make more time for growth &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-24T19:46:42+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
-  },
-  {
-    "title": "Searching for distant planets with Astra",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZDAzallVcXRPV3JWUGtVS0lMOFdTTjhlOEtlemNScnNhN1Z6Y0tLMXoxdEhhNHdueWw4cFQwVy0xNzBQclVWZXlSUDlVbUNGWnVqNVZ2czdNcTZmS25wZFBmMWlFZkdWSm9LZ1JWdS00Y2Zz?oc=5",
-    "source": "OpenAI",
-    "kind": "news",
-    "summary": " Searching for distant planets with Astra &nbsp;&nbsp; OpenAI ",
-    "country": "IN",
-    "published": "2026-11-24T19:42:58+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
+    "saved": "2026-11-25T12:33:03.225615+00:00"
   },
   {
     "title": "India's First Industry-Built PSLV Set For Q1 2027 Launch: ISRO",
@@ -63,7 +19,7 @@
     "country": "IN",
     "published": "2026-11-25T02:15:16+00:00",
     "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
+    "saved": "2026-11-25T12:33:03.225615+00:00"
   },
   {
     "title": "ISRO says privately built PSLV-N1 ready for maiden flight in 2027",
@@ -74,6 +30,50 @@
     "country": "IN",
     "published": "2026-11-25T08:07:01+00:00",
     "engagement": 0,
-    "saved": "2026-11-25T11:38:05.709356+00:00"
+    "saved": "2026-11-25T12:33:03.225615+00:00"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZDAzallVcXRPV3JWUGtVS0lMOFdTTjhlOEtlemNScnNhN1Z6Y0tLMXoxdEhhNHdueWw4cFQwVy0xNzBQclVWZXlSUDlVbUNGWnVqNVZ2czdNcTZmS25wZFBmMWlFZkdWSm9LZ1JWdS00Y2Zz?oc=5",
+    "source": "OpenAI",
+    "kind": "news",
+    "summary": " Searching for distant planets with Astra &nbsp;&nbsp; OpenAI ",
+    "country": "IN",
+    "published": "2026-11-24T19:42:58+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T12:33:03.225615+00:00"
+  },
+  {
+    "title": "OpenAI, SpaceX Backer VU Venture Partners Enters Indian Startup Market",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RzcmR4OU54Zlh3OWhBclVCUTJQSDE5UVBmUHJaenVmcFVqRVlrM1NGOGxEOTZLX3htUDFfdFY0R3haeU4xSUo4ZU54dmhFSHA5RXltT3NYcmZqYkcycmo5d0N6WGpxNmJfZUNMMDVXdzFlVFNYdmcyRXdhQmFFMzYycV9pUnFTVTRhYmNFNmtVWDVFai03TA?oc=5",
+    "source": "Inc42",
+    "kind": "news",
+    "summary": " OpenAI, SpaceX Backer VU Venture Partners Enters Indian Startup Market &nbsp;&nbsp; Inc42 ",
+    "country": "IN",
+    "published": "2026-11-25T08:39:20+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T12:33:03.225615+00:00"
+  },
+  {
+    "title": "Google India explores love and AI in Toaster campaign",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ19iNEgxa29lb0NGdERWcDVJMXE3UXduWS1DcjdHeXQ3Y3FqdHVuLTllZXVGbmpwNTUyTFlobjlQSnpzRzVaYlM3cS1aSFBnX0FQRjFzb1VPelh2dGF0OEhCdlp2NlFxSTVHV3lqcGpqckpYdWJGbWlUX3hQWHRBem5iS1N0Mll5VWdDNk4wTnBlYm9yel9rUnVldw?oc=5",
+    "source": "https://marketingreport.one/",
+    "kind": "news",
+    "summary": " Google India explores love and AI in Toaster campaign &nbsp;&nbsp; https://marketingreport.one/ ",
+    "country": "IN",
+    "published": "2026-11-25T07:29:08+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T12:33:03.225615+00:00"
+  },
+  {
+    "title": "Motorola Signature 27 India launch date confirmed for December 9: 12,000-Nit display, 7,000mAh battery",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE9MVnVRQ3B5UzdncVN1ejBSZlBPbDUxa1JFZDg0dk5rNjJWTkltMVBPUEJDTDFUc2V2NXNxZ1R3T2twd3hzUFJSd0NRRk5BY0hLRkM2czdhNXhjMmpGME9tZl9iWDRPQlAySDZTUXpQNXh5eHNvMWtHZXBtZGtSQW1OX294bmZuOU1LRk5fTEl2dUhBSVpwNlc3dTRZd1hELVV6eUtaMnDSAa4BQVVfeXFMUGdHNTl1cnVYQVlQRVdWM01yZ2NJRVVya2RHYTF3Q0xYc2tOSGZWSngzQUdxM3JTdGFXWUdvbFRqMkdKQUxYbjY4VHpaNFNEckVpRnNQQ3M0VzhyR016MnBpaFFVenZvNWtmMHh4UjEya2k2RDJwTHVKTmVjMUJOWm1GcDdVT2IxekZzU0JNU1djcDBWSndmdGFqeXlRTzVXYS1mUmR1MUFWdWlLZmZR?oc=5",
+    "source": "PCQuest",
+    "kind": "news",
+    "summary": " Motorola Signature 27 India launch date confirmed for December 9: 12,000-Nit display, 7,000mAh battery &nbsp;&nbsp; PCQuest ",
+    "country": "IN",
+    "published": "2026-11-25T07:00:11+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T12:33:03.225615+00:00"
   }
 ]
