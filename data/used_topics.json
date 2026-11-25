@@ -1,25 +1,5 @@
 [
   {
-    "title": "Turn notifications into code with GitHub Copilot in Teams",
-    "category": "New AI Features",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
-    "category": "Trending Technology",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "UPI handles nearly 80 crore transactions daily, says Nirmala Sitharaman",
-    "category": "Trending Technology",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance",
-    "category": "Trending Technology",
-    "date": "2026-10-25"
-  },
-  {
     "title": "Paar Autonomy Raises Rs 10 Crore to Scale AI Camera Systems and GPS-Free Drone Navigation",
     "category": "Breaking AI News",
     "date": "2026-10-26"
@@ -583,5 +563,10 @@
     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
     "category": "New AI Models",
     "date": "2026-11-24"
+  },
+  {
+    "title": "An Indic Voice Agent with CUGA",
+    "category": "Build With AI",
+    "date": "2026-11-25"
   }
 ]
