@@ -1,49 +1,5 @@
 [
   {
-    "title": "AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
-    "source": "Variety",
-    "kind": "news",
-    "summary": " AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon &nbsp;&nbsp; Variety ",
-    "country": "IN",
-    "published": "2026-11-25T12:52:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
-  },
-  {
-    "title": "OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5",
-    "source": "Equitypandit",
-    "kind": "news",
-    "summary": " OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market &nbsp;&nbsp; Equitypandit ",
-    "country": "IN",
-    "published": "2026-11-25T11:06:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
-  },
-  {
-    "title": "Where scientists draw the line on AI agents",
-    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-    "source": "Hugging Face",
-    "kind": "official",
-    "summary": "",
-    "country": "GLOBAL",
-    "published": "2026-11-25T18:52:55+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
-  },
-  {
-    "title": "Searching for distant planets with Astra",
-    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-    "source": "OpenAI",
-    "kind": "official",
-    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-    "country": "GLOBAL",
-    "published": "2026-11-24T11:00:00+00:00",
-    "engagement": 0,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
-  },
-  {
     "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
     "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
     "source": "Hacker News",
@@ -51,8 +7,8 @@
     "summary": "",
     "country": "GLOBAL",
     "published": "2026-11-25T13:33:07+00:00",
-    "engagement": 380,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
+    "engagement": 401,
+    "saved": "2026-11-25T22:06:17.672047+00:00"
   },
   {
     "title": "Google India explores love and AI in Toaster campaign",
@@ -63,7 +19,40 @@
     "country": "IN",
     "published": "2026-11-25T07:29:08+00:00",
     "engagement": 0,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
+    "saved": "2026-11-25T22:06:17.672047+00:00"
+  },
+  {
+    "title": "OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5",
+    "source": "Equitypandit",
+    "kind": "news",
+    "summary": " OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market &nbsp;&nbsp; Equitypandit ",
+    "country": "IN",
+    "published": "2026-11-25T11:06:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T22:06:17.672047+00:00"
+  },
+  {
+    "title": "AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
+    "source": "Variety",
+    "kind": "news",
+    "summary": " AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon &nbsp;&nbsp; Variety ",
+    "country": "IN",
+    "published": "2026-11-25T12:52:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T22:06:17.672047+00:00"
+  },
+  {
+    "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5",
+    "source": "The Guardian",
+    "kind": "news",
+    "summary": "   Botty? AI helps resurrect voice of John Motson for football video game &nbsp;&nbsp; The Guardian    EA adds AI-generated John Motson to FC 27 video game &nbsp;&nbsp; BBC    FC 27 football video game to add AI John Motson to commentate on matches &nbsp;&nbsp; The Independent    AI helps resurrect voice of John Motson for EA FC 27 video game &nbsp;&nbsp; The Times    EA Sports FC 27 adds the late John Motson as a commentator and I'm not sure how to feel about it &nbsp;&nbsp; Stuff   ",
+    "country": "MY",
+    "published": "2026-11-25T21:00:00+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T22:06:17.672047+00:00"
   },
   {
     "title": "Motorola Signature 27 India launch date confirmed for December 9: 12,000-Nit display, 7,000mAh battery",
@@ -74,6 +63,17 @@
     "country": "IN",
     "published": "2026-11-25T07:00:11+00:00",
     "engagement": 0,
-    "saved": "2026-11-25T20:41:49.620500+00:00"
+    "saved": "2026-11-25T22:06:17.672047+00:00"
+  },
+  {
+    "title": "ISRO says privately built PSLV-N1 ready for maiden flight in 2027",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdyS9IBsAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdySw?oc=5",
+    "source": "Free Press Kashmir",
+    "kind": "news",
+    "summary": " ISRO says privately built PSLV-N1 ready for maiden flight in 2027 &nbsp;&nbsp; Free Press Kashmir ",
+    "country": "IN",
+    "published": "2026-11-25T08:07:01+00:00",
+    "engagement": 0,
+    "saved": "2026-11-25T22:06:17.672047+00:00"
   }
 ]

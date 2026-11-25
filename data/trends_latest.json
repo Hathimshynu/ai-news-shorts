@@ -1,86 +1,37 @@
 {
-  "job_id": "2026-11-26-morning-0204",
-  "chosen": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-  "reason": "ChatGPT users need to know how OpenAI's integration of Chat and Work features will impact their daily usage limits and workflow.",
+  "job_id": "2026-11-26-morning-0328",
+  "chosen": "Where scientists draw the line on AI agents",
+  "reason": "It examines where scientists draw the line on AI agents, sparking debate on safety and regulation that matters to anyone using AI tools.",
   "candidates": [
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "score": 17.91,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWZET3dOcDNPZ1c3bnhSaGh6SkdXeGItdEl0dUNmbzVVZlhhSV8wZ1p0OTN5RDlfUXRZV3NMSXNnV2FxYXdVRWY5UnJZZ2FxbkVXNlFkWFFabHNfRTl2ZXJ5ZFVRd0prUkE0OFRYYktyVGNBemZkSGJZbXUzOVljaEtBdEhIT2Vydkhab2h1cFc0NDJyNVZMb29BQ3U2bUh3N2NETVpyenBmVVpRclBCWnpscjUwUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHZKbUFVd3N2SXpPTU5LbVp4NEhxTDlrcUF3SVoteVM4MXJ0MjA4azFNZGRVclN1U2hSWkFiRS1lcThrM1RCcEN4OFBENmpkemY5NlJSUTltNVhnV1poTHRSajREdWttZ196Q09aMG9GU09BOHVOUWhUNFUzdWlCSFdOT2I4VVVQbmRpckhlMmRBbnZZbWc?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUFkMUczVmJmZVhxanYxckpwM0JJVlJiMGVXUU5uc0hKcmZ3MC10eDlucGNZZHNtZVpvdDdTbGJJYVZLM2V2N08tbFVBZ21lMmJ1Mk9qaENmcDc3U3U2OGs3YWh6ZWI4eEFWa3JLX3FaYXRPZXcxQW5Uc3RGWUk0REJB?oc=5"
-      ]
-    },
-    {
-      "title": "AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon",
-      "score": 18.45,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFUUMxbjhpYkwzdWxpd3Y2WDZzWG0wa1JzQmpkWmFOVlVvckZSRkZIdzBmdEhid2JYMkk3ZmZBQUZ1MDhLcTlkcUlHYTRzUlZKNG1kdGFtQlVOUUJyMVo5bG5wb2NQQQ?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market",
-      "score": 19.63,
+      "title": "Where scientists draw the line on AI agents",
+      "score": 22.23,
       "kinds": [
         "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RzcmR4OU54Zlh3OWhBclVCUTJQSDE5UVBmUHJaenVmcFVqRVlrM1NGOGxEOTZLX3htUDFfdFY0R3haeU4xSUo4ZU54dmhFSHA5RXltT3NYcmZqYkcycmo5d0N6WGpxNmJfZUNMMDVXdzFlVFNYdmcyRXdhQmFFMzYycV9pUnFTVTRhYmNFNmtVWDVFai03TA?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RzcmR4OU54Zlh3OWhBclVCUTJQSDE5UVBmUHJaenVmcFVqRVlrM1NGOGxEOTZLX3htUDFfdFY0R3haeU4xSUo4ZU54dmhFSHA5RXltT3NYcmZqYkcycmo5d0N6WGpxNmJfZUNMMDVXdzFlVFNYdmcyRXdhQmFFMzYycV9pUnFTVTRhYmNFNmtVWDVFai03TA?oc=5"
-      ]
-    },
-    {
-      "title": "Where scientists draw the line on AI agents",
-      "score": 20.57,
-      "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
+        "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
         "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
       ]
     },
     {
-      "title": "Searching for distant planets with Astra",
-      "score": 19.0,
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "score": 19.57,
       "kinds": [
         "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://openai.com/index/searching-for-distant-planets-with-astra",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZDAzallVcXRPV3JWUGtVS0lMOFdTTjhlOEtlemNScnNhN1Z6Y0tLMXoxdEhhNHdueWw4cFQwVy0xNzBQclVWZXlSUDlVbUNGWnVqNVZ2czdNcTZmS25wZFBmMWlFZkdWSm9LZ1JWdS00Y2Zz?oc=5"
-      ]
-    },
-    {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "score": 17.77,
-      "kinds": [
         "community"
       ],
       "primary": true,
       "links": [
+        "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
       ]
     },
     {
       "title": "Google India explores love and AI in Toaster campaign",
-      "score": 19.09,
+      "score": 18.74,
       "kinds": [
         "backlog",
         "news"
@@ -93,8 +44,49 @@
       ]
     },
     {
+      "title": "OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market",
+      "score": 19.28,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RzcmR4OU54Zlh3OWhBclVCUTJQSDE5UVBmUHJaenVmcFVqRVlrM1NGOGxEOTZLX3htUDFfdFY0R3haeU4xSUo4ZU54dmhFSHA5RXltT3NYcmZqYkcycmo5d0N6WGpxNmJfZUNMMDVXdzFlVFNYdmcyRXdhQmFFMzYycV9pUnFTVTRhYmNFNmtVWDVFai03TA?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5"
+      ]
+    },
+    {
+      "title": "AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon",
+      "score": 20.13,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFUUMxbjhpYkwzdWxpd3Y2WDZzWG0wa1JzQmpkWmFOVlVvckZSRkZIdzBmdEhid2JYMkk3ZmZBQUZ1MDhLcTlkcUlHYTRzUlZKNG1kdGFtQlVOUUJyMVo5bG5wb2NQQQ?oc=5"
+      ]
+    },
+    {
+      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "score": 17.76,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5"
+      ]
+    },
+    {
       "title": "Motorola Signature 27 India launch date confirmed for December 9: 12,000-Nit display, 7,000mAh battery",
-      "score": 20.63,
+      "score": 20.28,
       "kinds": [
         "backlog",
         "news"
@@ -108,9 +100,8 @@
     },
     {
       "title": "ISRO says privately built PSLV-N1 ready for maiden flight in 2027",
-      "score": 22.47,
+      "score": 20.12,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
@@ -121,22 +112,8 @@
       ]
     },
     {
-      "title": "India's First Industry-Built PSLV Set For Q1 2027 Launch: ISRO",
-      "score": 19.98,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2lGUnFydjdSQXJfTE5jaUxVaTczeklsclNVaE5mdVNuejhPVlhZSEtrelZVVVFFaUgzcnJCRzhrMFpHQVNwN0dsU2x2Qzh4NE9qSVBFcDc1SVM2SzB3WFFzbUdmV0VQOGVGRDB6b2hKWDlKYllLS0NPRHRyU004RllzQmhNUTBk?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUxDMUFtcXlnN0J6VGlWZnZjNWpoQUdrTUFqV2hRYm9uaEs1R2MwYUJfaHY0eWVBRXk5S2dGTVU0Q2c1a2pjaGxtM3BweURCX0VXQXhEUW55cER1U1JRUHRDMjdNcnl5QjlyUzlNdzczYVZjdVJ6ZUkxTTYxZ2xxYnlRTUZwLWpOaDdPbjA1Sk1ZSGx0ZmR3WUhBS29mWnRrTWNzLTFjX19FOVczN0FqNGpOaVBya3RmczBOcmdMSXkwTEhfenFSYWxsSXTSAcwBQVVfeXFMTzVMQzFBbXF5ZzdCelRpVmZ2YzVqaEFHa01BaldoUWJvbmhLNUdjMGFCX2h2NHllQUV5OUtnRk1VNENnNWtqY2hsbTNwcHlEQl9FV0F4RFFueXBEdVNSUVB0QzI3TXJ5eUI5clM5TXc3M2FWY3VSemVJMU02MWdscWJ5UU1GcC1qTmg3T24wNUpNWUhsdGZkd1lIQUtvZlp0a01jcy0xY19fRTlXMzdBajRqTmlQcmt0ZnMwTnJnTEl5MExIX3pxUmFsbEl0?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWi04NFFjWnhEYnhnSW1hak05NmpQWV94RDUyZl94RTNCdC1NSUM3Q2hxVnhBZnc4YjdJUHR6S3BjaEIzZTBxMFdjOWJjdFVLRFZvaUxUZmRyRmdnM1dvSGxvMWdxMzhVeGNPS1ZRWHZkUXgydy11azM0MC1uUmgwLUJQeDRJWll6NlhzX0tSSHl2YXhnQXNUQ0ZoM0ZQUnF2cWhrdVV5a0NiWkNVblpNcmJfUdIBswFBVV95cUxNWi04NFFjWnhEYnhnSW1hak05NmpQWV94RDUyZl94RTNCdC1NSUM3Q2hxVnhBZnc4YjdJUHR6S3BjaEIzZTBxMFdjOWJjdFVLRFZvaUxUZmRyRmdnM1dvSGxvMWdxMzhVeGNPS1ZRWHZkUXgydy11azM0MC1uUmgwLUJQeDRJWll6NlhzX0tSSHl2YXhnQXNUQ0ZoM0ZQUnF2cWhrdVV5a0NiWkNVblpNcmJfUQ?oc=5"
-      ]
-    },
-    {
       "title": "Structural agility of 2D crystals enables digital doping of graphene superlattices",
-      "score": 19.69,
+      "score": 19.34,
       "kinds": [
         "news"
       ],
@@ -149,7 +126,7 @@
     },
     {
       "title": "Helium bubble replenishment keeps MSR fuel clean",
-      "score": 19.52,
+      "score": 19.17,
       "kinds": [
         "news"
       ],
@@ -158,6 +135,32 @@
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5",
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5",
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5"
+      ]
+    },
+    {
+      "title": "Today’s NYT Wordle Hints, Answer and Help for Thursday, Nov. 26, #1986",
+      "score": 19.76,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5"
+      ]
+    },
+    {
+      "title": "Watch UEFA WCL Highlights: Arsenal v OL Lyonnes",
+      "score": 17.85,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb01LZUpfV0xZMFp0ZVJlY0JBZmJPMEc4QUJQWDBRdmhVUVlvZmJhd3F6OC1jdm9TQjFybUFLVWZCV2tKU2NfZHNfOWZVOWtoQkFBa2RkNlBuaUZfV3lyNGs5TlZSY0tXNXkxOHhhY1ktUFlxY2hQQWRLcmdaaUEzUks2RnRvWVhMd3Y4?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb01LZUpfV0xZMFp0ZVJlY0JBZmJPMEc4QUJQWDBRdmhVUVlvZmJhd3F6OC1jdm9TQjFybUFLVWZCV2tKU2NfZHNfOWZVOWtoQkFBa2RkNlBuaUZfV3lyNGs5TlZSY0tXNXkxOHhhY1ktUFlxY2hQQWRLcmdaaUEzUks2RnRvWVhMd3Y4?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb01LZUpfV0xZMFp0ZVJlY0JBZmJPMEc4QUJQWDBRdmhVUVlvZmJhd3F6OC1jdm9TQjFybUFLVWZCV2tKU2NfZHNfOWZVOWtoQkFBa2RkNlBuaUZfV3lyNGs5TlZSY0tXNXkxOHhhY1ktUFlxY2hQQWRLcmdaaUEzUks2RnRvWVhMd3Y4?oc=5"
       ]
     }
   ]
