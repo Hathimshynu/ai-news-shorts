@@ -1,151 +1,159 @@
 {
-  "job_id": "2026-11-26-evening-1801",
-  "chosen": "BharatGen launches Patram 1.5, a 7-billion-parameter AI model to read Indian documents",
-  "reason": "BharatGen's Patram 1.5 is a home‑grown 7‑billion‑parameter model that can read Indian documents, giving viewers a powerful, locally relevant AI tool they can start using right away.",
+  "job_id": "2026-11-27-morning-0153",
+  "chosen": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "reason": "Nemotron 3.5 Parse offers open‑data fine‑tuning and faster inference, giving Indian developers a powerful, ready‑to‑use model they can start using today.",
   "candidates": [
     {
-      "title": "BharatGen launches Patram 1.5, a 7-billion-parameter AI model to read Indian documents",
-      "score": 19.76,
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "score": 19.17,
       "kinds": [
-        "news"
+        "backlog",
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZU9TeG9rTkp3OVNMRXp0VVdHaEhQUWZtLWc5ZVF1M2MtcW9CSldtR2VWQU52ZllyMEF0YmZIUDA5b3M1ZFpmQ0ZzeEU4dXF4Uy1LYzZRNzBJZW5ST2p6Vy1Zd05XSWpfeTFZdXVxdDZFbEl2TzZSckVNdThlZVVHazlPSWZfLUtCVFBUaWZ6b3FtMTJVdndobWwyNVc5VWs1bkFuekFMUGpGcl9JanpLSmN6Z2hwajVjVzQyR3ZGa212M0h2c1hLTUpXWU1fT2E1XzNyR1dvM0ZQeTF5MG0yVDFKZlZpT2VkRVZnZXBudGlld9IB9wFBVV95cUxPdnVveFd5U19ya21iUnE3NEhodXIyeW5NSUdPSWpvUVNwT2syMUJwX3cySGlEREhsbmUtVzNCTHlnOHdac1ZuOEs2SDlvd2VIdmlUdHU5Q196QUFoczZaZWFWZW9WMEZiMmQwWmM1NXZ4YjB2T3hNdGh2aE1wUTZzcVlDNzNiRHJhZm5ZWUFDcDIyTE44bWQzQ1VvTEtNSDVMWDNaa3pfRlFrazR6cDJuM01HRk9OSnVBb2xKV0haT3JiaW1kYVdMUVRaQXA3V1lyME9WbDR2a2pUb042SzJlZEFTRlcxTVNuWm1tZERCSG5uSFJCTGdJ?oc=5",
-        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanRjcWUzWEJYdkJ5TmJpWkU4LXd3Y0lSWS1tUlZDY0lBZHhBS3FDTm9nZVNRenRNYm9IbExCUWtHdEUtbE8wZ3Vma3M1SG8xM1RIN091YjhteWR1OWhZeFUtRlozT1RfejZzblA1eTlJOEk0ZzNJdUdrdzFQLTVpSWZmbEdITDY3b21jVVRDQnJYQjdXT3RpSjRTU21SN2F2U1FBbEdqLUVsdy1MaFJPNTRIajhZSEpEODNNNEV6YjhPWnZQRWVhVThZQWVpd1IwRHVOZ1RYeXE5aHB0T0Y2cXk1WDE0aktfQjc1eGpMcXozcHFz0gH6AUFVX3lxTE1NbGdRZmhFNUZid2J6NWF0S2toR1JhNUYxajlpZm5GUmIwWkU2TlVJdGdLUy1teXQ0Z3ZabVNha0pVNWJqQ0Uxekw2c0ZreXU3cFhBUEZjMXJaMEVvNVpPRFJmQjluNXVfeWs1dXRRdnMzZGRZXzF5TWNBb2ZISnNibGM1eXVvenQzVEN5T1AtejNXQ05nNE95WmdralRzRHpRTXNoZ2hWbGFucWJuMGFKdzdCY1B0Q0hjYVU5N0MtZnQ4Z1YtRnBteDkwRVRwQkdyQXh5VWNVWUFFOUZPSzRTMjR1MFdSZjhxNXYtd0JtUFh6TTRCRDgwNmc?oc=5"
+        "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
       ]
     },
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "score": 19.14,
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "score": 19.4,
       "kinds": [
         "official"
       ],
       "primary": true,
       "links": [
-        "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+        "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/"
       ]
     },
     {
-      "title": "How global lenders are letting AI do more — and what Indian banks can learn",
-      "score": 17.96,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1k1TmVuNzF0R3VlbTBpMTdxVXJHSG5RVUZSOFp5amtTNlpBaFNpdXR4TnNQUVZScWNWdF9seVpuX2o3QXRjc3FLY1hSeDFibnhjNk5FLXdXc2VNU1NLUElYMFlSaXc5YzdtUURGVTF2QXdRX0VIZi1CVEN0aVljY25BNzNudXAyQWFJU3dhZ3JHelQtMzVWOGtuZHp3TFdvUDdWWFNEbTd2dG9tZzFiUzhfWk1nLVFId2JrVmJwaUx3d9IBxwFBVV95cUxPc2NfSFgtLUpmcEl0dWktemFDa3FVUm5GaWxtQktVUEhHX0kzVFhpY0hTd01iS0FFNnZyRkhkaDVGUThhYlEweGpVS2hmYWZzOEhNY0JkMkthUzRtZHd5a1pYRlY1NnV2ekt0dXU0RS13ZjJjVTlQbWFEU2ZGMXRGWUlsZU9NcTZ2Vll6dGFodEEydnlsWWVTSHhFbWlyWU9GU1UtckFiQXhvbXVBN0JiYmNCU2EzS3k3dmZtOFJuMHVwM1VPeXln?oc=5"
-      ]
-    },
-    {
-      "title": "India is asking AI what to buy: How Zocket approaches AI visibility for Indian brands",
-      "score": 17.91,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUNRWkdyT3ZXeDJUY3Z3N1poWTM5bVhuRWFaUHVDekszeUtCTHkzMkY4NklEZmRhaDhVdU54aWxIdWVPbmVfMUpCY3V6Tmh1RnV4bHpmX1ZPeFRZMldhZEtqLTZ0VFZubktHMVdrVXY4V3ZlVFcxc0taMVpLUnJ6dFRPSmJiU2s2LW1tT0taZFNhZW0wMnJubEd1dEl6STFFbl9LQkZJdjd6RFF3TEFieGphZ0U4M0lOWDFV?oc=5"
-      ]
-    },
-    {
-      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
-      "score": 31.97,
+      "title": "NVIDIA Halts AI Server Shipments to 4 Southeast Asian Countries: Report",
+      "score": 31.92,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWhMX1JWMTVpZkxwRDQ3eGYzbW5hMGxneXRrN2x1SzNNQmJKbUlTaGN3UXJ3cDlJMGxiemRKbXB6QzB4MzdCZXNkWnl4ZzZ5dllVb3FzWFdiSTB1S2QyREF5WU5UQm1hakZRTmtQeXpLLUpWRGpnTGM4MVNuREV4SHNmeGZnRXlmVDlqTmphS0EwRzl0N3pUVjR5bWJQbkV5WGtoVTlZVlJXYVdyNGZUMVo4WnZSZERpZGVGck1MbmotakFSWkhEWXQ2cWlzdw?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDFtRGxaSmJxdndYb1VMbTBjLWJGOExCdUdULWNlRXF6RG90SDQzQkdYb29GbmI3Q1J5UHp2Yk80N3R1Wkl4UXlfWFdFd0VmQ2FEYUZXdnFpbnR3SndRWkh6dVJYQlY1cHhQMWVkTEpJaV9lbHJteGc1ai0tS0ppYWxuWVI?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTFheGlEaWZKYUdfeFphN1RHSG9CNVRXZHFwMV9CWmxZMXAzR2sxWGotb2dUMWpPS1lhSGR2blJ2VWhvVDR5OXRFSjVVOEVxRXJFOXNPazJPMjFIZDJXYUk2TkwzMndTcl9iTk4ybl9vOEE0aXhsWWJBNjUyUWJfWFV5eTBRMHhidl9IRWFRV05jU0xVeUwzZnE0U0Y0UC1tdmx0QUNwbERwZ00y?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUXp6Nkc5U1IxTU5vbWdiNWtienBFNDZwbnhpZDVzOWl1MmxrWG5sanVvby1qSll1bDZzOHEzN0NqMktXdkVDMDE0eEhUSnVib01VcVZtaVRsZzNFbEpBWGt0TlFaR0lfS2YyUi1XWEVqSlpYNjNCRUxHaHVrVmNVME8tYlJUWlgzS0FHZnZPZEtyZDczR1NXVF9rQXAteHhFN1RsTVB0eDU1MnoyZ3FUZGphOG9kOGd3X0dGdl9vc1ZicXdCVjZN0gHOAUFVX3lxTFB6ZXlsblRGRkxURGZQbTd2a0dWRmc0MEhuYTFQZEpUTmpSeFlZWDhTTmhCSHdlOU4tblotY0puTGI2LUIxVlZNMmlHZmtoNTdhd3M3TEtpZldKVVJwb0RsajNNRHNhaExEMFdJQmc5R04xV2Fad3BrREp4YTRNa2d3eWViMVptTlhYNENMRjRYbzU5aXFrbmFUc1psX0xYLXJOb0FRcG1MOEVBb3c4d1dDV2kxdXlvVzBtNUxvQ0lMNWQwbzhmVVZzQWk5Q01n?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2IzeDRBUHdXNi1LQjBNUEl3S21Va0NyeGN6eFZQZmdHUU5STk5FRXZTSFVhd2tYbTBHNjRfUkNDS29yNDlXYXdYMXZGMVZOZzE1STd1dEdVdk1iM0szN3B4ai1QWkpHTDlnVGZzZzNlQ09acXRCRklnWTgwMGV2Q3MtbWtYbkg0SnV1bjNCMV9tbW5zMUVEUU1IOTBNRHdDZUpGWXZuaG1MLWlSV3p2UkZFQVhoeF94RDY3Yzh6MkdtamtCVGQzamRsQ1VkbTU3X1huQ3NJTQ?oc=5"
       ]
     },
     {
-      "title": "Asia-Pacific Banks Lose ₹118 Crore Each to Fraud as Visa Launches Cybersecurity Platform",
-      "score": 21.24,
+      "title": "From the Ground Up: Making India’s AI Transition Work for Women",
+      "score": 22.22,
       "kinds": [
-        "backlog",
+        "launch",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JREhXdDIyaEs2a0pPMEdIZ0UtcFNJX0FmWWZGc2NCbXpHUjg2akV5RkhoVmV5MkxRWVJJaE12YWdWQkVqamZjX3JWVTc2MjdTYXc5UWN3Ym05Wkh6MjZHRVZ3Nml3dVBQMFBJ?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UV2gxcEFEWHpVVjJ0bnFkNngtNXA4QU05dE41WWFkaV9fZjhIbHlEekxiaVBvN2FwVldfU1ZaYW5fN1E3a0doT1h2UkhRTmY2Rm96QmQ0dnFiT1RMeDVUMV9yOUY1WE0xMnNJNjdRZVdHV3hBQ3c?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JREhXdDIyaEs2a0pPMEdIZ0UtcFNJX0FmWWZGc2NCbXpHUjg2akV5RkhoVmV5MkxRWVJJaE12YWdWQkVqamZjX3JWVTc2MjdTYXc5UWN3Ym05Wkh6MjZHRVZ3Nml3dVBQMFBJ?oc=5"
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2d1RlR6c1pJQVZVTU1DeklESHBLa0Z1V011ampzQ1U2aHZ6aUhnMUw5RnlodXhvX2lTRWphU0thbVItNjJqZUI4OTlMUm8zdWhsZUdxWHlvX3NJN211QzBkZ3VtampmTGx2RS12SnBvUFJjUWtQN2RuMjFsN21uMlZRaVBEN0RkMlAzMHNHd01ScHBvVnl5dVl3?oc=5",
+        "https://www.producthunt.com/products/ground-2"
       ]
     },
     {
-      "title": "HMD Brings AI-Powered Experiences to the Sub-₹10,000 Segment with the Launch of HMD Rise on Flipkart",
-      "score": 17.95,
+      "title": "Vivo X500 Series Launch in India Today with 200MP Camera",
+      "score": 22.17,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVFBnSlc2M3FZeWdfRkFCdmhZREN0b0s5b283dFRNREtNRjZVT3RVdmpfLWpEbjRfdThMY3FNaDVCQUNiVFg2OGphVFZwTTl3VUZmVjA0aGZiR0paZXc?oc=5"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUNXTWxGZWVGb2Jmek9sTEd6THRoQmpxU2otR2hIV0E1T0JFMG1rekIyMHVtSjZ1RktGNlByRk5NTnBhTDg5ZnAybjcwMmtSNDh0R2ZqczlLSi16czFlTl90eHpDd1V4T25UekZOaGZEd3pHb09kb3ZYaEEtQ2U0LWVKSi1pM1Y5YkVpZENuaHRmVExaenNQMFhqSFh2aFRz?oc=5",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNVlzRlVmV0szSkhtYUhHR0dZbHlmZ29kU2RUUlFxeHFBVU84T3ZBSGg4cTVpTDR0OUE5VmNVLVNYSzBQNFhWekxOV3dwYVFOZU5MaVBMSUt0cUhWRDVOemFzS1BaQjBIQndxcmpHWjFnSF9SY1hJc1UwdFo3RFRLRFRSdFJNZ19rcng4TGlmQUhuZEVmV3BMNjR3ZllPT0RVdEVMam9MQTlhSC1wU3BYS1QtZmdhdlNLRmZ6WTFBclhzWTlDc1VqLVFoNF91QTFaejZlUjgtMlJ1NHE3WFNabjhRekZyeG1qU000TjFKb3NaZmkwWTF1WEwwZFFlcXPSAYQCQVVfeXFMTUNpQm5UQmhCbW9nTFNiUEx0aW1KQ1NvdXdZaUxfUDZja2RUMTdFaHRSeS1tM1g3d1gxSFJyUVVlZTFLSFBmSlpWeGdrMGZpc3NFR284RWtyeHdQMHlqTzBPOVctdWdaMHdZaDFKcER6RDFZMzBaaGdTMDNNQzBJMVZmdEk5X0gwdmpzbzVnbUNtT2JsOThIdlBVREtSQW5tbktYZ0JXdlVlQ2Y4OXJBWEZpX2lDT1REMkJENmJtY0NKeEhfZENSZ2NFQ1ZLVWZSWlJpRHNvdEJQdVNucGhTRXZOaFhZeXZJU3ByTFo0bVl2djFoLVh0Rmx6NUpTekZuemFuUEw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUzFCeUlGanlIdU0yOTI3MTBmR2xEMjU3UXBLZkoybDltMzRKUGxUVXE0SlZtd3k2NWZyUnJPQzJGVXpnSHBzMWhsM1NhQVV5QlpHcjBUeEVrSW5tR19XX3Qzb3BuMDAzWFNMblplNWpEdHlWTjFTTEE4MkpoSTlHTlBNYWs4MHN1NGFHQ0h5QnE3bEZwZkZ6M3QzcEFsVTVUZ25Sbk5FeTVMQUFYUlJORTQ2MURTX3p1MEM0MVh2WWx1a3QyeUowb25ydkNmRlRnN0pIc3BR?oc=5"
       ]
     },
     {
       "title": "vivo X500 Series Debuts in India: Price - Features - and more!",
-      "score": 19.38,
+      "score": 21.72,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWozWi1pY09IWDQ0RnluTzBqakN3U2UwQld1eFN6WE9VTS01S25lMGlWZUh6NjIyRGR1Z09YOGdOeWRYRGZmckJWYW16UjBXOHVQNVBxTjlFMUlLaVdoMXhicjNJemtUbEpjU0ZNRzJQSko0ekRFOVlmVlNwTjlkQlJNbDJMZHlCRno1Y2VZbUR5WHdoM0FQYkxpaXR6UXVzVnJxT01nMVJvcmNBX1NLTVZMajBoaE83eHdVeEp0cTMzanp4aGxldA?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3Y2RDR3SkVkVmV5cTEwMEhsV0VNUUFLOE5ueWxBQnc3VTVmbnU2RWM3ZTl2U3ZlQzVxc1g3a2t0SmdadEQwbXJ2dnpJNzM1UzdJcGp5Tm9tSjkzdG9fZC1WUkFOcXNHSlc1emtfT1pnNXI4S29iZ1F1S01CeFhfUTJoemZVbDZqd3kzNm1MTDdTZFJHRk1CNXR1aFdqTGpjMWc4R0hUVmdFelA1bzZuaUhJZk1Od2NSb09KR2ZNTGNBSG5H0gHEAUFVX3lxTFBXdjZENHdKRWRWZXlxMTAwSGxXRU1RQUs4Tm55bEFCdzdVNWZudTZFYzdlOXZTdmVDNXFzWDdra3RKZ1p0RDBtcnZ2ekk3MzVTN0lwanlOb21KOTN0b19kLVZSQU5xc0dKVzV6a19PWmc1cjhLb2JnUXVLTUJ4WF9RMmh6ZlVsNmp3eTM2bUxMN1NkUkdGTUI1dHVoV2pMamMxZzhHSFRWZ0V6UDVvNm5pSElmTU53Y1JvT0pHZk1MY0FIbkc?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmVBVmF1T2dsUzByWUZSWUpyQkdqN2V3ak5CLTR0b19Mbjd6cThqejdzOF93UFR3RE44dUQ4Z2tpQXRQRXFxNDBwMVZhX0NJODdCZU1qNnlkcjRFMng0VHhaMW9YLTUtTmFIYUFNWjlZRnhEX1E2cGN2cExtMTVnR1NYa0dhWFJyNkE?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHNkcG5WUTg5b213ZEY0eXlkVi1KUFpRN3FxNWh0b1E5dHM3cGZhaFpwaG5KX0lQcUtnSHNhb0lWWWQ3ZHpfTHVkTmpiNjlCbGNUSUVkVXZiUEgwVG9zQzQzeURxWDNWcXNzN3RqaVQwQmRIT21xRFFjUk44dGZsdVZUQkxzRll2bE5kQV9sa0pzblhDMUQwMWpRNmJodlpNZEg1Uks4Z1o3NzRF0gGsAUFVX3lxTE4wc2RwblZRODlvbXdkRjR5eWRWLUpQWlE3cXE1aHRvUTl0czdwZmFoWnBobkpfSVBxS2dIc2FvSVZZZDdkel9MdWROamI2OUJsY1RJRWRVdmJQSDBUb3NDNDN5RHFYM1Zxc3M3dGppVDBCZEhPbXFEUWNSTjh0Zmx1VlRCTHNGWXZsTmRBX2xrSnNuWEMxRDAxalE2Ymh2Wk1kSDVSSzhnWjc3NEU?oc=5"
+      ]
+    },
+    {
+      "title": "The staggering surge in physical video game sales following GTA 6 launch",
+      "score": 21.42,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLU5TYTB0TXVNMWR6ZVg0dmFxa2ExM3RGMVZxVTgzNy0wYUI3cHVYUFFYQVp6QXI1U3gySzNvZ2ZDZ2ZpNTNkZzlmdUx2QV9UQmpMTTB4Um1pXy1jNUlqQVI2VTJDQ2FqSTFOUHdKS2Jhb2ZLNVN4WEFFTjloeHotQ2VSWUxlbGM3OUs1M0JB?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHRYWmsxQWFEU2NOWmxjcWVhMW5ONjdjcGlZekJGYVlCR21haEh5U0xNZzI3NHVHNE93LVc3SXNOWDlvUU1FamkxSmZaM1VzRnlhTm5YOE55c05tcGNROFowZEZGN191dnExMzkwVV9xMmFmcUEyTnI5bHQ4VE1kbGNkZ3JMemphNENoRlphU3o4b0lUNzdV?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHRYWmsxQWFEU2NOWmxjcWVhMW5ONjdjcGlZekJGYVlCR21haEh5U0xNZzI3NHVHNE93LVc3SXNOWDlvUU1FamkxSmZaM1VzRnlhTm5YOE55c05tcGNROFowZEZGN191dnExMzkwVV9xMmFmcUEyTnI5bHQ4VE1kbGNkZ3JMemphNENoRlphU3o4b0lUNzdV?oc=5"
+      ]
+    },
+    {
+      "title": "Staff at Grand Theft Auto VI developer vote against union recognition",
+      "score": 21.11,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TRUsxZElMTHR1bTZFdHpRWFBVRGtSUm9Jd1VxcjNMZkVNaElkY0FvTXlDUGd1ZGM4MXlOUWZadF8tOXA5ZUEydWxpTHBHRmNZTmFaSWJ6VFg1ZzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThsUE1FbE1jelJkOU52MXBmN0VKVWp0Qm0zMENINFBrc2lRa2VDMG9Gd1pCS0NxYi1QN2swRkRWQUdFeG13WHFkZXBNUVdfRGlmNW5UazE3WXBMNlhuR2J4UDdMVkgtNnlzc2RBX25KY2dqWm16YkNKeW9XWnp2eURjUEl5QzE1ZWx4ZWtlUWJDR1F4WVItTzFVYkhnY2dZMmtEVlhtX1I1Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThsUE1FbE1jelJkOU52MXBmN0VKVWp0Qm0zMENINFBrc2lRa2VDMG9Gd1pCS0NxYi1QN2swRkRWQUdFeG13WHFkZXBNUVdfRGlmNW5UazE3WXBMNlhuR2J4UDdMVkgtNnlzc2RBX25KY2dqWm16YkNKeW9XWnp2eURjUEl5QzE1ZWx4ZWtlUWJDR1F4WVItTzFVYkhnY2dZMmtEVlhtX1I1Zw?oc=5"
+      ]
+    },
+    {
+      "title": "SBI customers to face temporary disruption in UPI, ATM, internet banking services on Nov 27",
+      "score": 19.04,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQay1KbTdsQnFVVmdRZVlVUUxRdWFIMkJXZU9TZi1ILUsxbl9uLVBka2otZTk2SHE3UXh0aHhvRGE2XzZGV1J4LVd5Yjg5WjJCRUQ0VFotbUlpY21vbDZkVHJJdFZtdDlvSXRUME5ZemdmMG44Zlk4SU5hMkNUWkFJZ1BfbHFxUXZ6RlJpcVJTTVZtaFlNOE5odVVNQXBNdmEzQVZpV3BpRVA4aVJSZ0gzeW9GMkdZX0c0MG9uT2lvbHJJWV81U2syZnVudTZsR1JUX1lxd3BMRnR5TlJfR3lR0gHkAUFVX3lxTE1VckJ1Tm9McC1MNTZJbDRXMnNEajJmallnQnNBRjMxMm5ZUmxOT3JSbUxXWUtVOF83ZjZxLUtLY0hheXV4Z0hXaG5LUkRleVdBMXZDY0N5NEJadVAtSV9ZeHpDbTdjb2s3ZnpiSXFIQm55YXlQMGxWc2xRbkhwVk1ZdVp0MmRJcl9xNV9nYmlBeGVIUlcwU055UmR4SUxRZTBVOEVPUUw2SUVpV3ZIQnkyZlBwN0huenBsSVViRE1VSEZMM3gwTUtQdlBPQjdhQUx0aVVkSmYzMWFVTlhrei1qR0xRcg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUNhREhQRDZSM1RDRklka3FENlU1SnF5eC1SY2tjdDJFYjVZV3VpQnY0RzBuLUliZnY4aE5DSEcxMDR0WHhOekU4MkJ3LTQyeDZubUNXZHFjZXZnVE5yWE9JdW42ejhZSEVkNXg1RzJ1TlZKQ1BjbktrTnF2ZEF2TjF6WUo4NE9KcEJsb3JoTDFzclhEc0FzRi02R0FQVVFD?oc=5"
+      ]
+    },
+    {
+      "title": "Free Play Days – Warhammer 40,000: Mechanicus and Little Rocket Lab",
+      "score": 18.9,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0d08zVjNBSl9EeDJLM01WcWlYdTE1RnI0ZVNXSllxcXdQeVJjMzZSQ2VCMUJMSTh6X2c0YXJSVFg4amhnaklTWjlyMWIwOW5RaDF5Mkl5Q0J0NHlWdEtEYVdhakp1ZEFESHpyTDZvTElQdGvSAXhBVV95cUxQaThzYUZDVEhGQ3hCWkVUZFJRQ2t2X2czWmF2TUgwbTZjNkl0aTFIUjhDQ0JTbEJZS2ktdjkwQ3RETlgtMVEtSzlSOHRjeEkwQ19rdzJOMGFUQWJXTHBSQnlTN2hDVlREbjlVQ2NETnJ3R2hGcWtVajg?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0d08zVjNBSl9EeDJLM01WcWlYdTE1RnI0ZVNXSllxcXdQeVJjMzZSQ2VCMUJMSTh6X2c0YXJSVFg4amhnaklTWjlyMWIwOW5RaDF5Mkl5Q0J0NHlWdEtEYVdhakp1ZEFESHpyTDZvTElQdGvSAXhBVV95cUxQaThzYUZDVEhGQ3hCWkVUZFJRQ2t2X2czWmF2TUgwbTZjNkl0aTFIUjhDQ0JTbEJZS2ktdjkwQ3RETlgtMVEtSzlSOHRjeEkwQ19rdzJOMGFUQWJXTHBSQnlTN2hDVlREbjlVQ2NETnJ3R2hGcWtVajg?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0d08zVjNBSl9EeDJLM01WcWlYdTE1RnI0ZVNXSllxcXdQeVJjMzZSQ2VCMUJMSTh6X2c0YXJSVFg4amhnaklTWjlyMWIwOW5RaDF5Mkl5Q0J0NHlWdEtEYVdhakp1ZEFESHpyTDZvTElQdGvSAXhBVV95cUxQaThzYUZDVEhGQ3hCWkVUZFJRQ2t2X2czWmF2TUgwbTZjNkl0aTFIUjhDQ0JTbEJZS2ktdjkwQ3RETlgtMVEtSzlSOHRjeEkwQ19rdzJOMGFUQWJXTHBSQnlTN2hDVlREbjlVQ2NETnJ3R2hGcWtVajg?oc=5"
+      ]
+    },
+    {
+      "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
+      "score": 18.72,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmI3aEVQVHhhTUk2WW1RNXF1OVF2RVNhazFmUWllM3FqTXVqZDYybU9CQ2llMDByeTBmYUstNTQ4cDBmMi1oal9hRGgzUC1iZFpsaWpxYmJxRnVSbkw1aFNJNWw2MUxYTHZJVHM0cm5JZlVjX2piMzhiUkpGNFZ5WS1RV1pqZllxSS1XeFFpVHg3RFlhU3h5QWh1TkdOMjRIQXVTVmJ3SnFPaXhobmphQTQ1Z2tScDQzZXhjeNIBvAFBVV95cUxPbmI3aEVQVHhhTUk2WW1RNXF1OVF2RVNhazFmUWllM3FqTXVqZDYybU9CQ2llMDByeTBmYUstNTQ4cDBmMi1oal9hRGgzUC1iZFpsaWpxYmJxRnVSbkw1aFNJNWw2MUxYTHZJVHM0cm5JZlVjX2piMzhiUkpGNFZ5WS1RV1pqZllxSS1XeFFpVHg3RFlhU3h5QWh1TkdOMjRIQXVTVmJ3SnFPaXhobmphQTQ1Z2tScDQzZXhjeA?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjAydW5jeTN0emxYZzdLckZ3ZThDcnhhUlRXQkh0SmFDREJ4bURScl9zT0xoRHlkR0tObDV3ckJzTGF0YllfWnhRRWRQZlhzR1Nib1FwZ0F4TVJUVDNvTUZUZ2xBMHFUcW84MzRna0VRYV9SN0FZMmNmQldNUU9qa2RPN1ozRE1CTlZfS21BZ2VtdDRtWGM5SjRfbmUycXoyX3pmM0VtRUNDRjJrZlMyWnJnVQ?oc=5"
       ]
     },
     {
       "title": "vivo Watch GT 2 Price in India, Specs, 25-Day Battery",
-      "score": 19.16,
+      "score": 18.68,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU5adVhSdklGYThBeVV4Q2lraXdRQzNNanBQcDFKWmF1b0k3OU5qVE5VSlNWazhiX1JsNkdzbS1leVpvTDRQT0pOeUNmQWxudEtPU25jQlA0dGJZZVJNM0poODNEczZOUjVoU3Jrc19mTEFqQm9mdkJMS3F6NmVudE9YQzhkV3AyNzc0TERTT1Y0VkFPLTByQ080clpxeG9yWXJ2NlRXbmxTdw?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeThYMURPbDV6YjAxeXVNT0lQZkhmUXpCa0txREYtQXo0MnJpdWxveWtWYXQ0dTlFSmhQVkFBQXNrTzZIQk9MbnZpd3VocmdGT2w1SjRhdWxXenAwNDZSemlPcmxzRHR2RUQtR1dWUWpKbDZ6d1VmdXMzWHgtX2V0LTk3R1hZQTBYZUxoWng4TFhRZXlEWVZ2Qm5iR1pRM2w0UHpXM0tUMHFVYjlvRFF2aWhiRU5od293LWtuTmZXX2pyQ01LR0VILWtOeTFoSk0?oc=5"
-      ]
-    },
-    {
-      "title": "Navi Crosses 5% UPI Market Share As Transaction Volume Rises 11% In October",
-      "score": 18.07,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1p5Q1BydWZPS2dfX3ZvYlV6SXV6dTJscTEtSUNfWndaOTh3TlBkT2pfMlR4RjltRFVaVXRWRjAwWlBxZ2Z1b1M3cHFKeF9ZTng5TDc3SjB2V0pBUXRQNHZCLXhWV1ZFMURrTVdNSzk2UXBOaDFnV0s2ZzFsbnliQzN3U2xvaEtIdnNMV2NMbk0wYzJOdE1nWHpFS1lDZE9uRlh5d0x0Y2RvZFN3NUNGZkhOT0k?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd21JaEFxZ1lkWERiVU0wYlFpRzE2N2x0VFZRcDhGY0pVemRXaDJTaF96NklNMldIY0hwbno1N2J5d0tsa0x2X2U1VzdIbk5mNTFnOERkdlJUZEZJVmxWMlc3Z0NHNWZXUXFITWd6SVRlclkyc3kyU2NkYUdTOVNpMEVidjUtNkZCbkZJV29LZjFWWERtNXdoYQ?oc=5"
-      ]
-    },
-    {
-      "title": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell",
-      "score": 19.38,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5"
-      ]
-    },
-    {
-      "title": "Upcoming Startup IPOs in India 2026: Dates & Status",
-      "score": 17.92,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEM0RmekdoaDFpMUh2dzR6YkFYdXcwQnV1VXJWbmpvYkRWMXBzRmFwX0JrRDI4UmlwNTFyUHNZU2VoSGdqcVdRRG95c3JTQmRFdHZuOU56cHVfNDdvYXotTFdGc3ZwSTBFM294TkUxMTM?oc=5"
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Um9WVUw0Y3dpT1U0VnRfOXBrLS1fQmd4UGdJVlItMkdpcFNOOHVzZFVrY29WZXZNWTZZVENGMVYtYmZLcXZERW83ZmpMeDRzN1gxSkV6ZGt3U0U3alFCUXJ4SUUxUlFUUUplNmRWWUh5OTloSzdGemNvdw?oc=5"
       ]
     }
   ]
