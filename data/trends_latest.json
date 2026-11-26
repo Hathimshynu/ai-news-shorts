@@ -1,35 +1,36 @@
 {
-  "job_id": "2026-11-27-morning-0153",
-  "chosen": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-  "reason": "Nemotron 3.5 Parse offers open‑data fine‑tuning and faster inference, giving Indian developers a powerful, ready‑to‑use model they can start using today.",
+  "job_id": "2026-11-27-morning-0322",
+  "chosen": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services",
+  "reason": "India and Sri Lanka’s new AI partnership will boost services like UPI, showing how AI is reshaping everyday finance in the region.",
   "candidates": [
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "score": 19.17,
+      "title": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services",
+      "score": 18.52,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUJFdnhLUUttN1ZOSS04bEdEa1FXakdaU1czbUNROFlrMHdiSHVjOWRUUDVWX2U0Y2RDMVBycW9iOHJiNFZPd2hELVY5LW4xb21qM2s1OXgwNzRsMUtyUVI4eDcwOUlyYmZ3VFc4aFVRN0lBcm1XMmJRUTFuU2dPNXgxRjBCdS1lU1NjLVRkdE1jMXZHWXZYUGJqX0xPQ0JKY2hZTHRBQ1k?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGt6bkktU05rdXlEdG9MSnFVQjNCbV9aM1JVYkt2bHdFS3N5Uy1Dai16aGlvN25Pa1p3cVJhOHNGSEZoNWEya2tmZVhIWDVPM2h0b1hWeDBMc2hGVEM1Zlktc293RmlvdWd1cF9sN1JJMnY4VVpxRWhMSll6US13d2hhQTdYS191TUJ2a3FHQ01mTkxTbDhBbkVEVEZEX0tmTlZ1Z1lubmRvTnV5V3Nj?oc=5"
+      ]
+    },
+    {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "score": 21.03,
       "kinds": [
         "backlog",
         "official"
       ],
       "primary": true,
       "links": [
-        "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
-      ]
-    },
-    {
-      "title": "Come for the Games, Stay for the Community With GeForce NOW",
-      "score": 19.4,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
+        "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
         "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/"
       ]
     },
     {
       "title": "NVIDIA Halts AI Server Shipments to 4 Southeast Asian Countries: Report",
-      "score": 31.92,
+      "score": 27.55,
       "kinds": [
         "backlog",
         "news"
@@ -43,21 +44,36 @@
     },
     {
       "title": "From the Ground Up: Making India’s AI Transition Work for Women",
-      "score": 22.22,
+      "score": 23.85,
       "kinds": [
+        "backlog",
         "launch",
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2d1RlR6c1pJQVZVTU1DeklESHBLa0Z1V011ampzQ1U2aHZ6aUhnMUw5RnlodXhvX2lTRWphU0thbVItNjJqZUI4OTlMUm8zdWhsZUdxWHlvX3NJN211QzBkZ3VtampmTGx2RS12SnBvUFJjUWtQN2RuMjFsN21uMlZRaVBEN0RkMlAzMHNHd01ScHBvVnl5dVl3?oc=5",
-        "https://www.producthunt.com/products/ground-2"
+        "https://www.producthunt.com/products/ground-2",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2d1RlR6c1pJQVZVTU1DeklESHBLa0Z1V011ampzQ1U2aHZ6aUhnMUw5RnlodXhvX2lTRWphU0thbVItNjJqZUI4OTlMUm8zdWhsZUdxWHlvX3NJN211QzBkZ3VtampmTGx2RS12SnBvUFJjUWtQN2RuMjFsN21uMlZRaVBEN0RkMlAzMHNHd01ScHBvVnl5dVl3?oc=5"
+      ]
+    },
+    {
+      "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
+      "score": 18.35,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmI3aEVQVHhhTUk2WW1RNXF1OVF2RVNhazFmUWllM3FqTXVqZDYybU9CQ2llMDByeTBmYUstNTQ4cDBmMi1oal9hRGgzUC1iZFpsaWpxYmJxRnVSbkw1aFNJNWw2MUxYTHZJVHM0cm5JZlVjX2piMzhiUkpGNFZ5WS1RV1pqZllxSS1XeFFpVHg3RFlhU3h5QWh1TkdOMjRIQXVTVmJ3SnFPaXhobmphQTQ1Z2tScDQzZXhjeNIBvAFBVV95cUxPbmI3aEVQVHhhTUk2WW1RNXF1OVF2RVNhazFmUWllM3FqTXVqZDYybU9CQ2llMDByeTBmYUstNTQ4cDBmMi1oal9hRGgzUC1iZFpsaWpxYmJxRnVSbkw1aFNJNWw2MUxYTHZJVHM0cm5JZlVjX2piMzhiUkpGNFZ5WS1RV1pqZllxSS1XeFFpVHg3RFlhU3h5QWh1TkdOMjRIQXVTVmJ3SnFPaXhobmphQTQ1Z2tScDQzZXhjeA?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjAydW5jeTN0emxYZzdLckZ3ZThDcnhhUlRXQkh0SmFDREJ4bURScl9zT0xoRHlkR0tObDV3ckJzTGF0YllfWnhRRWRQZlhzR1Nib1FwZ0F4TVJUVDNvTUZUZ2xBMHFUcW84MzRna0VRYV9SN0FZMmNmQldNUU9qa2RPN1ozRE1CTlZfS21BZ2VtdDRtWGM5SjRfbmUycXoyX3pmM0VtRUNDRjJrZlMyWnJnVQ?oc=5"
       ]
     },
     {
       "title": "Vivo X500 Series Launch in India Today with 200MP Camera",
-      "score": 22.17,
+      "score": 23.8,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -69,7 +85,7 @@
     },
     {
       "title": "vivo X500 Series Debuts in India: Price - Features - and more!",
-      "score": 21.72,
+      "score": 21.35,
       "kinds": [
         "backlog",
         "news"
@@ -83,8 +99,9 @@
     },
     {
       "title": "The staggering surge in physical video game sales following GTA 6 launch",
-      "score": 21.42,
+      "score": 23.05,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -95,33 +112,8 @@
       ]
     },
     {
-      "title": "Staff at Grand Theft Auto VI developer vote against union recognition",
-      "score": 21.11,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TRUsxZElMTHR1bTZFdHpRWFBVRGtSUm9Jd1VxcjNMZkVNaElkY0FvTXlDUGd1ZGM4MXlOUWZadF8tOXA5ZUEydWxpTHBHRmNZTmFaSWJ6VFg1ZzQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThsUE1FbE1jelJkOU52MXBmN0VKVWp0Qm0zMENINFBrc2lRa2VDMG9Gd1pCS0NxYi1QN2swRkRWQUdFeG13WHFkZXBNUVdfRGlmNW5UazE3WXBMNlhuR2J4UDdMVkgtNnlzc2RBX25KY2dqWm16YkNKeW9XWnp2eURjUEl5QzE1ZWx4ZWtlUWJDR1F4WVItTzFVYkhnY2dZMmtEVlhtX1I1Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThsUE1FbE1jelJkOU52MXBmN0VKVWp0Qm0zMENINFBrc2lRa2VDMG9Gd1pCS0NxYi1QN2swRkRWQUdFeG13WHFkZXBNUVdfRGlmNW5UazE3WXBMNlhuR2J4UDdMVkgtNnlzc2RBX25KY2dqWm16YkNKeW9XWnp2eURjUEl5QzE1ZWx4ZWtlUWJDR1F4WVItTzFVYkhnY2dZMmtEVlhtX1I1Zw?oc=5"
-      ]
-    },
-    {
-      "title": "SBI customers to face temporary disruption in UPI, ATM, internet banking services on Nov 27",
-      "score": 19.04,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQay1KbTdsQnFVVmdRZVlVUUxRdWFIMkJXZU9TZi1ILUsxbl9uLVBka2otZTk2SHE3UXh0aHhvRGE2XzZGV1J4LVd5Yjg5WjJCRUQ0VFotbUlpY21vbDZkVHJJdFZtdDlvSXRUME5ZemdmMG44Zlk4SU5hMkNUWkFJZ1BfbHFxUXZ6RlJpcVJTTVZtaFlNOE5odVVNQXBNdmEzQVZpV3BpRVA4aVJSZ0gzeW9GMkdZX0c0MG9uT2lvbHJJWV81U2syZnVudTZsR1JUX1lxd3BMRnR5TlJfR3lR0gHkAUFVX3lxTE1VckJ1Tm9McC1MNTZJbDRXMnNEajJmallnQnNBRjMxMm5ZUmxOT3JSbUxXWUtVOF83ZjZxLUtLY0hheXV4Z0hXaG5LUkRleVdBMXZDY0N5NEJadVAtSV9ZeHpDbTdjb2s3ZnpiSXFIQm55YXlQMGxWc2xRbkhwVk1ZdVp0MmRJcl9xNV9nYmlBeGVIUlcwU055UmR4SUxRZTBVOEVPUUw2SUVpV3ZIQnkyZlBwN0huenBsSVViRE1VSEZMM3gwTUtQdlBPQjdhQUx0aVVkSmYzMWFVTlhrei1qR0xRcg?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUNhREhQRDZSM1RDRklka3FENlU1SnF5eC1SY2tjdDJFYjVZV3VpQnY0RzBuLUliZnY4aE5DSEcxMDR0WHhOekU4MkJ3LTQyeDZubUNXZHFjZXZnVE5yWE9JdW42ejhZSEVkNXg1RzJ1TlZKQ1BjbktrTnF2ZEF2TjF6WUo4NE9KcEJsb3JoTDFzclhEc0FzRi02R0FQVVFD?oc=5"
-      ]
-    },
-    {
       "title": "Free Play Days – Warhammer 40,000: Mechanicus and Little Rocket Lab",
-      "score": 18.9,
+      "score": 18.53,
       "kinds": [
         "news"
       ],
@@ -133,27 +125,41 @@
       ]
     },
     {
-      "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
-      "score": 18.72,
+      "title": "SBI customers to face temporary disruption in UPI, ATM, internet banking services on Nov 27",
+      "score": 18.67,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmI3aEVQVHhhTUk2WW1RNXF1OVF2RVNhazFmUWllM3FqTXVqZDYybU9CQ2llMDByeTBmYUstNTQ4cDBmMi1oal9hRGgzUC1iZFpsaWpxYmJxRnVSbkw1aFNJNWw2MUxYTHZJVHM0cm5JZlVjX2piMzhiUkpGNFZ5WS1RV1pqZllxSS1XeFFpVHg3RFlhU3h5QWh1TkdOMjRIQXVTVmJ3SnFPaXhobmphQTQ1Z2tScDQzZXhjeNIBvAFBVV95cUxPbmI3aEVQVHhhTUk2WW1RNXF1OVF2RVNhazFmUWllM3FqTXVqZDYybU9CQ2llMDByeTBmYUstNTQ4cDBmMi1oal9hRGgzUC1iZFpsaWpxYmJxRnVSbkw1aFNJNWw2MUxYTHZJVHM0cm5JZlVjX2piMzhiUkpGNFZ5WS1RV1pqZllxSS1XeFFpVHg3RFlhU3h5QWh1TkdOMjRIQXVTVmJ3SnFPaXhobmphQTQ1Z2tScDQzZXhjeA?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjAydW5jeTN0emxYZzdLckZ3ZThDcnhhUlRXQkh0SmFDREJ4bURScl9zT0xoRHlkR0tObDV3ckJzTGF0YllfWnhRRWRQZlhzR1Nib1FwZ0F4TVJUVDNvTUZUZ2xBMHFUcW84MzRna0VRYV9SN0FZMmNmQldNUU9qa2RPN1ozRE1CTlZfS21BZ2VtdDRtWGM5SjRfbmUycXoyX3pmM0VtRUNDRjJrZlMyWnJnVQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQay1KbTdsQnFVVmdRZVlVUUxRdWFIMkJXZU9TZi1ILUsxbl9uLVBka2otZTk2SHE3UXh0aHhvRGE2XzZGV1J4LVd5Yjg5WjJCRUQ0VFotbUlpY21vbDZkVHJJdFZtdDlvSXRUME5ZemdmMG44Zlk4SU5hMkNUWkFJZ1BfbHFxUXZ6RlJpcVJTTVZtaFlNOE5odVVNQXBNdmEzQVZpV3BpRVA4aVJSZ0gzeW9GMkdZX0c0MG9uT2lvbHJJWV81U2syZnVudTZsR1JUX1lxd3BMRnR5TlJfR3lR0gHkAUFVX3lxTE1VckJ1Tm9McC1MNTZJbDRXMnNEajJmallnQnNBRjMxMm5ZUmxOT3JSbUxXWUtVOF83ZjZxLUtLY0hheXV4Z0hXaG5LUkRleVdBMXZDY0N5NEJadVAtSV9ZeHpDbTdjb2s3ZnpiSXFIQm55YXlQMGxWc2xRbkhwVk1ZdVp0MmRJcl9xNV9nYmlBeGVIUlcwU055UmR4SUxRZTBVOEVPUUw2SUVpV3ZIQnkyZlBwN0huenBsSVViRE1VSEZMM3gwTUtQdlBPQjdhQUx0aVVkSmYzMWFVTlhrei1qR0xRcg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUNhREhQRDZSM1RDRklka3FENlU1SnF5eC1SY2tjdDJFYjVZV3VpQnY0RzBuLUliZnY4aE5DSEcxMDR0WHhOekU4MkJ3LTQyeDZubUNXZHFjZXZnVE5yWE9JdW42ejhZSEVkNXg1RzJ1TlZKQ1BjbktrTnF2ZEF2TjF6WUo4NE9KcEJsb3JoTDFzclhEc0FzRi02R0FQVVFD?oc=5"
       ]
     },
     {
-      "title": "vivo Watch GT 2 Price in India, Specs, 25-Day Battery",
-      "score": 18.68,
+      "title": "17 best Black Friday TV deals 2026: OLED TVs start at $799",
+      "score": 19.49,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU5adVhSdklGYThBeVV4Q2lraXdRQzNNanBQcDFKWmF1b0k3OU5qVE5VSlNWazhiX1JsNkdzbS1leVpvTDRQT0pOeUNmQWxudEtPU25jQlA0dGJZZVJNM0poODNEczZOUjVoU3Jrc19mTEFqQm9mdkJMS3F6NmVudE9YQzhkV3AyNzc0TERTT1Y0VkFPLTByQ080clpxeG9yWXJ2NlRXbmxTdw?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Um9WVUw0Y3dpT1U0VnRfOXBrLS1fQmd4UGdJVlItMkdpcFNOOHVzZFVrY29WZXZNWTZZVENGMVYtYmZLcXZERW83ZmpMeDRzN1gxSkV6ZGt3U0U3alFCUXJ4SUUxUlFUUUplNmRWWUh5OTloSzdGemNvdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yejA5elU0b0t1dE1fSTlDT2xESlh6RHBlaG5rckNYNkpnbGUwQ0FhVEE2OWdvOFpUMXNIa1hNNGk0cWdxTEM4aGx2eXBEb2VpeHROcE1IemRmdnVCQ0oyVWx1dU5vV2Rt?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yejA5elU0b0t1dE1fSTlDT2xESlh6RHBlaG5rckNYNkpnbGUwQ0FhVEE2OWdvOFpUMXNIa1hNNGk0cWdxTEM4aGx2eXBEb2VpeHROcE1IemRmdnVCQ0oyVWx1dU5vV2Rt?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yejA5elU0b0t1dE1fSTlDT2xESlh6RHBlaG5rckNYNkpnbGUwQ0FhVEE2OWdvOFpUMXNIa1hNNGk0cWdxTEM4aGx2eXBEb2VpeHROcE1IemRmdnVCQ0oyVWx1dU5vV2Rt?oc=5"
+      ]
+    },
+    {
+      "title": "Rockstar Games employees vote against union recognition",
+      "score": 20.72,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNlRXM3NaNXpPOEFBdW56cVBtT2h1SkM3ejJfTGY4STZQNHR1Y0Y4cUFUNnhHYzM0RW5UZG40TWtyRlF1Rnk5VHRQSkdGMjFkX1pBamhTMUJJSUR2VF9EeVJwcnN4Und5ZGJfT1Y1alJKWTIwNWFxMjdQN0VIY2pIVHBGUUo4OVg4cEZR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThsUE1FbE1jelJkOU52MXBmN0VKVWp0Qm0zMENINFBrc2lRa2VDMG9Gd1pCS0NxYi1QN2swRkRWQUdFeG13WHFkZXBNUVdfRGlmNW5UazE3WXBMNlhuR2J4UDdMVkgtNnlzc2RBX25KY2dqWm16YkNKeW9XWnp2eURjUEl5QzE1ZWx4ZWtlUWJDR1F4WVItTzFVYkhnY2dZMmtEVlhtX1I1Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNThsUE1FbE1jelJkOU52MXBmN0VKVWp0Qm0zMENINFBrc2lRa2VDMG9Gd1pCS0NxYi1QN2swRkRWQUdFeG13WHFkZXBNUVdfRGlmNW5UazE3WXBMNlhuR2J4UDdMVkgtNnlzc2RBX25KY2dqWm16YkNKeW9XWnp2eURjUEl5QzE1ZWx4ZWtlUWJDR1F4WVItTzFVYkhnY2dZMmtEVlhtX1I1Zw?oc=5"
       ]
     }
   ]
