@@ -1,166 +1,160 @@
 {
-  "job_id": "2026-11-26-morning-0328",
-  "chosen": "Where scientists draw the line on AI agents",
-  "reason": "It examines where scientists draw the line on AI agents, sparking debate on safety and regulation that matters to anyone using AI tools.",
+  "job_id": "2026-11-26-evening-1702",
+  "chosen": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities",
+  "reason": "India’s Chariot-1 foundation models give viewers a home‑grown AI breakthrough they can explore and leverage right now.",
   "candidates": [
     {
-      "title": "Where scientists draw the line on AI agents",
-      "score": 22.23,
-      "kinds": [
-        "backlog",
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-        "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
-      ]
-    },
-    {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "score": 19.57,
-      "kinds": [
-        "backlog",
-        "community"
-      ],
-      "primary": true,
-      "links": [
-        "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-        "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
-      ]
-    },
-    {
-      "title": "Google India explores love and AI in Toaster campaign",
-      "score": 18.74,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ19iNEgxa29lb0NGdERWcDVJMXE3UXduWS1DcjdHeXQ3Y3FqdHVuLTllZXVGbmpwNTUyTFlobjlQSnpzRzVaYlM3cS1aSFBnX0FQRjFzb1VPelh2dGF0OEhCdlp2NlFxSTVHV3lqcGpqckpYdWJGbWlUX3hQWHRBem5iS1N0Mll5VWdDNk4wTnBlYm9yel9rUnVldw?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnA4djZMclFETjQzd1FxREN5dGdDUFJIWVlubmlmc0JhUkR0WjdWMDViWjRDU1F5Y2MzNWtDWWdnTUlRYWQzQW1PemxZcVN6a0JCLXlVZEwwY2lraVN6STFsMVNUUndjOGZuTGZ2cF9vaWhuaGxEUkxQTm5RX2tadDkxRzdoTm9BdXFwc2J6blcyWGI4UjJDRE0zX3RPVENJSFNB?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ19iNEgxa29lb0NGdERWcDVJMXE3UXduWS1DcjdHeXQ3Y3FqdHVuLTllZXVGbmpwNTUyTFlobjlQSnpzRzVaYlM3cS1aSFBnX0FQRjFzb1VPelh2dGF0OEhCdlp2NlFxSTVHV3lqcGpqckpYdWJGbWlUX3hQWHRBem5iS1N0Mll5VWdDNk4wTnBlYm9yel9rUnVldw?oc=5"
-      ]
-    },
-    {
-      "title": "OpenAI and SpaceX Backer VU Venture Partners Enters Indian Startup Market",
-      "score": 19.28,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2RzcmR4OU54Zlh3OWhBclVCUTJQSDE5UVBmUHJaenVmcFVqRVlrM1NGOGxEOTZLX3htUDFfdFY0R3haeU4xSUo4ZU54dmhFSHA5RXltT3NYcmZqYkcycmo5d0N6WGpxNmJfZUNMMDVXdzFlVFNYdmcyRXdhQmFFMzYycV9pUnFTVTRhYmNFNmtVWDVFai03TA?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1dWRFpuNktiR0ppUmJmcG03cjRDRFE0bGtJSGpYbFJ4SlFNQ2wyTHNKWlpsQkJXWHprQzdmTkdvOFhkUEs3cW1TZkwzWVpveGU2VjB0QkZNbGZNcjBueTdhQ3VPMjVyUFRvNWVSRENUMjF5YV9NcTNEaG05VTZ2VnFuNkFKdFoxNE5HeGRFTk9zeFpsSV9DRzQ3TkpabV9pUlFzODh3?oc=5"
-      ]
-    },
-    {
-      "title": "AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon",
-      "score": 20.13,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnF0eFg1LWVQNklSdnNKUkh0Sjc4NWE5eGpwcHktU2V0Nm5qblVYMW1RUWU5VTV5clcyZk8tRGJxeXEwMnd6VUJfdmMwQmxMZHZPY05PcGlDMDlvLWY5SDIyRVJKNjJJSlRBRlowSEFGbTBpTnE2ekxlVWZYRUZXOHVKNHRjVHhjeGVBVThRYnZhVGZZc0h1elBXNlVOSzBUVGp3d2JHTktnUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFUUMxbjhpYkwzdWxpd3Y2WDZzWG0wa1JzQmpkWmFOVlVvckZSRkZIdzBmdEhid2JYMkk3ZmZBQUZ1MDhLcTlkcUlHYTRzUlZKNG1kdGFtQlVOUUJyMVo5bG5wb2NQQQ?oc=5"
-      ]
-    },
-    {
-      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-      "score": 17.76,
+      "title": "India AI Mission-supported Chariot-1 Foundation Models Launched, Strengthening India's Indigenous AI Capabilities",
+      "score": 25.94,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE1tYlZLa09fT2lTMy1RX1d6S2cwTWFCLVdTczhIb3pwZXlkNk5RYlJ2QkNTRnJBSDZqdkk4Y3dqNDAtNjBHR1N0bFN5UEFqbHc1X1hzLTFVd0VuZ1Q3bnJuZ0E1NGFISlFlbzZNcXZ5Q1NKU0IzOERxRDZqZXdHbllvNjFDZ0pkYjY2QXRNdDdmWklubU16bll5ck40aUxlcDlGREJPNUhZdnc?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeExNZGYwMjViSWhVakdxNGtKS0J0Y0NTMjJxMzdRTEdxYmNJUmREY0pqaXFGbWIycG5FSmZQS0JDdFdnZVFOZjhZZjlKV29iY3hhSk5iX2RaNHk4UXlSU29XMEJKbEN3bXFIelhPTi1vLVVaaDR6ODdqbzhUcktRR0lIMA?oc=5",
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeXp6SC1UZUFtTEhfSXoxVGRvTkVWTkpldEFheHFNVlNia1lfUUpReEZ0NG1EeVNfUjFmb3RDR2xmSnU5Nm80YWxlbWwyV1RERmoxRmlmcVpTQ3g3NHNVeDBtLWJPRDh4cnJYZW83LVlibTlBVTVYb1JzRkZHaTNDSHhkSUhqQmc3X0ZYQmFfSy1YQ0gtWTB4VUZ6clpBdzRNNG5MRGphS1RrT1NTZkZjUDF4Y3owaFk1MkkxMjFpTzdlSmpKQTZsUzQxUkYtd0VHeFotTTE1WExNdzg5cWZlMUZrX2lfT1NLM0FzX2YyWmZ2UWhFcVZvVk5SMkJHYUVzNGdz0gGIAkFVX3lxTE5zQzNlTlFBMGljRHFWZW9zT0MwNmROeVRPMVFIWEZVSXJpbXRpZXpWbDRJMGplNGxmWjlkNENKank1a3Y4X1JWNVhQS2FoWWdqelNuZDEyZTcxUUREYWxDTG9vUS1BTEdwUFBfakFwdE1qd3Bnb3lmYjQwUkxtcXFrZ2hSeldtTnpHNFc5NlFhdWplTVlDLV9fQ0RYMTAzYU96NXRkdHhTLUVkWnl2Qm8xcngxS0FjT1lMRUQ5ZGFiMTJ3SXdFb01fQzhRZEhRLTNhY2FSQkFieXc4UmoydlFMTVRKbUstNWl1UFh4eXFLN1pFYTFfUDZYSVFRTDZIS1ppcHl0UEhxUw?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3E2TVFpbmptV1h5S284VXN6VHFpdnBRaEdDemItREg3cjE4TU9yd1FEdXUxR3A1MnZCbUFjY2JkT1pnamZjUGpyMjh4aHg2dGRqRE9ZcnlBR2VTUWRiODJnWWVfMkY0ak1OS1h3S3V5djBDaXlsbHhyRm9CRm53ejg2RGFsRTlteTlYcDBfQV9lY3UzU0NaXzNHRjBqajlLXzh1Q1JvSVBwRVQ2Mzk0ZWtQcGRXSUJ2T3dUX0dSQ0V0OFFNX1BUVw?oc=5"
       ]
     },
     {
-      "title": "Motorola Signature 27 India launch date confirmed for December 9: 12,000-Nit display, 7,000mAh battery",
-      "score": 20.28,
+      "title": "GPT-6.2 Astra Limits Hit 40% Faster After Billing Fix",
+      "score": 19.87,
+      "kinds": [
+        "community",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3RQOTJ3RDJxdDZfMExvSEc0QkF1bi0zM1NXZEI0blBheGdHX0JCMF93WVhlbG02dTNFc3BYazRGNDdWVUp4bjRBWlIxR0o1bU90ZkdhYjdaZFNJOWt5S3NvYWprbWJRVDhWV2RnNW5qc2xsWi1MeUFRazFBYXdPVmZtZDdaZmRtMDZzbEd3YmhNNC1XYmVPRlU4MVJYWFNsR3o4QWVMOTUzQ0paRE9BSUpCYnRRQ1dNY2E0NHVuOWY?oc=5",
+        "https://twitter.com/thsottiaux/status/2125784147889393806"
+      ]
+    },
+    {
+      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries Amid New US Export Controls",
+      "score": 21.94,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWhMX1JWMTVpZkxwRDQ3eGYzbW5hMGxneXRrN2x1SzNNQmJKbUlTaGN3UXJ3cDlJMGxiemRKbXB6QzB4MzdCZXNkWnl4ZzZ5dllVb3FzWFdiSTB1S2QyREF5WU5UQm1hakZRTmtQeXpLLUpWRGpnTGM4MVNuREV4SHNmeGZnRXlmVDlqTmphS0EwRzl0N3pUVjR5bWJQbkV5WGtoVTlZVlJXYVdyNGZUMVo4WnZSZERpZGVGck1MbmotakFSWkhEWXQ2cWlzdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2IzeDRBUHdXNi1LQjBNUEl3S21Va0NyeGN6eFZQZmdHUU5STk5FRXZTSFVhd2tYbTBHNjRfUkNDS29yNDlXYXdYMXZGMVZOZzE1STd1dEdVdk1iM0szN3B4ai1QWkpHTDlnVGZzZzNlQ09acXRCRklnWTgwMGV2Q3MtbWtYbkg0SnV1bjNCMV9tbW5zMUVEUU1IOTBNRHdDZUpGWXZuaG1MLWlSV3p2UkZFQVhoeF94RDY3Yzh6MkdtamtCVGQzamRsQ1VkbTU3X1huQ3NJTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRWVYMzhnelJmcVRDVmYyczI3eFYzM3JzT3VPMHRMVUhxNTduVE5Yb3BrS1RyQlI4aFJ5dDZxcnMxWkFndzdDVVFCQ3UxbDZNbnYyZVBzeGlqNHhYeU9oYkxnNmRveEVBcnpjbE5JSnFOZ25BaHk2N0o3bmt2WDY2MG1BUHZGVUFGUldNN2NiMVRzXzlQVTJBUnM3VG5wZnE0TmZKVkhaVXpaeTY3a00tV2NpSzUwRFA1bndZbXl5cHIxMGl2SHNlUEpoWW94NFlhR0ZOT2RBQThGMEUzUmlQU9IB5gFBVV95cUxPZWZUZ0ZmSzJPdjhCVV9xbFpRZ1Y0TEl3MWI4a1F1d2hlMzk2a3hZTjdjWlhDdXFxeEliX09wZHlhZEJJdEIteVFXSjhyR1JCaVF1NU9IX1hJVEFiQVRUeGtwOERIZXQ0ZGRYUzNaYVZlRk5EOGVGb3RPMUI4UU9wSzlxMjdCM1o0eTdTR0JoNEc2SHRPSjZSMko5Q1g1M1ZtZVIzaFAzLW5jTXM4b00wZjlXdE5HMl80dkNCUEZscU5SdlhUZDBUbkVkNEJfZm15UktrczE3LUFmZWFOa2Jpdk9yUTljdw?oc=5"
+      ]
+    },
+    {
+      "title": "Nvidia halts chip shipments to south-east Asia",
+      "score": 21.54,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDFtRGxaSmJxdndYb1VMbTBjLWJGOExCdUdULWNlRXF6RG90SDQzQkdYb29GbmI3Q1J5UHp2Yk80N3R1Wkl4UXlfWFdFd0VmQ2FEYUZXdnFpbnR3SndRWkh6dVJYQlY1cHhQMWVkTEpJaV9lbHJteGc1ai0tS0ppYWxuWVI?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5",
+        "https://news.google.com/rss/articles/CBMiowJBVV95cUxQQXNtMkRQQms0Mm5LSFhzbm9YSHRhZnF6X0VHaTEyeF80VnA3amVyWDlNekpieDVPdXN5eHVvdFQxa0ZVTUVKbXdYTWV4VWFHS0w4ZUxjQkkweHBoRjhBV2g0RjRaRkRJUnRMeHdkRHJFc3docHNYUGhRcVdWM01ORHN6aHpUdUF2eVBubWEtVGRya3dLbk85cm5oczdZVXFiYmJrMFhoQ2JpUEFYT2x1QkRTZ2NaYlZSeHdkQ2Vrd2N6RzBvb2VYQ29QbEJDTHdlTTlVWmFLZU52bWJZUnBicGpuWHE4dC1LLWtyQ2V2Y1IwNFBWYUVOOWFuTDh1aXdXNHBEc0d6MTZrQ180OWVfOVBkN1EwcVlKVk5ubWExeW5oNFHSAagCQVVfeXFMT2N5TzlFME9KTTFvWFAtT2tBSk54YlZNdmZubWZqSXRYaklwT3laMXF1WGxvSG1uZEhCald0cDc4UFFZMUJMc2pqd3p0QjhGOTJ0SE1JTWZBMzZOcXFWYU1LcDZ1MFQ5Q3FrSmJlb1FBUldrd1QwcGlrdVp5RGJPSGVKVWNISHdBX0pjNHo1dFl6Zk1JaFFsQ0lHN2pjOVFiWldZREMzUzBDTUxhc0lDbUk2TWdXZDFTNkdla3hhR2hKS25Vd1BmeGFPbmlqU0gyM1lBajlDdGstc3lWbjZXR0JCNFEwdG5FNmNuaENOQlpRd1hBTzVsUkpDRFdvRHVnTU5zV0tWOUFCUHVTNEZ4X2lzLXZNTEhfV25ZT0tSZno4YXdlSERSWFM?oc=5"
+      ]
+    },
+    {
+      "title": "Sam Altman needs a physical AI device because Apple won't give OpenAI data for ChatGPT—Tony Fadell",
+      "score": 19.63,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5"
+      ]
+    },
+    {
+      "title": "First privately built PSLV ready for launch: PSLV-N1 to fly in the first quarter of next year, ISRO Chief s...",
+      "score": 23.88,
       "kinds": [
         "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE9MVnVRQ3B5UzdncVN1ejBSZlBPbDUxa1JFZDg0dk5rNjJWTkltMVBPUEJDTDFUc2V2NXNxZ1R3T2twd3hzUFJSd0NRRk5BY0hLRkM2czdhNXhjMmpGME9tZl9iWDRPQlAySDZTUXpQNXh5eHNvMWtHZXBtZGtSQW1OX294bmZuOU1LRk5fTEl2dUhBSVpwNlc3dTRZd1hELVV6eUtaMnDSAa4BQVVfeXFMUGdHNTl1cnVYQVlQRVdWM01yZ2NJRVVya2RHYTF3Q0xYc2tOSGZWSngzQUdxM3JTdGFXWUdvbFRqMkdKQUxYbjY4VHpaNFNEckVpRnNQQ3M0VzhyR016MnBpaFFVenZvNWtmMHh4UjEya2k2RDJwTHVKTmVjMUJOWm1GcDdVT2IxekZzU0JNU1djcDBWSndmdGFqeXlRTzVXYS1mUmR1MUFWdWlLZmZR?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1g0RjNodDUwOFBCSjhGc20wZGFXQ00tQkItM2RIT1NNRG5pSkFXN2Z3NjI0dUxEM2Nyd0s2T3ltZVY0dzA1Qi1zWjRKd1ZPalAwbW85OUY3cE9pU1E1RzZ0LUlidW8xTDNmdkJ6THBiYlgtaVd0bDJFOVNBaUJrQ25iLVJtZXEtMVNGVm1XU1RXZWV4eXdxbTZ3MmtLVUdlbGNtajgxRExZQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0x2ZmlyNjcyQ0M3OGl4VFJiaFNlNnJpdHllcVFOQkpfdWhLZU50YUtXb1hxWk1WRjZ4aGo0enNqWG9namRsSWNBNHJkdGlOM3hXamxQUjlaWEcza3hQamFhQURXUFBMWUVUa2t1SlhSZ1JZa1gtZkwySWZpYzlWRFN2dzFLY1Bu?oc=5"
-      ]
-    },
-    {
-      "title": "ISRO says privately built PSLV-N1 ready for maiden flight in 2027",
-      "score": 20.12,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdyS9IBsAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdySw?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmxTOUU5c25VaElsVFB5TnF0UFhZRXhyOTllZTRqN2d1bGh6TUprdlJueURPVDV1Nlk5aDc4djFFcXZWWlhKOWl5RE9KSVVKSHpqNnpFYVVyZ3U0Q0sxazVlMWJITk4xOHBaTVdCX1FwUFh3RF8xb3FNVUlQSWVWS3QwQ2RPMGMwLXBPY2pPbDQwWElFVm02anRIRnUyR2JNdjRmUDR2dlJKSXVubmpYWkxXR1dOaHB3NGfSAb8BQVVfeXFMTnAtZENtcGJUWkQzQWJDanhNRWxzZ2pEWGNWeDFYcVdXY20xNHhfNEVOVEZiM1ExNXdWZlFtN1BKQnRfa1Nrb3hTSWQ4dC1WSTlRS2dhVGd6aXM1X0ZUaDRDb1dFWXhrS2RhOEVnYUJ2dXFPT0E2VlpNTVcyQWJBbURyZGlwLURlZEZzbU9USGZtaXhXcEZ5RERHbFlTdGhDOGJRMVhtaG1vQWxMaHI0Ri1PODB2MGExdU9wOXA1czg?oc=5",
         "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WVVRLQk50LVF2QUswYy1JS01GZGs0a0hTejljdjhmQkZNc1FoeUtQcjJZbEdGX0g4UVJMVC1BZmdScWxQaVJzS1pmS3FNSGdNLUNYdU1aaUZQYlFEOHh6OU1KYjlUTlBYaUxXbm5GSTc3UThUam9KNU51dVQwdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmxTOUU5c25VaElsVFB5TnF0UFhZRXhyOTllZTRqN2d1bGh6TUprdlJueURPVDV1Nlk5aDc4djFFcXZWWlhKOWl5RE9KSVVKSHpqNnpFYVVyZ3U0Q0sxazVlMWJITk4xOHBaTVdCX1FwUFh3RF8xb3FNVUlQSWVWS3QwQ2RPMGMwLXBPY2pPbDQwWElFVm02anRIRnUyR2JNdjRmUDR2dlJKSXVubmpYWkxXR1dOaHB3NGfSAb8BQVVfeXFMTnAtZENtcGJUWkQzQWJDanhNRWxzZ2pEWGNWeDFYcVdXY20xNHhfNEVOVEZiM1ExNXdWZlFtN1BKQnRfa1Nrb3hTSWQ4dC1WSTlRS2dhVGd6aXM1X0ZUaDRDb1dFWXhrS2RhOEVnYUJ2dXFPT0E2VlpNTVcyQWJBbURyZGlwLURlZEZzbU9USGZtaXhXcEZ5RERHbFlTdGhDOGJRMVhtaG1vQWxMaHI0Ri1PODB2MGExdU9wOXA1czg?oc=5"
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdyS9IBsAFBVV95cUxQbW1jUFQtaDM2UlJxMVlsdExsVG9FNmU4M05udnlUZ242WkJQdFZnMGJDWWtCVG1ReUF4Z2hfNlp5ajhIWTIzUHhkbVptVjM5dDRtZUtRcjMySUxJNEk2STlOUlJxMV9BcmxDTXBRUEhiMnVIbS1PaFJCVE92alNleW9mMkxnQXg0WTlIQ2Jfb2lyMHJ1Y1dmY2RnY3FtMHI1TndldEtyVi1ydzRZUmdySw?oc=5"
       ]
     },
     {
-      "title": "Structural agility of 2D crystals enables digital doping of graphene superlattices",
-      "score": 19.34,
+      "title": "Japan unveils rover prototype for Moon water mission",
+      "score": 22.1,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YeThxamlWTndPWDBUV18yR3BaRHBUc1F0UFhka0JOeXBNY0NNbk9Sbmg1ampjMjNPVkxoYS05WDlRTnhfOUxuX0FTNEJTRGdGODBiZGN6eHJzdXR1Y2ZvZmNRclo4TzkyaF9OakJUYUttWWJRb0RXMXlB?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YeThxamlWTndPWDBUV18yR3BaRHBUc1F0UFhka0JOeXBNY0NNbk9Sbmg1ampjMjNPVkxoYS05WDlRTnhfOUxuX0FTNEJTRGdGODBiZGN6eHJzdXR1Y2ZvZmNRclo4TzkyaF9OakJUYUttWWJRb0RXMXlB?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YeThxamlWTndPWDBUV18yR3BaRHBUc1F0UFhka0JOeXBNY0NNbk9Sbmg1ampjMjNPVkxoYS05WDlRTnhfOUxuX0FTNEJTRGdGODBiZGN6eHJzdXR1Y2ZvZmNRclo4TzkyaF9OakJUYUttWWJRb0RXMXlB?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMENEZ1Z4VWY4emhLNFpIRk4wdzBmNW9fYkkxbkZDMzVtRDIwY1habWNveTZpbDE3TWVnYkJPQnZJU0FGX25Qd3B2T3hWUWVRbGp6eVBWUWFQWHhNT3pFU3g0ekZzMHdMcUJDbWRvNllKUjUyX0d5Z0s5QS1hNWQ3LU80c1VZRnlaR3A2MEZ3eG5RNUlMSUE?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmwzLUszXzItSDRGMmN1YWRmdGVlSllGTDVhZlYxbkE0Qy05azBsd1ZMam5hRkxSdTEyQms0MldadkVrbkdLUGZ0b1A1UUt1OEw0dk93blNGbTZwQ004N2wtLUlFOVpES0NhTWhvLXVWMEpnZUdUdGZ6aHNIR1VpeVJhSTVRVlRXQzE1LUJHNkdCUlU5Um9hdnYtNEFoZlJXTlVvNkNoX19hOFc4OXc?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBONFhvOVRmN2NHeUVlUDdlVmRaSG9JUEo3RURaTldHWktyVVB5ZXBZNUdJY0M3MDBoWXRXWGVrSERGcFBLamo5UnBlLTRxSGpSdEVROWtHbWZiRHZpRXU2YjNSM2gwRjdVS3FYZVhINFV5Wjg?oc=5"
       ]
     },
     {
-      "title": "Helium bubble replenishment keeps MSR fuel clean",
-      "score": 19.17,
+      "title": "Asia-Pacific Banks Lose ₹118 Crore Each to Fraud as Visa Launches Cybersecurity Platform",
+      "score": 19.49,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5"
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JREhXdDIyaEs2a0pPMEdIZ0UtcFNJX0FmWWZGc2NCbXpHUjg2akV5RkhoVmV5MkxRWVJJaE12YWdWQkVqamZjX3JWVTc2MjdTYXc5UWN3Ym05Wkh6MjZHRVZ3Nml3dVBQMFBJ?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UV2gxcEFEWHpVVjJ0bnFkNngtNXA4QU05dE41WWFkaV9fZjhIbHlEekxiaVBvN2FwVldfU1ZaYW5fN1E3a0doT1h2UkhRTmY2Rm96QmQ0dnFiT1RMeDVUMV9yOUY1WE0xMnNJNjdRZVdHV3hBQ3c?oc=5"
       ]
     },
     {
-      "title": "Today’s NYT Wordle Hints, Answer and Help for Thursday, Nov. 26, #1986",
-      "score": 19.76,
+      "title": "What the success of ‘GTA VI’ means for the gaming industry’s future",
+      "score": 21.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1l2Qmp5QUVQNUVlcGpJRVdlOXhZaWo5SldPTVU3RnBTdGJjQmhFZ3JpWWVNREk4MzlCclhmYno5TU5Mb1hRTi1hOVp1d09KR211WENkS2o0d3Zac182NTNEZFQ1TkRUY2NrSlo4czZ3b0RhYjNaczRoTWRNMHlBTTE3dXhDNEptc19oMzV4WDNsQ1ZwcUhiaFNxTXloSzduRjdZUGpiZkZRU3M1?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1l2Qmp5QUVQNUVlcGpJRVdlOXhZaWo5SldPTVU3RnBTdGJjQmhFZ3JpWWVNREk4MzlCclhmYno5TU5Mb1hRTi1hOVp1d09KR211WENkS2o0d3Zac182NTNEZFQ1TkRUY2NrSlo4czZ3b0RhYjNaczRoTWRNMHlBTTE3dXhDNEptc19oMzV4WDNsQ1ZwcUhiaFNxTXloSzduRjdZUGpiZkZRU3M1?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1l2Qmp5QUVQNUVlcGpJRVdlOXhZaWo5SldPTVU3RnBTdGJjQmhFZ3JpWWVNREk4MzlCclhmYno5TU5Mb1hRTi1hOVp1d09KR211WENkS2o0d3Zac182NTNEZFQ1TkRUY2NrSlo4czZ3b0RhYjNaczRoTWRNMHlBTTE3dXhDNEptc19oMzV4WDNsQ1ZwcUhiaFNxTXloSzduRjdZUGpiZkZRU3M1?oc=5"
       ]
     },
     {
-      "title": "Watch UEFA WCL Highlights: Arsenal v OL Lyonnes",
-      "score": 17.85,
+      "title": "36 best Black Friday phone deals: iPhone Air, Google Pixel 11 Pro, and more",
+      "score": 19.71,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb01LZUpfV0xZMFp0ZVJlY0JBZmJPMEc4QUJQWDBRdmhVUVlvZmJhd3F6OC1jdm9TQjFybUFLVWZCV2tKU2NfZHNfOWZVOWtoQkFBa2RkNlBuaUZfV3lyNGs5TlZSY0tXNXkxOHhhY1ktUFlxY2hQQWRLcmdaaUEzUks2RnRvWVhMd3Y4?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb01LZUpfV0xZMFp0ZVJlY0JBZmJPMEc4QUJQWDBRdmhVUVlvZmJhd3F6OC1jdm9TQjFybUFLVWZCV2tKU2NfZHNfOWZVOWtoQkFBa2RkNlBuaUZfV3lyNGs5TlZSY0tXNXkxOHhhY1ktUFlxY2hQQWRLcmdaaUEzUks2RnRvWVhMd3Y4?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb01LZUpfV0xZMFp0ZVJlY0JBZmJPMEc4QUJQWDBRdmhVUVlvZmJhd3F6OC1jdm9TQjFybUFLVWZCV2tKU2NfZHNfOWZVOWtoQkFBa2RkNlBuaUZfV3lyNGs5TlZSY0tXNXkxOHhhY1ktUFlxY2hQQWRLcmdaaUEzUks2RnRvWVhMd3Y4?oc=5"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlpjQ2Rfb2JNS2xjVzIxMDVITjFhUUxWVWZQS25Fc3lSbFRLN0hfNXRBcmFxZlFXUkJtbUJueFpxMlBJMEJFVWpoZ2h3Y3dnX3YwdmxtdkxTY1ljaWlNOXZ1b3VnTTVyQkgtbWJBQkdGcEF5elU2UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlpjQ2Rfb2JNS2xjVzIxMDVITjFhUUxWVWZQS25Fc3lSbFRLN0hfNXRBcmFxZlFXUkJtbUJueFpxMlBJMEJFVWpoZ2h3Y3dnX3YwdmxtdkxTY1ljaWlNOXZ1b3VnTTVyQkgtbWJBQkdGcEF5elU2UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlpjQ2Rfb2JNS2xjVzIxMDVITjFhUUxWVWZQS25Fc3lSbFRLN0hfNXRBcmFxZlFXUkJtbUJueFpxMlBJMEJFVWpoZ2h3Y3dnX3YwdmxtdkxTY1ljaWlNOXZ1b3VnTTVyQkgtbWJBQkdGcEF5elU2UQ?oc=5"
+      ]
+    },
+    {
+      "title": "vivo X500 Series Debuts in India: Price - Features - and more!",
+      "score": 19.63,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWozWi1pY09IWDQ0RnluTzBqakN3U2UwQld1eFN6WE9VTS01S25lMGlWZUh6NjIyRGR1Z09YOGdOeWRYRGZmckJWYW16UjBXOHVQNVBxTjlFMUlLaVdoMXhicjNJemtUbEpjU0ZNRzJQSko0ekRFOVlmVlNwTjlkQlJNbDJMZHlCRno1Y2VZbUR5WHdoM0FQYkxpaXR6UXVzVnJxT01nMVJvcmNBX1NLTVZMajBoaE83eHdVeEp0cTMzanp4aGxldA?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3Y2RDR3SkVkVmV5cTEwMEhsV0VNUUFLOE5ueWxBQnc3VTVmbnU2RWM3ZTl2U3ZlQzVxc1g3a2t0SmdadEQwbXJ2dnpJNzM1UzdJcGp5Tm9tSjkzdG9fZC1WUkFOcXNHSlc1emtfT1pnNXI4S29iZ1F1S01CeFhfUTJoemZVbDZqd3kzNm1MTDdTZFJHRk1CNXR1aFdqTGpjMWc4R0hUVmdFelA1bzZuaUhJZk1Od2NSb09KR2ZNTGNBSG5H0gHEAUFVX3lxTFBXdjZENHdKRWRWZXlxMTAwSGxXRU1RQUs4Tm55bEFCdzdVNWZudTZFYzdlOXZTdmVDNXFzWDdra3RKZ1p0RDBtcnZ2ekk3MzVTN0lwanlOb21KOTN0b19kLVZSQU5xc0dKVzV6a19PWmc1cjhLb2JnUXVLTUJ4WF9RMmh6ZlVsNmp3eTM2bUxMN1NkUkdGTUI1dHVoV2pMamMxZzhHSFRWZ0V6UDVvNm5pSElmTU53Y1JvT0pHZk1MY0FIbkc?oc=5"
+      ]
+    },
+    {
+      "title": "vivo Watch GT 2 Price in India, Specs, 25-Day Battery",
+      "score": 19.41,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU5adVhSdklGYThBeVV4Q2lraXdRQzNNanBQcDFKWmF1b0k3OU5qVE5VSlNWazhiX1JsNkdzbS1leVpvTDRQT0pOeUNmQWxudEtPU25jQlA0dGJZZVJNM0poODNEczZOUjVoU3Jrc19mTEFqQm9mdkJMS3F6NmVudE9YQzhkV3AyNzc0TERTT1Y0VkFPLTByQ080clpxeG9yWXJ2NlRXbmxTdw?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeThYMURPbDV6YjAxeXVNT0lQZkhmUXpCa0txREYtQXo0MnJpdWxveWtWYXQ0dTlFSmhQVkFBQXNrTzZIQk9MbnZpd3VocmdGT2w1SjRhdWxXenAwNDZSemlPcmxzRHR2RUQtR1dWUWpKbDZ6d1VmdXMzWHgtX2V0LTk3R1hZQTBYZUxoWng4TFhRZXlEWVZ2Qm5iR1pRM2w0UHpXM0tUMHFVYjlvRFF2aWhiRU5od293LWtuTmZXX2pyQ01LR0VILWtOeTFoSk0?oc=5"
       ]
     }
   ]
