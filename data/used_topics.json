@@ -1,25 +1,5 @@
 [
   {
-    "title": "IIT Kharagpur Announces India's First School for Physical AI - Check Courses, Curriculum Details",
-    "category": "Future of Technology",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Sarvam Inks 5-Year Pact With Defence Ministry For AI Projects Across Armed Forces",
-    "category": "Breaking AI News",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Genie 4: A new generation of world simulation",
-    "category": "New AI Models",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "category": "New AI Features",
-    "date": "2026-10-27"
-  },
-  {
     "title": "OpenAI plans to buy Google's AI chips, The Information reports",
     "category": "Breaking AI News",
     "date": "2026-10-28"
@@ -588,5 +568,10 @@
     "title": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services",
     "category": "Breaking AI News",
     "date": "2026-11-26"
+  },
+  {
+    "title": "OpenAI and SpaceX backer VU Venture Partners to invest up to $1 million in Indian startups",
+    "category": "Trending Technology",
+    "date": "2026-11-27"
   }
 ]
