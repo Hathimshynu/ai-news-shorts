@@ -1,9 +1,4 @@
 {
-  "2026-11-03-evening-1701": {
-    "status": "expired",
-    "platforms": {},
-    "late_offer": true
-  },
   "2026-11-03-evening-1801": {
     "status": "expired",
     "platforms": {},
@@ -448,5 +443,30 @@
     "status": "expired",
     "platforms": {},
     "late_offer": true
+  },
+  "2026-11-27-morning-0322": {
+    "status": "posting",
+    "platforms": {
+      "youtube": "https://youtube.com/shorts/fdKRtNXlNoY",
+      "facebook": "https://www.facebook.com/reel/1154646334037734"
+    },
+    "late": true,
+    "approved_at": "2026-11-27T11:18:58.566970+00:00",
+    "attempts": 1,
+    "last_try": "2026-11-27T11:18:59.882455+00:00",
+    "ids": {
+      "youtube": "fdKRtNXlNoY",
+      "facebook": "1154646334037734"
+    },
+    "info": {
+      "title": "India Sri Lanka AI Partnership Boosts UPI and Services #Shorts",
+      "topic": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services",
+      "category": "Breaking AI News",
+      "hook": "India and Sri Lanka expand AI ties",
+      "seconds": 48.2,
+      "primary_keyword": "India Sri Lanka AI partnership",
+      "qa_passed": false,
+      "posted_at": "2026-11-27T11:20:10.027650+00:00"
+    }
   }
 }
