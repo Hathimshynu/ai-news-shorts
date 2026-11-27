@@ -1,23 +1,22 @@
 {
-  "job_id": "2026-11-27-evening-1701",
-  "chosen": "OpenAI and SpaceX backer VU Venture Partners to invest up to $1 million in Indian startups",
-  "reason": "Major venture backing from prominent OpenAI and SpaceX investors into Indian startups provides great inspiration and tangible funding opportunities for local AI founders and developers.",
+  "job_id": "2026-11-27-evening-1801",
+  "chosen": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "reason": "This hands-on technical breakdown shows how AWS Trainium3 chips power high-speed video generation with LTX-2.5, offering creators and developers valuable insights into building next-gen AI media pipelines.",
   "candidates": [
     {
-      "title": "OpenAI and SpaceX backer VU Venture Partners to invest up to $1 million in Indian startups",
-      "score": 18.03,
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "score": 17.87,
       "kinds": [
-        "news"
+        "official"
       ],
-      "primary": false,
+      "primary": true,
       "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzIwNzVRSXVtSzVETVg2NU1UZ09lOGhWX0Vjb05ZaU9uV0llbWNCR0p3NEtIZ0x2WDNMTWgwTDU2amVySWxIcjZqX21xeU8wRU9aWXNCTk5Fclcxak9WY0ZkUHdSZGlZOXBucWY0Zm1Wb1FmOGV5MlM1VmlVYXdNdTl0YklLUGJIT082cm5rd0QyRmFfWmZpMDAxMDc5NXRoMS1neVRUM3VCcVVmbG5BX0ladGR4T09pVHlXbm5PbmhQaGRFbzdNUHRiYVlWQdIBzgFBVV95cUxNSzIwNzVRSXVtSzVETVg2NU1UZ09lOGhWX0Vjb05ZaU9uV0llbWNCR0p3NEtIZ0x2WDNMTWgwTDU2amVySWxIcjZqX21xeU8wRU9aWXNCTk5Fclcxak9WY0ZkUHdSZGlZOXBucWY0Zm1Wb1FmOGV5MlM1VmlVYXdNdTl0YklLUGJIT082cm5rd0QyRmFfWmZpMDAxMDc5NXRoMS1neVRUM3VCcVVmbG5BX0ladGR4T09pVHlXbm5PbmhQaGRFbzdNUHRiYVlWQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSUlHWTFTX3RvWFBBNERYSVB4S2c3ZDdmWW9WdnlIUVJVbTVfbkNzckh6UlMtT3RldEpEak5YZXdrZXl5bS1fMEtrS1F5RVowSWZqLURRUTRuVHM1UFdnM0lLX3F2N1E4TTREWDJrLXhZRXZmcV85bWxPeWJUVTNfMXdMR0E3RDY1NnhOcVc4UXZ0U3ZYMmtXeE40QnFzalhRN05yc1lRU3Jmc0dYeG1RaVp0OEJRTzExRWpfNG5NZ2ZPZlVkX2tGVkoxbnNOV0dzQmt2RHU5S3RoUlk?oc=5"
+        "https://huggingface.co/blog/video-trainium3"
       ]
     },
     {
       "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
-      "score": 22.44,
+      "score": 22.19,
       "kinds": [
         "backlog",
         "news"
@@ -31,31 +30,45 @@
     },
     {
       "title": "SAP’s 10,000-Job AI Overhaul: What It Means for India’s Supply Chain Tech Stack",
-      "score": 17.69,
+      "score": 19.44,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE56Yzd5eU1qVnI2NTRucU5qLUlUTXZGMEQzOTdTc0Z5TnhhODBwTFpiWDFvVkQzX0w1TkpPWnE2TGR5OVFiVDhUV0JkQk1vWDFKVkc2UmVQNlYwZUl4WnhteFFETUlGbDlKZFdGSFdR?oc=5",
         "https://news.google.com/rss/articles/CBMibkFVX3lxTE56Yzd5eU1qVnI2NTRucU5qLUlUTXZGMEQzOTdTc0Z5TnhhODBwTFpiWDFvVkQzX0w1TkpPWnE2TGR5OVFiVDhUV0JkQk1vWDFKVkc2UmVQNlYwZUl4WnhteFFETUlGbDlKZFdGSFdR?oc=5"
       ]
     },
     {
-      "title": "IndiaMART Settles ChatGPT Visibility Dispute With OpenAI",
-      "score": 18.07,
+      "title": "AI Could Unlock USD 600-700 Bn in Economic Value for Indian MSMEs, Says RBI Governor",
+      "score": 19.63,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ29GczJGRWppUG43anNqa0N6aUp6SmxMUVhGa3diT1l6RFN3UVRZRTJ0V3h1YTZWZlk0SU5ScE4tZlZLS1lfTEdjX2Rjc00tYWlxTWh4NTdBXzZucUg5N3ItMEgxbmVoMDZZR0w4alcyUkROangtbVV4SDY3V0xIZTBnM2tXMHZrTEMyRHRMaw?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ga1RUWE8wRlMwc2JWZ1lvQWVJQnh0b2ZLWGYtamRvSzQ5ZVdNcW9uTThLOWR5U21ZUF9ITE1KVHhBTlRXdGNOb2g4MkNvVllIM1hLbTR3V0dEaWpoWkEzelN1dzFnX2RUU3RTT2Iycm1iTmNXQVE?oc=5"
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUNIVjVQUHZJc0hERnFmYXhaS2FJZVZTNFBFSU00MGt1UWh1QzhtdWFBSUlQdFFmeUlEVk1nU1g2aGVFWmVaSUhUYk1hTzBReEFSLVJYNTVNZkZOQkVuRlVQa0lYLUgwWlR6azIza2lfdnpHRlk1UzBDS2hRNDJyS2ZJb2RGM3hPejhZcEc4WF9OeWpjQUdyZktXUVl5b1FMNDl3TENRR0FxU3p0VG9pemV3c3FJZ2VnREM4LU9SVl9PR1FkUUxr?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmlibkFoRkxXX1hsR3dibHlXZVZzdndYUEFBYThjRmVHeXJmdzJOcWduTnh6UEZhbThKVjh3ZTNYSVFsMkNBTU45Y2tMMU0xVE9GYThDc1dMamNfU3M5cUVzdnBQdWwtdkVBMWVpaDQwRnhDaV9lcDRHQkxHVzA2SUE5QmpTWE4xa3ZELWtSQ05idktUXzI0QUltdVV3aGZDU0xsNUFpTGVzME1tSEpNZXY3dkNxV0VzN3JudmVqT0daZkJwSXN1UlhEX29PeG5hYjI3aFEwa2JieU5qUnhJbTNn0gHiAUFVX3lxTE8yaWJuQWhGTFdfWGxHd2JseVdlVnN2d1hQQUFhOGNGZUd5cmZ3Mk5xZ25OeHpQRmFtOEpWOHdlM1hJUWwyQ0FNTjlja0wxTTFUT0ZhOENzV0xqY19TczlxRXN2cFB1bC12RUExZWloNDBGeENpX2VwNEdCTEdXMDZJQTlCalNYTjFrdkQta1JDTmJ2S1RfMjRBSW11VXdoZkNTTGw1QWlMZXMwTW1ISk1ldjd2Q3FXRXM3cm52ZWpPR1pmQnBJc3VSWERfb094bmFiMjdoUTBrYmJ5TmpSeEltM2c?oc=5"
+      ]
+    },
+    {
+      "title": "India Emerges as AI Haven, Seeks Boost From New US Chip Curbs",
+      "score": 17.87,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGR5Q0NKeS1ELXBSSWNndVdxTTVWczlpSUplOWxaNEY0ZmNCdFVQMUg1bzlDVEozcVlRY2M0QTl0bFZjREEwNFFFMWlsM1BubzVCREFoa1pDMllpMmpSTUN2RWphelphY0VxT19BR0dSdVJrMEQ1ZXJ5ZXF4UVJsTmdTQXliSklnU3RtTVNBVmF6UlVPbVg4SkxPc21ZMmdJMHNPZi1tUXdlZVBWVHViV2NxeDF5bDRFX2dQUUVyTHAxd2ZSOFFKaw?oc=5"
       ]
     },
     {
       "title": "From Perplexity to Anthropic: Five Indian-origin tech leaders shaping the global AI industry",
-      "score": 17.84,
+      "score": 19.59,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
@@ -66,84 +79,76 @@
       ]
     },
     {
-      "title": "5 Indian Cybersecurity Companies Redefining Digital Security",
-      "score": 17.74,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZPNFhUamRVVm9iVUdVeXJpbkZmRk9QdkctdEc4N0oyeW5yT3YxXzljaDF4cFFpRFZiblV0dVVVa2FLaGk1Zjk2X3duOUFxTElRYU1QeG9CS3ljRVFGcnBPRUtOeENTWVk3WUkyemltUXc4ZjkyamdKTWFvb0NvMzlvR2pFY1JJcldESTNVNHJoYjY4MkRJYTJnNUhMLXZET0hOa2RFOURFS2pGYUNqMUhFeFJCUTQtOEpn?oc=5"
-      ]
-    },
-    {
       "title": "Left Behind or Sold Out: India's Public Schools Face an AI Trap",
-      "score": 17.97,
+      "score": 19.72,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTlxTlMxMXZCaWNyazUyQ241SzFPNnhGTmRKZmhwLUgwMFJQVldaaVZfb3h5TFNxZkRYbXR4RklGa1RLM1huSEZWYXFyYnE5bERSWjNQTmpOZnRYS0RFZWFWd0hPSmVOeHFEcW9HOTBoSU9xeHpNamlQaFNad1ZrWDUtanZieXBmX2RyRDNraGd2WHVTendMYXRoSFd4SlV2QXc?oc=5",
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTlxTlMxMXZCaWNyazUyQ241SzFPNnhGTmRKZmhwLUgwMFJQVldaaVZfb3h5TFNxZkRYbXR4RklGa1RLM1huSEZWYXFyYnE5bERSWjNQTmpOZnRYS0RFZWFWd0hPSmVOeHFEcW9HOTBoSU9xeHpNamlQaFNad1ZrWDUtanZieXBmX2RyRDNraGd2WHVTendMYXRoSFd4SlV2QXc?oc=5"
       ]
     },
     {
-      "title": "Space Comes to Campus: Sandip University Hosts ISRO’s Space on Wheels Exhibition",
-      "score": 17.8,
+      "title": "5 Indian Cybersecurity Companies Redefining Digital Security",
+      "score": 19.49,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZPNFhUamRVVm9iVUdVeXJpbkZmRk9QdkctdEc4N0oyeW5yT3YxXzljaDF4cFFpRFZiblV0dVVVa2FLaGk1Zjk2X3duOUFxTElRYU1QeG9CS3ljRVFGcnBPRUtOeENTWVk3WUkyemltUXc4ZjkyamdKTWFvb0NvMzlvR2pFY1JJcldESTNVNHJoYjY4MkRJYTJnNUhMLXZET0hOa2RFOURFS2pGYUNqMUhFeFJCUTQtOEpn?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZPNFhUamRVVm9iVUdVeXJpbkZmRk9QdkctdEc4N0oyeW5yT3YxXzljaDF4cFFpRFZiblV0dVVVa2FLaGk1Zjk2X3duOUFxTElRYU1QeG9CS3ljRVFGcnBPRUtOeENTWVk3WUkyemltUXc4ZjkyamdKTWFvb0NvMzlvR2pFY1JJcldESTNVNHJoYjY4MkRJYTJnNUhMLXZET0hOa2RFOURFS2pGYUNqMUhFeFJCUTQtOEpn?oc=5"
+      ]
+    },
+    {
+      "title": "OPPO K13x 5G and F29 5G Get Stable ColorOS 17 Update in India: Check What’s New",
+      "score": 17.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkJJbUcyMDZpc0xKakpLa2ZSY19UdUxzdkNzYzVoX0dQd21SSjlXV2ltaFRvRVhFYnVNVUJ3b09SaEVCNmdSZFVnTjVUemwwNml5LU1Bekp6UFFVSnh1UVJtUkNGT2h3enlPMkFmLVhTS21pRFQ4OU0ySDc3OGVyQ09ndTg0Mk9sbzIyRll4TWUzeV84bmFkOU5oa0pKTzcxRWdwVEwyVkwzUGNS?oc=5"
+      ]
+    },
+    {
+      "title": "Space Comes to Campus: Sandip University Hosts ISRO’s Space on Wheels Exhibition",
+      "score": 19.55,
+      "kinds": [
+        "backlog",
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGROdWJBemNmOEZEeUhoY2hESE0wQVlVQ1JBaHVBd0ltTVh6anBDX2RBb2VNWVk0S2haY1hLMEg2cjdYTDQ1YU5LUDdkSDdZR0tVZUlYemVvZ1BkdXVwRWZ4eUh6YzBCeEc2NlhFNy10ZGtLLXQtbXNuZy1lUU4yNjBGVmo0b2ZLZ3YtRFItbjlKRlFyUDFNRlFEMEZBZEJjQnhnSlR2QzY5dmR0b2hmZTFuVUhjZVlHREhsS3lheEQ3OEFvTk1NSHF3NDRmWHEybFc3Nlk0VjFxNUE4dDlV0gHfAUFVX3lxTE1EZE51YkF6Y2Y4RkR5SGhjaERITTBBWVVDUkFodUF3SW1NWHpqcENfZEFvZU1ZWTRLaFpjWEswSDZyN1hMNDVhTktQN2RIN1lHS1VlSVh6ZW9nUGR1dXBFZnh5SHpjMEJ4RzY2WEU3LXRka0stdC1tc25nLWVRTjI2MEZWajRvZktndi1EUi1uOUpGUXJQMU1GUUQwRkFkQmNCeGdKVHZDNjl2ZHRvaGZlMW5VSGNlWUdESGxLeWF4RDc4QW9OTU1IcXc0NGZYcTJsVzc2WTRWMXE1QTh0OVU?oc=5",
         "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGROdWJBemNmOEZEeUhoY2hESE0wQVlVQ1JBaHVBd0ltTVh6anBDX2RBb2VNWVk0S2haY1hLMEg2cjdYTDQ1YU5LUDdkSDdZR0tVZUlYemVvZ1BkdXVwRWZ4eUh6YzBCeEc2NlhFNy10ZGtLLXQtbXNuZy1lUU4yNjBGVmo0b2ZLZ3YtRFItbjlKRlFyUDFNRlFEMEZBZEJjQnhnSlR2QzY5dmR0b2hmZTFuVUhjZVlHREhsS3lheEQ3OEFvTk1NSHF3NDRmWHEybFc3Nlk0VjFxNUE4dDlV0gHfAUFVX3lxTE1EZE51YkF6Y2Y4RkR5SGhjaERITTBBWVVDUkFodUF3SW1NWHpqcENfZEFvZU1ZWTRLaFpjWEswSDZyN1hMNDVhTktQN2RIN1lHS1VlSVh6ZW9nUGR1dXBFZnh5SHpjMEJ4RzY2WEU3LXRka0stdC1tc25nLWVRTjI2MEZWajRvZktndi1EUi1uOUpGUXJQMU1GUUQwRkFkQmNCeGdKVHZDNjl2ZHRvaGZlMW5VSGNlWUdESGxLeWF4RDc4QW9OTU1IcXc0NGZYcTJsVzc2WTRWMXE1QTh0OVU?oc=5"
       ]
     },
     {
-      "title": "OakBridge to host India Law AI Tech Summit and Awards 2026 on November 28",
-      "score": 17.89,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQWlJPWnhNdU9FdVdXd3hHVFhlVlFNaGc0X0VDdnB0UnV4ZU5tR28tWmZYdFZ0Z01aLUJiT3FfMW00TXRURGZDUEhiNTdTdUducFNYUVFuNUpNNDQ4VzlxSlNYODhubEJObF93cmtjVmVybkIxRlc5RG5UYk1SZzRoZzNlSm91Y2J2V2I4RmNuWDZHUG1Ub3hZTGZONkFSZ9IBqwFBVV95cUxPWmFrcm9kcDUtdHRxbGxPc0pJaElPbUpESkh0UkFqREdnUjVwcmNHNUlDOUZOaEJoRXI5Q0R3cDlvVHVkUWI0MmJXOFN4bVg0ZnZiZVY1Wng2S1VOWHRpU0c4TjhoWFptNkRIVl8yNVU2Z3lyaThCaGVJQ3Q3aUlTVk5HUC1TSzVTX3J3ZlNJMDRQc2JnRXN1S2xFejdZYng5SFZET0s3Z3RlUDQ?oc=5"
-      ]
-    },
-    {
-      "title": "Meet Raul John Aju, the 16-year-old Indian AI prodigy who just took a viral selfie with Vladimir Putin",
+      "title": "'AI Kid of India' takes selfie with Putin, breaks the internet",
       "score": 17.86,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTm4tVnExSVVwYWp3TlhadGE4UnNoM085RmEzZkZ0Nm9zSmJUa1U2dnBDa2RYTTNtMXpaYVZMWDdmYXBKaDVxNk9IbG1zcmxGOWp3R2NZZUV1VXdKVk96S3VLdTNxX1U1TTNib0pLSUQxdVJ2SmhkUHJmT2hLR2ZUWDFYSmN1dU1jd3Z3cGE0eG4wV21HMDE2dWdBX0tiMUlJR0J6N18yUUxMU2Z5bjZObGVXUGVnbU96ajA5T0RMVkJMcjJ3MlNFQ0h6Z2F0VTZiNEZiUDlZcEtuVkdFMlctelBDUWpIVlHSAfQBQVVfeXFMUF9ESVhIMTFvemNWTDZBRlpILUtIU0N5UUZLbGNpWDNpVzdlUVZLNWZNOVdtZnJsek9SYW43ZXJmd3RuWGJHNkNaQTBkLTlYX3dlUVdLelEtOWxXU25vYmxCMUw5Q3ZvTEdjU0JwdHRIQWJuaUY2anZuWW1ZQ1hUNkpadEhyOWMyWTJMTml2OG5BMy1mVkFvWmNnNjRsYUlraGRsd1dseHlIN2c5REtKVVQtdnNKWDZJNXI3SmxsMEZfa3dRcFpQVEttaGxVMjZXa3U2bEowM2h2VjVZOG1SUzJROG9wQ293cVJkOGx3RXFhdG5pMA?oc=5"
-      ]
-    },
-    {
-      "title": "Smilegate Launches Dead Account : Two Blue Flames in Early Release Across 4 Countries",
-      "score": 17.83,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYzdQeWN1dFpJVXpiaUtZa0xocmlkOVVGX253SExKa2pDNDJURXh0a25mbG5iRGhHM1lPVVNRZzF0eFVQQ1d4V3B1N0J2TlMyZmhzR3k3dXlmZ1ZIQkp2YXV2cWlsb3lGRzJXTUhDcWJtTjdxUFhmQmFVWk9VU1lIRFEyYXZ4OVcxQUJKLVM2QndXRlMyYlVha0VyR09Wa3NKWTlFU3k1Uk96a19jclBTQVdveWFuYWdFbDMwbjZMZWgwNm10QXh5enRWeEk5TU9nc3Y1UGtBUHI?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHBCbkNZMkVSUUNhSVdicmtRaVZNNGEzZUlPcENZTElNYTJrcGxrV05VVTZYUTJHVW1QcC0yYnBpX3V0T2tQelV3SGlJSW1vYWliaFBIMEU2dUhYNzFhQmRwd1lnYXZGTFI3Vkw1Tnhac2hFRE1maWp4T1NQRERMVmhiYXpBU3pKV2xDS3hid1RtTmhBUzF5cDh5RzZQR0dvTXptUTJn?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHBCbkNZMkVSUUNhSVdicmtRaVZNNGEzZUlPcENZTElNYTJrcGxrV05VVTZYUTJHVW1QcC0yYnBpX3V0T2tQelV3SGlJSW1vYWliaFBIMEU2dUhYNzFhQmRwd1lnYXZGTFI3Vkw1Tnhac2hFRE1maWp4T1NQRERMVmhiYXpBU3pKV2xDS3hid1RtTmhBUzF5cDh5RzZQR0dvTXptUTJn?oc=5"
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaE50QWZ1MkVIajN5d0xKVU82alpJX04yWGp2dldNOEwzN1Z4d3RrbzAxVFVLNVBvQjJfM0MycXM5X3N1NVVMbUh6dHZIRXk2RHJvNjhwZW1LTTdjTnFnVjM5ai13NkJpY29NU1hSUENocTU2Tk45dy1zSHotTjlFbklkWXFxLWJhVWdzT2VnM0Z1RTNJaDJPd0xGVmJEREhhSmxac29QakJ5TURHSXRjT2dMakJkYjhZY2ZFNUZoTWxiV2NuWFY5QlljNGI1cHNJY0NIdWU2T0xJSjDSAd4BQVVfeXFMT3l5Y2kxM182YXRVeHIxUm5WMGlGVTVZOTBYNzVsUV8tYzRwcndWQVl1QzhkU3NHVnB1cjdCWF9sOF95ZFhPb1NqWDE1MmtaSlhpYUVJdlUyZDZuSEFBQzN4Z0wwWS1oQzljNXNLTHJVWDN4a0JHQnJqUHJVWm94UkxNTHpmam9faGRZLVFueWJCdGtKdEVhSEFkc21WWjdGYlpFb3NiZWI0YTktY1MyWmlwcjBvNC1RMUNkdW1PQk1tLXFBTzNpbkFFY1BKd05Zb0pndThucmJ4MXlvcFR3?oc=5"
       ]
     },
     {
       "title": "Air India & KM Malta Airlines elevate interline partnership to codeshare agreement",
-      "score": 21.82,
+      "score": 19.57,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTZCUUkzOE9GTWFDVDRnOXJwNU50aW9wTWtGWjFGX1QxbG1kNWdvQjRJeVI5WnVPOGthZmdZMWw4dFo4aVp4TVBod0I3WDJ1U29DeEppV0ZMUWhpWlNsZFE5RW9YeHhRS3VGc05nYWhkcHNQOGNUZnFUSlpMa003am9wT2cyWU04QjNUREZsb1JnaW94MXRZS1ZOTUg1UlhZVGdKTnJ6QV9CQ0hZUXZVbVZPSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXcyYlFadEozYXViS3FEZDROUUhvSmtfSE1iekN2VWZ1OXpYQWZJQ2RyT2JZS3ZlUzNpTVFIV1Vxa1ZPdDlCMTlJVWowQ3ZQc0FaZ0NkNW9GYnlYQWM5ZlMzanBjQW5TVmoxY3FKRWd1bjZRZnQ1YnhnWTJ6R2dkZkx1TlI3dERCN2gtSUtUMTY5WUN0eU9RTDZqbkJCMnlBOTVNMlU0UzZ0cUNTeFhnM0NsSlQtNmR1cm9rMGxoaFRnRDNCdXpMU29ZcmpYSFB0Wmc5WTF30gHbAUFVX3lxTE5WMXRiN2lCMHhYS3V3RHhobk9wWnlUY0ZBa3BMa0pXWU0xOGtCWU5JcHVqVU1kZ05DN1hMUGowaFRQQW9YVGFHMW14b3A0X1MyY3NnVVUtZWFTWm8wTENpX0tBYXB4TDBWOUphVmxOLWZ3Nmh4VzJjcXV1eDV4eTdVQjJYczZ4aWxoQ1lUR0N0Y1NrWE5uT0VUVGt3UklfRk9FazVGV2tnbFFuNFZtN0xpdzVZa1pPRU1NN3VZRzNIT3hGdEhVTEtVdkNjSVgwWXVuVTlaUS1uNkh2VQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzkwSUV2bVktSldDU2NkUWV3dGZ0ZEREaUhBa0l6ZVlNLXhNQmpyVUR6UHpjRnEzMEkyV1B5SFA3aTA5bWwyZnlJMWRXeUo3anFhTlhGQmxtVmRYZmdvOHVEOUpadU5RRzRLdXBMSlRqWmdpWjc4dUtwVEpkc2NwOThFWFJ1ZUhsam5Dc2Y5QXdfbldrcHQ5dUVNZzAzUjV4SS1XdWtWaEhUQdIBrwFBVV95cUxObFRaWGtRWFRHU1c4cENmcnYyb1dXOVlMUkQ2Q3JldHc5U3Z0dmtfeGtFMHNYVmhNVDR3bWxSenFFMzdYYl9YT053X2JiQWF2OEo5RTJpZU05NjJjSkJaMktyMXlveWJCUW1EMWJqV3UzbDRtckNJRFRhcEZTUjdJdnVZeDdSQ1U4VUpFMGhXOGw4SWJPUWlpUE05MkFhVEVKdlc3RzkzS01TVlVzRGlZ?oc=5"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXcyYlFadEozYXViS3FEZDROUUhvSmtfSE1iekN2VWZ1OXpYQWZJQ2RyT2JZS3ZlUzNpTVFIV1Vxa1ZPdDlCMTlJVWowQ3ZQc0FaZ0NkNW9GYnlYQWM5ZlMzanBjQW5TVmoxY3FKRWd1bjZRZnQ1YnhnWTJ6R2dkZkx1TlI3dERCN2gtSUtUMTY5WUN0eU9RTDZqbkJCMnlBOTVNMlU0UzZ0cUNTeFhnM0NsSlQtNmR1cm9rMGxoaFRnRDNCdXpMU29ZcmpYSFB0Wmc5WTF30gHbAUFVX3lxTE5WMXRiN2lCMHhYS3V3RHhobk9wWnlUY0ZBa3BMa0pXWU0xOGtCWU5JcHVqVU1kZ05DN1hMUGowaFRQQW9YVGFHMW14b3A0X1MyY3NnVVUtZWFTWm8wTENpX0tBYXB4TDBWOUphVmxOLWZ3Nmh4VzJjcXV1eDV4eTdVQjJYczZ4aWxoQ1lUR0N0Y1NrWE5uT0VUVGt3UklfRk9FazVGV2tnbFFuNFZtN0xpdzVZa1pPRU1NN3VZRzNIT3hGdEhVTEtVdkNjSVgwWXVuVTlaUS1uNkh2VQ?oc=5"
       ]
     }
   ]
