@@ -1,154 +1,157 @@
 {
-  "job_id": "2026-11-27-evening-1801",
-  "chosen": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-  "reason": "This hands-on technical breakdown shows how AWS Trainium3 chips power high-speed video generation with LTX-2.5, offering creators and developers valuable insights into building next-gen AI media pipelines.",
+  "job_id": "2026-11-28-morning-0139",
+  "chosen": "India Emerges as AI Haven, Seeks Boost From New US Chip Curbs",
+  "reason": "It highlights India's growing importance in the global AI ecosystem as shifting US chip policies drive tech investments into Asian hubs.",
   "candidates": [
     {
-      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-      "score": 17.87,
-      "kinds": [
-        "official"
-      ],
-      "primary": true,
-      "links": [
-        "https://huggingface.co/blog/video-trainium3"
-      ]
-    },
-    {
-      "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
-      "score": 22.19,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlpTcUZELUljdWVKaFhzRENaa2IxZVVTTlh0SFg3MEZSRVBWdVlBUlpUZzVGOEdFTVo3NmlUY1Vxd0s3TXhBQVVmczRlWjEtdV93OXBHSV9ZaHdaVlpMbkRjYTRpdjNVVnU4UWpJWUtwWENST2o0RkhXNzZPNXZidVQ4bTdNLTN6cVdHcGxwMTU0T2JubjN2WW16MFBRblFVREtXMVpKYmVFeU1MV2ZuUFRxb9IBswFBVV95cUxPNlpTcUZELUljdWVKaFhzRENaa2IxZVVTTlh0SFg3MEZSRVBWdVlBUlpUZzVGOEdFTVo3NmlUY1Vxd0s3TXhBQVVmczRlWjEtdV93OXBHSV9ZaHdaVlpMbkRjYTRpdjNVVnU4UWpJWUtwWENST2o0RkhXNzZPNXZidVQ4bTdNLTN6cVdHcGxwMTU0T2JubjN2WW16MFBRblFVREtXMVpKYmVFeU1MV2ZuUFRxbw?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTd3BMbGI5cWlWbkEzU21nSjFkLWVRakpTVjI5b3ZUVlVlaFQ0V080Q0tSVmQzeDhPcTR5UEI5ZnZhMzRHNmItT1Q5cXFoWGFxSTJQNjBsZC1meTh0NzlGOHJ2ZjFRM2pSOXZFd3p5WVNSZ0dDeVJESXN5TWw?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjAydW5jeTN0emxYZzdLckZ3ZThDcnhhUlRXQkh0SmFDREJ4bURScl9zT0xoRHlkR0tObDV3ckJzTGF0YllfWnhRRWRQZlhzR1Nib1FwZ0F4TVJUVDNvTUZUZ2xBMHFUcW84MzRna0VRYV9SN0FZMmNmQldNUU9qa2RPN1ozRE1CTlZfS21BZ2VtdDRtWGM5SjRfbmUycXoyX3pmM0VtRUNDRjJrZlMyWnJnVQ?oc=5"
-      ]
-    },
-    {
-      "title": "SAP’s 10,000-Job AI Overhaul: What It Means for India’s Supply Chain Tech Stack",
-      "score": 19.44,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE56Yzd5eU1qVnI2NTRucU5qLUlUTXZGMEQzOTdTc0Z5TnhhODBwTFpiWDFvVkQzX0w1TkpPWnE2TGR5OVFiVDhUV0JkQk1vWDFKVkc2UmVQNlYwZUl4WnhteFFETUlGbDlKZFdGSFdR?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE56Yzd5eU1qVnI2NTRucU5qLUlUTXZGMEQzOTdTc0Z5TnhhODBwTFpiWDFvVkQzX0w1TkpPWnE2TGR5OVFiVDhUV0JkQk1vWDFKVkc2UmVQNlYwZUl4WnhteFFETUlGbDlKZFdGSFdR?oc=5"
-      ]
-    },
-    {
-      "title": "AI Could Unlock USD 600-700 Bn in Economic Value for Indian MSMEs, Says RBI Governor",
-      "score": 19.63,
-      "kinds": [
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUNIVjVQUHZJc0hERnFmYXhaS2FJZVZTNFBFSU00MGt1UWh1QzhtdWFBSUlQdFFmeUlEVk1nU1g2aGVFWmVaSUhUYk1hTzBReEFSLVJYNTVNZkZOQkVuRlVQa0lYLUgwWlR6azIza2lfdnpHRlk1UzBDS2hRNDJyS2ZJb2RGM3hPejhZcEc4WF9OeWpjQUdyZktXUVl5b1FMNDl3TENRR0FxU3p0VG9pemV3c3FJZ2VnREM4LU9SVl9PR1FkUUxr?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmlibkFoRkxXX1hsR3dibHlXZVZzdndYUEFBYThjRmVHeXJmdzJOcWduTnh6UEZhbThKVjh3ZTNYSVFsMkNBTU45Y2tMMU0xVE9GYThDc1dMamNfU3M5cUVzdnBQdWwtdkVBMWVpaDQwRnhDaV9lcDRHQkxHVzA2SUE5QmpTWE4xa3ZELWtSQ05idktUXzI0QUltdVV3aGZDU0xsNUFpTGVzME1tSEpNZXY3dkNxV0VzN3JudmVqT0daZkJwSXN1UlhEX29PeG5hYjI3aFEwa2JieU5qUnhJbTNn0gHiAUFVX3lxTE8yaWJuQWhGTFdfWGxHd2JseVdlVnN2d1hQQUFhOGNGZUd5cmZ3Mk5xZ25OeHpQRmFtOEpWOHdlM1hJUWwyQ0FNTjlja0wxTTFUT0ZhOENzV0xqY19TczlxRXN2cFB1bC12RUExZWloNDBGeENpX2VwNEdCTEdXMDZJQTlCalNYTjFrdkQta1JDTmJ2S1RfMjRBSW11VXdoZkNTTGw1QWlMZXMwTW1ISk1ldjd2Q3FXRXM3cm52ZWpPR1pmQnBJc3VSWERfb094bmFiMjdoUTBrYmJ5TmpSeEltM2c?oc=5"
-      ]
-    },
-    {
       "title": "India Emerges as AI Haven, Seeks Boost From New US Chip Curbs",
-      "score": 17.87,
+      "score": 21.84,
       "kinds": [
+        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGR5Q0NKeS1ELXBSSWNndVdxTTVWczlpSUplOWxaNEY0ZmNCdFVQMUg1bzlDVEozcVlRY2M0QTl0bFZjREEwNFFFMWlsM1BubzVCREFoa1pDMllpMmpSTUN2RWphelphY0VxT19BR0dSdVJrMEQ1ZXJ5ZXF4UVJsTmdTQXliSklnU3RtTVNBVmF6UlVPbVg4SkxPc21ZMmdJMHNPZi1tUXdlZVBWVHViV2NxeDF5bDRFX2dQUUVyTHAxd2ZSOFFKaw?oc=5",
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGR5Q0NKeS1ELXBSSWNndVdxTTVWczlpSUplOWxaNEY0ZmNCdFVQMUg1bzlDVEozcVlRY2M0QTl0bFZjREEwNFFFMWlsM1BubzVCREFoa1pDMllpMmpSTUN2RWphelphY0VxT19BR0dSdVJrMEQ1ZXJ5ZXF4UVJsTmdTQXliSklnU3RtTVNBVmF6UlVPbVg4SkxPc21ZMmdJMHNPZi1tUXdlZVBWVHViV2NxeDF5bDRFX2dQUUVyTHAxd2ZSOFFKaw?oc=5"
       ]
     },
     {
-      "title": "From Perplexity to Anthropic: Five Indian-origin tech leaders shaping the global AI industry",
-      "score": 19.59,
+      "title": "Instagram for TV takes on YouTube Shorts, brings Reels to Indian living rooms",
+      "score": 18.87,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0ZtSWpEQVZPY0d0aVhPWU5iVnZMZEdKaTd3cmNhU0lmTEtEVk1Vd3Q3c2NWakhJeVFVWXIyaXc4MUZJdWdMOFdQemt2R3lJNTNrRWJpaVhHNEl4NE1IRmxtQkVmRjhFM2ppc2xoeHo5emJSRDZtUURaaVdzTGJxX01rT0MzelBnY2RNMnI1OG1CRHE2ck5tVXprOFAxcXd1TzBJenpBejRqeTRTNXc?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0ZtSWpEQVZPY0d0aVhPWU5iVnZMZEdKaTd3cmNhU0lmTEtEVk1Vd3Q3c2NWakhJeVFVWXIyaXc4MUZJdWdMOFdQemt2R3lJNTNrRWJpaVhHNEl4NE1IRmxtQkVmRjhFM2ppc2xoeHo5emJSRDZtUURaaVdzTGJxX01rT0MzelBnY2RNMnI1OG1CRHE2ck5tVXprOFAxcXd1TzBJenpBejRqeTRTNXc?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0ZtSWpEQVZPY0d0aVhPWU5iVnZMZEdKaTd3cmNhU0lmTEtEVk1Vd3Q3c2NWakhJeVFVWXIyaXc4MUZJdWdMOFdQemt2R3lJNTNrRWJpaVhHNEl4NE1IRmxtQkVmRjhFM2ppc2xoeHo5emJSRDZtUURaaVdzTGJxX01rT0MzelBnY2RNMnI1OG1CRHE2ck5tVXprOFAxcXd1TzBJenpBejRqeTRTNXc?oc=5"
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM3RQRG1VdW94MUpzczdVVFM5V1RyNWVlX0thWFIxcElPN3ViOVNrRlJfcDZIT1FsN2FwaEVtUEwzbnVBbDdOcWlIQ2dQWEwxbWlCUFBiQXh0dlZCYlR3bEFSLVduNkEyQlN3NG9PRUxRS1ZjNnJwWDNGZThMbXk0aW8waXRhRmhUOVkwM1c3S0p2WTBvUjV3bURhVEdkNlV3Sjk2LWw5VmdtdWZjSldBbUNIdzU4OHNSX29oYnZpQlNydEQ1bUFSSkJ6N0l6c0dtY0xWZGQ1dDR1ejhreEdqeXNVZTg1WWx3VlRwX1VJRzDSAfYBQVVfeXFMUFpnN3ZMdDlUQnJjczhtZUQ5eV9mdzdyNlVNZ1ptUUNNel9FVF9XcjNUN3dIQUhfU0RReURiYmpLeVR1SkZBbldCLUNjRnZPcE5ncVJyMjlNLUxyYWYtME1UZDJTV3FBT2hLM09SY24wZ1N2OGpMWmF1bHM3NGs4OVN1NGQ2cloyTGt0ZjJZbzRUM1BaV3BRY0d2WVRSMHZiV3hrOE51OFRyczZOVjVURXpFZHVKNVg5aF9DMVFqYk1XQmllQmhGcjlfaFFIX3c2QnNHZ2VhZ3dsRjh0dnVlSjFEZVJzdE9mZXI4TXJ4ckNCR19ocXdR?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BY1M0TDljckRiSG5qRVZFQzdqQkYyNm5TajNONUVfYldaSUtZUGZGNGx6dUhfNTBKbzhmbGlmcmNiWFkySDRDQURpOTJaSkFTRjNKQU9nRDBiWUdoa2UtTVhSM3NleGVBQXFJczB30gFzQVVfeXFMTm5LVFdRam9meW1nYzh6OXQ2Y1lKd2JLUTdBZnozUDFMTS1ZNVUwUlJYTGNhNlJnNXhPQmpkczBBU1d5U21GYnB2bTU4dy00OVVndUphbmtmdWc2S2otTXFod01XMXNYRXlPMDNhYjYzV1pOOA?oc=5"
       ]
     },
     {
-      "title": "Left Behind or Sold Out: India's Public Schools Face an AI Trap",
-      "score": 19.72,
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "score": 43.99,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTlxTlMxMXZCaWNyazUyQ241SzFPNnhGTmRKZmhwLUgwMFJQVldaaVZfb3h5TFNxZkRYbXR4RklGa1RLM1huSEZWYXFyYnE5bERSWjNQTmpOZnRYS0RFZWFWd0hPSmVOeHFEcW9HOTBoSU9xeHpNamlQaFNad1ZrWDUtanZieXBmX2RyRDNraGd2WHVTendMYXRoSFd4SlV2QXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTlxTlMxMXZCaWNyazUyQ241SzFPNnhGTmRKZmhwLUgwMFJQVldaaVZfb3h5TFNxZkRYbXR4RklGa1RLM1huSEZWYXFyYnE5bERSWjNQTmpOZnRYS0RFZWFWd0hPSmVOeHFEcW9HOTBoSU9xeHpNamlQaFNad1ZrWDUtanZieXBmX2RyRDNraGd2WHVTendMYXRoSFd4SlV2QXc?oc=5"
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFNnMVlYZkZkOXB1Sk41M093UXdVMnBDZFZQMFFKQXhWeFVYZnlDYjVfNlJ1NFBvYnA4YWp2YjdTeWxEcGlad2RRb3pCd0JLVU5HNVZxRmlYTlVBNXVzSlk5TURYYXpBZERNMmUzTUZLVFF4ZDhyY3E2emE3MWtMZEZIY3A?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1RER0g3QVlKTURWb3dzd09SVHpENTZ3aUlLYnVCbE1EQmxEM29sNGd4VkQ1RTNFT3FlVWM0US05YTQ1alhhNHJkRHBkZDRScmRhZlBqU0JRQk9feEtGUTZ4bWtZbmxFWHlBaDdMWVQxSWJsTm54VTZqdUNuRDNyR1FHbi1aMVotT1F4cGo1YXdDMXlwT0Jlc2RwOV9LNk83RGFWZUhQak9PRlhNdkHSAa4BQVVfeXFMTWNUREdIN0FZSk1EVm93c3dPUlR6RDU2d2lJS2J1QmxNREJsRDNvbDRneFZENUUzRU9xZVVjNFEtOWE0NWpYYTRyZERwZGQ0UnJkYWZQalNCUUJPX3hLRlE2eG1rWW5sRVh5QWg3TFlUMUlibE5ueFU2anVDbkQzckdRR24tWjFaLU9ReHBqNWF3QzF5cE9CZXNkcDlfSzZPN0RhVmVIUGpPT0ZYTXZB?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFdlVEhybGpQYV9ReG1NbmVqd1ZjTnpRSU5NNGREOGhtc05VdENOcklpNzlBV2txbG1SM3MwWlpTLVB3Y2VpMml4Z25qU2dXeUo5VThqaG5RajRuSEVLYlhxZUNlOE1jdU1TOVRlMDdMb21SU2FmY216YkxYQ0FHLUpKXzRXRWFjbmJYelBMWTdhdU5FUmx0MmJQeDhZNG9GRl9JTHdRbEo2MFZRUTkwdmxNdkUxeW82XzJlNFVMV0d4Nzdm?oc=5"
       ]
     },
     {
-      "title": "5 Indian Cybersecurity Companies Redefining Digital Security",
-      "score": 19.49,
+      "title": "Putin Questions AI Dependence, India's Teen AI Prodigy Raul John Aju Delivers A Smart Reply",
+      "score": 17.91,
       "kinds": [
-        "backlog",
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZPNFhUamRVVm9iVUdVeXJpbkZmRk9QdkctdEc4N0oyeW5yT3YxXzljaDF4cFFpRFZiblV0dVVVa2FLaGk1Zjk2X3duOUFxTElRYU1QeG9CS3ljRVFGcnBPRUtOeENTWVk3WUkyemltUXc4ZjkyamdKTWFvb0NvMzlvR2pFY1JJcldESTNVNHJoYjY4MkRJYTJnNUhMLXZET0hOa2RFOURFS2pGYUNqMUhFeFJCUTQtOEpn?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZPNFhUamRVVm9iVUdVeXJpbkZmRk9QdkctdEc4N0oyeW5yT3YxXzljaDF4cFFpRFZiblV0dVVVa2FLaGk1Zjk2X3duOUFxTElRYU1QeG9CS3ljRVFGcnBPRUtOeENTWVk3WUkyemltUXc4ZjkyamdKTWFvb0NvMzlvR2pFY1JJcldESTNVNHJoYjY4MkRJYTJnNUhMLXZET0hOa2RFOURFS2pGYUNqMUhFeFJCUTQtOEpn?oc=5"
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzlOZ0x4RDZtR2ZhMnU4Z3VPbkVITlp4MTlVamRCdTFiWDNBYVBKbkFCYXVzaldHNXZqVnFOOFpvdUxJdjZRbEd3V2lXT2ZTNkdGZjJPXzduYmdBeFFtbnNIY2JYdElULVBZZFB0Y0JQSkx2VnRJYXY4eGFXNVgzUk1tUEhzUlVXUTFoMDF3UzBXNjR2X0FCYnI3VGZQdjl2cl9xazdlblJJSk5TdnJaVVVkMzdldzZoQWUxWlV2cjJnREQ0?oc=5"
       ]
     },
     {
-      "title": "OPPO K13x 5G and F29 5G Get Stable ColorOS 17 Update in India: Check What’s New",
+      "title": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+      "score": 19.41,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGF6V2ZIdGZ2Wndhc1BHY191b1p1TFhhV21ncXBJYWtrdUZyb3RxWFNLNTM2aTVZVjZvcjZnTGstMkdFQ05rb2JwRDRvYmJiWk9laHVMVmUtMEpqUWtaaFFhbm5MMEtnR1EwNkNOVy02ZnFUVjNPYTduVDlHMTZYRkczNTVJYVcwaFRpNTZwd3lVQ3cxSXloN0pLLU5ZNE5Jd1gzam1QSHl2bGxwc1czZUlGMFJwdnZHUXd6c1VCZ9IBvwFBVV95cUxPNGF6V2ZIdGZ2Wndhc1BHY191b1p1TFhhV21ncXBJYWtrdUZyb3RxWFNLNTM2aTVZVjZvcjZnTGstMkdFQ05rb2JwRDRvYmJiWk9laHVMVmUtMEpqUWtaaFFhbm5MMEtnR1EwNkNOVy02ZnFUVjNPYTduVDlHMTZYRkczNTVJYVcwaFRpNTZwd3lVQ3cxSXloN0pLLU5ZNE5Jd1gzam1QSHl2bGxwc1czZUlGMFJwdnZHUXd6c1VCZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVZnOVpURDRvWEdWaXJrR002YUJWLXAxcy1YbmxqV2JISnRxOTJPTnVwSGh5dlp5b3JCT3g5cTBkVGZOOFowSi1hdEUzWUpKbmE2YzZDRnZ2QmpzVGZpX1JEQU11M3ROS1RqQXJMOHFHRDUzZWpzeFpCS19PMkh3TXMySE51VDJSc2lUejc4bHllX1BwY3NvMjUtQ181eUh3ZGFXcnA4b1Rsb216UlhkRXBQVTF5TTA4RXJuQzRaSm80NmRHZTlKeg?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIWmFacGhpbE1nQzRiTWJJbzFXTWFHWEV4YzR2a1dzTDVDYXBzZHNac1NkaF9nb3l1OUs4WE42dlNxbXIzdGdRMTFRempEUXdkbDNyQmNuOEYyVFgzQ0JGaWVyWGY3bERKRUhHVXNwNVV0QUktMGRObkJzWUhfUQ?oc=5"
+      ]
+    },
+    {
+      "title": "Sony's Inzone H9 II gaming headset is 32% off for Black Friday",
+      "score": 17.92,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnQmg1QldGRWYtb1F3Zm42MVl0ZE52aEl2bFVaMFJVbVpweEZUOHBuWGlySG5ENjgtLTJkbUlvSXJYWG1yTXh2TmFFUF9pVEtUbjFQWC1XSTVLRXFJUEhIUDhhQjN4WGFtSDB5QlpxZjd4NndoQThWUUpmTFk?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnQmg1QldGRWYtb1F3Zm42MVl0ZE52aEl2bFVaMFJVbVpweEZUOHBuWGlySG5ENjgtLTJkbUlvSXJYWG1yTXh2TmFFUF9pVEtUbjFQWC1XSTVLRXFJUEhIUDhhQjN4WGFtSDB5QlpxZjd4NndoQThWUUpmTFk?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnQmg1QldGRWYtb1F3Zm42MVl0ZE52aEl2bFVaMFJVbVpweEZUOHBuWGlySG5ENjgtLTJkbUlvSXJYWG1yTXh2TmFFUF9pVEtUbjFQWC1XSTVLRXFJUEhIUDhhQjN4WGFtSDB5QlpxZjd4NndoQThWUUpmTFk?oc=5"
+      ]
+    },
+    {
+      "title": "Black Friday iPhone Deals: Save $1,200 On The iPhone Duo",
       "score": 17.87,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkJJbUcyMDZpc0xKakpLa2ZSY19UdUxzdkNzYzVoX0dQd21SSjlXV2ltaFRvRVhFYnVNVUJ3b09SaEVCNmdSZFVnTjVUemwwNml5LU1Bekp6UFFVSnh1UVJtUkNGT2h3enlPMkFmLVhTS21pRFQ4OU0ySDc3OGVyQ09ndTg0Mk9sbzIyRll4TWUzeV84bmFkOU5oa0pKTzcxRWdwVEwyVkwzUGNS?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWhCUkpvaW9zdjZET0hsV1g1M1huRW41ZjFmTHFvbVc5ZHh1V2FjcGpfS1htdmh4QVE5a1FzaUxPWE1la2xpSjhNUXVDQVBNWm5PRTFheWtBTnVHNUFQU1loYlpnRHpEUk8xSHdCOHVmMFpLSHhaQnBMNDNWcDNoVEx1dF94Yl9wSUVQYmNMZkdvdUlR?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWhCUkpvaW9zdjZET0hsV1g1M1huRW41ZjFmTHFvbVc5ZHh1V2FjcGpfS1htdmh4QVE5a1FzaUxPWE1la2xpSjhNUXVDQVBNWm5PRTFheWtBTnVHNUFQU1loYlpnRHpEUk8xSHdCOHVmMFpLSHhaQnBMNDNWcDNoVEx1dF94Yl9wSUVQYmNMZkdvdUlR?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWhCUkpvaW9zdjZET0hsV1g1M1huRW41ZjFmTHFvbVc5ZHh1V2FjcGpfS1htdmh4QVE5a1FzaUxPWE1la2xpSjhNUXVDQVBNWm5PRTFheWtBTnVHNUFQU1loYlpnRHpEUk8xSHdCOHVmMFpLSHhaQnBMNDNWcDNoVEx1dF94Yl9wSUVQYmNMZkdvdUlR?oc=5"
       ]
     },
     {
-      "title": "Space Comes to Campus: Sandip University Hosts ISRO’s Space on Wheels Exhibition",
-      "score": 19.55,
-      "kinds": [
-        "backlog",
-        "news"
-      ],
-      "primary": false,
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGROdWJBemNmOEZEeUhoY2hESE0wQVlVQ1JBaHVBd0ltTVh6anBDX2RBb2VNWVk0S2haY1hLMEg2cjdYTDQ1YU5LUDdkSDdZR0tVZUlYemVvZ1BkdXVwRWZ4eUh6YzBCeEc2NlhFNy10ZGtLLXQtbXNuZy1lUU4yNjBGVmo0b2ZLZ3YtRFItbjlKRlFyUDFNRlFEMEZBZEJjQnhnSlR2QzY5dmR0b2hmZTFuVUhjZVlHREhsS3lheEQ3OEFvTk1NSHF3NDRmWHEybFc3Nlk0VjFxNUE4dDlV0gHfAUFVX3lxTE1EZE51YkF6Y2Y4RkR5SGhjaERITTBBWVVDUkFodUF3SW1NWHpqcENfZEFvZU1ZWTRLaFpjWEswSDZyN1hMNDVhTktQN2RIN1lHS1VlSVh6ZW9nUGR1dXBFZnh5SHpjMEJ4RzY2WEU3LXRka0stdC1tc25nLWVRTjI2MEZWajRvZktndi1EUi1uOUpGUXJQMU1GUUQwRkFkQmNCeGdKVHZDNjl2ZHRvaGZlMW5VSGNlWUdESGxLeWF4RDc4QW9OTU1IcXc0NGZYcTJsVzc2WTRWMXE1QTh0OVU?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGROdWJBemNmOEZEeUhoY2hESE0wQVlVQ1JBaHVBd0ltTVh6anBDX2RBb2VNWVk0S2haY1hLMEg2cjdYTDQ1YU5LUDdkSDdZR0tVZUlYemVvZ1BkdXVwRWZ4eUh6YzBCeEc2NlhFNy10ZGtLLXQtbXNuZy1lUU4yNjBGVmo0b2ZLZ3YtRFItbjlKRlFyUDFNRlFEMEZBZEJjQnhnSlR2QzY5dmR0b2hmZTFuVUhjZVlHREhsS3lheEQ3OEFvTk1NSHF3NDRmWHEybFc3Nlk0VjFxNUE4dDlV0gHfAUFVX3lxTE1EZE51YkF6Y2Y4RkR5SGhjaERITTBBWVVDUkFodUF3SW1NWHpqcENfZEFvZU1ZWTRLaFpjWEswSDZyN1hMNDVhTktQN2RIN1lHS1VlSVh6ZW9nUGR1dXBFZnh5SHpjMEJ4RzY2WEU3LXRka0stdC1tc25nLWVRTjI2MEZWajRvZktndi1EUi1uOUpGUXJQMU1GUUQwRkFkQmNCeGdKVHZDNjl2ZHRvaGZlMW5VSGNlWUdESGxLeWF4RDc4QW9OTU1IcXc0NGZYcTJsVzc2WTRWMXE1QTh0OVU?oc=5"
-      ]
-    },
-    {
-      "title": "'AI Kid of India' takes selfie with Putin, breaks the internet",
-      "score": 17.86,
+      "title": "A self-oscillator expands the recordable radius of deep and local biosignals",
+      "score": 19.81,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaE50QWZ1MkVIajN5d0xKVU82alpJX04yWGp2dldNOEwzN1Z4d3RrbzAxVFVLNVBvQjJfM0MycXM5X3N1NVVMbUh6dHZIRXk2RHJvNjhwZW1LTTdjTnFnVjM5ai13NkJpY29NU1hSUENocTU2Tk45dy1zSHotTjlFbklkWXFxLWJhVWdzT2VnM0Z1RTNJaDJPd0xGVmJEREhhSmxac29QakJ5TURHSXRjT2dMakJkYjhZY2ZFNUZoTWxiV2NuWFY5QlljNGI1cHNJY0NIdWU2T0xJSjDSAd4BQVVfeXFMT3l5Y2kxM182YXRVeHIxUm5WMGlGVTVZOTBYNzVsUV8tYzRwcndWQVl1QzhkU3NHVnB1cjdCWF9sOF95ZFhPb1NqWDE1MmtaSlhpYUVJdlUyZDZuSEFBQzN4Z0wwWS1oQzljNXNLTHJVWDN4a0JHQnJqUHJVWm94UkxNTHpmam9faGRZLVFueWJCdGtKdEVhSEFkc21WWjdGYlpFb3NiZWI0YTktY1MyWmlwcjBvNC1RMUNkdW1PQk1tLXFBTzNpbkFFY1BKd05Zb0pndThucmJ4MXlvcFR3?oc=5"
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQzNnMXl0ajdLekdYN3FObEppR2NQUjlYbjVLSlhGdHpsaDFTZExwbkYydGNRdDk5OG0tTDh1S3RITEdsOWJNUVJYb0VJVTB0UmhzZDhNZXg2RVF1bVZlTTVKRnE?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQzNnMXl0ajdLekdYN3FObEppR2NQUjlYbjVLSlhGdHpsaDFTZExwbkYydGNRdDk5OG0tTDh1S3RITEdsOWJNUVJYb0VJVTB0UmhzZDhNZXg2RVF1bVZlTTVKRnE?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQzNnMXl0ajdLekdYN3FObEppR2NQUjlYbjVLSlhGdHpsaDFTZExwbkYydGNRdDk5OG0tTDh1S3RITEdsOWJNUVJYb0VJVTB0UmhzZDhNZXg2RVF1bVZlTTVKRnE?oc=5"
       ]
     },
     {
-      "title": "Air India & KM Malta Airlines elevate interline partnership to codeshare agreement",
-      "score": 19.57,
+      "title": "ESMO 2026 Redefines Early Breast Cancer Care: New Standards for HER2-Positive, Triple-Negative and HR-Positive Disease",
+      "score": 17.95,
       "kinds": [
         "news"
       ],
       "primary": false,
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTZCUUkzOE9GTWFDVDRnOXJwNU50aW9wTWtGWjFGX1QxbG1kNWdvQjRJeVI5WnVPOGthZmdZMWw4dFo4aVp4TVBod0I3WDJ1U29DeEppV0ZMUWhpWlNsZFE5RW9YeHhRS3VGc05nYWhkcHNQOGNUZnFUSlpMa003am9wT2cyWU04QjNUREZsb1JnaW94MXRZS1ZOTUg1UlhZVGdKTnJ6QV9CQ0hZUXZVbVZPSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXcyYlFadEozYXViS3FEZDROUUhvSmtfSE1iekN2VWZ1OXpYQWZJQ2RyT2JZS3ZlUzNpTVFIV1Vxa1ZPdDlCMTlJVWowQ3ZQc0FaZ0NkNW9GYnlYQWM5ZlMzanBjQW5TVmoxY3FKRWd1bjZRZnQ1YnhnWTJ6R2dkZkx1TlI3dERCN2gtSUtUMTY5WUN0eU9RTDZqbkJCMnlBOTVNMlU0UzZ0cUNTeFhnM0NsSlQtNmR1cm9rMGxoaFRnRDNCdXpMU29ZcmpYSFB0Wmc5WTF30gHbAUFVX3lxTE5WMXRiN2lCMHhYS3V3RHhobk9wWnlUY0ZBa3BMa0pXWU0xOGtCWU5JcHVqVU1kZ05DN1hMUGowaFRQQW9YVGFHMW14b3A0X1MyY3NnVVUtZWFTWm8wTENpX0tBYXB4TDBWOUphVmxOLWZ3Nmh4VzJjcXV1eDV4eTdVQjJYczZ4aWxoQ1lUR0N0Y1NrWE5uT0VUVGt3UklfRk9FazVGV2tnbFFuNFZtN0xpdzVZa1pPRU1NN3VZRzNIT3hGdEhVTEtVdkNjSVgwWXVuVTlaUS1uNkh2VQ?oc=5"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRS1ET3FRZlZNdnRSQjViQ3dHT2lfLUhpUC1BbDZmbVhGeElmbGdHZHVfQ0ZjNm1mSzVkOXBKQ0FxazhYdFJTNG9WR3pVS09kckp5N192M2E2REZ0QmxGZVlVV2NVc0pmREotaEg2OHZHU3EydWc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRS1ET3FRZlZNdnRSQjViQ3dHT2lfLUhpUC1BbDZmbVhGeElmbGdHZHVfQ0ZjNm1mSzVkOXBKQ0FxazhYdFJTNG9WR3pVS09kckp5N192M2E2REZ0QmxGZVlVV2NVc0pmREotaEg2OHZHU3EydWc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRS1ET3FRZlZNdnRSQjViQ3dHT2lfLUhpUC1BbDZmbVhGeElmbGdHZHVfQ0ZjNm1mSzVkOXBKQ0FxazhYdFJTNG9WR3pVS09kckp5N192M2E2REZ0QmxGZVlVV2NVc0pmREotaEg2OHZHU3EydWc?oc=5"
+      ]
+    },
+    {
+      "title": "Nanos remodels Drosophila germ granules into multiphase condensates for germ cell specification",
+      "score": 17.81,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYaGlqV1B3REZzbkdVTm1Uem5BUVpFUUdDb1QwMUVneS1wcHpxMXhzbWpKZnZnUEdSM1BRV20zQzlYNkp2RXNKVVVtbDRsd1FzTnJVekMtVzBZOU9OM0Zv?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYaGlqV1B3REZzbkdVTm1Uem5BUVpFUUdDb1QwMUVneS1wcHpxMXhzbWpKZnZnUEdSM1BRV20zQzlYNkp2RXNKVVVtbDRsd1FzTnJVekMtVzBZOU9OM0Zv?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYaGlqV1B3REZzbkdVTm1Uem5BUVpFUUdDb1QwMUVneS1wcHpxMXhzbWpKZnZnUEdSM1BRV20zQzlYNkp2RXNKVVVtbDRsd1FzTnJVekMtVzBZOU9OM0Zv?oc=5"
+      ]
+    },
+    {
+      "title": "Principles of locus-specific chromatin remodeling induced by therapeutic DNA integration",
+      "score": 17.81,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNE1QNUtGWEtQSjhtejFZR3RjV0pScWxadk5LckdHZDdRVVg1WnpHQW1UU1NiQnFvY3JWeW50OWRINnRBSWUwcjEwVFE4bUsyVkEzN0ZHNXhFb1QxV1Ew?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNE1QNUtGWEtQSjhtejFZR3RjV0pScWxadk5LckdHZDdRVVg1WnpHQW1UU1NiQnFvY3JWeW50OWRINnRBSWUwcjEwVFE4bUsyVkEzN0ZHNXhFb1QxV1Ew?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNE1QNUtGWEtQSjhtejFZR3RjV0pScWxadk5LckdHZDdRVVg1WnpHQW1UU1NiQnFvY3JWeW50OWRINnRBSWUwcjEwVFE4bUsyVkEzN0ZHNXhFb1QxV1Ew?oc=5"
+      ]
+    },
+    {
+      "title": "Documents point to possible CIA waterboarding of another detainee in Afghanistan — UPI",
+      "score": 17.96,
+      "kinds": [
+        "news"
+      ],
+      "primary": false,
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUm1FZUNWWHVvN091SWdOeWFSU1lReWQ5UGxRVWhKWWc5RHVzLTdNVFRYQ1FBX1JDWXBaRmJIV0VDV244UEp6Ymx0bEQ3RGVsaXF3aEdNMG00MEZVUzZpUjE1M0F1c2M1ejhlWmRabXY2UE1NeWoxR3ZRUUdwRFM5ZVhBdkZrd3R3VUdKTXFVaWFVRmFwOWx4LU1qRk1qN3RKRXFyUXlWajl0S09TRlpOaWZ1bHd5amNzSVllbF9OeTZwbWM?oc=5"
       ]
     }
   ]
