@@ -7718,5 +7718,49 @@
       }
     },
     "fetched": "2026-11-25T01:05:41.782935+00:00"
+  },
+  "2026-11-27-morning-0322": {
+    "history": [
+      {
+        "date": "2026-11-28",
+        "views": 20
+      }
+    ],
+    "info": {
+      "title": "India Sri Lanka AI Partnership Boosts UPI and Services #Shorts",
+      "topic": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services",
+      "category": "Breaking AI News",
+      "hook": "India and Sri Lanka expand AI ties",
+      "seconds": 48.2,
+      "primary_keyword": "India Sri Lanka AI partnership",
+      "qa_passed": false,
+      "posted_at": "2026-11-27T11:29:39.960603+00:00"
+    },
+    "links": {
+      "youtube": "https://youtube.com/shorts/fdKRtNXlNoY",
+      "facebook": "https://www.facebook.com/reel/1154646334037734",
+      "instagram": "https://www.instagram.com/reel/DgPkwfUR8ms/"
+    },
+    "platforms": {
+      "youtube": {
+        "views": 20,
+        "likes": 0,
+        "comments": 0,
+        "engagement_rate": 0.0
+      },
+      "instagram": {
+        "likes": 2,
+        "comments": 0,
+        "note": "insights unavailable: (#10) Application does not have permission for this action",
+        "engagement_rate": null
+      },
+      "facebook": {
+        "likes": 0,
+        "comments": 0,
+        "note": "insights unavailable: (#100) The value must be a valid insights metric",
+        "engagement_rate": null
+      }
+    },
+    "fetched": "2026-11-28T00:14:43.978548+00:00"
   }
 }
